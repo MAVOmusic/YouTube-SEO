@@ -3418,3 +3418,56 @@ A blended score would repeat the mistake that made me over-value the Chopin loop
 ## Input format
 \`.psarc\` filenames normally encode \`Artist - Song\`, which is enough. A listing or
 CSV is better. A bare count is not enough - names would be needed.
+
+================================================================================
+[Ver 4.7] - 2026-11-01 - CO-0012 + THE _SSL DATABASE
+================================================================================
+
+## CO-0012 - Taking Back Sunday, Cute Without The 'E
+`XBD9fBbSSMg`, 23-01-2025, 3:30, **10,723 views**, 63.9 h, **+85 subs**, GBP 0.00, **E4**.
+
+### The panel that closes a question open since CO-0007
+| Traffic source | Share |
+| --- | --- |
+| **YouTube advertising** | **86.6%** |
+| Channel pages | 10.9% |
+| Browse features | 1.3% |
+| Direct or unknown | 0.4% |
+| **YouTube search** | **0.2%** |
+
+YouTube names the paid source outright. MAVO's 01-11-2026 correction is now proven
+by evidence rather than by his word alone. **10,723 views is a purchase.** It says
+nothing about the song, the title or the bass part, and it leaves every organic
+average.
+
+The unbought 0.2% search slice contains `cute without the e`, `cute without the e
+cover`, `rocksmith 2014`, `rocksmith bass`. **The people who found it on purpose were
+searching for the SONG.** Best sentence in the capture for choosing what to play next.
+
+Quality: AVD 0:21, APV 10.2%, 19% at 0:30 (typical). Retention sits **above** the
+typical band for most of the runtime - a hard opening, not a bad song.
+
+**Cleanest E4 in the corpus** - no CDLC block, no psarc offer - and still E4. A clean
+description does not buy eligibility. Rights do.
+
+### Delivered
+- **Title** (82/100): `Underneath Cute Without the E, a Taking Back Sunday bassline argues with the vocal` - opener "Underneath" never used in twelve audits
+- **Desc**: opens on the song's own pun (Cute minus E is Cut = "Cut from the Team"), names both vocalists and Shaun Cooper, provenance honest with no site named
+- **Tags**: 21 at 499/500 down to **15 at 249**; nineteen of the old tags tagged the game
+- **Pin**: 122 chars, zero URLs, ends on a question
+
+**Open question:** `discord.gg/mavomusic` in the old pin is on neither the dead list
+nor the approved list. Used ESGsGkN4j2 in the new copy.
+
+## The _SSL database
+`_SSL/`, 28 files, 129,222 lines -> **11,333 bands / 49,891 songs**.
+125 artists owned, 153 songs packaged, **4,421 unused songs inside owned artists**.
+
+Written up as `TXT/SSL_Demand_Map.txt`. Six headlines:
+
+1. **The library is not the constraint.** 4,421 playable songs inside artists already proven.
+2. **The money lane is ~40 pieces out of 49,891.** 12 Bach, 8 Mozart, 3 Beethoven, 3 Chopin, 2 Vivaldi, plus Canon in D, Mountain King, Ride of the Valkyries, Can-Can, Ave Maria, Nutcracker, Adagio in G minor. Real-search shortlist is three: **Canon in D, Moonlight Sonata, Mountain King**.
+3. **Gershwin is a trap.** `I Got Rhythm` filed under ANONYMOUS (GEORGE GERSHWIN) looks public domain. Active estate. Tier C.
+4. **The 382.3k finding.** `System Of A Down - Lonely Day (Bass) #rocksmith` at **382,300 views** in CO-0012's viewers-also-watch panel - 35x the previous known corpus maximum, recorded in no file. SOAD: **62 songs in library, 3 packaged**.
+5. **"Viral" cannot be ranked.** The three biggest numbers are a 382.3k organic Short, a 10,723-view 86.6%-paid long form, and a 4,887-view 60.9%-news loop. One came from people looking for it. **The variable is the format and the first three seconds, not the song.**
+6. **What I cannot answer:** real `<song> bass tab` volume for 49,891 songs needs autocomplete or a keyword tool. Saying so beats guessing.

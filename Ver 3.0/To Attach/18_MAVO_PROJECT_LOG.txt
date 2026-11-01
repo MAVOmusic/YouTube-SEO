@@ -4704,3 +4704,108 @@ which is enough to rank from. A listing or CSV is better. A bare count is not
 enough - names would be needed first.
 
 ================================================================================
+
+================================================================================
+VER 4.7 - 2026-11-01 - CO-0012 TAKING BACK SUNDAY, AND THE _SSL DATABASE PARSED
+================================================================================
+
+CO-0012 - Cute Without The 'E', XBD9fBbSSMg, 23-01-2025, 3:30
+  10,723 views / 63.9 watch hours / +85 subs / 10.5k unique / GBP 0.00 / E4 flat
+
+*** THE PANEL THAT CLOSES SOMETHING I GOT WRONG IN CO-0007 ***
+    YouTube advertising 86.6%
+    Channel pages       10.9%
+    Browse features      1.3%
+    Direct or unknown    0.4%
+    YouTube search       0.2%
+
+Eighty-six point six per cent, and YouTube itself calls it advertising.
+
+Back in CO-0007 the external referrer list looked like spam and I implied it might
+be. MAVO corrected me: "Done back in the day Fiverr campaigns... I paid for youtube
+to advertise my videos." This capture is the proof of his version. There is no
+ambiguity left, no third explanation to chase, and nothing here that should ever be
+described as an attack, a bot, or fraud. It is what a cheap ad buy looks like:
+India 48.7%, Indonesia 38.4%, mobile 95.4%, no search traffic at all.
+
+CONSEQUENCE: 10,723 views is a purchase. It says nothing about the song, the title,
+the thumbnail or the bass part. It is excluded from every organic average. It is
+also, for the record, the second biggest number in this project, which is exactly
+why it needed the label.
+
+The only unbought part is a 0.2% search slice containing:
+    cute without the e / cute without the e cover / rocksmith 2014 / rocksmith bass
+Note which of those are the song and which are the game. The people who found this
+on purpose were looking for the SONG. That is the most useful sentence in this
+capture for choosing what to play next.
+
+QUALITY READ: AVD 0:21, APV 10.2%, 19% at 0:30 which YouTube calls typical. The
+retention curve sits ABOVE the typical band for most of the runtime and only flattens
+late. That is a hard opening followed by a song people did not mind hearing. The hook
+was never the problem.
+
+WHY E4: 2002 major-label release, current catalogue, Content ID on the master. This
+is the CLEANEST E4 in the corpus - no CDLC block, no psarc offer, no file offer - and
+it is still E4. Which is the whole point of the repertoire rule and worth restating:
+a clean description does not buy eligibility. Rights do.
+
+SURFACE FAULTS: title a machine string with a banned bracket opener; description a
+boilerplate shell with zero words about the song; tags 21 at 499/500 with NINETEEN
+of them tagging the game; pinned a four-link block with no question.
+
+COPY:
+  Title  Underneath Cute Without the E, a Taking Back Sunday bassline argues with
+         the vocal  (82/100, opener "Underneath" never used in twelve audits)
+  Desc   Opens on the song's own pun - Cute minus E is Cut, and the bracket says
+         "Cut from the Team". Names both vocalists and Shaun Cooper. Explains why
+         the part is worth learning. Provenance line honest, no site named.
+  Tags   15 at 249, down from 21 at 499/500.
+  Pin    122 chars, zero URLs, ends on a question.
+
+OPEN QUESTION: the old pin carries discord.gg/mavomusic. It is on neither the dead
+list nor the approved list. I used the approved ESGsGkN4j2 in the new copy. If
+mavomusic is a working vanity redirect it is the better link everywhere.
+
+################################################################################
+THE _SSL DATABASE
+################################################################################
+28 letter files, 129,222 lines, parsed clean to:
+    11,333 bands / 49,891 songs
+    125 artists have a bands/ package / 153 songs ever packaged
+    4,421 songs unused inside artists already owned
+
+Written up as TXT/SSL_Demand_Map.txt. Headlines:
+
+1. THE LIBRARY IS NOT THE CONSTRAINT. 4,421 playable songs inside the 125 artists
+   already known to work. That is years of uploads without a single new artist.
+
+2. THE MONEY LANE IS ABOUT 40 PIECES OUT OF 49,891. That is the entire public
+   domain Tier A list, and it fits on a page: 12 Bach, 8 Mozart, 3 Beethoven,
+   3 Chopin, 2 Vivaldi, plus Canon in D, Mountain King, Ride of the Valkyries,
+   Can-Can, Ave Maria, Nutcracker, Adagio in G minor. The honest shortlist by real
+   search demand is three: Canon in D, Moonlight Sonata, In The Hall Of The
+   Mountain King - aimed at studying and sleep search, not at a news cycle.
+
+3. GERSHWIN IS A TRAP. "I Got Rhythm" is filed under ANONYMOUS (GEORGE GERSHWIN),
+   which looks like the other anonymous classical entries. It is not. Active estate.
+   Tier C.
+
+4. THE 382.3k FINDING. CO-0012's "viewers also watch" panel showed:
+       System Of A Down - Lonely Day (Bass) #rocksmith ... 382.3k views, 1y ago
+   Thirty-five times the previous known corpus maximum and recorded in no file.
+   SOAD has 62 songs in the library and 3 packaged. 59 unused.
+   This is the most defensible recommendation the project has ever produced.
+
+5. WHAT "GO VIRAL" HONESTLY MEANS. The three biggest numbers in the corpus are:
+       382,300 ... a Short that broke out organically and nobody knows why
+        10,723 ... a long form that is 86.6% paid
+         4,887 ... a loop that is 60.9% news-suggested
+   One of the three came from people looking for it. So I will not rank this
+   library by viral probability - that would be the sixth retraction in this
+   project. The variable is the format and the first three seconds, not the song.
+
+6. WHAT I CANNOT ANSWER WITHOUT TOOLS I DO NOT HAVE: real "<song> bass tab" search
+   volume for 49,891 songs. That needs YouTube autocomplete or a keyword tool.
+   Guessing it would be worse than saying so.
+
+================================================================================

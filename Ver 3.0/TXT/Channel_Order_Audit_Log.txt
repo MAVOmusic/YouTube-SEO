@@ -2089,3 +2089,102 @@ WHAT CHANGED AND WHY
   one question that produces the next video.
 
 ================================================================================
+
+################################################################################
+CO-0012 | TAKING BACK SUNDAY - CUTE WITHOUT THE 'E' (CUT FROM THE TEAM)
+################################################################################
+Video ID      : XBD9fBbSSMg
+Published     : 23-01-2025   Runtime 3:30   Format: live stream gameplay clip
+Badge         : INELIGIBLE TO EARN (flat)
+Lifetime      : 10,723 views / 10.5k unique / 63.9 watch hours / +85 subs / GBP 0.00
+
+*** READ THIS FIRST: 10,723 VIEWS IS A PURCHASE, NOT A PERFORMANCE ***
+Traffic source, in YouTube's own words:
+    YouTube advertising ......... 86.6%
+    Channel pages ............... 10.9%
+    Browse features .............. 1.3%
+    Direct or unknown ............ 0.4%
+    YouTube search ............... 0.2%
+    Other ........................ 0.6%
+
+Eighty-six point six per cent of this video's traffic is labelled by YouTube as
+advertising. This is the first capture in twelve where the panel names the paid
+source outright, and it closes a question that has been open since CO-0007, when
+the external referrer list looked like spam and I wrongly implied it might be.
+
+MAVO corrected me on 01-11-2026 - "Done back in the day Fiverr campaigns... I paid
+for youtube to advertise my videos." This panel is the proof of it. The India and
+Indonesia geography, the 95.4% mobile share and the low CTR are not an anomaly and
+not an attack: they are what a cheap ad buy looks like.
+
+SO: 10.7k views is the second biggest number in the corpus and it means nothing
+about the song, the title, the thumbnail or the bass part. Exclude it from organic.
+The only part of this video that was not bought is the search slice, and it is 0.2%,
+made of six people:
+    rocksmith 2014 11.5 | rocksmith bass 11.5 | bass rocksmith 3.9 |
+    cute without the e 3.9 | cute without the e cover 3.9
+Note what those last two are: the song's own name. Not "rocksmith". The people who
+found this organically were looking for the song.
+
+QUALITY SIGNALS (the honest read)
+    Impressions 27,552 | CTR 4.2% (= 1,157 engaged views from impressions)
+    AVD 0:21 | APV 10.2% | 19% at 0:30 = YouTube says "typical"
+    96.1% of watch time from non-subscribers | bell 59 sent, 1.7% CTR, 1 view
+    Likes 95.2% vs 97.4% channel | end screen 1.2% vs 1.1% channel
+The retention curve sits ABOVE the typical band for most of the runtime and only
+flattens late, which is the signature of a hard first twenty seconds followed by a
+song people did not mind hearing. The hook is not the problem; the opening is.
+
+WHY IT IS E4 (ineligible, not claimed)
+    2002 major-label release, current catalogue, Content ID matches the master.
+    Nothing in this description is as dangerous as Black Parade's psarc offer. There
+    is no CDLC block, no file offer. This is the cleanest E4 in the corpus and it is
+    still E4 - which is the whole point of the repertoire rule.
+
+SURFACE FAULTS FOUND (all four surfaces needed rewriting, as agreed)
+  TITLE    machine string, 88 chars: "[Rocksmith 2014 Bass Cover] - Taking Back
+           Sunday - Cute Without The 'E' | Live Stream Gameplay". Bracket opener is
+           a banned pattern, Artist - Song middle, no bespoke claim.
+  DESC     boilerplate shell. "Every song you see here is played using Rocksmith
+           2014 Remastered, perfect for bass players who love learning and playing
+           along." Then a Steam link, a streaming schedule, four social links and a
+           generic hashtag row. Zero words about the song, the band or the bass.
+  TAGS     21 tags at 499/500 - the box is completely full. Nineteen of the
+           twenty-one are Rocksmith-prefixed. It tags the GAME twenty-one times and
+           the SONG twice.
+  PINNED   four links, no question, no hook, ends "Much love - Let's rock together!"
+           Contains discord.gg/mavomusic (see open question below).
+
+COPY DELIVERED
+  TITLE (82/100) - opener "Underneath", a shape never used in twelve audits:
+    Underneath Cute Without the E, a Taking Back Sunday bassline argues with the vocal
+    Keeps artist + song + bass in natural prose. Drops the apostrophes around the E
+    for two reasons: nesting quotes in a title reads badly, and the search panel
+    proves people type "cute without the e" with no punctuation.
+  DESC (1,805) - opens on the title's own pun (Cute minus E = Cut), names both
+    vocalists and Shaun Cooper, explains why the bass part is worth learning, keeps
+    the provenance line honest without naming a distribution site, removes the
+    boilerplate shell entirely.
+  TAGS (15 / 249) - down from 21 at 499/500. Leads with the two terms this video was
+    actually found on, then the song, then the artist. Every Rocksmith duplicate
+    collapsed to two entries.
+  PIN (122) - zero URLs, ends on a question that produces the next video.
+    The pun only works one way round - take the E out and it still lands. Which 2002
+    record should get this treatment next?
+
+OPEN QUESTION FOR MAVO
+  discord.gg/mavomusic appears in this pin. It is NOT on the dead list and it is not
+  the approved ESGsGkN4j2 invite either. I have used the approved one in the new
+  copy. Confirm whether mavomusic was a vanity redirect that still works - if it
+  does, it is the better link to use everywhere.
+
+*** THE THING FOUND IN THE SIDE PANEL, WHICH MATTERS MORE THAN THIS VIDEO ***
+"Viewers also watch" on this page:
+    System Of A Down - Lonely Day (Bass) #rocksmith .... 382.3k views, 1 year ago
+    Nena - 99 Red Balloons (Bass) #rocksmith .......... 2.0k views, 2 years ago
+    Steve Lacy - Bad Habit (Bass) #rocksmith ........... 528 views, 2 years ago
+382,300 views. The largest figure that has appeared anywhere in this project, and
+it is not captured in any file. The previous known maximum was 15,835 across twelve
+Shorts. See TXT/SSL_Demand_Map.txt for what to do with it.
+
+################################################################################
