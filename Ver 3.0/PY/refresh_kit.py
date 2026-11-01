@@ -68,6 +68,7 @@ MAP = [
     ('22_Repurposing_0001_0050.txt', 'TXT/Repurposing_0001_0050.txt'),
     ('23_Analytics_Of_Songs_0151_0200.txt', 'TXT/Analytics_Of_Songs_0151_0200.txt'),
     ('24_Channel_Order_Audit_Log.txt', 'TXT/Channel_Order_Audit_Log.txt'),
+    ('25_Channel_Analytics_Store.txt', 'TXT/Channel_Analytics_Store.txt'),
 ]
 
 AUTHORED = ['00_PASTE_PRIORITY.txt', '00_VISION_CHECK_FIRST.txt']

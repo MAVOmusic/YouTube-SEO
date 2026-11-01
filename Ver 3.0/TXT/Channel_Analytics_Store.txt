@@ -1,0 +1,193 @@
+# ============================================================================
+# MAVOmusic (@mavomusicyt) - CHANNEL ANALYTICS STORE  (CA-YYYY-MM-DD stream)
+# ============================================================================
+# Created: 2026-11-01 (VER 3.2) - first capture CA-2026-11-01.
+#
+# WHAT THIS IS
+#   The single source of truth for CHANNEL-level (not per-video) Studio analytics.
+#   MAVO uploads a dated folder every day (or nearly every day) to GitHub at
+#       _All Songs/0000 - Channel Analytics/Channel Analytics - YYYY-MM-DD/
+#           Realtime Performance - <time>.jpeg
+#           _01 Overview/  _02 Content/  _03 Audience/  _04 Revenue/
+#   Every capture is transcribed here verbatim, then a delta is computed against
+#   the previous capture, and the strategic read is appended.
+#
+# WINDOW DISCIPLINE (§11)
+#   The default channel window is "Last 28 days". It is a ROLLING window, so a
+#   day-over-day comparison is NOT a like-for-like comparison - label every delta
+#   "28d-rolling" and never call a single-day move a trend.
+#   Realtime (48h / 60min) is a live instrument, never a verdict.
+#
+# SECTION MAP FOR EACH CAPTURE BLOCK
+#   A. HEADLINE       views / watch time / subs / revenue vs "usual" band
+#   B. CONTENT        format split, new vs regular, impressions funnel, sources
+#   C. TOP CONTENT    last-28d leaderboard + AVD%, mapped against bands/ coverage
+#   D. AUDIENCE       behaviour mix, geo, age/gender, device, bell state
+#   E. REVENUE        month ladder, RPM, ad-type split
+#   F. REALTIME       48h + 60min + per-video live tail
+#   G. READ            what it means + what changes because of it
+# ============================================================================
+
+
+################################################################################
+## CA-2026-11-01 | capture 15:22 UK | window "Last 28 days" = 4 Oct - 31 Oct 2026
+################################################################################
+
+--- A. HEADLINE ---------------------------------------------------------------
+Views (28d)                9,995        (displayed "10k")   vs usual 19,200-29,800
+                           badge: "9.2% less than usual"
+Watch time (28d)           35.7 h       badge: "14.3% less than usual"
+Subscribers (28d)          -197         badge: "13% less than previous 28 days"  (NET LOSS)
+Est. revenue (28d)         GBP 0.79
+Live subscriber total      109,954      (channel metadata said 110,700+ in Ver 2.68 era)
+YouTube's own reason line  "Why are views lower than usual? - No content was uploaded,
+                            which led to fewer views." -> cadence, stated by the platform.
+
+--- B. CONTENT ---------------------------------------------------------------
+NEW VIEWERS (28d)          Shorts 2,600 | Videos 162 | Live 0
+REGULAR VIEWERS (28d)      Shorts 22    | Videos 4   | Live 0
+SUBSCRIBERS GAINED (28d)   Shorts +4    | Videos +2  | Live 0        (gross +6 vs net -197)
+VIEWS BY FORMAT (28d)      Shorts 9.5k (95.1%) | Videos 491 (4.9%) | Live 1 (0%)
+TYPICAL VIEWS (first 28d)  Shorts 790-1,100 | Videos - | Live -
+VIEWERS ACROSS FORMATS     Shorts only 86% | Both 5% | Videos only 9%
+IMPRESSIONS FUNNEL (28d)   190.6k impressions -> CTR 1.2% -> 2.3k engaged views
+                           -> 0:25 AVD -> 16.74 h watch time
+HOW VIEWERS FIND YOU (28d) YouTube search 82.6 | Sound pages 5.7 | Shorts feed 3.9 |
+                           Channel pages 2.7 | External 1.9 | Others 3.3
+TOP REMIXED                6 remix views, 0 remixes
+
+--- C. TOP CONTENT (last 28 days) --------------------------------------------
+ #   Title (as live)                                              Published    AVD%     Views   Package?
+ 1   009 Sound System - Dreamscape (Bass) #rocksmith #bass…        5 Jun 2024   0:18 59.2%    862   NO
+ 2   Restless Good Charlotte bass on 'A New Beginning'! #shorts   16 Jun 2026   0:20 69.1%    244   YES 0154S
+ 3   [bracket] Rocksmith Bass - 26 Or 6 To 4 (Chicago) Full Cover  31 May 2026   0:50 128.7%   152   NO  (repo has 0181/0331)
+ 4   Lostprophets - Last Train Home #rocksmith #bass #lostprophets 28 Jan 2025   0:16 46.6%     94   YES 0090/1512 (live video is legacy)
+ 5   9mm Parabellum Bullet - Inferno (TV Size) #rocksmith #bass…    7 Jul 2025   0:20 58.0%     85   NO
+ 6   Good Charlotte - A New Beginning #rocksmith #bass #goodch…     9 Jul 2025   0:22 62.4%     82   YES 0154 (live video is legacy)
+ 7   [bracket] Sabaton - En Livstid I Krig #rocksmith #bass #sa…  20 Jun 2025   1:02 173.7%    77   NO
+ 8   [bracket] Primus - South Park Theme #rocksmith #bass #pr…    10 Mar 2024   0:16 59.4%     73   NO
+ 9   [bracket] Alestorm - Rum #rocksmith #bass #alestorm          18 Oct 2025   0:06 17.9%     72   NO
+ 10  Maximum The Hormone - ChuChu Lovely MuniMuni MuraMura #…     4 Apr 2025   0:18 52.4%     66   NO
+
+COVERAGE VERDICT: **8 of the top 10 have no package in bands/ at all.** The two that
+do (Good Charlotte, Lostprophets) are being watched on their LEGACY Shorts, not the
+packaged assets. Corpus-wide only 110 of 308 packages have ever been Studio-audited.
+
+--- D. AUDIENCE --------------------------------------------------------------
+MONTHLY AUDIENCE           3.6k
+WATCH BEHAVIOUR            New 88.6% | Casual 10.7% | Regular 0.8%
+POPULAR WITH NEW VIEWERS   009 Dreamscape 791 | Good Charlotte 244 | Chicago 125 |
+                           Lostprophets 86 | Good Charlotte (LF) 77
+"VIDEOS GROWING YOUR AUDIENCE" (90d): 7 Shorts listed, and **every single one shows
+   "New viewers who returned: Low"** (Haunting 90s German industrial; Nu-metal Drop D
+   Linkin Park; Unlocking Mark Hoppus post-Blink +44; Krist Novoselic acoustic;
+   Stomping 2004 industrial Amerika; High-speed 2006 theatrical punk MCR; Pure 2007
+   pop-punk Paramore).
+DEVICE (watch time)        Mobile 62.0 | Computer 25.5 | TV 6.6 | Tablet 5.9
+SUBSCRIPTION SPLIT         Not subscribed 97.1% | Subscribed 2.9%  (watch time)
+GEOGRAPHY (views)          US 25.5 | Mexico 2.6 | Brazil 1.7 | UK 1.6 | Indonesia 0.7
+AGE / GENDER               Male 96.7% | 25-34 63.6% | 35-44 30.9% | 18-24 3.0% |
+                           13-17 2.5% | 45-54 0 | 55-64 0 | 65+ 0
+SUBTITLES                  95.4% no subtitles/CC
+BELL STATE                 "All notifications" 0.4% (428 users) - typical 10-30%
+                           "+ enabled YouTube notifications" 0.2% (174) - typical 5-20%
+WHEN VIEWERS ARE ONLINE     broad; strongest Sat/Sun and daily 17:00-22:00 local (GMT+0)
+
+--- E. REVENUE ---------------------------------------------------------------
+MONTH LADDER (est.)        May 1.31 | Jun 2.22 | Jul 2.89 | Aug 3.30 | Sep 1.20 | Oct 0.86
+AD TYPE SPLIT (28d)        Shorts Feed ads 0.76 | Watch page 0.03
+CONTENT PERFORMANCE        Videos tab: 0.03 revenue | 319 engaged views | RPM 0.08
+                           Top earners: "Rocksmith 2014 Bass Cover - Bu…" 0.02 |
+                           "Caroling through Brian Adam McCune…" (0153S) 0.01 |
+                           Thirty Seconds To Mars - Vafilla 0.00 | 4 HOURS LOOP 0.00
+
+--- F. REALTIME (15:22 UK) ---------------------------------------------------
+Last 48 h                  869 views (chart peak 870)
+Last 60 min                35 views
+Live tail (48h): 009 Dreamscape 179 (20.6% of the tail) | Chicago 26-6-4 11 |
+   16 Volt - Suffering You 11 | Sabaton - En Livstid I Krig 10 | Limp Bizkit 8 |
+   RHCP - Soul To Squeeze 8 | Pendulum - The Tempest 7 | 9mm Inferno 6 |
+   Rammstein - Keine Lust 6 | What To Expect At kick.com/mavomusic 6 |
+   Good Charlotte 5 | Tokio Hotel 5 | Rammstein - Spring 5 | Splashh 5 | 2 Unlimited 5
+Latest upload card         "That dark, fuzz-drenched Do I Wanna Know? riff is peak
+                            2010s indie!" - 16 h old, 90 views, CTR 1.2%, AVD 0:24
+
+--- G. READ (what it means) -------------------------------------------------
+
+G1  THE CHANNEL IS A SHORTS-ONLY, SEARCH-FED, NEW-VIEWER TREADMILL.
+    95.1% of views are Shorts; 86% of viewers never watch a long-form; 88.6% are new;
+    97.1% of watch time is non-subscribers; a single Short = 63.6% of all remaining
+    watch time on the channel (009 Dreamscape in the 90d "growing your audience" old
+    data aside). Verdict: the long-form library contributes almost nothing today.
+
+G2  SEARCH IS THE WHOLE ENGINE - 82.6% of views.
+    This is the single most important number in the capture. Nobody arrives from the
+    Shorts feed (3.9%) or Suggested (not even listed at channel level). Search means
+    KEYWORD MATCHING, and it is why the top-10 is populated by titles that literally
+    contain "Artist - Song #rocksmith #bass".
+
+G3  THE NEWEST UPLOAD PROVES THE KEYWORD LOSS.
+    "That dark, fuzz-drenched Do I Wanna Know? riff is peak 2010s indie!" contains the
+    song but NOT the artist ("Arctic Monkeys"), and it carries no platform token.
+    90 views in 16 h against a 790-1,100 typical band = ~90% under-performance, at
+    CTR 1.2%. A bespoke-only title cannot be matched to an "arctic monkeys bass" or
+    "rocksmith bass" query. This is the title contract fix in CONTEXT §32.
+
+G4  WE ARE OPTIMISING THE WRONG SONGS.
+    8 of the top 10 traffic earners have NO package (009 Dreamscape, Chicago, 9mm
+    Inferno, Sabaton - En Livstid I Krig, Primus, Alestorm - Rum, Maximum The Hormone).
+    The workspace's 308 packages were built in ID order, not traffic order. Only 110
+    have ever been audited. Work order must invert: package/repair what YouTube is
+    ALREADY serving (see §32 "traffic-first queue").
+
+G5  VIEW->FOLLOWER CONVERSION IS NEGATIVE.
+    Gross +6 subs in 28 days against a NET -197. YouTube is removing/cleaning subs
+    (109,954 live vs the 110,700+ in the Ver 2.68 record) while content adds almost
+    none. The bell is effectively dead: 428 total-notify (0.4%) vs a 10-30% norm.
+    Anything that depends on subscribers (premieres, notifications, LF launches) has
+    no distribution base right now. Growth must be 100% discovery-driven.
+
+G6  THE HOOK IS THE PRODUCT - AVD IS ALL OVER THE PLACE.
+    0:18-0:22 (52-62%) is the normal band; Sabaton 173.7% shows genuine looping
+    (a repeatable hit shape); Alestorm 0:06 / 17.9% and the 0:06 Alestorm-class are
+    hook failures - the short gives away nothing before the swipe. Record AVD% per
+    Short and treat <35% as a rewrite-the-opening trigger.
+
+G7  THUMBNAIL/CTR IS THE BIGGEST MECHANICAL LEVER FOR LONG-FORM.
+    190.6k impressions at 1.2% CTR = 2.3k engaged views. A move to 3-4% would triple
+    long-form reach without a single new upload. (Shorts CTR is less actionable, but
+    the same art discipline applies.)
+
+G8  REVENUE IS COLLAPSING AND SHORTS IS THE CAUSE.
+    Aug 3.30 -> Oct 0.86 (-74%) on ~10k views/28d, 96% of it Shorts Feed ads, video
+    RPM 0.08. There is no money in Shorts at this volume. Long-form (US 25.5% traffic,
+    25-44 male) is the only path back to meaningful RPM - which reinforces the new
+    upload plan, not Shorts volume.
+
+G9  THE FIX LIST IS NOW UNAMBIGUOUS.
+    (1) resume cadence - YouTube names it as the cause of the view drop;
+    (2) restore artist+song keyword strings into every title (§32 contract);
+    (3) traffic-first queue: package the 8 top earners + the live tail first;
+    (4) thumbnail/CTR programme on long-form;
+    (5) per-Short AVD% ledger with a <35% rewrite trigger;
+    (6) build long-form as the revenue lane, Shorts as the discovery lane.
+    Target math: 109,954 subs, 869 views/48h today; the standing goal is 1,000+ views
+    per HOUR -> x55. Currently 35 views/hour.
+
+################################################################################
+## TEMPLATE - append one block per capture (newest at the BOTTOM)
+################################################################################
+# ##############################################################################
+# ## CA-YYYY-MM-DD | capture HH:MM UK | window "Last 28 days" = DD Mon - DD Mon YYYY
+# ##############################################################################
+# --- A. HEADLINE ---   views | watch time | subs | revenue | usual band | badges
+# --- B. CONTENT ---    new/regular, format split, impression funnel, sources
+# --- C. TOP CONTENT --- 10 rows + package coverage verdict
+# --- D. AUDIENCE ---   behaviour, geo, age/gender, device, bell
+# --- E. REVENUE ---    month ladder, RPM, ad split
+# --- F. REALTIME ---   48h, 60min, live tail, latest-upload card
+# --- G. READ ---       what changed vs previous capture + what it means
+# ---------------------------------------------------------------------------
+# DELTA vs CA-YYYY-MM-DD:  views +/- | watch h +/- | subs +/- | rev +/- | CTR |
+#                          search share | bell | top-content swaps
+################################################################################

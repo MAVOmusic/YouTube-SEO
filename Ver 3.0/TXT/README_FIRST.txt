@@ -63,6 +63,7 @@ FILE MANIFEST (kit files 00-23):
   22_Repurposing_0001_0050.txt ........ closed tier boards
   23_Analytics_Of_Songs_0151_0200.txt . 0151+ screenshot analytics extension
   24_Channel_Order_Audit_Log.txt ...... CO-NNNN upload-order audits (§31; opened VER 3.1)
+  25_Channel_Analytics_Store.txt ...... CA-YYYY-MM-DD daily channel captures (§32; opened VER 3.2)
 
 CURRENT STATUS (VER 3.0):
   - 308 SEO packages; 308-record history (CSV + XLSX in sync); diversity gate
