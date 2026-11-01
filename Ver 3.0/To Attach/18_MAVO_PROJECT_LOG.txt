@@ -4644,3 +4644,63 @@ DELIVERED
   Pin    108 chars, zero URLs, asks the question that produces the next video.
 
 ================================================================================
+
+================================================================================
+VER 4.6 - 2026-11-01 - PHASE 4 QUEUED: THE CDLC LIBRARY AUDIT
+================================================================================
+
+MAVO will add a CDLC folder to the repo so the library can be browsed and turned
+into play recommendations. His timing: "These only once we done with noticeable
+amount of files."
+
+Nothing was started. No folder exists yet. What was done is the decision frame,
+written in advance, so that when the library lands the recommendations come from
+evidence and not from taste. This project has already retracted five claims that
+were made from instinct - the TV trend, the CTR decline, the APV reading, the bot
+traffic attribution and the one-hour loop - so a rubric written before the data
+arrives is worth more than one written after.
+
+THE SCORING ORDER, AND WHY IT IS THAT ORDER
+1. ELIGIBILITY FORECAST - heaviest weight.
+   Rights decide whether a video can ever earn, and 22 of the 23 long videos
+   audited are ineligible. So:
+     Tier A  public domain or unclaimed - pre-1900 classical, traditional, folk,
+             hymn. The ONLY tier with a proven earner: Chopin, GBP 0.54.
+     Tier B  genuinely obscure or self-released. Unknown, worth testing cheaply.
+     Tier C  major-published modern catalogue - Fearless, Roadrunner, Concord,
+             Sony, UMG, Warner, Reprise. Expect E4. Play for traffic, never money.
+2. PROVEN DEMAND SIGNAL.
+   "rocksmith bass" is the channel's top search term on almost every capture.
+   "rocksmith bass <artist>", "<song> bass" and "<song> bass tab" appear as real
+   queries. A song people already search for beats a song that only exists because
+   the chart happened to be available.
+3. FORMAT FIT.
+   3-5 minutes, a bass part audible in the game mix, learnable from a static tab.
+   This is a play along, not a lesson.
+4. NO DUPLICATE.
+   Check against the 308 packages in bands/ and the ten audited uploads first.
+
+THE OUTPUT MUST SPLIT TWO LANES AND NEVER BLEND THEM
+  "Play this for MONEY"  - Tier A only, and say plainly that even Chopin returned
+                           54 pence on 4,887 views at an 11p RPM.
+  "Play this for TRAFFIC" - Tier C, where search share is 60-70% and subscriber
+                           conversion runs 11-29%.
+A single blended score would repeat the exact mistake that made me call the
+Chopin loop valuable: it earns, yes, but it earns pennies, and its audience came
+from a news cycle rather than from people looking for the music.
+
+STANDING CAUTIONS ON EVERY RECOMMENDATION
+  - Browsing CDLC to CHOOSE SONGS is fine. The copy must never offer, link to or
+    imply a downloadable chart file. That is the Black Parade psarc problem, and
+    the Chopin video proves a CDLC mention is not itself the issue.
+  - Never tag a licensed song as CDLC or custom - the X-Kid and Black Parade
+    contradiction.
+  - Start every new play along on the song. The three 2024 videos that opened on a
+    score card hold 10-19% at 0:30; the five that opened on the music hold 62-70%.
+
+INPUT FORMAT NOTE
+If the folder holds .psarc files, the filenames normally encode "Artist - Song",
+which is enough to rank from. A listing or CSV is better. A bare count is not
+enough - names would be needed first.
+
+================================================================================
