@@ -3318,3 +3318,66 @@ All 118 moved paths tracked as **renames**, so history is preserved. Empty range
 need `.gitkeep` or git will not store them. Past 0100: `0001 - 0100/0001 - 0010/`.
 New `_All Songs/README.md` documents the convention and the two-numbering-system
 warning. Nothing reads these paths programmatically, so buckets are free to move.
+
+================================================================================
+[Ver 4.5] - 2026-11-01 - CO-0011 CHOPIN 4-HOUR LOOP: ELIGIBLE IS NOT PROFITABLE
+================================================================================
+
+**Capture:** 11 panels, `MH4HCJTD-Cs`, 02-11-2022, **4:00:33**, 4,887 views.
+
+## Correction first
+My register entry called this a **one-hour** loop. It is a **four-hour** loop. MAVO
+corrected it; the runtime and the video's own title said four hours all along. The
+entry is corrected in place, because the length IS the product.
+
+| Metric | Value |
+| --- | --- |
+| Views / watch / subs | 4,887 / **1,900 h** / +64 |
+| Revenue / CPM / RPM | **GBP 0.54** / GBP 3.97 / **GBP 0.11** |
+| Impressions / CTR | 7.7k / 2.6% |
+| AVD / APV | 23:46 / 9.9% |
+| Still watching at 0:30 | **101%** (looping) |
+| Traffic | **Suggested 60.9%**, end screens 31.0%, **search 0%** |
+| Devices | **mobile 91.1%**, TV 0% |
+| Geography | India 33.1%, Indonesia 3.5%, Pakistan 2.6%, Bangladesh 2.6% |
+
+## The finding that reframes it
+Four of the five visible suggested sources are **breaking-news videos about the
+Imran Khan shooting of 03-11-2022** - the day after this loop published. The loop
+was served next to rolling news.
+
+That one fact explains the geography, the 91.1% mobile share, the passive 23-minute
+average, the 101% loop figure and the 11p RPM.
+
+## So: two rules, not one
+1. **RIGHTS decide ELIGIBILITY.** Public domain, nothing to claim, ads run. Holds.
+2. **AUDIENCE decides REVENUE.** News-driven traffic earns geographic CPM.
+
+**RPM 0.11 = about GBP 10 per 90,000 views. Four hours of looping produced 54p.**
+Two versions of this project implied rule 1 was the whole story. It is not.
+
+## Answer to "I can do more in the future if works out"
+- **Do it** - the only genuinely eligible lane here, when 22 of 23 audited long videos are ineligible
+- **It already bought 1,900 watch hours**, the largest watch-time asset measured
+- **It does not buy money at scale** on this audience
+- **Change one thing:** aim the next one at an audience that **searches** - this video has **0% search traffic** and depends on one week of breaking news from Nov 2022
+- **Honest ceiling:** ten more loops might produce a few pounds
+
+**The asymmetry worth knowing:** this loop earns today but is news-dependent with
+no search life. The play alongs cannot earn but are 60-70% search-driven. Over time
+the ineligible series is the more durable asset.
+
+## CDLC theory narrowed a third time
+This description **names CDLC and CustomsForge** and tags carry `cdlc` and
+`customsforge` - and it monetises at E2 revenue share. So *describing* provenance
+does not block a video. *Offering to send the file* is what Black Parade does, and
+that is different. **A CDLC reference is not fatal; a redistribution offer is urgent.**
+
+## Third dead invite
+`discord.gg/afnuBTBxiq` in this description - not previously flagged.
+
+## Delivered
+- **Title** (59ch): `Four hours of Chopin's Nocturne Op. 9 No. 2, played on bass` - opener "Four" 0 prior uses, ninth distinct shape
+- **Description** (1,533ch): the four musicology paragraphs **kept** - the only real substance in any description in the corpus - with everything around them rebuilt
+- **Tags**: 27 at 493/500 -> **15 at 233**, the biggest tag change in the audit; leads with classical and study queries the video has never had
+- **Pin** (108ch): zero URLs, asks what to loop next
