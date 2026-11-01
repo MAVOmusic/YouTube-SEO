@@ -314,6 +314,59 @@ format - the set goes on, the bass comes out, the phone stays down. Do not judge
 this format on mobile-era assumptions, and do not write it off as low-value
 traffic on a device basis.
 
+--- MR-0007 | CO-0006 | Motionless In White - America [PLAY ALONG] ---------------
+Video ID           : 1E1V2vOxFuw
+Upload / date      : 26-10-2022 | 3:50 | 333 views | 9.0 h | +58 subs
+Notices badge      : E4 INELIGIBLE  ("Ineligible to earn", Ads off) | GBP 0.00
+Description risk   : the same six-block 2022 template as MR-0003/0005/0006.
+Pinned risk        : identical stale pin - three links, weekly EST schedule,
+                     subscribe-begging opener, dead discord.gg/Hguy3JCXn.
+Tags               : 26 at 497/500.
+Cause hypothesis   : E4-a CLAIM-DRIVEN, Fearless / Roadrunner catalogue.
+Traffic verdict    : BEST RECRUITER IN THE CORPUS. +58 subs from 333 views and
+                     197 unique viewers = 29.4% conversion, against 11.1%
+                     Masterpiece, 7.3% Another Life and 16.8% Abigail.
+                     Playlists are 17.4% of traffic, the highest in the series.
+Recreation verdict : KEEP, REWRITE THE SURFACE. Never earning; it is the single
+                     most efficient subscriber-acquisition video measured so far.
+
+--------------------------------------------------------------------------------
+THE SERIES SO FAR - 4 OF 8 AUDITED (running totals)
+--------------------------------------------------------------------------------
+                    views  unique  subs  conversion  playlists  APV
+  Masterpiece         790     459   +51       11.1%       8.9%   56.2%
+  Another Life        989     534   +39        7.3%       9.8%   52.8%
+  Abigail             356     220   +37       16.8%      12.6%   47.4%
+  America             333     197   +58       29.4%      17.4%   42.5%
+  ---------------------------------------------------------------
+  TOTAL             2,468   1,410  +185
+
+TWO CLEAN MONOTONIC SERIES, POINTING OPPOSITE WAYS:
+  Subscriber conversion  11.1 -> 7.3 -> 16.8 -> 29.4   RISING as views fall
+  Playlist share          8.9 -> 9.8 -> 12.6 -> 17.4   RISING
+  APV                    56.2 -> 52.8 -> 47.4 -> 42.5  FALLING
+Read: the small videos are saved and subscribed to, the big ones are watched
+longer. The series' total subscriber yield (+185) matters more than any single
+video's view count, and it is the number that settles the keep-or-remove
+question MAVO asked on CO-0003.
+
+--------------------------------------------------------------------------------
+CORRECTION TO VER 3.9 - THE TV TREND WAS OVER-CLAIMED
+--------------------------------------------------------------------------------
+Ver 3.9 stated TV share was rising 34.7 -> 41.5 -> 47.8 and is now corrected:
+America reads Computer 45.0% | TV 33.2% | Mobile 16.0%, so computer leads.
+WHAT SURVIVES: mobile is the smallest real screen in all four captures
+(34.2 / 31.0 / 16.1 / 16.0). The honest rule is "watched on a screen people sit
+in front of, with mobile a minority throughout", NOT "TV is rising". Whether TV
+or desktop leads seems to track the song (Abigail TV-led, America desktop-led,
+plausibly because drop-D reference material gets opened next to a DAW or tab) -
+a hypothesis for future captures, not a finding.
+ALSO CORRECTED: CTR is not trending down. 9.3 / 8.5 / 5.2 / 6.1 is noise around a
+mid-single-digit band. The thumbnail problem is still real and still needs fixing,
+but it must not be argued with a falling line that does not exist. APV IS the
+monotonic metric (56.2 -> 42.5), so retention share, not click rate, is the
+open question.
+
 ################################################################################
 ## THE REPERTOIRE RULE (NEW VER 3.7 - the real determinant of earnings)
 ################################################################################
@@ -337,14 +390,14 @@ wave at 1/3 of the Shorts wave's total revenue on 1/3 of the views.
 ################################################################################
 ## ROLL-UP (updated every capture)
 ################################################################################
-Captures audited         : 5 single-video (CO-0001 to CO-0005) + 1 wave (CO-W01)
+Captures audited         : 6 single-video (CO-0001 to CO-0006) + 1 wave (CO-W01)
                            + 1 full-series screen (CO-0003-SERIES, 8 play alongs + 1 loop)
 E1 EARNING-NO-CLAIM      : 0        (still none - see E2)
 E2 EARNING-REV-SHARE     : 1        <-- FOUND 01-11-26: Chopin Nocturne 1hr loop,
                                        4,887 views, GBP 0.54. MAVO was right that
                                        a few exist.
 E3 CLAIMED-NOT-EARNING   : 0
-E4 INELIGIBLE            : 17       (CO-0001 to CO-0005 + 12/12 of the Aug shipment)
+E4 INELIGIBLE            : 18       (CO-0001 to CO-0006 + 12/12 of the Aug shipment)
 E5 BLOCKED               : 0        (4 of the Aug LFs are PARTIALLY blocked)
 E6 UNKNOWN               : 1        (Chevelle - no package, no claim card read yet; now CO-0004)
 Remakes queued           : 0        <-- deliberately: a claimed cover re-claims

@@ -2950,3 +2950,73 @@ end screens are doing nothing on this video.
 
 *   **Next:** America (333) and Immaculate Misconception (510) on the 2022 shell;
     then X-Kid (407), Black Parade (504), .38 Special (1,347) on the 2024 shell.
+
+================================================================================
+[Ver 4.0] - 2026-11-01 - CO-0006 AMERICA: BEST RECRUITER, TWO CORRECTIONS
+================================================================================
+
+**Capture:** 11 panels, `1E1V2vOxFuw`, 26-10-2022, 3:50, 333 views.
+
+| Metric | Value |
+| --- | --- |
+| Views / watch / subs | 333 / 9.0 h / **+58** |
+| Unique viewers | 197 |
+| Subscriber conversion | **29.4%** - highest measured in the project |
+| Playlists | **17.4%** - highest in the series |
+| Impressions / CTR | 4.3k / 6.1% |
+| AVD / APV | 1:37 / 42.5% |
+| Still watching at 0:30 | 62% (above typical) |
+| Top device | **Computer 45.0%** |
+| Revenue | **GBP 0.00** - Ineligible / Ads off |
+
+## The four audited play alongs
+
+| Video | Views | Unique | Subs | Conversion | Playlists | APV |
+| --- | --- | --- | --- | --- | --- | --- |
+| Masterpiece | 790 | 459 | +51 | 11.1% | 8.9% | 56.2% |
+| Another Life | 989 | 534 | +39 | 7.3% | 9.8% | 52.8% |
+| Abigail | 356 | 220 | +37 | 16.8% | 12.6% | 47.4% |
+| America | 333 | 197 | **+58** | **29.4%** | **17.4%** | 42.5% |
+| **TOTAL** | **2,468** | 1,410 | **+185** | | | |
+
+**Conversion rises as views fall.** The small videos are saved for practice and
+subscribed to; the big ones are simply watched. **2,468 views and +185
+subscribers settles the keep-or-remove question** MAVO asked on CO-0003.
+
+## Correction 1 - the TV trend was over-claimed
+Ver 3.9 claimed TV share rising 34.7 -> 41.5 -> 47.8 as "one direction".
+America reads **computer 45.0% / TV 33.2%**, so the chain breaks and computer
+leads. Retracted in CONTEXT.
+
+What survives: **mobile is the minority in all four** (34.2 / 31.0 / 16.1 /
+16.0). Honest rule: a screen people sit in front of, not a phone. Whether TV or
+desktop leads appears to track the song - hypothesis, not finding.
+
+## Correction 2 - CTR is not declining
+9.3 / 8.5 / 5.2 / **6.1** is noise in a mid-single-digit band. The thumbnail
+defect is real (identical cards, end screen CTR **0.0%** on both Abigail and
+America) but must be argued from those facts, not a falling line.
+
+**The monotonic metric is APV: 56.2 -> 52.8 -> 47.4 -> 42.5.** Retention share is
+the genuine open question.
+
+## Search
+`rocksmith bass motionless in white` at **1.5%** is the largest single search
+term recorded in this project, and it is the combined platform-plus-artist query
+the house formula is built to feed.
+
+## Template caught before it shipped
+The first title draft, `America by Motionless In White, ...`, is **Abigail's**
+construction. Rejected at the gate; the delivered title is a fourth distinct
+shape.
+
+## Delivered
+- **Title** (70ch): `Drop D the whole way through Motionless In White's 'America' bass line` - opener "Drop", 0 prior uses
+- **Description** (1,228ch): six bracketed blocks and CDLC placeholder deleted
+- **Tags**: 26 at 497/500 -> 18 at 360
+- **Pin** (124ch): three links, weekly schedule, subscribe begging, stale Discord removed
+
+**MR-0007** logged, E4 roll-up 17 -> 18. Series 4 of 8.
+
+*   **Next:** Immaculate Misconception (510) - the last 2022-shell video. Then
+    X-Kid (407), Black Parade (504), .38 Special (1,347) on the 2024 shell.
