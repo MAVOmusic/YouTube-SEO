@@ -2484,3 +2484,46 @@ bash verify.sh
 
 *   **Outstanding user action:** paste the new 0085 Shorts title into YouTube Studio if 0085S is already live (0074S keeps its `Monstercat Uncaged...` opener).
 *   **Next:** continue the 0155+ Studio conveyor (0155L/0155S panels), then the parked 0070–0083 panel backfill, then the legacy-Shorts SEO backlog.
+
+## [Ver 3.1] - 2026-11-01 | CO-0001 — BURZUM "AUTUMN LEAVES" (1-HOUR LOOP): FIRST CHANNEL-ORDER AUDIT
+
+### 🎯 Task Summary & Strategy:
+
+*   **New work stream (§31).** MAVO begins re-auditing the channel in **upload order, oldest first**, uploading one folder per video to GitHub under `_All Songs/NNNN - Artist - Song (Long Form)/` with `_01 - Main Info/` (Title & Description, Tags, Pinned) and `_02 - Analytics/` (Overview 1-2, Reach 1-2, Engagement 1-2, Audience 1-2, Revenue).
+*   **Numbering collision resolved and codified:** `_All Songs/NNNN` is **upload chronology** (0001 = Burzum, published 22-03-2022); `bands/.../NNNN` is the **canonical song ID** (0001 = Squeeze – Cool for Cats; Burzum – Autumn Leaves exists only as Shorts-era packages 0120 / 0372 / 1791). Channel-order records are keyed **CO-NNNN** in the new `TXT/Channel_Order_Audit_Log.txt`, shipped in the kit as `24_`.
+*   **CO-0001 read:** 12 panels, window "Since published" 22 Mar 2022 – 1 Nov 2026 (1,685 days). 2,895 views, 1,900 h watch time, +33 subs, 3.5k impressions, 2.9% CTR, 2.6k unique viewers, AVD 38:41 / APV 62.0%, Suggested 86.4%, Playlists 4.9%, search 0.8%, mobile 90.9%, non-subscribed 95.1%, India 29.4% / US 21.5%, likes 100% (channel 97.4%), end-screen CTR 0.0% (channel 1.1%), "Ineligible to earn".
+*   **Verdict: REWRITE ALL FOUR** (title, description, tags, pinned). Keep the video, URL and start-soon role — no delete/re-upload.
+*   **D1 — retention is self-watch, not content.** MAVO uses the loop as his start-soon screen and the first ~8 minutes of average watch time are his own; the retention curve holds a machine-flat ~33% band from 0:00 to 31:12 then collapses to ~4%. New §31 rule: utility-class assets (loops / start-soon beds) never receive AVD badges, gap-ladder entries or flop/breakout stamps.
+*   **D2 — the real SEO fault:** 86.4% of traffic is Suggested, and the top four sources are a Venom trailer, a Friends reunion trailer, an Indian news stream and a Dom trailer — no music at all. The metadata (container-style title, a nine-link Kick/Discord/Rumble/TikTok/X wall, channel-brand tags) gave the classifier nothing to match on.
+*   **D3-D9:** low-value delivery lane (India 29.4% / mobile 90.9% / 95.1% non-sub); search 0.8% against unfilled demand (`burzum autumn leaves` 9.1%, `one way autumn 1 hour` 4.6%); "Ineligible to earn" is a claims/policy state, not an SEO fix; end-screen CTR 0.0%; **genre label in the corpus is wrong for this song** — *The Ways of Yore* (2014) is Ambient / Dungeon Synth, yet 0120 / 0372 / 1791 all claim "Black metal, atmospheric black metal"; pin duplicates the description link wall (zero-URL pin rule) with 0 replies in 4 years; 15 tags with zero song identity.
+*   **Approved copy:** 76-char title `Burzum Autumn Leaves 1 Hour Loop — calm dungeon synth for study & start soon`; bespoke description with 2 allowlisted links, `**Genres:** Ambient, dungeon synth`, a byte-unique gear line and 6 brand hashtags; 8 evidence-led tags (golden `rocksmith bass` = #1 live term, `burzum autumn leaves` #2); zero-URL pin that also teaches the classifier the use-case.
+*   **MAVO-side actions:** new "1 HOUR" thumbnail, keep in "Starting Soon...", create a "1 Hour Bass Loops" playlist, add one end-screen element, and answer YES/NO on the genre-line correction for the three Burzum packages.
+
+### 🐍 Python Scripts & Bash Commands Used:
+
+```bash
+git fetch origin && git reset --hard origin/main     # repo history was re-uploaded; realign
+python3 -   # gate-check the drafted title/desc/tags/pin against all 308 packages
+            # (opener uniqueness, boilerplate reuse, gear-line byte-uniqueness,
+            #  link allowlist, tag anatomy, S20 wording, retired phrases, ID leak)
+```
+
+### 📝 Files Created & Modified:
+
+*   **NEW:** `TXT/Channel_Order_Audit_Log.txt` (CO-NNNN stream, full CO-0001 record); `To Attach/24_Channel_Order_Audit_Log.txt`.
+*   **MODIFIED:** `CONTEXT_BLOCK.txt` (VER 3.1 + new §31 + status entry), `MAVO_PROJECT_LOG.txt`, `MAVO_VERSION_LOG.txt` (this entry), `PY/refresh_kit.py` (kit map + `24_`), plus the regenerated kit copies.
+
+### ✅ Verification:
+
+| Check | Result |
+|---|---|
+| Drafted title opener `burzum` | unique across 188 LF / 178 SF openers ✓ |
+| Drafted description first line | unique across 188 LF hooks ✓ |
+| Boilerplate sentence/line reuse (≥4) | none ✓ |
+| Gear line | byte-unique vs all 166 gear lines ✓ |
+| Description URLs | 2, both allowlisted ✓ (pin: 0) ✓ |
+| Tags | 8 in range, `rocksmith bass` + song identity, ≤1 genre lane, no dupes ✓ |
+| §20 wording / retired phrases / ID leak | clean ✓ |
+| Workspace gate (unchanged corpus) | both tiers green, 308 packages, 0 violations ✓ |
+
+*   **Next:** CO-0002 onward in upload order. MAVO pastes the four blocks into Studio and answers the genre-correction question (bands/ 0120 / 0372 / 1791).

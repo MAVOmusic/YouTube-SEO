@@ -1,0 +1,251 @@
+# ============================================================================
+# MAVOmusic (@mavomusicyt) - CHANNEL-ORDER AUDIT LOG  (CO-NNNN stream)
+# ============================================================================
+# Created: 2026-11-01 (VER 3.1) - first entry CO-0001.
+#
+# WHY THIS FILE EXISTS
+#   MAVO is re-auditing the channel in UPLOAD ORDER, oldest first, using the
+#   screenshot sets uploaded to GitHub under  _All Songs/NNNN - Artist - Song/.
+#   That NNNN is an UPLOAD-CHRONOLOGY number and it is NOT the canonical song ID
+#   used by bands/:  upload 0001 = Burzum - Autumn Leaves (March 2022), while
+#   canonical package 0001 = Squeeze - Cool for Cats. The two systems must never
+#   be conflated. Channel-order records therefore live HERE, keyed CO-NNNN, and
+#   each record states which bands/ package (if any) the song currently has.
+#
+# READING A RECORD
+#   Every value is transcribed from the Studio panels in
+#   _All Songs/CO-NNNN - Artist - Song (Long Form)/. Window and instrument are
+#   labelled on every number (§11: a realtime column is never a lifetime verdict;
+#   since-published is the verdict instrument).
+#
+# SECTION 21 NOTE
+#   Copy approved here is written against the full corpus ruleset (uniqueness,
+#   boilerplate caps, link policy, tag anatomy, §20 wording). Anything proposed
+#   for a NEW bands/ package must additionally clear `bash verify.sh`.
+# ============================================================================
+
+
+================================================================================
+CO-0001 | Burzum - Autumn Leaves (LONG FORM, 1-hour loop)
+================================================================================
+Video title on box : [1 HOUR LOOP FOR RELAX] Burzum - Autumn Leaves #rocksmith #bass #burzum
+Live URL           : https://youtu.be/53qDMLlxAeU
+Runtime            : 1:02:24   |   File: "Burzum - Autumn Leaves_Final.mp4"
+Published          : 22-03-2022 (premiere, 22 Mar 2022)  -  still Public
+Earning status     : ⛔ "Ineligible to earn" (red notice on Details)
+Audit filed        : 01-11-2026 (VER 3.1)
+Capture window     : 22 Mar 2022 - 1 Nov 2026  "Since published" = 1,685 days
+Canonical package  : none for THIS upload. The song exists in bands/ as three
+                     Shorts-era packages - 0120 (pack), 0372 + 1791 (matched
+                     shorts). This 2022 loop video is not represented anywhere.
+
+--- PANEL TRANSCRIPT (verified against the 12 screenshots) --------------------
+
+Views (lifetime)         2,895           Watch time      1,900 h (1.9k)
+Subscribers              +33             Est. revenue    — (nothing to show)
+REALTIME (labelled non-verdict): 1 view / last 48 h, 100% from Playlists.
+
+PREMIERE / HYPE
+  Concurrent viewers: peak 2, average 1. Hype: 0 points, 0 hypes.
+
+RETENTION (lifetime)
+  Average view duration  38:41
+  Average percentage     62.0%
+  82% of viewers still watching at 0:30 (above typical, no typical baseline available)
+  Curve: instant fall to a flat ~33% band, held from 0:00 to 31:12, then a hard
+         second fall to ~4% at 31:12 that runs flat to the end (1:02:24).
+
+REACH
+  Impressions 3.5k (funnel card 3.6k)  |  CTR 2.9%  |  Unique viewers 2.6k
+  9.3% of impressions came from YouTube recommending
+  Funnel: 3.6k impressions -> 2.9% CTR -> 102 engaged views from impressions
+          -> 11:25 AVD from impressions -> 19.41 h watch time from impressions
+
+TRAFFIC SOURCES        Suggested 86.4 | Playlists 4.9 | Channel pages 4.8 |
+                       Direct/unknown 1.2 | Browse 1.0 | Others 1.7 |
+                       YouTube search 0.8 | External 0.5
+
+SEARCH TERMS (0.8% slice)   rocksmith bass 13.6 | burzum autumn leaves 9.1 |
+                            burzum 4.6 | burzum guitar cover 4.6 |
+                            one way autumn 1 hour 4.6
+
+EXTERNAL (0.5% slice)       Facebook 35.7 | Google Search 21.4 |
+                            duckduckgo.com 14.3 | Discord 7.1 | discord.com 7.1
+
+"CONTENT SUGGESTING THIS VIDEO" (86.4% slice) - top 4 sources:
+  VENOM - Official Trailer (HD) 1.5 | FRIENDS: THE REUNION Official Trailer 1.5 |
+  Surya Gahan 2022 LIVE Updates 1.4 | DOM - Official Trailer 1.3
+  => every one of them is off-topic movie/TV/Indian-news content. No music.
+
+PLAYLISTS (4.9% slice)      "Starting Soon..." 14.1 | "Uploads from MAVOmusic" 11.3
+
+AUDIENCE
+  Device (watch time): Mobile 90.9 | Computer 5.9 | Tablet 3.1 | TV 0
+  Watch time: Not subscribed 95.1 | Subscribed 4.9
+  Geographies (views): India 29.4 | United States 21.5 | Pakistan 2.4 |
+                       Argentina 1.6 | Mexico 1.4
+  Subtitles/CC: none 100%
+
+ENGAGEMENT
+  Likes 100.0% (channel average 97.4%)
+  End-screen element CTR 0.0% (channel average 1.1%)
+  Remixes: none
+
+REVENUE
+  Ineligible to earn. Estimated revenue —, RPM —, ad types —, top products —.
+
+MAVO NOTE (01-11-2026): "I use this video for my starting soon screen so first
+8 minutes of watch time in average is mine." - This is the single most important
+fact in the record, see Diagnosis D1.
+
+--- DIAGNOSIS ----------------------------------------------------------------
+
+D1  THE RETENTION NUMBERS ARE NOT A CONTENT SIGNAL.
+    38:41 AVD / 62.0% APV on a 1:02:24 ambient loop are inflated by the
+    start-soon playback, and the curve proves it: a machine-flat ~33% band for
+    the first 31:12 is a background-playback shape, not human viewing. The hard
+    fall at 31:12 is the point where the loop stops being someone's waiting room.
+    => Do NOT apply AVD/APV badges, "gap ladder" entries or flop/breakout
+       verdicts to this video. It is a utility asset. Same class as a playlist
+       bed, not a music upload.
+
+D2  YOUTUBE HAS NO IDEA WHAT THIS VIDEO IS. (the actual SEO problem)
+    86.4% of views arrive as Suggested - and the top 4 sources are a Venom
+    trailer, a Friends reunion trailer, an Indian news stream and a Dom trailer.
+    Nothing about the recommendation cluster is music, black metal, ambient,
+    dungeon synth or bass. That means the metadata gave the classifier no usable
+    topic: the title is a container label, the description is a link wall about
+    Kick/Discord/Rumble/TikTok, and the tags are channel-brand + platform +
+    "varg" terms. The one real topical keyword (`rocksmith bass`) is only a tag,
+    and it is still the #1 search term (13.6%) - so even that weak signal is
+    doing work.
+
+D3  THE AUDIENCE BEING DELIVERED IS THE LOWEST-VALUE LANE.
+    India 29.4% + Pakistan 2.4% + mobile 90.9% + 95.1% non-subscribed + zero
+    revenue. Combined with D2 this is the classic "off-topic recommendation"
+    signature from the project doctrine (§ analytics-notes), not a content
+    problem - the video is simply being matched to whatever is cheap to serve.
+
+D4  SEARCH IS 0.8% - and the demand is provably there.
+    Within that tiny slice `burzum autumn leaves` (9.1%) and `one way autumn
+    1 hour` (4.6%) are the second and fifth terms. Evergreen "1 hour loop" demand
+    exists and this video - the only 1-hour asset on the channel - covers none of
+    it in the title, description or tags. This is the cheapest traffic on the
+    channel and it is being left on the table.
+
+D5  "INELIGIBLE TO EARN" - not an SEO issue, and not fixable by metadata.
+    The red notice is a claims/policy state on the audio. Left as-is per doctrine
+    (no delete/re-upload). Consequence: this video will never produce RPM, so
+    optimise it for watch time / playlist utility / thematic accuracy, not money.
+
+D6  DEAD END-SCREEN. 0.0% end-screen CTR vs 1.1% channel average, on a video with
+    2,895 views. There is no exit route out of the loop into the channel.
+
+D7  GENRE LABEL IN THE CORPUS IS WRONG FOR THIS SONG.
+    The three bands/ packages (0120, 0372, 1791) say "Wikipedia Genres: Black
+    metal, atmospheric black metal". 'Autumn Leaves' is track 11 on *The Ways of
+    Yore* (2014) - genre Ambient / Dungeon Synth (verified 01-11-2026:
+    RateYourMusic lists The Ways of Yore as Ambient, Dungeon Synth; the track is
+    acoustic picking over tremolo electrics, no drums). Flagged for the genre gate;
+    not corrected yet because it rewrites three shipped packages' description
+    genre lines - awaiting MAVO go-ahead.
+
+D8  THE PIN IS A SECOND COPY OF THE DESCRIPTION AND HAS 0 REPLIES.
+    It repeats the whole link wall (Kick, Discord, X, TikTok, Rumble, Twitch,
+    Super Thanks) - a direct §21 violation (pins must carry ZERO URLs) and a
+    comment-spam signal. It is also 4 years old and asks nothing.
+
+D9  TAGS: 15 tags / 274 chars, zero song-identity tags.
+    mavomusic, mavomusicyt, kickpartner, kickstreaming, kick, kickcommunity,
+    rocksmith 2014 gameplay, rocksmith gameplay, rocksmith 2014 remastered,
+    rocksmith 2014 custom songs, rocksmith custom songs, music sight reading
+    practice, varg vikernes, varg solo band, varg burzum.
+    Six of fifteen are Kick/brand, five are platform-generic, and the one tag that
+    matters for this video (the actual song) is absent. Doctrine allows 3-8 tags,
+    artist + song identity required, ≤1 genre-lane tag, platform family, brand.
+
+--- DECISION ----------------------------------------------------------------
+
+VERDICT: REWRITE ALL FOUR (title, description, tags, pinned). Keep the video,
+keep the URL, keep it as the start-soon asset. No delete/re-upload.
+
+TITLE      : CHANGE - bracket opener is a banned pattern, "Artist - Song" middle
+             is the rigid template, hashtags waste characters, and nothing states
+             what the video is FOR. New title front-loads the exact search phrase
+             (`Burzum Autumn Leaves`), keeps `1 Hour Loop`, and lands the use-case.
+DESCRIPTION: CHANGE - 100% boilerplate, 9 outbound links (limit is 3, allowlist
+             kick/twitch/discord only; X, TikTok, Rumble, Steam are off-allowlist),
+             Super-Thanks begging at the top, no bespoke line, no genre line, no
+             hashtags. Replaced with a bespoke hook + use-case + CTA + 2 allowlisted
+             links + genre line + unique gear line + brand hashtags.
+TAGS       : CHANGE - 15 channel/platform tags, no song identity. Replaced with 8
+             evidence-led tags (§golden: `rocksmith bass` is the #1 live term;
+             `burzum autumn leaves` #2; `burzum` #3).
+PINNED     : CHANGE - remove the link wall entirely (zero URLs in pins), replace
+             with a real question that also teaches the algorithm what this is.
+THUMBNAIL  : CHANGE recommended - current art is the channel logo over dark red.
+             Suggest: the fingerstyle frame + overlay "1 HOUR · BURZUM" or
+             "AUTUMN LEAVES · 1 HOUR" (loop-intent viewers scan for "1 HOUR").
+             CTR is 2.9% on 3.5k lifetime impressions - low but not the priority.
+PLAYLIST   : KEEP "Starting Soon...", and add a new "1 Hour Bass Loops" playlist so
+             every hour-long asset has a home and sessions concentrate.
+END SCREEN : ADD one element (best-performing Short or the new loops playlist).
+             Currently 0.0% vs 1.1% channel average.
+CHAPTERS   : NONE - a 1-hour unbroken loop gains nothing from chapters.
+
+--- APPROVED COPY (paste into YouTube Studio) --------------------------------
+
+TITLE (76 chars, searchable phrase in the first 35):
+```
+Burzum Autumn Leaves 1 Hour Loop — calm dungeon synth for study & start soon
+```
+
+DESCRIPTION:
+```
+Four and a half minutes of still air, stretched into a full hour — 'Autumn Leaves' from Burzum's The Ways of Yore (2014), played fingerstyle and left to breathe on bass.
+
+This one started as my start-soon screen before every stream, and it turned out plenty of you leave it running while you read, work or drift off. Acoustic picking floating over tremolo electrics, no drums, no rush, and a loop point that never snaps you out of it.
+
+If the hour helps you settle in, tell me which track should get the same treatment next — the quietest corner of the catalogue deserves an hour too.
+
+🟢 Live bass sessions most days: https://kick.com/mavomusic
+💬 Requests and quiet-hour ideas: https://discord.gg/ESGsGkN4j2
+
+**Genres:** Ambient, dungeon synth
+🎸 Epiphone Thunderbird soaked in long room reverb, nothing hurried | 🎮 Captured in Rocksmith 2014 Remastered on Steam
+
+#Burzum #AutumnLeaves #DungeonSynth #1HourLoop #BassCover #Rocksmith2014
+```
+
+TAGS (8 tags, 157 chars):
+```
+burzum autumn leaves, autumn leaves burzum 1 hour, burzum the ways of yore, burzum, dungeon synth bass, rocksmith bass, mavo music, autumn leaves 1 hour loop
+```
+
+PINNED COMMENT (zero URLs):
+```
+Four minutes of Burzum calm turned into an hour, and it's been my start-soon screen ever since. What do you keep looping while you read, work or wait for a stream to start? 👇🎸
+```
+
+--- GATE CHECK RUN BEFORE APPROVAL (01-11-2026) ------------------------------
+  Title opener `burzum`        : unique across all 178 LF / 188 SF openers ✓
+  Exact title duplicate        : none ✓
+  Description first line       : unique across 188 LF hooks ✓
+  Boilerplate sentences >=4    : none ✓   Full lines >=4: none ✓
+  Gear line                    : byte-unique vs all 166 gear lines ✓
+  URLs in description          : 2, both allowlisted (kick.com, discord.gg) ✓
+  URLs in pin                  : 0 ✓
+  Tags                         : 8 (3-8 range), `rocksmith bass` present,
+                                 song identity present, ≤1 genre lane, no dupes ✓
+  §20 technique wording        : clean (no slap/thumb/pick-attack) ✓
+  Retired-phrase registry      : clean ✓
+  Tracking-ID leak ("0001")    : absent from all public text ✓
+
+--- OPEN ITEMS FOR MAVO -------------------------------------------------------
+  1. Paste the four blocks above into Studio for the 2022 loop video.
+  2. New thumbnail art ("1 HOUR") - MAVO side.
+  3. Add / keep in "Starting Soon...", create "1 Hour Bass Loops", add 1 end-screen
+     element.
+  4. Say YES/NO to correcting the genre line on bands/ 0120 / 0372 / 1791 from
+     "Black metal, atmospheric black metal" to "Ambient, dungeon synth" (D7).
+================================================================================
