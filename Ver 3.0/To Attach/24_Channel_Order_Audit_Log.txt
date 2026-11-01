@@ -1568,3 +1568,159 @@ for the two things copy cannot fix - the intro edit and the removal of the CDLC
 tags. Do not spend more effort on this title than on Black Parade or .38 Special.
 
 ================================================================================
+
+================================================================================
+CO-0009 | My Chemical Romance - Welcome To The Black Parade (PLAY ALONG ON BASS)
+================================================================================
+Video ID           : LQSAp62khyO
+Upload / date      : 18-02-2024 (PREMIERE) | 5:33 | 504 views | 3.8 h | +64 subs
+Package status     : NO bands/ package. Section C archive item [PA/LOOP 02].
+Notices badge      : Ineligible to earn | PARTIALLY BLOCKED
+Revenue            : GBP 0.00
+MR CLASS           : E4 INELIGIBLE (partially blocked) -> logged as MR-0010.
+
+################################################################################
+## BEFORE THE COPY: ONE SENTENCE IN THIS DESCRIPTION SHOULD COME DOWN TODAY
+################################################################################
+The [DISC]LAIMER block reads, verbatim:
+
+  "This song was an official DLC you could buy from Ubisoft. I made my own version
+   but cannot be sharable on Ignition so hit me up with a message on Discord for
+   the psarc less than three"
+
+A psarc is the Rocksmith package file. In plain English that paragraph says: this
+is licensed Ubisoft content, I converted it, and if you message me on Discord I
+will send you the file.
+
+That is a **public offer to redistribute a licensed file**, written into the
+description of a monetised video, on a channel already fighting claims. It is the
+single strongest candidate in this entire corpus for a POLICY flag rather than a
+Content ID claim, and unlike a claim it is entirely self-inflicted and entirely
+fixable in thirty seconds.
+
+RECOMMENDED ACTION, AHEAD OF ANYTHING ELSE IN THIS RECORD:
+  1. Delete that paragraph from the live description now.
+  2. Do not reword it into something friendlier. It must not exist in any form.
+  3. Check the other 2024 uploads for the same offer before pasting anything else.
+The replacement copy below states only that the song is official licensed DLC -
+which is true, useful to the viewer, and carries no offer of any kind.
+
+--------------------------------------------------------------------------------
+THE NUMBERS
+--------------------------------------------------------------------------------
+Impressions        : 4.1k | CTR 2.7% | 44.1% from YouTube recommending
+Funnel             : 109 engaged views from impressions, 1:20 average duration
+                     from impressions, 2.44 h watch time from impressions
+Retention          : AVD 0:27 | APV 8.2% | 15% still watching at 0:30, which
+                     Studio flags as BELOW typical
+Traffic            : External 69.1% | Browse 12.1% | Channel pages 11.3% |
+                     YouTube search 3.8% | Other YouTube features 1.6% | Others 2.2%
+External sources   : nwwrtbbt.com 20.4% | Google 1.7% | com.metech.goviews 1.4% |
+                     net.fast.web.browser 0.3% | org.easyweb.browser 0.3%
+Search terms       : "rocksmith bass" 5.3% | "welcome to the black parade bass"
+                     5.3% - both RIGHT-INTENT, unlike X-Kid
+Audience           : India 67.1% | male 84.5% / female 15.5% |
+                     18-24 32.0%, 25-34 40.2%, 35-44 27.8% |
+                     not subscribed 90.6% | subscribed 9.4% (watch time)
+Devices            : mobile 47.3% | computer 44.7% | TV 6.3% | tablet 1.7%
+                     (NOT used as evidence - see the device rule in CONTEXT)
+Engagement         : 0 hype | end screen CTR not captured in this set
+Viewers also watch : Iron Maiden - Wasted Years (412), Dire Straits - Sultans Of
+                     Swing (345), Chopin Nocturne (4.9k), Eurobeat Brony - Discord
+                     (4.9k), Whitesnake - Is This Love (445) - all five our own
+Premiere           : peak 3 concurrent, average 3
+
+--------------------------------------------------------------------------------
+PAID-PROMOTION INFLUENCE - AND WHY THIS IS NOT THE SAME AS X-KID
+--------------------------------------------------------------------------------
+MAVO has explained the odd referrers: Fiverr boost campaigns, then YouTube Ads
+bought in Studio. So none of this is an attack and none of it is mysterious - it
+is paid traffic from suppliers he did not control. The register correction is
+logged separately.
+
+What matters for THIS video is that a real audience is visible underneath the
+paid noise, which is not true of X-Kid:
+  - Its search terms are correct: "welcome to the black parade bass" is a genuine
+    song-plus-instrument query, exactly what the new title and tags lead with.
+    X-Kid's best term was "green day live", a concert query.
+  - "Viewers also watch" resolves, and every entry is our own catalogue. X-Kid
+    cannot produce the report at all.
+  - Browse 12.1% and channel pages 11.3% are real YouTube surfaces.
+
+The paid push still bought impressions rather than attention: 4.1k impressions,
+2.7% CTR, 44.1% of them recommendation-driven, and 8.2% average viewed. Same
+lesson as X-Kid, at half the severity.
+
+CAVEAT AND HYPOTHESIS, STATED AS SUCH: these numbers remain excluded from organic
+averages. "Better than X-Kid" is not "clean". And it is worth knowing that a large
+block of viewers who leave inside thirty seconds is a negative retention signal to
+the recommender - so cheap promotion may be teaching YouTube that these videos do
+not hold people. We cannot see inside the system, so that stays a hypothesis, but
+the direction is consistent across both 2024 videos.
+
+--------------------------------------------------------------------------------
+SECOND INSTANCE OF THE OPENING DEFECT - THIS IS NOW A PATTERN
+--------------------------------------------------------------------------------
+Intro key-moment frame: again a score/results card with a 100% overlay and the
+MAVOmusic watermark. Same defect as X-Kid.
+  X-Kid:        AVD 0:16, APV 6.7%, 10% at 0:30
+  Black Parade: AVD 0:27, APV 8.2%, 15% at 0:30
+  The five 2022 videos, which open on the song: 62-70% at 0:30
+**Both 2024 uploads open on a card instead of the song, and both have the worst
+retention in the set.** This is a production habit, not a one-off. Trim the
+openings, and start every future play along on the first note.
+
+--------------------------------------------------------------------------------
+FINAL COPY (paste-ready, ASCII only)
+--------------------------------------------------------------------------------
+TITLE (66/100):
+How Mikey Way holds 'Welcome To The Black Parade' together on bass
+
+DESCRIPTION (1217/5000):
+Everyone remembers the piano and the march, but 'Welcome To The Black Parade' only holds its shape because Mikey Way never lets the low end wander. Five and a half minutes, and his part runs underneath the whole thing without a single bar where the song is left floating.
+
+It plays through here from the first note with the bass line on screen, so you can watch what he actually does rather than guess at it from a mix.
+
+This one is official licensed DLC inside Rocksmith rather than a community chart, so what you are reading on screen is the real transcription. There is no commentary talking across it and nothing added on top of the game's own mix.
+
+If there is a bass line you have never found a version worth learning from, say so below and it goes on the list.
+
+🟣 Emo and alt-rock blocks run live on Twitch: https://www.twitch.tv/mavomusic
+💬 Requests and setlists live on Discord: https://discord.gg/ESGsGkN4j2
+
+**Genres:** Alternative rock, emo, pop punk
+**Format:** Full song, on-screen bass tab, official DLC chart, no overdubs
+🎸 Epiphone Thunderbird, kept out of the shot | 🎮 captured in Rocksmith 2014 Remastered (Steam)
+
+#WelcomeToTheBlackParade #MyChemicalRomance #MikeyWay #BassPlayAlong #Rocksmith2014
+
+TAGS (280/500 chars, 15 tags):
+welcome to the black parade bass, black parade bass tab, my chemical romance bass, mikey way bass, welcome to the black parade, my chemical romance rocksmith, rocksmith bass, bass play along, play along bass, bass tab, learn bass, emo bass, rocksmith 2014, bass guitar, bass cover
+
+PINNED COMMENT (139/300):
+Mikey Way never stops moving under this song, and the tab on screen is the official chart, not a guess. What should I play through next? 👇🎸
+
+--------------------------------------------------------------------------------
+WHAT CHANGED AND WHY
+--------------------------------------------------------------------------------
+- Title: SEVENTH distinct shape, and the first in the set to open on "How ...".
+  Opener "How" used 0 times across 308 packages; none of the six previous
+  rewrites use the construction. It carries the exact phrase the analytics prove
+  people search for, names Mikey Way (Green Day's Dirnt and MCR's Way are both
+  safe, long-serving, uncontroversial bassists), and contains the word "bass".
+- Description: the psarc offer is deleted outright. The typo'd disk-laimer block
+  is replaced with the safe, true, useful statement that this is official licensed
+  DLC and therefore the real transcription. All schedule blocks gone.
+- Tags: 28 at 500/500 cut to 15 at 280. The description says OFFICIAL DLC while
+  the tags said cdlc, rocksmith 2014 custom, customsforge - the same
+  self-contradiction found on X-Kid. Both competitor platforms and the typo
+  removed as well.
+- Pin: dead discord.gg/Hguy3JCXn and the weekly schedule removed; zero URLs.
+
+--------------------------------------------------------------------------------
+SERIES POSITION - 7 OF 8 DONE
+--------------------------------------------------------------------------------
+Remaining: .38 Special - If I'd Been The One (1,347 views, 11-04-2024) - the
+highest-traffic play along in the set, and the one worth doing properly.
+
+================================================================================

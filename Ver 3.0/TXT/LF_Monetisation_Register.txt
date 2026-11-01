@@ -137,6 +137,54 @@ Next action        : (1) Apply the rewritten title/desc/tags/pin written into
                      play along series. (3) Roll the same shell fix across
                      [PA/LOOP 01-09] only after MAVO confirms the series count.
 
+################################################################################
+## CORRECTION 01-11-2026 - THE "BOT TRAFFIC" READING WAS WRONG, AND IT WAS MINE
+################################################################################
+MAVO, after reading the X-Kid finding: "Done back in the day Fiverr campaigns so
+that might tell about weird sites and fake engagements. I ordered boost but had
+no idea where it coming from. Later on same with YouTube Adsense Ads from Studio.
+I paid for youtube to advertise my videos, the source unknown mostly. So on high
+view long form videos noise or weird sources can be those."
+
+WHAT I GOT WRONG: I described the X-Kid referrers as an unexplained attack on the
+channel ("the traffic is not a real audience", spam and adult-tube domains
+arriving from nowhere). The correct reading is that this is **PAID PROMOTION MAVO
+BOUGHT DELIBERATELY** - Fiverr boost services at one point, YouTube Ads bought in
+Studio later. Nobody attacked anything. The referrer domains are where cheap view
+suppliers actually deliver from, and MAVO did not control the supply.
+
+WHY THE OLD READING STILL MATTERED, AND STILL DOES: whether the traffic was
+bought or delivered uninvited, it is **not organic demand**, so it still cannot be
+counted in organic averages or used to judge whether a format works. The
+classification survives. The attribution does not.
+
+WHAT CHANGES IN THE ANALYSIS:
+  1. This is a **spend** question, not a security question. MAVO paid for these
+     views. The right question is whether they returned anything.
+  2. **The paid traffic did not buy what it was bought for.** On X-Kid: 3.0k
+     impressions bought or generated, CTR 1.6%, and an average view duration of
+     0:16. Marketing agencies sell views; views are what arrived. Watch time,
+     retention, ranking and revenue did not come with them.
+  3. **Paid low-retention views can actively hurt.** YouTube's recommender reads
+     retention as a quality signal. Feeding a video a large block of viewers who
+     leave in sixteen seconds teaches the system that the video does not hold
+     people, which is the opposite of what promotion is supposed to do. Stated as
+     a hypothesis, because we cannot see inside the recommender - but the
+     direction is consistent with X-Kid and Black Parade both carrying 36-44%
+     recommendation-driven impressions and the worst retention in the set.
+  4. **It explains the "Direct or unknown" and "Other YouTube features" lines**
+     that appear on the 2024 videos and on nothing in the 2022 set.
+
+NEW RULE FOR REPORTING (replaces the "bot traffic" label):
+**PAID-PROMOTION INFLUENCE.** A video is in this class when it shows large
+external or browse traffic alongside geography that does not match the channel
+(India 60-80%), retention collapse, and low CTR on high impressions. Mark such
+videos as **paid-influenced**, exclude their numbers from organic averages, never
+quote their view or subscriber totals as evidence that a format works, and say so
+plainly rather than implying fraud. Contracted view suppliers are not an attack
+and should never be described as one.
+################################################################################
+
 --- MR-0004 | CO-0003-SERIES | Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2
                      [1 HOUR LOOP] -----------------------------------------------
 Upload / date      : 03-11-2022 | 4:00:33 | 4,887 views | 9 comments
@@ -452,9 +500,10 @@ Tags risk          : HIGH AND SELF-CONTRADICTORY. The description says OFFICIAL
 Cause hypothesis   : E4-a CLAIM-DRIVEN. Green Day are on Reprise / Warner, a
                      Content ID-claiming catalogue - "partially blocked" means
                      specific segments are matched, not the whole track.
-Traffic verdict    : NOT A REAL AUDIENCE. See below. This is the only capture in
-                     the corpus where the numbers should be disregarded rather
-                     than analysed.
+Traffic verdict    : PAID-PROMOTION INFLUENCED (see CORRECTION 01-11-2026).
+                     Not organic demand - bought through Fiverr boost and/or
+                     Studio YouTube Ads. Numbers excluded from organic averages
+                     but NOT described as an attack on the channel.
 Recreation verdict : KEEP, BUT LOW PRIORITY. It will never earn and it reached
                      almost nobody genuine. It is however the HIGHEST priority
                      for the two things copy cannot fix - the intro edit and the
@@ -463,6 +512,7 @@ Recreation verdict : KEEP, BUT LOW PRIORITY. It will never earn and it reached
 
 --------------------------------------------------------------------------------
 WHY X-KID'S NUMBERS ARE EXCLUDED FROM SERIES AVERAGES
+(classification survives; the attribution was corrected after MAVO's explanation)
 --------------------------------------------------------------------------------
 Five independent signals agree, which is the standard this project now requires
 after two retractions:
@@ -514,6 +564,153 @@ Search terms: "green day live" 8.3% (a CONCERT query) and "green day rocksmith"
 8.3% (the right query). Half the search traffic carried the wrong intent; the new
 title and description state plainly what the video is.
 
+--- MR-0010 | CO-0009 | My Chemical Romance - Welcome To The Black Parade -------
+Video ID           : LQSAp62khyO
+Upload / date      : 18-02-2024 (PREMIERE) | 5:33 | 504 views | 3.8 h | +64 subs
+Notices badge      : E4 INELIGIBLE | PARTIALLY BLOCKED | GBP 0.00
+Visible claimant   : none shown; Revenue, RPM and CPM all read "Nothing to show".
+Description risk   : 2024 shell, and the worst one in the corpus for policy
+                     exposure. The [DIS]CLAIMER block reads: "This song was an
+                     official DLC you could buy from Ubisoft. I made my own
+                     version but cannot be sharable on Ignition so hit me up with
+                     a message on Discord for the psarc less than three" - i.e. it
+                     openly offers to distribute a CONVERTED PSARC of an official
+                     Ubisoft/Rocksmith DLC file to anyone who messages. That is a
+                     redistribution offer for licensed content, written into a
+                     public description on a monetised channel. Removed entirely,
+                     not reworded.
+Pinned risk        : identical stale pin - three links, weekly EST schedule,
+                     "we are so close to 1500" opener, dead discord.gg/Hguy3JCXn.
+Tags               : 28 at 500/500 - completely full. Contains cdlc, rocksmith
+                     2014 custom, customsforge, guitar hero, clone hero, sightread,
+                     sight read, relax, mavomusic, and "dic" (typo for dlc).
+Cause hypothesis   : E4-a CLAIM-DRIVEN. MCR are on Reprise / Warner, a Content
+                     ID-claiming catalogue. Partially blocked = segments matched.
+Traffic verdict    : PAID-PROMOTION INFLUENCED - but NOT as badly as X-Kid, and
+                     the distinction matters. See below.
+Recreation verdict : KEEP. REWRITE THE SURFACE AND **DELETE THE PSARC OFFER
+                     TODAY**. That single sentence is the most serious policy
+                     item found anywhere in this audit.
+
+--------------------------------------------------------------------------------
+BLACK PARADE vs X-KID - WHY THIS ONE IS NOT THE SAME ANIMAL
+--------------------------------------------------------------------------------
+  Metric                X-Kid            Black Parade
+  Views                 407              504
+  Watch time            1.9 h            3.8 h
+  CTR                   1.6%             2.7%
+  APV                   6.7%             8.2%
+  @0:30                 10%              15%
+  External              79.1%            69.1%
+  Top referrer          xmxbest.pro 6.5% nwwrtbbt.com 20.4%
+  India                 77.6%            67.1%
+  Search terms          "green day live"  "rocksmith bass" 5.3% and
+                        8.3% (WRONG)     "welcome to the black parade bass"
+                                          5.3% (BOTH CORRECT)
+  Viewers also watch    NO DATA          YES - five of our own videos
+Both are paid-influenced. But Black Parade still has a genuine signal underneath
+the paid noise:
+  - Its search terms are the RIGHT ones. "welcome to the black parade bass" at
+    5.3% is a real song-plus-instrument query, and it is the phrase the new title
+    and tags now lead with.
+  - "Viewers also watch" resolves, and all five entries are our own videos
+    (Iron Maiden 412, Dire Straits 345, Chopin 4.9k, Eurobeat Brony 4.9k,
+    Whitesnake 445). X-Kid cannot produce this report at all.
+  - External is 69.1% rather than 79.1%, and browse is 12.1% with channel pages
+    11.3% - real surfaces, not only referrals.
+So: paid promotion on top of a small real audience, rather than paid promotion
+instead of one. It is worth fixing. X-Kid is not.
+CAVEAT I AM KEEPING: these numbers are still not organic demand and are excluded
+from organic averages. "Better than X-Kid" is not "clean".
+
+--------------------------------------------------------------------------------
+THE PSARC OFFER - ACTION BEFORE ANY COPY WORK
+--------------------------------------------------------------------------------
+Verbatim from the live description:
+  "This song was an official DLC you could buy from Ubisoft. I made my own version
+   but cannot be sharable on Ignition so hit me up with a message on Discord for
+   the psarc less than three"
+A psarc is the Rocksmith package file. This sentence offers to send people a
+converted copy of a licensed Ubisoft DLC file. It is a public redistribution
+offer for copyrighted content, sitting on a channel that is fighting claims, and
+it is the single strongest candidate in the corpus for a POLICY flag rather than
+a Content ID claim.
+RECOMMENDATION: delete that paragraph from the live description today, before the
+rest of the rewrite, and check whether the same offer appears on any other 2024
+upload. Do not reword it into something friendlier - it must not exist.
+
+--------------------------------------------------------------------------------
+SECOND INSTANCE OF THE 0:27 OPENING DEFECT
+--------------------------------------------------------------------------------
+Average view duration 0:27, APV 8.2%, and 15% still watching at 0:30 (Studio says
+below typical). The Intro key-moment frame is again a **score/results card with a
+100% overlay and the MAVOmusic watermark** - the same defect as X-Kid, which
+opened on a Rocksmith score attack screen.
+So this is not one bad upload, it is a **2024 production habit**: both 2024 videos
+audited so far open on a score card before the song starts, and both have the
+worst retention in the set. Fix the opening and the rest of the metadata has a
+chance to work.
+Rate check, and it holds: 0:16 average on X-Kid, 0:27 on Black Parade, against
+62-70% opening holds on the five 2022 videos that start on the song.
+
+--------------------------------------------------------------------------------
+FINAL COPY (paste-ready, ASCII only)
+--------------------------------------------------------------------------------
+TITLE (66/100):
+How Mikey Way holds 'Welcome To The Black Parade' together on bass
+
+DESCRIPTION (1217/5000):
+Everyone remembers the piano and the march, but 'Welcome To The Black Parade' only holds its shape because Mikey Way never lets the low end wander. Five and a half minutes, and his part runs underneath the whole thing without a single bar where the song is left floating.
+
+It plays through here from the first note with the bass line on screen, so you can watch what he actually does rather than guess at it from a mix.
+
+This one is official licensed DLC inside Rocksmith rather than a community chart, so what you are reading on screen is the real transcription. There is no commentary talking across it and nothing added on top of the game's own mix.
+
+If there is a bass line you have never found a version worth learning from, say so below and it goes on the list.
+
+Twitch: https://www.twitch.tv/mavomusic
+Discord: https://discord.gg/ESGsGkN4j2
+
+**Genres:** Alternative rock, emo, pop punk
+**Format:** Full song, on-screen bass tab, official DLC chart, no overdubs
+Epiphone Thunderbird, kept out of the shot | captured in Rocksmith 2014 Remastered (Steam)
+
+#WelcomeToTheBlackParade #MyChemicalRomance #MikeyWay #BassPlayAlong #Rocksmith2014
+
+TAGS (15 tags, 280 of 500 chars):
+welcome to the black parade bass, black parade bass tab, my chemical romance bass, mikey way bass, welcome to the black parade, my chemical romance rocksmith, rocksmith bass, bass play along, play along bass, bass tab, learn bass, emo bass, rocksmith 2014, bass guitar, bass cover
+
+PINNED COMMENT (139/300):
+Mikey Way never stops moving under this song, and the tab on screen is the official chart, not a guess. What should I play through next?
+
+--------------------------------------------------------------------------------
+WHAT CHANGED AND WHY
+--------------------------------------------------------------------------------
+- Title: SEVENTH distinct shape, opening on "How ... holds ... together",
+  an opener used 0 times in 308 packages and a construction used on none of the
+  six previous rewrites. Carries the exact phrase the analytics prove people
+  search for ("welcome to the black parade bass"), names Mikey Way (uncontroversial,
+  the band's bassist throughout), and says "bass" twice over.
+- Description: **the psarc redistribution offer is deleted outright.** The typo'd
+  [DISC]LAIMER block is replaced with the accurate and safe statement that this is
+  official licensed DLC and therefore the real transcription. [KICK]/[TWITCH]/
+  [SCHEDULE] and the weekly EST schedule are gone.
+- Tags: 28 at 500/500 cut to 15 at 280 - **220 characters of headroom restored** on
+  a box that could not take a single extra character. Every CDLC/custom string,
+  both competitor platforms, the filler, the typo and the self-brand tag removed.
+- Pin: dead invite and schedule gone, zero URLs.
+
+--------------------------------------------------------------------------------
+SERIES POSITION - 7 OF 8 DONE
+--------------------------------------------------------------------------------
+Rewritten: Masterpiece, Another Life, Abigail, America, Immaculate Misconception,
+X-Kid, Black Parade.
+Remaining: .38 Special - If I'd Been The One (1,347 views, 11-04-2024).
+That last one is the highest-traffic play along in the set, so it is the one worth
+doing properly.
+
+================================================================================
+
 ################################################################################
 ## THE REPERTOIRE RULE (NEW VER 3.7 - the real determinant of earnings)
 ################################################################################
@@ -537,14 +734,14 @@ wave at 1/3 of the Shorts wave's total revenue on 1/3 of the views.
 ################################################################################
 ## ROLL-UP (updated every capture)
 ################################################################################
-Captures audited         : 8 single-video (CO-0001 to CO-0008) + 1 wave (CO-W01)
+Captures audited         : 9 single-video (CO-0001 to CO-0009) + 1 wave (CO-W01)
                            + 1 full-series screen (CO-0003-SERIES, 8 play alongs + 1 loop)
 E1 EARNING-NO-CLAIM      : 0        (still none - see E2)
 E2 EARNING-REV-SHARE     : 1        <-- FOUND 01-11-26: Chopin Nocturne 1hr loop,
                                        4,887 views, GBP 0.54. MAVO was right that
                                        a few exist.
 E3 CLAIMED-NOT-EARNING   : 0
-E4 INELIGIBLE            : 20       (CO-0001 to CO-0008 + 12/12 of the Aug shipment)
+E4 INELIGIBLE            : 21       (CO-0001 to CO-0009 + 12/12 of the Aug shipment)
 E5 BLOCKED               : 0        (4 of the Aug LFs are PARTIALLY blocked)
 E6 UNKNOWN               : 1        (Chevelle - no package, no claim card read yet; now CO-0004)
 Remakes queued           : 0        <-- deliberately: a claimed cover re-claims

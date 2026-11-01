@@ -3175,3 +3175,69 @@ still carry `Hguy3JCXn` - replace when pasting the new pins.
 
 *   **Next:** Black Parade (504), .38 Special (1,347) - both 2024 shell.
 *   **Honest priority:** X-Kid is **lowest** for copy (the audience was largely not real) and **highest** for the intro edit and tag fix. Black Parade and .38 Special deserve the effort.
+
+================================================================================
+[Ver 4.3] - 2026-11-01 - CO-0009 BLACK PARADE: PSARC RED LINE + PAID-TRAFFIC CORRECTION
+================================================================================
+
+**Capture:** 12 panels, `LQSAp62khyO`, 18-02-2024, 5:33, 504 views.
+
+## The most urgent item in the audit is one sentence of copy
+The live description says, under a typo'd `[DISC]LAIMER` heading:
+
+> *"This song was an official DLC you could buy from Ubisoft. I made my own version but cannot be sharable on Ignition so hit me up with a message on Discord for the psarc"*
+
+A **psarc** is the Rocksmith package file. That is a public offer to redistribute a
+licensed Ubisoft file, on a monetised channel already fighting claims. **Strongest
+policy-flag candidate in the corpus.**
+
+**Action: delete it today. Do not reword it. Check the other 2024 uploads for the
+same block.**
+
+## MAVO's correction - and my retraction
+MAVO: *"Done back in the day Fiverr campaigns... I ordered boost but had no idea
+where it coming from. Later on same with YouTube Adsense Ads from Studio. I paid
+for youtube to advertise my videos, the source unknown mostly."*
+
+**My X-Kid attribution was wrong.** The referrers are **paid promotion MAVO
+bought**, not an attack on the channel. Retracted. The **classification survives**
+as **PAID-PROMOTION INFLUENCE** - still excluded from organic averages, still never
+quoted as evidence a format works, but never described as fraud.
+
+**What the spend bought:** impressions, not attention.
+| Video | Impressions | CTR | APV |
+| --- | --- | --- | --- |
+| X-Kid | 3.0k | 1.6% | 6.7% |
+| Black Parade | 4.1k | 2.7% | 8.2% |
+
+**Hypothesis:** a large block of viewers leaving inside 30 seconds is a negative
+retention signal to the recommender, so cheap promotion may be teaching YouTube
+that these videos do not hold people.
+
+## Black Parade is not X-Kid
+| Metric | X-Kid | Black Parade |
+| --- | --- | --- |
+| Search terms | \`green day live\` 8.3% (**wrong intent**) | \`welcome to the black parade bass\` 5.3% (**right**) |
+| Viewers also watch | **no data** | **five of our own videos** |
+| External | 79.1% | 69.1% |
+
+Paid promotion on top of a small real audience, rather than instead of one. Worth
+fixing; X-Kid is not.
+
+## The opening defect is a habit
+| Video | AVD | APV | @0:30 |
+| --- | --- | --- | --- |
+| X-Kid | 0:16 | 6.7% | 10% |
+| Black Parade | 0:27 | 8.2% | 15% |
+| Five 2022 videos (open on the song) | - | - | **62-70%** |
+
+**Both 2024 uploads open on a score/results card with a 100% overlay.** Rule:
+every play along starts on the first note.
+
+## Delivered
+- **Title** (66ch): `How Mikey Way holds 'Welcome To The Black Parade' together on bass` - opener "How" 0 prior uses, seventh distinct shape, carries the proven search phrase
+- **Description** (1,217ch): psarc offer deleted outright; safe statement that this is official licensed DLC
+- **Tags**: 28 at 500/500 -> **15 at 280**, restoring 220 characters; CDLC/custom/competitor tags removed
+- **Pin** (139ch): dead invite and schedule gone, zero URLs
+
+**MR-0010** logged, E4 roll-up 20 -> 21. **Series 7 of 8** - only .38 Special (1,347) left.
