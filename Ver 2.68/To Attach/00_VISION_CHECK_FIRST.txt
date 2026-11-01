@@ -1,0 +1,35 @@
+================================================================================
+⚠️   NEW CHAT — DO THIS FIRST (before restoring or doing ANY work)   ⚠️
+================================================================================
+This project's CORE DAILY WORKFLOW = reading YouTube Studio screenshots and
+running before/after rechecks (CONTEXT §25). The 2026-07-27 chat that built
+this ZIP could NOT read images (no vision) and was fully blocked on the
+0001-0050 recheck, even after a perfect workspace restore.
+
+------------------------------------------------------------------------------
+STEP 0 — VISION SELF-CHECK  (do it now, takes 2 seconds)
+------------------------------------------------------------------------------
+Confirm whether YOU can read/analyze image files in THIS chat.
+(Quick test: ask the user to attach any .jpeg, or read one if present, and
+ state what you can see in it.)
+
+  ➤  If you CAN read images:
+        Reply: "✅ Vision confirmed — proceeding with restore + recheck."
+        Then run the normal restore (see 00_PASTE_PRIORITY.txt / README_FIRST):
+          paste Tier-1 kit (01-06)  ->  decode Recovery containers
+          ->  python3 PY/generate_track_history.py
+          ->  bash verify.sh  (ALL GATES GREEN)
+          ->  resume the 0001-0050 recheck in §25 terse mode
+              (reply = edit-block OR "[NNNN] no changes." + 1-2 lines positives).
+
+  ➤  If you CANNOT read images:
+        STOP. Do NOT rebuild the workspace — it is wasted effort if you can't
+        run the screenshot workflow. Reply plainly and wait:
+        "🚫 No vision in this chat — I can't run the recheck workflow.
+            Recommend starting a chat with image/vision capability before
+            restoring."
+
+------------------------------------------------------------------------------
+This gate exists so MAVO knows IMMEDIATELY whether a chat is worth continuing
+in. Vision capability is make-or-break for this project. (See CONTEXT §28.)
+================================================================================

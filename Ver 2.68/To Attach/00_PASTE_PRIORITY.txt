@@ -1,0 +1,51 @@
+⏹️ STEP 0 FIRST — VISION SELF-CHECK: confirm the chat can read images before
+restoring or doing work. Vision confirmed = continue. No vision = STOP.
+
+================================================================================
+MAVOmusic (@mavomusicyt) - TO ATTACH KIT - PASTE-PRIORITY GUIDE (VER 2.68, 2026-08-07)
+================================================================================
+
+RESTORE ORDER:
+  1. Read 01_CONTEXT_BLOCK.txt
+  2. Read 07_MAVO_VERSION_LOG.txt
+  3. Decode 02_Recovery_Scripts.txt -> PY tools + verify.sh
+  4. Decode 03-06_Recovery_Data_a-d.txt -> bands/ (308 packages, 77/77/77/77)
+  5. python3 PY/generate_track_history.py
+  6. bash verify.sh -> ALL GATES GREEN before work ships
+  7. Read the analytics/reference files needed for the task.
+
+--------------------------------------------------------------------------------
+TIER 1 - CRITICAL (minimum working restore)
+  01_CONTEXT_BLOCK.txt
+  02_Recovery_Scripts.txt
+  03_Recovery_Data_a.txt
+  04_Recovery_Data_b.txt
+  05_Recovery_Data_c.txt
+  06_Recovery_Data_d.txt
+
+TIER 2 - IMPORTANT (current state + how-to)
+  07_MAVO_VERSION_LOG.txt
+  08_README_FIRST.txt
+
+TIER 3 - REFERENCE / EVIDENCE (audits, tags, Under Review)
+  09_Analytics_Of_Songs_0001_0050.txt
+  10_Analytics_Of_Songs_0051_0100.txt
+  11_Analytics_Of_Songs_0101_0150.txt
+  23_Analytics_Of_Songs_0151_0200.txt
+  12_Matched_Shorts_To_Cross_Check.txt
+  13_Master_Long_Form_Repository_0001_0702.txt
+  14_Master_Shorts_Repository.txt
+  15_Backlog_Duplicate_Shorts_Audit_0151_2460.txt
+  16_Master_Under_Review_Audit.txt
+  17_Shorts_ID_Whitelist_0133_2460.txt
+
+TIER 4 - OPTIONAL / WORKING REFERENCE
+  18_MAVO_PROJECT_LOG.txt
+  19_Pipeline_Notes_2026-08.txt
+  20_Blocked_Claims_Register.txt
+  21_Repurposing_0051_0100.txt
+  22_Repurposing_0001_0050.txt
+
+Minimal restore = Tier 1. Audit-ready 0151+ work = Tier 1 + 2 + 3.
+Canonical homes: root, TXT/, Under Review/, Whitelist/.
+================================================================================

@@ -1,0 +1,384 @@
+📌 RELOCATION LEDGER (VER 1.90 - 2026-07-26): +44_(Plus_44) moved 0-9 -> bands/Special Characters/ (affects SONG 0127 draft block in this file). See VERSION_LOG [Ver 1.90].
+
+# MAVOmusic ANALYTICS STORE — Canonical Songs 0101–0150 (VER 1.56, 2026-07-19)
+# Single source of truth for all YouTube Studio screenshot metrics/audits per song.
+# Layout: canonical package first; matched cuts nested below. Append NEW audit entries HERE
+# at every Studio screenshot session (NNNNL/NNNNS) — never inside the .md packages.
+# Version-log narratives are mined verbatim from MAVO_VERSION_LOG.txt.
+==============================================================================================
+
+==============================================================================================
+SONG 0101 | Paramore - Decode
+==============================================================================================
+Matched cuts: 0560, 1008, 2269
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0102 | Green Day - 21 Guns
+==============================================================================================
+Matched cuts: 1109
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0103 | Linkin Park - Numb
+==============================================================================================
+Matched cuts: 0620, 1070, 2345
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0104 | Ado - Usseewa
+==============================================================================================
+Matched cuts: 0285, 1293, 2128
+
+↳ see also Ver 1.29 entry (filed under canonical 0021).
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0105 | Muse - Time Is Running Out
+==============================================================================================
+Matched cuts: 1162, 1286, 1646
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0106 | Tom Misch - Disco Yes
+==============================================================================================
+Matched cuts: 0460, 0894, 2333
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0107 | Blink-182 - All The Small Things
+==============================================================================================
+Matched cuts: none
+
+↳ see also Ver 1.02 entry (filed under canonical 0056).
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0108 | My Chemical Romance - I Dont Love You
+==============================================================================================
+Matched cuts: 1185
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0109 | Bullet For My Valentine - Tears Dont Fall
+==============================================================================================
+Matched cuts: 1273, 1712
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0110 | HIM (His Infernal Majesty) - Wings Of A Butterfly
+==============================================================================================
+Matched cuts: 0390, 2147
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0111 | System Of A Down - Toxicity
+==============================================================================================
+Matched cuts: 0428, 2193
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0112 | Red Hot Chili Peppers - Soul To Squeeze
+==============================================================================================
+Matched cuts: 2376
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0113 | Pendulum - Fasten Your Seatbelt
+==============================================================================================
+Matched cuts: 0418, 0757, 2180
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0114 | Megadeth - Sweating Bullets
+==============================================================================================
+Matched cuts: 0388, 2022
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0115 | Electric Callboy - We Got The Moves
+==============================================================================================
+Matched cuts: none
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0116 | BABYMETAL Feat. Electric Callboy - RATATATA
+==============================================================================================
+Matched cuts: 2236
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0117 | Bury Your Dead - Magnolia
+==============================================================================================
+Matched cuts: none
+
+↳ see also Ver 1.53 entry (filed under canonical 0043).
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0118 | Coal Chamber - Sway
+==============================================================================================
+Matched cuts: 1626
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0119 | Coal Chamber - Fiend
+==============================================================================================
+Matched cuts: none
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0120 | Burzum - Autumn Leaves
+==============================================================================================
+Matched cuts: 0372, 1791
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0121 | DevilDriver - Sail
+==============================================================================================
+Matched cuts: none
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0122 | Rise Against - Savior
+==============================================================================================
+Matched cuts: 0421, 2184
+
+↳ see also Ver 1.56 entry (filed under canonical 0055).
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0123 | The Offspring - Gone Away
+==============================================================================================
+Matched cuts: 0500
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0124 | Arctic Monkeys - Do I Wanna Know
+==============================================================================================
+Matched cuts: 0407, 1381, 2169
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0125 | Depresszio - Lasd (Azt Amit Neked Szantak)
+==============================================================================================
+Matched cuts: none
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0126 | Judas Priest - Electric Eye
+==============================================================================================
+Matched cuts: none
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0127 | +44 (Plus 44) - Chapter XIII
+==============================================================================================
+Matched cuts: 0658, 1085, 2411
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0128 | Metallica - Nothing Else Matters
+==============================================================================================
+Matched cuts: 0437, 1175, 2202
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0129 | Marilyn Manson - Coma White
+==============================================================================================
+Matched cuts: 1163
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0130 | Motionless In White - Another Life
+==============================================================================================
+Matched cuts: 0680, 0702, 2441
+
+↳ see also Ver 1.06 entry (filed under canonical 0001).
+
+↳ see also Ver 1.07 entry (filed under canonical 0001).
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0131 | Radiohead - Paranoid Android
+==============================================================================================
+Matched cuts: 0204, 0900, 2387
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0132 | La Bouche - Be My Lover
+==============================================================================================
+Matched cuts: 0799
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0133 | Michael Jackson - Billie Jean
+==============================================================================================
+Matched cuts: 1224, 1419
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0134 | Eminem - Rap God
+==============================================================================================
+Matched cuts: 2059
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0135 | Amon Amarth - Raise Your Horns
+==============================================================================================
+Matched cuts: 0605, 2328
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0136 | Korpiklaani - Rauta
+==============================================================================================
+Matched cuts: none
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0137 | Moonsorrow - Pakanajuhla
+==============================================================================================
+Matched cuts: none
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0138 | Amon Amarth - Fate Of Norns
+==============================================================================================
+Matched cuts: none
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0139 | Our Last Night - Fate
+==============================================================================================
+Matched cuts: none
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0140 | Avenged Sevenfold - Bat Country
+==============================================================================================
+Matched cuts: 0588, 1022, 2308
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0141 | The Used - All That Ive Got
+==============================================================================================
+Matched cuts: 1258, 1414
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0142 | The Amity Affliction - Dont Lean On Me
+==============================================================================================
+Matched cuts: 2190
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0143 | Slipknot - Danger - Keep Away
+==============================================================================================
+Matched cuts: none
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0144 | Finntroll - Slaget Vid Blodsalv
+==============================================================================================
+Matched cuts: 1251
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0145 | Mastodon - Blood And Thunder
+==============================================================================================
+Matched cuts: none
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0146 | Wind Rose - Diggy Diggy Hole
+==============================================================================================
+Matched cuts: none
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0147 | Suicide Silence - Unanswered
+==============================================================================================
+Matched cuts: none
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0148 | Mudvayne - Dig
+==============================================================================================
+Matched cuts: none
+
+↳ see also Ver 1.29 entry (filed under canonical 0021).
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0149 | Slipknot - People=Shit
+==============================================================================================
+Matched cuts: none
+
+(analytics pending — no Studio screenshot audit extracted yet)
+
+==============================================================================================
+SONG 0150 | Infected Mushroom - Send Me An Angel
+==============================================================================================
+Matched cuts: none
+
+↳ see also Ver 1.02 entry (filed under canonical 0056).
+
+↳ see also Ver 1.04 entry (filed under canonical 0001).
+
+↳ see also Ver 1.06 entry (filed under canonical 0001).
+
+↳ see also Ver 1.07 entry (filed under canonical 0001).
+
+↳ see also Ver 1.09 entry (filed under canonical 0001).
+
+↳ see also Ver 1.27 entry (filed under canonical 0001).
+
+(analytics pending — no Studio screenshot audit extracted yet)

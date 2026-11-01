@@ -1,0 +1,493 @@
+# MAVO MUSIC (@mavomusicyt) - SHORTS MATCHES & CROSS-CHECK MASTER LIST
+# Total Matched Alternate/Duplicate Shorts Entries: 154
+# Every entry listed below covers a track that exists in our 150 Completed Canonical Repository (0001–0150).
+#
+# 🚨 CRITICAL OVERHAUL RULE FOR THESE 155 MATCHED SHORTS (Section 2 Zero Repetition):
+# Even though these Shorts correspond to the exact same track (NNNN), they CANNOT share the exact title, description hook, or pinned comment of NNNN.
+# Reusing exact metadata across multiple uploads of the same song triggers YouTube's 'Inauthentic Content' penalty.
+#
+# ✅ HOW WE REUSE HIGH-PERFORMANCE INSIGHTS SAFELY:
+# When cross-checking, if an alternate Short or NNNN pulled thousands of views or dominated search, we reuse:
+# 1. The high-converting core tags (`rocksmith bass`, `rocksmith shorts`, plus exact bare song/artist names).
+# 2. The core emotional or technical angle (`175 BPM stamina`, `bouncy pocket`, `synth-to-strings`).
+# 3. BUT we express that angle using 100% UNIQUE opening verbs, fresh sentence skeletons, and unique engagement questions!
+
+===============================================================================================
+VIEW 1: GROUPED BY CANONICAL TARGET ID (0001 TO 0150) - SEE ALL ALTERNATE CUTS PER SONG
+===============================================================================================
+
+--- CANONICAL TARGET 0007: Rage Against The Machine - Bulls On Parade ---
+  -> Shorts ID [1503]: Rage Against The Machine - Bulls On Parade [MATCHES WITH: 0007]
+
+--- CANONICAL TARGET 0008: 9mm Parabellum Bullet - Sacrifice ---
+  -> Shorts ID [2285]: 9mm Parabellum Bullet - Sacrifice [MATCHES WITH: 0008]
+
+--- CANONICAL TARGET 0012: Alexisonfire - No Transitory ---
+  -> Shorts ID [1451]: Alexisonfire - No Transitory [MATCHES WITH: 0012]
+
+--- CANONICAL TARGET 0013: Joe Satriani - Satch Boogie ---
+  -> Shorts ID [2027]: Joe Satriani - Satch Boogie [MATCHES WITH: 0013]
+
+--- CANONICAL TARGET 0014: System Of A Down - Hypnotize ---
+  -> Shorts ID [0665]: System Of A Down - Hypnotize [MATCHES WITH: 0014]
+  -> Shorts ID [0943]: System Of A Down - Hypnotize [MATCHES WITH: 0014]
+  -> Shorts ID [2419]: System Of A Down - Hypnotize [MATCHES WITH: 0014]
+
+--- CANONICAL TARGET 0016: The Dear Hunter - Stuck On A Wire Out On A Fence ---
+  -> Shorts ID [1719]: The Dear Hunter - Stuck On A Wire Out On A Fence [MATCHES WITH: 0016]
+
+--- CANONICAL TARGET 0017: Alice Cooper - No More Mr. Nice Guy ---
+  -> Shorts ID [0887]: Alice Cooper - No More Mr. Nice Guy [MATCHES WITH: 0017]
+
+--- CANONICAL TARGET 0019: Bush - Machinehead ---
+  -> Shorts ID [0886]: Bush - Machinehead [MATCHES WITH: 0019]
+
+--- CANONICAL TARGET 0021: Anouk - Good God ---
+  -> Shorts ID [0975]: Anouk - Good God [MATCHES WITH: 0021]
+  -> Shorts ID [1438]: Anouk - Good God [MATCHES WITH: 0021]
+
+--- CANONICAL TARGET 0024: American Authors - Best Day Of My Life ---
+  -> Shorts ID [0376]: American Authors - Best Day Of My Life [MATCHES WITH: 0024]
+  -> Shorts ID [1564]: American Authors - Best Day Of My Life [MATCHES WITH: 0024]
+
+--- CANONICAL TARGET 0027: Gold Motel - Brand New Kind Of Blue ---
+  -> Shorts ID [2036]: Gold Motel - Brand New Kind Of Blue [MATCHES WITH: 0027]
+
+--- CANONICAL TARGET 0028: American Hi-Fi - Flavor Of The Weak ---
+  -> Shorts ID [0375]: American Hi-Fi - Flavor Of The Weak [MATCHES WITH: 0028]
+  -> Shorts ID [1202]: American Hi-Fi - Flavor Of The Weak [MATCHES WITH: 0028]
+
+--- CANONICAL TARGET 0031: Queen - We Are The Champions ---
+  -> Shorts ID [2053]: Queen - We Are The Champions [MATCHES WITH: 0031]
+
+--- CANONICAL TARGET 0035: Screaming Females - Rotten Apple ---
+  -> Shorts ID [1398]: Screaming Females - Rotten Apple [MATCHES WITH: 0035]
+
+--- CANONICAL TARGET 0037: A Change Of Pace - Weekend Warriors ---
+  -> Shorts ID [2132]: A Change Of Pace - Weekend Warriors [MATCHES WITH: 0037]
+
+--- CANONICAL TARGET 0039: Pat Benatar - Hit Me With Your Best Shot ---
+  -> Shorts ID [0517]: Pat Benatar - Hit Me With Your Best Shot [MATCHES WITH: 0039]
+
+--- CANONICAL TARGET 0044: 04 Limited Sazabys - Galapagos ---
+  -> Shorts ID [0587]: 04 Limited Sazabys - Galapagos [MATCHES WITH: 0044]
+  -> Shorts ID [0752]: 04 Limited Sazabys - Galapagos [MATCHES WITH: 0044]
+  -> Shorts ID [2307]: 04 Limited Sazabys - Galapagos [MATCHES WITH: 0044]
+
+--- CANONICAL TARGET 0047: AFI - Totalimmortal ---
+  -> Shorts ID [1707]: AFI - Totalimmortal [MATCHES WITH: 0047]
+
+--- CANONICAL TARGET 0048: The Kinks - You Really Got Me ---
+  -> Shorts ID [0889]: The Kinks - You Really Got Me [MATCHES WITH: 0048]
+
+--- CANONICAL TARGET 0050: (HED) P.E. - Bartender ---
+  -> Shorts ID [0914]: (HED) P.E. - Bartender [MATCHES WITH: 0050]
+
+--- CANONICAL TARGET 0053: Pendulum - 9,000 Miles ---
+  -> Shorts ID [0187]: Pendulum - 9,000 Miles [MATCHES WITH: 0053]
+  -> Shorts ID [0637]: Pendulum - 9,000 Miles [MATCHES WITH: 0053]
+  -> Shorts ID [0781]: Pendulum - 9,000 Miles [MATCHES WITH: 0053]
+  -> Shorts ID [2374]: Pendulum - 9,000 Miles [MATCHES WITH: 0053]
+
+--- CANONICAL TARGET 0055: Attila - Pizza ---
+  -> Shorts ID [0705]: Attila - Pizza [MATCHES WITH: 0055]
+  -> Shorts ID [1568]: Attila - Pizza [MATCHES WITH: 0055]
+
+--- CANONICAL TARGET 0056: Autopilot Off - The 12th Day ---
+  -> Shorts ID [2074]: Autopilot Off - The 12th Day [MATCHES WITH: 0056]
+
+--- CANONICAL TARGET 0058: BrokeNCYDE - 2 Drunk 2 Drive ---
+  -> Shorts ID [0192]: BrokeNCYDE - 2 Drunk 2 Drive [MATCHES WITH: 0058]
+  -> Shorts ID [0255]: BrokeNCYDE - 2 Drunk 2 Drive [MATCHES WITH: 0058]
+
+--- CANONICAL TARGET 0059: Coheed And Cambria - A Favor House Atlantic ---
+  -> Shorts ID [0191]: Coheed And Cambria - A Favor House Atlantic [MATCHES WITH: 0059]
+
+--- CANONICAL TARGET 0060: Avenged Sevenfold - A Little Piece Of Heaven ---
+  -> Shorts ID [0426]: Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+  -> Shorts ID [0908]: Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+  -> Shorts ID [1024]: Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+  -> Shorts ID [1072]: Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+  -> Shorts ID [2189]: Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+
+--- CANONICAL TARGET 0061: Rammstein - Adieu ---
+  -> Shorts ID [0386]: Rammstein - Adieu [MATCHES WITH: 0061]
+  -> Shorts ID [2063]: Rammstein - Adieu [MATCHES WITH: 0061]
+
+--- CANONICAL TARGET 0063: Rammstein - Adios ---
+  -> Shorts ID [1189]: Rammstein - Adios [MATCHES WITH: 0063]
+
+--- CANONICAL TARGET 0070: Rammstein - Amerika ---
+  -> Shorts ID [0673]: Rammstein - Amerika [MATCHES WITH: 0070]
+  -> Shorts ID [0782]: Rammstein - Amerika [MATCHES WITH: 0070]
+  -> Shorts ID [2427]: Rammstein - Amerika [MATCHES WITH: 0070]
+
+--- CANONICAL TARGET 0072: Rammstein - Hilf Mir ---
+  -> Shorts ID [0650]: Rammstein - Hilf Mir [MATCHES WITH: 0072]
+  -> Shorts ID [2397]: Rammstein - Hilf Mir [MATCHES WITH: 0072]
+
+--- CANONICAL TARGET 0073: Rammstein - Amour ---
+  -> Shorts ID [0553]: Rammstein - Amour [MATCHES WITH: 0073]
+  -> Shorts ID [0919]: Rammstein - Amour [MATCHES WITH: 0073]
+  -> Shorts ID [2438]: Rammstein - Amour [MATCHES WITH: 0073]
+
+--- CANONICAL TARGET 0074: Pegboard Nerds Feat Koda - Heaven Let Us Down ---
+  -> Shorts ID [0180]: Pegboard Nerds Feat Koda - Heaven Let Us Down [MATCHES WITH: 0074]
+  -> Shorts ID [0258]: Pegboard Nerds Feat. Koda - Heaven Let Us Down [MATCHES WITH: 0074]
+
+--- CANONICAL TARGET 0079: All Time Low - A Love Like War (Feat. Vic Fuentes) ---
+  -> Shorts ID [2381]: All Time Low - A Love Like War (Feat. Vic Fuentes) [MATCHES WITH: 0079]
+
+--- CANONICAL TARGET 0082: Jawbreaker - Accident Prone ---
+  -> Shorts ID [0184]: Jawbreaker - Accident Prone [MATCHES WITH: 0082]
+
+--- CANONICAL TARGET 0086: Die Antwoord - Enter The Ninja ---
+  -> Shorts ID [0590]: Die Antwoord - Enter The Ninja [MATCHES WITH: 0086]
+  -> Shorts ID [0809]: Die Antwoord - Enter The Ninja [MATCHES WITH: 0086]
+  -> Shorts ID [2314]: Die Antwoord - Enter The Ninja [MATCHES WITH: 0086]
+
+--- CANONICAL TARGET 0087: System Of A Down - Lonely Day ---
+  -> Shorts ID [0697]: System Of A Down - Lonely Day [MATCHES WITH: 0087]
+  -> Shorts ID [1362]: System Of A Down - Lonely Day [MATCHES WITH: 0087]
+  -> Shorts ID [1442]: System Of A Down - Lonely Day [MATCHES WITH: 0087]
+  -> Shorts ID [2391]: System Of A Down - Lonely Day [MATCHES WITH: 0087]
+  -> Shorts ID [2461]: System Of A Down - Lonely Day [MATCHES WITH: 0087]
+
+--- CANONICAL TARGET 0088: "Weird Al" Yankovic - Amish Paradise ---
+  -> Shorts ID [1991]: "Weird Al" Yankovic - Amish Paradise [MATCHES WITH: 0088]
+
+--- CANONICAL TARGET 0089: Scorpions - Winds Of Change ---
+  -> Shorts ID [0197]: Scorpions - Winds Of Change [MATCHES WITH: 0089]
+  -> Shorts ID [2050]: Scorpions - Wind Of Change [MATCHES WITH: 0089]
+
+--- CANONICAL TARGET 0090: Lostprophets - Last Train Home ---
+  -> Shorts ID [1512]: Lostprophets - Last Train Home [MATCHES WITH: 0090]
+
+--- CANONICAL TARGET 0091: Avril Lavigne - How Does It Feel ---
+  -> Shorts ID [1146]: Avril Lavigne - How Does It Feel [MATCHES WITH: 0091]
+  -> Shorts ID [1822]: Avril Lavigne - How Does It Feel [MATCHES WITH: 0091]
+
+--- CANONICAL TARGET 0092: Silverstein - My Heroine ---
+  -> Shorts ID [0862]: Silverstein - My Heroine [MATCHES WITH: 0092]
+  -> Shorts ID [1160]: Silverstein - My Heroine [MATCHES WITH: 0092]
+
+--- CANONICAL TARGET 0093: Johnny Cash - Personal Jesus ---
+  -> Shorts ID [1180]: Johnny Cash - Personal Jesus [MATCHES WITH: 0093]
+
+--- CANONICAL TARGET 0094: Paramore - All I Wanted ---
+  -> Shorts ID [1040]: Paramore - All I Wanted [MATCHES WITH: 0094]
+  -> Shorts ID [1573]: Paramore - All I Wanted [MATCHES WITH: 0094]
+
+--- CANONICAL TARGET 0095: Rammstein - Du Hast ---
+  -> Shorts ID [0615]: Rammstein - Du Hast [MATCHES WITH: 0095]
+  -> Shorts ID [0698]: Rammstein - Du Hast [MATCHES WITH: 0095]
+
+--- CANONICAL TARGET 0096: Linkin Park - Lying From You ---
+  -> Shorts ID [0523]: Linkin Park - Lying From You [MATCHES WITH: 0096]
+  -> Shorts ID [2239]: Linkin Park - Lying From You [MATCHES WITH: 0096]
+
+--- CANONICAL TARGET 0097: Korn - Twisted Transistor ---
+  -> Shorts ID [2094]: Korn - Twisted Transistor [MATCHES WITH: 0097]
+
+--- CANONICAL TARGET 0098: Billy Talent - Red Flag ---
+  -> Shorts ID [0678]: Billy Talent - Red Flag [MATCHES WITH: 0098]
+  -> Shorts ID [0936]: Billy Talent - Red Flag [MATCHES WITH: 0098]
+  -> Shorts ID [2437]: Billy Talent - Red Flag [MATCHES WITH: 0098]
+
+--- CANONICAL TARGET 0099: Nirvana - The Man Who Sold The World ---
+  -> Shorts ID [0387]: Nirvana - The Man Who Sold The World [MATCHES WITH: 0099]
+  -> Shorts ID [2146]: Nirvana - The Man Who Sold The World [MATCHES WITH: 0099]
+
+--- CANONICAL TARGET 0100: My Chemical Romance - Dead! ---
+  -> Shorts ID [0666]: My Chemical Romance - Dead! [MATCHES WITH: 0100]
+  -> Shorts ID [1164]: My Chemical Romance - DEAD! [MATCHES WITH: 0100]
+  -> Shorts ID [2420]: My Chemical Romance - Dead! [MATCHES WITH: 0100]
+
+--- CANONICAL TARGET 0101: Paramore - Decode ---
+  -> Shorts ID [0560]: Paramore - Decode [MATCHES WITH: 0101]
+  -> Shorts ID [1008]: Paramore - Decode [MATCHES WITH: 0101]
+  -> Shorts ID [2269]: Paramore - Decode [MATCHES WITH: 0101]
+
+--- CANONICAL TARGET 0102: Green Day - 21 Guns ---
+  -> Shorts ID [1109]: Green Day - 21 Guns [MATCHES WITH: 0102]
+
+--- CANONICAL TARGET 0103: Linkin Park - Numb ---
+  -> Shorts ID [0620]: Linkin Park - Numb [MATCHES WITH: 0103]
+  -> Shorts ID [1070]: Linkin Park - Numb [MATCHES WITH: 0103]
+  -> Shorts ID [2345]: Linkin Park - Numb [MATCHES WITH: 0103]
+
+--- CANONICAL TARGET 0104: Ado - Usseewa ---
+  -> Shorts ID [0285]: Ado - Usseewa [MATCHES WITH: 0104]
+  -> Shorts ID [1293]: Ado - Usseewa [MATCHES WITH: 0104]
+  -> Shorts ID [2128]: Ado - Usseewa [MATCHES WITH: 0104]
+
+--- CANONICAL TARGET 0105: Muse - Time Is Running Out ---
+  -> Shorts ID [1162]: Muse - Time Is Running Out [MATCHES WITH: 0105]
+  -> Shorts ID [1286]: Muse - Time Is Running Out [MATCHES WITH: 0105]
+  -> Shorts ID [1646]: Muse - Time Is Running Out [MATCHES WITH: 0105]
+
+--- CANONICAL TARGET 0106: Tom Misch - Disco Yes ---
+  -> Shorts ID [0460]: Tom Misch - Disco Yes [MATCHES WITH: 0106]
+  -> Shorts ID [0894]: Tom Misch - Disco Yes [MATCHES WITH: 0106]
+  -> Shorts ID [2333]: Tom Misch - Disco Yes [MATCHES WITH: 0106]
+
+--- CANONICAL TARGET 0108: My Chemical Romance - I Don't Love You ---
+  -> Shorts ID [1185]: My Chemical Romance - I Don't Love You [MATCHES WITH: 0108]
+
+--- CANONICAL TARGET 0109: Bullet For My Valentine - Tears Don't Fall ---
+  -> Shorts ID [1273]: Bullet For My Valentine - Tears Don't Fall [MATCHES WITH: 0109]
+  -> Shorts ID [1712]: Bullet For My Valentine - Tears Don't Fall [MATCHES WITH: 0109]
+
+--- CANONICAL TARGET 0110: HIM - Wings Of A Butterfly ---
+  -> Shorts ID [0390]: HIM - Wings Of A Butterfly [MATCHES WITH: 0110]
+  -> Shorts ID [2147]: HIM - Wings Of A Butterfly [MATCHES WITH: 0110]
+
+--- CANONICAL TARGET 0111: System Of A Down - Toxicity ---
+  -> Shorts ID [0428]: System Of A Down - Toxicity [MATCHES WITH: 0111]
+  -> Shorts ID [2193]: System Of A Down - Toxicity [MATCHES WITH: 0111]
+
+--- CANONICAL TARGET 0112: Red Hot Chili Peppers - Soul To Squeeze ---
+  -> Shorts ID [2376]: Red Hot Chili Peppers - Soul To Squeeze [MATCHES WITH: 0112]
+
+--- CANONICAL TARGET 0113: Pendulum - Fasten Your Seatbelt ---
+  -> Shorts ID [0418]: Pendulum - Fasten Your Seatbelt [MATCHES WITH: 0113]
+  -> Shorts ID [0757]: Pendulum - Fasten Your Seatbelt [MATCHES WITH: 0113]
+  -> Shorts ID [2180]: Pendulum - Fasten Your Seatbelt [MATCHES WITH: 0113]
+
+--- CANONICAL TARGET 0114: Megadeth - Sweating Bullets ---
+  -> Shorts ID [0388]: Megadeth - Sweating Bullets [MATCHES WITH: 0114]
+  -> Shorts ID [2022]: Megadeth - Sweating Bullets [MATCHES WITH: 0114]
+
+--- CANONICAL TARGET 0116: BABYMETAL & Electric Callboy - RATATATA ---
+  -> Shorts ID [2236]: BABYMETAL & Electric Callboy - RATATATA [MATCHES WITH: 0116]
+
+--- CANONICAL TARGET 0118: Coal Chamber - Sway ---
+  -> Shorts ID [1626]: Coal Chamber - Sway [MATCHES WITH: 0118]
+
+--- CANONICAL TARGET 0120: Burzum - Autumn Leaves ---
+  -> Shorts ID [0372]: Burzum - Autumn Leaves [MATCHES WITH: 0120]
+  -> Shorts ID [1791]: Burzum - Autumn Leaves [MATCHES WITH: 0120]
+
+--- CANONICAL TARGET 0122: Rise Against - Savior ---
+  -> Shorts ID [0421]: Rise Against - Savior [MATCHES WITH: 0122]
+  -> Shorts ID [2184]: Rise Against - Savior [MATCHES WITH: 0122]
+
+--- CANONICAL TARGET 0123: The Offspring - Gone Away ---
+  -> Shorts ID [0500]: The Offspring - Gone Away [MATCHES WITH: 0123]
+
+--- CANONICAL TARGET 0124: Arctic Monkeys - Do I Wanna Know? ---
+  -> Shorts ID [0407]: Arctic Monkeys - Do I Wanna Know? [MATCHES WITH: 0124]
+  -> Shorts ID [1381]: Arctic Monkeys - Do I Wanna Know? [MATCHES WITH: 0124]
+  -> Shorts ID [2169]: Arctic Monkeys - Do I Wanna Know? [MATCHES WITH: 0124]
+
+--- CANONICAL TARGET 0127: +44 (Plus 44) - Chapter XIII ---
+  -> Shorts ID [0658]: +44 (Plus 44) - Chapter XIII [MATCHES WITH: 0127]
+  -> Shorts ID [1085]: +44 (Plus 44) - Chapter XIII [MATCHES WITH: 0127]
+  -> Shorts ID [2411]: +44 - Chapter XIII [MATCHES WITH: 0127]
+
+--- CANONICAL TARGET 0128: Metallica - Nothing Else Matters ---
+  -> Shorts ID [0437]: Metallica - Nothing Else Matters [MATCHES WITH: 0128]
+  -> Shorts ID [1175]: Metallica - Nothing Else Matters [MATCHES WITH: 0128]
+  -> Shorts ID [2202]: Metallica - Nothing Else Matters [MATCHES WITH: 0128]
+
+--- CANONICAL TARGET 0129: Marilyn Manson - Coma White ---
+  -> Shorts ID [1163]: Marilyn Manson - Coma White [MATCHES WITH: 0129]
+
+--- CANONICAL TARGET 0130: Motionless In White - Another Life ---
+  -> Shorts ID [0680]: Motionless In White - Another Life [MATCHES WITH: 0130]
+  -> Shorts ID [0702]: Motionless In White - Another Life [MATCHES WITH: 0130]
+  -> Shorts ID [2441]: Motionless In White - Another Life [MATCHES WITH: 0130]
+
+--- CANONICAL TARGET 0131: Radiohead - Paranoid Android ---
+  -> Shorts ID [0204]: Radiohead - Paranoid Android [MATCHES WITH: 0131]
+  -> Shorts ID [0900]: Radiohead - Paranoid Android [MATCHES WITH: 0131]
+  -> Shorts ID [2387]: Radiohead - Paranoid Android [MATCHES WITH: 0131]
+
+--- CANONICAL TARGET 0132: La Bouche - Be My Lover ---
+  -> Shorts ID [0799]: La Bouche - Be My Lover [MATCHES WITH: 0132]
+
+--- CANONICAL TARGET 0133: Michael Jackson - Billie Jean ---
+  -> Shorts ID [1224]: Michael Jackson - Billie Jean [MATCHES WITH: 0133]
+  -> Shorts ID [1419]: Michael Jackson - Billie Jean [MATCHES WITH: 0133]
+
+--- CANONICAL TARGET 0134: Eminem - Rap God ---
+  -> Shorts ID [2059]: Eminem - Rap God [MATCHES WITH: 0134]
+
+--- CANONICAL TARGET 0135: Amon Amarth - Raise Your Horns ---
+  -> Shorts ID [0605]: Amon Amarth - Raise Your Horns [MATCHES WITH: 0135]
+  -> Shorts ID [2328]: Amon Amarth - Raise Your Horns [MATCHES WITH: 0135]
+
+--- CANONICAL TARGET 0140: Avenged Sevenfold - Bat Country ---
+  -> Shorts ID [0588]: Avenged Sevenfold - Bat Country [MATCHES WITH: 0140]
+  -> Shorts ID [1022]: Avenged Sevenfold - Bat Country [MATCHES WITH: 0140]
+  -> Shorts ID [2308]: Avenged Sevenfold - Bat Country [MATCHES WITH: 0140]
+
+--- CANONICAL TARGET 0141: The Used - All That I've Got ---
+  -> Shorts ID [1258]: The Used - All That I've Got [MATCHES WITH: 0141]
+  -> Shorts ID [1414]: The Used - All That I've Got [MATCHES WITH: 0141]
+
+--- CANONICAL TARGET 0142: The Amity Affliction - Don't Lean On Me ---
+  -> Shorts ID [2190]: The Amity Affliction - Don't Lean On Me [MATCHES WITH: 0142]
+
+--- CANONICAL TARGET 0144: Finntroll - Slaget Vid Blodsälv ---
+  -> Shorts ID [1251]: Finntroll - Slaget Vid Blodsälv [MATCHES WITH: 0144]
+
+
+===============================================================================================
+VIEW 2: NUMERICAL SHORTS ORDER (0180 TO 2461) - EXACT SHORTS REPOSITORY SEQUENCE
+===============================================================================================
+
+0180. Pegboard Nerds Feat Koda - Heaven Let Us Down [MATCHES WITH: 0074]
+0184. Jawbreaker - Accident Prone [MATCHES WITH: 0082]
+0187. Pendulum - 9,000 Miles [MATCHES WITH: 0053]
+0191. Coheed And Cambria - A Favor House Atlantic [MATCHES WITH: 0059]
+0192. BrokeNCYDE - 2 Drunk 2 Drive [MATCHES WITH: 0058]
+0197. Scorpions - Winds Of Change [MATCHES WITH: 0089]
+0204. Radiohead - Paranoid Android [MATCHES WITH: 0131]
+0255. BrokeNCYDE - 2 Drunk 2 Drive [MATCHES WITH: 0058]
+0258. Pegboard Nerds Feat. Koda - Heaven Let Us Down [MATCHES WITH: 0074]
+0285. Ado - Usseewa [MATCHES WITH: 0104]
+0372. Burzum - Autumn Leaves [MATCHES WITH: 0120]
+0375. American Hi-Fi - Flavor Of The Weak [MATCHES WITH: 0028]
+0376. American Authors - Best Day Of My Life [MATCHES WITH: 0024]
+0386. Rammstein - Adieu [MATCHES WITH: 0061]
+0387. Nirvana - The Man Who Sold The World [MATCHES WITH: 0099]
+0388. Megadeth - Sweating Bullets [MATCHES WITH: 0114]
+0390. HIM - Wings Of A Butterfly [MATCHES WITH: 0110]
+0407. Arctic Monkeys - Do I Wanna Know? [MATCHES WITH: 0124]
+0418. Pendulum - Fasten Your Seatbelt [MATCHES WITH: 0113]
+0421. Rise Against - Savior [MATCHES WITH: 0122]
+0426. Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+0428. System Of A Down - Toxicity [MATCHES WITH: 0111]
+0437. Metallica - Nothing Else Matters [MATCHES WITH: 0128]
+0460. Tom Misch - Disco Yes [MATCHES WITH: 0106]
+0500. The Offspring - Gone Away [MATCHES WITH: 0123]
+0517. Pat Benatar - Hit Me With Your Best Shot [MATCHES WITH: 0039]
+0523. Linkin Park - Lying From You [MATCHES WITH: 0096]
+0553. Rammstein - Amour [MATCHES WITH: 0073]
+0560. Paramore - Decode [MATCHES WITH: 0101]
+0587. 04 Limited Sazabys - Galapagos [MATCHES WITH: 0044]
+0588. Avenged Sevenfold - Bat Country [MATCHES WITH: 0140]
+0590. Die Antwoord - Enter The Ninja [MATCHES WITH: 0086]
+0605. Amon Amarth - Raise Your Horns [MATCHES WITH: 0135]
+0615. Rammstein - Du Hast [MATCHES WITH: 0095]
+0620. Linkin Park - Numb [MATCHES WITH: 0103]
+0637. Pendulum - 9,000 Miles [MATCHES WITH: 0053]
+0650. Rammstein - Hilf Mir [MATCHES WITH: 0072]
+0658. +44 (Plus 44) - Chapter XIII [MATCHES WITH: 0127]
+0665. System Of A Down - Hypnotize [MATCHES WITH: 0014]
+0666. My Chemical Romance - Dead! [MATCHES WITH: 0100]
+0673. Rammstein - Amerika [MATCHES WITH: 0070]
+0678. Billy Talent - Red Flag [MATCHES WITH: 0098]
+0680. Motionless In White - Another Life [MATCHES WITH: 0130]
+0697. System Of A Down - Lonely Day [MATCHES WITH: 0087]
+0698. Rammstein - Du Hast [MATCHES WITH: 0095]
+0702. Motionless In White - Another Life [MATCHES WITH: 0130]
+0705. Attila - Pizza [MATCHES WITH: 0055]
+0752. 04 Limited Sazabys - Galapagos [MATCHES WITH: 0044]
+0757. Pendulum - Fasten Your Seatbelt [MATCHES WITH: 0113]
+0781. Pendulum - 9,000 Miles [MATCHES WITH: 0053]
+0782. Rammstein - Amerika [MATCHES WITH: 0070]
+0799. La Bouche - Be My Lover [MATCHES WITH: 0132]
+0809. Die Antwoord - Enter The Ninja [MATCHES WITH: 0086]
+0862. Silverstein - My Heroine [MATCHES WITH: 0092]
+0886. Bush - Machinehead [MATCHES WITH: 0019]
+0887. Alice Cooper - No More Mr. Nice Guy [MATCHES WITH: 0017]
+0889. The Kinks - You Really Got Me [MATCHES WITH: 0048]
+0894. Tom Misch - Disco Yes [MATCHES WITH: 0106]
+0900. Radiohead - Paranoid Android [MATCHES WITH: 0131]
+0908. Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+0914. (HED) P.E. - Bartender [MATCHES WITH: 0050]
+0919. Rammstein - Amour [MATCHES WITH: 0073]
+0936. Billy Talent - Red Flag [MATCHES WITH: 0098]
+0943. System Of A Down - Hypnotize [MATCHES WITH: 0014]
+0975. Anouk - Good God [MATCHES WITH: 0021]
+1008. Paramore - Decode [MATCHES WITH: 0101]
+1022. Avenged Sevenfold - Bat Country [MATCHES WITH: 0140]
+1024. Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+1040. Paramore - All I Wanted [MATCHES WITH: 0094]
+1070. Linkin Park - Numb [MATCHES WITH: 0103]
+1072. Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+1085. +44 (Plus 44) - Chapter XIII [MATCHES WITH: 0127]
+1109. Green Day - 21 Guns [MATCHES WITH: 0102]
+1146. Avril Lavigne - How Does It Feel [MATCHES WITH: 0091]
+1160. Silverstein - My Heroine [MATCHES WITH: 0092]
+1162. Muse - Time Is Running Out [MATCHES WITH: 0105]
+1163. Marilyn Manson - Coma White [MATCHES WITH: 0129]
+1164. My Chemical Romance - DEAD! [MATCHES WITH: 0100]
+1175. Metallica - Nothing Else Matters [MATCHES WITH: 0128]
+1180. Johnny Cash - Personal Jesus [MATCHES WITH: 0093]
+1185. My Chemical Romance - I Don't Love You [MATCHES WITH: 0108]
+1189. Rammstein - Adios [MATCHES WITH: 0063]
+1202. American Hi-Fi - Flavor Of The Weak [MATCHES WITH: 0028]
+1224. Michael Jackson - Billie Jean [MATCHES WITH: 0133]
+1251. Finntroll - Slaget Vid Blodsälv [MATCHES WITH: 0144]
+1258. The Used - All That I've Got [MATCHES WITH: 0141]
+1273. Bullet For My Valentine - Tears Don't Fall [MATCHES WITH: 0109]
+1286. Muse - Time Is Running Out [MATCHES WITH: 0105]
+1293. Ado - Usseewa [MATCHES WITH: 0104]
+1362. System Of A Down - Lonely Day [MATCHES WITH: 0087]
+1381. Arctic Monkeys - Do I Wanna Know? [MATCHES WITH: 0124]
+1398. Screaming Females - Rotten Apple [MATCHES WITH: 0035]
+1414. The Used - All That I've Got [MATCHES WITH: 0141]
+1419. Michael Jackson - Billie Jean [MATCHES WITH: 0133]
+1438. Anouk - Good God [MATCHES WITH: 0021]
+1442. System Of A Down - Lonely Day [MATCHES WITH: 0087]
+1451. Alexisonfire - No Transitory [MATCHES WITH: 0012]
+1503. Rage Against The Machine - Bulls On Parade [MATCHES WITH: 0007]
+1512. Lostprophets - Last Train Home [MATCHES WITH: 0090]
+1564. American Authors - Best Day Of My Life [MATCHES WITH: 0024]
+1568. Attila - Pizza [MATCHES WITH: 0055]
+1573. Paramore - All I Wanted [MATCHES WITH: 0094]
+1626. Coal Chamber - Sway [MATCHES WITH: 0118]
+1646. Muse - Time Is Running Out [MATCHES WITH: 0105]
+1707. AFI - Totalimmortal [MATCHES WITH: 0047]
+1712. Bullet For My Valentine - Tears Don't Fall [MATCHES WITH: 0109]
+1719. The Dear Hunter - Stuck On A Wire Out On A Fence [MATCHES WITH: 0016]
+1791. Burzum - Autumn Leaves [MATCHES WITH: 0120]
+1822. Avril Lavigne - How Does It Feel [MATCHES WITH: 0091]
+1991. "Weird Al" Yankovic - Amish Paradise [MATCHES WITH: 0088]
+2022. Megadeth - Sweating Bullets [MATCHES WITH: 0114]
+2027. Joe Satriani - Satch Boogie [MATCHES WITH: 0013]
+2036. Gold Motel - Brand New Kind Of Blue [MATCHES WITH: 0027]
+2050. Scorpions - Wind Of Change [MATCHES WITH: 0089]
+2053. Queen - We Are The Champions [MATCHES WITH: 0031]
+2059. Eminem - Rap God [MATCHES WITH: 0134]
+2063. Rammstein - Adieu [MATCHES WITH: 0061]
+2074. Autopilot Off - The 12th Day [MATCHES WITH: 0056]
+2094. Korn - Twisted Transistor [MATCHES WITH: 0097]
+2128. Ado - Usseewa [MATCHES WITH: 0104]
+2132. A Change Of Pace - Weekend Warriors [MATCHES WITH: 0037]
+2146. Nirvana - The Man Who Sold The World [MATCHES WITH: 0099]
+2147. HIM - Wings Of A Butterfly [MATCHES WITH: 0110]
+2169. Arctic Monkeys - Do I Wanna Know? [MATCHES WITH: 0124]
+2180. Pendulum - Fasten Your Seatbelt [MATCHES WITH: 0113]
+2184. Rise Against - Savior [MATCHES WITH: 0122]
+2189. Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+2190. The Amity Affliction - Don't Lean On Me [MATCHES WITH: 0142]
+2193. System Of A Down - Toxicity [MATCHES WITH: 0111]
+2202. Metallica - Nothing Else Matters [MATCHES WITH: 0128]
+2236. BABYMETAL & Electric Callboy - RATATATA [MATCHES WITH: 0116]
+2239. Linkin Park - Lying From You [MATCHES WITH: 0096]
+2269. Paramore - Decode [MATCHES WITH: 0101]
+2285. 9mm Parabellum Bullet - Sacrifice [MATCHES WITH: 0008]
+2307. 04 Limited Sazabys - Galapagos [MATCHES WITH: 0044]
+2308. Avenged Sevenfold - Bat Country [MATCHES WITH: 0140]
+2314. Die Antwoord - Enter The Ninja [MATCHES WITH: 0086]
+2328. Amon Amarth - Raise Your Horns [MATCHES WITH: 0135]
+2333. Tom Misch - Disco Yes [MATCHES WITH: 0106]
+2345. Linkin Park - Numb [MATCHES WITH: 0103]
+2374. Pendulum - 9,000 Miles [MATCHES WITH: 0053]
+2376. Red Hot Chili Peppers - Soul To Squeeze [MATCHES WITH: 0112]
+2381. All Time Low - A Love Like War (Feat. Vic Fuentes) [MATCHES WITH: 0079]
+2387. Radiohead - Paranoid Android [MATCHES WITH: 0131]
+2391. System Of A Down - Lonely Day [MATCHES WITH: 0087]
+2397. Rammstein - Hilf Mir [MATCHES WITH: 0072]
+2411. +44 - Chapter XIII [MATCHES WITH: 0127]
+2419. System Of A Down - Hypnotize [MATCHES WITH: 0014]
+2420. My Chemical Romance - Dead! [MATCHES WITH: 0100]
+2427. Rammstein - Amerika [MATCHES WITH: 0070]
+2437. Billy Talent - Red Flag [MATCHES WITH: 0098]
+2438. Rammstein - Amour [MATCHES WITH: 0073]
+2441. Motionless In White - Another Life [MATCHES WITH: 0130]
+2461. System Of A Down - Lonely Day [MATCHES WITH: 0087]
