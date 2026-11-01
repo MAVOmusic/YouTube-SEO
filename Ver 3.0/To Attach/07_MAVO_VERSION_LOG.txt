@@ -2707,3 +2707,62 @@ python3 PY/generate_track_history.py && python3 PY/generate_reference_txts.py \\
 | Containers / kit | ROUND-TRIP PERFECT / KIT SYNC PERFECT ✓ |
 
 *   **Next:** CO-0003 (Chevelle - The Red package) when MAVO calls it; both edits ready to paste.
+
+================================================================================
+[Ver 3.6] - 2026-11-01 - FORMAT-LEVEL DECISION: KEEP THE PLAY ALONG, RETIRE THE SHELL
+================================================================================
+
+**Trigger:** MAVO, on song 0003 (MIW - Masterpiece, Play Along on Bass): *"1 of 8
+play along recording. This is just showcasing the game with full song on screen
+without me playing it. Shall we keep these or remove them?"* First format-level
+question in the channel walk.
+
+**Answer: keep the format, retire the shell. Do not delete, do not leave as-is.**
+
+| Signal (Masterpiece, 25-10-2022) | Value | Read |
+| --- | --- | --- |
+| Views / watch time | 790 / 27.2 h | healthy for a 2022 upload |
+| YouTube search share | **71.1%** | an indexed search asset, not a feed asset |
+| CTR | **9.3%** on 6.4k impressions | strong, on a bad title |
+| Average viewed | **56.2%** | above channel typical |
+| Still watching at 0:30 | **70%** | above typical - no early bounce |
+| Subscribers gained | **+51 from 459 viewers** | ~11% conversion, passive video |
+| Not subscribed | 86.6% | new-audience acquisition |
+| Top device | **TV 34.7%** | the play along format working as designed |
+| Sibling play alongs | 989 / 510 / 356 / 333 views | the series has its own audience |
+| Revenue | **GBP 0.00** | E4 ineligible - eligibility, not demand |
+
+**Why not delete:** deleting removes a live YouTube-search entry point that
+converts ~11% of its viewers into subscribers, and it contradicts a decision the
+corpus already recorded - the archive is filed in **Section C ("no Shorts or
+overhaul required")**, not Section D. Section C is package-exempt, so no `bands/`
+package was created for this song.
+
+**Why not leave as-is:** six bracketed template blocks (`[TITLE]`,
+`[CDLC DOWNLOAD LINK] SOON`, `[DESCRIPTION]`, `[ABOUT ME]`, `[REQUESTING SONGS]`,
+`[TWITCH SCHEDULE]`), a surgery note dated 5th October 2022, and a pin that is a
+pure weekly Kick/Twitch/Discord schedule with 0 replies.
+
+**The honesty rule:** this is not a cover and the copy no longer pretends it is.
+No "how did the take go?" question on a video where MAVO is not playing.
+
+**Delivered copy:** `Every bass note in Motionless In White's 'Masterpiece', left
+on screen` (70 chars, opener unused in 308 packages) + 1,034-char description
+(no CDLC link, no replacement), 20 tags / 362 chars (was 27 / 498), 119-char pin
+with zero URLs.
+
+**New rule §34:** judge a format on discovery, retention and subscriber
+conversion **separately from earning eligibility**.
+
+| Gate | Result |
+| --- | --- |
+| Banned characters in new copy | 0 ✓ |
+| Title opener uniqueness | 0 prior uses ✓ |
+| First description line | unique ✓ |
+| Gear line | unique ✓ |
+| Tag box | 20 tags / 362 of 500 ✓ |
+| Register | MR-0003 added, E4 roll-up 14 -> 15 ✓ |
+
+*   **Next:** CO-0004 (Chevelle - The Red package) when MAVO calls it; the CDLC
+    cheap test now runs on CO-0003 (more traffic, live placeholder); series
+    roll-out pending MAVO's count confirmation (7 PLAYALONG + 2 LOOP vs "8").

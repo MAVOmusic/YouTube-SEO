@@ -720,6 +720,10 @@ SECTION B: NUMBERED ACTIVE LONG-FORM BACKLOG (QUEUED FOR OVERHAUL: 0151 TO 0702)
 SECTION C: PLAYALONG & LOOP ARCHIVE (UNNUMBERED / NO SHORTS OR OVERHAUL REQUIRED)
 ===============================================================================================
 # Gameplay-only tracks without MAVO interaction or multi-hour ambient loops.
+# VER 3.6 NOTE: Section C items are KEPT. Audit CO-0003 tested the format against
+#   its own analytics (790 views, 71.1% YouTube search, 9.3% CTR, +51 subs,
+#   TV 34.7%) and concluded: keep the format, retire the template shell. Section C
+#   is package-exempt by design, so no bands/ entry is created for these.
 
 -[PA/LOOP 01] .38 Special - If I'd Been The One [PLAYALONG]
 -[PA/LOOP 02] My Chemical Romance - Welcome To The Black Parade [PLAYALONG]
@@ -728,7 +732,7 @@ SECTION C: PLAYALONG & LOOP ARCHIVE (UNNUMBERED / NO SHORTS OR OVERHAUL REQUIRED
 -[PA/LOOP 05] Motionless In White - Immaculate Misconception [PLAYALONG]
 -[PA/LOOP 06] Motionless In White - America [PLAYALONG]
 -[PA/LOOP 07] Motionless In White - Abigail [PLAYALONG]
--[PA/LOOP 08] Motionless In White - Masterpiece [PLAYALONG]
+-[PA/LOOP 08] Motionless In White - Masterpiece [PLAYALONG]  <- REWRITTEN 01-11-26, see CO-0003/MR-0003
 -[PA/LOOP 09] Burzum - Autumn Leaves [LOOP]
 
 
