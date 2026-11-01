@@ -435,6 +435,85 @@ four rewritten videos, in reverse rewrite order. The untouched siblings have
 dropped off the list entirely.**
 Four rewrites in, the rewritten videos ARE the watch-next surface.
 
+--- MR-0009 | CO-0008 | Green Day - X-Kid [PLAY ALONG] ---------------------------
+Video ID           : Ql-HKr1nwj4
+Upload / date      : 18-02-2024 (PREMIERE) | 4:05 | 407 views | 1.9 h | +59 subs
+Notices badge      : E4 INELIGIBLE | PARTIALLY BLOCKED | GBP 0.00
+Description risk   : 2024 shell - no CDLC placeholder, but the only content line
+                     is a typo'd "[DIS] AIMER: This song is an official DLC..."
+Pinned risk        : dead discord.gg/Hguy3JCXn, full weekly EST schedule, and a
+                     "we are so close to 1500" opener.
+Tags risk          : HIGH AND SELF-CONTRADICTORY. The description says OFFICIAL
+                     DLC; the tags say cdlc, rocksmith 2014 custom, customsong,
+                     custom songs, customsfoge, dic. A licensed track labelled as
+                     custom content, using the exact vocabulary the section 33
+                     CDLC-policy theory is built on. Also clone hero / guitar
+                     hero (competitor platforms) and a self-brand tag.
+Cause hypothesis   : E4-a CLAIM-DRIVEN. Green Day are on Reprise / Warner, a
+                     Content ID-claiming catalogue - "partially blocked" means
+                     specific segments are matched, not the whole track.
+Traffic verdict    : NOT A REAL AUDIENCE. See below. This is the only capture in
+                     the corpus where the numbers should be disregarded rather
+                     than analysed.
+Recreation verdict : KEEP, BUT LOW PRIORITY. It will never earn and it reached
+                     almost nobody genuine. It is however the HIGHEST priority
+                     for the two things copy cannot fix - the intro edit and the
+                     removal of the CDLC tags. Put effort into Black Parade and
+                     .38 Special before this title.
+
+--------------------------------------------------------------------------------
+WHY X-KID'S NUMBERS ARE EXCLUDED FROM SERIES AVERAGES
+--------------------------------------------------------------------------------
+Five independent signals agree, which is the standard this project now requires
+after two retractions:
+  1. Referrers: xmxbest.pro 6.5%, txxx.com 4.4% (adult tube), desitales2.com
+     3.4%, desi-porn.tube 1.6% - known referral-spam / bot domains.
+  2. Geography: India 77.6%, against UK 2.8-8.7% on the audited 2022 videos.
+  3. Retention: APV 6.7%, AVD 0:16, 10% at 0:30 (Studio says below typical).
+  4. CTR 1.6% on 3.0k impressions, 36.2% of impressions from recommending.
+  5. "Viewers also watch" reads "not enough eligible data" - a panel that works
+     on all five audited 2022 videos.
+Device panel reads mobile 54.5%, which would fit a bot profile, but per the
+VER 4.1 rule NO device claim is made from a single capture. The five above stand
+without it.
+
+Consequence: **the +59 subscribers are of unknown quality and are NOT comparable
+to America's 29.4%.** Series total stays +239 from five clean videos; X-Kid adds
+59 that should not be quoted as evidence of anything.
+
+--------------------------------------------------------------------------------
+THE APV RULE NEEDS A CONDITION - REFINED, NOT RETRACTED
+--------------------------------------------------------------------------------
+Ver 4.1: "low APV on a play along is a usage pattern, not a defect."
+TRUE for the five 2022 videos - 0:30 hold 62-70%, healthy curve.
+FALSE here - 6.7% APV with 10% at 0:30 is a broken curve.
+**CONDITION: APV is a usage pattern only when the 0:30 hold is healthy. If the
+opening hold has collapsed, APV is a real defect and it belongs to the edit.**
+Keep 0:30 as the discriminator between "used for a minute then saved" and
+"nobody watched".
+
+--------------------------------------------------------------------------------
+THE EDIT DEFECT - THE MOST ACTIONABLE FINDING IN THE WHOLE SERIES AUDIT
+--------------------------------------------------------------------------------
+The Intro key-moment frame is a Rocksmith SCORE / RESULTS screen ("Replay Score
+Attack on Hard", "Raise Your Mastery to 101%", "Get a 303 Note Streak", 100%
+overlay, MAVOmusic watermark). Average view duration is EXACTLY 0:16.
+The most economical reading: the video opens on a results card, the song has not
+started, and people leave before it does. Inference, not fact - but 0:16 and the
+length of that card matching is hard to dismiss.
+Fix options for MAVO: trim the opening in Studio's editor, or leave it and start
+future play alongs on the song with the score screen moved to the end.
+No metadata work can touch this.
+
+--------------------------------------------------------------------------------
+PREMIERE + WRONG-INTENT SEARCH
+--------------------------------------------------------------------------------
+Published as a Premiere: peak 3 concurrent, average 3. A debut made in front of
+an empty room.
+Search terms: "green day live" 8.3% (a CONCERT query) and "green day rocksmith"
+8.3% (the right query). Half the search traffic carried the wrong intent; the new
+title and description state plainly what the video is.
+
 ################################################################################
 ## THE REPERTOIRE RULE (NEW VER 3.7 - the real determinant of earnings)
 ################################################################################
@@ -458,14 +537,14 @@ wave at 1/3 of the Shorts wave's total revenue on 1/3 of the views.
 ################################################################################
 ## ROLL-UP (updated every capture)
 ################################################################################
-Captures audited         : 7 single-video (CO-0001 to CO-0007) + 1 wave (CO-W01)
+Captures audited         : 8 single-video (CO-0001 to CO-0008) + 1 wave (CO-W01)
                            + 1 full-series screen (CO-0003-SERIES, 8 play alongs + 1 loop)
 E1 EARNING-NO-CLAIM      : 0        (still none - see E2)
 E2 EARNING-REV-SHARE     : 1        <-- FOUND 01-11-26: Chopin Nocturne 1hr loop,
                                        4,887 views, GBP 0.54. MAVO was right that
                                        a few exist.
 E3 CLAIMED-NOT-EARNING   : 0
-E4 INELIGIBLE            : 19       (CO-0001 to CO-0007 + 12/12 of the Aug shipment)
+E4 INELIGIBLE            : 20       (CO-0001 to CO-0008 + 12/12 of the Aug shipment)
 E5 BLOCKED               : 0        (4 of the Aug LFs are PARTIALLY blocked)
 E6 UNKNOWN               : 1        (Chevelle - no package, no claim card read yet; now CO-0004)
 Remakes queued           : 0        <-- deliberately: a claimed cover re-claims

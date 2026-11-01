@@ -1357,3 +1357,214 @@ placeholder), so they get their own diagnosis rather than a template strip.
 The whole 2022 shell is now fully rewritten.
 
 ================================================================================
+
+================================================================================
+CO-0008 | Green Day - X-Kid (PLAY ALONG ON BASS)
+================================================================================
+Video ID           : Ql-HKr1nwj4
+Upload / date      : 18-02-2024  (published as a PREMIERE; Studio window
+                     17-02-2024 to 01-11-2026)
+Runtime            : 4:05 | source file "Green Day - X-Kid_Playalong_Final.mkv"
+Views / watch      : 407 | 1.9 h | +59 subscribers | unique viewers 346
+Package status     : NO bands/ package. Section C archive item [PA/LOOP 03].
+Notices badge      : Ineligible to earn | PARTIALLY BLOCKED
+Revenue            : GBP 0.00
+MR CLASS           : E4 INELIGIBLE (partially blocked) -> logged as MR-0009.
+SHELL              : DIFFERENT from the 2022 five. Emoji-led title, Kick+Twitch
+                     links, "[DIS] AIMER: This song is an official DLC you can
+                     find inside the game.", no CDLC placeholder. 2024 vintage.
+
+################################################################################
+## THIS VIDEO BREAKS THE SERIES PATTERN, AND THE METADATA IS NOT THE STORY
+################################################################################
+
+--------------------------------------------------------------------------------
+THE NUMBERS
+--------------------------------------------------------------------------------
+Impressions        : 3.0k | CTR 1.6% | 36.2% from YouTube recommending
+Funnel             : 51 engaged views from impressions, 0:57 average duration
+                     from impressions, 0.82 h watch time from impressions
+Retention          : AVD 0:16 | APV 6.7% | 10% still watching at 0:30, which
+                     Studio flags as BELOW typical
+Traffic            : External 79.1% | Browse 7.9% | Channel pages 7.1% |
+                     YouTube search 3.0% | Playlists 2.0% | Others 1.0%
+External sources   : xmxbest.pro 6.5% | txxx.com 4.4% | desitales2.com 3.4% |
+                     Google 1.6% | desi-porn.tube 1.6%
+Search terms       : "green day live" 8.3% | "green day rocksmith" 8.3%
+Audience           : India 77.6% | Turkiye 0.0% | Vietnam 0.0%
+                     male 90.2% / female 9.8% | 25-34 43.6%, 18-24 20.6%,
+                     35-44 20.6%, 45-54 15.2%
+                     not subscribed 83.9% | subscribed 16.1% (watch time)
+Engagement         : likes 100.0% | end screen CTR 0.0% vs channel 1.1% |
+                     0 hype | 0 remixes | no Shorts remixed
+Viewers also watch : "Not enough eligible data to show this report"
+Premiere           : peak 3 concurrent, average 3 concurrent
+
+--------------------------------------------------------------------------------
+FINDING 1: THE TRAFFIC IS NOT A REAL AUDIENCE, AND THAT IS A MULTI-SIGNAL CALL
+--------------------------------------------------------------------------------
+I have twice retracted single-metric claims in this project, so this one is
+stated only because several independent panels agree:
+  1. Referrer list is spam: xmxbest.pro, txxx.com (adult tube), desitales2.com,
+     desi-porn.tube. These are known referral-spam / bot referrer domains. Real
+     viewers do not arrive at a Green Day play along from those.
+  2. Geography: India 77.6% of views, on a channel whose audited videos read UK
+     2.8-8.7% and male-100%/25-34-100% on UK-centric traffic.
+  3. Retention: APV 6.7%, AVD 0:16, and only 10% still present at 0:30 (Studio
+     itself says below typical).
+  4. CTR 1.6% on 3,000 impressions, with 36.2% of impressions from YouTube
+     recommending - the recommender served it to people who did not want it.
+  5. YouTube cannot compute "Viewers also watch" for it: "not enough eligible
+     data". That flag does not appear on any of the five audited 2022 videos.
+CONSEQUENCE: **the +59 subscribers on this video cannot be treated as genuine
+conversion and must not be compared with America's 29.4%.** The channel total
+stays +239 from the five clean videos; X-Kid adds 59 of unknown quality.
+NOTE ON WHAT I AM **NOT** CLAIMING: the device panel reads mobile 54.5%, which
+would fit a bot profile, but under the VER 4.1 rule I do not build a case on a
+device split from a single capture. The five signals above carry the finding
+without it.
+
+--------------------------------------------------------------------------------
+FINDING 2: THE 0:16 AVERAGE IS THE INTRO - THIS IS AN EDIT PROBLEM
+--------------------------------------------------------------------------------
+The Intro key-moment frame sits on a Rocksmith SCORE / RESULTS screen:
+"X-Kid - Green Day - Replay Score Attack on Hard - Raise Your Mastery to 101% in
+this Song - Get a 303 Note Streak in this Song -, Lead / Rhythm / Score Attack,
+100% overlay, MAVOmusic watermark."
+The average view duration is **exactly 0:16**. The song has not started when the
+average viewer leaves.
+Stated as inference, not fact: the most economical explanation for AVD 0:16 is
+that the video opens on a results/menu card and people leave when they realise
+the song is not playing yet. That is a video-edit defect and NO amount of title,
+description, tag or pin work can move it.
+WHAT TO DO ABOUT IT (MAVO's call, not mine to force):
+  - check whether the opening 15-20 s can be trimmed in Studio's editor, or
+  - leave it and accept that this upload starts cold, or
+  - treat it as a lesson for future play alongs: start on the song, put the
+    score screen at the end if it belongs anywhere.
+This is the single most actionable item in the whole play along audit, and it
+costs nothing to check.
+
+--------------------------------------------------------------------------------
+FINDING 3: THE TAGS CONTRADICT THE DESCRIPTION - AND THAT IS POLICY EXPOSURE
+--------------------------------------------------------------------------------
+The description says, in the only bracketed block that is not boilerplate:
+  "[DIS] AIMER: This song is an official DLC you can find inside the game."
+(Official DLC. Licensed. Not custom content. Correct.)
+But the 27 tags include:
+  cdlc | rocksmith 2014 custom | customsong | custom songs | customsfoge
+  [misspelling of CustomsForge] | dic [typo for dlc]
+So the metadata labels a LICENSED DLC track as CUSTOM content, using the exact
+vocabulary that the whole CDLC-policy theory in section 33 is built on. Whether
+or not that causes the partial block, it is a self-inflicted contradiction and
+it is free to remove. Also present and removed: "clone hero" and "guitar hero"
+(competing platforms - mis-tags that farm irrelevant impressions), "relax",
+"sightread", "sight read", "charts", "bass songs", "how to play", and a
+self-brand "mavomusic" tag.
+HYPOTHESIS, explicitly not a finding: the Guitar Hero and Clone Hero tags may be
+part of why 36.2% of impressions came from YouTube recommending this to an
+audience that did not want it. Testable only by removing them and re-reading.
+
+--------------------------------------------------------------------------------
+FINDING 4: THE PREMIERE GAVE IT NOTHING
+--------------------------------------------------------------------------------
+The video was published as a Premiere with a peak of 3 concurrent viewers and an
+average of 3. A Premiere puts the first impression of a video inside a live
+format; launching to 3 people means the video's debut was made in front of an
+empty room. Not a defect in itself, but worth knowing before the next one is
+scheduled as a premiere.
+
+--------------------------------------------------------------------------------
+FINDING 5: THE SEARCH TERMS ARE BOTH WRONG-INTENT
+--------------------------------------------------------------------------------
+"green day live" 8.3% is a concert query - people looking for live footage got a
+lesson. "green day rocksmith" 8.3% is the right query. Half its search traffic is
+mismatched intent, which the new title and description correct by saying plainly
+what the video is.
+
+--------------------------------------------------------------------------------
+REFINEMENT TO THE VER 4.1 APV RULE (NOT A RETRACTION)
+--------------------------------------------------------------------------------
+Ver 4.1 said low APV on a play along is a usage pattern, not a defect. That was
+right for the five 2022 videos, where the 0:30 hold was 62-70% and healthy.
+It is NOT right here: 6.7% APV with 10% at 0:30 is a broken curve, not a
+practising viewer who stopped when they had what they needed.
+THE CONDITION THAT MAKES THE RULE WORK: APV is a usage pattern only when the
+0:30 hold is healthy. If the opening hold has collapsed, APV is a real defect and
+belongs to the edit, not the copy. Keep 0:30 as the discriminator.
+
+--------------------------------------------------------------------------------
+FINAL COPY (paste-ready, ASCII only)
+--------------------------------------------------------------------------------
+TITLE (56/100):
+Green Day's 'X-Kid' and the bass Mike Dirnt wrote for it
+
+DESCRIPTION (1195/5000):
+Green Day spent their forties writing about someone who never got there, and Mike Dirnt's bass underneath 'X-Kid' does the quiet work of holding the song together without ever asking for attention. It plays through here from the first bar with the bass line on screen the whole way.
+
+This one is worth pointing out: it is official DLC inside Rocksmith rather than a community-made chart, so the part you are reading is the real transcription and not an approximation of it. That matters if you are learning it properly rather than bluffing your way through.
+
+Nothing is layered over the game's own mix and there is no commentary talking across the bass.
+
+Requests stay open. If there is a bass line you have never found a decent version of, say so below and it goes on the list.
+
+🟣 Punk blocks run live on Twitch: https://www.twitch.tv/mavomusic
+💬 Requests and setlists live on Discord: https://discord.gg/ESGsGkN4j2
+
+**Genres:** Punk rock, pop punk, alternative rock
+**Format:** Full song, on-screen bass tab, official DLC chart, no overdubs
+🎸 Epiphone Thunderbird, kept out of the shot | 🎮 captured in Rocksmith 2014 Remastered (Steam)
+
+#XKid #GreenDay #MikeDirnt #BassPlayAlong #Rocksmith2014
+
+TAGS (249/500 chars, 16 tags):
+green day xkid bass, green day xkid, x-kid bass tab, xkid green day, mike dirnt bass, green day bass, green day rocksmith, rocksmith bass, bass play along, play along bass, bass tab, learn bass, pop punk bass, rocksmith 2014, bass guitar, bass cover
+
+PINNED COMMENT (146/300):
+Official DLC chart, so the tab on screen is the real one - and Mike Dirnt's line is the reason the song works. What should I play through next? 👇🎸
+
+--------------------------------------------------------------------------------
+WHAT CHANGED AND WHY
+--------------------------------------------------------------------------------
+- Title: a SIXTH distinct shape, opens "Green Day's 'X-Kid'..." - song-first with
+  the artist in the possessive, then the bassist named. Opener "Green" used 0
+  times across 308 packages. Names Mike Dirnt, which is safe here: unlike the
+  2017 Motionless bassist, Dirnt is the band's founding bassist of 38 years and
+  entirely uncontroversial with the fanbase.
+- Description: emoji stripped from the copy, the [KICK]/[TWITCH]/[SCHEDULE]
+  blocks and the full weekly EST schedule deleted, the [DISC] AIMER typo block
+  rewritten as a positive statement of what official DLC means for the learner
+  (real transcription, not an approximation) - that is the buried value in this
+  file, exactly as "no game needed" was in CO-0004.
+- Tags: 27 at 498/500 cut to 16 at 249. Removed every CDLC/custom string, both
+  competitor-platform tags, the filler, the typos and the self-brand tag.
+  **This restores 251 characters of headroom on a box that was completely full.**
+- Pin: the dead discord.gg/Hguy3JCXn and the full schedule are gone, and the
+  "we are so close to 1500" opener is gone with them. Zero URLs.
+
+--------------------------------------------------------------------------------
+DISCORD - MAVO RECREATED THE INVITE (01-11-2026)
+--------------------------------------------------------------------------------
+MAVO supplied https://discord.gg/ESGsGkN4j2 as a recreated invite. That is the
+same handle already used in 568 places across the live corpus, so the packages
+are correct and need no edit. Confirmed clean: NO dead invite (Hguy3JCXn,
+CeDvXXTKJv, sHtflKrX, CebyXXTKJv) appears in a single one of the 308 live
+packages. The dead codes survive only inside the log files, where they are
+recorded as evidence of what was wrong - which is where they belong.
+Pinned comments on the 2022 five and on this video still carry Hguy3JCXn in the
+LIVE VIDEO, though, not in the corpus. Those need replacing with the recreated
+invite when the new pins are pasted.
+
+--------------------------------------------------------------------------------
+SERIES POSITION - 6 OF 8 DONE
+--------------------------------------------------------------------------------
+Rewritten: Masterpiece, Another Life, Abigail, America, Immaculate Misconception,
+X-Kid.
+Remaining: Black Parade (504), .38 Special (1,347) - both 2024 shell.
+PRIORITY NOTE, stated honestly: of the eight, X-Kid is the LOWEST priority for the
+copy work I have just written, because the audience it reached was largely not
+real and it will stay ineligible regardless. It is however the HIGHEST priority
+for the two things copy cannot fix - the intro edit and the removal of the CDLC
+tags. Do not spend more effort on this title than on Black Parade or .38 Special.
+
+================================================================================
