@@ -241,6 +241,12 @@ Four minutes of Burzum calm turned into an hour, and it's been my start-soon scr
   Retired-phrase registry      : clean ✓
   Tracking-ID leak ("0001")    : absent from all public text ✓
 
+--- STATUS UPDATE 01-11-2026 ---------------------------------------------------
+  MAVO decision: "Rewrite all but we will get to it when get there." =>
+  CO-0001 = APPROVED (title + description + tags + pinned all to be replaced with
+  the blocks above). DEFERRED - not yet pasted into Studio; execute when the
+  walk-through reaches this video. Genre-correction question (D7) still open.
+
 --- OPEN ITEMS FOR MAVO -------------------------------------------------------
   1. Paste the four blocks above into Studio for the 2022 loop video.
   2. New thumbnail art ("1 HOUR") - MAVO side.

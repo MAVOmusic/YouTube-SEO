@@ -2527,3 +2527,47 @@ python3 -   # gate-check the drafted title/desc/tags/pin against all 308 package
 | Workspace gate (unchanged corpus) | both tiers green, 308 packages, 0 violations ✓ |
 
 *   **Next:** CO-0002 onward in upload order. MAVO pastes the four blocks into Studio and answers the genre-correction question (bands/ 0120 / 0372 / 1791).
+
+## [Ver 3.2] - 2026-11-01 | CA-2026-11-01 — FIRST CHANNEL-ANALYTICS CAPTURE + TITLE KEYWORD CONTRACT + TRAFFIC-FIRST QUEUE
+
+### 🎯 Task Summary & Strategy:
+
+*   **New standing cadence.** MAVO now uploads a dated channel-analytics folder to `_All Songs/0000 - Channel Analytics/Channel Analytics - YYYY-MM-DD/` every day (or nearly). Captures are transcribed into a new **`TXT/Channel_Analytics_Store.txt`** as `CA-YYYY-MM-DD` blocks — headline, content, top content, audience, revenue, realtime, read — with a delta line against the previous capture and a copy-paste template for future appends. Ships in the kit as `25_`.
+*   **CA-2026-11-01 (window 4–31 Oct 2026), 9 panels read:** 9,995 views (−9.2% vs the 19,200–29,800 usual band) · 35.7 h watch (−14.3%) · **−197 net subscribers** (gross +6; live 109,954) · £0.79 revenue · YouTube's literal diagnostic: *"No content was uploaded, which led to fewer views."*
+*   **Format reality:** Shorts 95.1% of views / long-form 4.9%; 86% of viewers watch Shorts only; 88.6% new viewers; 97.1% of watch time non-subscribed; Regular viewers **0.8%**; impressions 190.6k at **1.2% CTR**.
+*   **The decisive number: YouTube search = 82.6% of all traffic** (sound pages 5.7, Shorts feed 3.9, channel pages 2.7, external 1.9). Discovery is keyword matching, not feed luck.
+*   **Coverage inversion found:** 8 of the top-10 traffic earners have **no package at all** — 009 Sound System – Dreamscape 862v (0:18 / 59.2%), Chicago 26-or-6-to-4 152v (0:50 / 128.7%), 9mm Parabellum Bullet – Inferno 85v, Sabaton – En Livstid I Krig 77v (**1:02 / 173.7% = loop hit**), Primus – South Park Theme 73v, Alestorm – Rum 72v (**0:06 / 17.9% = hook failure**), Maximum The Hormone – ChuChu Lovely 66v. Only Good Charlotte 0154 and Lostprophets 0090/1512 are covered — and both are being watched on their **legacy** Shorts. Only 110/308 packages have ever been Studio-audited.
+*   **Revenue ladder:** Aug £3.30 → Sep £1.20 → Oct £0.86 (−74%); 96% of revenue is Shorts Feed ads; long-form RPM £0.08. Long-form is the only realistic revenue lane.
+*   **Audience:** US 25.5% / Mexico 2.6 / Brazil 1.7 / UK 1.6; **Male 96.7%**, 25–34 63.6% + 35–44 30.9% = 94.5% aged 25–44; mobile 62.0% / computer 25.5%; bell **428 users (0.4%)** on all notifications vs a 10–30% norm.
+*   **DOCTRINE CHANGE 1 — TITLE KEYWORD CONTRACT (§32).** Every title must carry the **artist name and song name** as a plain searchable string in roughly the first 50 characters, alongside the bespoke voice. §4's ban on formulaic templates stands; *omitting* the keywords is now a defect. Evidence: 82.6% search traffic; the whole top-10 is `Artist - Song … #rocksmith #bass`; and the newest upload — *"That dark, fuzz-drenched Do I Wanna Know? riff is peak 2010s indie!"* — has the song but **not the artist**, and did 90 views in 16 h against a 790–1,100 typical band at 1.2% CTR.
+*   **DOCTRINE CHANGE 2 — TRAFFIC-FIRST QUEUE (§32).** Priority: (1) songs YouTube already serves, (2) top-10 traffic earners, (3) live-tail regulars, (4) ID-order backlog. Refreshed from every channel capture.
+*   **DOCTRINE CHANGE 3 — PER-SHORT HOOK LEDGER (§32).** Log AVD% from "Top content"; **<35% = rewrite-the-opening trigger**, **>100% = loop shape worth re-cutting**.
+*   **CO-0001 status:** MAVO approved the full rewrite ("Rewrite all but we will get to it when get there") — recorded as APPROVED / DEFERRED in the audit log; the genre correction (D7) remains open.
+
+### 🐍 Python Scripts & Bash Commands Used:
+
+```bash
+git fetch origin && git reset --hard origin/main      # repo re-uploaded again; realign
+python3 -   # map the 28d top-10 + live tail against bands/ coverage
+python3 PY/generate_track_history.py && python3 PY/generate_reference_txts.py \
+  && python3 PY/build_master_under_review.py && python3 PY/repack.py \
+  && python3 PY/refresh_kit.py && bash verify.sh
+```
+
+### 📝 Files Created & Modified:
+
+*   **NEW:** `TXT/Channel_Analytics_Store.txt` (CA stream + baseline + append template); `To Attach/25_Channel_Analytics_Store.txt`.
+*   **MODIFIED:** `CONTEXT_BLOCK.txt` (VER 3.2, §32, status entry), `MAVO_PROJECT_LOG.txt`, `MAVO_VERSION_LOG.txt` (this entry), `TXT/Channel_Order_Audit_Log.txt` (CO-0001 = approved/deferred), `TXT/README_FIRST.txt`, `To Attach/00_PASTE_PRIORITY.txt`, `PY/refresh_kit.py`, plus regenerated kit copies.
+
+### ✅ Verification:
+
+| Check | Result |
+|---|---|
+| Corpus | 308 packages, unchanged |
+| Tier 1 / Tier 2 gate | both green, 0 violations |
+| Track history | 308 records, CSV + XLSX in sync |
+| Recovery containers | ROUND-TRIP PERFECT |
+| Kit | KIT SYNC PERFECT (25 copies) |
+| New store | CA-2026-11-01 transcribed, deltas armed for the next capture |
+
+*   **Next:** MAVO's next song in upload order; daily CA captures continue; CO-0001 rewrite executes when the walk-through reaches it.
