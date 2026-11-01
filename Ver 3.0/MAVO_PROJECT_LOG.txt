@@ -4051,3 +4051,62 @@ with a DIFFERENT shell - emoji-led titles, Kick and Twitch links, no CDLC
 placeholder - so they need their own diagnosis rather than a straight strip.
 
 ================================================================================
+
+================================================================================
+VER 3.9 - 2026-11-01 - CO-0005: ABIGAIL, THE TV TREND, AND THE THUMBNAIL PROBLEM
+================================================================================
+
+THE NUMBERS (356 views, 8.8 h, +37 subs, Ineligible / Ads off, GBP 0.00)
+  5.4k impressions, CTR 5.2%, 22.2% of impressions from YouTube recommending
+  AVD 1:28, APV 47.4%, 63% still watching at 0:30 - above typical
+  65.2% YouTube search, 12.6% playlists, 9.8% channel pages, 6.7% suggested
+  TV 47.8% / computer 34.9% / mobile 16.1% / tablet 1.2%
+  +37 subs from 220 unique viewers = 16.8% conversion
+
+THE CROSS-FEED IS NOW COMPOUNDING
+"Content suggesting this video": 75.0% own series (still the machine string),
+12.5% the retitled Masterpiece, 4.2% the retitled Another Life.
+"Viewers also watch", in order: Another Life (989), Masterpiece (790), then the
+untouched siblings at 510 and 333, then a 37-view Short.
+
+**The two rewritten titles have displaced the untouched ones at the top of the
+watch-next list on a video nobody has touched.** That is the second independent
+measurement of the compounding effect and it is stronger than the first: one
+retitle fed a sibling, two retitles now feed a third. At 2 of 8 rewritten, the
+two rewritten videos already outrank every untouched one in the watch-next list.
+
+THE TV TREND - THREE CAPTURES, ALL IN ONE DIRECTION
+  Masterpiece    TV 34.7% | mobile 34.2% | computer 28.7%
+  Another Life   TV 41.5% | mobile 31.0% | computer 26.4%
+  Abigail        TV 47.8% | mobile 16.1% | computer 34.9%
+TV rises every time, mobile collapses. A play along is a living-room format: the
+set goes on, the bass comes out, the phone stays in the pocket. This is the
+format working exactly as MAVO described it, and it is now visible three times.
+Practical consequence for thumbnails: the viewer is across a room, so the card
+has to read at living-room distance. Small text is wasted on this audience.
+
+THE REAL DEFECT IS NOT THE COPY, IT IS THE CARD
+CTR is the only metric moving the wrong way: 9.3% -> 8.5% -> 5.2%. Abigail also
+has the highest share of recommendation-driven impressions (22.2% vs 10.3%) and
+the lowest APV (47.4%), and its end screen CTR is 0.0% against a 1.1% channel
+average.
+Every thumbnail in the series is near-identical. When the recommender serves the
+video to someone less certain, an indistinguishable card cannot rescue the
+impression. No amount of description rewriting touches this.
+Thumbnails are now the top open item for the format, and end screens are doing
+literally nothing on this video - free traffic left on the table.
+
+DELIVERED
+  Title  Abigail by Motionless In White, bass part on screen from bar one
+         (64 chars, opener "Abigail" used 0 times; third distinct shape in the
+         set - "Every bass note...", "No game needed...", "Abigail by...")
+  Desc   1,229 chars, six bracketed blocks and the CDLC placeholder deleted
+  Tags   26 at 497/500 -> 19 at 383, restoring 117 characters of headroom.
+         Kept "motionless in white bass cover" - it is an observed search term
+         on this exact video.
+  Pin    three links, weekly schedule, subscribe begging, stale Discord invite
+         all removed. Zero URLs.
+
+MR-0006 logged, E4 roll-up 16 -> 17. Series 3 of 8 done.
+
+================================================================================

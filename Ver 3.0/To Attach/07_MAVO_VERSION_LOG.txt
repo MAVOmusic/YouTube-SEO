@@ -2890,3 +2890,63 @@ the song"*. Paragraph four, behind a dead CDLC link. Promoted to the title.
 *   **Next:** Abigail (356), America (333), Immaculate Misconception (510) on the
     2022 shell; then X-Kid (407), Black Parade (504), .38 Special (1,347) on the
     2024 shell, which needs its own diagnosis.
+
+================================================================================
+[Ver 3.9] - 2026-11-01 - CO-0005 ABIGAIL: TV TREND CONFIRMED, THUMBNAILS NAMED
+================================================================================
+
+**Capture:** 11 panels, `yr3av2oSv6E`, 26-10-2022, 3:07, 356 views.
+
+| Metric | Value |
+| --- | --- |
+| Views / watch / subs | 356 / 8.8 h / **+37** |
+| Unique viewers | 220 |
+| Subscriber conversion | **16.8%** (best in the series) |
+| Impressions / CTR | 5.4k / **5.2%** (lowest in the series) |
+| AVD / APV | 1:28 / 47.4% |
+| Still watching at 0:30 | 63% (above typical) |
+| YouTube search | 65.2% |
+| Top device | **TV 47.8%** |
+| Subscriber watch time | 37.9% (vs 11.2% on Another Life) |
+| End screen CTR | **0.0%** vs 1.1% channel average |
+| Revenue | **GBP 0.00** - Ineligible / Ads off |
+
+## Cross-feed, second measurement - now compounding
+Suggested: 75.0% own series, **12.5% Masterpiece**, **4.2% Another Life**.
+"Viewers also watch" is topped by **Another Life (989) then Masterpiece (790)**,
+above the untouched siblings at 510 and 333.
+
+Two rewritten titles are now feeding a third, and the rewritten titles have
+displaced the untouched ones at the top of the watch-next list on a video nobody
+has touched. At 2 of 8 rewritten, both rewritten videos already outrank every
+untouched one.
+
+## The TV trend - three captures, one direction
+
+| Video | TV | Mobile | Computer |
+| --- | --- | --- | --- |
+| Masterpiece | 34.7% | 34.2% | 28.7% |
+| Another Life | 41.5% | 31.0% | 26.4% |
+| Abigail | **47.8%** | 16.1% | 34.9% |
+
+Living-room format, confirmed three times. Consequence: thumbnail text must read
+at living-room distance.
+
+## The real defect: the card, not the copy
+CTR is the only metric moving the wrong way: **9.3% -> 8.5% -> 5.2%**. Abigail
+also has the highest share of recommendation-driven impressions (22.2% vs 10.3%)
+and the lowest APV (47.4%). Every thumbnail in the set is near-identical, so a
+weak impression has nothing to rescue it. **No description rewrite touches this.**
+Thumbnails are now the top open item for the format. End screen CTR 0.0% means
+end screens are doing nothing on this video.
+
+## Delivered
+- **Title** (64ch): `Abigail by Motionless In White, bass part on screen from bar one` - opener "Abigail" used 0 times; third distinct shape in the set
+- **Description** (1,229ch): six bracketed blocks and CDLC placeholder deleted
+- **Tags**: 26 at 497/500 -> 19 at 383
+- **Pin** (141ch): three links, weekly schedule, subscribe begging and stale Discord invite removed
+
+**MR-0006** logged, E4 roll-up 16 -> 17.
+
+*   **Next:** America (333) and Immaculate Misconception (510) on the 2022 shell;
+    then X-Kid (407), Black Parade (504), .38 Special (1,347) on the 2024 shell.

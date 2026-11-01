@@ -877,3 +877,171 @@ emoji-led titles, Kick/Twitch links, no CDLC placeholder - so they need their
 own diagnosis rather than a straight template strip.
 
 ================================================================================
+
+================================================================================
+CO-0005 | Motionless In White - Abigail (PLAY ALONG ON BASS)
+================================================================================
+Video ID           : yr3av2oSv6E
+Upload / date      : 26-10-2022  (Studio window 25-10-2022 to 01-11-2026)
+Runtime            : 3:07 | source file "Motionless In White - Abigail_Final.mkv"
+Views / watch      : 356 | 8.8 h | +37 subscribers | unique viewers 220
+Package status     : NO bands/ package. Section C archive item [PA/LOOP 07].
+                     Listed correctly - unlike Another Life, no repair needed.
+Notices badge      : Ineligible to earn (Ads off)
+Revenue            : GBP 0.00. Revenue, RPM and CPM all dash.
+MR CLASS           : E4 INELIGIBLE -> logged as MR-0006.
+
+--------------------------------------------------------------------------------
+THE NUMBERS
+--------------------------------------------------------------------------------
+Impressions        : 5.4k | CTR 5.2% | 22.2% of impressions came from YouTube
+                     recommending it
+Funnel             : 281 engaged views from impressions, 1:28 average duration
+                     from impressions, 6.89 h watch time from impressions
+Retention          : AVD 1:28 | APV 47.4% | 63% still watching at 0:30, flagged
+                     ABOVE typical
+Traffic            : YouTube search 65.2% | Playlists 12.6% | Channel pages 9.8% |
+                     Suggested 6.7% | Browse 2.8% | Others 2.8% | External 0.8%
+Search terms       : "rocksmith bass" 0.9% | "ice age full movie" 0.4% |
+                     "motionless in white bass cover" 0.4% | "rocksmith bass
+                     motionless in white" 0.4% | "slipknot rocksmith" 0.4%
+Devices            : TV 47.8% | Computer 34.9% | Mobile 16.1% | Tablet 1.2%
+Audience           : male 100% | 25-34 100% | not subscribed 62.1% |
+                     subscribed 37.9% (watch time) | UK 7.6% | no subs 100%
+Engagement         : likes 100.0% vs channel 97.4% | end screen CTR 0.0% vs
+                     channel 1.1% | 0 hype | 0 remixes
+Viewers also watch : "No game needed for Motionless In White's 'Another Life'
+                     bassline" (989) <- the NEW CO-0004 title, then
+                     "Every bass note in Motionless In White's 'Masterpiece',
+                     left on screen" (790) <- the NEW CO-0003 title, then
+                     Immaculate Misconception (510), America (333), and the
+                     Masterpiece Short (37)
+
+--------------------------------------------------------------------------------
+THE FINDING: TWO RETITLES ARE NOW FEEDING THE THIRD, AND IT SHOWS ON THE SHELF
+--------------------------------------------------------------------------------
+"Content suggesting this video" reads:
+  75.0%  own series (the untitled-sibling machine string)
+  12.5%  "Every bass note in Motionless In White's 'Master..."   <- CO-0003
+   4.2%  "No game needed for Motionless In White's 'Anot..."      <- CO-0004
+   4.2%  Motionless In White - Creatures Rocksmith 2014
+   4.2%  Abigail - Motionless In White + Bass only
+And "Viewers also watch" is now topped by the two REWRITTEN titles, in order of
+how recently they were rewritten (Another Life 989 first, Masterpiece 790
+second), with the untouched siblings below them.
+
+This is the second independent measurement of §36 and it is stronger than the
+first. CO-0004 showed one retitle feeding a sibling. CO-0005 shows TWO retitles
+feeding a THIRD, and the rewritten titles have displaced the untouched ones at
+the top of the watch-next list. The effect is compounding exactly as predicted:
+each rewrite adds another distinct destination for the recommender to serve.
+
+READ IT AS A RUNNING TOTAL: 2 of 8 rewritten, and the two rewritten ones are
+now the top two "viewers also watch" entries on videos that have not been
+touched. Six rewrites remain, and each one further separates the set from the
+wall of identical machine strings it currently looks like.
+
+--------------------------------------------------------------------------------
+THE TV TREND - NOW THREE POINTS, ALL IN ONE DIRECTION
+--------------------------------------------------------------------------------
+  CO-0003 Masterpiece      TV 34.7%  |  mobile 34.2%  |  computer 28.7%
+  CO-0004 Another Life     TV 41.5%  |  mobile 31.0%  |  computer 26.4%
+  CO-0005 Abigail          TV 47.8%  |  mobile 16.1%  |  computer 34.9%
+TV share rises with each video and mobile collapses. This is not a fluke of one
+capture any more. A play along is a living-room format: the set goes on, the
+bass comes out, and the phone is in a pocket. That is precisely the use case
+MAVO described ("showcasing the game with full song on screen") and it is
+working as designed - 47.8% of this video's watch time is people doing exactly
+that. Never judge this format on mobile-era assumptions.
+
+--------------------------------------------------------------------------------
+THE ONE REAL WEAKNESS, AND THE SUBS STORY THAT OUTWEIGHS IT
+--------------------------------------------------------------------------------
+CTR is the lowest of the three at 5.2% (vs 8.5% and 9.3%), and APV is the
+lowest at 47.4% (vs 52.8% and 56.2%). One plausible and checkable cause: 22.2%
+of this video's impressions came from YouTube RECOMMENDING it, versus 10.3% for
+Another Life. A higher share of recommendation-driven impressions means a higher
+share of impressions served to people the recommender was less sure about, which
+shows up as a lower CTR. The thumbnail across this series is near-identical, so
+there is nothing on the card to rescue a weak impression. Fixing thumbnails is a
+separate job and is now the top open item for the format.
+End screen CTR is 0.0% against a 1.1% channel average - the end screens are
+doing nothing at all on this video, which is free money left on the table.
+
+BUT: +37 subscribers from 220 unique viewers is a 16.8% conversion, the best of
+the three captures (11.1% on Masterpiece, 7.3% on Another Life). Subscribers
+account for 37.9% of its watch time, against 11.2% on Another Life. This video
+is small, badly titled and low-CTR, and it is still the best converter in the
+set. The audience is not the problem.
+
+--------------------------------------------------------------------------------
+WHAT IS WRONG WITH THE SURFACE
+--------------------------------------------------------------------------------
+TITLE   "Rocksmith 2014 | Play Along on Bass | M | Motionless In White - Abigail"
+DESC    The same six-block 2022 template as CO-0003 and CO-0004: [TITLE],
+        [CDLC DOWNLOAD LINK] SOON, [DESCRIPTION], [ABOUT ME] (including "29
+        years old"), [REQUESTING SONGS / BANDS FOR PLAY ALONG PROJECT],
+        [REQUESTING SONGS / BANDS FOR MY 100% PROJECT], and [TWITCH SCHEDULE]
+        with the 5th October 2022 surgery note.
+TAGS    26 tags at 497/500 - the box is effectively full.
+PIN     Identical to CO-0004: [KICK] [TWITCH] [DISCORD] [SCHEDULE], three links,
+        a full weekly EST schedule, the "we are so close to 1500" opener and the
+        stale discord.gg/Hguy3JCXn invite.
+
+--------------------------------------------------------------------------------
+FINAL COPY (paste-ready, ASCII only)
+--------------------------------------------------------------------------------
+TITLE (64/100):
+Abigail by Motionless In White, bass part on screen from bar one
+
+DESCRIPTION (1229/5000):
+Motionless In White wrote 'Abigail' as a horror story with a groove, and the bass is the part that actually keeps it moving rather than the guitars. The whole song plays out here with the bass line sitting on screen, so you can take it in by eye and by ear at the same time - no transcription, no guessing at the low end underneath the mix.
+
+Nothing was recorded over the top of it. What you hear is the game's own mix, untouched, which is exactly why the part stays audible instead of being buried under a second bass trying to make it sound bigger.
+
+The tuner runs in the corner the whole way through, so a string that drifts mid-song costs you three seconds rather than a rewind.
+
+If one of these songs has never had a play along you could actually use, tell me which and I will put it on the list.
+
+🟣 Horror-metal blocks run live on Twitch: https://www.twitch.tv/mavomusic
+💬 Song requests land on Discord: https://discord.gg/ESGsGkN4j2
+
+**Genres:** Metalcore, gothic metal, horror metal
+**Format:** Full song, on-screen bass tab, tuner left running, no overdubs
+🎸 Nothing recorded over the original mix | 🎮 sourced from Rocksmith 2014 Remastered (Steam)
+
+#Abigail #MotionlessInWhite #BassPlayAlong #GothicMetal #Rocksmith2014
+
+TAGS (383/500 chars, 19 tags):
+rocksmith bass, rocksmith bass motionless in white, motionless in white bass cover, abigail bass, abigail motionless in white bass, motionless in white abigail bass tab, abigail bass tab, motionless in white bass, motionless in white abigail, abigail, bass play along, play along bass, bass tab, learn bass, metalcore bass, rocksmith 2014, rocksmith, motionless in white, bass guitar
+
+PINNED COMMENT (141/300):
+Three minutes, no talking, no take to judge - just the part where you can see it. Which Motionless song is still missing from this series? 👇🎸
+
+--------------------------------------------------------------------------------
+WHAT CHANGED AND WHY
+--------------------------------------------------------------------------------
+- Title: opens on the SONG name, an opener used 0 times across 308 packages, and
+  a third distinct shape ("Abigail by X, bass part...") alongside CO-0003's
+  "Every bass note..." and CO-0004's "No game needed...". No shape repeats.
+- Description: all six bracketed blocks and the CDLC placeholder deleted. Written
+  around what makes this song usable - the bass carries it, the mix is untouched,
+  the tuner stays up.
+- Tags: 26 at 497/500 cut to 19 at 383, restoring 117 characters of headroom.
+  Kept "motionless in white bass cover" because it is an observed search term on
+  this exact video.
+- Pin: three links, weekly schedule, subscribe-begging and stale Discord invite
+  all removed. Zero URLs.
+- Thumbnail NOT addressed here. It is now the top open defect for the series and
+  needs a separate decision, because every video in the set uses a near-identical
+  card and CTR is the one metric moving the wrong way.
+
+--------------------------------------------------------------------------------
+SERIES POSITION
+--------------------------------------------------------------------------------
+3 of 8 done: Masterpiece, Another Life, Abigail.
+Remaining: America (333), Immaculate Misconception (510) - same 2022 shell.
+Then X-Kid (407), Black Parade (504), .38 Special (1,347) - 2024 shell, emoji
+titles, Kick/Twitch links, no CDLC placeholder. Those need their own diagnosis.
+
+================================================================================
