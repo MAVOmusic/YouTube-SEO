@@ -1,0 +1,1445 @@
+# MAVOmusic (@mavomusicyt) - BACKLOG SHORTS DUPLICATION AUDIT (0151 to 2460)
+# Total Backlog Shorts Examined: 2310
+# Total Multi-Upload Duplicate Tracks Found in 0151+: 479
+
+==========================================================================================
+FULL DUPLICATE CLUSTERS BEYOND CANONICAL FOLDERS LIST (SORTED BY UPLOAD COUNT)
+==========================================================================================
+
+Track: Good Charlotte - The Anthem (5 uploads)
+  Shorts IDs: [0250], [0855], [1078], [1168], [2067]
+
+Track: Blink-182 - Always (5 uploads)
+  Shorts IDs: [0391], [1015], [1057], [1263], [2061]
+
+Track: Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060] (5 uploads)
+  Shorts IDs: [0426], [0908], [1024], [1072], [2189]
+
+Track: System Of A Down - Lonely Day [MATCHES WITH: 0087] (5 uploads)
+  Shorts IDs: [0697], [1362], [1442], [2391], [2461]
+
+Track: Pendulum - 9,000 Miles [MATCHES WITH: 0053] (4 uploads)
+  Shorts IDs: [0187], [0637], [0781], [2374]
+
+Track: Green Day - 8th Avenue Serenade (4 uploads)
+  Shorts IDs: [0189], [0294], [1074], [1397]
+
+Track: Tool - The Pot (4 uploads)
+  Shorts IDs: [0203], [0996], [1159], [1517]
+
+Track: Paramore - The Only Exception (4 uploads)
+  Shorts IDs: [0268], [0863], [0994], [1379]
+
+Track: Rage Against The Machine - Bombtrack (4 uploads)
+  Shorts IDs: [0343], [0952], [1048], [1771]
+
+Track: Arctic Monkeys - Fluorescent Adolescent (4 uploads)
+  Shorts IDs: [0392], [0881], [0898], [1945]
+
+Track: 3 Doors Down - Away From The Sun (4 uploads)
+  Shorts IDs: [0395], [1023], [1259], [2139]
+
+Track: Rammstein - Ausländer (4 uploads)
+  Shorts IDs: [0416], [0982], [1052], [2178]
+
+Track: Good Charlotte - Girls & Boys (4 uploads)
+  Shorts IDs: [0455], [0851], [1071], [2230]
+
+Track: Aaliyah - Are You That Somebody (4 uploads)
+  Shorts IDs: [0501], [1003], [1067], [1472]
+
+Track: My Chemical Romance - Teenagers (4 uploads)
+  Shorts IDs: [0552], [0976], [1285], [2436]
+
+Track: Pendulum - Another Planet (4 uploads)
+  Shorts IDs: [0557], [0904], [0946], [2445]
+
+Track: +44 (Plus 44) - No, It Isn't (4 uploads)
+  Shorts IDs: [0575], [0933], [1301], [2294]
+
+Track: Linkin Park - One Step Closer (4 uploads)
+  Shorts IDs: [0646], [0978], [1137], [2392]
+
+Track: Rage Against The Machine - Take The Power Back (4 uploads)
+  Shorts IDs: [0694], [0960], [1145], [2459]
+
+Track: Good Charlotte - A New Beginning (3 uploads)
+  Shorts IDs: [0154], [0256], [0856]
+
+Track: Jack White - Sixteen Saltines (3 uploads)
+  Shorts IDs: [0159], [0261], [1699]
+
+Track: Bob Dylan - Knockin' On Heaven's Door (3 uploads)
+  Shorts IDs: [0163], [0185], [1929]
+
+Track: 88 Fingers Louie - Meds (3 uploads)
+  Shorts IDs: [0165], [0764], [2143]
+
+Track: Korn - Freak On A Leash (3 uploads)
+  Shorts IDs: [0172], [1373], [1953]
+
+Track: Good Charlotte - Broken Hearts Parade (3 uploads)
+  Shorts IDs: [0190], [0858], [1266]
+
+Track: +44 (Plus 44) - 155 (3 uploads)
+  Shorts IDs: [0193], [0660], [1086]
+
+Track: Red Hot Chili Peppers - Dosed (3 uploads)
+  Shorts IDs: [0199], [1026], [2288]
+
+Track: Paul McCartney & Wings - Band On The Run (3 uploads)
+  Shorts IDs: [0200], [1055], [1243]
+
+Track: Radiohead - Paranoid Android [MATCHES WITH: 0131] (3 uploads)
+  Shorts IDs: [0204], [0900], [2387]
+
+Track: Def Leppard - Pour Some Sugar On Me (3 uploads)
+  Shorts IDs: [0267], [0999], [1852]
+
+Track: Metallica - Orion (3 uploads)
+  Shorts IDs: [0284], [0725], [2435]
+
+Track: Ado - Usseewa [MATCHES WITH: 0104] (3 uploads)
+  Shorts IDs: [0285], [1293], [2128]
+
+Track: System Of A Down - Chop Suey! (3 uploads)
+  Shorts IDs: [0318], [1027], [2248]
+
+Track: Rage Against The Machine - Renegades Of Funk (3 uploads)
+  Shorts IDs: [0337], [1129], [1647]
+
+Track: Sabaton - Fields Of Verdun (3 uploads)
+  Shorts IDs: [0341], [1174], [2352]
+
+Track: Modjo - Lady (Hear Me Tonight) (3 uploads)
+  Shorts IDs: [0365], [1237], [1418]
+
+Track: Volbeat - Shotgun Blues (3 uploads)
+  Shorts IDs: [0382], [1378], [2133]
+
+Track: Simple Plan - Welcome To My Life (3 uploads)
+  Shorts IDs: [0384], [0890], [2151]
+
+Track: Ill Nino - How Can I Live (3 uploads)
+  Shorts IDs: [0389], [1290], [2145]
+
+Track: Pink Floyd - Money (3 uploads)
+  Shorts IDs: [0401], [1327], [2168]
+
+Track: Escape The Fate - Situations (3 uploads)
+  Shorts IDs: [0406], [0709], [2162]
+
+Track: Arctic Monkeys - Do I Wanna Know? [MATCHES WITH: 0124] (3 uploads)
+  Shorts IDs: [0407], [1381], [2169]
+
+Track: 3 Doors Down - Here Without You (3 uploads)
+  Shorts IDs: [0410], [0865], [2157]
+
+Track: Pendulum - Fasten Your Seatbelt [MATCHES WITH: 0113] (3 uploads)
+  Shorts IDs: [0418], [0757], [2180]
+
+Track: Rammstein - Morgenstern (3 uploads)
+  Shorts IDs: [0422], [0720], [2185]
+
+Track: .38 Special - Back To Paradise (3 uploads)
+  Shorts IDs: [0427], [0767], [2191]
+
+Track: 3 Doors Down - It's Not My Time (3 uploads)
+  Shorts IDs: [0430], [0721], [2197]
+
+Track: Metallica - Nothing Else Matters [MATCHES WITH: 0128] (3 uploads)
+  Shorts IDs: [0437], [1175], [2202]
+
+Track: Sabaton - Uprising (3 uploads)
+  Shorts IDs: [0441], [1155], [2208]
+
+Track: Alestorm - Keelhauled (3 uploads)
+  Shorts IDs: [0443], [1306], [2210]
+
+Track: Sabaton - Hill 3234 (3 uploads)
+  Shorts IDs: [0447], [1342], [2216]
+
+Track: Tom Misch - Disco Yes [MATCHES WITH: 0106] (3 uploads)
+  Shorts IDs: [0460], [0894], [2333]
+
+Track: 009 Sound System - Dreamscape (3 uploads)
+  Shorts IDs: [0471], [1356], [2213]
+
+Track: Mindless Self Indulgence - Shut Me Up (3 uploads)
+  Shorts IDs: [0476], [1314], [1691]
+
+Track: 4 Non Blondes - What's Up (3 uploads)
+  Shorts IDs: [0503], [0773], [2156]
+
+Track: 10 Years - Shoot It Out (3 uploads)
+  Shorts IDs: [0525], [1281], [2247]
+
+Track: HIM - The Sacrament (3 uploads)
+  Shorts IDs: [0526], [1029], [2249]
+
+Track: Oasis - Don't Look Back In Anger (3 uploads)
+  Shorts IDs: [0529], [0888], [2252]
+
+Track: Linkin Park - Crawling (3 uploads)
+  Shorts IDs: [0537], [1294], [2262]
+
+Track: George Michael - Faith (3 uploads)
+  Shorts IDs: [0539], [0776], [2264]
+
+Track: My Chemical Romance - Welcome To The Black Parade (3 uploads)
+  Shorts IDs: [0546], [1034], [2394]
+
+Track: Serj Tankian - The Unthinking Majority (3 uploads)
+  Shorts IDs: [0549], [0926], [2404]
+
+Track: Generation X - Listen (3 uploads)
+  Shorts IDs: [0551], [0937], [2431]
+
+Track: Rammstein - Amour [MATCHES WITH: 0073] (3 uploads)
+  Shorts IDs: [0553], [0919], [2438]
+
+Track: All Time Low - Somewhere In Neverland (3 uploads)
+  Shorts IDs: [0555], [0964], [2442]
+
+Track: Serj Tankian - Sky Is Over (3 uploads)
+  Shorts IDs: [0556], [0963], [2444]
+
+Track: Sabaton - 82nd All The Way (3 uploads)
+  Shorts IDs: [0558], [0970], [2446]
+
+Track: CKY - Flesh Into Gear (3 uploads)
+  Shorts IDs: [0559], [0966], [2448]
+
+Track: Paramore - Decode [MATCHES WITH: 0101] (3 uploads)
+  Shorts IDs: [0560], [1008], [2269]
+
+Track: *NSYNC - Bye Bye Bye (3 uploads)
+  Shorts IDs: [0574], [1031], [2293]
+
+Track: 10 Years - All Your Lies (3 uploads)
+  Shorts IDs: [0580], [0744], [2300]
+
+Track: Billy Talent - Sympathy (3 uploads)
+  Shorts IDs: [0581], [1209], [2302]
+
+Track: 04 Limited Sazabys - Galapagos [MATCHES WITH: 0044] (3 uploads)
+  Shorts IDs: [0587], [0752], [2307]
+
+Track: Avenged Sevenfold - Bat Country [MATCHES WITH: 0140] (3 uploads)
+  Shorts IDs: [0588], [1022], [2308]
+
+Track: Die Antwoord - Enter The Ninja [MATCHES WITH: 0086] (3 uploads)
+  Shorts IDs: [0590], [0809], [2314]
+
+Track: Limp Bizkit - Break Stuff (3 uploads)
+  Shorts IDs: [0610], [0716], [2334]
+
+Track: Linkin Park - Numb [MATCHES WITH: 0103] (3 uploads)
+  Shorts IDs: [0620], [1070], [2345]
+
+Track: Linkin Park - Bleed It Out (3 uploads)
+  Shorts IDs: [0626], [0785], [2351]
+
+Track: Linkin Park - In The End (3 uploads)
+  Shorts IDs: [0628], [1304], [2355]
+
+Track: 3 Inches Of Blood - Deadly Sinners (3 uploads)
+  Shorts IDs: [0630], [0730], [2358]
+
+Track: U2 - Vertigo (3 uploads)
+  Shorts IDs: [0633], [1131], [2364]
+
+Track: Dragonforce - My Spirit Will Go On (3 uploads)
+  Shorts IDs: [0636], [1339], [2372]
+
+Track: System Of A Down - B.Y.O.B. (3 uploads)
+  Shorts IDs: [0639], [1153], [2379]
+
+Track: Billy Talent - Standing In The Rain (3 uploads)
+  Shorts IDs: [0643], [1318], [2384]
+
+Track: Sabaton - Primo Victoria (3 uploads)
+  Shorts IDs: [0649], [1011], [2396]
+
+Track: T.A.T.U - All The Things She Said (3 uploads)
+  Shorts IDs: [0653], [0942], [2402]
+
+Track: Sabaton - The Lion From The North (3 uploads)
+  Shorts IDs: [0655], [0916], [2408]
+
+Track: (HED) P.E. - I Got You (3 uploads)
+  Shorts IDs: [0661], [0921], [2414]
+
+Track: (G)I-DLE - Tomboy (3 uploads)
+  Shorts IDs: [0663], [0934], [2417]
+
+Track: (G)I-DLE - I'm The Trend (3 uploads)
+  Shorts IDs: [0664], [0923], [2418]
+
+Track: System Of A Down - Hypnotize [MATCHES WITH: 0014] (3 uploads)
+  Shorts IDs: [0665], [0943], [2419]
+
+Track: My Chemical Romance - Dead! [MATCHES WITH: 0100] (3 uploads)
+  Shorts IDs: [0666], [1164], [2420]
+
+Track: Bullet For My Valentine - Scream Aim Fire (3 uploads)
+  Shorts IDs: [0667], [0920], [2421]
+
+Track: Manowar - Kings Of Metal (3 uploads)
+  Shorts IDs: [0668], [0939], [2422]
+
+Track: Billy Talent - Viking Death March (3 uploads)
+  Shorts IDs: [0669], [0930], [2423]
+
+Track: Muse - Supermassive Black Hole (3 uploads)
+  Shorts IDs: [0670], [0938], [2424]
+
+Track: The Cult - Love Removal Machine (3 uploads)
+  Shorts IDs: [0671], [0931], [2425]
+
+Track: Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (3 uploads)
+  Shorts IDs: [0672], [0913], [2426]
+
+Track: Rammstein - Amerika [MATCHES WITH: 0070] (3 uploads)
+  Shorts IDs: [0673], [0782], [2427]
+
+Track: Sabaton - En Livstid I Krig (3 uploads)
+  Shorts IDs: [0674], [0917], [2428]
+
+Track: The Cult - She Sells Sanctuary (3 uploads)
+  Shorts IDs: [0675], [0924], [2429]
+
+Track: All Time Low - Weightless (3 uploads)
+  Shorts IDs: [0676], [1292], [2432]
+
+Track: Sabaton - Man Of War (3 uploads)
+  Shorts IDs: [0677], [0922], [2433]
+
+Track: Billy Talent - Red Flag [MATCHES WITH: 0098] (3 uploads)
+  Shorts IDs: [0678], [0936], [2437]
+
+Track: Sabaton - Steel Commanders (3 uploads)
+  Shorts IDs: [0679], [0965], [2439]
+
+Track: Motionless In White - Another Life [MATCHES WITH: 0130] (3 uploads)
+  Shorts IDs: [0680], [0702], [2441]
+
+Track: System Of A Down - Roulette (3 uploads)
+  Shorts IDs: [0681], [0962], [2443]
+
+Track: All Time Low - Dear Maria, Count Me In (3 uploads)
+  Shorts IDs: [0682], [0961], [2447]
+
+Track: Pendulum - Tarantula (3 uploads)
+  Shorts IDs: [0683], [0949], [2449]
+
+Track: Amaranthe - Archangel (3 uploads)
+  Shorts IDs: [0684], [0958], [2450]
+
+Track: Sabaton - Dreadnought (3 uploads)
+  Shorts IDs: [0685], [0950], [2451]
+
+Track: Green Day - X-Kid (3 uploads)
+  Shorts IDs: [0686], [0945], [2452]
+
+Track: Sabaton - The Hammer Has Fallen (3 uploads)
+  Shorts IDs: [0689], [0948], [2455]
+
+Track: Sabaton - Camouflage (3 uploads)
+  Shorts IDs: [0690], [0956], [2456]
+
+Track: Elvis Presley - Jailhouse Rock (3 uploads)
+  Shorts IDs: [0692], [0957], [2457]
+
+Track: BABYMETAL - Megitsune (3 uploads)
+  Shorts IDs: [0693], [0959], [2458]
+
+Track: Avril Lavigne - I'm With You (3 uploads)
+  Shorts IDs: [0724], [0981], [1521]
+
+Track: Good Charlotte - I Just Wanna Live (3 uploads)
+  Shorts IDs: [0857], [1313], [1789]
+
+Track: Good Charlotte - The River (3 uploads)
+  Shorts IDs: [0866], [1135], [1660]
+
+Track: Derek And The Dominos - Layla (3 uploads)
+  Shorts IDs: [0902], [1261], [1824]
+
+Track: Led Zeppelin - Kashmir (3 uploads)
+  Shorts IDs: [0907], [1227], [1420]
+
+Track: Guns N' Roses - November Rain (3 uploads)
+  Shorts IDs: [0911], [1333], [1617]
+
+Track: Black Sabbath - N.I.B. (3 uploads)
+  Shorts IDs: [0944], [1226], [1424]
+
+Track: Joan Jett - Bad Reputation (3 uploads)
+  Shorts IDs: [0955], [1047], [1737]
+
+Track: Creedence Clearwater Revival - Down On The Corner (3 uploads)
+  Shorts IDs: [0971], [1016], [1947]
+
+Track: The Fray - How To Save A Life (3 uploads)
+  Shorts IDs: [0985], [1287], [1738]
+
+Track: Iron Maiden - The Trooper (3 uploads)
+  Shorts IDs: [1006], [1353], [1692]
+
+Track: Sabaton - 40:1 (3 uploads)
+  Shorts IDs: [1009], [1265], [2008]
+
+Track: Fake Shark - Cheap Thrills (3 uploads)
+  Shorts IDs: [1032], [1291], [2031]
+
+Track: Deftones - Change (In The House Of Files) (3 uploads)
+  Shorts IDs: [1046], [1147], [1234]
+
+Track: Avenged Sevenfold - Almost Easy (3 uploads)
+  Shorts IDs: [1075], [1370], [1447]
+
+Track: Pendulum - Blood Sugar (3 uploads)
+  Shorts IDs: [1140], [1574], [1913]
+
+Track: Muse - Time Is Running Out [MATCHES WITH: 0105] (3 uploads)
+  Shorts IDs: [1162], [1286], [1646]
+
+Track: Kiss - Rock And Roll All Nite (2 uploads)
+  Shorts IDs: [0151], [1853]
+
+Track: Magic Wands - Black Magic (2 uploads)
+  Shorts IDs: [0161], [1697]
+
+Track: Euringer - Be Afraid Who You Are (2 uploads)
+  Shorts IDs: [0168], [0213]
+
+Track: Pegboard Nerds Feat Koda - Heaven Let Us Down [MATCHES WITH: 0074] (2 uploads)
+  Shorts IDs: [0180], [0258]
+
+Track: BrokeNCYDE - 2 Drunk 2 Drive [MATCHES WITH: 0058] (2 uploads)
+  Shorts IDs: [0192], [0255]
+
+Track: Adele - Lovesong (2 uploads)
+  Shorts IDs: [0202], [1680]
+
+Track: Manowar - Warriors Of The World United (2 uploads)
+  Shorts IDs: [0207], [0883]
+
+Track: Dance Gavin Dance - Elder Goose (2 uploads)
+  Shorts IDs: [0212], [1858]
+
+Track: The Killers - Read My Mind (2 uploads)
+  Shorts IDs: [0217], [1177]
+
+Track: Isaac Hayes - Chocolate Salty Balls (2 uploads)
+  Shorts IDs: [0219], [1939]
+
+Track: Bill Withers - Lean On Me (2 uploads)
+  Shorts IDs: [0235], [1677]
+
+Track: Mellow Mood - Tuff Rocky Road (2 uploads)
+  Shorts IDs: [0247], [0507]
+
+Track: Good Charlotte - Wondering (2 uploads)
+  Shorts IDs: [0248], [0853]
+
+Track: Good Charlotte - The Story Of My Old Man (2 uploads)
+  Shorts IDs: [0249], [0852]
+
+Track: Good Charlotte - Say Anything (2 uploads)
+  Shorts IDs: [0253], [0849]
+
+Track: Mellow Mood - Another Day (2 uploads)
+  Shorts IDs: [0257], [0508]
+
+Track: Train - Drops Of Jupiter (2 uploads)
+  Shorts IDs: [0259], [1020]
+
+Track: Bob Marley & The Wailers - Three Little Birds (2 uploads)
+  Shorts IDs: [0263], [2118]
+
+Track: Outkast - Hey Ya! (2 uploads)
+  Shorts IDs: [0264], [1541]
+
+Track: Elvis Presley - Suspicious Minds (2 uploads)
+  Shorts IDs: [0274], [2054]
+
+Track: Sabaton - Birds Of War (2 uploads)
+  Shorts IDs: [0282], [2245]
+
+Track: Rammstein - Deutschland (2 uploads)
+  Shorts IDs: [0283], [1912]
+
+Track: The Proclaimers - I'm Gonna Be (500 Miles) (2 uploads)
+  Shorts IDs: [0286], [1654]
+
+Track: Sabaton - In The Name Of God (2 uploads)
+  Shorts IDs: [0287], [1967]
+
+Track: Sabaton - Attero Dominatus (2 uploads)
+  Shorts IDs: [0288], [2292]
+
+Track: Aephanemer - Snowblind (2 uploads)
+  Shorts IDs: [0292], [1050]
+
+Track: Green Day - Dilemma (2 uploads)
+  Shorts IDs: [0302], [1596]
+
+Track: Dimmu Borgir - The Serpentine Offering (2 uploads)
+  Shorts IDs: [0305], [1496]
+
+Track: Scooter - How Much Is The Fish? (2 uploads)
+  Shorts IDs: [0309], [1559]
+
+Track: System Of A Down - Old School Hollywood (2 uploads)
+  Shorts IDs: [0310], [1918]
+
+Track: Rammstein - Moskau (2 uploads)
+  Shorts IDs: [0313], [2019]
+
+Track: System Of A Down - Holy Mountains (2 uploads)
+  Shorts IDs: [0317], [2337]
+
+Track: Sabaton - Defence Of Moscow (2 uploads)
+  Shorts IDs: [0320], [2360]
+
+Track: System Of A Down - Stealing Society (2 uploads)
+  Shorts IDs: [0324], [1759]
+
+Track: System Of A Down - Spiders (2 uploads)
+  Shorts IDs: [0325], [1772]
+
+Track: Pendulum - Slam (2 uploads)
+  Shorts IDs: [0327], [2012]
+
+Track: BABYMETAL - Gimme Chocolate!! (2 uploads)
+  Shorts IDs: [0332], [1532]
+
+Track: Aephanemer - Memento Mori (Instrumental) (2 uploads)
+  Shorts IDs: [0333], [1726]
+
+Track: System Of A Down - Streamline (2 uploads)
+  Shorts IDs: [0334], [1916]
+
+Track: Sabaton - Unbreakable (2 uploads)
+  Shorts IDs: [0335], [2298]
+
+Track: Sabaton - Screaming Eagles (2 uploads)
+  Shorts IDs: [0336], [2309]
+
+Track: Primus - My Name Is Mud (2 uploads)
+  Shorts IDs: [0339], [1464]
+
+Track: Rage Against The Machine - Know Your Enemy (2 uploads)
+  Shorts IDs: [0340], [1741]
+
+Track: Bryan Adams - Summer Of '69 (2 uploads)
+  Shorts IDs: [0342], [1560]
+
+Track: System Of A Down - Lost In Hollywood (2 uploads)
+  Shorts IDs: [0344], [1919]
+
+Track: Sabaton - Cliffs Of Gallipoli (2 uploads)
+  Shorts IDs: [0345], [2356]
+
+Track: Rage Against The Machine - Killing In The Name (2 uploads)
+  Shorts IDs: [0348], [1803]
+
+Track: Tankcsapda - Azt Mondom Állj! (2 uploads)
+  Shorts IDs: [0351], [1430]
+
+Track: Linkin Park - A Place For My Head (2 uploads)
+  Shorts IDs: [0354], [1401]
+
+Track: Tom Misch - Cinnamon Curls (2 uploads)
+  Shorts IDs: [0358], [1856]
+
+Track: Opeth - In My Time Of Need (2 uploads)
+  Shorts IDs: [0362], [1790]
+
+Track: Jack Off Jill - Strawberry Gashes (2 uploads)
+  Shorts IDs: [0366], [1466]
+
+Track: Iron Maiden - Wasted Years (2 uploads)
+  Shorts IDs: [0367], [1636]
+
+Track: Gorillaz - Clint Eastwood (2 uploads)
+  Shorts IDs: [0370], [1161]
+
+Track: Burzum - Autumn Leaves [MATCHES WITH: 0120] (2 uploads)
+  Shorts IDs: [0372], [1791]
+
+Track: Asking Alexandria - Not An American Average (2 uploads)
+  Shorts IDs: [0373], [1437]
+
+Track: American Hi-Fi - Flavor Of The Weak [MATCHES WITH: 0028] (2 uploads)
+  Shorts IDs: [0375], [1202]
+
+Track: American Authors - Best Day Of My Life [MATCHES WITH: 0024] (2 uploads)
+  Shorts IDs: [0376], [1564]
+
+Track: Alizée - Moi Lolita (2 uploads)
+  Shorts IDs: [0377], [1545]
+
+Track: Alexisonfire - This Could Be Anywhere In The World (2 uploads)
+  Shorts IDs: [0378], [1552]
+
+Track: 220 Volt - Love Is All You Need (2 uploads)
+  Shorts IDs: [0380], [1782]
+
+Track: Zac Brown Band - Chicken Fried (2 uploads)
+  Shorts IDs: [0381], [1966]
+
+Track: Sabaton - Livgardet (2 uploads)
+  Shorts IDs: [0385], [2013]
+
+Track: Rammstein - Adieu [MATCHES WITH: 0061] (2 uploads)
+  Shorts IDs: [0386], [2063]
+
+Track: Nirvana - The Man Who Sold The World [MATCHES WITH: 0099] (2 uploads)
+  Shorts IDs: [0387], [2146]
+
+Track: Megadeth - Sweating Bullets [MATCHES WITH: 0114] (2 uploads)
+  Shorts IDs: [0388], [2022]
+
+Track: HIM - Wings Of A Butterfly [MATCHES WITH: 0110] (2 uploads)
+  Shorts IDs: [0390], [2147]
+
+Track: ALI Feat. Aklo - Lost In Paradise (Jujutsu Kaisen Ending) (2 uploads)
+  Shorts IDs: [0393], [1970]
+
+Track: Alesana - Apology (2 uploads)
+  Shorts IDs: [0394], [1983]
+
+Track: System Of A Down - Revenga (2 uploads)
+  Shorts IDs: [0396], [2161]
+
+Track: Sabaton - To Hell And Back (2 uploads)
+  Shorts IDs: [0397], [2159]
+
+Track: Sabaton - Devil Dogs (2 uploads)
+  Shorts IDs: [0398], [2154]
+
+Track: Pendulum - Showdown (2 uploads)
+  Shorts IDs: [0399], [2164]
+
+Track: My Chemical Romance - This Is How I Disappear (2 uploads)
+  Shorts IDs: [0400], [2163]
+
+Track: Motionless In White - Scissorhands (The Last Snow) (2 uploads)
+  Shorts IDs: [0402], [2160]
+
+Track: Motionless In White - Reincarnate (2 uploads)
+  Shorts IDs: [0403], [2155]
+
+Track: Jaws - Stay In (2 uploads)
+  Shorts IDs: [0404], [2165]
+
+Track: Guns N' Roses - Sweet Child O' Mine (2 uploads)
+  Shorts IDs: [0405], [2153]
+
+Track: Aerosmith - I Don't Want To Miss A Thing (2 uploads)
+  Shorts IDs: [0408], [2170]
+
+Track: 2pac - California Love (2 uploads)
+  Shorts IDs: [0409], [2158]
+
+Track: Sabaton - 1916 (2 uploads)
+  Shorts IDs: [0411], [2171]
+
+Track: Linkin Park - New Divide (2 uploads)
+  Shorts IDs: [0412], [2173]
+
+Track: Avril Lavigne - Hot (2 uploads)
+  Shorts IDs: [0413], [2175]
+
+Track: Sabaton - Panzerkampf (2 uploads)
+  Shorts IDs: [0414], [2176]
+
+Track: Beatsteaks - Hail To The Freaks (2 uploads)
+  Shorts IDs: [0417], [2179]
+
+Track: Sabaton - Into The Fire (2 uploads)
+  Shorts IDs: [0419], [2181]
+
+Track: The Rolling Stones - Paint It, Black (2 uploads)
+  Shorts IDs: [0420], [2183]
+
+Track: Rise Against - Savior [MATCHES WITH: 0122] (2 uploads)
+  Shorts IDs: [0421], [2184]
+
+Track: ...And You Will Know Us By The Trail Of Dead - Relative Ways (2 uploads)
+  Shorts IDs: [0423], [2186]
+
+Track: Sabaton - Soldier Of Heaven (2 uploads)
+  Shorts IDs: [0424], [2187]
+
+Track: Motionless In White - Death March (2 uploads)
+  Shorts IDs: [0425], [2188]
+
+Track: System Of A Down - Toxicity [MATCHES WITH: 0111] (2 uploads)
+  Shorts IDs: [0428], [2193]
+
+Track: Alestorm - Rum (2 uploads)
+  Shorts IDs: [0429], [2195]
+
+Track: I See Stars Feat. Danny Worsnop - Endless Sky (2 uploads)
+  Shorts IDs: [0431], [1299]
+
+Track: Motionless In White - Eternally Yours (2 uploads)
+  Shorts IDs: [0438], [2204]
+
+Track: Arch Enemy - Taking Back My Soul (2 uploads)
+  Shorts IDs: [0439], [2205]
+
+Track: Motionless In White - Werewolf (2 uploads)
+  Shorts IDs: [0440], [2207]
+
+Track: Motionless In White - Cyberhex (2 uploads)
+  Shorts IDs: [0442], [2209]
+
+Track: Trivium - Dying In Your Arms (2 uploads)
+  Shorts IDs: [0444], [2211]
+
+Track: Sabaton - Ett Slag Färgat Rött (2 uploads)
+  Shorts IDs: [0445], [2214]
+
+Track: Motionless In White - Creatures (2 uploads)
+  Shorts IDs: [0446], [2215]
+
+Track: Motionless In White - Catharsis (2 uploads)
+  Shorts IDs: [0448], [2217]
+
+Track: System Of A Down - Prison Song (2 uploads)
+  Shorts IDs: [0449], [2218]
+
+Track: Fuerza Regida - OYE (2 uploads)
+  Shorts IDs: [0450], [2220]
+
+Track: Avril Lavigne - Take Me Away (2 uploads)
+  Shorts IDs: [0451], [2221]
+
+Track: Sabaton - Stormtroopers (2 uploads)
+  Shorts IDs: [0452], [2222]
+
+Track: Bring Me The Horizon Feat. Underoath - A Bullet W My Name On (2 uploads)
+  Shorts IDs: [0453], [2224]
+
+Track: Sabaton - Bismarck (2 uploads)
+  Shorts IDs: [0456], [2232]
+
+Track: John Denver - Take Me Home, Country Roads (2 uploads)
+  Shorts IDs: [0457], [2233]
+
+Track: Nirvana - All Apologies (2 uploads)
+  Shorts IDs: [0458], [2234]
+
+Track: Bring Me The Horizon Feat. Aurora - Limousine (2 uploads)
+  Shorts IDs: [0459], [2235]
+
+Track: Good Charlotte - Riot Girl (2 uploads)
+  Shorts IDs: [0464], [0850]
+
+Track: Mindless Self Indulgence - Stupid MF (2 uploads)
+  Shorts IDs: [0474], [1696]
+
+Track: Mindless Self Indulgence - Straight To Video (2 uploads)
+  Shorts IDs: [0475], [1365]
+
+Track: Abc - The Look Of Love (Part One) (2 uploads)
+  Shorts IDs: [0481], [1452]
+
+Track: Weezer - Say It Ain't So (2 uploads)
+  Shorts IDs: [0483], [1867]
+
+Track: Rancid - Ruby Soho (2 uploads)
+  Shorts IDs: [0487], [0824]
+
+Track: Paramore - Now (2 uploads)
+  Shorts IDs: [0493], [1492]
+
+Track: The Birthday Massacre - Blue (2 uploads)
+  Shorts IDs: [0497], [2028]
+
+Track: Ace Of Base - The Sign (2 uploads)
+  Shorts IDs: [0498], [1571]
+
+Track: Thirty Seconds To Mars - Attack (2 uploads)
+  Shorts IDs: [0504], [1877]
+
+Track: Billy Talent - Fallen Leaves (2 uploads)
+  Shorts IDs: [0511], [2117]
+
+Track: Queen - Another One Bites The Dust (2 uploads)
+  Shorts IDs: [0519], [1141]
+
+Track: Bullet For My Valentine - Hand Of Blood (2 uploads)
+  Shorts IDs: [0521], [1921]
+
+Track: Sabaton - Far From The Fame (2 uploads)
+  Shorts IDs: [0522], [2237]
+
+Track: Linkin Park - Lying From You [MATCHES WITH: 0096] (2 uploads)
+  Shorts IDs: [0523], [2239]
+
+Track: HIM - The Funeral Of Hearts (2 uploads)
+  Shorts IDs: [0524], [1002]
+
+Track: Sabaton - A Ghost In The Trenches (2 uploads)
+  Shorts IDs: [0527], [2250]
+
+Track: Motionless In White - /C0DE (2 uploads)
+  Shorts IDs: [0528], [2251]
+
+Track: My Chemical Romance - Famous Last Words (2 uploads)
+  Shorts IDs: [0530], [2253]
+
+Track: Motionless In White - Black Damask (The Fog) (2 uploads)
+  Shorts IDs: [0531], [2254]
+
+Track: Attack Attack! - Smokahontas (2 uploads)
+  Shorts IDs: [0532], [2256]
+
+Track: 10 Years - Through The Iris (2 uploads)
+  Shorts IDs: [0533], [2257]
+
+Track: Sabaton - 1648 (Swedish) (2 uploads)
+  Shorts IDs: [0534], [2258]
+
+Track: Motionless In White - Immaculate Misconception (2 uploads)
+  Shorts IDs: [0535], [2259]
+
+Track: Kansas - Carry On Wayward Son (2 uploads)
+  Shorts IDs: [0538], [2263]
+
+Track: Red Hot Chili Peppers - Suck My Kiss (2 uploads)
+  Shorts IDs: [0540], [2368]
+
+Track: Pendulum - The Vulture (2 uploads)
+  Shorts IDs: [0541], [2369]
+
+Track: Maroon 5 - This Love (2 uploads)
+  Shorts IDs: [0543], [2388]
+
+Track: Sabaton - Stalingrad (2 uploads)
+  Shorts IDs: [0544], [2390]
+
+Track: HIM - Buried Alive By Love (2 uploads)
+  Shorts IDs: [0545], [2255]
+
+Track: Thirty Seconds To Mars - Valhalla (2 uploads)
+  Shorts IDs: [0547], [2399]
+
+Track: 3 Doors Down - Kryptonite (2 uploads)
+  Shorts IDs: [0554], [2440]
+
+Track: Twenty One Pilots - Stressed Out (2 uploads)
+  Shorts IDs: [0561], [2270]
+
+Track: Sabaton - The Ballad Of Bull (2 uploads)
+  Shorts IDs: [0562], [2271]
+
+Track: 12 Stones - The Way I Feel (2 uploads)
+  Shorts IDs: [0563], [2274]
+
+Track: Adam And The Ants - That Voodoo! (2 uploads)
+  Shorts IDs: [0564], [2276]
+
+Track: Sabaton - Metal Crüe (2 uploads)
+  Shorts IDs: [0565], [2277]
+
+Track: Motionless In White - A.M.E.R.I.C.A. (2 uploads)
+  Shorts IDs: [0566], [2278]
+
+Track: Willie Nelson - Whiskey River (2 uploads)
+  Shorts IDs: [0567], [2280]
+
+Track: A Day To Remember - Another Song About The Weekend (2 uploads)
+  Shorts IDs: [0568], [2281]
+
+Track: Linkin Park - Papercut (2 uploads)
+  Shorts IDs: [0569], [2282]
+
+Track: Sabaton - Hearts Of Iron (2 uploads)
+  Shorts IDs: [0570], [2283]
+
+Track: 100 Gecs - Money Machine (2 uploads)
+  Shorts IDs: [0571], [2284]
+
+Track: Rammstein - Mein Teil (2 uploads)
+  Shorts IDs: [0572], [2289]
+
+Track: Aloe Blacc - I Need A Dollar (2 uploads)
+  Shorts IDs: [0573], [2290]
+
+Track: Linkin Park - Faint (2 uploads)
+  Shorts IDs: [0576], [2296]
+
+Track: -M- (Matthieu Chedid) - Qui De Nous Deux (2 uploads)
+  Shorts IDs: [0577], [2295]
+
+Track: Midnight Oil - Beds Are Burning (2 uploads)
+  Shorts IDs: [0578], [2297]
+
+Track: ZZ Top - La Grange (2 uploads)
+  Shorts IDs: [0579], [2299]
+
+Track: Arctic Monkeys - R U Mine? (2 uploads)
+  Shorts IDs: [0583], [1851]
+
+Track: Sabaton - Wehrmacht (2 uploads)
+  Shorts IDs: [0584], [2304]
+
+Track: "Weird Al" Yankovic - Foil (2 uploads)
+  Shorts IDs: [0585], [2305]
+
+Track: 10 Years - Wasteland (2 uploads)
+  Shorts IDs: [0586], [2306]
+
+Track: Korn - Word Up! (2 uploads)
+  Shorts IDs: [0589], [2311]
+
+Track: Sabaton - Karolinens Bön (2 uploads)
+  Shorts IDs: [0591], [2315]
+
+Track: Primus - South Park Theme (2 uploads)
+  Shorts IDs: [0592], [2460]
+
+Track: Tenacious D - Beelzeboss (2 uploads)
+  Shorts IDs: [0593], [2316]
+
+Track: Motionless In White - Masterpiece (2 uploads)
+  Shorts IDs: [0594], [2317]
+
+Track: Talking Heads - Burning Down The House (2 uploads)
+  Shorts IDs: [0595], [2319]
+
+Track: Pink Floyd - Comfortably Numb (2 uploads)
+  Shorts IDs: [0597], [2320]
+
+Track: Sabaton - Gott Mit Uns (2 uploads)
+  Shorts IDs: [0598], [2321]
+
+Track: Saliva Feat. Jim Johnston - I Walk Alone (WWE - Batista Theme) (2 uploads)
+  Shorts IDs: [0601], [2324]
+
+Track: Sum 41 - War (2 uploads)
+  Shorts IDs: [0602], [2325]
+
+Track: Sabaton - Nuclear Attack (2 uploads)
+  Shorts IDs: [0603], [2326]
+
+Track: Falling In Reverse - The Drug In Me Is You (2 uploads)
+  Shorts IDs: [0604], [2327]
+
+Track: Amon Amarth - Raise Your Horns [MATCHES WITH: 0135] (2 uploads)
+  Shorts IDs: [0605], [2328]
+
+Track: Avril Lavigne - Losing Grip (2 uploads)
+  Shorts IDs: [0606], [2329]
+
+Track: Nirvana - About A Girl (Unplugged) (2 uploads)
+  Shorts IDs: [0607], [2330]
+
+Track: Sabaton - White Death (2 uploads)
+  Shorts IDs: [0608], [2331]
+
+Track: *NSYNC - Tearin' Up My Heart (2 uploads)
+  Shorts IDs: [0609], [2332]
+
+Track: Sabaton - Metal Machine (2 uploads)
+  Shorts IDs: [0611], [2336]
+
+Track: -M- (Matthieu Chedid) - Laisse Aller (2 uploads)
+  Shorts IDs: [0612], [2338]
+
+Track: -M- (Matthieu Chedid) - Je Dis Aime (2 uploads)
+  Shorts IDs: [0613], [2339]
+
+Track: Rammstein - Du Hast [MATCHES WITH: 0095] (2 uploads)
+  Shorts IDs: [0615], [0698]
+
+Track: Sabaton - The Final Solution (2 uploads)
+  Shorts IDs: [0616], [2341]
+
+Track: Laufey - Falling Behind (2 uploads)
+  Shorts IDs: [0617], [2342]
+
+Track: Rammstein - Ich Will (2 uploads)
+  Shorts IDs: [0618], [2343]
+
+Track: Sabaton - Purple Heart (2 uploads)
+  Shorts IDs: [0619], [2344]
+
+Track: Sabaton - 7734 (2 uploads)
+  Shorts IDs: [0621], [2346]
+
+Track: A-HA - I Call Your Name (2 uploads)
+  Shorts IDs: [0622], [2347]
+
+Track: Dire Straits - Sultans Of Swing (2 uploads)
+  Shorts IDs: [0623], [2348]
+
+Track: Girugamesh - Break Down (2 uploads)
+  Shorts IDs: [0624], [2349]
+
+Track: Alicia Keys - If I Ain't Got You (2 uploads)
+  Shorts IDs: [0625], [2350]
+
+Track: Pendulum - Watercolour (2 uploads)
+  Shorts IDs: [0627], [2353]
+
+Track: 2Pac - Ambitionz Az A Ridah (2 uploads)
+  Shorts IDs: [0629], [2357]
+
+Track: Amy Winehouse - Back To Black (2 uploads)
+  Shorts IDs: [0631], [1390]
+
+Track: Rammstein - Keine Lust (2 uploads)
+  Shorts IDs: [0632], [2362]
+
+Track: Sabaton - Blood Of Bannockburn (2 uploads)
+  Shorts IDs: [0634], [2365]
+
+Track: Billy Talent - This Suffering (2 uploads)
+  Shorts IDs: [0635], [2366]
+
+Track: Sabaton - Christmas Truce (2 uploads)
+  Shorts IDs: [0638], [2377]
+
+Track: All Time Low - Damned If I Do Ya (Damned If I Don't) (2 uploads)
+  Shorts IDs: [0641], [2382]
+
+Track: Sabaton - Sparta (2 uploads)
+  Shorts IDs: [0642], [2383]
+
+Track: R.E.M. - Losing My Religion (2 uploads)
+  Shorts IDs: [0644], [2385]
+
+Track: Fleetwood Mac - Go Your Own Way (2 uploads)
+  Shorts IDs: [0645], [2389]
+
+Track: Billy Talent - Try Honesty (2 uploads)
+  Shorts IDs: [0647], [2393]
+
+Track: Nirvana - Come As You Are (2 uploads)
+  Shorts IDs: [0648], [2395]
+
+Track: Rammstein - Hilf Mir [MATCHES WITH: 0072] (2 uploads)
+  Shorts IDs: [0650], [2397]
+
+Track: Three Days Grace - Pain (2 uploads)
+  Shorts IDs: [0651], [2398]
+
+Track: Sabaton - Ghost Division (2 uploads)
+  Shorts IDs: [0652], [2401]
+
+Track: +44 (Plus 44) - Chapter XIII [MATCHES WITH: 0127] (2 uploads)
+  Shorts IDs: [0658], [1085]
+
+Track: (Hed) P.E. - Watch It Burn (2 uploads)
+  Shorts IDs: [0662], [2416]
+
+Track: Aephanemer - Old French Song (2 uploads)
+  Shorts IDs: [0688], [2454]
+
+Track: Avril Lavigne - Together (2 uploads)
+  Shorts IDs: [0691], [2052]
+
+Track: Eurobeat Brony - Discord (The Living Tombstone Remix) (2 uploads)
+  Shorts IDs: [0695], [2099]
+
+Track: AC/DC - Thunderstruck (2 uploads)
+  Shorts IDs: [0704], [1669]
+
+Track: Attila - Pizza [MATCHES WITH: 0055] (2 uploads)
+  Shorts IDs: [0705], [1568]
+
+Track: Aesthetic Perfection - Dead Zone (2 uploads)
+  Shorts IDs: [0722], [1922]
+
+Track: Avril Lavigne - Don't Tell Me (2 uploads)
+  Shorts IDs: [0723], [1850]
+
+Track: Coal Chamber - Big Truck (2 uploads)
+  Shorts IDs: [0733], [2148]
+
+Track: 12 Stones - Crash (2 uploads)
+  Shorts IDs: [0734], [2268]
+
+Track: 'Til Tuesday - Voices Carry (2 uploads)
+  Shorts IDs: [0758], [2291]
+
+Track: Falling In Reverse - Zombified (2 uploads)
+  Shorts IDs: [0780], [2267]
+
+Track: Good Charlotte - Lifestyles Of The Rich And Famous (2 uploads)
+  Shorts IDs: [0854], [1653]
+
+Track: Good Charlotte - I Don't Wanna Be In Love (Dance Floor Anthem) (2 uploads)
+  Shorts IDs: [0860], [1346]
+
+Track: Silverstein - My Heroine [MATCHES WITH: 0092] (2 uploads)
+  Shorts IDs: [0862], [1160]
+
+Track: Fountains Of Wayne - Stacy's Mom (2 uploads)
+  Shorts IDs: [0864], [1845]
+
+Track: Pantera - Cemetery Gates (2 uploads)
+  Shorts IDs: [0884], [2313]
+
+Track: Simple Plan - Shut Up (2 uploads)
+  Shorts IDs: [0891], [2140]
+
+Track: Black Sabbath - War Pigs (2 uploads)
+  Shorts IDs: [0906], [1843]
+
+Track: Green Day - Jesus Of Suburbia (2 uploads)
+  Shorts IDs: [0909], [1092]
+
+Track: Serj Tankian - Beethoven's C*nt (2 uploads)
+  Shorts IDs: [0912], [2403]
+
+Track: +44 - When Your Heart Stops Beating (2 uploads)
+  Shorts IDs: [0918], [2406]
+
+Track: +44 - Weatherman (2 uploads)
+  Shorts IDs: [0925], [2407]
+
+Track: CKY - Disengage The Simulator (2 uploads)
+  Shorts IDs: [0928], [2434]
+
+Track: +44 - Little Death (2 uploads)
+  Shorts IDs: [0929], [2410]
+
+Track: +44 - Lycanthrope (2 uploads)
+  Shorts IDs: [0932], [2001]
+
+Track: +44 - Make You Smile (2 uploads)
+  Shorts IDs: [0935], [2409]
+
+Track: +44 - Baby, Come On (2 uploads)
+  Shorts IDs: [0940], [2412]
+
+Track: Blink-182 - Obvious (2 uploads)
+  Shorts IDs: [0951], [2068]
+
+Track: Green Day - Good Riddance (Time Of Your Life) (2 uploads)
+  Shorts IDs: [0953], [1094]
+
+Track: Alien F_cker - Arabic UFO Party (2 uploads)
+  Shorts IDs: [0954], [2453]
+
+Track: Anouk - Good God [MATCHES WITH: 0021] (2 uploads)
+  Shorts IDs: [0975], [1438]
+
+Track: Nirvana - About A Girl (2 uploads)
+  Shorts IDs: [0979], [1473]
+
+Track: Incubus - Pardon Me (2 uploads)
+  Shorts IDs: [0980], [1133]
+
+Track: Coldplay - Viva La Vida (2 uploads)
+  Shorts IDs: [0983], [1360]
+
+Track: Mark Ronson Feat. Bruno Mars - Uptown Funk (2 uploads)
+  Shorts IDs: [0984], [2071]
+
+Track: Muse - Hysteria (2 uploads)
+  Shorts IDs: [0988], [2405]
+
+Track: Igorrr - Musette Maximum (2 uploads)
+  Shorts IDs: [0995], [1829]
+
+Track: Korpiklaani - Bring Us Pints Of Beer (2 uploads)
+  Shorts IDs: [0997], [1465]
+
+Track: Escape The Fate - This War Is Ours [The Guillotine II] (2 uploads)
+  Shorts IDs: [1000], [1796]
+
+Track: Evanescence - My Immortal (2 uploads)
+  Shorts IDs: [1001], [1380]
+
+Track: HIM - Gone With The Sin (2 uploads)
+  Shorts IDs: [1004], [1345]
+
+Track: Eyes Set To Kill - Reach (2 uploads)
+  Shorts IDs: [1007], [1830]
+
+Track: Ice Cube - It Was A Good Day (2 uploads)
+  Shorts IDs: [1010], [1193]
+
+Track: EarlyRise - Wasteland (2 uploads)
+  Shorts IDs: [1012], [1876]
+
+Track: The Beatles - Come Together (2 uploads)
+  Shorts IDs: [1013], [1616]
+
+Track: Rage Against The Machine - Down Rodeo (2 uploads)
+  Shorts IDs: [1017], [1585]
+
+Track: Children Of Bodom - Downfall (2 uploads)
+  Shorts IDs: [1018], [1859]
+
+Track: Billy Talent - Worker Bees (2 uploads)
+  Shorts IDs: [1025], [1307]
+
+Track: Trivium - In Waves (2 uploads)
+  Shorts IDs: [1030], [1731]
+
+Track: Muse - Bliss (2 uploads)
+  Shorts IDs: [1033], [1614]
+
+Track: Motionless In White - Du Hast (2 uploads)
+  Shorts IDs: [1036], [2125]
+
+Track: Eric Clapton - Cocaine (2 uploads)
+  Shorts IDs: [1037], [1613]
+
+Track: Toto - Africa (2 uploads)
+  Shorts IDs: [1039], [1651]
+
+Track: Paramore - All I Wanted [MATCHES WITH: 0094] (2 uploads)
+  Shorts IDs: [1040], [1573]
+
+Track: Deftones - Be Quiet And Drive (Far Away) (2 uploads)
+  Shorts IDs: [1042], [1462]
+
+Track: Serj Tankian - Saving Us (2 uploads)
+  Shorts IDs: [1045], [1758]
+
+Track: Bring Me The Horizon - Can You Feel My Heart (2 uploads)
+  Shorts IDs: [1053], [1657]
+
+Track: 3 Doors Down - Be Like That (2 uploads)
+  Shorts IDs: [1056], [1204]
+
+Track: Trivium - Built To Fall (2 uploads)
+  Shorts IDs: [1058], [1278]
+
+Track: Elvis Presley - Can't Help Falling In Love (2 uploads)
+  Shorts IDs: [1059], [1721]
+
+Track: P.O.D. - Change The World (2 uploads)
+  Shorts IDs: [1060], [2229]
+
+Track: Paramore - Brick By Boring Brick (2 uploads)
+  Shorts IDs: [1061], [1375]
+
+Track: Marilyn Manson - The Beautiful People (2 uploads)
+  Shorts IDs: [1063], [1361]
+
+Track: Arctic Monkeys - Arabella (2 uploads)
+  Shorts IDs: [1064], [1952]
+
+Track: Five Finger Death Punch - A Little Bit Off (2 uploads)
+  Shorts IDs: [1068], [1250]
+
+Track: Billy Talent - Devil In A Midnight Mass (2 uploads)
+  Shorts IDs: [1069], [2122]
+
+Track: Trivium - A Gunshot To The Head Of Trepidation (2 uploads)
+  Shorts IDs: [1073], [1989]
+
+Track: XZibit - Alkaholik (2 uploads)
+  Shorts IDs: [1076], [1807]
+
+Track: Blink-182 - All Of This (2 uploads)
+  Shorts IDs: [1077], [1392]
+
+Track: Cage The Elephant - Ain't No Rest For The Wicked (2 uploads)
+  Shorts IDs: [1079], [1196]
+
+Track: The Enemy - Aggro (2 uploads)
+  Shorts IDs: [1081], [1188]
+
+Track: System Of A Down - Aerials (2 uploads)
+  Shorts IDs: [1082], [1656]
+
+Track: The All-American Rejects - Dirty Little Secrets (2 uploads)
+  Shorts IDs: [1087], [1722]
+
+Track: Green Day - Letterbomb (2 uploads)
+  Shorts IDs: [1096], [2047]
+
+Track: 3 Doors Down - Let Me Go (2 uploads)
+  Shorts IDs: [1127], [1513]
+
+Track: The All-American Rejects - Gives You Hell (2 uploads)
+  Shorts IDs: [1128], [1584]
+
+Track: Jimmy Eat World - The Middle (2 uploads)
+  Shorts IDs: [1132], [1705]
+
+Track: Halestorm - I Miss The Misery (2 uploads)
+  Shorts IDs: [1134], [1173]
+
+Track: Avril Lavigne - How Does It Feel [MATCHES WITH: 0091] (2 uploads)
+  Shorts IDs: [1146], [1822]
+
+Track: Stone Temple Pilots - Big Empty (2 uploads)
+  Shorts IDs: [1148], [1537]
+
+Track: Alice In Chains - Would (2 uploads)
+  Shorts IDs: [1152], [2127]
+
+Track: P.O.D. - Youth Of The Nation (2 uploads)
+  Shorts IDs: [1166], [1368]
+
+Track: My Chemical Romance - Cancer (2 uploads)
+  Shorts IDs: [1167], [1269]
+
+Track: Sabaton - The Carolean's Prayer (2 uploads)
+  Shorts IDs: [1172], [2287]
+
+Track: Yellowcard - Breathing (2 uploads)
+  Shorts IDs: [1210], [1413]
+
+Track: Slipknot - All Hope Is Gone (2 uploads)
+  Shorts IDs: [1212], [1416]
+
+Track: Queen - Breakthru (2 uploads)
+  Shorts IDs: [1213], [1417]
+
+Track: Kittie - Brackish (2 uploads)
+  Shorts IDs: [1214], [1421]
+
+Track: System Of A Down - U-Fig (2 uploads)
+  Shorts IDs: [1215], [1402]
+
+Track: System Of A Down - Soldier Side (2 uploads)
+  Shorts IDs: [1216], [1403]
+
+Track: Nickelback - Savin' Me (2 uploads)
+  Shorts IDs: [1217], [1410]
+
+Track: Puddle Of Mudd - She Hates Me (2 uploads)
+  Shorts IDs: [1219], [1408]
+
+Track: The Beatles - What Goes On (2 uploads)
+  Shorts IDs: [1220], [1406]
+
+Track: The Dreadnoughts - Polka Never Dies (2 uploads)
+  Shorts IDs: [1221], [1405]
+
+Track: Dimmu Burgir - Burn In Hell (2 uploads)
+  Shorts IDs: [1222], [1423]
+
+Track: After The Burial - Lost In The Static (2 uploads)
+  Shorts IDs: [1223], [1426]
+
+Track: Michael Jackson - Billie Jean [MATCHES WITH: 0133] (2 uploads)
+  Shorts IDs: [1224], [1419]
+
+Track: Foo Fighters - All My Life (2 uploads)
+  Shorts IDs: [1225], [1422]
+
+Track: SOJA Feat. Rebelution - Here I Am (2 uploads)
+  Shorts IDs: [1228], [1404]
+
+Track: Asking Alexandria - If You Cant Ride Two Horses At Once... (2 uploads)
+  Shorts IDs: [1229], [1425]
+
+Track: Eskimo Callboy - MC Thunder 2 (2 uploads)
+  Shorts IDs: [1230], [1411]
+
+Track: Eskimo Callboy - MC Thunder 1 (2 uploads)
+  Shorts IDs: [1231], [1412]
+
+Track: Falling In Reverse - Popular Monster (2 uploads)
+  Shorts IDs: [1232], [1409]
+
+Track: The Police - Every Breath You Take (2 uploads)
+  Shorts IDs: [1233], [1415]
+
+Track: Rammstein - Mutter (2 uploads)
+  Shorts IDs: [1235], [1399]
+
+Track: System Of A Down - Suite-Pee (2 uploads)
+  Shorts IDs: [1236], [1407]
+
+Track: Rammstein - Mein Land (2 uploads)
+  Shorts IDs: [1238], [1659]
+
+Track: The Used - All That I've Got [MATCHES WITH: 0141] (2 uploads)
+  Shorts IDs: [1258], [1414]
+
+Track: My Chemical Romance - Cemetery Drive (2 uploads)
+  Shorts IDs: [1262], [1321]
+
+Track: HIM - Bury Me Deep Inside Your Heart (2 uploads)
+  Shorts IDs: [1270], [1364]
+
+Track: Bullet For My Valentine - Tears Don't Fall [MATCHES WITH: 0109] (2 uploads)
+  Shorts IDs: [1273], [1712]
+
+Track: 10 Years - Actions And Motives (2 uploads)
+  Shorts IDs: [1279], [2275]
+
+Track: My Chemical Romance - Helena (2 uploads)
+  Shorts IDs: [1288], [2089]
+
+Track: Serj Tankian - Baby (2 uploads)
+  Shorts IDs: [1295], [2072]
+
+Track: Alestorm - Shipwrecked (2 uploads)
+  Shorts IDs: [1298], [1898]
+
+Track: Linkin Park - What I've Done (2 uploads)
+  Shorts IDs: [1300], [2056]
+
+Track: Celldweller - Good L_ck (Yo_'re F_cked) (2 uploads)
+  Shorts IDs: [1302], [1427]
+
+Track: Paramore - That's What You Get (2 uploads)
+  Shorts IDs: [1305], [1871]
+
+Track: Asking Alexandria - I Won't Give In (2 uploads)
+  Shorts IDs: [1309], [1994]
+
+Track: Spice Girls - Wannabe (2 uploads)
+  Shorts IDs: [1312], [1740]
+
+Track: Mindless Self Indulgence - D_cks Are For My Friends (2 uploads)
+  Shorts IDs: [1317], [1684]
+
+Track: Finntroll - Trollhammaren (2 uploads)
+  Shorts IDs: [1322], [1904]
+
+Track: The Birthday Massacre - Flashback (2 uploads)
+  Shorts IDs: [1323], [1518]
+
+Track: Tom Misch - Insecure (2 uploads)
+  Shorts IDs: [1324], [1663]
+
+Track: Smash Mouth - All Star (2 uploads)
+  Shorts IDs: [1325], [2079]
+
+Track: Billy Talent - Living In The Shadows (2 uploads)
+  Shorts IDs: [1328], [2062]
+
+Track: Metallica - Master Of Puppets (2 uploads)
+  Shorts IDs: [1330], [1570]
+
+Track: Misfits - Attitude (2 uploads)
+  Shorts IDs: [1338], [1391]
+
+Track: Led Zeppelin - Immigrant Song (2 uploads)
+  Shorts IDs: [1355], [2017]
+
+Track: Michael Jackson - Beat It (2 uploads)
+  Shorts IDs: [1372], [1461]
+
+Track: Eric Clapton - Layla (Unplugged) (2 uploads)
+  Shorts IDs: [1382], [1794]
+
+Track: Ed Sheeran - Thinking Out Loud (2 uploads)
+  Shorts IDs: [1384], [1846]
+
+Track: Billy Idol - Rebel Yell (2 uploads)
+  Shorts IDs: [1385], [1615]
+
+Track: Goo Goo Dolls - Iris (2 uploads)
+  Shorts IDs: [1386], [1891]
+

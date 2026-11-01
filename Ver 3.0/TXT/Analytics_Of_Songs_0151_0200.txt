@@ -1,0 +1,232 @@
+# MAVOmusic ANALYTICS STORE — Canonical Songs 0151–0200
+# Created 2026-08-07 for the 0151+ re-record programme.
+# Single source of truth for Studio screenshot metrics/audits for this range.
+# Layout: canonical package first; duplicate/legacy Short observations nested below.
+==============================================================================================
+
+==============================================================================================
+SONG 0151 | Kiss - Rock And Roll All Nite
+==============================================================================================
+Duplicate/legacy Short cluster: 1853 (same song; retained live, no delete-reupload action)
+Studio screenshot set: 0151L - Overview, Reach, Engagement, Audience; 0151S - Overview, Reach, Engagement, Audience 1–2
+Capture window shown: Since published, 16 Jun 2026 – Now; approximately 54 days
+Audit filed: 07-08-2026
+
+LONG-FORM 0151L
+----------------
+- Views: 1 (Studio comparison: 5 less than usual).
+- Watch time: 0.0 hours (about the same as usual).
+- Average view duration: 0:33 (0:05 less than usual).
+- Unique viewers: 1. Subscribers: —. Estimated revenue: —.
+- Realtime: 0 views in the last 48 hours.
+- Impressions: 89. Impressions CTR: —.
+- How viewers found the video: Related Shorts 100.0%; Direct or unknown 0.0%.
+- Impressions funnel panel: 113 impressions over 16 Jun–05 Aug 2026 (51 days); 15.9% from YouTube recommending the content; 0.0% click-through; 0 views from impressions; 0 watch hours from impressions.
+- Likes: 100.0% versus 96.0% channel average.
+- Audience retention: not enough information to display.
+- End-screen element click rate: 0.0% versus 1.0% channel average.
+- Audience panel: 1 unique viewer; audience-by-watch-behaviour report unavailable; mobile phone 100.0% of watch time.
+
+SHORT-FORM 0151S
+-----------------
+- Views: 126 (Studio comparison: 694 less than usual). Estimated revenue: £0.01. Subscribers: —.
+- Realtime: 0 views in the last 48 hours.
+- Engaged views: 48. Unique viewers: 38.
+- Watch time: 0.4 hours (0.6 less than usual).
+- Average view duration: 0:24 (about the same as usual) on a 0:32 Short.
+- Stayed to watch: 33.0%. Swiped away: 67.0%.
+- Audience retention: stayed to watch 33.0%; average view duration 0:24.
+- Hype: 0 points / 0 hypes.
+- Traffic sources: Shorts feed 61.9%; YouTube search 29.4%; Other YouTube features 3.2%; Channel pages 2.4%; External 1.6%; Others 1.6%.
+- Bell notifications: 0.0% notification CTR; 0 views from notifications.
+- Search terms shown: `cover bass` 5.4%; `bass rock` 2.7%; `kiss live` 2.7%; `kiss rock and roll all night` 2.7%; `rocksmith 2014` 2.7%.
+- Audience device type: Mobile phone 66.1%; Computer 31.8%; Tablet 1.4%; TV 0.7%.
+- Watch time from subscribers: Not subscribed 86.0%; Subscribed 14.0%.
+- Top geography shown: Canada 7.9%.
+- Top subtitle/CC language: No subtitles/CC 100.0%.
+- Audience-by-watch-behaviour report: not enough viewer data.
+
+SEO / GOLDEN-TAG DECISION
+--------------------------
+- The Short is a low-exposure, below-usual feed result, but it has a usable identity-search slice.
+- Golden identity terms back-ported to both the canonical Long-Form and updated Short boxes: `kiss live` and the typo/variant `kiss rock and roll all night`.
+- Generic or banned/noise terms not ported: `cover bass`, `bass rock`, and bare `rocksmith 2014`.
+- Tags Status: golden terms are synchronized across the new Long-Form and updated Shorts packs.
+- No claim or retention conclusion is possible from the tiny Long-Form sample.
+- The legacy Short remains live; no delete/re-upload or blind legacy surgery recommended.
+
+PACKAGE STATUS
+--------------
+- New 0151 Long-Form + updated-Short SEO package prebuilt at:
+  bands/K/Kiss/Rock_And_Roll_All_Nite/0151/16-06-2026.md
+- Wikipedia Genres used in the package: Hard rock, arena rock.
+
+==============================================================================================
+SONG 0152 | The Vines - Get Free
+==============================================================================================
+Duplicate/legacy Short cluster: none recorded in the supplied duplicate map
+Studio screenshot set: 0152L - Overview, Reach, Engagement, Audience; 0152S - Overview, Reach, Engagement, Audience
+Capture window shown: Since published, 16 Jun 2026 – Now; approximately 54 days
+Audit filed: 07-08-2026
+
+LONG-FORM 0152L
+----------------
+- Views: 2 (Studio comparison: 4 less than usual).
+- Watch time: 0.0 hours (about the same as usual).
+- Average view duration: 0:16 (0:22 less than usual).
+- Unique viewers: 2. Subscribers: —. Estimated revenue: —.
+- Realtime: 0 views in the last 48 hours.
+- Impressions: 92. Impressions CTR: —.
+- How viewers found the video: Direct or unknown 50.0%; Related Shorts 50.0%.
+- Impressions funnel panel: 104 impressions over 16 Jun–05 Aug 2026 (51 days); 9.6% from YouTube recommending the content; 0.0% click-through; 0 views from impressions; 0 watch hours from impressions.
+- Likes: 100.0% versus 96.0% channel average.
+- Audience retention: not enough information to display.
+- End-screen element click rate: 0.0% versus 1.0% channel average.
+- Audience panel: 2 unique viewers; audience-by-watch-behaviour report unavailable; mobile phone 100.0% of watch time.
+
+SHORT-FORM 0152S
+-----------------
+- Views: 120 (Studio comparison: 700 less than usual). Estimated revenue: £0.01. Subscribers: —.
+- Realtime: 0 views in the last 48 hours.
+- Engaged views: 48. Unique viewers: 48.
+- Watch time: 0.2 hours (0.8 less than usual).
+- Average view duration: 0:13 (about the same as usual) on a 0:29 Short.
+- Stayed to watch: 38.7%. Swiped away: 61.3%.
+- Audience retention: stayed to watch 38.7%; average view duration 0:13.
+- Hype: 0 points / 0 hypes.
+- Traffic sources: Shorts feed 78.3%; YouTube search 12.5%; Other YouTube features 5.0%; Channel pages 2.5%; External 1.7%.
+- Bell notifications: 0.0% notification CTR; 0 views from notifications.
+- Search terms shown: `the vines get free` 26.7%; `bass guitar cover` 6.7%; `rocksmith bass eb standard` 6.7%; `the vines` 6.7%.
+- Audience device type: Mobile phone 73.2%; Computer 21.3%; TV 5.5%; Tablet 0.0%.
+- Audience panel: 48 unique viewers; audience-by-watch-behaviour report unavailable.
+
+SEO / GOLDEN-TAG DECISION
+--------------------------
+- The Short is a low-exposure, below-usual feed result, but the visible search slice is identity-led.
+- Golden terms back-ported to both the canonical Long-Form and updated Short boxes: `the vines get free`, `the vines`, `rocksmith bass eb standard`, and the validated generic search term `bass guitar cover`.
+- No bare `rocksmith` or bare `rocksmith 2014` tag added.
+- Tags Status: golden terms are synchronized across the new Long-Form and updated Shorts packs.
+- No claim, retention, or thumbnail conclusion is possible from the tiny Long-Form sample.
+- No delete/re-upload or blind legacy surgery recommended.
+
+PACKAGE STATUS
+--------------
+- New 0152 Long-Form + updated-Short SEO package prebuilt at:
+  bands/T/The_Vines/Get_Free/0152/16-06-2026.md
+- Wikipedia Genre used in the package: Garage rock.
+
+==============================================================================================
+SONG 0153 | Brian Adam McCune - God Rest Ye Merry
+==============================================================================================
+Duplicate/legacy Short cluster: none recorded in the supplied duplicate map
+Studio screenshot set: 0153L - Overview, Reach, Engagement, Audience; 0153S - Overview, Reach, Engagement, Audience 1–2
+Capture window shown: Since published, 16 Jun 2026 – Now; approximately 54 days
+Audit filed: 07-08-2026
+
+LONG-FORM 0153L
+----------------
+- Views: 9 (about the same as usual). Watch time: 0.1 hours (about the same as usual).
+- Average view duration: 0:51 (about the same as usual).
+- Unique viewers: 8. Subscribers: —. Estimated revenue: £0.01.
+- Realtime: 0 views in the last 48 hours.
+- Impressions: 315. Impressions CTR: 2.5%. Views: 9. Unique viewers: 8.
+- How viewers found the video: Browse features 66.7%; Channel pages 22.2%; Related Shorts 11.1%; Direct or unknown 0.0%.
+- Impressions funnel panel: 333 impressions over 16 Jun–05 Aug 2026 (51 days); 84.1% from YouTube recommending the content; 2.4% click-through; 8 views from impressions; 0:53 average view duration; 0.12 watch hours from impressions.
+- Likes: 100.0% versus 96.0% channel average.
+- Audience retention: not enough information to display.
+- End-screen element click rate: 0.0% versus 1.0% channel average.
+- Audience panel: 8 unique viewers; audience-by-watch-behaviour and age/gender reports unavailable; mobile phone 100.0% of watch time.
+- Watch time from subscribers: Not subscribed 96.1%; Subscribed 3.9%.
+- Premiere concurrent viewers: peak 1; average 1.
+
+SHORT-FORM 0153S
+-----------------
+- Views: 700 (Studio comparison: 120 less than usual). Subscribers: +1. Estimated revenue: £0.05.
+- Realtime: 0 views in the last 48 hours.
+- Engaged views: 332. Unique viewers: 326.
+- Watch time: 1.3 hours (about the same as usual).
+- Average view duration: 0:11 (about the same as usual) on a 0:32 Short.
+- Stayed to watch: 44.4%. Swiped away: 55.6%.
+- Audience retention: stayed to watch 44.4%; average view duration 0:11.
+- Hype: 0 points / 0 hypes.
+- End-screen element click rate: 0.0% versus 1.0% channel average.
+- Traffic sources: Shorts feed 92.6%; Other YouTube features 4.4%; YouTube search 2.1%; Channel pages 0.4%; External 0.4%.
+- Bell notifications: 0.0% notification CTR; 0 views from notifications.
+- Search terms shown: bare `rocksmith` 33.3%; `oliver tree` 6.7%; `rocksmith bass eb standard` 6.7%.
+- Audience-by-watch-behaviour: New viewers 90.8%; Casual viewers 8.6%; Regular viewers 0.6%.
+- Audience device type: Mobile phone 77.3%; Computer 17.2% (remaining device rows below supplied crop not recorded).
+- Watch time from subscribers: Not subscribed 99.0%; Subscribed 1.0%.
+- Top geographies: Japan 18.7%; United States 13.7%; Spain 4.0%; United Kingdom 4.0%; Brazil 3.9%.
+- Top subtitle/CC languages: No subtitles/CC 92.3%; English 7.4%; Spanish auto-translated 0.1%; Japanese auto-translated 0.1%.
+
+SEO / GOLDEN-TAG DECISION
+--------------------------
+- The Short is a healthy near-usual feed result with +1 subscriber and a 44.4% stayed-to-watch rate; the visible search slice is too small and is mostly generic/cross-artist traffic.
+- Only `rocksmith bass eb standard` is a relevant analytics term and is back-ported to both new boxes.
+- Bare `rocksmith` is a banned generic and is not ported. `oliver tree` is an off-target cross-bleed and is rejected.
+- No artist/song golden search term appeared in the supplied panel; no blind identity-tag addition is made.
+- Tags Status: the relevant platform/tuning term is synchronized across the new Long-Form and updated Shorts boxes.
+- No delete/re-upload or blind legacy surgery recommended.
+
+PACKAGE STATUS
+--------------
+- New 0153 Long-Form + updated-Short SEO package prebuilt at:
+  bands/B/Brian_Adam_McCune/God_Rest_Ye_Merry/0153/16-06-2026.md
+- Wikipedia Genre used in the package: Christmas carol.
+
+==============================================================================================
+SONG 0154 | Good Charlotte - A New Beginning
+==============================================================================================
+Duplicate/legacy Short cluster: none recorded in the supplied duplicate map
+Studio screenshot set: 0154L - Overview, Reach 1–2, Engagement, Audience; 0154S - Overview, Reach, Engagement, Audience
+Capture window shown: Since published, 16 Jun 2026 – Now; approximately 54 days
+Audit filed: 07-08-2026
+
+LONG-FORM 0154L
+----------------
+- Views: 6 (about the same as usual). Watch time: 0.0 hours (about the same as usual).
+- Average view duration: 0:28 (0:10 less than usual).
+- Unique viewers: 5. Subscribers: —. Estimated revenue: —.
+- Realtime: 0 views in the last 48 hours.
+- Impressions: 299. Impressions CTR: 0.7%. Views: 6. Unique viewers: 5.
+- How viewers found the video: Direct or unknown 33.3%; YouTube search 33.3%; Suggested videos 16.7%; Related Shorts 16.7%.
+- Impressions funnel panel: 305 impressions over 16 Jun–05 Aug 2026 (51 days); 66.9% from YouTube recommending the content; 0.7% click-through; 2 views from impressions; 0:34 average view duration; 0.02 watch hours from impressions.
+- Content suggesting the video: `Here's a Picking Exercise/BADASS RIFF For You...` 100.0% of the visible suggesting-video slice.
+- YouTube search terms: `good charlotte live` 50.0%; `rocksmith bass` 50.0% of the visible search slice.
+- Likes: 100.0% versus 96.0% channel average.
+- Audience retention: not enough information to display.
+- End-screen element click rate: 0.0% versus 1.0% channel average.
+- Audience panel: 5 unique viewers; audience-by-watch-behaviour report unavailable; Computer 55.0%; Mobile phone 45.0%.
+
+SHORT-FORM 0154S
+-----------------
+- Views: 91 (Studio comparison: 729 less than usual). Subscribers: —. Estimated revenue: £0.01.
+- Realtime: 0 views in the last 48 hours.
+- Engaged views: 41. Unique viewers: 41.
+- Watch time: 0.2 hours (0.8 less than usual).
+- Average view duration: 0:17 (about the same as usual) on a 0:29 Short.
+- Stayed to watch: 41.7%. Swiped away: 58.3%.
+- Audience retention: stayed to watch 41.7%; average view duration 0:17.
+- Hype: 0 points / 0 hypes.
+- End-screen element click rate: 0.0% versus 1.0% channel average.
+- Traffic sources: Shorts feed 72.5%; Other YouTube features 12.1%; YouTube search 9.9%; External 3.3%; Channel pages 2.2%.
+- Bell notifications: 0.0% notification CTR; 0 views from notifications.
+- Search terms shown: `bungee jumping` 11.1%; `new bass` 11.1%; bare `rocksmith` 11.1%; bare `rocksmith 2014` 11.1%.
+- Audience panel: 41 unique viewers; audience-by-watch-behaviour report unavailable.
+- Audience device type: Mobile phone 51.2%; Computer 47.9%; Tablet 1.0%; TV 0.0%.
+
+SEO / GOLDEN-TAG DECISION
+--------------------------
+- The Short is a low-exposure, below-usual feed result, but the visible 0154L search slice contains a relevant identity term.
+- `good charlotte live` is back-ported to both new boxes as the only identity-bearing golden term.
+- `rocksmith bass` is retained as the required platform family and supported by the LF search slice.
+- Bare `rocksmith`, bare `rocksmith 2014`, `bungee jumping`, and `new bass` are rejected as generic/off-target terms.
+- The dedicated song's genre is not listed on Wikipedia. The Wikipedia album article lists album-level genres Pop-punk and emo; these are explicitly labelled as album context, not presented as confirmed song genres.
+- Tags Status: relevant identity/platform terms are synchronized across the new Long-Form and updated Shorts boxes.
+- No delete/re-upload or blind legacy surgery recommended.
+
+PACKAGE STATUS
+--------------
+- New 0154 Long-Form + updated-Short SEO package prebuilt at:
+  bands/G/Good_Charlotte/A_New_Beginning/0154/16-06-2026.md
+- Wikipedia genre status: song genre not listed; album-level genres Pop-punk, emo recorded separately.

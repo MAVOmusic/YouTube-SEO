@@ -1,0 +1,357 @@
+REPURPOSING WORKSHEET 0051-0100 | MAVOmusic fingerstyle bass covers — cross-platform repost data feed
+For the planning AI: pick songs + posting slots for Facebook / other-platform reposts. All numbers are LIFETIME (since-published) reads pulled from YouTube Studio — realtime/48h figures marked non-verdict when noted. Channel timezone: UK (Europe/London).
+Updated after EVERY recheck. Current coverage: 0051-0069 complete (Ver 2.63). Next pending: 0070. Series note: this era ships inside the channel's breakout window — big SF numbers are common; separate CLEAN assets from FARM-SUSPECT ones before reposting. Blocks embed the full SF package copy (Title / Description / Hashtags / Pinned Comment) for direct cross-platform reuse.
+
+LEGEND: SF = 0:36 Short (the repost asset) / LF = ~3-5min long-form (companion; most sit 0-20v). stayed% = Shorts retention (>45% = strong hook; <25% = dead). AVD = avg view duration on a ~0:36 cut. n=v = views attributable. FARM-SUSPECT = reach yes, engagement-proof no (junk-global geo/demo): inflation risk on cross-post — do NOT lead with these.
+===============================================================================
+TIER BOARD (read first)
+- PROVEN CLEAN ASSETS: 0069S 1.4k v ✅-lean 🏆 NEW ERA-#1 headline (RT 1,441 record instant-open; praise-card #6 + likes-composite #1; WT +1.2 badge; hook 43.7/39.1 strong-mid; UK 57.3-led — flagship-class IF r2 tail confirms; provisional) | 0056S 1.3k v 🏆 (reach flagship — biggest clean breakout; re-roll profile; most-distributed geo) | 0057S 1.1k v (QUALITY FLAGSHIP — era-best hook 48.1 + RPM record £0.11 + US-led 42.4 matured; timing-test winner; subs 0 ⚠) | 0054S 1.1k v (conversion champion — +4 subs queue record, £0.09, hook 45.6, Anglo Gen-X) | 0052S 778v (clean feed-lottery, UK-led 36.5 / Japan 3.6, +1 sub, £0.04, positive WT badge) | 0053S 898v HOLD (Japan 34.1 Gen-X lane = clean-NARROW; ⚠ Studio down-revision 936->898 — contraction watch: no lead slots until stabilizes) | 0059S 755v (clean-mid: UK 22.8 / Thailand 21.6 ⚠ FIRST top-2 = outlier watch / US 8.5 / India 6.4; RPM £0.053; hook 36.7; non-sub 91.2; spent halo) | 0060S 826v (A7X UK-heat: UK 68.4 + India 0.0 EXPLICIT = zero-farm £0.073/1k; hook 44.8 era-#3; +2 subs co-factor counter-case; active tail 16/48h) | 0061S ~1.0k+ v (India-intensifying clean-NARROW: India 22.9->35.7 / UK 13.3 / Russia 12.1; RPM £0.029; hook 38.1; praise-card up-rev 26->29%; active tail 19/48h) | 0062S ~1.2k+ v (era-#3 reach asset — India-lane WATCH-LEAN: India 18.7->39.2 + hook 24.3 weakest-tier + farm-vocab terms; RPM up-rev £0.0084->£0.025; PC 25.7 = SF record-high; reach-lead WITH the hook caveat) | 0063S 1.3k v ✅ ERA TIER-1 CLEAN (ties 0056S top-class): UK 45.9 Gen-X-lead + £0.046 + feed 99.7 = purest + 🚨 biggest active tail 90/48h + 🏆 biggest %-card 64%; slot-proof out-of-slot arm = A/B totals parity | 0064S 1.2k v ⚠ (era-#2-tie reach w/ 0062S but WATCH-LEAN: India 33.6 + 2nd rail-EMPTY SF + sub 27.5 + hook 28.3 mid-low; RPM £0.025 healthy; use as reach-lead WITH caution, re-audit at r2) | 0065S 1.3k v ✅-lean TIER-1 TIE #3 @ day-3 (strongest-hook breakout class: stayed 41.7 = era-#4 + WT +1.4 badge + composite praise card + 🏆 RT 1,349/48h record; geo/age/F pending @ day-3 — provisional pending r2) | 0066S 1,152 v (UK 49.3-led + India 30.9 secondary = provisional CLEAN-lean; first neutral-band card after praise streak w/ 🏁 card-level usual-band rebase print 830-1,200 — breakout era re-priced typical ~20x; stayed 34.7 mid; RPM £0.052 healthy; RT 248 active; rail-EMPTY #4 (marker deprecated)) | 0067S 1,065 v ⚠ (India 35.9-led / UK 26.6 / JP 4.0 = WATCH-LEAN #4 w/ 55-64 100% boomer single-bucket + sub-WT 20.4 elevated BUT RPM £0.038 healthy + subs +2; neutral-band card on the new 830-1,200 usual-print; RT 562 biggest-active — r2 before slot calls) | 0067L outliers: 🏆 35v era-LF lead + AVD 1:19 +0:50 + APV 49.4% + end-screen 50% + PC-89.3 + US-led — KEEP as LF showcase candidate (first era LF with retention proof) | 0068S 1,119 v ⚠ (neutral-band card w/ band-print variant 760-1,100; UK 27.7≈India 27.4 co-lead + 65+ 100% OLDEST boomer-lock = WATCH-LEAN #5; subs +1 #3; RPM £0.027; JP 8.2 intrigue; r2 India-share) | 0068L keep-pkg (era-LF #2 33v + imp-pool record 2.7k + first Suggested-led + playlists-lane)
+- FARM-SUSPECT (do NOT lead): 0051S 920v (India 54.8 + Indonesia 12.7 + F 34.6 + 100% age 25-34 + sub-WT 68.2 + hook 15.1 worst-class) | 0055S 884v (India 70.0 + Indo 14.8 ×2 + Casual 55.0 + sub-WT 97.5 REC + mobile 99.1 + AVD 1:11 loop-artifact + hook 15.1 tie + subs 0) | 0058S 625v (India 31.4->72.0 matured + F 37.9 + sub-WT 93.7 + Casual 34.8 + RPM sub-floor + hook 18.1 + rail-EMPTY first SF + feed-rattle tail)
+- BEST HOOKS (stayed%): 0057S 48.1 (era-best) | 0054S 45.6 | 0060S 44.8 | 0069S 43.7(bar)/39.1(km) | 0065S 41.7 | 0061S 38.1 | 0059S 36.7 | 0052S 36.3 | 0066S 34.8 | 0067S 33.9 | 0068S 32.3 | 0053S 31.7 | 0063S 30.4 | 0064S 28.3 | 0062S 24.3 | 0056S 23.7 | 0058S 18.1 | 0051S 15.1 & 0055S 15.1 (worst-tie)
+- SEARCH MONSTERS: none yet (all 19 SFs are feed-lane) | GENRE WATCH: 0058S `crunkcore` 41.7% of slice ≈5v and climbing — if it reprints ≥8-10v, re-assess port candidacy (qualified slot `crunkcore bass` already held)
+- HEALTHIEST LONG-FORMS: none by reach; footnotes: 0054L (10v, +1 sub, 100% likes, AVD 1:07/APV 33.1) / 0055L (13v, 2.3k imp pool #2-tie + FIRST LF bell-conversion + likes 100%) — both skip. (0051L 18v stain; 0052L 3v; 0053L 3v flop; 0056L 1v = served-not-clicked extreme; zero-like QUARTET = 0051L/0052L/0053L/0056L)
+- CALENDAR: none seasonal yet. | SKIP: 0051 pair for lead repost slots (farm-taint), 0055S (farm #5), 0058S (farm #6), 0052L, 0053L (3v flop), 0054L (n=10), 0055L (n=13), 0056L (1v extrema), 0057L (n=10 trickle — rec-serve record), 0058L (n=5; its meme-era sibling 0192S 1,620v is the ecosystem #1 — use that one), 0059L (2v flop — Pokemon-acapella suggested-adjacency artifact; rec-serve #6 curiosity only), 0060L (10v trickle — 🔔 2nd LF bell-conversion + notify-lane receipts but n too small), 0061L (9v — no-notify variant + 144/0 dead-bell exhibit; imp-AVD record curiosity), 0062L (16v = era-LF #2 — 🔔 BIGGEST LF bell-conversion ever (144/1.4%/2v) = notify-policy exhibit #1; keep for stats), 0063L (7v — wave-weakest CTR 0.8 ×2; TV-dominant + overflow-quirk curiosity; keep pkg artwork, n too small to judge), 0064L (6v — 2nd-worst AVD badge; bridge-lane artifact note-only), 0065L (18v = BIGGEST era-LF print + era-best AVD 0:27 + LIKED 100% + 🔔 RT 9/48h first live LF tail — keep for stats, n still small), 0066L (14v — notify-lane 14.3 #2 + Fly-On-The-Windscreen solo-anchor; TV-29.4 skew; n small), 0067L (🏆 35v BIGGEST era-LF + 1:19 AVD +0:50 badge + 49.4% APV + end-screen 50% + PC-89.3 inverse + US-led + 4-anchor Suggested-by — KEEP for stats + LF showcase candidate), 0068L (33v era-LF #2 + imp-pool 🏆 2.7k + FIRST Suggested-led LF + playlists-lane 6.1 + AVD +0:17 positive-badge #2 + sub +1 — keep pkg, runtime 8:50 curiosity), 0069L (7v UV-1 micro — imp-AVD 🏆 0:53 record + bridge-lane #2 + 3rd positive badge +0:11 + first LF revenue print £0.002; anomaly pocket, keep pkg).
+- A/B TEST (v1.01, shipped 15-07): 0051 = notified arm / 0052 = withheld arm. Day-13 result: SF parity on reach (920 vs 778) but QUALITY INVERSION — notified pulled farm traffic, withheld pulled clean UK traffic + a subscriber + 4x revenue. Lesson for reposts: notification state is irrelevant on other platforms; pick the CUT, not the push.
+===============================================================================
+
+0051 | Pendulum Feat. In Flames - Self VS. Self | published 15-07-2026
+  SF: 920v (+5 post-FINAL; "860 more") | £0.01 | stayed 15.1 = WORST-CLASS | AVD 0:11 | feed 95.5 = FEED-LANE | engaged 135 / UV 134 | 🚨 FARM-SUSPECT: geo India 54.8 / Indonesia 12.7 / UK 6.5 + Female 34.6 + 100% age 25-34 + sub-WT 68.2 + Casual 38.1 | realtime cooled (channel 100%)
+  TERMS: all intl noise (blunt / bulldozer gadi / cavalera live / dhamaka video / dj dj) — nothing portable
+  SF TITLE: "Drum & bass meets Swedish metal forearm endurance! #shorts #bass"
+  SF DESC:
+    Sprinting at 175 BPM through the ultimate metal/DnB crossover: Pendulum and In Flames' 'Self VS. Self'! That rapid-fire right-hand attack on the Thunderbird is a pure stamina test from start to finish.
+    
+    ⚡ Full high-speed playthrough is linked right above!
+    
+    #shorts #pendulum #inflames #drumandbass #basscover
+  HASHTAGS: #shorts #pendulum #inflames #drumandbass #basscover
+  PIN: "Is this the heaviest drum and bass collaboration ever recorded? The full uncut playthrough is linked above — tap it and let me know your favorite electronic/metal crossover! 👇🎸"
+  LF: 18v ("11 more" = era-best badge, FROZEN since FINAL) | imp 2.3k = pool #2 | rec-serve 81.7 (#3) | CTR 0.6 | Suggested 66.7 (5 external metal/anime sources) | AVD 0:14 | tablet 13.4 | 🚨 subs -1 + likes 0.0% = sentiment stain | bell 38 pushes/0 conv | rail EMPTY | LF TITLE: "Sprinting through 175 BPM of pure melodic death metal and drum & bass on my Thunderbird!"
+  NOTE: do NOT use as a lead repost — the 920v is farm-inflated (junk geo + uniform demo); if ever used, only as drum&bass-scene filler with "pendulum" captions and zero expectations. LF skip.
+0052 | Billie Eilish - Bad Guy | published 15-07-2026
+  SF: 778v (+9; "718 more") | £0.04 (+1 SUB banked) | stayed 36.3 frozen ×3 | AVD 0.15 + watch-time +0.5 MORE badge | feed 88.7 = FEED-LANE | engaged 308 / UV 301 | geo UK 36.5 / Japan 3.6 = CLEAN Anglo | New-viewers 90.4 | mobile 58.7 / PC 34.7 | realtime cooled
+  TERMS: bass / pop bass = banned or rejected generic-lane -> never portable; captions run on identity strings ("bad guy" / "billie eilish") — they're in-box
+  SF TITLE: "Pulsing through that instantly recognizable 2019 pop bass hook! #shorts #bass"
+  SF DESC:
+    Pulsing through the infectious, syncopated bass hook of Billie Eilish's 'Bad Guy'! Adapting FINNEAS's famous synth bassline to the Epiphone Thunderbird gives it such a satisfying, thick acoustic punch.
+    
+    ⚡ Watch the full pop bass transformation linked right up top!
+    
+    #shorts #billieeilish #badguy #poppass #rocksmith
+  HASHTAGS: #shorts #billieeilish #badguy #poppass #rocksmith
+  PIN: "Do you prefer playing synth-driven pop lines with a warm touch or a sharp percussive attack? The full video is linked above — check it out and drop your favorite pop bass hook! 👇🎸"
+  LF: 3v frozen | Suggested 100% (instrumental-niche scatter) | CTR 0.4 | AVD 0:08 | 🚨 TV 65.8 = biggest non-pure LF TV | likes 0.0% (n=3) | non-sub 100% | rail EMPTY | LF TITLE: "Injecting thunderous analog bass into FINNEAS's iconic 2019 pop groove!"
+  NOTE: ✅ CLEAN era asset — the A/B's quiet winner: UK-led geo + healthy 36.3 hook + positive WT badge + a banked subscriber + 4x the twin's revenue. Best slots: UK evening (17:00/21:00) or US-morning spillover; "bad guy" / "2019 pop hook" captions. Solid mid-tier repost pick; LF skip.
+0053 | Pendulum - 9,000 Miles | published 18-07-2026
+  SF: 898v (⚠ DOWN-REVISED from 936 = largest Studio revision on record; "+158 more" / card downgraded 28->21%) | £0.03 | stayed 31.7 (engaged-card 29.0 = new divergence) | AVD 0:15 | feed 93.2 = FEED-LANE | engaged 285 / UV 280 | geo Japan 34.1 / US 3.9 / UK 3.7 + 45-54 = 100% + Male 100% = CLEAN-narrow Gen-X Japan lane (NOT farm) | sub-WT 103.4 print (Studio overflow) | realtime spent (channel pages 100%)
+  TERMS: pure intl-noise rotation ×4 reads (lovebites / oğuzhan uğur sighting #4 / ronnie-o byte-churn / Cyrillic fish-noise / Frieren) + `drum & bass` generic-lane — nothing portable; identity cluster golden since Ver 1.50
+  SF Gliding through this atmospheric 2008 drum & bass groove! #shorts #bass: "TITLE"
+  SF     Gliding across the smooth, rolling atmospheric groove of Pendulum's '9,000 Miles'! That deeply melodic low end on the Epiphone Thunderbird sits right in the center of the 2008 drum & bass pocket.
+    
+    🟣 The full relaxing bass playthrough is pinned right up top!
+    
+    #shorts #pendulum #drumandbass #electronicrock #basscover:
+    Gliding across the smooth, rolling atmospheric groove of Pendulum's '9,000 Miles'! That deeply melodic low end on the Epiphone Thunderbird sits right in the center of the 2008 drum & bass pocket.
+    
+    🟣 The full relaxing bass playthrough is pinned right up top!
+    
+    #shorts #pendulum #drumandbass #electronicrock #basscover
+  #shorts #pendulum #drumandbass #electronicrock #basscoverTAGS: #shorts #pendulum #drumandbass #electronicrock #basscover
+  Holding down a smooth, rolling atmospheric groove is one of the best feelings on bass. Click the linked video above to watch the full performance and drop your favorite Pendulum track below! 👇🎸: "Holding down a smooth, rolling atmospheric groove is one of the best feelings on bass. Click the linked video above to watch the full performance and drop your favorite Pendulum track below! 👇🎸"
+  LF: 3v FROZEN ×4 = flop LOCKED | imp 757 printing / CTR 0.1 = era-weakest LF | `pendulum` n=1 golden | AVD 0:06 (-0:13 widened) | likes 0.0% = zero-like trio closed | subs — | non-sub 100% | rail EMPTY #3 | realtime 0 | LF TITLE: "Drifting through the atmospheric, rolling bass foundation of Pendulum's 9,000 Miles!"
+  NOTE: Japan / drum-&-bass-scene wildcard ONLY after the 898 view-count proves stable (contraction watch); otherwise late-slot filler. LF skip.
+0054 | The Dandy Warhols - Bohemian Like You | published 19-07-2026
+  SF: 1.1k v = 🏆 NEW BIGGEST CLEAN SF BREAKOUT (topples 0039S 932) | £0.09 (era-best RPM) | +4 SUBS = queue SF sub-record | stayed 45.6 (4th consecutive upward revision) | AVD 0:20 | feed 92.4 = FEED-LANE (wave now spent: RT 252->0) | engaged 503 / UV 496 | geo UK 30.1 / US 20.0 / AU 7.2 = CLEAN Anglo | pure Gen-X (35-54 = 100%) + Male 100% | non-sub 100.0/0.4 = purest discovery read | banner: "51% higher + shared more" (share count never printed)
+  TERMS: 🏁 FIRST identity surface `bohemian like you` 6.3 (n≈1, captions now panel-earned) + rejects: deadwing dork / jesse on fire / justinus… (watch #5 nearly spent) / spanien-argentinien-schlägerei
+  SF Indie garage-rock bass drive on 'Bohemian Like You'! #shorts #bass: "TITLE"
+  SF     Revving up the pure 2000s garage rock swagger of The Dandy Warhols' 'Bohemian Like You'! That straight-eighth driving bassline under the fuzzy guitars sounds massive and gritty on the Epiphone Thunderbird.
+    
+    ⚡ The full uncut indie rock playthrough is pinned right up top!
+    
+    #shorts #thedandywarhols #bohemianlikeyou #garagerock #basscover:
+    Revving up the pure 2000s garage rock swagger of The Dandy Warhols' 'Bohemian Like You'! That straight-eighth driving bassline under the fuzzy guitars sounds massive and gritty on the Epiphone Thunderbird.
+    
+    ⚡ The full uncut indie rock playthrough is pinned right up top!
+    
+    #shorts #thedandywarhols #bohemianlikeyou #garagerock #basscover
+  #shorts #thedandywarhols #bohemianlikeyou #garagerock #basscoverTAGS: #shorts #thedandywarhols #bohemianlikeyou #garagerock #basscover
+  That driving rock pulse instantly takes you right back to the year 2000. The full performance is linked above — tap it and let me know where you first heard this iconic track! 👇🎸: "That driving rock pulse instantly takes you right back to the year 2000. The full performance is linked above — tap it and let me know where you first heard this iconic track! 👇🎸"
+  LF: 10v FLAT ×3 (+1 sub ×3) | AVD 1:07 / APV 33.1 (retention matured; +0:26-vs-usual = quality gap) | likes 100.0% | Related Shorts 70.0% ×3 = crossed from its SF (bridge; drip now ended) | `dandy warhols` n=1 | rail EMPTY | LF TITLE: "Zia McCabe's driving 2000s garage-rock indie bass groove!"
+  NOTE: ✅ CLEAN FLAGSHIP — repost-ELIGIBLE. Anglosphere Gen-X audience: run UK 17:00/21:00 or US-morning spillover slots; captions on "bohemian like you" / "2000s garage rock". The fact-armored Zia-McCabe angle converts (10v LF still banked a sub + 100% likes) — reuse that hook phrasing in repost copy. LF skip.
+0055 | Attila - Pizza | published 19-07-2026
+  SF: 884v (+25 vs r2; "+144 more" / card 19%) | £0.005 = RPM FLOOR | stayed 15.1 = WORST-HOOK TIE (with 0051S) | 🚨 AVD 1:11 = farm-loop artifact (165% avg-viewed, zero conversion) | feed 99.1 = purest | engaged 127 / UV 120 | 🚨 FARM-SUSPECT #5: India 70.0 / Indonesia 14.8 ×2 reads + Casual 55.0 + sub-WT SUBSCRIBED 97.5 (new SF record = legacy-sub-farm signature) + mobile 99.1 + subs 0 ×3 | realtime 2/48h feed-rattle
+  TERMS: Indo-kids 5-set byte-FROZEN ×2 (automatic eraser / cargo helicopter / keluarga bokir / kumpulan bebek lucu / little singham) — nothing portable
+  SF Feasting on the heaviest metalcore breakdown ever written about pizza! #shorts #bass: "TITLE"
+  SF     Feasting on the bone-crushing metalcore breakdowns of Attila's heavy party anthem 'Pizza'! That drop-tuned fingerstyle attack on the Epiphone Thunderbird brings pure, chaotic mosh-pit energy from frame one.
+    
+    ⚡ Watch the full heavy metal breakdown linked directly above!
+    
+    #shorts #attila #metalcore #pizzasong #basscover:
+    Feasting on the bone-crushing metalcore breakdowns of Attila's heavy party anthem 'Pizza'! That drop-tuned fingerstyle attack on the Epiphone Thunderbird brings pure, chaotic mosh-pit energy from frame one.
+    
+    ⚡ Watch the full heavy metal breakdown linked directly above!
+    
+    #shorts #attila #metalcore #pizzasong #basscover
+  #shorts #attila #metalcore #pizzasong #basscoverTAGS: #shorts #attila #metalcore #pizzasong #basscover
+  The heaviest breakdown ever written about food. The full uncut playthrough is pinned right up top — tap it and let me know your ultimate controversial pizza topping! 👇🎸: "The heaviest breakdown ever written about food. The full uncut playthrough is pinned right up top — tap it and let me know your ultimate controversial pizza topping! 👇🎸"
+  LF: 13v FLAT ×3 | £0.01 = first LF revenue | imp 2.3k = pool #2-tie / rec-serve 81.8 #3 | CTR 0.4 | VFI 10 ×3 | 🔔 bell 47/2.1%/1v = FIRST LF bell-conversion | TV 53.8 = living-room LF (LF-TV #2) | likes 100.0% off-mat ×3 | AVD 0:24 / APV 13.0 | LF TITLE: "Devouring the heaviest, most chaotic metalcore breakdown about pizza!"
+  NOTE: 🚫 do NOT repost — farm-class traffic (India kids-lane + sub-farm + loop artifact). 884v is inflation, not audience. Even its own ecosystem meme-cut (0705, 1,199v) outperforms it. LF skip (n=13).
+0056 | Autopilot Off - The 12th Day | published 20-07-2026
+  SF: 1.3k v = 🏆 NEW BIGGEST CLEAN SF BREAKOUT (topples 0054S's day-old record) | £0.04 | +1 sub (🚨 first exception to the stayed%→subs gate: 23.7% hook yet banked) | stayed 23.7 (revised UP from 22.6; mid-hook) | AVD 0:15 | feed 92.2 | engaged 332 / UV 318 | card "71% higher + more likes" | geo UK 9.1 / Japan 6.6 / US 6.0 / Germany 2.7 / Netherlands 2.5 = MOST-DISTRIBUTED clean read (no farm lane possible) | New-viewers 80.5 | DELAYED RE-ROLL breakout (day-1 fade 144v -> overnight US-evening re-roll -> 1,052 peak -> 1.3k; wave now spent)
+  TERMS: `skate punk` genre-lane (titles/captions OK — tag box already capped with `punk rock bass`); rest = DIY/names noise -> never portable; v1.67 lyric insight holds: audience calls this song "what i want"
+  SF Driving early-2000s skate punk bass sprint! #shorts #bass: "TITLE"
+  SF     Rob Kucharek's 'The 12th Day' is a four-minute pop-punk stamina exam and the Thunderbird barely survived it!
+    
+    Full untrimmed run is attached right above this clip!
+    
+    #shorts #autopilotoff #the12thday #basscover #rocksmith:
+    Rob Kucharek's 'The 12th Day' is a four-minute pop-punk stamina exam and the Thunderbird barely survived it!
+    
+    Full untrimmed run is attached right above this clip!
+    
+    #shorts #autopilotoff #the12thday #basscover #rocksmith
+  #shorts #autopilotoff #the12thday #basscover #rocksmithTAGS: #shorts #autopilotoff #the12thday #basscover #rocksmith
+  Serious question: is 'The 12th Day' the most underrated deep cut on *Make a Sound*? The full take is waiting up top! 👇🎸: "Serious question: is 'The 12th Day' the most underrated deep cut on *Make a Sound*? The full take is waiting up top! 👇🎸"
+  LF: 1v (🚨 first negative-badge LF "1 less than usual") | rec-serve 84.4% = #3-serve BUT VFI 0 (served-not-clicked extreme) | AVD 0:01 (-0:18 = bounce floor) | likes 0.0% (zero-like quartet) | Computer 100% (PC-pure first) | rail EMPTY | LF TITLE: "Rob Kucharek's driving 2004 pop-punk bass engine on 'The 12th Day'!"
+  NOTE: ✅ CLEAN FLAGSHIP (review footage quality before repost — hook 23.7 is mid, the +1 sub and likes-card are the quality tells). Slots: UK 17:00/21:00 + US-evening (that is where the re-roll ignited). Captions lead with "skate punk bass sprint" / "what i want" lyric-callout. LF skip (n=1); do NOT tinker its title/thumb yet (doctrine: park until n grows).
+0057 | Temple Of The Dog - Hunger Strike | published 21-07-2026 (00:00 UK = US-evening TEST SHIP — timing doctrine won on this cut)
+  SF: 1.1k v = CLEAN FEED-LOTTERY #6 + era QUALITY champion | stayed 48.1 = ERA-BEST HOOK (both instruments agree ×2) | £0.11 = 🏆 ERA RPM RECORD (US-premium pricing) | AVD 0:20 (55.6% clip-ratio tie) | engaged 523 / UV 505 | geo US 42.4 / UK 17.2 / CA 5.0 / BR 4.6 = US-led matured CLEAN (India/Indo absent) | Male 100% | broad 25-64 adult | subs 0 ⚠ (hook ≠ subs — hypothesis retired) | card "49% + more likes" | realtime spent
+  TERMS: watch: `jeff ament` (~1v, title carries him), `mad season river of deceit` (adjacent-scene); rejects: cuchillo (3rd sighting) / srv / adam-sandler-eminem — captions run on identity ("hunger strike" / "temple of the dog" / "cornell vedder duet"), all in-box
+  SF Jeff Ament's legendary 1991 grunge bass tone! #shorts #bass: "TITLE"
+  SF     Jeff Ament's 'Hunger Strike' groove is proof that bass can carry an entire vocal duel!
+    
+    The complete take, quiet bits and all, is linked up top!
+    
+    #shorts #templeofthedog #hungerstrike #basscover #rocksmith:
+    Jeff Ament's 'Hunger Strike' groove is proof that bass can carry an entire vocal duel!
+    
+    The complete take, quiet bits and all, is linked up top!
+    
+    #shorts #templeofthedog #hungerstrike #basscover #rocksmith
+  #shorts #templeofthedog #hungerstrike #basscover #rocksmithTAGS: #shorts #templeofthedog #hungerstrike #basscover #rocksmith
+  Cornell's wail or Vedder's growl — who wins this song for you? Full version is up top if you need a refresher! 👇🎸: "Cornell's wail or Vedder's growl — who wins this song for you? Full version is up top if you need a refresher! 👇🎸"
+  LF: 10v (3->10 delayed-trickle FIRST) | rec-serve 94.0% = LF RECORD on 806 imp | CTR 1.1 / VFI 9 | AVD 0:46 (dilution-class; was 1:16 at n=3) | APV 19.2 | likes 0.0% (zero-like #5) | Browse-lane re-roll | rail EMPTY | LF TITLE: "Jeff Ament's soulful 1991 grunge bassline on 'Hunger Strike'!"
+  NOTE: ✅ QUALITY-GRADE repost asset — the era's best hook + richest RPM + US-matured geo. Slots: US-EVENING primary (00:00 UK doctrine won here), UK 17:00 secondary. Cornell/Vedder deep-lore captions (pin already drives the 'tribute to Andrew Wood' angle). LF skip (n=10).
+0058 | BrokeNCYDE - 2 Drunk 2 Drive | published 21-07-2026 (04:00 UK = dual-stack partner of 0057 — cannibalization-free)
+  SF: 625v = "about usual" (neutral card — Studio never praised it; typical-band drifted 20-730 -> 40-740) | £0.003 = RPM sub-floor | stayed 18.1 (low) | AVD 0:17 | feed 96.3 + sound pages 0.3 (era-only lane) | engaged 100 / UV 95 | 🚨 FARM-SUSPECT #6: India 31.4->72.0 matured + F 37.9 + 25-34 = 100% + sub-WT 93.7 sub-dominant + mobile 97.7 + Casual 34.8 + subs 0 ×2 + FIRST rail-EMPTY SF + realtime farm-rattle (feed 83.3)
+  TERMS: `crunkcore` climbing 20->41.7 (≈5v — strongest genre watch-item; caption-level OK, tag stays `crunkcore bass`); rejects: bass guitar / barongan / makeup wala / mobil pick up
+  SF Crunkcore synth 808s paired with real distorted bass guitar! #shorts #bass: "TITLE"
+  SF     Nobody asked for a live bassline over '2 Drunk 2 Drive' — so obviously we built one!
+    
+    Full party-chaos version is pinned right above this Short!
+    
+    #shorts #brokencyde #2drunk2drive #basscover #rocksmith:
+    Nobody asked for a live bassline over '2 Drunk 2 Drive' — so obviously we built one!
+    
+    Full party-chaos version is pinned right above this Short!
+    
+    #shorts #brokencyde #2drunk2drive #basscover #rocksmith
+  #shorts #brokencyde #2drunk2drive #basscover #rocksmithTAGS: #shorts #brokencyde #2drunk2drive #basscover #rocksmith
+  Be honest: does the physical bass upgrade the track or ruin the joke? Full take up top to help you decide! 👇🎸: "Be honest: does the physical bass upgrade the track or ruin the joke? Full take up top to help you decide! 👇🎸"
+  LF: 5v (7->5 down-revised) | £0.02 = tiny-LF revenue record (premium-watch artifact) | Browse 100% pure-lane first | sub-WT SUBSCRIBED 100% (first sub-pure LF) | device-flip desktop->mobile | AVD 0:25 (dilution class) | likes 0.0% (zero-like #6) | rail EMPTY | LF TITLE: "Adding a live Thunderbird bassline over 2008 crunkcore synth 808s!"
+  NOTE: 🚫 do NOT repost — full farm signature on the smallest reach of the six. Its own meme-era sibling (0192S, 1,620v) remains the ecosystem's #1; if crunkcore content is ever cross-posted, use THAT cut's identity strings, not this one. LF skip (n=5). Checks/claim card still pending user capture.
+0059 | Coheed And Cambria - A Favor House Atlantic | published 21-07-2026 (third stacked ship of 21 Jul — unannounced midday stacker)
+  SF: 755v FINAL (+2 vs r1 753; neutral card ×2, band 20-730 -> 40-740) | £0.04 = £0.053/1k | stayed 36.7 (mid-hook) | AVD 0:14 | feed 94.7 = FEED-LANE | engaged 298 / UV 293 | ✅ CLEAN #8: UK 22.8 / Thailand 21.6 (⚠ FIRST Thailand top-2 = outlier watch) / US 8.5 / India 6.4 + non-sub 91.2 + M100 + 35-44 single-bucket | subs — (36.7 -> 0: co-factor question open) | realtime 1/48h channel-pages = SPENT
+  TERMS: adam / behemoth-slaves / kucing-lucu persist ×2 ≈1v (registry noise); NEW watch ≈1v: 100-officers, psycho-killer-bass; sugar dropped -> nothing portable; captions run on identity (coheed / favor house / michael todd), all in-box
+  SF P03 prog-punk bassline that sticks in your head for days! #shorts #bass: "TITLE"
+  SF     Michael Todd's 'A Favor House Atlantic' line is prog-pop bass at its most playful!
+    
+    The whole bouncy take is attached right up top!
+    
+    #shorts #coheedandcambria #afavorhouseatlantic #basscover #rocksmith:
+    Michael Todd's 'A Favor House Atlantic' line is prog-pop bass at its most playful!
+    
+    The whole bouncy take is attached right up top!
+    
+    #shorts #coheedandcambria #afavorhouseatlantic #basscover #rocksmith
+  #shorts #coheedandcambria #afavorhouseatlantic #basscover #rocksmithTAGS: #shorts #coheedandcambria #afavorhouseatlantic #basscover #rocksmith
+  Coheed fans: is this the band's catchiest bass moment, or does 'The Suffering' edge it out? Compare up top! 👇🎸: "Coheed fans: is this the band's catchiest bass moment, or does 'The Suffering' edge it out? Compare up top! 👇🎸"
+  LF: 2v FROZEN ×2 (UV 2) | imp 266 / CTR 0.4 / rec-serve 81.2 (#6-serve) w/ VFI 1 | Browse 50 / Suggested 50 frozen w/ Pokemon-Route-1-acapella suggested-by (artifact) | AVD 0:19 usual | likes 0.0% (zero-like #7) | rail EMPTY | LF TITLE: "Michael Todd's catchy prog-pop bass hook on 'A Favor House Atlantic'!"
+  NOTE: ✅ CLEAN mid-tier asset (755v, honest geo, fair RPM) — safe as filler, not a lead: hook 36.7 mid and the Thailand outlier wants one more read before any Thai-targeted push. Slots: slot-agnostic (distributed geo); if targeted, UK evening. Captions lead with "prog-pop bassline" + Michael Todd name-check. LF skip (n=2).
+0060 | Avenged Sevenfold - A Little Piece Of Heaven | published 22-07-2026 (00:00 UK = US-evening slot #2 — hottest first hour of the era ~418/hr)
+  SF: 826v (+22 POST-WINDOW; RT 16/48h feed-93.8 = era's ONLY ACTIVE tail) | £0.06 = £0.073/1k | stayed 44.8 (era-#3 hook; revised 45.5) | AVD 0:18 | feed 94.4 = FEED-LANE | engaged 359 / UV 350 | ✅ CLEAN #7: UK 68.4 + India 0.0 EXPLICIT + non-sub 93.6 + M100 + 25-34-led multibucket | +2 subs (co-factor counter-case: 44.8 -> +2 vs 0057S 48.1 -> 0) | card 3rd print (7%-higher -> similar-30-800 -> similar-40-810)
+  TERMS: `avenged sevenfold` MIRRORED on-box (identity leader ≈9v — 0 action); `headlong flight rush` reject ×3; LF `piece of heaven` substring-fold rejected; captions a7x / piece of heaven / johnny christ all in-box
+  SF Orchestral metal madness on Avenged Sevenfold's darkest track! #shorts #bass: "TITLE"
+  SF     Eight minutes of theatrical metal chaos condensed into one bass workout!
+    
+    Every twisted section of the full take is linked up top!
+    
+    #shorts #avengedsevenfold #alittlepieceofheaven #basscover #rocksmith:
+    Eight minutes of theatrical metal chaos condensed into one bass workout!
+    
+    Every twisted section of the full take is linked up top!
+    
+    #shorts #avengedsevenfold #alittlepieceofheaven #basscover #rocksmith
+  #shorts #avengedsevenfold #alittlepieceofheaven #basscover #rocksmithTAGS: #shorts #avengedsevenfold #alittlepieceofheaven #basscover #rocksmith
+  Which hits harder in this track — the swaggering verses or the heavy finale? Full version above for the verdict! 👇🎸: "Which hits harder in this track — the swaggering verses or the heavy finale? Full version above for the verdict! 👇🎸"
+  LF: 10v FROZEN ×3 (UV 8) | imp 554 / CTR 1.4 (top-3 class) | 🔔 bell 145/0.7%/1v = 2nd LF bell-conversion EVER | lanes Browse70/Direct10/search10/Notif10 frozen ×3 | AVD 0:15 ('0:01 less' badge) + APV 3.4 | likes 0.0% (zero-like #8) | subscribed-98.1 regulars-held | rail EMPTY | LF TITLE: "Johnny Christ's theatrical bass work on 'A Little Piece Of Heaven' is wild!"
+  NOTE: ✅ UK-HEAT repost asset — zero-farm RPM + era-#3 hook + still-ACTIVE tail; lead on UK slots (17:00/21:00 UK), US-evening secondary (slot sets odds, identity pulls the lane — v1.83 doctrine). Captions: "eight-minute metal cabaret" angle + A7X name-check. LF skip (n=10) but keep its bell/CTR stats as notify-policy exhibit #2.
+0061 | Rammstein - Adieu | published 22-07-2026 (early-hours stack — hottest opening of the era 534/hr; twin-stack with 0062)
+  SF: ~1.0k+ v FINAL (closes 1,011; RT 19/48h feed-led = ACTIVE tail) | £0.03 = £0.029/1k | stayed 38.1 (mid; revised 39.2) | AVD 0:14 | feed 95.0 = FEED-LANE | engaged 387 / UV 378 | ✅ clean-NARROW: India 35.7 (intensifying 22.9->) / UK 13.3 / Russia 12.1 — NOT farm per full stack (F0, multibucket frozen age, non-sub 82.6, RPM healthy, rail populated) | subs — (38.1 -> 0: 4th zero in band; co-factor open) | card up-REVISED 26->29%
+  TERMS: `rammstein` MIRRORED on-box (≈1v, family-covered — never-port); bandar-wala / naya-raja / stoned-in-love noise frozen ×2 -> nothing portable; captions lead with rammstein / adieu / riedel Drop-C weight, all in-box
+  SF Crushing German industrial metal Drop-C low end! #shorts #bass: "TITLE"
+  SF     'Adieu' proves Rammstein don't need speed to crush — just weight!
+    
+    Full Drop-C take is attached right above!
+    
+    #shorts #rammstein #adieu #basscover #rocksmith:
+    'Adieu' proves Rammstein don't need speed to crush — just weight!
+    
+    Full Drop-C take is attached right above!
+    
+    #shorts #rammstein #adieu #basscover #rocksmith
+  #shorts #rammstein #adieu #basscover #rocksmithTAGS: #shorts #rammstein #adieu #basscover #rocksmith
+  Is 'Adieu' the emotional peak of the *Zeit* album? Full performance up top if you want to feel it again! 👇🎸: "Is 'Adieu' the emotional peak of the *Zeit* album? Full performance up top if you want to feel it again! 👇🎸"
+  LF: 9v (+1; first fast-start badge-formal: 8 in 10h vs typical 0-3) | imp 556 / rec-serve 23.3 / VFI 8 / imp-AVD 0:25 = era-LF RECORD | AVD 0:22 usual (wave-best relative) | no-notify variant | bell 144/0%/0 dead (big-push) | subscribed 78.2 | likes 0.0% (zero-like #9) | rail EMPTY | LF TITLE: "Oliver Riedel's crushing Drop-C industrial metal bass weight on 'Adieu'!"
+  NOTE: ✅ clean asset for India-evening + Russia-friendly slots (India 35.7 intensifying — re-check farm stack next read before any India-led paid push; RPM and discovery-shape say clean). Hook 38.1 mid — solid support repost, not a flagship. Captions: funeral-march weight + Riedel name-check. LF skip (n=9).
+0062 | The Boomtown Rats - I Dont Like Mondays | published 22-07-2026 (~04:40 UK morning edge-of-slot; twin-stack with 0061)
+  SF: ~1.2k+ v FINAL (window ERA #2 ~1,193-1,196; RT 19/48h feed-led = ACTIVE tail) | £0.03 = £0.025/1k (UP-revised ×3) | stayed 24.3 (weakest-tier hook — reach proves hook-independence) | AVD 0:16 | feed 94.9 = FEED-LANE + notifications 0.1 (wave's only SF blip) | engaged 305 / UV 297 (matured) | India 39.2 (18.7->) / UK 13.6 / DE 3.0 / US 2.2 / JP 1.5 = WATCH-LEAN (farm-stack incomplete: sub 31.2, RPM 5x floor, praise ×2 — NOT rostered; re-audit next read) | PC 25.7 = SF record-high | subs — (honest zero below +zone) | card up-REVISED 48->53%
+  TERMS: alibaba-wala / ankita-wala / gadi-game / ikan-lele = farm-vocab freeze ×2 (registry); `layla bass cover` ≈1v cross-song watch -> nothing portable; captions lean new-wave identity (1979 / boombrown rats / pete briquette), all in-box
+  SF 1979 UK new wave melodic bass runs on a Thunderbird! #shorts #bass: "TITLE"
+  SF     Piano-rock needs bass courage — and Pete Briquette had loads of it in 1979!
+    
+    The complete moody masterpiece cover waits right above!
+    
+    #shorts #theboomtownrats #idon'tlikemondays #basscover #rocksmith:
+    Piano-rock needs bass courage — and Pete Briquette had loads of it in 1979!
+    
+    The complete moody masterpiece cover waits right above!
+    
+    #shorts #theboomtownrats #idon'tlikemondays #basscover #rocksmith
+  #shorts #theboomtownrats #idon'tlikemondays #basscover #rocksmithTAGS: #shorts #theboomtownrats #idon'tlikemondays #basscover #rocksmith
+  Has a darker chart-topper ever existed? Watch the full take up top and tell me where this one ranks! 👇🎸: "Has a darker chart-topper ever existed? Watch the full take up top and tell me where this one ranks! 👇🎸"
+  LF: 16v (+2) = ERA-LF #2 (UV 14) | imp 937 / rec-serve 52.4 (top share ×2) / VFI 13 (era-high) | 🔔 bell 144/1.4%/2v = BIGGEST LF bell-conversion EVER (policy exhibit #1) | Browse 68.8 + Notif 12.5 | AVD 0:18 neutral + APV 7.4 first print | likes 0.0% (zero-like #10) | subscribed 86.6 | rail EMPTY | LF TITLE: "Pete Briquette's melodic new wave bass runs on 'I Don't Like Mondays'!"
+  NOTE: ⚠ REACH-LEAD WITH CAVEAT — era-#3 reach (1.2k) with the weakest hook class (24.3) and an India-lane lean: use for top-of-feed reach pushes on UK evening + India-evening slots, but do NOT lead quality-branded series with it (hook/RPM say average). Captions: "1979 piano-rock counter-lines" + Briquette credit. LF skip (n=16 but the bell stats are doctrine gold).
+0063 | Rammstein - Adios | published 22-07-2026 (15:00 UK = FIRST out-of-slot ship — slot A/B: no totals penalty (n=1))
+  SF: 1.3k v FINAL-class (window #3 ~1,180; 🚨 RT 90/48h = era's BIGGEST active tail) | £0.06 = £0.046/1k | stayed 30.4 (mid) | AVD 0:15 | feed 99.7 = ERA-PUREST | engaged 422 / UV 415 | ✅ CLEAN #11 + era tier-1: UK 45.9 / India 12.9 / Russia 6.7 / DE 2.8 + Gen-X-lead (35-44 46.9) + non-sub 92.6 | subs — (30.4 -> 0) | card %-UP-REVISED 49->64% = 🏆 era's biggest ("520 more than usual")
+  TERMS: halloween / sad-but-true-tutorial / industrial-metal (banned genre-generic) / musik-bagus (Indo-farm, ×2 sightings today w/ 0064S) frozen ×2 -> nothing portable; captions: rammstein adios / mutter / riedel right-hand sprint, all in-box
+  SF Industrial metal bass aggression on Rammstein's 'Adios'! #shorts #bass: "TITLE"
+  SF     'Adios' is the fastest forearm test on the whole *Mutter* album!
+    
+    Full-speed cover is linked right up top!
+    
+    #shorts #rammstein #adios #basscover #rocksmith:
+    'Adios' is the fastest forearm test on the whole *Mutter* album!
+    
+    Full-speed cover is linked right up top!
+    
+    #shorts #rammstein #adios #basscover #rocksmith
+  #shorts #rammstein #adios #basscover #rocksmithTAGS: #shorts #rammstein #adios #basscover #rocksmith
+  Mutter-era Rammstein had zero mercy on the right hand. Which track from that record wrecks you first? 👇🎸: "Mutter-era Rammstein had zero mercy on the right hand. Which track from that record wrecks you first? 👇🎸"
+  LF: 7v (+1) | imp 733 / rec-serve 51.3 / CTR 0.8 = wave-weakest ×2 | VFI 6 / imp-AVD 0:19 | Browse 66.7 + Suggested 33.3 (Hanabie/Acid-Drinkers frozen) | AVD 0:19 usual | 🚨 TV-dominant + 192.7/242.1 overflow-quirk prints | likes 0.0% (zero-like #11) | rail EMPTY | LF TITLE: "Heavy industrial guitar riffing backed by Oliver Riedel's relentless bass pulse!"
+  NOTE: ✅ ERA TIER-1 flagship repost asset (ties 0056S at 1.3k) — biggest live tail, biggest praise card, purest feed, Anglo/Gen-X demo. Lead slots: UK evening + Germany-friendly hours; US-evening secondary (out-of-slot arm proved totals parity anyway). Captions: Mutter-era sprint + Riedel right-hand angle. SF pin CTA fix is in md already — live re-pin sits on YOUR queue. LF skip (n=7; CTR weak but artwork parked until n grows).
+0064 | The Mamas and The Papas - Monday Monday | published 22-07-2026 (evening stack member — ship-slot unpinned per v1.83)
+  SF: 1.2k v (546 day-1 -> breakout completion = era-#2-tie w/ 0062S) | £0.03 = £0.025/1k | stayed 28.3 (mid-low) | AVD 0:15 | feed 95.2 = FEED-LANE (+Browse 0.1 rare blip) | engaged 340 / UV 327 | ⚠ WATCH-LEAN: India 33.6 / UK 6.4 / CA 6.0 / JP 5.4 / RU 3.8 + sub-WT 27.5 + 2nd rail-EMPTY SF — stack incomplete, re-audit r2 (age/F pending) | subs — (28.4 -> 0) | card first-print 31% (praise-class) | RT 13/48h = active
+  TERMS: スマス-ロカバネリ / 1968-camaro / asmr-spongebob / jaguares ≈1v watch + `musik bagus` ×2 sightings today = watch #8 -> nothing portable; captions: wrecking crew / joe osborn / 1966 sunshine pop, all in-box
+  SF Wrecking Crew 1966 sunshine pop bass masterclass! #shorts #bass: "TITLE"
+  SF     The Wrecking Crew walked so modern bass could run — 'Monday, Monday' from 1966!
+    
+    Full sunshine-pop take is linked right up top!
+    
+    #shorts #themamasandthepapas #mondaymonday #basscover #rocksmith:
+    The Wrecking Crew walked so modern bass could run — 'Monday, Monday' from 1966!
+    
+    Full sunshine-pop take is linked right up top!
+    
+    #shorts #themamasandthepapas #mondaymonday #basscover #rocksmith
+  #shorts #themamasandthepapas #mondaymonday #basscover #rocksmithTAGS: #shorts #themamasandthepapas #mondaymonday #basscover #rocksmith
+  Joe Osborn's walking lines are a masterclass in taste. Full performance up top! 👇🎸: "Joe Osborn's walking lines are a masterclass in taste. Full performance up top! 👇🎸"
+  LF: 6v (UV 5) | imp 537 / rec-serve 13.3 bottom-serve / CTR 0.9 | VFI 5-of-6 | 🌉 Related-Shorts 16.7 = wave's FIRST bridge-lane LF | AVD 0:08 (-0:09 badge = 2nd-worst) | likes 0.0% (zero-like #12) | subscribed 75.4 | rail EMPTY | LF TITLE: "Joe Osborn's studio Wrecking Crew 1966 sunshine pop bassline!"
+  NOTE: ⚠ era-#2-tie REACH with cautionary lean — 1.2k reach is real but the demo leans India + the rail printed empty (2nd-ever SF case); hold off lead-repost status until r2 populates age/F. Meanwhile safe as secondary reach muscle on India-evening + UK-evening slots. Captions: "1966 studio royalty" + Joe Osborn name-check. LF skip (n=6; the Related-Shorts bridge pop is a doctrine note only).
+0065 | Happy Mondays - Step On | published 25-07-2026 (28-07 day-3 read)
+  SF: 1.3k v @ day-3 = TIER-1 THREE-WAY TIE (0056S ≈ 0063S ≈ 0065S) | stayed 41.7 = era-#4 STRONGEST-HOOK breakout class | WT 3.4 (+1.4 badge) | AVD 0:20 | feed 95.3 = FEED-LANE (Browse-blip 0.1) | engaged 564 | 🏆 RT 1,349/48h = ERA RECORD (in-window) | card composite praise 23% (5th straight non-neutral) | geo/age/F pending => provisional CLEAN-lean r2 | subs — | 3rd rail-EMPTY SF (marker deprecated as farm signal)
+  TERMS: bass-groove / funk-bass family-covered; berlin-pride / gary-lineker-podcast / cluedo-radio ≈1v noise -> nothing portable; captions: paul ryder / madchester funk-house / factory records, all in-box
+  SF 90s UK Madchester funk bass groove that refuses to quit! #shorts #bass: "TITLE"
+  SF     Paul Ryder's bassline is the engine of the whole Madchester dancefloor!
+    
+    Full funk-house workout is linked right up top!
+    
+    #shorts #happymondays #stepon #basscover #rocksmith:
+    Paul Ryder's bassline is the engine of the whole Madchester dancefloor!
+    
+    Full funk-house workout is linked right up top!
+    
+    #shorts #happymondays #stepon #basscover #rocksmith
+  #shorts #happymondays #stepon #basscover #rocksmithTAGS: #shorts #happymondays #stepon #basscover #rocksmith
+  Bez danced, Shaun rapped, but Paul Ryder DROVE it. Full take up top! 👇🎸: "Bez danced, Shaun rapped, but Paul Ryder DROVE it. Full take up top! 👇🎸"
+  LF: 18v = BIGGEST era-LF print | imp 1.3k pool (era-LF-high) / rec-serve 57.0 / CTR 1.1 | VFI 8 | Browse 50 + Suggested 44.4 | AVD 0:27 = era-LF BEST | likes 100% (trio #3) | subscribed 61.3 | rail EMPTY #14 | 🔔 RT 9/48h Suggested-led = FIRST live LF tail | LF TITLE: "Paul Ryder's Madchester funk-house bassline is an absolute dancefloor classic!"
+  NOTE: ✅ provisional reach-lead: tier-1 tie WITH the best hook in class — if r2 geo comes back clean, this is the era's most complete SF asset (reach + quality + WT badge). Hold the RT-1,349 roar per 48h rule — no live edits. Slots pending geo (call after r2). LF keep for stats (era-best AVD + first live LF RT are doctrine gold).
+0066 | The Bangles - Manic Monday | published 26-07-2026 (DATE-SYNCED 17-07→26-07; 29-07 day-3 read)
+  SF: exact 1,152 v @ day-3 | neutral typical-band card = 🏁 FIRST card-level "usual" rebase 830-1,200 | stayed 34.7/34.8 (mid) | AVD 0:14 | feed 97.7 = FEED-LANE | engaged 403 / UV 396 | £0.06 = £0.052/1k healthy | UK 49.3-led / India 30.9 watch / US 3.3 / DE 2.6 + M100 25-54 triple-bucket = provisional CLEAN-lean (India growth watch r2) | subs — | RT 248/48h active | rail EMPTY (SF #4 — marker deprecated)
+  TERMS: barong-bangkung / yamal-cbs ≈1v noise -> nothing portable; captions: prince-wrote-it / 1986 pop-rock drive / susanna hoffs, all in-box
+  SF Bright 1986 pop-rock bass drive written by Prince! #shorts #bass: "TITLE"
+  SF     Prince secretly wrote this 1986 smash — and the bass deserves way more credit!
+    
+    Full Bangles cover is attached right up top!
+    
+    #shorts #thebangles #manicmonday #basscover #rocksmith:
+    Prince secretly wrote this 1986 smash — and the bass deserves way more credit!
+    
+    Full Bangles cover is attached right up top!
+    
+    #shorts #thebangles #manicmonday #basscover #rocksmith
+  #shorts #thebangles #manicmonday #basscover #rocksmithTAGS: #shorts #thebangles #manicmonday #basscover #rocksmith
+  Manic Monday or Eternal Flame — which Bangles track has the better low end? Full take up top to compare! 👇🎸: "Manic Monday or Eternal Flame — which Bangles track has the better low end? Full take up top to compare! 👇🎸"
+  LF: 14v (UV 12) | imp 956 / rec-serve 46.2 / CTR 0.9 | VFI 8 | Browse 57 + Notify 14.3 (lane #2) | AVD 0:27 / APV 15.3 | likes 0.0% (zero-like #13) | subscribed 57.9 | TV 29.4 | Suggested-by Windscreen solo | rail EMPTY #15 | LF TITLE: "Prince-written 80s pop-rock basslines played with a crisp low-end attack!"
+  NOTE: ✅-lean mid-class repost muscle: 1,152 reach with a UK-led demo and a healthy RPM; the headline is the BAND print — Studio now calls ~1k "usual" for this channel. If r2 shows India crossing 40%, demote to watch-lean; else secondary lead on UK evenings, Prince-trivia captions. LF skip (n=14).
+0067 | Pratt & McClain - Happy Days | published 26-07-2026 (DATE-SYNCED 17-07→26-07; 29-07 day-3 read)
+  SF: exact 1,065 v @ day-3 | neutral typical-band card ×2 (rebase 830-1,200 stable) | stayed 33.9/32.0 | AVD 0:14 | feed 94.7 = FEED-LANE | engaged 371 / UV 282 | subs +2 = co-factor positive #2 | £0.04 = £0.038/1k | India 35.9-led / UK 26.6 / JP 4.0 / US 2.8 + 55-64 100% boomer-lock = ⚠ WATCH-LEAN #4 (NOT rostered — RPM healthy + tail) | RT 562/48h = biggest active SF | rail EMPTY (SF #5 — marker deprecated)
+  TERMS: double-sided-guitar / kerbal ≈1v noise -> nothing portable; captions: happy-days theme / 1976 TV bass / jukebox walk, all in-box
+  SF Vintage 70s walking pop-rock bassline from 'Happy Days'! #shorts #bass: "TITLE"
+  SF     The 'Happy Days' theme is 1976 television bass at its bounciest!
+    
+    Full jukebox take is pinned right above this clip!
+    
+    #shorts #prattandmcclain #happydays #basscover #rocksmith:
+    The 'Happy Days' theme is 1976 television bass at its bounciest!
+    
+    Full jukebox take is pinned right above this clip!
+    
+    #shorts #prattandmcclain #happydays #basscover #rocksmith
+  #shorts #prattandmcclain #happydays #basscover #rocksmithTAGS: #shorts #prattandmcclain #happydays #basscover #rocksmith
+  Which classic sitcom theme still gets stuck in your head after one note? Full take above for nostalgia! 👇🎸: "Which classic sitcom theme still gets stuck in your head after one note? Full take above for nostalgia! 👇🎸"
+  LF: 🏆 35v = era-LF LEAD | imp 1.5k pool / rec-serve 69.8 top / CTR 0.9 | VFI 10 | Browse 57 + search 28.6 (era-LF-high) | AVD 1:19 "+0:50" badge = biggest positive ever + APV 49.4% | end-screen 50% | likes 0.0% (zero-like #14) | non-sub 99.6 | PC 89.3 inverse-lock | US 41.7-led | 4-way Suggested-by anchor | 🔔 RT 34/48h | rail EMPTY #16 | LF TITLE: "Classic 1970s TV theme walking basslines played with vintage feel!"
+  NOTE: ⚠ SF is reach-real but demo-split (India-led w/ boomer lock): hold repost slots until r2 clarifies behaviour/age-cliff; if it widens to UK/JP, promote. LF is the era's FIRST retention-proved LF — showcase candidate for US-evening LF pushes (nostalgia-sitcom angle).
+0068 | The Allman Brothers Band - Stormy Monday | published 27-07-2026 (DATE-SYNCED 17-07→27-07; 29-07 day-2 read)
+  SF: exact 1,119 v @ day-2 ("19 more than usual") | neutral typical-band card ×3 — 🏁 band-print VARIANT 760-1,100 (vs 830-1,200 on 0066/0067 cards) | stayed 32.3/32.6 | AVD 0:14 | feed 94.6 = FEED-LANE (+ external 0.1 rare blip) | engaged 354 / UV 269 | subs +1 = co-factor #3 | £0.03 = £0.027/1k | UK 27.7 ≈ India 27.4 co-lead + 65+ 100% OLDEST single-bucket = ⚠ WATCH-LEAN #5 (JP 8.2 / CA 3.7 / IT 2.9 tail) | RT 1,119 ≈ full window | rail EMPTY (SF #6 — marker deprecated)
+  TERMS: al-di-meola warm-bleed / makeup-wala (wala-family #4) ≈1v -> nothing portable; captions: berry oakley / stormy monday walk / fillmore east, all in-box
+  SF Masterclass in 12-bar blues-rock walking bass lines! #shorts #bass: "TITLE"
+  SF     Berry Oakley's 'Stormy Monday' walk is blues-bass university in under nine minutes!
+    
+    Complete slow-burn take is linked up top!
+    
+    #shorts #theallmanbrothersband #stormymonday #basscover #rocksmith:
+    Berry Oakley's 'Stormy Monday' walk is blues-bass university in under nine minutes!
+    
+    Complete slow-burn take is linked up top!
+    
+    #shorts #theallmanbrothersband #stormymonday #basscover #rocksmith
+  #shorts #theallmanbrothersband #stormymonday #basscover #rocksmithTAGS: #shorts #theallmanbrothersband #stormymonday #basscover #rocksmith
+  Is *At Fillmore East* the greatest live bass document ever recorded? Listen to the full take above and discuss! 👇🎸: "Is *At Fillmore East* the greatest live bass document ever recorded? Listen to the full take above and discuss! 👇🎸"
+  LF: 33v (era-LF #2, "24 more than usual") | imp 2.7k = 🏆 era-LF pool record / rec-serve 61.8 / CTR 0.8 | VFI 7 / imp-AVD 0:26 | FIRST Suggested-LANE-led LF (48.5 vs Browse 24.2) + FIRST playlists-lane 6.1 | AVD 0:46 "+0:17" = positive badge #2 in a row | APV 7.0% (8:50 runtime) | likes 0.0% (zero-like #15) | subs +1 | subscribed-WT 33.7 | rail EMPTY #17 | 🔔 RT 33/48h | LF TITLE: "Berry Oakley's legendary fluid 12-bar blues-rock bass walking lines!"
+  NOTE: ⚠ SF same shape as 0067S — 1.1k reach with a boomers-only age lock and India co-lead: hold slots until r2 says whether India passes UK. LF is stats-gold (era pool record + Suggested-led discovery profile); keep pkg, not a repost lead.
+0069 | Coldrampage - Spoon | published 28-07-2026 (DATE-SYNCED 17-07→28-07; 29-07 day-1 read)
+  SF: headline 1.4k v @ day-1 = 🏆 NEW ERA-#1 ("451 more than usual"; RT 1,441 = era RT record) | praise card #6 + FIRST likes-composite ("46% higher + more likes") | stayed 43.7 bar / 39.1 km (two-card divergence) | AVD 0:17/0:10 | WT +1.2 badge (#3) | feed 95.3 = FEED-LANE | engaged 593 / UV 39 (lag) | mobile 83.9 era-high | UK 57.3-led = provisional CLEAN-lean (tail/age/CC below crop — r2 decides flagship vs watch) | subs — | £0.01 in-window-lag (engaged-basis ≈£0.017/1k) | rail EMPTY (SF #7 — marker dead)
+  TERMS: dash-deferred ("not enough data" @ 1.2%) -> nothing portable yet; r2 pull; captions: coldrampage / underground indie / fingerstyle punch, all in-box
+  SF Underground indie bass riff with serious fingerstyle punch! #shorts #bass: "TITLE"
+  SF     This underground indie weapon hides one tight fingerstyle engine!
+    
+    Full grooving take is linked right up top!
+    
+    #shorts #coldrampage #spoon #basscover #rocksmith:
+    This underground indie weapon hides one tight fingerstyle engine!
+    
+    Full grooving take is linked right up top!
+    
+    #shorts #coldrampage #spoon #basscover #rocksmith
+  #shorts #coldrampage #spoon #basscover #rocksmithTAGS: #shorts #coldrampage #spoon #basscover #rocksmith
+  Which underground indie track deserves the fingerstyle treatment next? Full take up top! 👇🎸: "Which underground indie track deserves the fingerstyle treatment next? Full take up top! 👇🎸"
+  LF: 7v (UV 1 = single-subscriber loop pocket) | imp 332 / rec-serve 4.0 bottom / CTR 1.2 | imp-AVD 0:53 = 🏆 era-LF record | 🌉 Related-Shorts 14.3 = bridge-lane #2 (consecutive) | AVD 0:34 "+0:11" = 3rd consecutive positive LF badge | likes 0.0% (zero-like #16) | £0.002 = FIRST non-dash LF revenue | sub-WT 100% | 🔔 RT 7/48h | rail EMPTY #18 | LF TITLE: "Grooving through this underground indie-rock gem with heavy bass!"
+  NOTE: 🏆 flagship candidate once r2 lands: era's biggest SF print + big praise card + WT badge + UK-lead — if the tail stays Anglo it becomes the era's most valuable repost asset (UK-eve + US-eve slots, indie-discovery captions). LF is an anomaly pocket — leave pkg as-is, n=1 stats only.
+===============================================================================
+CHANNEL TIMING CONTEXT (for timezone math)
+- Channel operates Europe/London. YT ship slots used for new uploads: 00:00 / 08:00 / 12:00 / 17:00 / 21:00 UK.
+- Audience geo (this series): 0052S UK-led 36.5 / Japan 3.6 (clean Anglo); 0051S India 54.8 / Indonesia 12.7 (farm-class, ignore for timing); 0053S Japan 34.1 / US 3.9 / UK 3.7 (clean-narrow Gen-X — JP evening = UK late-night; contraction watch); 0054S UK 30.1 / US 20.0 / AU 7.2 (clean Anglo Gen-X — UK evening + US-morning spillover slots); 0055S India 70.0 / Indo 14.8 (farm-lane, ignore for timing); 0056S UK 9.1 / Japan 6.6 / US 6.0 / Germany 2.7 / Netherlands 2.5 (clean DISTRIBUTED — no lead geo; re-roll ignited US-evening); 0057S US 42.4 / UK 17.2 / CA 5.0 / BR 4.6 (US-led matured CLEAN — ⏱️ US-EVENING SLOT = NOW DOCTRINE for US-skewed catalog: the 00:00 UK = 19:00 ET ship won double-instrument on grunge identity); 0058S India 72.0 (farm-lane, ignore for timing — its 04:00 UK stack slot did NOT cannibalize 0057S: dual-stack proven n=1); 0059S UK 22.8 / Thailand 21.6 (FIRST Thailand top-2 print = outlier watch) / US 8.5 / India 6.4 (clean-DISTRIBUTED — slot-agnostic); 0060S UK 68.4 / India 0.0 EXPLICIT (UK-dominant — slot-arm geo divergence n=2: identity pulls the lane, not the clock); 0061S India 35.7 / UK 13.3 / Russia 12.1 (22.9->35.7 India-intensifying clean-NARROW — India-evening slots fit; NOT farm: multibucket age + F0 + non-sub 82.6 + RPM £0.029); 0062S India 39.2 / UK 13.6 / DE 3.0 (18.7->39.2 India-lane WATCH-LEAN — hook 24.3 weakest-tier; UK evening secondary; NOT rostered yet: stack incomplete); 0063S UK 45.9 / India 12.9 / Russia 6.7 / DE 2.8 (UK-dominant Gen-X + industrial-EU = CLEAN tier-1; UK evening primary, Germany-friendly); 0064S India 33.6 / UK 6.4 / CA 6.0 / JP 5.4 / RU 3.8 (India-led WATCH-LEAN — NOT rostered pending age/F panel; mixed-slot fit: India evening primary + UK evening secondary); 0065S geo PENDING @ day-3 (terms only: bass-groove / funk-bass family + UK-brunch noise berlin-pride / gary-lineker-podcast / cluedo-radio ≈1v — slot call after r2 geo); 0066S UK 49.3 / India 30.9 / US 3.3 / DE 2.6 (UK-led 25-54 M100; India secondary watch — UK evening primary); 0067S India 35.9 / UK 26.6 / JP 4.0 / US 2.8 (India-led WATCH-LEAN w/ boomer lock — India evening primary w/ UK-eve secondary pending r2); 0067L US 41.7-led = US-evening doctrine fit); 0068S UK 27.7 ≈ India 27.4 / JP 8.2 / CA 3.7 / IT 2.9 (co-lead tie WATCH-LEAN — oldest 65+ lock; slot call after r2 India-share; JP podium argues UK-eve + JP-eve composite if clean); 0069S UK 57.3-led (tail below crop @ day-1 — provisional; UK-eve + US-eve composite if tail confirms Anglo). Cross-reference the 0001-0050 file for the core UK-heavy/US-second shelf.
+- Era anatomy: 15-Jul wave = sequential-draft breakouts; lottery shape = day-1/2 spike then flat. Clean feed-lottery roster (17): 0029S 801 / 0039S 932 / 0052S 778 / 0054S 1.1k / 0056S 1.3k / 0057S 1.1k / 0060S 826 / 0059S 755 / 0062S 1.2k (reach #3, hook-lean WATCH) / 0061S 1.0k (India-narrow intensify) / 0063S 1.3k ✅ tier-1 (UK Gen-X, tail-champion) / 0064S 1.2k ⚠ (India-lean WATCH) / 0065S 1.3k (tier-1 tie, strongest hook 41.7; geo pending — provisional) / 0066S 1,152 (UK-led provisional clean-lean; band-rebase card print) / 0067S 1,065 ⚠ (India-led WATCH-LEAN #4 — boomer-lock single-bucket) / 0068S 1,119 ⚠ (UK-India co-lead WATCH-LEAN #5 — 65+ oldest lock) / 0069S 1.4k (era-#1 print, UK-led provisional clean-lean; r2 tail+age queued). Lotto note: the two BIGGEST breakouts (0056S/0062S) hold the two weakest hooks — reach is hook-INDEPENDENT.
+- Realtime tails (non-verdict): both 15-Jul SFs cooled to +1v/48h via channel pages only; 0053S halo 6->1 (channel 100%) = same spent class; 0054S wave FULLY SPENT (252->0/48h in 6 days); 0055S 134->2/48h = feed-rattle spend class; 0056S 1,052->2/48h = re-roll wave spent (halo class); 0057S 1/48h channel-pages = spent (its 1,085 window = era day-1 RECORD + first sub-24h 4-figure). 0059S 1/48h channel-pages = same spent-halo class. 0060S 16/48h feed-93.8 = era's ONLY ACTIVE matured tail (+22 post-window, still serving); 0061S 19/48h + 0062S 19/48h feed-led = active tails #2-#3 ; 0063S 90/48h = 🚨 era's BIGGEST active tail (afterlife #1-class, re-roll watch) — 0064S 13/48h search-mixed = active tail #4 — the whole 22-Jul quartet alive at day-6. 0065S 1,349/48h @ day-3 = 🏆 ERA RT RECORD (in-window velocity, not a matured tail); 0065L 9/48h Suggested-led = FIRST live LF window on record. 0066S 248/48h = active in-window @ day-3 (feed 98.0); 0066L 4/48h = live LF rattle. 0067S 562/48h = BIGGEST active SF print; 0067L 34/48h = biggest live LF window. 0068S RT 1,119/48h ≈ full window (day-2 artifact); 0068L 33/48h Suggested-led = live LF. 🏆 0069S RT 1,441/48h @ day-1 = ERA RT RECORD; 0069L 7/48h.
+===============================================================================

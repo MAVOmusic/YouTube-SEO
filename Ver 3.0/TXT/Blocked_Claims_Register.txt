@@ -1,0 +1,7 @@
+🚫 MAVO BLOCKED-CLAIMS REGISTER — conveyor kills by copyright block
+Columns: ID | Artist – Song | Claimant | Scope | Impact | Action
+==================================================================
+
+[2026-08-03]
+0081 | Avril Lavigne – Complicated | SME on behalf of Arista | AUDIO, matched 0:00–4:03 (full length), claim title "Complicated (Tom-Lord Alge Mix Live Drum Version)" | VIDEO BLOCKED GLOBALLY + INELIGIBLE TO EARN | Skipped pre-publish (03-08 21:00 slot); do NOT re-upload this mix. Claim-card receipt captured = FIRST Claims-card screenshot on file (red ✕ impact icons + Take action panel).
+WATCH: 0091 Avril Lavigne – How Does It Feel also ships Arista catalog (scheduled 05-08 21:00) — check its Claims card at upload; if same class lands, skip immediately and slot next pack forward.
