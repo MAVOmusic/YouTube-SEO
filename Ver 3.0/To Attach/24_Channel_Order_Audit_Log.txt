@@ -714,3 +714,166 @@ NEXT: MAVO is sending the second play along's results. That is Another Life, the
 in the set to a like-for-like comparison against the already-audited CO-0002.
 
 ================================================================================
+
+================================================================================
+CO-0004 | Motionless In White - Another Life (PLAY ALONG ON BASS)
+================================================================================
+Video ID           : TGUIsOZ77zI
+Upload / date      : 26-10-2022  (Studio window 25-10-2022 to 01-11-2026)
+Runtime            : 3:43 | source file "Motionless In White - Another Life_Final.mkv"
+Views / watch      : 989 | 31.8 h | +39 subscribers | unique viewers 534
+Package status     : NO bands/ package. Section C archive item - but Section C did
+                     not list it at all, so it has been added as [PA/LOOP 10] in
+                     this version. It is the eighth play along MAVO counted.
+Notices badge      : Ineligible to earn (Ads off)
+Revenue            : GBP 0.00. "Nothing to show" on Revenue, RPM and CPM all dash.
+MR CLASS           : E4 INELIGIBLE -> logged as MR-0005.
+
+IMPORTANT - THIS IS NOT CO-0002
+Both are "Motionless In White - Another Life" at three and a half minutes, three
+weeks apart on the same channel:
+  CO-0002  : 01-10-2022 | 3:44 | 224 views | different video, already rewritten
+  CO-0004  : 26-10-2022 | 3:43 | 989 views | THIS one, video ID TGUIsOZ77zI
+The folder name in the repo says "0002" on every filename while the folder itself
+says "0004". The panels are the 989-view play along - confirmed by the Overview
+header and the video ID. The CO-0002 copy must not be pasted onto this one.
+
+--------------------------------------------------------------------------------
+THE NUMBERS
+--------------------------------------------------------------------------------
+Impressions        : 8.6k | CTR 8.5% | 10.3% of impressions came from YouTube
+                     recommending it
+Funnel             : 728 engaged views from impressions, 2:06 average duration
+                     from impressions, 25.58 h watch time from impressions
+Retention          : AVD 1:57 | APV 52.8% | 63% still watching at 0:30, which
+                     Studio flags as ABOVE typical
+Traffic            : YouTube search 70.6% | Playlists 9.8% | Suggested 5.8% |
+                     Channel pages 4.7% | Browse 4.3% | Others 4.9% | External 1.7%
+Search terms       : "rocksmith bass" 2.4% | "rocksmith bass motionless in white"
+                     0.6% | "rocksmith" 0.3% | "motionless in white" 0.1% |
+                     "motionless in white - another life" 0.1%
+External           : Google 35.3% | Facebook 35.3% | bing 5.9%
+Devices            : TV 41.5% | Mobile 31.0% | Computer 26.4% | Tablet 1.1%
+Audience           : male 100% | 25-34 100% | not subscribed 88.8% |
+                     subscribed 11.2% | UK 2.8% | no subtitles 99.8%
+Engagement         : likes 100.0% vs channel 97.4% | end screen CTR 0.9% vs
+                     channel 1.1% | 0 hype points | 0 remixes
+Viewers also watch : Masterpiece (790), Immaculate Misconception (510),
+                     Abigail (356), America (333), Iron Maiden - Wasted Years
+                     (412) - five of the five visible are the same series
+
+--------------------------------------------------------------------------------
+THE FINDING: THE MASTERPIECE RETITLE IS ALREADY PAYING
+--------------------------------------------------------------------------------
+"Content suggesting this video" reads:
+  29.8%  own video (the other MIW play along)
+  24.6%  "Every bass note in Motionless In White's 'Master..."  <- MASTERPIECE
+   7.0%  The Red Jumpsuit Apparatus - Face Down
+   3.5%  Green Day - Give Me Novocaine / She's A Rebel
+   1.8%  Avril Lavigne - Sk8er Boi
+The retitled Masterpiece is the SECOND largest suggested source on this video, at
+24.6%. CO-0003 was retitled days ago and it is already feeding its siblings.
+That is the cross-feeding the series was always capable of and never got, because
+both videos were previously titled as identical machine strings - YouTube had no
+reason to treat them as distinct destinations worth recommending in sequence.
+Practical consequence: finishing the remaining six is not cosmetic. Each retitle
+lifts its siblings, not just itself. The series compounds.
+
+--------------------------------------------------------------------------------
+WHAT IS WRONG WITH THE SURFACE
+--------------------------------------------------------------------------------
+TITLE   "Rocksmith 2014 | Play Along on Bass | M | Motionless In White - Another
+        Life" - the same machine string as the rest of the set, and it does not
+        say the one thing that makes this video different.
+DESC    The longest template in the set. [TITLE], [CDLC DOWNLOAD LINK] SOON,
+        [DESCRIPTION], [ABOUT ME], [REQUESTING SONGS / BANDS FOR PLAY ALONG
+        PROJECT], [REQUESTING SONGS / BANDS FOR MY 100% PROJECT], "If you have
+        any questions drop them in the comment section below also. Or just
+        comment something for the algorithm.", [TWITCH SCHEDULE] "I got surgery
+        on 5th October 2022 so this schedule will be active as soon as i get back
+        to work."
+TAGS    27 tags at 500/500 - the box is completely full, so nothing can be added
+        without removing. Carries "games", "metal", "streamer", "twitch", "dlc",
+        "cdlc" and "how to play".
+PIN     "[KICK] [TWITCH] [DISCORD] [SCHEDULE]" - three links, a full weekly EST
+        schedule, and a "!!! *Please Subscribe if you can, we are so close to
+        1500. Much Love <3* !!!" opener. The Discord invite is
+        discord.gg/Hguy3JCXn, not the current ESGsGkN4j2, so it is almost
+        certainly dead. It also dates the video twice.
+
+--------------------------------------------------------------------------------
+THE BURIED SENTENCE THAT SHOULD HAVE BEEN THE HEADLINE
+--------------------------------------------------------------------------------
+Inside the template, in the only paragraph not in square brackets, MAVO wrote:
+  "In this project I will upload as many as CDLC I can for you to play along on
+   bass so even if you don't have the game you can practice!"
+  "I did not play on it to not adding extra bass tone to the sons so easier for
+   you to hear out everything well. Kept 5 second on start to show you the tuning
+   but also kept on the bottom left during the song to remind you so if you
+   memorize seeing too long time as me it will be much easier for you to prepare
+   before even touch this video."
+
+That is the actual product: a practice aid for people who do not own the game,
+with a tuning reference and the tuner left on screen. It is a genuinely good
+value proposition and it is buried in paragraph four of a bracketed template
+behind a dead download link. The rewrite promotes it to the title and the first
+line. Nothing about the video had to change - only what it admits to being.
+
+--------------------------------------------------------------------------------
+FINAL COPY (paste-ready, ASCII only)
+--------------------------------------------------------------------------------
+TITLE (64/100):
+No game needed for Motionless In White's 'Another Life' bassline
+
+DESCRIPTION (1292/5000):
+Motionless In White's 'Another Life' is here in full with the bass part on screen from the first bar, and you do not need to own Rocksmith to play along with it. That is the entire point of these uploads - if the game will not hand you the bassline, the video will.
+
+The first five seconds show the tuning and the tuner then stays parked in the corner for the whole song, so you can check yourself mid-passage without stopping to go hunting for a clip. No extra bass tone sits over the top either, which means what you hear is the part itself rather than something covering up the notes you are meant to be finding.
+
+Heavy band, genuinely sad song, and one of the few in this catalogue where the low end carries the melody instead of just the weight.
+
+If there is a track you have never been able to find a clean play along for, put it in the comments.
+
+🟣 Practice-room blocks run live on Twitch: https://www.twitch.tv/mavomusic
+💬 Bring your requests to Discord: https://discord.gg/ESGsGkN4j2
+
+**Genres:** Metalcore, gothic metal, alternative metal
+**Format:** Full song, on-screen bass tab, tuner left running, no overdubs
+🎸 No bass recorded over the part on purpose | 🎮 taken from Rocksmith 2014 Remastered (Steam)
+
+#AnotherLife #MotionlessInWhite #PlayAlongBass #BassLessons #Rocksmith2014
+
+TAGS (344/500 chars, 18 tags):
+rocksmith bass, rocksmith bass motionless in white, motionless in white another life bass, another life bass tab, motionless in white bass, motionless in white another life, bass play along, play along bass, bass tab, learn bass, drop d bass, metalcore bass, rocksmith 2014, rocksmith, motionless in white, another life, bass guitar, bass cover
+
+PINNED COMMENT (149/300):
+The tuner sits in the corner the whole way through - pause it, check yourself, keep going. Which song have you never found a clean play along for? 👇🎸
+
+--------------------------------------------------------------------------------
+WHAT CHANGED AND WHY
+--------------------------------------------------------------------------------
+- Title: opens "No game needed", an opener used 0 times across 308 packages, and
+  deliberately a different shape from the Masterpiece retitle ("Every bass
+  note..."). Carries artist + song + "bass" and states the buried benefit.
+- Description: every bracketed block deleted, including the CDLC placeholder.
+  The two good sentences from the old template are rewritten as the hook instead
+  of hidden under it. No "surgery" date, no "29 years old", no schedule.
+- Tags: 27 at 500/500 cut to 18 at 344, so there is 156 characters of headroom
+  again. Generic filler dropped; the two phrases that actually appear in the
+  search-terms panel promoted ("rocksmith bass", "rocksmith bass motionless in
+  white").
+- Pin: link wall and weekly schedule removed. Zero URLs, per the pin rule. Dead
+  Discord invite does not survive.
+- No bassist named - same reason as CO-0003.
+
+--------------------------------------------------------------------------------
+SERIES POSITION
+--------------------------------------------------------------------------------
+8 of 8 play alongs are now documented (see CO-0003-SERIES table). This is #2.
+Remaining to rewrite: Abigail (356), America (333), Immaculate Misconception
+(510), X-Kid (407), Black Parade (504), .38 Special (1,347).
+Note the 2024 uploads (X-Kid, Black Parade, .38 Special) use a DIFFERENT shell -
+emoji-led titles, Kick/Twitch links, no CDLC placeholder - so they need their
+own diagnosis rather than a straight template strip.
+
+================================================================================

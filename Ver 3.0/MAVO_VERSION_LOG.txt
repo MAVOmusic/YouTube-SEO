@@ -2823,3 +2823,70 @@ and the play along (989 views, 26-10-2022). Separate uploads, separate URLs, do
 not cross-paste.
 
 *   **Next:** play along 2 = Another Life (989 views), results incoming from MAVO.
+
+================================================================================
+[Ver 3.8] - 2026-11-01 - CO-0004 ANOTHER LIFE PLAY ALONG: SERIES TITLES COMPOUND
+================================================================================
+
+**Capture:** 11 panels, `TGUIsOZ77zI`, 26-10-2022, 3:43, 989 views.
+
+**Not CO-0002.** Same song, three weeks apart, different video: CO-0002 is 224
+views (01-10-2022), this is 989 (26-10-2022). Every file in the 0004 folder is
+named 0002 - reconciled by video ID and view count before writing copy.
+
+| Metric | Value |
+| --- | --- |
+| Views / watch / subs | 989 / 31.8 h / **+39** |
+| Impressions / CTR | 8.6k / **8.5%** |
+| AVD / APV | 1:57 / **52.8%** |
+| Still watching at 0:30 | **63%** (above typical) |
+| YouTube search | **70.6%** |
+| Not subscribed | 88.8% |
+| Top device | **TV 41.5%** |
+| Revenue | **GBP 0.00** - Ineligible / Ads off |
+
+## The finding: series titles compound
+"Content suggesting this video":
+- 29.8% own series video
+- **24.6% the retitled CO-0003 Masterpiece**
+- 7.0% Red Jumpsuit Apparatus - Face Down
+- 3.5% Green Day - Give Me Novocaine / She's A Rebel
+- 1.8% Avril Lavigne - Sk8er Boi
+
+The Masterpiece retitle, live only days, is already the **second largest
+suggested source** on its sibling. Under the old machine-string titles every
+video in the set was a near-identical string, so the recommender had no reason to
+treat them as distinct destinations. Unique titles make them distinguishable and
+they start clustering.
+
+**Consequence (§36):** finishing the remaining six is one job, not six - each
+rewrite feeds the others.
+
+## The buried sentence
+Inside the template MAVO had already written the value proposition: *"so even if
+you don't have the game you can practice"*, plus the tuning reference *"Kept 5
+second on start to show you the tuning but also kept on the bottom left during
+the song"*. Paragraph four, behind a dead CDLC link. Promoted to the title.
+
+## Delivered
+- **Title** (64ch): `No game needed for Motionless In White's 'Another Life' bassline` - opener "No" used 0 times in 308 packages, and a different shape from the Masterpiece retitle
+- **Description** (1,292ch): all six bracketed blocks and the CDLC placeholder deleted
+- **Tags**: 27 at **500/500** (box completely full) -> 18 at 344, 156 chars of headroom
+- **Pin** (149ch): three links, weekly EST schedule, subscribe-begging opener and stale `discord.gg/Hguy3JCXn` removed; zero URLs
+
+## Corpus repairs
+- `[PA/LOOP 10] Another Life` added to Section C - the archive listed 7 play alongs and omitted this one, which is why my count was wrong and MAVO's was right
+- **MR-0005** logged, E4 roll-up 15 -> 16
+
+| Gate | Result |
+| --- | --- |
+| Banned characters | 0 |
+| Title opener uniqueness | 0 prior uses |
+| Description first line | unique |
+| Gear line | unique |
+| Tag box | 18 / 344 of 500 |
+| verify.sh | ALL GATES GREEN |
+
+*   **Next:** Abigail (356), America (333), Immaculate Misconception (510) on the
+    2022 shell; then X-Kid (407), Black Parade (504), .38 Special (1,347) on the
+    2024 shell, which needs its own diagnosis.

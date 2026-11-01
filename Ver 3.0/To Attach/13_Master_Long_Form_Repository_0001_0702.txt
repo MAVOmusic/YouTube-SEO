@@ -733,7 +733,13 @@ SECTION C: PLAYALONG & LOOP ARCHIVE (UNNUMBERED / NO SHORTS OR OVERHAUL REQUIRED
 -[PA/LOOP 06] Motionless In White - America [PLAYALONG]
 -[PA/LOOP 07] Motionless In White - Abigail [PLAYALONG]
 -[PA/LOOP 08] Motionless In White - Masterpiece [PLAYALONG]  <- REWRITTEN 01-11-26, see CO-0003/MR-0003
--[PA/LOOP 09] Burzum - Autumn Leaves [LOOP]
+- [PA/LOOP 09] Burzum - Autumn Leaves [LOOP]
+-[PA/LOOP 10] Motionless In White - Another Life [PLAYALONG]  <- ADDED 01-11-26 (CO-0004) - was missing from this section
+# VER 3.7 NOTE: this section was incomplete. MAVO counts 8 play alongs; the
+#   archive listed 7 PLAYALONG + 2 LOOP and omitted Another Life entirely.
+#   [PA/LOOP 10] restores it. The section now holds 8 PLAYALONG + 2 LOOP = 10,
+#   and the 01-11-26 Studio screen shows the same 8 play alongs plus the
+#   Chopin loop (which is MR-0004 and earns).
 
 
 ===============================================================================================
