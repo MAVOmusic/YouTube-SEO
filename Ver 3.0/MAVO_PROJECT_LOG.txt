@@ -3984,3 +3984,70 @@ the play along at 989 views (26-10-2022). Do not cross-paste the rewrites.
 NEXT: play along 2 (Another Life, 989 views) - results incoming.
 
 ================================================================================
+
+================================================================================
+VER 3.8 - 2026-11-01 - CO-0004: ANOTHER LIFE PLAY ALONG, AND PROOF THE RETITLE WORKS
+================================================================================
+
+FIRST, A TRAP AVOIDED
+The folder is "_All Songs/0004 - ... (Play Along on Bass)" but every file inside
+it is named "0002 - ... (Long Form)". They are two different videos of the same
+song, three weeks apart:
+  CO-0002  01-10-2022  3:44   224 views  - already rewritten
+  CO-0004  26-10-2022  3:43   989 views  - this capture, video ID TGUIsOZ77zI
+Reconciled by video ID and view count before writing a word. Pasting the CO-0002
+copy onto this one would have been easy and wrong.
+
+THE NUMBERS (989 views, 31.8 h, +39 subs, Ineligible / Ads off, GBP 0.00)
+  8.6k impressions, CTR 8.5%, 10.3% from YouTube recommending
+  AVD 1:57, APV 52.8%, 63% still watching at 0:30 - flagged above typical
+  70.6% YouTube search, 9.8% playlists, 5.8% suggested
+  TV 41.5% / mobile 31.0% / computer 26.4% - even more TV-heavy than Masterpiece
+  +39 subs from 534 unique viewers (7.3%); 88.8% not subscribed
+
+THE FINDING - SERIES TITLES COMPOUND
+"Content suggesting this video" reads 24.6% for "Every bass note in Motionless In
+White's 'Master..." - the Masterpiece retitle, live only days. It is the SECOND
+largest suggested source on this video, behind its own series at 29.8%.
+Under the old titles every video in the set was the near-identical string
+"Rocksmith 2014 | Play Along on Bass | M | ...", so the recommender had no reason
+to treat them as distinct destinations to serve in sequence. Unique titles make
+them distinguishable and they start clustering.
+Consequence: finishing the remaining six is not cosmetic. Each rewrite feeds the
+others. Budget it as one job.
+
+THE BURIED SENTENCE
+Inside the template, in the only paragraph not in square brackets, MAVO had
+already written the real value proposition:
+  "In this project I will upload as many as CDLC I can for you to play along on
+   bass so even if you don't have the game you can practice!"
+  "I did not play on it to not adding extra bass tone to the sons so easier for
+   you to hear out everything well. Kept 5 second on start to show you the tuning
+   but also kept on the bottom left during the song..."
+That is a genuinely good product - a practice aid for people without the game,
+with a tuning reference and the tuner left running. It was sitting in paragraph
+four behind a dead download link. The rewrite promotes it to the title. Nothing
+about the video had to change, only what it admits to being.
+
+DELIVERED
+  Title  No game needed for Motionless In White's 'Another Life' bassline
+         (64 chars, opener "No" used 0 times in 308 packages, and deliberately a
+         different shape from "Every bass note in...")
+  Desc   1,292 chars, all six bracketed blocks and the CDLC placeholder deleted
+  Tags   27 at 500/500 (box completely full) -> 18 at 344, 156 chars of headroom
+  Pin    three links, weekly EST schedule, subscribe-begging opener and a stale
+         discord.gg/Hguy3JCXn all removed. Zero URLs.
+
+CORPUS REPAIRS
+  - [PA/LOOP 10] Another Life added to Section C. The archive listed 7 play
+    alongs and omitted this one entirely, which is exactly why my count was wrong
+    and MAVO's was right. The screen wins and the file gets repaired.
+  - MR-0005 logged. E4 roll-up 15 -> 16.
+
+STILL TO DO IN THE SERIES
+Abigail (356), America (333), Immaculate Misconception (510) share the same 2022
+shell. X-Kid (407), Black Parade (504) and .38 Special (1,347) are 2024 uploads
+with a DIFFERENT shell - emoji-led titles, Kick and Twitch links, no CDLC
+placeholder - so they need their own diagnosis rather than a straight strip.
+
+================================================================================

@@ -218,6 +218,46 @@ That also explains the "own video 22.7%" slot in the Masterpiece suggested-traff
 report. Neither should be deleted; the CO-0002 copy must NOT be pasted onto this
 one, because they are separate uploads with separate URLs.
 
+--- MR-0005 | CO-0004 | Motionless In White - Another Life [PLAY ALONG] ----------
+Video ID           : TGUIsOZ77zI
+Upload / date      : 26-10-2022 | 3:43 | 989 views | 31.8 h | +39 subs
+Notices badge      : E4 INELIGIBLE  ("Ineligible to earn", Ads off) | GBP 0.00
+Visible claimant   : none shown; Revenue, RPM and CPM all read "Nothing to show"
+Description risk   : CRITICAL - the longest 2022 template in the corpus. Six
+                     bracketed blocks, "[CDLC DOWNLOAD LINK] SOON", a surgery
+                     date, and "Or just comment something for the algorithm."
+Pinned risk        : three links plus a full weekly EST schedule plus a
+                     "please subscribe, we are so close to 1500" opener. The
+                     Discord invite discord.gg/Hguy3JCXn is stale.
+Tags               : 27 tags at 500/500 chars - box completely full.
+Cause hypothesis   : E4-a CLAIM-DRIVEN. Same Fearless / Roadrunner catalogue as
+                     MR-0002 and MR-0003. Under the VER 3.7 repertoire rule this
+                     was predictable before the capture was even read.
+Traffic verdict    : OUTPERFORMER. 989 views, 70.6% YouTube search, 8.5% CTR on
+                     8.6k impressions, 52.8% APV, 63% still watching at 0:30
+                     (above typical), +39 subs from 534 unique viewers, 88.8%
+                     not subscribed, TV 41.5% as the top device.
+Recreation verdict : KEEP, REWRITE THE SURFACE. Pure traffic and subscriber
+                     asset. It will never earn - claimed composition - so treat
+                     it as audience acquisition and nothing else.
+Next action        : Paste the CO-0004 copy. Then expect the same cross-feeding
+                     lift the Masterpiece retitle has already produced.
+
+--------------------------------------------------------------------------------
+CROSS-FEED EVIDENCE (first measurement of the retitle working)
+--------------------------------------------------------------------------------
+CO-0004's "Content suggesting this video" panel:
+  29.8%  own video (other MIW play along)
+  24.6%  "Every bass note in Motionless In White's 'Master..." = RETITLED CO-0003
+   7.0%  Red Jumpsuit Apparatus - Face Down
+   3.5%  Green Day - Give Me Novocaine / She's A Rebel
+   1.8%  Avril Lavigne - Sk8er Boi
+The retitle applied to CO-0003 days ago is already the second largest suggested
+source on CO-0004 at 24.6%. Under the old machine-string titles the two videos
+were near-identical strings, so YouTube had no reason to treat them as distinct
+destinations to recommend in sequence. Retitling one lifts its siblings.
+CONSEQUENCE: completing the remaining six is NOT cosmetic. The series compounds.
+
 ################################################################################
 ## THE REPERTOIRE RULE (NEW VER 3.7 - the real determinant of earnings)
 ################################################################################
@@ -241,14 +281,14 @@ wave at 1/3 of the Shorts wave's total revenue on 1/3 of the views.
 ################################################################################
 ## ROLL-UP (updated every capture)
 ################################################################################
-Captures audited         : 3 single-video (CO-0001, CO-0002, CO-0003) + 1 wave (CO-W01)
+Captures audited         : 4 single-video (CO-0001 to CO-0004) + 1 wave (CO-W01)
                            + 1 full-series screen (CO-0003-SERIES, 8 play alongs + 1 loop)
 E1 EARNING-NO-CLAIM      : 0        (still none - see E2)
 E2 EARNING-REV-SHARE     : 1        <-- FOUND 01-11-26: Chopin Nocturne 1hr loop,
                                        4,887 views, GBP 0.54. MAVO was right that
                                        a few exist.
 E3 CLAIMED-NOT-EARNING   : 0
-E4 INELIGIBLE            : 15       (CO-0001, CO-0002, CO-0003 + 12/12 of the Aug shipment)
+E4 INELIGIBLE            : 16       (CO-0001 to CO-0004 + 12/12 of the Aug shipment)
 E5 BLOCKED               : 0        (4 of the Aug LFs are PARTIALLY blocked)
 E6 UNKNOWN               : 1        (Chevelle - no package, no claim card read yet; now CO-0004)
 Remakes queued           : 0        <-- deliberately: a claimed cover re-claims
