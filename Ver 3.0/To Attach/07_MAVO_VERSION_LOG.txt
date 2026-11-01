@@ -3610,3 +3610,38 @@ highest-leverage single edit left on the channel.
 - **Desc** (1,682): The Works (1984), the synth hook, what Deacon plays underneath
 - **Tags**: 12 at 147/500 (four Freddie Mercury entries, three misspelled) -> **15 at 216**, now containing all five real search terms
 - **Pin** (116): no links, no money
+
+================================================================================
+[Ver 4.10] - 2026-11-01 - PRIVATE REPO TEST: FAILED - DO NOT FLIP YouTube-SEO YET
+================================================================================
+
+MAVO set `mavomusic-site` private and asked for a test file write. **I could not read
+it, let alone write to it.** Three attempts, three 403s:
+
+| Attempt | Result |
+| --- | --- |
+| `gh api repos/.../mavomusic-site` | `403 Resource not accessible by integration` |
+| `git clone` | `403 Write access to repository not granted.` |
+| `gh repo view` | `403 Resource not accessible by integration (repository)` |
+
+No file written, nothing left behind.
+
+## What it means
+The GitHub App is installed on **selected repositories** and has **no private-repo
+access**. Any repo outside that selection vanishes the moment it goes private.
+
+## The warning
+**If YouTube-SEO goes private now, this session loses push, PR and merge** - and I
+cannot flip it back, because the App also lacks the Administration permission.
+
+Two turns ago I said "yes, almost certainly" I would still reach a private repo. The
+caveat was right; the answer was wrong. Now verified: **no.**
+
+## Safe order
+1. **Regrant the App first** - github.com/settings/installations -> Arena app ->
+   Configure -> Repository access -> **All repositories** (or add this repo)
+2. Then flip YouTube-SEO
+3. Then tell me, and I confirm access with one command before any further work
+
+**If step 1 is skipped:** leave YouTube-SEO public, finish the long-form pass, flip it
+last.
