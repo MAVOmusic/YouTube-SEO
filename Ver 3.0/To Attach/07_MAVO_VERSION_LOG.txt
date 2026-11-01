@@ -2571,3 +2571,46 @@ python3 PY/generate_track_history.py && python3 PY/generate_reference_txts.py \
 | New store | CA-2026-11-01 transcribed, deltas armed for the next capture |
 
 *   **Next:** MAVO's next song in upload order; daily CA captures continue; CO-0001 rewrite executes when the walk-through reaches it.
+
+## [Ver 3.3] - 2026-11-01 | CO-0002 — MOTIONLESS IN WHITE "ANOTHER LIFE" + NEW MONETISATION REGISTER (§33)
+
+### 🎯 Task Summary & Strategy:
+
+*   **CO-0002 read (11 panels):** published 01-10-2022, 3:44, **224 views**, 5.7 h watch time, **+53 subscribers**, 3.9k impressions, **2.6% CTR** (2x the channel's 1.2%), AVD **1:32 = 41.1%**, 47% still watching at 0:30, "**Ineligible to earn**", realtime 0. Traffic: YouTube search 31.3 / Playlists 30.8 / Channel pages 14.3 / Browse 7.6 / External 7.6. Audience: Computer 61.9% (channel 25.5%), subscribed watch time 52.1% (channel 2.9%).
+*   **Verdict: REWRITE ALL FOUR + REMOVE THE CDLC LINK** (new §32-compliant title, bespoke description, 7 tags, zero-URL pin).
+*   **🚨 D3 — THE BIG FIND.** The description carries `[CDLC DOWNLOAD LINK] http://gestyy.com/ed1CwR` — a URL-shortened custom-DLC download from the 2022 "100% CDLC" series template. Custom DLC redistributes copyrighted songs outside the rights holders' control, so the **link itself** is a monetisation/policy problem independent of Content ID; and because the same template was reused across the 2022 long-forms, it is the leading suspect for why **none of the long-form catalogue earns**. Cheap test queued: strip the link + all non-allowlisted URLs, save, re-read the Notices badge in 48–72 h. If it flips to E2/E3, the entire 2022 series is rescued by metadata alone and no re-recording is needed.
+*   **NEW §33 — LONG-FORM MONETISATION REGISTER (`TXT/LF_Monetisation_Register.txt`, kit `26_`).** Every LF audit now records the Notices badge as an `MR-NNNN` row: **E1** earning/no claim · **E2** earning via revenue share · **E3** claimed, owner takes it · **E4** ineligible (split into **E4-a claim-driven** → remake candidate, **E4-b policy-driven** → metadata fix first) · **E5** blocked · **E6** unknown. Recreation queue order E1 → E2 → defensible E3 → E4-a; remakes are new uploads with fresh LF+SF packages; never recreate where the claimant follows the composition identically.
+*   **D1 — search brings no song traffic.** 31.3% of views from search, and **every visible term is `rocksmith`** (`rocksmith bass` 4.3%, `rocksmith` 1.4%, `rocksmith 2014` 1.4%, `rocksmith 2014 bass` 1.4%). Zero `motionless in white` / `another life` queries — the plain `Artist - Song` title has no format qualifier. New title carries artist + song + `bass cover` inside the first 50 characters (§32 validated a second time).
+*   **D2 — the +53 subs are a dead mechanic.** 53 subs from 224 views (23.7%) plus 52.1% subscriber watch time is the best conversion on record, and it came from the CDLC download funnel. Do not rebuild it.
+*   **D4–D8:** description is a 2022 museum piece (`[TITLE]`/`[CDLC LINK]`/`[ABOUT ME]`/`[TWITCH SCHEDULE]`, bio "29 years old", "surgery 5 October 2022", dead Discord invite, no bespoke copy/genres/hashtags); tags 25 of a 500-char box with banned bare generics + off-topic filler; pin is a 2022 schedule + link dump (violates the zero-URL rule, 0 replies); thumbnail is brand art ("MAVOMUSIC / 100% CDLC"); audience is the desktop Rocksmith *player*, the opposite of the channel's mobile/non-sub profile.
+*   **D9 — corpus defect fixed:** `bands/M/Motionless_In_White/Another_Life/0130` pinned comment read "Motionless In **Write**" → corrected.
+
+### 🐍 Python Scripts & Bash Commands Used:
+
+```bash
+git fetch origin && git reset --hard origin/main
+python3 -   # gate-check the CO-0002 draft (3 title candidates, desc, tags, pin)
+            # against all 308 packages before anything was approved
+python3 PY/generate_track_history.py && python3 PY/generate_reference_txts.py \\
+  && python3 PY/build_master_under_review.py && python3 PY/repack.py \\
+  && python3 PY/refresh_kit.py && bash verify.sh
+```
+
+### 📝 Files Created & Modified:
+
+*   **NEW:** `TXT/LF_Monetisation_Register.txt` (MR rows + taxonomy + recreation rules); `To Attach/26_LF_Monetisation_Register.txt`.
+*   **MODIFIED:** `bands/M/Motionless_In_White/Another_Life/0130/17-07-2026.md` (pin typo), `TXT/Channel_Order_Audit_Log.txt` (CO-0002 record), `CONTEXT_BLOCK.txt` (VER 3.3 + §33 + status), `MAVO_PROJECT_LOG.txt`, `MAVO_VERSION_LOG.txt`, `TXT/README_FIRST.txt`, `To Attach/00_PASTE_PRIORITY.txt`, `PY/refresh_kit.py`, regenerated kit copies.
+
+### ✅ Verification:
+
+| Check | Result |
+|---|---|
+| Drafted title | 72 chars, unique opener `motionless`, artist+song+`bass cover` in first 50 ✓ |
+| Description first line / boilerplate / gear line | unique · no reuse ≥4 · gear byte-unique ✓ |
+| URLs | 2 allowlisted in description, 0 in pin ✓ |
+| Tags | 7 (3–8), `rocksmith bass`, song identity, no bare generics/dupes ✓ |
+| §20 / retired phrases / ID leak / stale strings | clean ✓ |
+| Corpus gate | both tiers green, 308 packages, 0 violations ✓ |
+| Containers / kit | ROUND-TRIP PERFECT · KIT SYNC PERFECT (26 copies) ✓ |
+
+*   **Next:** CO-0003 in upload order. Any capture showing **E1/E2** jumps straight to the front of the recreation queue.

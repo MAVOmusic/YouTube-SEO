@@ -44,6 +44,7 @@ TIER 3 - REFERENCE / EVIDENCE (audits, tags, Under Review)
   23_Analytics_Of_Songs_0151_0200.txt
   24_Channel_Order_Audit_Log.txt
   25_Channel_Analytics_Store.txt
+  26_LF_Monetisation_Register.txt
   12_Matched_Shorts_To_Cross_Check.txt
   13_Master_Long_Form_Repository_0001_0702.txt
   14_Master_Shorts_Repository.txt

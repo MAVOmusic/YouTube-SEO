@@ -1,0 +1,105 @@
+# ============================================================================
+# MAVOmusic (@mavomusicyt) - LONG-FORM MONETISATION REGISTER  (MR-NNNN)
+# ============================================================================
+# Created: 2026-11-01 (VER 3.3) - opened alongside CO-0002.
+#
+# WHY THIS FILE EXISTS
+#   MAVO (01-11-2026): "None of my long form videos are earning unless Revenue
+#   Share or no Copyright on it. There are a few, we need to note them out then
+#   recreate videos later so we can have some benefit of them."
+#   Every LF audit capture prints the Studio "Notices" badge on the Details page.
+#   That badge is the earning status. This register records it per video, per
+#   claimant, so the re-record programme can be aimed at material that can
+#   actually pay - instead of re-recording straight into another block.
+#
+# THE STATUS TAXONOMY (from the Details page Notices badge)
+#   E1  EARNING-NO-CLAIM      green/amber, monetisation active, no Content ID
+#                             claim. BEST. Recreate freely, same rights profile.
+#   E2  EARNING-REV-SHARE     claimed, but the owner allows shared revenue.
+#                             Revenue prints in Studio. GOOD. Recreate freely;
+#                             expect the same claimant and a 50/50-ish split.
+#   E3  CLAIMED-NOT-EARNING   claimed, owner keeps 100% (or ad revenue routed to
+#                             owner). Video is live but pays us nothing.
+#   E4  INELIGIBLE            red "Ineligible to earn". No ads of ours at all -
+#                             copyright block, policy issue, or CDLC/download
+#                             link. THIS IS THE CURRENT MAJORITY.
+#   E5  BLOCKED               globally blocked / not viewable.
+#   E6  UNKNOWN               no Notices badge visible in the capture.
+#
+# RECREATION RULES (what "recreate later so we can have some benefit" means)
+#   1. Recreate E1 + E2 first - they are the only proven-earning rights profiles.
+#   2. E3: recreate ONLY if the claimant is likely to differ on a different
+#      arrangement/audio source (e.g. different mix, live version, isolated stem).
+#      If the claimant matches the studio master 1:1, a remake pays the same and
+#      is pointless - park it.
+#   3. E4: diagnose the CAUSE before recreating. Two different animals:
+#        E4-a  CLAIM-DRIVEN (audio Content ID block) -> a remake with a different
+#              audio bed can escape it. Candidate.
+#        E4-b  POLICY-DRIVEN (link / reused-content / CDLC download) -> a remake
+#              is unnecessary; FIXING the metadata can restore eligibility.
+#              Always test the cheap fix first.
+#   4. E5: never recreate the same audio; the block follows the composition.
+#   5. Remakes are NEW uploads (create/edit > "reuse details" is NOT the route).
+#      Legacy video stays live unless the 0005-class exception applies.
+#   6. Every remake gets a fresh package (LF+SF) and must clear the §29 gate.
+#
+# ⚠️ CDLC DOWNLOAD LINKS - THE SUSPECTED SYSTEMIC BLOCKER (see CO-0002)
+#   The 2022 "100% CDLC" long-form series put a shortened download link to
+#   custom Rocksmith DLC in every description ([CDLC DOWNLOAD LINK]
+#   gestyy.com/...). Custom DLC distributes copyrighted songs outside the rights
+#   holders' control. A description link to it is a monetisation/policy problem
+#   independent of Content ID, and it is consistent with the whole 2022 LF
+#   catalogue reading "Ineligible to earn". RULE (VER 3.3): no download links of
+#   any kind in any description - no CDLC, no file hosts, no shorteners. If a
+#   video is E4 and carries a CDLC link, remove the link first and re-check the
+#   Notices badge before assuming a remake is needed.
+# ============================================================================
+
+
+################################################################################
+## ROWS (appended as the channel walk proceeds, upload order)
+################################################################################
+
+--- MR-0001 | CO-0001 | Burzum - Autumn Leaves [1 HOUR LOOP] -------------------
+Upload / date      : 22-03-2022 | 1:02:24 | 2,895 views
+Notices badge      : E4 INELIGIBLE  ("Ineligible to earn", red)
+Visible claimant   : none shown on the Details capture (audio-state block)
+Description risk   : NO CDLC link. Long Kick/Discord/Rumble/TikTok/X link wall.
+Cause hypothesis   : audio rights on the Burzum catalogue (Byelobog / Varg
+                     Vikernes self-released) + a pre-2023 channel not yet in the
+                     Partner programme for this content class.
+Recreation verdict : DO NOT remake. It earns nothing and never will on this
+                     composition - but it is a top-performing WATCH-TIME asset
+                     (1,900 h). Keep it as the start-soon/loop utility asset.
+
+--- MR-0002 | CO-0002 | Motionless In White - Another Life --------------------
+Upload / date      : 01-10-2022 | 3:44 | 224 views | 5.7 h
+Notices badge      : E4 INELIGIBLE  ("Ineligible to earn", red)
+Visible claimant   : none shown (audio-state block). Motionless In White are on
+                     Fearless / Roadrunner - a Content ID-claiming catalogue.
+Description risk   : 🚨 HIGH - "[CDLC DOWNLOAD LINK] http://gestyy.com/ed1CwR"
+                     (shortener -> custom DLC download) plus a 2022 stream
+                     schedule, an outdated bio ("29 years old") and a dead
+                     Discord invite (discord.gg/CebyXXTKJv).
+Cause hypothesis   : E4-b POLICY-DRIVEN FIRST (CDLC download link) + E4-a
+                     CLAIM-DRIVEN SECOND (Fearless/Roadrunner audio match).
+Recreation verdict : (1) CHEAP TEST FIRST - strip the CDLC link + every non-
+                     allowlisted URL, save, re-read the Notices badge in 48-72 h.
+                     If it flips to E2/E3, the block was policy, not audio, and
+                     the ENTIRE 2022 series can be rescued the same way with no
+                     re-recording at all. (2) Only if it stays E4, treat as
+                     E4-a and queue a remake with a different audio bed.
+
+################################################################################
+## ROLL-UP (updated every capture)
+################################################################################
+Captures audited         : 2 (CO-0001, CO-0002)
+E1 EARNING-NO-CLAIM      : 0
+E2 EARNING-REV-SHARE     : 0        <-- MAVO says "there are a few"; find them
+E3 CLAIMED-NOT-EARNING   : 0
+E4 INELIGIBLE            : 2        (100% of audited LFs so far)
+E5 BLOCKED               : 0
+E6 UNKNOWN               : 0
+Remakes queued           : 0
+Cheap-fix tests queued   : 1 (CO-0002 - remove CDLC link, re-check badge)
+################################################################################
