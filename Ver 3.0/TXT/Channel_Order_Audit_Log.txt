@@ -195,9 +195,10 @@ CHAPTERS   : NONE - a 1-hour unbroken loop gains nothing from chapters.
 
 --- APPROVED COPY (paste into YouTube Studio) --------------------------------
 
-TITLE (76 chars, searchable phrase in the first 35):
+TITLE (68 chars — REVISED in VER 3.4 back to the house "bespoke voice + natural
+mention" style; the earlier keyword-string draft broke the anti-template rule):
 ```
-Burzum Autumn Leaves 1 Hour Loop — calm dungeon synth for study & start soon
+Burzum's 'Autumn Leaves' stretched into 1 hour of calm dungeon synth
 ```
 
 DESCRIPTION:
@@ -240,6 +241,11 @@ Four minutes of Burzum calm turned into an hour, and it's been my start-soon scr
   §20 technique wording        : clean (no slap/thumb/pick-attack) ✓
   Retired-phrase registry      : clean ✓
   Tracking-ID leak ("0001")    : absent from all public text ✓
+
+--- STATUS UPDATE 01-11-2026 (VER 3.4) ------------------------------------------
+  Title revised to the house style (see above) — artist + song + "1 hour" all
+  present as natural language, no `Artist - Song` template. Description, tags and
+  pin unchanged from the original approval (they already passed the gate).
 
 --- STATUS UPDATE 01-11-2026 ---------------------------------------------------
   MAVO decision: "Rewrite all but we will get to it when get there." =>
@@ -383,7 +389,9 @@ EARNINGS   : MR-0002 logged as E4 INELIGIBLE. Cheap test = remove the CDLC link,
 
 --- APPROVED COPY (paste into YouTube Studio) --------------------------------
 
-TITLE (72 chars, artist + song + format inside the first 50):
+TITLE (72 chars, artist + song + format inside the first 50 — VER 3.4: KEPT AS
+IS, because it already sits in MAVO's own house pattern, e.g. his live
+"Rammstein's industrial bass giant: Oliver Riedel's iconic 'Du Hast'!"):
 ```
 Motionless In White's Another Life bass cover — metalcore's saddest song
 ```
@@ -441,4 +449,54 @@ PINNED COMMENT (zero URLs):
   3. Thumbnail: add "ANOTHER LIFE" text.
   4. When we meet an E1/E2 (earning or revenue-share) long-form, the MR register
      immediately flags it as a recreate-first candidate.
+================================================================================
+
+================================================================================
+CO-W01 | WAVE AUDIT — the 26-28 Aug 2026 shipment (12 Shorts + 12 LFs)
+================================================================================
+Source: "_All Songs/Latest Shorts.jpeg" + "Latest Videos.jpeg" (Studio content
+lists), cross-checked against the package folders. All 24 rows map to existing
+`bands/` packages — every LF and SF title byte-matches its package, so the pack
+copy was pasted faithfully. One song has no package (see W4).
+
+| pkg  | Artist - Song                      | SF pub   | Shorts v | LF pub   | LF v  | LF notice          |
+|------|------------------------------------|----------|----------|----------|-------|--------------------|
+| 0124 | Arctic Monkeys - Do I Wanna Know   | 28-08-26 |  1,333   | 28-08-26 |   90  | Ineligible / ads off |
+| 0103 | Linkin Park - Numb                 | 27-08-26 |  1,225   | 27-08-26 |   14  | Ineligible / ads off |
+| 0111 | System Of A Down - Toxicity        | 27-08-26 |  1,904   | 27-08-26 |  106  | Ineligible / ads off |
+| 0093 | Johnny Cash - Personal Jesus       | 27-08-26 |  1,003   | 27-08-26 |   87  | Ineligible / ads off |
+| 0104 | Ado - Usseewa                      | 27-08-26 |  1,332   | 27-08-26 |   45  | Ineligible / ads off |
+| 0102 | Green Day - 21 Guns                | 27-08-26 |  1,235   | 27-08-26 |   48  | Ineligible / **Partially blocked** |
+| 0101 | Paramore - Decode                  | 27-08-26 |  1,012   | 27-08-26 |   81  | Ineligible / **Partially blocked** |
+| 0100 | My Chemical Romance - Dead!        | 26-08-26 |  1,222   | 26-08-26 |   90  | Ineligible / **Partially blocked** |
+| 0095 | Rammstein - Du Hast                | 26-08-26 |  1,502   | 26-08-26 |   33  | Ineligible / ads off |
+| ---- | Chevelle - ??? (no package)        | 26-08-26 |  1,123   | 26-08-26 |   98  | Ineligible / **Partially blocked** |
+| 0096 | Linkin Park - Lying From You       | 26-08-26 |  1,358   | 26-08-26 |   30  | Ineligible / ads off |
+| 0099 | Nirvana - Man Who Sold The World   | 26-08-26 |  1,586   | 26-08-26 |  144  | Ineligible / ads off |
+
+TOTALS: Shorts 15,835 views / avg **1,320** / revenue **£1.23** (range £0.04-0.17)
+        Long-form 866 views / avg **72** / revenue **£0.00**
+
+W1  THE SHORTS LAYER IS HEALTHY. 12/12 earning, average 1,320 views in 1-3 days,
+    above the channel's 790-1,100 typical band. "Shopping disabled" is PRODUCT
+    TAGGING, not an ads block — it does not affect the £0.04-0.17 these are making.
+    "Potential limitation" appears on 4 of them = possible limited ads only.
+W2  THE LONG-FORM LAYER IS FULLY BLOCKED. 12/12 "Ineligible to earn / Ads off",
+    average 72 views. Four carry "Partially blocked" = content ID is matching
+    specific segments. This is claim-driven (E4-a), and it is why no LF earns.
+W3  TITLE STYLE IS NOT THE CAUSE. 3 of the 12 Shorts contain neither artist nor
+    song in the title and still cleared 1,000+ views; the bespoke style is fine.
+    What LFs lack is a format token, and what they lack more is ad eligibility.
+W4  CHEVELLE HAS NO PACKAGE — "Hypnotic Drop-D alt-metal stomp on Chevelle's
+    breakout 2012 anthem!" (SF 1,123 views, LF 98, both 26-08-26). Not in bands/,
+    not in either master repository. Needs the song name + a full package.
+W5  DATE-SYNC DEFECT (fixed): 11 packages were dated 17-07-2026 (sentinel),
+    07-08-2026 or 08-08-2026 while Studio shows 26-28 Aug. All re-dated to the
+    Studio date in VER 3.4 per §2. If any of these were re-ships of earlier
+    uploads, tell me and I will revert the names.
+W6  THE "2 NEW EDITS" REVIEW (MAVO's question): do NOT break the house style back
+    to `Artist - Song`. CO-0002 stands as written (already house pattern + format
+    word). CO-0001's title was the only keyword-string draft — rewritten to
+    "Burzum's 'Autumn Leaves' stretched into 1 hour of calm dungeon synth".
+    Both now satisfy §32-VER-3.4: bespoke voice + natural mention, no template.
 ================================================================================

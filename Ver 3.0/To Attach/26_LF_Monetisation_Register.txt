@@ -43,7 +43,22 @@
 #      Legacy video stays live unless the 0005-class exception applies.
 #   6. Every remake gets a fresh package (LF+SF) and must clear the §29 gate.
 #
-# ⚠️ CDLC DOWNLOAD LINKS - THE SUSPECTED SYSTEMIC BLOCKER (see CO-0002)
+# ✅ CORRECTION 2026-11-01 (VER 3.4) — THE CDLC-LINK HYPOTHESIS IS DOWNGRADED.
+#   The 26-28 Aug 2026 shipment (CO-W01, 12 long-forms) was built from the post-
+#   purge SEO packs: NO CDLC links, no download links of any kind. It is STILL
+#   12/12 "Ineligible to earn / Ads off", and 4 of them additionally read
+#   "Partially blocked". A policy problem caused by a link cannot explain that.
+#   The block is CLAIM-DRIVEN (E4-a) — content ID is matching the composition /
+#   audio of every cover. The no-download-link rule stays as permanent hygiene,
+#   and the CO-0002 link-removal test stays worth running (it is free and it
+#   confirms the class), but policy is NOT the leading explanation any more.
+#   ALSO MEASURED IN THE SAME SHIPMENT: 12/12 SHORTS EARNED GBP 0.04-0.17 each.
+#   "Shopping disabled" on a Short is PRODUCT TAGGING, not an ads block.
+#   "Potential limitation" = possible limited ads only. Shorts is the earning
+#   lane at this rights profile; long-form cover re-records are not, because the
+#   claimant follows the composition.
+#
+# ⚠️ CDLC DOWNLOAD LINKS - ORIGINAL HYPOTHESIS (kept for the record, DOWNGRADED)
 #   The 2022 "100% CDLC" long-form series put a shortened download link to
 #   custom Rocksmith DLC in every description ([CDLC DOWNLOAD LINK]
 #   gestyy.com/...). Custom DLC distributes copyrighted songs outside the rights
@@ -93,13 +108,19 @@ Recreation verdict : (1) CHEAP TEST FIRST - strip the CDLC link + every non-
 ################################################################################
 ## ROLL-UP (updated every capture)
 ################################################################################
-Captures audited         : 2 (CO-0001, CO-0002)
+Captures audited         : 2 single-video (CO-0001, CO-0002) + 1 wave (CO-W01)
 E1 EARNING-NO-CLAIM      : 0
 E2 EARNING-REV-SHARE     : 0        <-- MAVO says "there are a few"; find them
 E3 CLAIMED-NOT-EARNING   : 0
-E4 INELIGIBLE            : 2        (100% of audited LFs so far)
-E5 BLOCKED               : 0
-E6 UNKNOWN               : 0
-Remakes queued           : 0
+E4 INELIGIBLE            : 14       (CO-0001, CO-0002 + 12/12 of the Aug shipment)
+E5 BLOCKED               : 0        (4 of the Aug LFs are PARTIALLY blocked)
+E6 UNKNOWN               : 1        (Chevelle - no package, no claim card read yet)
+Remakes queued           : 0        <-- deliberately: a claimed cover re-claims
 Cheap-fix tests queued   : 1 (CO-0002 - remove CDLC link, re-check badge)
+Shorts earning (Aug wave): 12/12  -> GBP 0.04-0.17 each, avg 1,320 views
+
+WAVE SAMPLE - CO-W01 (26-28 Aug 2026, 12 LFs + 12 Shorts, same songs):
+  Long-form : 866 views total, avg 72, GBP 0.00, 0/12 earning
+  Shorts    : 15,835 views total, avg 1,320, GBP 1.23, 12/12 earning
+  => the earning split is FORMAT-driven, not song-driven and not metadata-driven.
 ################################################################################

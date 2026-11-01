@@ -27,10 +27,22 @@ CHECKED_IDS = {
     '0051', '0052', '0054', '0055', '0056', '0057', '0058', '0059', '0060', '0061', '0062', '0063', '0064', '0065', # 0055/0056 20-07 + 0057/0058/0059 21-07 + 0060-0064 22-07 + 0065 24-07 realtime/testimony date-synced (own panels pending)
     # Matched alternate cuts audited / date-synced
     '1503', '1707', '0889', '0914', '0705', '1568', '2074', '0192', '0255', '0191', '0426', '0908', '1024', '1072', '2189', '0386', '2063', '1189', '2285', '1451', '2027', '0665', '0943', '2419', '1719',
-    '0886', '0887', '0975', '1438', '0376', '1564', '2036', '0375', '1202', '2053', '1398', '2132', '0517', '0187', '0637', '0781', '2374', '0587', '0752', '2307'
+    '0886', '0887', '0975', '1438', '0376', '1564', '2036', '0375', '1202', '2053', '1398', '2132', '0517', '0187', '0637', '0781', '2374', '0587', '0752', '2307',
+    # VER 3.4 - 26-28 Aug 2026 wave audited from the Studio content lists (CO-W01)
+    '0093', '0095', '0096', '0099', '0100', '0101', '0102', '0103', '0104', '0111', '0124'
 }
 
 TODAY_DATE = '26-07-2026'
+
+# VER 3.4: per-ID check dates for audits filed after the TODAY_DATE era.
+# Anything not listed here keeps TODAY_DATE (legacy default); anything missing
+# from CHECKED_IDS still shows 'N/A'.
+CHECKED_DATES = {
+    '0093': '01-11-2026', '0095': '01-11-2026', '0096': '01-11-2026',
+    '0099': '01-11-2026', '0100': '01-11-2026', '0101': '01-11-2026',
+    '0102': '01-11-2026', '0103': '01-11-2026', '0104': '01-11-2026',
+    '0111': '01-11-2026', '0124': '01-11-2026',
+}
 
 def title_case_words(text):
     if not text or text.strip() in ['N/A', 'n/a', '']:
@@ -106,7 +118,8 @@ def main():
         lf_date = date_str if lf_title != 'N/A' else 'N/A'
         sf_date = date_str if sf_title != 'N/A' else 'N/A'
         
-        last_checked = TODAY_DATE if s_id in CHECKED_IDS else 'N/A'
+        last_checked = (CHECKED_DATES.get(s_id, TODAY_DATE)
+                        if s_id in CHECKED_IDS else 'N/A')
         
         # Apply Title Case Capitalization to every word
         band_tc = title_case_words(artist_name)

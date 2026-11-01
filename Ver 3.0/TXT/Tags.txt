@@ -42,7 +42,7 @@ SF: weekend warriors bass, a change of pace weekend warriors, weekend warriors a
 LF: 
 SF: a change of pace weekend warriors, weekend warriors a change of pace, a change of pace, weekend warriors, weekend warriors bass, rocksmith bass
 
-[0104] bands/A/Ado/Usseewa/0104/17-07-2026.md
+[0104] bands/A/Ado/Usseewa/0104/27-08-2026.md
 LF: ado usseewa bass, usseewa bass cover, rocksmith 2014 bass, mavo music, epiphone thunderbird bass cover
 SF: usseewa bass, ado bass, rocksmith bass, j-pop bass, rocksmith shorts
 
@@ -138,7 +138,7 @@ SF: anouk good god, good god anouk, anouk live, rocksmith bass, rocksmith shorts
 LF: apocalyptica life burns, life burns apocalyptica, apocalyptica, life burns bass cover, rocksmith 2014 bass, mavo music, symphonic metal bass
 SF: apocalyptica bass, apocalyptica, life burns apocalyptica, apocalyptica life burns, rocksmith bass, cello rock cover
 
-[0124] bands/A/Arctic_Monkeys/Do_I_Wanna_Know/0124/17-07-2026.md
+[0124] bands/A/Arctic_Monkeys/Do_I_Wanna_Know/0124/28-08-2026.md
 LF: arctic monkeys do i wanna know bass, do i wanna know bass cover, rocksmith 2014 bass, mavo music, epiphone thunderbird bass cover
 SF: do i wanna know bass, arctic monkeys bass, rocksmith bass, indie rock bass, rocksmith shorts
 
@@ -442,7 +442,7 @@ SF: gold motel bass, brand new kind of blue bass, rocksmith bass, gold motel, br
 LF: good charlotte a new beginning bass, a new beginning bass cover, rocksmith 2014 bass, mavo music, epiphone thunderbird bass cover, good charlotte live, rocksmith bass
 SF: good charlotte a new beginning bass, a new beginning bass cover, rocksmith bass, rocksmith shorts, mavo music, epiphone thunderbird bass cover, good charlotte live
 
-[0102] bands/G/Green_Day/21_Guns/0102/17-07-2026.md
+[0102] bands/G/Green_Day/21_Guns/0102/27-08-2026.md
 LF: green day 21 guns bass, 21 guns bass cover, rocksmith 2014 bass, mavo music, epiphone thunderbird bass cover
 SF: 21 guns bass, green day bass, rocksmith bass, alternative rock bass, rocksmith shorts
 
@@ -490,7 +490,7 @@ SF: joe satriani bass, satch boogie bass, rocksmith bass, rocksmith shorts, mavo
 LF: N/A
 SF: satch boogie bass, joe satriani bass, rocksmith bass, rocksmith shorts
 
-[0093] bands/J/Johnny_Cash/Personal_Jesus/0093/07-08-2026.md
+[0093] bands/J/Johnny_Cash/Personal_Jesus/0093/27-08-2026.md
 LF: johnny cash personal jesus bass, personal jesus bass cover, rocksmith 2014 bass, mavo music, epiphone thunderbird bass cover
 SF: personal jesus bass, johnny cash bass, rocksmith bass, acoustic rock bass, rocksmith shorts
 
@@ -534,7 +534,7 @@ SF: be my lover bass, la bouche bass, rocksmith bass, eurodance bass, rocksmith 
 LF: led zeppelin black dog, black dog, black dog bass cover, rocksmith 2014 bass, rocksmith led zeppelin, mavo music, john paul jones bass
 SF: black dog bass, black dog, led zeppelin black dog, black dog song, rocksmith led zeppelin, rocksmith bass, bass live
 
-[0096] bands/L/Linkin_Park/Lying_From_You/0096/08-08-2026.md
+[0096] bands/L/Linkin_Park/Lying_From_You/0096/26-08-2026.md
 LF: linkin park lying from you bass, lying from you bass cover, rocksmith 2014 bass, mavo music, epiphone thunderbird bass cover
 SF: lying from you bass, linkin park bass, rocksmith bass, nu metal bass, rocksmith shorts
 
@@ -546,7 +546,7 @@ SF: lying from you bass, linkin park bass, rocksmith bass, nu metal bass, rocksm
 LF: N/A
 SF: lying from you bass, linkin park bass, rocksmith bass, nu metal bass, rocksmith shorts
 
-[0103] bands/L/Linkin_Park/Numb/0103/17-07-2026.md
+[0103] bands/L/Linkin_Park/Numb/0103/27-08-2026.md
 LF: linkin park numb bass, numb bass cover, rocksmith 2014 bass, mavo music, epiphone thunderbird bass cover
 SF: numb bass, linkin park bass, rocksmith bass, nu metal bass, rocksmith shorts
 
@@ -666,7 +666,7 @@ SF: time is running out bass, muse bass, rocksmith bass, alternative rock bass, 
 LF: N/A
 SF: time is running out bass, muse bass, rocksmith bass, alternative rock bass, rocksmith shorts
 
-[0100] bands/M/My_Chemical_Romance/Dead!/0100/08-08-2026.md
+[0100] bands/M/My_Chemical_Romance/Dead!/0100/26-08-2026.md
 LF: my chemical romance dead bass, dead bass cover, rocksmith 2014 bass, mavo music, epiphone thunderbird bass cover
 SF: dead bass, my chemical romance bass, rocksmith bass, emo bass, rocksmith shorts
 
@@ -690,7 +690,7 @@ SF: i don't love you bass, my chemical romance bass, rocksmith bass, emo bass, r
 LF: N/A
 SF: i don't love you bass, my chemical romance bass, rocksmith bass, emo bass, rocksmith shorts
 
-[0099] bands/N/Nirvana/The_Man_Who_Sold_The_World/0099/08-08-2026.md
+[0099] bands/N/Nirvana/The_Man_Who_Sold_The_World/0099/26-08-2026.md
 LF: nirvana the man who sold the world bass, the man who sold the world bass cover, rocksmith 2014 bass, mavo music, epiphone thunderbird bass cover
 SF: the man who sold the world bass, nirvana bass, rocksmith bass, grunge bass, rocksmith shorts
 
@@ -718,7 +718,7 @@ SF: all i wanted bass, paramore bass, rocksmith bass, alternative rock bass, roc
 LF: N/A
 SF: all i wanted bass, paramore bass, rocksmith bass, alternative rock bass, rocksmith shorts
 
-[0101] bands/P/Paramore/Decode/0101/17-07-2026.md
+[0101] bands/P/Paramore/Decode/0101/27-08-2026.md
 LF: paramore decode bass, decode bass cover, rocksmith 2014 bass, mavo music, epiphone thunderbird bass cover
 SF: decode bass, paramore bass, rocksmith bass, alternative rock bass, rocksmith shorts
 
@@ -898,7 +898,7 @@ SF: amour bass, rammstein bass, rocksmith bass, neue deutsche härte bass, rocks
 LF: rammstein angst bass, angst bass cover, rocksmith 2014 bass, mavo music, epiphone thunderbird bass cover
 SF: angst bass, rammstein bass, rocksmith bass, neue deutsche härte bass, rocksmith shorts
 
-[0095] bands/R/Rammstein/Du_Hast/0095/07-08-2026.md
+[0095] bands/R/Rammstein/Du_Hast/0095/26-08-2026.md
 LF: rammstein du hast bass, du hast bass cover, rocksmith 2014 bass, mavo music, epiphone thunderbird bass cover
 SF: du hast bass, rammstein bass, rocksmith bass, neue deutsche härte bass, rocksmith shorts
 
@@ -1058,7 +1058,7 @@ SF: lonely day bass, system of a down bass, rocksmith bass, alternative metal ba
 LF: N/A
 SF: lonely day bass, system of a down bass, rocksmith bass, alternative metal bass, rocksmith shorts
 
-[0111] bands/S/System_Of_A_Down/Toxicity/0111/17-07-2026.md
+[0111] bands/S/System_Of_A_Down/Toxicity/0111/27-08-2026.md
 LF: system of a down toxicity bass, toxicity bass cover, rocksmith 2014 bass, mavo music, epiphone thunderbird bass cover
 SF: toxicity bass, system of a down bass, rocksmith bass, alternative metal bass, rocksmith shorts
 
