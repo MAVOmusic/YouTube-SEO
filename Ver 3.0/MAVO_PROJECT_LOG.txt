@@ -4366,3 +4366,87 @@ regardless. It is the HIGHEST priority for the two things copy cannot fix - the
 intro edit and the CDLC tags. Black Parade and .38 Special deserve the effort.
 
 ================================================================================
+
+================================================================================
+VER 4.3 - 2026-11-01 - CO-0009 BLACK PARADE: THE PSARC OFFER, MAVO'S PAID-TRAFFIC
+                        CORRECTION, AND A CONFIRMED 2024 PRODUCTION HABIT
+================================================================================
+
+THE MOST URGENT THING IN THIS WHOLE AUDIT IS ONE SENTENCE OF COPY
+The live description contains, under a typo'd [DISC]LAIMER heading:
+
+  "This song was an official DLC you could buy from Ubisoft. I made my own version
+   but cannot be sharable on Ignition so hit me up with a message on Discord for
+   the psarc less than three"
+
+A psarc is the Rocksmith package file. In plain terms: this is licensed Ubisoft
+content, I converted it, message me and I will send it to you.
+That is a public offer to redistribute a licensed file, on a monetised video, on a
+channel already fighting Content ID claims. Of everything found in this corpus it
+is the strongest candidate for a POLICY flag rather than a claim, and unlike a
+claim it takes thirty seconds to fix.
+ACTION: delete the paragraph today. Do not reword it. Check the other 2024
+uploads for the same offer before anything else is pasted.
+
+MAVO'S CORRECTION - AND MY RETRACTION
+MAVO explained the strange referrers: "Done back in the day Fiverr campaigns so
+that might tell about weird sites and fake engagements. I ordered boost but had no
+idea where it coming from. Later on same with YouTube Adsense Ads from Studio. I
+paid for youtube to advertise my videos, the source unknown mostly."
+
+So the X-Kid finding was WRONG IN ATTRIBUTION. I described it as "not a real
+audience" arriving from spam and adult-tube domains, as though something had been
+done to the channel. It is paid promotion MAVO bought, from suppliers whose supply
+he did not control. Nobody attacked anything and it should never be described that
+way.
+
+The CLASSIFICATION survives, because the analysis purpose has not changed: paid
+traffic is not organic demand, so it still cannot sit in organic averages or be
+used to judge whether a format works. The register now calls it PAID-PROMOTION
+INFLUENCE, with the correction logged above the row rather than quietly patched.
+
+WHAT THE PAID TRAFFIC ACTUALLY BOUGHT
+  3.0k impressions, CTR 1.6%, APV 6.7% on X-Kid.
+  4.1k impressions, CTR 2.7%, APV 8.2% on Black Parade.
+Impressions arrived. Watch time, ranking and revenue did not. Both are ineligible,
+both earn nothing, and both carry the worst retention in the set.
+Hypothesis, stated as one: a large block of viewers leaving inside thirty seconds
+is a negative retention signal to the recommender, so cheap promotion may be
+teaching YouTube that these videos do not hold people. We cannot see inside the
+system, but the direction is consistent across both videos.
+
+BLACK PARADE IS NOT X-KID, AND THAT MATTERS FOR PRIORITISING
+Black Parade has a real audience under the paid noise:
+  - Correct search terms: "welcome to the black parade bass" 5.3% and
+    "rocksmith bass" 5.3%. X-Kid's best term was "green day live" - a concert query.
+  - "Viewers also watch" resolves, and all five entries are our own videos. X-Kid
+    cannot produce that report at all.
+  - Browse 12.1% and channel pages 11.3% are real YouTube surfaces.
+So: paid promotion on top of a small audience, rather than paid promotion instead
+of one. Worth fixing. X-Kid is not.
+
+THE OPENING DEFECT IS A HABIT, NOT A MISHAP
+Both 2024 uploads open on a score/results card with a 100% overlay before the song
+starts:
+  X-Kid:        AVD 0:16, APV 6.7%, 10% at 0:30
+  Black Parade: AVD 0:27, APV 8.2%, 15% at 0:30
+  The five 2022 videos, which open on the song: 62-70% at 0:30.
+Rule now written: every play along starts on the first note. Cards go at the end
+or not at all.
+
+DELIVERED
+  Title  How Mikey Way holds 'Welcome To The Black Parade' together on bass
+         (66 chars, opener "How" used 0 times in 308 packages, seventh distinct
+         shape, and it carries the exact phrase the analytics prove people search)
+  Desc   1,217 chars; psarc offer deleted outright; typo'd disk-laimer replaced
+         with the safe true statement that this is official licensed DLC
+  Tags   28 at 500/500 -> 15 at 280, restoring 220 characters. Same
+         self-contradiction as X-Kid removed (official DLC described, then tagged
+         cdlc / custom / customsforge / guitar hero / clone hero)
+  Pin    dead invite and weekly schedule gone, zero URLs
+
+MR-0010 logged, E4 roll-up 20 -> 21.
+Series 7 of 8. Remaining: .38 Special - If I'd Been The One (1,347 views,
+11-04-2024), the highest-traffic play along in the set.
+
+================================================================================
