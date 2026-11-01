@@ -711,6 +711,81 @@ doing properly.
 
 ================================================================================
 
+--- MR-0011 | CO-0010 | .38 Special - If I'd Been The One [PLAY ALONG] -----------
+Video ID           : HsvYSemo2_Y
+Upload / date      : 11-04-2024 | 4:10 | 1.3k views (647 more than usual) | 12.6 h
+                     | +61 subs | 1.1k unique viewers
+Notices badge      : E4 INELIGIBLE (Ads off) - NOT partially blocked, unlike the
+                     other two 2024 videos
+Revenue            : GBP 0.00
+Description risk   : the LEAST bad of the 2024 descriptions. No CDLC block, no
+                     psarc offer, no surgery note. Typo in the opening line
+                     ("This song's Play Along recorded on Rocksmith 2014 game.")
+                     and the only content line is a request for the viewer to go
+                     watch Shorts.
+Pinned risk        : same stale structure plus a subscribe lead-in, and again the
+                     dead discord.gg/Hguy3JCXn.
+Tags               : 25 at 481/500, including two self-brand tags (MAVOmusicYT,
+                     MAVOmusic) and six duplicate .38 Special variants.
+Cause hypothesis   : E4-a CLAIM-DRIVEN.
+Traffic verdict    : PAID-INFLUENCED BUT MILDEST OF THE THREE.
+                     External 73.7%, India 54.9% + Vietnam 18.5%, same referrer
+                     domains as the others. Against X-Kid 77.6% India and Black
+                     Parade 67.1%, this is the least contaminated.
+                     AND it shows real behaviour underneath: 19% at 0:30 which
+                     Studio itself rates TYPICAL (not below), CTR 5.0% (highest of
+                     the three), and suggested traffic from OTHER channels'
+                     Rocksmith uploads (Caught Up In You, Hysteria, My Own Worst
+                     Enemy, Arthur's Theme, Someday) - the recommender placing it
+                     among genuinely similar content.
+Recreation verdict : KEEP, REWRITE THE SURFACE. Never earning; useful as the
+                     best-performing traffic asset in the series.
+
+--------------------------------------------------------------------------------
+THE TITLE FINDING, STATED WITH ITS LIMIT
+--------------------------------------------------------------------------------
+This is the ONLY play along whose title is already human-readable:
+"Rocksmith 2014 | Play Along on Bass | .38 Special - If I'd Been The One".
+No "M |" artist slot, no emoji. The artist and song are plain language.
+It also holds the highest view count (1.3k) and unique viewers (1.1k) in the set.
+BUT it received paid promotion too, and it is the oldest of the three 2024
+uploads, so its view count is NOT evidence that a readable title beats a machine
+string. Not claimed. What can be said: it is the one 2024 title that needs
+replacing for SHAPE only, not for readability.
+
+--------------------------------------------------------------------------------
+THE OPENING DEFECT - THREE FOR THREE, AND NOW A CLEAN GRADIENT
+--------------------------------------------------------------------------------
+  X-Kid         AVD 0:16 | APV  6.7% | 10% at 0:30 | opens on a score card
+  Black Parade  AVD 0:27 | APV  8.2% | 15% at 0:30 | opens on a score card
+  .38 Special   AVD 0:33 | APV 13.5% | 19% at 0:30 | opens on the tuner, and the
+                                                     song follows closely
+  The five 2022 videos (open on the song): 62-70% at 0:30.
+The ranking follows the opening frame exactly. Studio also volunteers on this
+video that average view duration is "0:55 less than usual" - it is telling MAVO
+the retention is underperforming even by his own channel's standard.
+**RULE: the song starts at 0:00. Cards and score screens go at the end or not at
+all.**
+
+--------------------------------------------------------------------------------
+THE PLAY ALONG SERIES - COMPLETE, 8 OF 8 AUDITED
+--------------------------------------------------------------------------------
+  #  Video                      Views  Unique  Subs  Conv.  Shell  Priority
+  1  Masterpiece                  790     459   +51  11.1%   2022   LIVE, done
+  2  Another Life                 989     534   +39   7.3%   2022   done
+  3  Abigail                      356     220   +37  16.8%   2022   done
+  4  America                      333     197   +58  29.4%   2022   done
+  5  Immaculate Misconception     510     294   +54  18.4%   2022   done
+  6  X-Kid                        407     346   +59   n/a    2024   LOWEST
+  7  Black Parade                 504     438   +64   n/a    2024   high (psarc)
+  8  .38 Special                1,347   1,100   +61   n/a    2024   medium
+  ---------------------------------------------------------------------
+  TOTAL                         5,236   3,588  +423
+
+CLEAN ORGANIC TOTAL (the five 2022 videos only): 2,978 views, +239 subs.
+The 2024 three add 2,258 views and +184 subs that are paid-influenced and are
+NOT evidence that the format works organically. Keep the two totals apart.
+
 ################################################################################
 ## THE REPERTOIRE RULE (NEW VER 3.7 - the real determinant of earnings)
 ################################################################################
@@ -734,14 +809,14 @@ wave at 1/3 of the Shorts wave's total revenue on 1/3 of the views.
 ################################################################################
 ## ROLL-UP (updated every capture)
 ################################################################################
-Captures audited         : 9 single-video (CO-0001 to CO-0009) + 1 wave (CO-W01)
+Captures audited         : 10 single-video (CO-0001 to CO-0010) + 1 wave (CO-W01)
                            + 1 full-series screen (CO-0003-SERIES, 8 play alongs + 1 loop)
 E1 EARNING-NO-CLAIM      : 0        (still none - see E2)
 E2 EARNING-REV-SHARE     : 1        <-- FOUND 01-11-26: Chopin Nocturne 1hr loop,
                                        4,887 views, GBP 0.54. MAVO was right that
                                        a few exist.
 E3 CLAIMED-NOT-EARNING   : 0
-E4 INELIGIBLE            : 21       (CO-0001 to CO-0009 + 12/12 of the Aug shipment)
+E4 INELIGIBLE            : 22       (CO-0001 to CO-0010 + 12/12 of the Aug shipment)
 E5 BLOCKED               : 0        (4 of the Aug LFs are PARTIALLY blocked)
 E6 UNKNOWN               : 1        (Chevelle - no package, no claim card read yet; now CO-0004)
 Remakes queued           : 0        <-- deliberately: a claimed cover re-claims

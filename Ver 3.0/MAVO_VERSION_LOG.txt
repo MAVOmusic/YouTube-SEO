@@ -3241,3 +3241,80 @@ every play along starts on the first note.
 - **Pin** (139ch): dead invite and schedule gone, zero URLs
 
 **MR-0010** logged, E4 roll-up 20 -> 21. **Series 7 of 8** - only .38 Special (1,347) left.
+
+================================================================================
+[Ver 4.4] - 2026-11-01 - CO-0010 .38 SPECIAL: SERIES CLOSED + _ALL SONGS BUCKETED
+================================================================================
+
+**Capture:** 11 panels, `HsvYSemo2_Y`, 11-04-2024, 4:10, 1.3k views.
+
+| Metric | Value |
+| --- | --- |
+| Views | **1.3k - Studio flags "647 more than usual"** |
+| Watch / subs / unique | 12.6 h / **+61** / **1.1k (highest in the set)** |
+| Impressions / CTR | 4.5k / **5.0%** (highest of the three 2024 videos) |
+| AVD / APV | **0:33** / 13.5% |
+| Still watching at 0:30 | **19% - Studio rates this TYPICAL** |
+| External / India | 73.7% / 54.9% (mildest of the three) |
+| Revenue | **GBP 0.00** - Ineligible / Ads off |
+
+## The opening defect is now a clean gradient
+| Video | AVD | APV | @0:30 | Opening frame |
+| --- | --- | --- | --- | --- |
+| X-Kid | 0:16 | 6.7% | 10% | score card |
+| Black Parade | 0:27 | 8.2% | 15% | score card |
+| **.38 Special** | **0:33** | 13.5% | **19%** | tuner, song follows |
+| Five 2022 videos | - | - | **62-70%** | open on the song |
+
+The ranking follows the opening frame exactly. Studio volunteers that this video's
+AVD is *"0:55 less than usual"*. **Rule: the song starts at 0:00.**
+
+## The title finding, with its limit
+This is the only play along with an **already readable title** - no `M |` slot, no
+emoji - and it holds the highest views and unique viewers in the set.
+
+**But** it received paid promotion and is the oldest of the three, so its view
+count is **not** evidence that a readable title beats a machine string. It needs
+replacing for **shape** only. Its search terms are `rocksmith bass e standard` and
+`rocksmith bass` - **no artist and no song query at all**, which is the gap the new
+title fills.
+
+## Delivered
+- **Title** (57ch): `Southern rock bass on .38 Special's 'If I'd Been The One'` - opener "Southern" 0 prior uses, eighth distinct shape, first anchored on **genre**
+- **Description** (1,163ch): opens on the song; drops the request for viewers to go watch Shorts
+- **Tags**: 25 at 481/500 -> **16 at 289**; two self-brand tags and six duplicate variants removed; apostrophe-less forms added
+- **Pin** (137ch): dead invite, schedule and subscribe lead-in removed
+
+## The series, closed at 8 of 8
+| # | Video | Views | Unique | Subs | Shell | Priority |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Masterpiece | 790 | 459 | +51 | 2022 | LIVE, done |
+| 2 | Another Life | 989 | 534 | +39 | 2022 | done |
+| 3 | Abigail | 356 | 220 | +37 | 2022 | done |
+| 4 | America | 333 | 197 | +58 | 2022 | done |
+| 5 | Immaculate Misconception | 510 | 294 | +54 | 2022 | done |
+| 6 | X-Kid | 407 | 346 | +59 | 2024 | LOWEST |
+| 7 | Black Parade | 504 | 438 | +64 | 2024 | high (psarc) |
+| 8 | .38 Special | 1,347 | 1,100 | +61 | 2024 | medium |
+
+**Clean organic (five 2022 videos): 2,978 views, +239 subs.**
+**Paid-influenced (three 2024 videos): 2,258 views, +184 subs** - not evidence that
+the format works organically. Keep the totals apart.
+
+## The three things copy could not fix
+1. **Delete the psarc offer** from Black Parade's live description
+2. **Replace the dead `discord.gg/Hguy3JCXn`** in every live pinned comment
+3. **Stop opening play alongs on a score card**
+
+## Folder restructure
+```
+_All Songs/
+  0000 - Channel Analytics/     (stays at top level)
+  0001 - 0010/                  all ten song folders
+  0011 - 0020/                  empty, .gitkeep
+  0021 - 0030/                  empty, .gitkeep
+```
+All 118 moved paths tracked as **renames**, so history is preserved. Empty ranges
+need `.gitkeep` or git will not store them. Past 0100: `0001 - 0100/0001 - 0010/`.
+New `_All Songs/README.md` documents the convention and the two-numbering-system
+warning. Nothing reads these paths programmatically, so buckets are free to move.

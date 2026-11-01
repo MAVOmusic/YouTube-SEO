@@ -1724,3 +1724,182 @@ Remaining: .38 Special - If I'd Been The One (1,347 views, 11-04-2024) - the
 highest-traffic play along in the set, and the one worth doing properly.
 
 ================================================================================
+
+================================================================================
+CO-0010 | .38 Special - If I'd Been The One (PLAY ALONG ON BASS)
+================================================================================
+Video ID           : HsvYSemo2_Y
+Upload / date      : 11-04-2024  (Studio window 10-04-2024 to 01-11-2026)
+Runtime            : 4:10 | source file ".38 Special - If I'd Been The One_PlayAlong..."
+Views / watch      : 1.3k | 12.6 h | +61 subscribers | unique viewers 1.1k
+Package status     : NO bands/ package. Section C archive item [PA/LOOP 01].
+Notices badge      : Ineligible to earn (Ads off) - NOT partially blocked
+Revenue            : GBP 0.00
+MR CLASS           : E4 INELIGIBLE -> logged as MR-0011.
+
+--------------------------------------------------------------------------------
+THE NUMBERS
+--------------------------------------------------------------------------------
+Views              : 1.3k, flagged "647 MORE THAN USUAL" (green up-arrow)
+Impressions        : 4.5k | CTR 5.0% | 31.5% from YouTube recommending
+Funnel             : 225 engaged views from impressions, 1:48 average duration,
+                     6.77 h watch time from impressions
+Retention          : AVD 0:33 (Studio: "0:55 less than usual") | APV 13.5% |
+                     19% still watching at 0:30, which Studio rates as TYPICAL
+Traffic            : External 73.7% | Channel pages 8.5% | YouTube search 6.5% |
+                     Browse 4.3% | Playlists 3.1% | Others 3.9%
+External sources   : com.metech.goviews 18.5% | nwwrtbbt.com 16.1% |
+                     Google 0.2% | com.video.fun.app 0.1% | org.easyweb.browser 0.1%
+Search terms       : "rocksmith bass e standard" 2.3% | "rocksmith bass" 1.2% -
+                     both RIGHT-INTENT, no artist or song query at all
+Audience           : India 54.9% | Vietnam 18.5% | Turkiye 0.0% |
+                     male 79.2% / female 20.8% |
+                     18-24 31.0%, 25-34 36.0%, 35-44 20.7%, 45-54 9.5%
+                     not subscribed 83.1% | subscribed 16.9% (watch time)
+Devices            : TV 33.3% | mobile 29.7% | computer 26.4% | tablet 10.6%
+                     (NOT used as evidence - device claims from single captures
+                     are banned since VER 4.1)
+Engagement         : likes 100.0% | end screen CTR 0.9% vs 1.1% channel |
+                     0 hype | 0 remixes
+Viewers also watch : "Not enough eligible audience data to show this report"
+Suggested sources  : Caught Up In You - .38 Special (Rocksmith 2014) 12.5%,
+                     Def Leppard - Hysteria (Bass) 6.3%, Lit - My Own Worst
+                     Enemy (bass) 6.3%, Christopher Cross - Arthur's Theme 6.3%,
+                     The Strokes - Someday (bass) 6.3% - all OTHER channels
+
+--------------------------------------------------------------------------------
+PAID INFLUENCE IS PRESENT BUT MILDER, AND THE ORGANIC FLOOR IS VISIBLE
+--------------------------------------------------------------------------------
+Same signature as the other two 2024 videos: 73.7% external, the same referrer
+domains (com.metech.goviews, nwwrtbbt.com, org.easyweb.browser), India 54.9% plus
+Vietnam 18.5%, APV 13.5%.
+BUT this is the mildest of the three (X-Kid India 77.6%, Black Parade 67.1%, here
+54.9%) and it still shows real behaviour underneath:
+  - 19% at 0:30, which Studio itself calls TYPICAL rather than below average
+  - CTR 5.0%, the highest of the three 2024 videos
+  - Search terms are "rocksmith bass e standard" and "rocksmith bass" - both
+    right-intent, though notably with NO artist and NO song query
+  - Suggested traffic comes from OTHER channels' Rocksmith uploads (Caught Up In
+    You, Hysteria, My Own Worst Enemy, Arthur's Theme, Someday) - that is the
+    recommender placing this among genuinely similar content, which is a real
+    signal, not a bought one.
+VERDICT: paid-influenced, excluded from organic averages, but the least
+contaminated of the three, and the one where the paid push actually coincided with
+a useful recommender placement.
+
+--------------------------------------------------------------------------------
+THE TITLE IS THE REASON THIS VIDEO IS DIFFERENT - AND IT PROVES THE POINT
+--------------------------------------------------------------------------------
+This is the ONLY play along in the set whose title is already human-readable:
+  "Rocksmith 2014 | Play Along on Bass | .38 Special - If I'd Been The One"
+No "M |" artist slot, no emoji, and the artist and song sit in plain language.
+It has 1.3k views and 1.1k unique viewers - the highest count in the whole set,
+ahead of Another Life's 534. It is also the oldest of the three 2024 videos and
+has had the most time to accumulate.
+HONEST LIMIT ON THAT FINDING: this video also received paid promotion, so its view
+count is NOT evidence that a readable title beats a machine string. I am not
+claiming that. What can be said is that it is the one 2024 title that does not
+need replacing for readability, only for shape.
+
+--------------------------------------------------------------------------------
+THE OPENING DEFECT - THREE FOR THREE, AND THIS IS THE PROOF
+--------------------------------------------------------------------------------
+  X-Kid        AVD 0:16 | APV 6.7% | 10% at 0:30 | opens on a score card
+  Black Parade AVD 0:27 | APV 8.2% | 15% at 0:30 | opens on a score card
+  .38 Special  AVD 0:33 | APV 13.5% | 19% at 0:30 | opens on the tuner, D-A-E
+               visible, and this one the song actually follows
+The improvement tracks the opening frame. The 2022 five, which open on the song,
+hold 62-70% at 0:30. Everything points the same way: **put the song first.**
+Note also Studio's own line here: "0:55 less than usual" - it is telling MAVO the
+average view duration is underperforming even for his channel.
+
+--------------------------------------------------------------------------------
+WHAT IS WRONG WITH THE SURFACE
+--------------------------------------------------------------------------------
+TITLE   Emoji-prefixed and machine-shaped ("| .38 Special - If I'd Been The One"),
+        and every tag is lowercase-styled around it. No search query for the
+        artist or the song exists in the analytics, so the title is doing no
+        keyword work at all.
+DESC    The SHORTEST and best of the 2024 descriptions - no CDLC block, no psarc
+        offer, no surgery note. But it opens with "This song's Play Along recorded
+        on Rocksmith 2014 game." (a typo), then immediately pivots to stream
+        promotion, and the only real content line is the 1,000+ shorts request.
+TAGS    25 tags at 481/500. Carries MAVOmusicYT and MAVOmusic as brand tags, and
+        duplicates the artist name in six variants (.38 special songs, .38 special
+        special on bass, .38 special rocksmith, rocksmith .38 special, .38 special,
+        .38 special play along bass, .38 special tabs). Also "bass guitar cover"
+        and "rock".
+PIN     Same stale structure plus a lead-in about subscribing - and once again the
+        dead discord.gg/Hguy3JCXn.
+
+--------------------------------------------------------------------------------
+FINAL COPY (paste-ready, ASCII only)
+--------------------------------------------------------------------------------
+TITLE (57/100):
+Southern rock bass on .38 Special's 'If I'd Been The One'
+
+DESCRIPTION (1163/5000):
+'If I'd Been The One' is .38 Special doing what they did better than almost anyone in 1983 - a southern rock song built so tightly that the bass has nowhere to hide. Four minutes of it here, played through with the part on screen, so you can see how much of that drive is coming from the low end rather than the guitars.
+
+Nothing is recorded over the game's mix, so the bass sits exactly where it sits on the record. The tuner stays visible in the corner the whole way through in case a string drifts mid-song.
+
+If you have been playing for a while and want something that is simple to hear but not simple to keep steady for four straight minutes, this is that song.
+
+Requests are open. Which one should get the same treatment next?
+
+🟣 Classic rock blocks run live on Twitch: https://www.twitch.tv/mavomusic
+💬 Requests and setlists live on Discord: https://discord.gg/ESGsGkN4j2
+
+**Genres:** Southern rock, classic rock, hard rock
+**Format:** Full song, on-screen bass tab, tuner left running, no overdubs
+🎸 Thirty-eight years of Thunderbird | 🎮 captured in Rocksmith 2014 Remastered (Steam)
+
+#38Special #IfIdBeenTheOne #SouthernRock #BassPlayAlong #Rocksmith2014
+
+TAGS (289/500 chars, 16 tags):
+.38 special if i'd been the one, if i'd been the one bass, if id been the one bass tab, .38 special bass, 38 special bass tab, 38 special songs, .38 special, southern rock bass, bass play along, play along bass, bass tab, learn bass, rocksmith bass, rocksmith 2014, bass guitar, bass cover
+
+PINNED COMMENT (137/300):
+Four minutes where the bass cannot hide, and more of the drive is low end than you would think. Which song should I play through next? 👇🎸
+
+--------------------------------------------------------------------------------
+WHAT CHANGED AND WHY
+--------------------------------------------------------------------------------
+- Title: EIGHTH distinct shape, and the first anchored on GENRE rather than on a
+  bassist or a benefit. Opener "Southern" used 0 times across 308 packages.
+  It also puts the song's own genre in the title, which is the one search axis
+  this video currently does not cover - its search terms are both
+  "rocksmith"-only, with no artist and no song query. Now the artist, the song and
+  the genre are all in the 57 characters.
+- Description: opens on the song rather than on an instruction, keeps the
+  three-part structure, drops the shorts request (it was the only content line
+  and it asks the viewer to leave), and states the practical value - simple to
+  hear, hard to hold steady.
+- Tags: 25 at 481/500 cut to 16 at 289. Removed the two self-brand tags and
+  collapsed six duplicate .38 Special variants into the ones that match how the
+  song is actually typed. Added "if i'd been the one bass" and
+  "if id been the one bass tab" - the apostrophe-less form matters because
+  viewers cannot reliably type an apostrophe.
+- Pin: dead invite, schedule and the subscribe lead-in removed. Zero URLs.
+
+--------------------------------------------------------------------------------
+SERIES CLOSED - 8 OF 8 DONE
+--------------------------------------------------------------------------------
+All eight play alongs now have rewritten copy. Summary of the full set:
+
+  #  Video                        Views  Subs  Conv.   Shell   Status
+  1  Masterpiece                    790   +51  11.1%   2022    done, retitle LIVE
+  2  Another Life                   989   +39   7.3%   2022    done
+  3  Abigail                        356   +37  16.8%   2022    done
+  4  America                        333   +58  29.4%   2022    done
+  5  Immaculate Misconception       510   +54  18.4%   2022    done
+  6  X-Kid                          407   +59   ???     2024    done, paid, lowest priority
+  7  Black Parade                   504   +64   ???     2024    done, paid, worth fixing
+  8  .38 Special                  1,347   +61   ???     2024    done, paid, mildest
+
+The three things copy could not fix, in priority order:
+  1. DELETE the psarc offer from Black Parade's live description.
+  2. Replace the dead discord.gg/Hguy3JCXn invites in every live pinned comment.
+  3. Stop opening play alongs on a score card. Start on the first note.
+
+================================================================================
