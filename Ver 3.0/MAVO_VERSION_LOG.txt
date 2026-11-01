@@ -2661,3 +2661,49 @@ python3 PY/generate_reference_txts.py && python3 PY/build_master_under_review.py
 | Containers / kit | ROUND-TRIP PERFECT · KIT SYNC PERFECT ✓|
 
 *   **Next:** CO-0003; Chevelle song name to build its package; and the daily channel captures continue.
+
+## [Ver 3.5] - 2026-11-01 | TYPOGRAPHY SWEEP (ASCII ONLY), HOUSE FORMULA CODIFIED, CO-0001 + CO-0002 FINAL COPY
+
+### 🎯 Task Summary & Strategy:
+
+*   **MAVO's direction:** *"Make sure to NOT use en dashes or anything that can lead AI to read that it is AI SEO. Use - instead of —."*
+*   **Audit result - it was corpus-wide, not just the two edits:** **184 of 308 packages** carried **408 em dashes**; the monetisation register had 2; the kit guide had 2. No curly quotes, en dashes or ellipsis characters existed.
+*   **Sweep:** all 408 em dashes replaced with hyphens (` — ` -> ` - `, bare `—` -> `-`); 0 remaining. Layout and meaning untouched.
+*   **Enforcement:** Tier-1 `verify.py` now **FAILS the build** if any package contains `—` `–` `’` `‘` `“` `”` or `…`. The tell cannot come back through a future paste.
+*   **PATTERN DECISION (MAVO's question).** The draft `Motionless In White's Another Life bass cover - metalcore's saddest song` is **rejected**. Reason, in MAVO's own logic: it is a *fixed shape*. Reuse it and it breaks the uniqueness rule; ban it later and the ban contradicts what already shipped. **Any recurring shape is a defect, however good it reads once.**
+*   **§32 now carries "the house formula":** a **third-person bespoke claim** about the bass or bassist in the song, with the artist and song named naturally inside the sentence, the word **"bass"** present, and the sentence structure varied every time. Reference set = MAVO's own 26-28 Aug wave (`Rammstein's industrial bass giant: Oliver Riedel's iconic 'Du Hast'!`, `Phoenix's heavy Drop-D riff on 'Lying From You' is pure Meteora power!`, `Ado's 'Usseewa' has one of the most aggressive J-pop basslines ever written!`, `That dark, fuzz-drenched 'Do I Wanna Know?' riff is peak 2010s indie!`). The literal phrase `bass cover` is downgraded from mandatory to **optional** - it would become its own template.
+*   **FINAL COPY, both re-gated:**
+    *   **CO-0001** - `Burzum's 'Autumn Leaves' stretched into 1 hour of calm dungeon synth` (68 chars) + ASCII description and pin.
+    *   **CO-0002** - `Motionless In White's 'Another Life' hides one of metalcore's softest basslines!` (80 chars) + ASCII description and pin.
+    *   Checks: unique opener (`burzum's` 0 priors, `motionless` 0 priors), no exact title duplicate, first description line unique, no sentence or line reused >=4, gear lines byte-unique, 2 allowlisted URLs, 0 pin URLs, tags 8 and 7, ASCII only.
+*   **Chevelle - The Red** confirmed as the missing package (CO-0003 candidate) - queued, not built yet.
+
+### 🐍 Python Scripts & Bash Commands Used:
+
+```bash
+python3 -   # count banned characters across 308 packages (408 em dashes, 184 files)
+python3 -   # sweep: replace ' — ' with ' - ', bare '—' with '-'; report 0 remaining
+python3 -   # add the typography check to PY/verify.py (hard fail)
+python3 -   # gate-check both final title/description/pin sets before approval
+python3 PY/generate_track_history.py && python3 PY/generate_reference_txts.py \\
+  && python3 PY/build_master_under_review.py && python3 PY/repack.py \\
+  && python3 PY/refresh_kit.py && bash verify.sh
+```
+
+### 📝 Files Created & Modified:
+
+*   **MODIFIED (corpus):** 184 packages (em dash -> hyphen only), plus `TXT/Channel_Order_Audit_Log.txt`, `TXT/LF_Monetisation_Register.txt`, `To Attach/00_PASTE_PRIORITY.txt`.
+*   **MODIFIED (tools/docs):** `PY/verify.py` (typography gate), `CONTEXT_BLOCK.txt` (VER 3.5, house formula, typography rule, status), `MAVO_PROJECT_LOG.txt`, `MAVO_VERSION_LOG.txt`, plus regenerated history sheets, reference TXT, masters, containers and kit.
+
+### ✅ Verification:
+
+| Check | Result |
+|---|---|
+| Em dashes in packages | 408 -> **0** ✓ |
+| Banned characters (all types) | 0 remaining ✓ |
+| Tier 1 `verify.py` (incl. new typography gate) | pass ✓ |
+| Tier 2 `diversity_guard.py` | pass, 0 violations ✓ |
+| Packages / folder paths | 308 / 308 byte-match ✓ |
+| Containers / kit | ROUND-TRIP PERFECT / KIT SYNC PERFECT ✓ |
+
+*   **Next:** CO-0003 (Chevelle - The Red package) when MAVO calls it; both edits ready to paste.

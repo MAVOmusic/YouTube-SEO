@@ -1,4 +1,4 @@
-⏹️ STEP 0 FIRST — VISION SELF-CHECK: confirm the chat can read images before
+⏹️ STEP 0 FIRST - VISION SELF-CHECK: confirm the chat can read images before
 restoring or doing work. Vision confirmed = continue. No vision = STOP.
 
 ================================================================================
@@ -9,7 +9,7 @@ RESTORE ORDER:
   1. Read 01_CONTEXT_BLOCK.txt               (§29 = repo layout + cascade, §30 = gate)
   2. Read 07_MAVO_VERSION_LOG.txt
   3. Decode 02_Recovery_Scripts.txt -> PY tools + PY/requirements.txt + verify.sh
-  4. pip install -r PY/requirements.txt      (openpyxl — needed for the XLSX)
+  4. pip install -r PY/requirements.txt      (openpyxl - needed for the XLSX)
   5. Decode 03-06_Recovery_Data_a-d.txt -> bands/ (308 packages, 77/77/77/77)
   6. Run the cascade, then bash verify.sh -> ALL GATES GREEN before work ships:
        python3 PY/generate_track_history.py

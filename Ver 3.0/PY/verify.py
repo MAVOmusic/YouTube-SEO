@@ -30,6 +30,12 @@ ROOT = os.environ.get('MAVO_ROOT') or os.path.dirname(
 
 FAILS = []
 
+# VER 3.5 - banned typography (AI-writing tells). Use ASCII only.
+BANNED_CHARS = {'\u2014': 'em dash (use -)', '\u2013': 'en dash (use -)',
+                '\u2019': 'curly apostrophe (use \')', '\u2018': 'curly quote (use \')',
+                '\u201c': 'curly quote (use ")', '\u201d': 'curly quote (use ")',
+                '\u2026': 'ellipsis character (use ...)'}
+
 
 def fail(msg):
     FAILS.append(msg)
@@ -122,6 +128,11 @@ def main():
         if gm:
             gears.append(gm.group(1).strip())
 
+        # ---- VER 3.5: banned typography ----
+        for ch, why in BANNED_CHARS.items():
+            if ch in t:
+                fail(f'{f}: banned character {why} (x{t.count(ch)})')
+
         # ---- VER 3.0: Folder Location must equal the real path ----
         m = re.search(r'\*\*Folder Location:\*\*\s*`([^`]+)`', t)
         real = os.path.dirname(f).replace(os.sep, '/') + '/'
@@ -139,6 +150,15 @@ def main():
     audit('Long-form pinned comments', lfp)
     audit('Shorts pinned comments', sfp)
     audit('Gear lines', gears)
+
+    print()
+    print("=" * 50)
+    print("Typography (VER 3.5 - ASCII only, no em/en dashes or curly quotes)")
+    print("=" * 50)
+    print()
+    print(f'\u2713 scanned {len(files)} packages for banned characters'
+          if not any('banned character' in m for m in FAILS)
+          else '\u274c banned typography found (see violations)')
 
     print()
     print("=" * 50)

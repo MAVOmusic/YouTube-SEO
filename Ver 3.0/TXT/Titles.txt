@@ -239,7 +239,7 @@ LF: N/A - SHORT ONLY MATCH [0091] -> legacy 1822
 SF: N/A - LEGACY SHORT RECORD 1822 [matches 0091]
 
 [0116] bands/B/BABYMETAL_Feat._Electric_Callboy/RATATATA/0116/17-07-2026.md
-LF: Kawaii metal meets German electro-core — the ultimate low-end collision!
+LF: Kawaii metal meets German electro-core - the ultimate low-end collision!
 SF: When Japanese metal core collides with German rave bass drops! #shorts #bass
 
 [2236] bands/B/BABYMETAL_Feat._Electric_Callboy/RATATATA/2236/17-07-2026.md
@@ -336,7 +336,7 @@ SF: Falling into the most hypnotic grunge bass groove of 1994! #shorts #bass
 
 [0019] bands/B/Bush/Machinehead/0019/22-06-2026.md
 LF: Cranking up Dave Parsons's most 90s grunge bass riff ever!
-SF: 1994 Bush grunge bass riff — pure nostalgia power! #shorts #bass
+SF: 1994 Bush grunge bass riff - pure nostalgia power! #shorts #bass
 
 [0886] bands/B/Bush/Machinehead/0886/28-06-2025.md
 LF: N/A - [Matched Short 0886]
@@ -767,7 +767,7 @@ LF: Nine thousand miles of pure atmospheric drum & bass!
 SF: Cruising into the deep atmospheric rolling groove of Pendulum! #shorts #bass
 
 [0637] bands/P/Pendulum/9,000_Miles/0637/07-09-2025.md
-LF: Immersive drum & bass journey — Pendulum's 9,000 Miles in full!
+LF: Immersive drum & bass journey - Pendulum's 9,000 Miles in full!
 SF: Dreamy DnB low-end: Pendulum's 9,000 Miles! #shorts #bass
 
 [0781] bands/P/Pendulum/9,000_Miles/0781/22-07-2025.md
@@ -848,7 +848,7 @@ SF: Bidding farewell with Rammstein's softest sledgehammer! #shorts #bass
 
 [2063] bands/R/Rammstein/Adieu/2063/13-07-2024.md
 LF: 
-SF: Mourning in slow motion — Till's goodbye on bass! #shorts #bass
+SF: Mourning in slow motion - Till's goodbye on bass! #shorts #bass
 
 [0063] bands/R/Rammstein/Adios/0063/22-07-2026.md
 LF: Heavy industrial guitar riffing backed by Oliver Riedel's relentless bass pulse!
