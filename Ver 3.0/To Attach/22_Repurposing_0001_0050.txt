@@ -1,0 +1,752 @@
+REPURPOSING WORKSHEET 0001-0050 | MAVOmusic fingerstyle bass covers — cross-platform repost data feed
+For the planning AI: pick songs + posting slots for Facebook / other-platform reposts. All numbers are LIFETIME (since-published) reads pulled from YouTube Studio 27-28 Jul 2026 — no realtime/48h figures. Channel timezone: UK (Europe/London).
+Updated after EVERY recheck (ask MAVO-side AI to keep appending). Current coverage: 0001-0050 COMPLETE (Ver 2.43) — recheck queue CLOSED. Blocks embed full SF package copy (Title/Description/Hashtags/Pinned Comment) since Ver 2.43. Next file in series: 'Repurposing 0051 - 0100.txt'.
+
+LEGEND: SF = 0:36 Short (the repost asset) / LF = ~3:00 long-form (companion; most LFs sit 0-16v). stayed% = Shorts retention (>45% = strong hook). AVD = avg view duration on a 0:36 cut (0:18 = 50% watched). SHAPE: SEARCH-LED (evergreen keyword pull — reuse TERMS in FB captions/hashtags) / FEED-LED (algorithm burst — peak-hour slots) / MIXED / SHELF. n=v = views attributable. '--' = card not shipped.
+===============================================================================
+TIER BOARD (read first)
+- PROVEN BIG ASSETS: 0002S 1,383v (channel #1) | 0039S 932v (feed-lottery #2, clean) | 0029S 801v (viral, farm-cleared) | 0049S 727v (feed-puller, US/Indonesia geo, bespoke mirror LIVE) | 0001S 723v | 0009S 642v & 0004S 582v & 0021S 124v (FARM-SUSPECT — reach yes, engagement-proof no)
+- SEARCH MONSTERS (keyword pullers, search share): 0027S 77.3 | 0028S 75.0 | 0031S 73.2 | 0015S 71.6 | 0035S 70.6 | 0041S 66.7 | 0034S 64.3 | 0037S 63.0 | 0046S 60.7 | 0033S 60.0
+- BEST HOOKS (stayed%): 0047S 56.3 RECORD (19v sample flag, AVD 0:19) | 0046S 55.6 (quality: AVD 0:19) | 0037S 50.0 (pause-heavy, AVD 0:08) | 0035S 48.5 | 0023S 48.0 & 0041S 48.0 | 0015S 45.4 | 0030S 45.4 | 0025S 42.6 | 0033S 42.3 | 0034S 41.4
+- HEALTHIEST LONG-FORMS (if you want a ~3min FB video): 0028L (AVD 1:23, +0:38) | 0006L (AVD 1:51 gap) | 0034L (CTR 2.9, AVD 0:59) | 0002L (86v)
+- CALENDAR: 0033 Carol Of The Bells -> Nov-Dec only. | SKIP: 0031L (0 views ever), 0037L (0 views ever), year-round 0033 (off-season), 0005 pair (AI-scar reupload pending ~late Sep).
+===============================================================================
+
+0001 | Squeeze - Cool For Cats | published 14-07-2026
+  SF: 723v ("663 more than usual") | £0.06 | stayed ~28 | FEED-LED 93.2% | not-sub 96.6% | geo UK 35.5 / US 15.1 (Anglo lane) | audience New 85.5
+  TERMS: none portable (search 1.0% noise); `nami` rejected (anime bleed)
+  SF TITLE: "Nobody expects this much bounce from a 1979 New Wave bassline! #shorts #bass"
+  SF DESC:
+    Locking into those bouncy octave jumps and walking-bass runs from Squeeze's 'Cool for Cats' on the Epiphone Thunderbird! Full playthrough is pinned up top 🎸
+    
+    #shorts #rocksmith #basscover #squeeze
+  HASHTAGS: #shorts #rocksmith #basscover #squeeze
+  PIN: "Do you dig walking basslines with a lighter finger touch or a heavier pluck? The full version is linked above — go watch! 👇🎸"
+  LF: LF ~19v | AVD +0:10 gap class | SHELF | LF TITLE: "Nobody talks about how bouncy this 1979 New Wave bassline is!"
+  NOTE: 14-Jul pre-streak pair-day; feed-lane sampling healthy; companion LF optional.
+
+0002 | Foo Fighters - Run | published 14-07-2026
+  SF: 1,383v = CHANNEL #1 ("1.3k more than usual") | £0.07 (era revenue record) | stayed 28.2 rock-stable | AVD 0:14 | FEED-LED 97.0% | engaged 386 | geo UK 36.3 / India 31.3 / US 5.0 | male 100%, 25-34 63.5%
+  TERMS: none portable (search 0.4%); `foo fighters` watch-only
+  SF TITLE: "Drop-in moment: Nate Mendel's heaviest Foo Fighters riff hits! #shorts #bass"
+  SF DESC:
+    Wait for the DROP — that soft intro explodes straight into Nate Mendel's heaviest Foo Fighters riff on the Thunderbird!
+    
+    🎥 Full uncut version linked at the top of the channel
+    
+    #shorts #foofighters #rocksmith #bass
+  HASHTAGS: #shorts #foofighters #rocksmith #bass
+  PIN: "Enough fuzz-punch on the Thunderbird, or should I crank the gain even more? Full uncut take is one click up top — weigh in below! 👇🎸"
+  LF: LF 86v ("79 more") = era's biggest LF | imp 8.1k | CTR 0.8 top-band | AVD 0:32 | Browse 48.8 / Suggested 41.9 | LIKES 100% | LF TITLE: "Nate Mendel's heaviest Foo Fighters riff is an absolute bass masterclass!"
+  NOTE: Drop-in-moment visual hook at the beat shift = the catalog's strongest raw SF asset; LF also viable as companion.
+
+0003 | Huey Lewis And The News - The Power Of Love | published 27-06-2026
+  SF: 66v ("6 more") | £0.004 | stayed 36.9 | AVD 0:19 | MIXED, search edge (search 36.4 > feed 33.3 > channel 24.2) | not-sub 89.7
+  TERMS: rocksmith bass 20.8% (mandatory family), huey lewis and the news (in-box)
+  SF TITLE: "Warning: this 80s Huey Lewis bassline bounces WAY too hard! #shorts #bass"
+  SF DESC:
+    Bouncy. Syncopated. Deceptively hard. Huey Lewis & The News' 'Power of Love' bass pocket on a Thunderbird!
+    
+    #shorts #hueylewis #80sbass #rocksmith
+  HASHTAGS: #shorts #hueylewis #80sbass #rocksmith
+  PIN: "Feather-light touch or full attack on that bouncy 80s pocket? Full playthrough is the video pinned above — let me know if the tone nailed it! 👇🎸"
+  LF: LF 8v | AVD 1:03 (+0:22 gap) | funnel AVD 1:47 | LIKES 100% +1 sub | CTR 1.1 | LF TITLE: "Huey Lewis hid a ridiculously bouncy bassline in this 80s hit!"
+  NOTE: 80s feel-good; solid mid-shelf; LF quality cards unusually stacked for the class.
+
+0004 | Rick Springfield - Jessie's Girl | published 27-06-2026
+  SF: 582v ("522 more") — FARM-SUSPECT (65 uniques ≈9 v/u, subs-WT 77.1% inverted) | stayed 12.2 floor-class | exclude from clean-sample repost math
+  TERMS: —
+  SF TITLE: "1981 pop-rock bass that drives the entire song! #shorts #bass"
+  SF DESC:
+    Nonstop straight-eighth drive on Rick Springfield's 'Jessie's Girl' — bass as the engine of an 80s pop-rock juggernaut!
+    
+    🎧 Full take in the linked video above
+    
+    #shorts #rickspringfield #80srock #bass
+  HASHTAGS: #shorts #rickspringfield #80srock #bass
+  PIN: "Verse pocket vs. that driving chorus — which section hits harder? Full track is one click up top, go give it a spin! 👇🎸"
+  LF: LF 33v ("25 more") | Browse-lane 84.9% | suggester Meredith Brooks 100% | first Playlist-my-mix lane | LF TITLE: "Rick Springfield's 'Jessie's Girl' has a SECRETLY brilliant bassline!"
+  NOTE: Farm-lane exhibit: use only if you accept inflated-watch-time optics.
+
+0005 | Bummrraa - Butt Ugly Playroom | published 26-06-2026
+  SF: 24v ("6 less") below-band | stayed 30.4 | channel 65.2 / feed 34.8 | AVD 0:15
+  TERMS: —
+  SF TITLE: "Stream viewer makes a song, you lay down the bass! #shorts #bass"
+  SF DESC:
+    One of my viewers wrote an original song called 'Butt Ugly Playroom' — so obviously I had to record a live bass part over it on stream!
+    
+    🎶 Full original is in the link above
+    
+    #shorts #originalmusic #basscover #community
+  HASHTAGS: #shorts #originalmusic #basscover #community
+  PIN: "Want me to play bass on YOUR track? Get in the Discord, drop it there, and maybe you see it live next. Full take is linked up top! 👇🎸"
+  LF: LF 1v flop | LF TITLE: "When your stream viewer writes a song and you have to play the bass!"
+  NOTE: ⚠️ AI-LABEL SCAR: cut was locked by YouTube's AI mis-label; user plans full delete+REUPLOAD ~late Sep 2026. SKIP until re-upload ships.
+
+0006 | Gary Wright - Dream Weaver | published 26-06-2026
+  SF: 65v ("5 more") | £0.01 | stayed 30.0 | AVD 0:22 | FEED-LED w/ real search lane (search 43.8%) | +1 sub (first sub-positive SF)
+  TERMS: —
+  SF TITLE: "Smooth 70s synth-rock bass drift at its finest! #shorts #bass"
+  SF DESC:
+    Translating Gary Wright's Moog-Taurus synth bass on 'Dream Weaver' over to a real Thunderbird — that 70s space-rock drift on actual strings!
+    
+    🛸 Full cosmic playthrough is at the top of the page
+    
+    #shorts #garywright #70srock #bass
+  HASHTAGS: #shorts #garywright #70srock #bass
+  PIN: "Spacey enough for you, or should I have added even more reverb? The full uncut version is linked above — float on over! 👇🎸"
+  LF: LF 2v flop-class BUT AVD 1:51 = +1:10 era-best LF gap | CTR 0.2 sub-watch | LF TITLE: "Gary Wright's synth hit has the smoothest bass groove of the 70s!"
+  NOTE: Dreamy soft-rock; LF retention whales exist — LF companion worth testing once.
+
+0007 | Rage Against The Machine - Bulls On Parade | published 25-06-2026
+  SF: 54v | £0.001 | stayed 25.0-27.1 | AVD 0:16 | feed 64.2 / search 22.6
+  TERMS: —
+  SF TITLE: "Tim Commerford's RATM bass tone is pure fury! #shorts #bass"
+  SF DESC:
+    Chasing Tim Commerford's iconic distorted clank on Rage Against The Machine's 'Bulls On Parade' — Thunderbird in full riot mode!
+    
+    🤘 Full face-melter is pinned up top
+    
+    #shorts #ratm #rapmetal #bass
+  HASHTAGS: #shorts #ratm #rapmetal #bass
+  PIN: "Snarly enough on that Timmy C tone, or should I have cranked the gain harder? The full angry take is linked up top — sound off in the comments! 👇🎸"
+  LF: LF 7v | imp 920 (89.7% rec) | CTR 0.8 | LIKES 100% | AVD 0:33 | LF TITLE: "Trying to lock in with Tim Commerford's heaviest bass riff!"
+  NOTE: RATM name recognition — brand hook; mid-shelf.
+
+0008 | 9mm Parabellum Bullet - Sacrifice | published 25-06-2026
+  SF: 40v | £0.001 | stayed 23.3 | AVD 0:10 | feed 79.5 / search 5.1
+  TERMS: —
+  SF TITLE: "Finger-melting Japanese J-Rock bass speed ahead! #shorts #bass"
+  SF DESC:
+    Attempting Kazuhiko Nakamura's finger-melting bass sprint on 9mm Parabellum Bullet's 'Sacrifice' live on stream — Japanese post-hardcore is no joke!
+    
+    🏁 Full speed-run is linked at the top
+    
+    #shorts #jrock #posthardcore #bass
+  HASHTAGS: #shorts #jrock #posthardcore #bass
+  PIN: "How fast can *you* run sixteenth-notes before your forearm gives up? The full endurance test is pinned above — go watch! 👇🎸"
+  LF: LF 1v flop, Direct-100% | LF TITLE: "Japanese post-hardcore has no business having bass riffs THIS fast!"
+  NOTE: Obscure Japanese metal — niche repost only (JP/prog communities).
+
+0009 | The Strokes - Juicebox | published 25-06-2026
+  SF: 642v ("562 more") — FARM-SUSPECT (all views by ~day-4, dead-flat ~29 days after) | stayed 11.7 FLOOR | exclude from clean-sample math
+  TERMS: juicebox family (in box)
+  SF TITLE: "This Strokes bassline is an absolute garage rock masterpiece! #shorts #bass"
+  SF DESC:
+    Nikolai Fraiture's snarling fuzz-bass riff on The Strokes' 'Juicebox' — bass as the lead instrument, Thunderbird at full grind!
+    
+    🧨 Full fuzz assault linked above
+    
+    #shorts #thestrokes #garagerock #bass
+  HASHTAGS: #shorts #thestrokes #garagerock #bass
+  PIN: "More fuzz, or is this grind already rude enough? Click up top for the full uncut take — and tell me your favorite Strokes riff! 👇🎸"
+  LF: LF 7v | imp 1k | CTR 0.5 | LF TITLE: "The bassline on 'Juicebox' has absolutely no business being this good!"
+  NOTE: Strokes brand pulled the spike; no long-tail evidence.
+
+0010 | BrokeNCYDE - Band Tee | published 23-06-2026
+  SF: 48v | £0.002 | stayed 31.7-33.3 | AVD 0:28 (+0:02) | feed 66.7 / search 10.4
+  TERMS: — (bass band -> noise)
+  SF TITLE: "Adding real bass to a wild crunkcore banger! #shorts #bass"
+  SF DESC:
+    Adding a real Thunderbird bassline over BrokeNCYDE's crunkcore anthem 'Band Tee' — late-2000s scene energy + live low-end!
+    
+    ⛓️ Full throwback linked at the top
+    
+    #shorts #brokencyde #crunkcore #bass
+  HASHTAGS: #shorts #brokencyde #crunkcore #bass
+  PIN: "Warning: watching this may open a 2008 MySpace time portal. Full scene-era throwback is pinned up top — and drop your guilty-pleasure scene track in the comments! 👇🎸"
+  LF: LF 5v | search 80.0% = first search-dominant LF | rec-serve 1.7% | LF TITLE: "Playing bass over this classic crunkcore track is wild!"
+  NOTE: Crunkcore niche; SF mid-shelf; AVD-strong SF.
+
+0011 | The Strokes - Last Nite | published 23-06-2026
+  SF: 74v upper in-band | £0.002 | stayed 25.4-26.9 | AVD 0:17 | feed 62.0 / search 26.8
+  TERMS: — (bare bass -> noise)
+  SF TITLE: "Everyone recognizes that 2000s indie bassline instantly! #shorts #bass"
+  SF DESC:
+    Revisiting Nikolai Fraiture's perfectly simple staccato groove on The Strokes' 'Last Nite' — that 2000s indie nostalgia hits different on a Thunderbird!
+    
+    🎧 Full nostalgia trip linked above
+    
+    #shorts #thestrokes #indierock #bass
+  HASHTAGS: #shorts #thestrokes #indierock #bass
+  PIN: "Which Strokes record has your favorite bass work? (Mine's a tie.) Full playthrough is pinned up top — go enjoy that 2001 vibe! 👇🎸"
+  LF: LF 16v ("10 more" over-badge, biggest normal shelf LF) | CTR 1.4 above band | AVD +0:10 | LF TITLE: "Why this simple Strokes bassline feels SO good to play!"
+  NOTE: Strokes #2 — safer than 0009 (clean anatomy, no spike-scar).
+
+0012 | Alexisonfire - No Transitory | published 23-06-2026
+  SF: 39v in-band floor | stayed 14.0 near-floor | AVD 0:21 | search 36.8
+  TERMS: — (bass cover + Hindi bhoot -> noise)
+  SF TITLE: "2004 post-hardcore low-end energy is UNREAL! #shorts #bass"
+  SF DESC:
+    Chris Steele's driving charge on Alexisonfire's 'No Transitory' — 2004 post-hardcore energy on a very loud Thunderbird!
+    
+    🔥 Full high-velocity attack linked up top
+    
+    #shorts #alexisonfire #posthardcore #bass
+  HASHTAGS: #shorts #alexisonfire #posthardcore #bass
+  PIN: "Fingers at full blaze — that is the only sane way through this one. The full high-energy take is linked above, let's GO! 👇🎸"
+  LF: LF 8v ("2 more") | CTR 1.5 above band | search 66.7% | LF TITLE: "Chris Steele's Alexisonfire bassline is pure early-2000s energy!"
+  NOTE: Post-hardcore niche; SF hook weak, LF click-through strong.
+
+0013 | Joe Satriani - Satch Boogie | published 22-06-2026
+  SF: 45v | £0.003 | stayed 40.0-40.4 HEALTHY HIGH-HOOK | AVD 0:14 | search 40.9 = feed 40.9 TIED
+  TERMS: cover bass -> noise
+  SF TITLE: "Attempting Satch Boogie on FOUR STRINGS?! #shorts #bass"
+  SF DESC:
+    Satch Boogie on a FOUR-STRING?! Keeping up with Joe Satriani and Stuart Hamm's fusion bass on the Thunderbird!
+    
+    🏃 Full cardio test is at the top of the page
+    
+    #shorts #joesatriani #instrumentalrock #bass
+  HASHTAGS: #shorts #joesatriani #instrumentalrock #bass
+  PIN: "Survived Satch Boogie on bass — barely. Name a song you think is physically impossible on four strings and I'll attempt it on stream. Full run is linked up top! 👇🎸"
+  LF: LF 6v | CTR 0.3 sub-band (thumbnail lever only) | first External-LF (Google) | LF TITLE: "Can a bass guitar survive this legendary Joe Satriani guitar shred?"
+  NOTE: Guitar-hero crowd adjacent; high-hook SF worth a repost test.
+
+0014 | System Of A Down - Hypnotize | published 22-06-2026
+  SF: 73v upper in-band | £0.003 | stayed 25.0-25.3 | AVD 0:16 | SEARCH-LED 48.6 > feed 40.3
+  TERMS: hypnotize (✏️ back-ported into SF box — user paste pending confirm), roxanne-adjacent dark cluster
+  SF TITLE: "SOAD's haunting drop-C bass hits different every time! #shorts #bass"
+  SF DESC:
+    Shavo Odadjian's haunting drop-C bass on System Of A Down's 'Hypnotize' — moody, velvet-dirt heaviness on the Thunderbird!
+    
+    🕯️ Full atmospheric take linked above
+    
+    #shorts #soad #systemofadown #bass
+  HASHTAGS: #shorts #soad #systemofadown #bass
+  PIN: "Moody dark SOAD or full-chaos SOAD — which side of Shavo hits harder for you? The full hypnotic take is one click up top! 👇🎸"
+  LF: LF 9v ("3 more") | AVD 1:09 (+0:34 gap ladder) | CTR 0.6 | LF TITLE: "System Of A Down's darkest, most beautiful bassline on 'Hypnotize'!"
+  NOTE: SOAD side-song with proven search demand; captions should lead with song name.
+
+0015 | The Police - Roxanne | published 22-06-2026
+  SF: 85v ("5 more" over-badge) | £0.01 | stayed 44.7-45.4 = HIGH-HOOK TIER | AVD 0:22-0:24 | SEARCH MONSTER 71.6%
+  TERMS: roxanne ≈84% of search slice, pre-covered box slot-1 (construction validated #1)
+  SF TITLE: "Grooving hard on Sting's iconic reggae-rock pocket! #shorts #bass"
+  SF DESC:
+    Sitting back into Sting's perfectly spacious reggae-rock pocket on The Police's 'Roxanne' — clean Thunderbird, maximum feel, zero extra notes!
+    
+    🎯 Full groove lesson linked at the top
+    
+    #shorts #thepolice #sting #bass
+  HASHTAGS: #shorts #thepolice #sting #bass
+  PIN: "Restraint vs. busy fills — which side of bass are you on? The full minimalist masterclass is up top — go study it! 👇🎸"
+  LF: LF 3v | CTR 0.2 (thumbnail lever only) | LF TITLE: "Sting's bassline on 'Roxanne' is an absolute reggae-rock masterpiece!"
+  NOTE: TIER-A REPOST CANDIDATE: household song + strong hook + keyword pull.
+
+0016 | The Dear Hunter - Stuck On A Wire Out On A Fence | published 22-06-2026
+  SF: 24v ("16 less") below-band BUT stayed 33.3 healthy | AVD 0:18 | still earning
+  TERMS: the dear hunter, satch boogie family bares (watch-items)
+  SF TITLE: "Prog bass syncopation that genuinely breaks your brain! #shorts #bass"
+  SF DESC:
+    Nick Sollecito's brilliantly syncopated bass on The Dear Hunter's 'Stuck On A Wire Out On A Fence' — prog bass that lands everywhere *except* where you expect!
+    
+    🧩 Full prog puzzle linked above
+    
+    #shorts #thedearhunter #progrock #bass
+  HASHTAGS: #shorts #thedearhunter #progrock #bass
+  PIN: "Those off-beat stabs gave me whiplash the first ten takes (no joke). The full syncopation masterclass is one click up top! 👇🎸"
+  LF: LF 2v flop | search 50 = Related-Shorts 50 pull-through | TV 33.6 first LF TV share | LF TITLE: "Prog bass just doesn't get more syncopated than this Dear Hunter track!"
+  NOTE: Prog niche; hook better than volume suggests.
+
+0017 | Alice Cooper - No More Mr Nice Guy | published 22-06-2026
+  SF: 31v in-band floor | £0.002 | stayed 32.1 | AVD 0:11 | SEARCH-LED 53.3
+  TERMS: rocksmith bass 31.3% = biggest mandatory receipt class; cover bass -> noise
+  SF TITLE: "Plucking out Alice Cooper's glam-rock bass strut live! #shorts #bass"
+  SF DESC:
+    Dennis Dunaway's gloriously melodic glam-strut bass on Alice Cooper's 'No More Mr. Nice Guy' — pure 1973 glitter-rock bounce on a Thunderbird!
+    
+    🎭 Full theatrical strut linked up top
+    
+    #shorts #alicecooper #glamrock #bass
+  HASHTAGS: #shorts #alicecooper #glamrock #bass
+  PIN: "Glam strut or heavy metal chug? If you said both, you're my kind of viewer. The full Billion Dollar Babies jam is pinned above — enjoy the strut! 👇🎸"
+  LF: LF 7v | CTR 0.2 tied-lowest | PC-led 92.9 record | LF TITLE: "Dennis Dunaway's glam-rock strut is Alice Cooper's secret weapon!"
+  NOTE: Classic-rock brand; AVD thin — repost with hook-first edit.
+
+0018 | Queen - Killer Queen | published 22-06-2026
+  SF: 40v in-band | £0.003 | AVD 0:22 | SEARCH MONSTER 56.4% (era #2 then)
+  TERMS: killer queen ≈25.7% real share PRE-COVERED slot-1 (validation #2), queen bass
+  SF TITLE: "John Deacon's Queen bass work is impossibly elegant! #shorts #bass"
+  SF DESC:
+    John Deacon's flawlessly elegant walking bass on Queen's 'Killer Queen' — cabaret-glide fingerstyle on a warm Thunderbird!
+    
+    👑 Full Deaky masterclass is pinned up top
+    
+    #shorts #queen #johndeacon #bass
+  HASHTAGS: #shorts #queen #johndeacon #bass
+  PIN: "Warm enough fingerstyle tone for Deaky, or should I roll the neck pup up a touch more? The full royal performance is linked above — judge for yourself! 👇🎸"
+  LF: LF 5v | AVD +0:35 gap | LIKES 100% | CTR 0.9 | TV 13.1 | LF TITLE: "John Deacon's bassline on 'Killer Queen' is secretly a masterpiece!"
+  NOTE: Queen family = reliable search pull (sibling 0031S co-proves).
+
+0019 | Bush - Machinehead | published 22-06-2026
+  SF: 27v ("13 less") below-band | £0.002 | stayed 20.7 | AVD — | SEARCH-LED 53.8
+  TERMS: bush ≈7v = promote-if watch-item; rocksmith bass receipt #3
+  SF TITLE: "1994 Bush grunge bass riff — pure nostalgia power! #shorts #bass"
+  SF DESC:
+    Dave Parsons's high-gain primal riff on Bush's 'Machinehead' — pure 1994 'Sixteen Stone' grunge energy through a Thunderbird at full tilt!
+    
+    🌲 Full flannel-era jam linked above
+    
+    #shorts #bush #90sgrunge #bass
+  HASHTAGS: #shorts #bush #90sgrunge #bass
+  PIN: "That riff hits like a 1994 time machine. Full nostalgia-chug playthrough is pinned up top — share what 90s track takes YOU straight back! 👇🎸"
+  LF: LF 1v flop | Related-Shorts-100% pure pull-through | LF TITLE: "Cranking up Dave Parsons's most 90s grunge bass riff ever!"
+  NOTE: 90s grunge; watch `bush` bare term — may deserve a tag later.
+
+0020 | Scott Walker - The Old Mans Back Again | published 22-06-2026
+  SF: 90v ("10 more" over-badge) = top-band volume | £0.005 | stayed 40.2-40.7 high-hook | AVD 0:26 | search 31.5
+  TERMS: rocksmith bass ≈7v = biggest mandatory receipt, scott walker live verbatim, cartoon cartoon -> noise
+  SF TITLE: "1969 Scott Walker bassline sampled by Jay-Z! #shorts #bass"
+  SF DESC:
+    The legendary Herbie Flowers-attributed bassline from Scott Walker's 'The Old Man's Back Again' (Scott 4, 1969) — cinematic baroque-pop thunder on the Thunderbird!
+    
+    🎞️ Full historic performance linked up top
+    
+    #shorts #scottwalker #baroquepop #bass
+  HASHTAGS: #shorts #scottwalker #baroquepop #bass
+  PIN: "Hip-hop heads — you already know that bassline from the Danger Mouse/Jay-Z flip. The full 1969 deep-cut experience is pinned above, go give it a proper listen! 👇🎸"
+  LF: LF 3v | CTR 0.8 top-band | LIKES 100% | PC 90.5% | LF TITLE: "Sampling Scott Walker's 1969 bassline that Jay-Z made iconic!"
+  NOTE: 1969 deep-cut sampled by Jay-Z = narrative hook for captions!
+
+0021 | Anouk - Good God | published 22-06-2026
+  SF: 124v ("44 more" mega-badge) BUT FARM-SUSPECT (feed 86.4, subs-WT 69.6 inverted, stayed 14.6)
+  TERMS: good good bass = built typo-catcher (validation #1)
+  SF TITLE: "Unleashing that Dutch funk-pop bass live on stream! #shorts #bass"
+  SF DESC:
+    Dutch soul-rock groove incoming! Michel van Schie's bass on Anouk's 'Good God' is all dead-notes and percussive pops — Thunderbird bridge pickup fully cranked.
+    
+    🧡 Full two-and-a-half-minute groove linked above
+    
+    #shorts #anouk #funkrock #bass
+  HASHTAGS: #shorts #anouk #funkrock #bass
+  PIN: "Speed fingerstyle on a Thunderbird feels incredible in the best way. The full playthrough is one click up top — check it out, and tell me your favorite funk-rock bassline in the replies! 👇🎸"
+  LF: LF 15v ("9 more") | FIRST WORKING BELL (173 pushes, 1.7%, 3 views) | LIKES 100% | sub-share 45.2 LF-record | LF TITLE: "Michel van Schie's funkiest Dutch bass groove is pure fingerstyle speed!"
+  NOTE: Volume is real but contaminated; use as reach piece, not engagement proof.
+
+0022 | The Clash - Guns Of Brixton | published 19-06-2026
+  SF: 62v ("8 less" under-badge) | £0.002 | stayed 25.5-25.9 soft-serve | AVD — | feed 64.5 / search 19.4
+  TERMS: rocket queen bass = box-stray validation #2; indic-script terms -> noise
+  SF TITLE: "Simonon's reggae-punk masterpiece on the Thunderbird! #shorts #bass"
+  SF DESC:
+    Digging into The Clash's iconic 1979 reggae bassline from 'The Guns of Brixton'! Paul Simonon wrote the ultimate creeping groove for this one, and driving fast fingerstyle brings out all that punchy attitude.
+    
+    🟣 Full version is linked right up top!
+    
+    #shorts #theclash #punkbass #rocksmith
+  HASHTAGS: #shorts #theclash #punkbass #rocksmith
+  PIN: "Reggae grooves on a Thunderbird just feel right. The full playthrough is linked above — go watch, and tell me your top Clash track in the replies! 👇🎸"
+  LF: LF 6v | search 50.0 (50-club) | CTR 0.4 sub-0.5 watch | imp 537, 85.3% rec | LF TITLE: "Simonon wrote the heaviest reggae-punk bassline of 1979!"
+  NOTE: Clash #2; mid pack.
+
+0023 | The Clash - Should I Stay Or Should I Go | published 19-06-2026
+  SF: 75v in-band | £0.01 | stayed 48.0 = TOP-3 HOOK | AVD 0:10 | SEARCH-LED 48.0
+  TERMS: should i stay or should i go bass (in-box), rocksmith bass receipt #7; banned-bare rocksmith ≈9 doc-only
+  SF TITLE: "Classic 1982 punk energy on the Thunderbird! #shorts #bass"
+  SF DESC:
+    Hammering out The Clash's legendary 1982 punk groove from 'Should I Stay Or Should I Go'! The pocket is so tight and energetic, and fast fingerstyle drive gives it exactly what it needs.
+    
+    🟣 Catch the full version pinned right above!
+    
+    #shorts #theclash #punkrock #bass
+  HASHTAGS: #shorts #theclash #punkrock #bass
+  PIN: "Such a timeless bassline to jam along to. The full video is waiting for you at the link above — tap it and tell me your favorite song off Combat Rock! 👇🎸"
+  LF: LF 2v flop | search-co-dom 50 | CTR 2.3 clean | PC 95.3 | LF TITLE: "Stomping through The Clash's most iconic punk rock bassline!"
+  NOTE: TIER-A HOOK: famous riff + 48% stay — priority repost.
+
+0024 | American Authors - Best Day Of My Life | published 19-06-2026
+  SF: 78v in-band | £0.004 | stayed 25.3 soft-serve | AVD 0:21 | SEARCH-LED 52.6
+  TERMS: CLEANEST 5/5 pre-covered sweep (bass guitar cover live-validating; rocksmith bass receipt #8)
+  SF TITLE: "Uplifting 2013 pop-rock energy on the Thunderbird! #shorts #bass"
+  SF DESC:
+    Riding the feel-good wave of American Authors' 2013 hit 'Best Day Of My Life'! This indie-pop bassline is pure joy and playing it on the Thunderbird gives it such a warm, round tone.
+    
+    🟣 Full version with all the bouncy grooves is linked above!
+    
+    #shorts #americanauthors #indiefolk #bass
+  HASHTAGS: #shorts #americanauthors #indiefolk #bass
+  PIN: "Indie pop anthems always have the best energy. The full playthrough is waiting right above — go check it out, and tell me your favorite upbeat track in the replies! 👇🎸"
+  LF: LF 1v flop (single mis-tap: channel-100 / mobile-100) | LF TITLE: "Bouncing through the most uplifting bassline of 2013!"
+  NOTE: Feel-good pop-rock; construction-perfect metadata.
+
+0025 | 50 Cent - In Da Club | published 19-06-2026
+  SF: 45v in-band | £0.004 | stayed 42.6 healthy mid-hook | AVD 0:10 | SEARCH MONSTER 57.8
+  TERMS: in da club family (covered 2 verbatim both boxes); 50 cent bare n=1 watch; rocksmith bass receipt #9
+  SF TITLE: "Taking a 2003 club anthem and making it heavy! #shorts #bass"
+  SF DESC:
+    Bringing 50 Cent's legendary 2003 club anthem to the bass guitar! The menacing Dr. Dre synth-bass line on 'In Da Club' translates surprisingly well to the Thunderbird, giving it a heavy, natural punch.
+    
+    🟢 The full version is pinned right above — go check it out!
+    
+    #shorts #50cent #hiphop #basscover
+  HASHTAGS: #shorts #50cent #hiphop #basscover
+  PIN: "Playing rap beats on a real bass just feels illegal in the best way. The full video is waiting for you above — tap it and let me know your favorite 2000s rap track! 👇🎸"
+  LF: LF 6v | search-co-dom 50 | CTR 2.6 | mobile-led | LF TITLE: "Dr. Dre crafted the ultimate hip-hop bassline for 50 Cent!"
+  NOTE: Hip-hop crossover novelty — bass cover of a rap track is a strong FB angle.
+
+0026 | Asian Kung-Fu Generation - After Dark | published 19-06-2026
+  SF: 72v in-band | £0.002 | stayed 29.7 | AVD 0:17 | feed 48.6 / search 41.7
+  TERMS: AKFG family ≈7v FULL SWEEP (strongest family); hathi wala Hindi -> noise; geo India ≈0 (leakage not farm)
+  SF TITLE: "Furious J-Rock fingerstyle on the Thunderbird! #shorts #bass"
+  SF DESC:
+    Channeling that relentless anime energy with Asian Kung-Fu Generation's 'After Dark'! This Bleach opening theme is a non-stop indie-rock workout, and the Thunderbird handles the aggressive fingerstyle attack perfectly.
+    
+    🟣 Watch the full fast-paced playthrough pinned above!
+    
+    #shorts #asiankungfugeneration #jrock #bass
+  HASHTAGS: #shorts #asiankungfugeneration #jrock #bass
+  PIN: "My plucking hand is completely on fire after this track. The full video is waiting for you above — go watch me survive it, and tell me your favorite J-Rock band! 👇🎸"
+  LF: LF 3v | FIRST browse-led LF 66.7 | CTR 1.0 | rec-serve 53.5 | LF TITLE: "Anime basslines demand high-speed fingerstyle stamina!"
+  NOTE: Anime/bleach crowd; family-keyword sweep completely covered.
+
+0027 | Gold Motel - Brand New Kind Of Blue | published 19-06-2026
+  SF: 44v in-band | £0.003 | stayed 40.5 | AVD 0:14-15 | SEARCH MONSTER 77.3% = #1 SF SEARCH SHARE | feed 4.6 = floor
+  TERMS: rocksmith bass receipt #10; double banned-bare doc-only; babydoll bass + ken smith bass -> noise
+  SF TITLE: "Catchy jangle-pop bass grooves on the Thunderbird! #shorts #bass"
+  SF DESC:
+    Delivering those sweet indie-pop vibes with Gold Motel's 'Brand New Kind Of Blue'! It is such a relaxed, breezy groove that proves you don't need to play fast to make a bassline sound great. 
+    
+    🟣 The full chill session is pinned right up top!
+    
+    #shorts #goldmotel #indiepop #basscover
+  HASHTAGS: #shorts #goldmotel #indiepop #basscover
+  PIN: "Breezy basslines just hit different on a Thunderbird. The full version is waiting for you above — tap it and let me know your favorite underground indie band! 👇🎸"
+  LF: LF 1v flop (mis-tap twin of 0024L) | LF TITLE: "Discovering the breeziest indie-pop bassline of 2010!"
+  NOTE: Indie-pop niche; pure search shelf — evergreen repost candidate.
+
+0028 | American Hi-Fi - Flavor Of The Weak | published 19-06-2026
+  SF: 41v in-band | £0.002 | stayed 40.0 | AVD 0:17 | SEARCH MONSTER 75.0 = #2 share
+  TERMS: flavor of the week (mishear! ≈3v) = built typo-catcher validation #3; bess guitar cover -> noise
+  SF TITLE: "Reliving the golden era of pop-punk! #shorts #bass"
+  SF DESC:
+    Turning back the clock with American Hi-Fi's 2001 classic 'Flavor Of The Weak'! The fast, driving fingerstyle attack on this pop-punk bassline is an absolute blast to play, and the Thunderbird handles the tone perfectly.
+    
+    🟣 Watch the full energetic playthrough pinned right up top!
+    
+    #shorts #poppunk #americanhifi #basscover
+  HASHTAGS: #shorts #poppunk #americanhifi #basscover
+  PIN: "These driving eighth-note grooves are the definition of 2000s rock. The full video is waiting for you above — check it out and tell me your favorite pop-punk band! 👇🎸"
+  LF: LF 7v = HEALTHIEST LF OF RUN | AVD 1:23 (+0:38) | LIKES 100% | rec-serve 56.4 record-then | not-sub 100% first pure | LF TITLE: "Rocking out to the ultimate 2000s pop-punk anthem!"
+  NOTE: Pop-punk 2000s nostalgia; BOTH cuts healthy — paired repost viable.
+
+0029 | The Blues Brothers - Soul Man | published 19-06-2026
+  SF: 801v ("631 MORE than usual") = FIRST TRUE FEED-LOTTERY WIN, farm-cleared clean | £0.07 = SF REVENUE RECORD | stayed 41.1 | WT 2.2h (+1.2) | not-sub 98.3 = record | watch-behaviour New 89.1 first-ship | geo US-led | male 100, 35-44
+  TERMS: bare bass ≈18 = biggest bass receipt ever; rocksmith bass receipt #11
+  SF TITLE: "Legendary 70s soul energy on the Thunderbird! #shorts #bass"
+  SF DESC:
+    Serving up some classic Memphis soul with The Blues Brothers' iconic version of 'Soul Man'! Donald "Duck" Dunn's bass work on this 1978 cover is incredibly bouncy and fun to lock into.
+    
+    🟢 Watch the full high-energy bass cover pinned right above!
+    
+    #shorts #bluesbrothers #soulmusic #basscover
+  HASHTAGS: #shorts #bluesbrothers #soulmusic #basscover
+  PIN: "It's impossible to play this groove without moving. The full video is waiting for you above — go give it a watch and tell me your favorite Blues Brothers scene! 👇🎸"
+  LF: LF 7v | search 85.7% = #1 LF SEARCH SHARE | imp 774 biggest LF serve | AVD 0:56 (+0:11) | not-sub 100% | LF TITLE: "Getting down with Donald "Duck" Dunn's greatest bassline!"
+  NOTE: TIER-A: proven viral asset (day-1/2 spike). Movie-brand + energetic 60s soul = best FB bet post-0029.
+
+0030 | Rise Against - The Good Left Undone | published 19-06-2026
+  SF: 111v = upper-shelf #2 | £0.01 | stayed 45.4 (era-best then) | AVD 0:14 | feed 70.9 / search 16.4 | watch-behaviour New 77.8 | geo US 20 | not-sub 97.9
+  TERMS: rocksmith eb drop db ≈2v = 4TH built-tag validation (tuning string!); the good left undone family; agender -> noise
+  SF TITLE: "Punk rock stamina test on the Thunderbird! #shorts #bass"
+  SF DESC:
+    Testing the limits of my plucking hand with Rise Against's 'The Good Left Undone'! The melodic hardcore energy is off the charts, and throwing the Thunderbird into Drop Db tuning makes the riffs hit incredibly hard.
+    
+    🟣 Full version with all the heavy riffs is pinned above!
+    
+    #shorts #riseagainst #punkrock #basscover
+  HASHTAGS: #shorts #riseagainst #punkrock #basscover
+  PIN: "High-speed fingerstyle inside drop tunings is the ultimate workout. The full video is waiting for you above — tap it and tell me your favorite punk rock subgenre! 👇🎸"
+  LF: LF 5v | search 80.0 = ties record | rec-serve 3.7 then-floor | AVD 1:12 (+0:27) | not-sub 100% 3rd pure | LF TITLE: "Melodic hardcore basslines don't get much better than this!"
+  NOTE: Melodic-hardcore; strong all-rounder with healthy revenue stamp.
+
+0031 | Queen - We Are The Champions | published 19-06-2026
+  SF: 41v | £0.002 | stayed 40.8 | AVD 0:14-15 | SEARCH MONSTER 73.2 = #3 SF share | geo South Korea ≈0 | not-sub 88.6
+  TERMS: CLEANEST 5/5 VERBATIM sweep — we are the champions ≈7 / …cover ≈4 / killer queen bass ≈2 / rocksmith bass ≈2 (receipt #12) / we are the champion ≈2 (validation #5)
+  SF TITLE: "Holding down the ultimate stadium rock anthem! #shorts #bass"
+  SF DESC:
+    Holding down the iconic low-end on Queen's legendary 'We Are The Champions'! John Deacon's basslines are the definition of melodic rock, and they sound absolutely massive when played on the Thunderbird. 
+    
+    🟣 The full arena-rock jam is linked right above!
+    
+    #shorts #queen #classic rock #basscover
+  HASHTAGS: #shorts #queen #classic #basscover
+  PIN: "Arena rock anthems just feel huge to play. The full playthrough is waiting for you above — go check it out, and tell me your favorite Queen song! 👇🎸"
+  LF: LF 0 VIEWS EVER (imp 136, CTR 0.0 — never clicked) | rec-serve 2.2 = floor | LF TITLE: "Deacon's legendary arena-rock bass tone is massive!"
+  NOTE: Queen equity lives 100% on the SF here; skip the LF. Matched legacy cut 2053S = 1,478v peak-winner (cross-check later).
+
+0032 | Fall Out Boy - Dance, Dance | published 18-06-2026
+  SF: 36v | £0.004 | stayed 41.0 | AVD 0:18 | SEARCH-LED 45.7 (feed 34.3 / channel 22.9)
+  TERMS: fall out boy ≈5 (box), rocksmith bass ≈2 (receipt #13), fall out boy dance dance + fallout boys ≈1 each = validations #6+#7 (v1.40 back-ports earning at install shares)
+  SF TITLE: "Swinging through Fall Out Boy's biggest bassline! #shorts #bass"
+  SF DESC:
+    Bringing the nostalgic 2005 emo-pop energy with Fall Out Boy's 'Dance, Dance'! Pete Wentz wrote an incredibly catchy, syncopated groove for this one, and it sounds huge coming out of the Thunderbird.
+    
+    🟣 Full version with the complete track is pinned right above!
+    
+    #shorts #falloutboy #poppunk #basscover
+  HASHTAGS: #shorts #falloutboy #poppunk #basscover
+  PIN: "Syncopated pop-punk grooves are always so much fun to lock into. The full playthrough is waiting for you above — give it a watch and tell me your favorite FOB album! 👇🎸"
+  LF: LF 3v frozen | perfect 3-way tie (channel/search/other 33.3 each) | CTR 1.0 | AVD 0:36 / from-imp 0:47 | LF TITLE: "Nailing the syncopated rhythm of this pop-punk anthem!"
+  NOTE: Emo-pop 2000s; metadata = 10/10 frozen winner.
+
+0033 | Seth Chapla - Carol Of The Bells | published 18-06-2026
+  SF: 21v | £0.002 | stayed 42.3 | AVD 0:15 | SEARCH-LED 60.0 | TV 7.1 = SF TV-high (then) | not-sub 86.2
+  TERMS: 100% platform-generic (rocksmith ≈3 doc-only, bass guitar cover, rocksmith + -> noise, rocksmith bass receipt #14) — ZERO identity demand in July
+  SF TITLE: "Festive metal holiday vibes on an Epiphone Thunderbird! #shorts #bass"
+  SF DESC:
+    Cranking the speed to maximum for Seth Chapla's heavy metal version of 'Carol Of The Bells'! This instrumental rock arrangement is a non-stop high-speed fingerstyle assault, and the Thunderbird handles the chaotic low-end beautifully.
+    
+    🟣 The full intense workout is linked right up top!
+    
+    #shorts #heavymetal #instrumentalrock #bass
+  HASHTAGS: #shorts #heavymetal #instrumentalrock #bass
+  PIN: "High-speed fingerstyle runs through traditional melodies are a unique kind of fun. The full video is waiting above — tap it and let me know the hardest song you've ever tried to learn! 👇🎸"
+  LF: LF 1v | rec-serve 92.9 = LF HIGH-record | Suggested-100% via DRUM channel (off-niche) | TV-100% first TV-pure | CTR 0.2 | AVD 0:06 | LF TITLE: "Forging a Christmas classic into a heavy metal bass workout!"
+  NOTE: 🗓️ DECEMBER WATCH: repost Nov-Dec when Carol demand returns; skip now.
+
+
+0034 | Apocalyptica - Life Burns! | published 18-06-2026
+  SF: 29v (+6/10d) | £0.002 | stayed 41.4 | AVD 0:16 | SEARCH MONSTER 64.3 (#6 share) | not-sub 92.3
+  TERMS: apocalyptica ≈2 + apocalyptica life burns ≈1 + life burns apocalyptica ≈1 = 100% human-identity panel, ALL in-box (v1.45 back-ports re-earning = validations #8/#9)
+  SF TITLE: "Symphonic metal cello riffs on a real bass! #shorts #bass"
+  SF DESC:
+    Taking Apocalyptica's chaotic cello-metal energy and putting it on the bass guitar! 'Life Burns!' is an absolute high-speed fingerstyle marathon, and the Thunderbird gives those aggressive riffs a massive, chunky tone.
+    
+    🟣 Catch the full high-speed cover pinned right above!
+    
+    #shorts #apocalyptica #symphonicmetal #basscover
+  HASHTAGS: #shorts #apocalyptica #symphonicmetal #basscover
+  PIN: "Translating cello parts to the bass is such a wild exercise in speed. The full run is waiting for you above — give it a watch and tell me your favorite Apocalyptica track! 👇🎸"
+  LF: 12v ("7 more" over-badge, frozen) | CTR 2.9 = BEST LF CTR of era | AVD 0:59 / 31.5% viewed (retention chart shipped) | search-co-dom 66.7 | PC-led 63.7 | LF TITLE: "Translating aggressive cello metal directly to the bass guitar!"
+  NOTE: cello-metal spectacle — the LF is a legitimate companion (best LF cards in era); `nu metal guitar tone` bleed = ignore.
+
+0035 | Screaming Females - Rotten Apple | published 18-06-2026
+  SF: 35v (+12 = BIGGEST 10-day gain of the re-reads) | £0.003 | stayed 48.5 = NEW HOOK RECORD | AVD 0:18 | SEARCH MONSTER 70.6 (#5 share) | TV 18.8 = SF TV-record | REALTIME: earning 2v/48h pure search right now
+  TERMS: rocksmith eb drop db ≈3 (built tuning-tag paying cross-pack) | bass cover songs ≈1 (in-box) | `cover bass` -> noise, skip
+  SF TITLE: "Crunchy indie-punk basslines in Eb Drop Db! #shorts #bass"
+  SF DESC:
+    Locking into the gritty underground punk sound of 'Rotten Apple' by Screaming Females! Playing this heavy indie-rock track in Eb Drop Db tuning gives the Thunderbird an incredibly thick and menacing rumble.
+    
+    🟣 The full heavy playthrough is pinned right up top!
+    
+    #shorts #screamingfemales #punkrock #bass
+  HASHTAGS: #shorts #screamingfemales #punkrock #bass
+  PIN: "Drop tunings make these indie-punk tracks sound so massive. The full video is waiting for you above — go check it out, and tell me your favorite song in Drop Db! 👇🎸"
+  LF: 4v frozen | CTR 0.4 sub-0.5 watch | rec-serve 80.1 (#2) | Browse 50 / Suggested 25 / External 25 — pulled by an ON-NICHE Metallica Rocksmith channel | AVD 0:25 | PC-led | LF TITLE: "Digging into some heavy indie-punk riffs from New Jersey!"
+  NOTE: hook-record indie-punk = priority repost test. NJ punk angle for captions. Matched legacy cut 1398S 448v (2015-era feed winner) comes in the cross-check phase.
+0036 | The Temptations - My Girl | published 18-06-2026
+  SF: 31v (+7) | £0.001 | stayed 30.8 | AVD 0:28 = 78% runtime = SF AVD HIGH-WATER TIE (0010S) | search 48.4 / channel 29.0 / feed 19.4 | not-sub 82.4 | mobile 56.8 / PC 43.3 | realtime 0
+  TERMS: rocksmith bass 33.3% ≈5 (mandatory, biggest share on record) | temptations ≈3 | my girl song ≈1 | temptations my girl ≈1 (all in-box)
+  SF TITLE: "Jamming the ultimate 1960s Motown bass groove! #shorts #bass"
+  SF DESC:
+    Throwing it back to 1964 with The Temptations' legendary classic 'My Girl'! James Jamerson's timeless bass intro is instantly recognizable, and holding down that smooth Motown pocket on the Thunderbird feels fantastic.
+    
+    🟣 The full chill session is pinned right up top!
+    
+    #shorts #thetemptations #soulmusic #basscover
+  HASHTAGS: #shorts #thetemptations #soulmusic #basscover
+  PIN: "That simple ascending bassline is arguably the most famous riff of the 60s. The full video is waiting for you above — give it a watch and tell me your favorite soul singer! 👇🎸"
+  LF: 2v frozen | CTR 0.5 edge | AVD 0:06 (-0:34 = worst real-data badge) | Browse 50 / search 50 | 🚨 PC-100% | not-sub 100% | LF TITLE: "Jamming the most famous soul bassline of the 1960s!"
+  NOTE: evergreen Motown/James Jamerson search bait — SF carries the pair; LF skip-class. Caption angle: "the most famous bassline of the 60s" (James Jamerson).
+0037 | A Change Of Pace - Weekend Warriors | published 18-06-2026
+  SF: 27v (+6) | £0.002 | 🚨 stayed 50.0 = NEW HOOK RECORD (caveat: AVD only 0:08 = pause-then-bail) | search 63.0 (#7 share) / channel 22.2 / feed 11.1 | not-sub 79.6 | mobile 76.3 / PC 16.5 / tablet 7.9 | realtime 0
+  TERMS: weekend warriors ≈2 | weekend warriors a change of pace ≈1 (both in-box) | banned bares rocksmith / rocksmith 2014 -> never use
+  SF TITLE: "Fast post-hardcore fingerstyle on the Thunderbird! #shorts #bass"
+  SF DESC:
+    Channeling that raw 2000s underground energy with A Change Of Pace's 'Weekend Warriors'! This post-hardcore track requires some serious fingerstyle stamina to keep up with the fast pop-punk rhythm sections.
+    
+    🟣 Catch the full intense bass cover pinned above!
+    
+    #shorts #achangeofpace #posthardcore #bass
+  HASHTAGS: #shorts #achangeofpace #posthardcore #bass
+  PIN: "Keeping the plucking hand locked in at this speed is always a fun challenge. The full playthrough is linked above — go check it out, and tell me your favorite punk subgenre! 👇🎸"
+  LF: 0 VIEWS EVER (2nd zero-view lifer) | imp 38 weakest serve | rec-serve 7.0 | SKIP | LF TITLE: "Revisiting the golden age of 2000s post-hardcore bass!"
+  NOTE: hook% record is a PAUSE artifact (0:08 AVD), not a watch record — if reposted, use a mid-clip payoff caption. 2000s post-hardcore nostalgia angle. LF skip. Matched legacy cut 2132S 475v (feed winner) comes in the cross-check phase.
+0038 | Bush - Comedown | published 18-06-2026
+  SF: 27v (+6) | £0.004 | stayed 39.3 | AVD 0:20 (loop-rewatch shape, ~150% open) | search 50.0 / feed 30.8 / channel 19.2 | not-sub 95.7 | mobile 89.6 / TV 8.3 | realtime 0
+  TERMS: bush ≈2 (2nd Bush pack earning bare artist — promote-if watch) | bush comedown ≈1 | rocksmith bass ≈1 (mandatory #16)
+  SF TITLE: "Falling into the most hypnotic grunge bass groove of 1994! #shorts #bass"
+  SF DESC:
+    Falling into the dark, creeping low-end of Bush's 90s classic 'Comedown'! Dave Parsons' iconic post-grunge bassline is trance-like and incredibly fun to lock into, especially with the deep tone of the Thunderbird.
+    
+    🟣 The full atmospheric playthrough is pinned right up top!
+    
+    #shorts #bush #grunge #basscover
+  HASHTAGS: #shorts #bush #grunge #basscover
+  PIN: "There's nothing quite like a heavily distorted 90s rock groove. The full video is waiting for you above — give it a watch and let me know your favorite Bush song! 👇🎸"
+  LF: 2v frozen | 5:27 runtime | AVD 1:03 with +0:01 POSITIVE badge (whoever lands, stays) | search 50 / Other-YT 50 | PC 90.4 / TV 9.6 | not-sub 100% | LF TITLE: "Dave Parsons' hypnotic grunge bassline is a 90s masterpiece!"
+  NOTE: 90s grunge hypnotic-groove angle; SF loop-rewatch shape = good loop-point repost candidate; "hypnotic" is the caption word that matches search intent. LF quality read positive despite tiny reach.
+0039 | Pat Benatar - Hit Me With Your Best Shot | published 18-06-2026
+  SF: 932v ("872 more") = SHELF #2 ASSET, FEED-LOTTERY #2 CONFIRMED CLEAN | £0.06 | stayed 39.0 | AVD 0:18 | WT 2.1h (+1.1) | feed 92.7 | engaged 359 / UV 349 (2.7 v/u clean) | not-sub 94.5 | geo US-led 22.3 / CA 3.8 / DE 3.7 | watch-behaviour New 90.0 | mobile 78.4 | realtime 0
+  TERMS: hit me with your best shot ≈5 (in-box, karaoke-culture phrase) | backing-track ≈1 (family) | billi / flamenco guitar tutorial -> noise | bare bass -> never
+  SF TITLE: "Massive 80s arena-rock vibes on the Thunderbird! #shorts #bass"
+  SF DESC:
+    Delivering the ultimate 1980s power-pop energy with Pat Benatar's 'Hit Me With Your Best Shot'! The driving bassline on this classic rock anthem is perfectly suited for heavy high-speed fingerstyle on the Thunderbird.
+    
+    🟣 The full energetic rock session is pinned above!
+    
+    #shorts #patbenatar #arenarock #basscover
+  HASHTAGS: #shorts #patbenatar #arenarock #basscover
+  PIN: "The energy of 80s rock tracks is just completely unmatched. The full video is waiting for you above — check it out and tell me your favorite Pat Benatar song! 👇🎸"
+  LF: 9v frozen | CTR 0.9 top-band | AVD 0:26 (-0:14) | Browse 66.7 + Related-Shorts 11.1 (first) | subs-WT 73.1 = FIRST sub-majority LF | likes 100% | LF TITLE: "Fueling the ultimate 1980s arena pop anthem!"
+  NOTE: TOP-TIER repost candidate: proven big asset with karaoke/backing-track search culture + US-led geo — try US-evening (UK 00:00/01:00) slots; "arena anthem" caption angle. LF optional companion.
+0040 | Led Zeppelin - Black Dog | published 18-06-2026
+  SF: 136v (+7, "76 more") | £0.004 | stayed 24.8 (swipe-heavy 75.7) | AVD 0:17 | feed 71.3 / search 22.8 | engaged 34 / UV 32 | sub-WT 43.4 = loyal-core outlier | mobile 89.3 | realtime 0
+  TERMS: 🏆 black dog ≈14 (45.2% frozen share = VALIDATION #10, biggest built-tag earner of the era) | black dog song ≈1 | led zeppelin black dog ≈1 | rocksmith led zeppelin ≈1 (all in-box)
+  SF TITLE: "Navigating Led Zeppelin's trickiest rhythmic riff! #shorts #bass"
+  SF DESC:
+    Trying to survive the twisted blues-rock rhythms of Led Zeppelin's 'Black Dog'! John Paul Jones wrote this riff specifically to be difficult to follow, and the Thunderbird handles those heavy, winding low-end runs perfectly.
+    
+    🟣 The full classic rock challenge is linked right up top!
+    
+    #shorts #ledzeppelin #hardrock #bass
+  HASHTAGS: #shorts #ledzeppelin #hardrock #bass
+  PIN: "Those odd time turnarounds are incredibly tough to lock into. The full playthrough is waiting for you above — give it a watch and let me know your favorite 70s rock band! 👇🎸"
+  LF: 13v frozen ("8 more") | imp 2.6k = LF SERVE RECORD | CTR 0.4 (sub-0.5 row #8) | Suggested 46.2 (5-way eclectic split) / Browse 30.8 | rec-serve 75.8 (#3) | AVD 0:49 | likes 100% | PC 73.8 / TV 18.7 | LF TITLE: "Zeppelin's secret weapon wrote the ultimate twisted blues-rock riff!"
+  NOTE: Zeppelin brand = impressions magnet BUT swipe-heavy — repost as SEARCH-caption play ("black dog" = the query that pays), not a feed play. LF = thumbnail/title experiment candidate (2.6k imp at only 0.4% CTR). Skip if only picking winners.
+0041 | Maroon 5 - Harder To Breathe | published 17-06-2026
+  SF: 22v (+4; "18 less" under-badge) | £0.002 | stayed 48.0 = HOOKS TIE #3 | AVD 0:15 | search 66.7 (#6 share) + Sound pages 4.8 | not-sub 91.2 | mobile 77.2 | realtime 0
+  TERMS: 🏆 harder to breathe ≈4 (28.6% frozen share = VALIDATION #11) | maroon 5 ≈1 (both in-box)
+  SF TITLE: "Funky early 2000s attitude on the Thunderbird! #shorts #bass"
+  SF DESC:
+    Radiating some early 2000s attitude with Maroon 5's 'Harder To Breathe'! Mickey Madden's bassline is deceptively aggressive and punchy, and the Thunderbird handles the funk-rock pocket beautifully.
+    
+    🟣 The full heavy groove is waiting right above!
+    
+    #shorts #maroon5 #funkrock #basscover
+  HASHTAGS: #shorts #maroon5 #funkrock #basscover
+  PIN: "The groove on this track is so incredibly tight. The full playthrough is waiting right above — go check it out and let me know your top Maroon 5 song! 👇🎸"
+  LF: 4v frozen | CTR 2.3 top-band | search 50 / Related-Shorts 50 | AVD 0:09 (-0:31) | PC 89.5 | not-sub 100% | LF TITLE: "Pumping out the aggressive funk-pop bassline that launched Maroon 5!"
+  NOTE: search+sound-listing discovery with a record-class hook — small but well-targeted; "funk-pop" + song-name captions are the engine. Repost-worthy as a search play despite low views (hook ratio says first-seconds land). LF skip-class.
+0042 | Blink-182 - All The Small Things | published 17-06-2026
+  SF: 55v (+5) | £0.003 | stayed 40.4 | AVD 0:21 | feed 69.1 / search 18.2 / channel 14.6 | engaged 20 / UV 20 (1:1) | not-sub 86.5 | mobile 88.4 | realtime 0
+  TERMS: 🏆 all small things ≈1 (typo-variant, frozen 10.0% = VALIDATION #12) | banned bares rocksmith / rocksmith 2014 -> never use
+  SF TITLE: "Unstoppable 1999 pop-punk energy! #shorts #bass"
+  SF DESC:
+    Grinding out the most famous pop-punk bassline of all time with Blink-182's 'All The Small Things'! Mark Hoppus' fast, aggressive eighth-note playing is a true endurance test, and it sounds huge on the Thunderbird.
+    
+    🟣 The full high-speed pop-punk anthem is pinned above!
+    
+    #shorts #blink182 #poppunk #bass
+  HASHTAGS: #shorts #blink182 #poppunk #bass
+  PIN: "Sometimes playing fast and simple is all you need. The full jam is linked above — tap it and let me know your favorite Blink-182 record! 👇🎸"
+  LF: 2v frozen | imp 605 with 0.0% funnel CTR = served-not-clicked | rec-serve 77.0 (#3) | AVD 0:12 (-0:28) | 🚨 PC-100% | not-sub 100% | LF TITLE: "Driving through the ultimate 1999 skate-punk anthem!"
+  NOTE: mid-tier feed short with evergreen 1999 pop-punk nostalgia value; decent hook (40.4) but nothing elite — repost only as filler/nostalgia slots. LF skip (engine serves, nobody clicks = thumbnail/curiosity gap).
+0043 | Atreyu - Falling Down | published 17-06-2026
+  SF: 41v (FIRST CLEAN READ — replaces corrupted set) | £0.003 | stayed 23.7 = LOW HOOK | AVD 0:12 | feed 67.5 / search 20.0 / Sound 2.5 | engaged 10 / UV 10 (1:1) | not-sub 92.7 | mobile 55.3 / PC 45.3 | realtime 0
+  TERMS: search panel natively empty (insufficient at this size) — nothing winning yet; in-box: falling down bass, atreyu bass, rocksmith bass, metalcore bass cover
+  SF TITLE: "Aggressive dropped-tuned metalcore on the Thunderbird! #shorts #bass"
+  SF DESC:
+    Firing up the heavy distortion for Atreyu's classic 'Falling Down'! The metalcore riffs are fast, aggressive, and incredibly satisfying to unleash with a heavy fingerstyle attack on the Thunderbird.
+    
+    🟣 The full heavy metal cover is linked right up top!
+    
+    #shorts #atreyu #metalcore #basscover
+  HASHTAGS: #shorts #atreyu #metalcore #basscover
+  PIN: "Endurance is the key to surviving these tracks. The full high-energy cover is waiting above — go give it a watch and tell me your top Atreyu track! 👇🎸"
+  LF: 3v frozen | CTR 1.3 | 3-way 33.3 tie (Direct/search/Related-Shorts) | AVD 0:09 (-0:31) | PC 82.8 | not-sub 100% | LF TITLE: "Hammering some heavy 2007 metalcore riffs on the bass!"
+  NOTE: small-but-real metalcore niche; 76% of impressions = no hook (skip for reposts). If ever reused: 2007 metalcore nostalgia (Lead Sails era) angle only. Both formats SKIP-class.
+0044 | 04 Limited Sazabys - Galapagos | published 17-06-2026
+  SF: 55v (+3) | £0.002 | stayed 20.4 = LOW HOOK | AVD 0:10 | feed 63.0 / search 24.1 / External 3.7 | engaged 12 / UV 12 (1:1) | not-sub 84.2 | mobile 95.2 | realtime 0
+  TERMS: 🎸 rocksmith bass ≈1 (mandatory #17) | 🏆 04 limited sazabys live ≈1 (VALIDATION #13) | banned bares rocksmith/rocksmith 2014 -> never | seiji igusa bass -> noise
+  SF TITLE: "Lightning fast J-Rock grooves! #shorts #bass"
+  SF DESC:
+    Sprinting to keep up with the absurd tempo of 'Galapagos' by 04 Limited Sazabys! This Japanese melodic punk track is an insane test of fingerstyle speed and precision for the plucking hand.
+    
+    🟣 The full hyper-speed playthrough is pinned above!
+    
+    #shorts #jrock #poppunk #bass
+  HASHTAGS: #shorts #jrock #poppunk #bass
+  PIN: "My right hand was completely dead after tracking this one. The full speed-run is pinned up top — go watch it and drop your favorite J-Rock band! 👇🎸"
+  LF: 2v frozen | vfi 0 = served-not-clicked | AVD 0:50 = the 2 who land actually WATCH | Mobile-100% | not-sub 100% | LF TITLE: "Speeding through the fastest J-punk bassline on my channel!"
+  NOTE: J-punk has a REAL hidden fanbase: this song's LEGACY shorts are channel top-tier (2307S 3.9k / 0587S 1,102 / 0752S 1,089 — cross-check phase). Galapagos reposts are justified by legacy equity, not by this pack's numbers; "04 limited sazabys" + "fight so dirty" lyric hook are the caption terms. LF skip.
+0045 | Fang Island - Chompers | published 17-06-2026
+  SF: 27v (+4; "13 less" under-badge) | £0.002 | stayed 26.9 (rising, still low) | AVD 0:15 | feed 46.2 / search 34.6 / External 7.7 | engaged 9 / UV 9 (1:1) | not-sub 83.5 | mobile 81.8 | realtime 0
+  TERMS: 🏆 chomper ≈2 (singular typo-variant = VALIDATION #14) | chomper bass cover (in-box compound)
+  SF TITLE: "Joyful indie math-rock riffs! #shorts #bass"
+  SF DESC:
+    Decoding the chaotic, high-energy math-rock patterns of Fang Island's 'Chompers'! The weird time signatures are a fun brain puzzle, and the Thunderbird handles these punchy, intricate grooves so well.
+    
+    🟣 The full weirdly-timed jam is linked right above!
+    
+    #shorts #mathrock #indierock #basscover
+  HASHTAGS: #shorts #mathrock #indierock #basscover
+  PIN: "Complex rhythms are the ultimate brain workout for bassists. The full track is linked above — check it out and tell me your favorite indie band! 👇🎸"
+  LF: 6v frozen | 🚨 rec-serve 88.4 (#2) = engine pushing, CTR 0.5 edge = thumbnail gap | 4-way lanes | AVD 0:13 (-0:27) | 🚨 TV 46.7% | not-sub 100% | LF TITLE: "Exploring the craziest math-rock indie groove from 2012!"
+  NOTE: math-rock niche is real but tiny; mid-low hook = filler repost at best. LF gets heavy engine serve with no click conversion — thumbnail/title curiosity gap, not an audience problem. Both formats skip-lean.
+0046 | Blink-182 - Dammit | published 17-06-2026
+  SF: 29v (+4; "11 less" under-badge = HEADROOM) | £0.003 | 🚨 stayed 55.6 = NEW HOOK RECORD (AVD 0:19 = quality, not pause-artifact) | search 60.7 (SEARCH MONSTER) / channel 25.0 | engaged 16 / UV 15 | not-sub 95.9 | mobile 87.4 | realtime 0
+  TERMS: 🏆 dammit ≈1 (purge-swap winner = VALIDATION #15) | 🎸 rocksmith bass ≈1 (mandatory #18) | banned bares rocksmith/rocksmith 2014 -> never | slopsmith -> banned residue
+  SF TITLE: "Iconic 1997 pop-punk skate vibes! #shorts #bass"
+  SF DESC:
+    Pumping out the classic 1997 skate-punk energy with Blink-182's 'Dammit'! Mark Hoppus' driving eighth-note bassline is the ultimate pop-punk endurance test, and it sounds huge on the Thunderbird.
+    
+    🟣 The full nostalgic rock jam is linked right above!
+    
+    #shorts #blink182 #poppunk #basscover
+  HASHTAGS: #shorts #blink182 #poppunk #basscover
+  PIN: "This riff is exactly what learning bass in the 90s sounded like. The full nostalgic cover is linked above — tap it and tell me your first bass song! 👇🎸"
+  LF: 2v frozen | CTR 0.9 | search 50 / Related-Shorts 50 | AVD 0:22 (-0:18) | mobile 91.5 | not-sub 100% | LF TITLE: "Channeling the iconic pop-punk intro of Blink-182's Dammit!"
+  NOTE: ⭐ BEST REPOST PICK of the 17-Jun wave — record hook + search-monster + one-word caption power ("dammit") + under-badge headroom. 1997 skate-punk nostalgia lands in US/UK evenings. LF skip-class.
+0047 | AFI - Totalimmortal | published 17-06-2026
+  SF: 19v (+3; "21 less" under-badge = headroom) | £0.001 | 🚨 stayed 56.3 = NEW HOOK RECORD (19v sample flag, AVD 0:19 = quality hold) | search 55.6 / channel 16.7 / feed 11.1 | engaged 10 / UV 8 | not-sub 93.4 | mobile 92.7 | realtime +1v/48h 100% search = STILL WARM
+  TERMS: afi ≈6 (in-box golden) | afi reaction ≈2 (evidence-restored, corroborated) | rocksmith bass ≈2 (mandatory #19) — all in-box
+  SF TITLE: "Horror-punk bass energy on AFI's Totalimmortal! #shorts #bass"
+  SF DESC:
+    Conjuring the raw horror-punk energy of AFI's 1999 classic 'Totalimmortal'! Hunter Burgan's basslines are insanely fast and technical, making this an absolute sprint for the plucking hand on the Thunderbird.
+    
+    🟢 The full high-speed punk cover is pinned right up top!
+    
+    #shorts #afi #horrorpunk #bass
+  HASHTAGS: #shorts #afi #horrorpunk #bass
+  PIN: "The raw energy of early AFI is completely unmatched. The full heavy playthrough is pinned above — go give it a watch and drop your favorite punk subgenre! 👇🎸"
+  LF: 4v frozen | AVD 1:30 with +0:28 badge (2nd-biggest positive read) | search 50 / Ext 25 / Related-Shorts 25 | imp 167 / CTR 0.6 | Mobile 55 / PC 45 | not-sub 100% | LF TITLE: "Mastering the dark, horror-punk basslines of AFI's Totalimmortal!"
+  NOTE: ⭐ #2 repost pick of the 17-Jun wave (behind 0046S): record hook + search-lane + STILL WARM (earning 1v/48h right now via search). Caption "afi" + "horror-punk" angles; legacy ancestor 1707S (528v evergreen) proves the niche endures — cross-check phase. LF skip-class.
+0048 | The Kinks - You Really Got Me | published 17-06-2026
+  SF: 270v (+4, about-usual) | £0.01 | stayed 24.3 = LOW HOOK (75.7% swipes) | AVD 0:15 | feed 89.6 = FEED-LANE anchor of the wave / search 5.2 | engaged 66 / UV 62 | New-viewers 83.9 | mobile 80.1 / TV 5.2 / Tablet 1.6 | realtime 0 (cooled)
+  TERMS: rocksmith bass ≈2 (mandatory #20) | you really got me ≈1 | you really got me the kinks ≈1 — all golden in-box
+  SF TITLE: "Proto-metal garage rock from 1964! #shorts #bass"
+  SF DESC:
+    Rewinding to 1964 with the heavy garage rock distortion of The Kinks' 'You Really Got Me'! The raw, aggressive bassline essentially invented hard rock, and the Thunderbird delivers that vintage grit perfectly.
+    
+    🟢 The full vintage rock jam is linked right above!
+    
+    #shorts #thekinks #hardrock #basscover
+  HASHTAGS: #shorts #thekinks #hardrock #basscover
+  PIN: "You can hear the exact moment proto-metal was born in this track. The full vintage jam is waiting above — check it out and tell me your favorite Kinks song! 👇🎸"
+  LF: 11v (+2, "+5 more" badge) | Browse 70.0 + NEW search lane 10.0 | CTR 0.7 | AVD 0:22 | retention surfaced 16.7% | bell 191 pushes / 0% | likes 100% | LF TITLE: "Chugging through the heavy proto-metal roots of The Kinks!"
+  NOTE: mid-shelf feed short with the "1964 = birth of proto-metal" history-buff angle — filler repost at best; LOW 24.3 hook = skip on quality picks. Legacy 0889S (901v) outperforms it — the ancestor is the family's better repost asset (post-0050 cross-check). LF skip.
+0049 | Slipknot - Killpop | published 16-06-2026
+  SF: 727v (+4; "83 less" under-badge = headroom) | £0.03 | stayed 30.8 byte-FROZEN | AVD 0:15 | feed 92.3 = FEED-LANE | engaged 226 / UV 219 (1.03 clean) | geo US 10.3 / Indonesia 8.7 / DE 3.3 / RU 3.3 | New-viewers 89.5 | mobile 82.3 / TV 5.3 | realtime +1v/48h = FIRST FEED-class warm tail
+  TERMS: slipknot ≈10 (bare-artist built tag = biggest active earner, golden in-box) | bass covers of popular songs ≈1 (evidence-restored, earning) | bz / do dil ek jaan -> noise | bass cover songs -> dupe-class
+  SF TITLE: "Gothic metal grooves on Slipknot's 'Killpop'! #shorts #bass"
+  SF DESC:
+    Channeling the dark, brooding energy of Slipknot's 'Killpop'! The transition from those moody, atmospheric verses into the heavy alternative metal chorus sounds absolutely massive on the Thunderbird.
+    
+    🟣 Watch the full dynamic metal cover pinned right above!
+    
+    #shorts #slipknot #heavymetal #basscover
+  HASHTAGS: #shorts #slipknot #heavymetal #basscover
+  PIN: "Drop-tuned metal always feels so heavy and satisfying to play. The full track is waiting for you above — go check it out and tell me your favorite modern metal band! 👇🎸"
+  LF: 12v (+1) | Browse 66.7 + Related-Shorts 8.3 NEW | CTR 1.0 (revised) | AVD 0:24 (-0:13) | bell 193 pushes/0 = channel-record dead-bell | likes 100% | LF TITLE: "V-Man's dark gothic-metal basslines on 'Killpop' are heavy!"
+  NOTE: 🏆 SHELF #4 ASSET — Slipknot brand carries BOTH feed and search culture; repost at US-evening slots (00:00/01:00 UK) with "slipknot" + "gothic metal" captions; the bare `slipknot` term proves fans type it. ✅ bespoke titles confirmed LIVE both formats. LF skip-class.
+0050 | (Hed) P.E. - Bartender | published 16-06-2026
+  SF: 64v (+1; "746 less" = DEEPEST under-badge on record) | £0.003 | stayed 28.6 frozen across 3 reads | AVD 0:12 | feed 77.8 = FEED-LOTTERY LOSS | engaged 18 / UV 16 | not-sub 75.3 | realtime 0
+  TERMS: bartender song ≈1 | hed pe ≈1 (both byte-STABLE across 3 reads, in-box) — nothing else portable
+  SF TITLE: "Bouncy 2000s rap-metal vibes on the Thunderbird! #shorts #bass"
+  SF DESC:
+    Reviving the ultimate early 2000s rapcore energy with (Hed) P.E.'s 'Bartender'! The bouncy, syncopated hip-hop groove mixes perfectly with the heavy guitars, and it sounds huge on the Thunderbird.
+    
+    🟣 The full heavy groove is linked right up top!
+    
+    #shorts #hedpe #numetal #bass
+  HASHTAGS: #shorts #hedpe #numetal #bass
+  PIN: "Nu metal basslines are always so rhythmically fun to lock into. The full playthrough is waiting for you above — give it a watch and let me know your top track from the year 2000! 👇🎸"
+  LF: 5v frozen (+1 SUB banked — paradox with non-sub WT 100%) | CTR 2.5 = best-of-block class | funnel VFI 3 / 0:31 | Browse 40 / Channel 40 / Related-Shorts 20 | AVD 0:30 | realtime cooled 1->0 | LF TITLE: "Locking into the ultimate 2000s rap-metal club anthem!"
+  NOTE: THE lottery-loss exhibit: same June dead-zone where 0049S (near-identical hook 30.8 vs 28.6) won 727v — content was fine, distribution wasn't. Repost theory: ONE peak slot (17:00/21:00 UK) as a classifier re-roll with "bartender song" / "hed pe" / "2000s nu metal" captions; legacy 0914S (915v, +3 subs) = the family's proven earner (cross-check phase NOW OPEN). LF skip.
+===============================================================================
+CHANNEL TIMING CONTEXT (for timezone math)
+- Channel operates Europe/London. YT ship slots used for new uploads: 00:00 / 08:00 / 12:00 / 17:00 / 21:00 UK.
+- Audience geo (where shipped): UK-heavy + US second on big SFs (0002S UK 36/US 5 + India-lane 31 farm-spill; 0001S UK 35/US 15; 0029S US-led; 0030S US 20; 0039S US-led 22; 0049S US 10.3 / Indonesia 8.7). Core demo: male ~100%, 25-44.
+- Era anatomy: shelf is SEARCH-LED (evergreen captions pay); TWO clean feed-lotteries on record (0029S 801v spiked day-1/2; 0039S 932v same day-1 spike shape — no slot pattern proven).
+- Realtime signal live now: 0035S earning 2v/48h purely from search; 0047S +1v/48h also 100% search (the search shelf stays warm); 0049S +1v/48h = FIRST FEED-class warm tail.
+===============================================================================

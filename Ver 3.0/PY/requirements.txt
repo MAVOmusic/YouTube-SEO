@@ -1,0 +1,13 @@
+# MAVOmusic workspace toolchain requirements (VER 3.0 - 2026-11-01)
+#
+# Python 3.9+ (developed on 3.13).
+#
+# The ONLY third-party dependency in the whole toolchain. Everything else is
+# stdlib. Without it, generate_track_history.py still writes the CSV but
+# SILENTLY SKIPS the XLSX (it sets has_openpyxl = False), which is exactly how
+# the .xlsx fell out of sync with the .csv before VER 3.0.
+#
+#   pip install -r PY/requirements.txt
+#   (PEP 668 systems / Debian:  pip install --break-system-packages -r PY/requirements.txt)
+#
+openpyxl>=3.1

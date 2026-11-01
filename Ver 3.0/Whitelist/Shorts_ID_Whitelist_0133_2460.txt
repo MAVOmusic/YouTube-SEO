@@ -1,0 +1,178 @@
+# MAVOmusic (@mavomusicyt) - SHORTS ID WHITELIST (0133 to 2460) - VER 1.57 (2026-07-19)
+# 172 approved Shorts IDs = 18 canonical-in-range live packages + 154 canonical-matched alternate cuts.
+# Regenerated from master documents by PY/build_master_under_review.py. Zero ghost-prefixed IDs.
+# Columns: ID | STATUS | CANONICAL TARGET | ARTIST - SONG | PACKAGE PATH (if live)
+====================================================================================================
+
+0133 | CANONICAL-LIVE | 0133 | Michael Jackson - Billie Jean | bands/M/Michael_Jackson/Billie_Jean/0133/17-07-2026.md
+0134 | CANONICAL-LIVE | 0134 | Eminem - Rap God | bands/E/Eminem/Rap_God/0134/17-07-2026.md
+0135 | CANONICAL-LIVE | 0135 | Amon Amarth - Raise Your Horns | bands/A/Amon_Amarth/Raise_Your_Horns/0135/17-07-2026.md
+0136 | CANONICAL-LIVE | 0136 | Korpiklaani - Rauta | bands/K/Korpiklaani/Rauta/0136/17-07-2026.md
+0137 | CANONICAL-LIVE | 0137 | Moonsorrow - Pakanajuhla | bands/M/Moonsorrow/Pakanajuhla/0137/17-07-2026.md
+0138 | CANONICAL-LIVE | 0138 | Amon Amarth - Fate Of Norns | bands/A/Amon_Amarth/Fate_Of_Norns/0138/17-07-2026.md
+0139 | CANONICAL-LIVE | 0139 | Our Last Night - Fate | bands/O/Our_Last_Night/Fate/0139/17-07-2026.md
+0140 | CANONICAL-LIVE | 0140 | Avenged Sevenfold - Bat Country | bands/A/Avenged_Sevenfold/Bat_Country/0140/17-07-2026.md
+0141 | CANONICAL-LIVE | 0141 | The Used - All That I've Got | bands/T/The_Used/All_That_Ive_Got/0141/17-07-2026.md
+0142 | CANONICAL-LIVE | 0142 | The Amity Affliction - Don't Lean On Me | bands/T/The_Amity_Affliction/Dont_Lean_On_Me/0142/17-07-2026.md
+0143 | CANONICAL-LIVE | 0143 | Slipknot - Danger - Keep Away | bands/S/Slipknot/Danger_-_Keep_Away/0143/17-07-2026.md
+0144 | CANONICAL-LIVE | 0144 | Finntroll - Slaget Vid Blodsalv | bands/F/Finntroll/Slaget_Vid_Blodsalv/0144/17-07-2026.md
+0145 | CANONICAL-LIVE | 0145 | Mastodon - Blood And Thunder | bands/M/Mastodon/Blood_And_Thunder/0145/17-07-2026.md
+0146 | CANONICAL-LIVE | 0146 | Wind Rose - Diggy Diggy Hole | bands/W/Wind_Rose/Diggy_Diggy_Hole/0146/17-07-2026.md
+0147 | CANONICAL-LIVE | 0147 | Suicide Silence - Unanswered | bands/S/Suicide_Silence/Unanswered/0147/17-07-2026.md
+0148 | CANONICAL-LIVE | 0148 | Mudvayne - Dig | bands/M/Mudvayne/Dig/0148/17-07-2026.md
+0149 | CANONICAL-LIVE | 0149 | Slipknot - People=Shit | bands/S/Slipknot/People=Shit/0149/17-07-2026.md
+0150 | CANONICAL-LIVE | 0150 | Infected Mushroom - Send Me An Angel | bands/I/Infected_Mushroom/Send_Me_An_Angel/0150/17-07-2026.md
+0180 | MATCHED-LIVE    | 0074 | Pegboard Nerds - Heaven Let Us Down | bands/P/Pegboard_Nerds/Heaven_Let_Us_Down/0180/17-07-2026.md
+0184 | MATCHED-LIVE    | 0082 | Jawbreaker - Accident Prone | bands/J/Jawbreaker/Accident_Prone/0184/17-07-2026.md
+0187 | MATCHED-LIVE    | 0053 | Pendulum - 9,000 Miles | bands/P/Pendulum/9,000_Miles/0187/20-04-2026.md
+0191 | MATCHED-LIVE    | 0059 | Coheed And Cambria - A Favor House Atlantic | bands/C/Coheed_And_Cambria/A_Favor_House_Atlantic/0191/20-04-2026.md
+0192 | MATCHED-LIVE    | 0058 | BrokeNCYDE - 2 Drunk 2 Drive | bands/B/BrokeNCYDE/2_Drunk_2_Drive/0192/20-04-2026.md
+0197 | MATCHED-LIVE    | 0089 | Scorpions - Wind Of Change | bands/S/Scorpions/Wind_Of_Change/0197/17-07-2026.md
+0204 | MATCHED-LIVE    | 0131 | Radiohead - Paranoid Android | bands/R/Radiohead/Paranoid_Android/0204/17-07-2026.md
+0255 | MATCHED-LIVE    | 0058 | BrokeNCYDE - 2 Drunk 2 Drive | bands/B/BrokeNCYDE/2_Drunk_2_Drive/0255/30-11-2025.md
+0258 | MATCHED-LIVE    | 0074 | Pegboard Nerds - Heaven Let Us Down | bands/P/Pegboard_Nerds/Heaven_Let_Us_Down/0258/17-07-2026.md
+0285 | MATCHED-LIVE    | 0104 | Ado - Usseewa | bands/A/Ado/Usseewa/0285/17-07-2026.md
+0372 | MATCHED-LIVE    | 0120 | Burzum - Autumn Leaves | bands/B/Burzum/Autumn_Leaves/0372/17-07-2026.md
+0375 | MATCHED-LIVE    | 0028 | American Hi-Fi - Flavor Of The Weak | bands/A/American_Hi-Fi/Flavor_Of_The_Weak/0375/26-10-2025.md
+0376 | MATCHED-LIVE    | 0024 | American Authors - Best Day Of My Life | bands/A/American_Authors/Best_Day_Of_My_Life/0376/24-10-2025.md
+0386 | MATCHED-LIVE    | 0061 | Rammstein - Adieu | bands/R/Rammstein/Adieu/0386/23-10-2025.md
+0387 | MATCHED-LIVE    | 0099 | Nirvana - The Man Who Sold The World | bands/N/Nirvana/The_Man_Who_Sold_The_World/0387/17-07-2026.md
+0388 | MATCHED-LIVE    | 0114 | Megadeth - Sweating Bullets | bands/M/Megadeth/Sweating_Bullets/0388/17-07-2026.md
+0390 | MATCHED-LIVE    | 0110 | HIM (His Infernal Majesty) - Wings Of A Butterfly | bands/H/HIM_(His_Infernal_Majesty)/Wings_Of_A_Butterfly/0390/17-07-2026.md
+0407 | MATCHED-LIVE    | 0124 | Arctic Monkeys - Do I Wanna Know? | bands/A/Arctic_Monkeys/Do_I_Wanna_Know/0407/17-07-2026.md
+0418 | MATCHED-LIVE    | 0113 | Pendulum - Fasten Your Seatbelt | bands/P/Pendulum/Fasten_Your_Seatbelt/0418/17-07-2026.md
+0421 | MATCHED-LIVE    | 0122 | Rise Against - Savior | bands/R/Rise_Against/Savior/0421/17-07-2026.md
+0426 | MATCHED-LIVE    | 0060 | Avenged Sevenfold - A Little Piece Of Heaven | bands/A/Avenged_Sevenfold/A_Little_Piece_Of_Heaven/0426/18-10-2025.md
+0428 | MATCHED-LIVE    | 0111 | System Of A Down - Toxicity | bands/S/System_Of_A_Down/Toxicity/0428/17-07-2026.md
+0437 | MATCHED-LIVE    | 0128 | Metallica - Nothing Else Matters | bands/M/Metallica/Nothing_Else_Matters/0437/17-07-2026.md
+0460 | MATCHED-LIVE    | 0106 | Tom Misch - Disco Yes | bands/T/Tom_Misch/Disco_Yes/0460/17-07-2026.md
+0500 | MATCHED-LIVE    | 0123 | The Offspring - Gone Away | bands/T/The_Offspring/Gone_Away/0500/17-07-2026.md
+0517 | MATCHED-LIVE    | 0039 | Pat Benatar - Hit Me With Your Best Shot | bands/P/Pat_Benatar/Hit_Me_With_Your_Best_Shot/0517/03-10-2025.md
+0523 | MATCHED-LIVE    | 0096 | Linkin Park - Lying From You | bands/L/Linkin_Park/Lying_From_You/0523/17-07-2026.md
+0553 | MATCHED-LIVE    | 0073 | Rammstein - Amour | bands/R/Rammstein/Amour/0553/17-07-2026.md
+0560 | MATCHED-LIVE    | 0101 | Paramore - Decode | bands/P/Paramore/Decode/0560/17-07-2026.md
+0587 | MATCHED-LIVE    | 0044 | 04 Limited Sazabys - Galapagos | bands/0-9/04_Limited_Sazabys/Galapagos/0587/11-09-2025.md
+0588 | MATCHED-LIVE    | 0140 | Avenged Sevenfold - Bat Country | bands/A/Avenged_Sevenfold/Bat_Country/0588/17-07-2026.md
+0590 | MATCHED-LIVE    | 0086 | Die Antwoord - Enter The Ninja | bands/D/Die_Antwoord/Enter_The_Ninja/0590/17-07-2026.md
+0605 | MATCHED-LIVE    | 0135 | Amon Amarth - Raise Your Horns | bands/A/Amon_Amarth/Raise_Your_Horns/0605/17-07-2026.md
+0615 | MATCHED-LIVE    | 0095 | Rammstein - Du Hast | bands/R/Rammstein/Du_Hast/0615/17-07-2026.md
+0620 | MATCHED-LIVE    | 0103 | Linkin Park - Numb | bands/L/Linkin_Park/Numb/0620/17-07-2026.md
+0637 | MATCHED-LIVE    | 0053 | Pendulum - 9,000 Miles | bands/P/Pendulum/9,000_Miles/0637/07-09-2025.md
+0650 | MATCHED-LIVE    | 0072 | Rammstein - Hilf Mir | bands/R/Rammstein/Hilf_Mir/0650/17-07-2026.md
+0658 | MATCHED-LIVE    | 0127 | +44 (Plus 44) - Chapter XIII | bands/Special Characters/+44_(Plus_44)/Chapter_XIII/0658/17-07-2026.md
+0665 | MATCHED-LIVE    | 0014 | System Of A Down - Hypnotize | bands/S/System_Of_A_Down/Hypnotize/0665/04-09-2025.md
+0666 | MATCHED-LIVE    | 0100 | My Chemical Romance - Dead! | bands/M/My_Chemical_Romance/Dead!/0666/17-07-2026.md
+0673 | MATCHED-LIVE    | 0070 | Rammstein - Amerika | bands/R/Rammstein/Amerika/0673/17-07-2026.md
+0678 | MATCHED-LIVE    | 0098 | Billy Talent - Red Flag | bands/B/Billy_Talent/Red_Flag/0678/17-07-2026.md
+0680 | MATCHED-LIVE    | 0130 | Motionless In White - Another Life | bands/M/Motionless_In_White/Another_Life/0680/17-07-2026.md
+0697 | MATCHED-LIVE    | 0087 | System Of A Down - Lonely Day | bands/S/System_Of_A_Down/Lonely_Day/0697/17-07-2026.md
+0698 | MATCHED-LIVE    | 0095 | Rammstein - Du Hast | bands/R/Rammstein/Du_Hast/0698/17-07-2026.md
+0702 | MATCHED-LIVE    | 0130 | Motionless In White - Another Life | bands/M/Motionless_In_White/Another_Life/0702/17-07-2026.md
+0705 | MATCHED-LIVE    | 0055 | Attila - Pizza | bands/A/Attila/Pizza/0705/04-10-2025.md
+0752 | MATCHED-LIVE    | 0044 | 04 Limited Sazabys - Galapagos | bands/0-9/04_Limited_Sazabys/Galapagos/0752/26-07-2025.md
+0757 | MATCHED-LIVE    | 0113 | Pendulum - Fasten Your Seatbelt | bands/P/Pendulum/Fasten_Your_Seatbelt/0757/17-07-2026.md
+0781 | MATCHED-LIVE    | 0053 | Pendulum - 9,000 Miles | bands/P/Pendulum/9,000_Miles/0781/22-07-2025.md
+0782 | MATCHED-LIVE    | 0070 | Rammstein - Amerika | bands/R/Rammstein/Amerika/0782/17-07-2026.md
+0799 | MATCHED-LIVE    | 0132 | La Bouche - Be My Lover | bands/L/La_Bouche/Be_My_Lover/0799/17-07-2026.md
+0809 | MATCHED-LIVE    | 0086 | Die Antwoord - Enter The Ninja | bands/D/Die_Antwoord/Enter_The_Ninja/0809/17-07-2026.md
+0862 | MATCHED-LIVE    | 0092 | Silverstein - My Heroine | bands/S/Silverstein/My_Heroine/0862/17-07-2026.md
+0886 | MATCHED-LIVE    | 0019 | Bush - Machinehead | bands/B/Bush/Machinehead/0886/28-06-2025.md
+0887 | MATCHED-LIVE    | 0017 | Alice Cooper - No More Mr. Nice Guy | bands/A/Alice_Cooper/No_More_Mr_Nice_Guy/0887/28-06-2025.md
+0889 | MATCHED-LIVE    | 0048 | The Kinks - You Really Got Me | bands/T/The_Kinks/You_Really_Got_Me/0889/28-06-2025.md
+0894 | MATCHED-LIVE    | 0106 | Tom Misch - Disco Yes | bands/T/Tom_Misch/Disco_Yes/0894/17-07-2026.md
+0900 | MATCHED-LIVE    | 0131 | Radiohead - Paranoid Android | bands/R/Radiohead/Paranoid_Android/0900/17-07-2026.md
+0908 | MATCHED-LIVE    | 0060 | Avenged Sevenfold - A Little Piece Of Heaven | bands/A/Avenged_Sevenfold/A_Little_Piece_Of_Heaven/0908/21-06-2025.md
+0914 | MATCHED-LIVE    | 0050 | (Hed) P.E. - Bartender | bands/Special Characters/(Hed)_P.E./Bartender/0914/20-06-2025.md
+0919 | MATCHED-LIVE    | 0073 | Rammstein - Amour | bands/R/Rammstein/Amour/0919/17-07-2026.md
+0936 | MATCHED-LIVE    | 0098 | Billy Talent - Red Flag | bands/B/Billy_Talent/Red_Flag/0936/17-07-2026.md
+0943 | MATCHED-LIVE    | 0014 | System Of A Down - Hypnotize | bands/S/System_Of_A_Down/Hypnotize/0943/11-06-2025.md
+0975 | MATCHED-LIVE    | 0021 | Anouk - Good God | bands/A/Anouk/Good_God/0975/30-05-2025.md
+1008 | MATCHED-LIVE    | 0101 | Paramore - Decode | bands/P/Paramore/Decode/1008/17-07-2026.md
+1022 | MATCHED-LIVE    | 0140 | Avenged Sevenfold - Bat Country | bands/A/Avenged_Sevenfold/Bat_Country/1022/17-07-2026.md
+1024 | MATCHED-LIVE    | 0060 | Avenged Sevenfold - A Little Piece Of Heaven | bands/A/Avenged_Sevenfold/A_Little_Piece_Of_Heaven/1024/19-05-2025.md
+1040 | MATCHED-LIVE    | 0094 | Paramore - All I Wanted | bands/P/Paramore/All_I_Wanted/1040/17-07-2026.md
+1070 | MATCHED-LIVE    | 0103 | Linkin Park - Numb | bands/L/Linkin_Park/Numb/1070/17-07-2026.md
+1072 | MATCHED-LIVE    | 0060 | Avenged Sevenfold - A Little Piece Of Heaven | bands/A/Avenged_Sevenfold/A_Little_Piece_Of_Heaven/1072/05-05-2025.md
+1085 | MATCHED-LIVE    | 0127 | +44 (Plus 44) - Chapter XIII | bands/Special Characters/+44_(Plus_44)/Chapter_XIII/1085/17-07-2026.md
+1109 | MATCHED-LIVE    | 0102 | Green Day - 21 Guns | bands/G/Green_Day/21_Guns/1109/17-07-2026.md
+1146 | MATCHED-LIVE    | 0091 | Avril Lavigne - How Does It Feel | bands/A/Avril_Lavigne/How_Does_It_Feel/1146/17-07-2026.md
+1160 | MATCHED-LIVE    | 0092 | Silverstein - My Heroine | bands/S/Silverstein/My_Heroine/1160/17-07-2026.md
+1162 | MATCHED-LIVE    | 0105 | Muse - Time Is Running Out | bands/M/Muse/Time_Is_Running_Out/1162/17-07-2026.md
+1163 | MATCHED-LIVE    | 0129 | Marilyn Manson - Coma White | bands/M/Marilyn_Manson/Coma_White/1163/17-07-2026.md
+1164 | MATCHED-LIVE    | 0100 | My Chemical Romance - Dead! | bands/M/My_Chemical_Romance/Dead!/1164/17-07-2026.md
+1175 | MATCHED-LIVE    | 0128 | Metallica - Nothing Else Matters | bands/M/Metallica/Nothing_Else_Matters/1175/17-07-2026.md
+1180 | MATCHED-LIVE    | 0093 | Johnny Cash - Personal Jesus | bands/J/Johnny_Cash/Personal_Jesus/1180/17-07-2026.md
+1185 | MATCHED-LIVE    | 0108 | My Chemical Romance - I Don't Love You | bands/M/My_Chemical_Romance/I_Dont_Love_You/1185/17-07-2026.md
+1189 | MATCHED-LIVE    | 0063 | Rammstein - Adios | bands/R/Rammstein/Adios/1189/11-04-2025.md
+1202 | MATCHED-LIVE    | 0028 | American Hi-Fi - Flavor Of The Weak | bands/A/American_Hi-Fi/Flavor_Of_The_Weak/1202/10-04-2025.md
+1224 | MATCHED-LIVE    | 0133 | Michael Jackson - Billie Jean | bands/M/Michael_Jackson/Billie_Jean/1224/17-07-2026.md
+1251 | MATCHED-LIVE    | 0144 | Finntroll - Slaget Vid Blodsalv | bands/F/Finntroll/Slaget_Vid_Blodsalv/1251/17-07-2026.md
+1258 | MATCHED-LIVE    | 0141 | The Used - All That I've Got | bands/T/The_Used/All_That_Ive_Got/1258/17-07-2026.md
+1273 | MATCHED-LIVE    | 0109 | Bullet For My Valentine - Tears Don't Fall | bands/B/Bullet_For_My_Valentine/Tears_Dont_Fall/1273/17-07-2026.md
+1286 | MATCHED-LIVE    | 0105 | Muse - Time Is Running Out | bands/M/Muse/Time_Is_Running_Out/1286/17-07-2026.md
+1293 | MATCHED-LIVE    | 0104 | Ado - Usseewa | bands/A/Ado/Usseewa/1293/17-07-2026.md
+1362 | MATCHED-LIVE    | 0087 | System Of A Down - Lonely Day | bands/S/System_Of_A_Down/Lonely_Day/1362/17-07-2026.md
+1381 | MATCHED-LIVE    | 0124 | Arctic Monkeys - Do I Wanna Know? | bands/A/Arctic_Monkeys/Do_I_Wanna_Know/1381/17-07-2026.md
+1398 | MATCHED-LIVE    | 0035 | Screaming Females - Rotten Apple | bands/S/Screaming_Females/Rotten_Apple/1398/18-02-2025.md
+1414 | MATCHED-LIVE    | 0141 | The Used - All That I've Got | bands/T/The_Used/All_That_Ive_Got/1414/17-07-2026.md
+1419 | MATCHED-LIVE    | 0133 | Michael Jackson - Billie Jean | bands/M/Michael_Jackson/Billie_Jean/1419/17-07-2026.md
+1438 | MATCHED-LIVE    | 0021 | Anouk - Good God | bands/A/Anouk/Good_God/1438/13-02-2025.md
+1442 | MATCHED-LIVE    | 0087 | System Of A Down - Lonely Day | bands/S/System_Of_A_Down/Lonely_Day/1442/17-07-2026.md
+1451 | MATCHED-LIVE    | 0012 | Alexisonfire - No Transitory | bands/A/Alexisonfire/No_Transitory/1451/12-02-2025.md
+1503 | MATCHED-LIVE    | 0007 | Rage Against The Machine - Bulls On Parade | bands/R/Rage_Against_The_Machine/Bulls_On_Parade/1503/29-01-2025.md
+1512 | MATCHED-LIVE    | 0090 | Lostprophets - Last Train Home | bands/L/Lostprophets/Last_Train_Home/1512/17-07-2026.md
+1564 | MATCHED-LIVE    | 0024 | American Authors - Best Day Of My Life | bands/A/American_Authors/Best_Day_Of_My_Life/1564/22-01-2025.md
+1568 | MATCHED-LIVE    | 0055 | Attila - Pizza | bands/A/Attila/Pizza/1568/22-01-2025.md
+1573 | MATCHED-LIVE    | 0094 | Paramore - All I Wanted | bands/P/Paramore/All_I_Wanted/1573/17-07-2026.md
+1626 | MATCHED-LIVE    | 0118 | Coal Chamber - Sway | bands/C/Coal_Chamber/Sway/1626/17-07-2026.md
+1646 | MATCHED-LIVE    | 0105 | Muse - Time Is Running Out | bands/M/Muse/Time_Is_Running_Out/1646/17-07-2026.md
+1707 | MATCHED-LIVE    | 0047 | AFI - Totalimmortal | bands/A/AFI/Totalimmortal/1707/03-12-2024.md
+1712 | MATCHED-LIVE    | 0109 | Bullet For My Valentine - Tears Don't Fall | bands/B/Bullet_For_My_Valentine/Tears_Dont_Fall/1712/17-07-2026.md
+1719 | MATCHED-LIVE    | 0016 | The Dear Hunter - Stuck On A Wire Out On A Fence | bands/T/The_Dear_Hunter/Stuck_On_A_Wire_Out_On_A_Fence/1719/02-12-2024.md
+1791 | MATCHED-LIVE    | 0120 | Burzum - Autumn Leaves | bands/B/Burzum/Autumn_Leaves/1791/17-07-2026.md
+1822 | MATCHED-LIVE    | 0091 | Avril Lavigne - How Does It Feel | bands/A/Avril_Lavigne/How_Does_It_Feel/1822/17-07-2026.md
+1991 | MATCHED-LIVE    | 0088 | "Weird Al" Yankovic - Amish Paradise | bands/W/Weird_Al_Yankovic/Amish_Paradise/1991/17-07-2026.md
+2022 | MATCHED-LIVE    | 0114 | Megadeth - Sweating Bullets | bands/M/Megadeth/Sweating_Bullets/2022/17-07-2026.md
+2027 | MATCHED-LIVE    | 0013 | Joe Satriani - Satch Boogie | bands/J/Joe_Satriani/Satch_Boogie/2027/21-07-2024.md
+2036 | MATCHED-LIVE    | 0027 | Gold Motel - Brand New Kind Of Blue | bands/G/Gold_Motel/Brand_New_Kind_Of_Blue/2036/19-07-2024.md
+2050 | MATCHED-LIVE    | 0089 | Scorpions - Wind Of Change | bands/S/Scorpions/Wind_Of_Change/2050/17-07-2026.md
+2053 | MATCHED-LIVE    | 0031 | Queen - We Are The Champions | bands/Q/Queen/We_Are_The_Champions/2053/15-07-2024.md
+2059 | MATCHED-LIVE    | 0134 | Eminem - Rap God | bands/E/Eminem/Rap_God/2059/17-07-2026.md
+2063 | MATCHED-LIVE    | 0061 | Rammstein - Adieu | bands/R/Rammstein/Adieu/2063/13-07-2024.md
+2074 | MATCHED-LIVE    | 0056 | Autopilot Off - The 12th Day | bands/A/Autopilot_Off/The_12th_Day/2074/10-07-2024.md
+2094 | MATCHED-LIVE    | 0097 | Korn - Twisted Transistor | bands/K/Korn/Twisted_Transistor/2094/17-07-2026.md
+2128 | MATCHED-LIVE    | 0104 | Ado - Usseewa | bands/A/Ado/Usseewa/2128/17-07-2026.md
+2132 | MATCHED-LIVE    | 0037 | A Change Of Pace - Weekend Warriors | bands/A/A_Change_Of_Pace/Weekend_Warriors/2132/27-06-2024.md
+2146 | MATCHED-LIVE    | 0099 | Nirvana - The Man Who Sold The World | bands/N/Nirvana/The_Man_Who_Sold_The_World/2146/17-07-2026.md
+2147 | MATCHED-LIVE    | 0110 | HIM (His Infernal Majesty) - Wings Of A Butterfly | bands/H/HIM_(His_Infernal_Majesty)/Wings_Of_A_Butterfly/2147/17-07-2026.md
+2169 | MATCHED-LIVE    | 0124 | Arctic Monkeys - Do I Wanna Know? | bands/A/Arctic_Monkeys/Do_I_Wanna_Know/2169/17-07-2026.md
+2180 | MATCHED-LIVE    | 0113 | Pendulum - Fasten Your Seatbelt | bands/P/Pendulum/Fasten_Your_Seatbelt/2180/17-07-2026.md
+2184 | MATCHED-LIVE    | 0122 | Rise Against - Savior | bands/R/Rise_Against/Savior/2184/17-07-2026.md
+2189 | MATCHED-LIVE    | 0060 | Avenged Sevenfold - A Little Piece Of Heaven | bands/A/Avenged_Sevenfold/A_Little_Piece_Of_Heaven/2189/11-06-2024.md
+2190 | MATCHED-LIVE    | 0142 | The Amity Affliction - Don't Lean On Me | bands/T/The_Amity_Affliction/Dont_Lean_On_Me/2190/17-07-2026.md
+2193 | MATCHED-LIVE    | 0111 | System Of A Down - Toxicity | bands/S/System_Of_A_Down/Toxicity/2193/17-07-2026.md
+2202 | MATCHED-LIVE    | 0128 | Metallica - Nothing Else Matters | bands/M/Metallica/Nothing_Else_Matters/2202/17-07-2026.md
+2236 | MATCHED-LIVE    | 0116 | BABYMETAL Feat. Electric Callboy - RATATATA | bands/B/BABYMETAL_Feat._Electric_Callboy/RATATATA/2236/17-07-2026.md
+2239 | MATCHED-LIVE    | 0096 | Linkin Park - Lying From You | bands/L/Linkin_Park/Lying_From_You/2239/17-07-2026.md
+2269 | MATCHED-LIVE    | 0101 | Paramore - Decode | bands/P/Paramore/Decode/2269/17-07-2026.md
+2285 | MATCHED-LIVE    | 0008 | 9mm Parabellum Bullet - Sacrifice | bands/0-9/9mm_Parabellum_Bullet/Sacrifice/2285/19-05-2024.md
+2307 | MATCHED-LIVE    | 0044 | 04 Limited Sazabys - Galapagos | bands/0-9/04_Limited_Sazabys/Galapagos/2307/15-05-2024.md
+2308 | MATCHED-LIVE    | 0140 | Avenged Sevenfold - Bat Country | bands/A/Avenged_Sevenfold/Bat_Country/2308/17-07-2026.md
+2314 | MATCHED-LIVE    | 0086 | Die Antwoord - Enter The Ninja | bands/D/Die_Antwoord/Enter_The_Ninja/2314/17-07-2026.md
+2328 | MATCHED-LIVE    | 0135 | Amon Amarth - Raise Your Horns | bands/A/Amon_Amarth/Raise_Your_Horns/2328/17-07-2026.md
+2333 | MATCHED-LIVE    | 0106 | Tom Misch - Disco Yes | bands/T/Tom_Misch/Disco_Yes/2333/17-07-2026.md
+2345 | MATCHED-LIVE    | 0103 | Linkin Park - Numb | bands/L/Linkin_Park/Numb/2345/17-07-2026.md
+2374 | MATCHED-LIVE    | 0053 | Pendulum - 9,000 Miles | bands/P/Pendulum/9,000_Miles/2374/01-05-2024.md
+2376 | MATCHED-LIVE    | 0112 | Red Hot Chili Peppers - Soul To Squeeze | bands/R/Red_Hot_Chili_Peppers/Soul_To_Squeeze/2376/17-07-2026.md
+2381 | MATCHED-LIVE    | 0079 | All Time Low Feat. Vic Fuentes - A Love Like War | bands/A/All_Time_Low_Feat._Vic_Fuentes/A_Love_Like_War/2381/17-07-2026.md
+2387 | MATCHED-LIVE    | 0131 | Radiohead - Paranoid Android | bands/R/Radiohead/Paranoid_Android/2387/17-07-2026.md
+2391 | MATCHED-LIVE    | 0087 | System Of A Down - Lonely Day | bands/S/System_Of_A_Down/Lonely_Day/2391/17-07-2026.md
+2397 | MATCHED-LIVE    | 0072 | Rammstein - Hilf Mir | bands/R/Rammstein/Hilf_Mir/2397/17-07-2026.md
+2411 | MATCHED-LIVE    | 0127 | +44 (Plus 44) - Chapter XIII | bands/Special Characters/+44_(Plus_44)/Chapter_XIII/2411/17-07-2026.md
+2419 | MATCHED-LIVE    | 0014 | System Of A Down - Hypnotize | bands/S/System_Of_A_Down/Hypnotize/2419/21-04-2024.md
+2420 | MATCHED-LIVE    | 0100 | My Chemical Romance - Dead! | bands/M/My_Chemical_Romance/Dead!/2420/17-07-2026.md
+2427 | MATCHED-LIVE    | 0070 | Rammstein - Amerika | bands/R/Rammstein/Amerika/2427/17-07-2026.md
+2437 | MATCHED-LIVE    | 0098 | Billy Talent - Red Flag | bands/B/Billy_Talent/Red_Flag/2437/17-07-2026.md
+2438 | MATCHED-LIVE    | 0073 | Rammstein - Amour | bands/R/Rammstein/Amour/2438/17-07-2026.md
+2441 | MATCHED-LIVE    | 0130 | Motionless In White - Another Life | bands/M/Motionless_In_White/Another_Life/2441/17-07-2026.md
+2461 | MATCHED-LIVE    | 0087 | System Of A Down - Lonely Day | bands/S/System_Of_A_Down/Lonely_Day/2461/17-07-2026.md

@@ -1,0 +1,2488 @@
+# MAVO MUSIC (@mavomusicyt) - COMPLETE SHORTS REPOSITORY (0001 to 2461)
+# Total Listed Shorts: 2460
+# 0001-0150: Canonical songs copied exactly from the Long-Form repository (150 entries).
+# 0151-0702: Shorts locked to the supplied Long-Form order (551 entries; canonical ID 0596 is absent).
+# 0703-2461: Remaining raw Shorts in original Short Form.txt order (1759 entries).
+# Lines tagged [MATCHES WITH: NNNN] duplicate a canonical Shorts track from 0001-0150 (155 tagged lines).
+# YouTube Studio UI, descriptions, hashtags, dates, views, revenue and notices are excluded.
+
+===============================================================================================
+SECTION A: CANONICAL SHORTS REPOSITORY (CONFIRMED/PLANNED ORDER: 0001 TO 0150)
+===============================================================================================
+
+0001. Squeeze - Cool for Cats
+0002. Foo Fighters - Run
+0003. Huey Lewis and the News - The Power of Love
+0004. Rick Springfield - Jessie's Girl
+0005. Bummrraa - Butt Ugly Playroom
+0006. Gary Wright - Dream Weaver
+0007. Rage Against The Machine - Bulls On Parade
+0008. 9mm Parabellum Bullet - Sacrifice
+0009. The Strokes - Juicebox
+0010. BrokeNCYDE - Band Tee
+0011. The Strokes - Last Nite
+0012. Alexisonfire - No Transitory
+0013. Joe Satriani - Satch Boogie
+0014. System Of A Down - Hypnotize
+0015. The Police - Roxanne
+0016. The Dear Hunter - Stuck On A Wire Out On A Fence
+0017. Alice Cooper - No More Mr. Nice Guy
+0018. Queen - Killer Queen
+0019. Bush - Machinehead
+0020. Scott Walker - The Old Man's Back Again
+0021. Anouk - Good God
+0022. The Clash - Guns Of Brixton
+0023. The Clash - Should I Stay Or Should I Go
+0024. American Authors - Best Day Of My Life
+0025. 50 Cent - In Da Club
+0026. Asian Kung-Fu Generation - After Dark
+0027. Gold Motel - Brand New Kind Of Blue
+0028. American Hi-Fi - Flavor Of The Weak
+0029. The Blues Brothers - Soul Man
+0030. Rise Against - The Good Left Undone
+0031. Queen - We Are The Champions
+0032. Fall Out Boy - Dance, Dance
+0033. Seth Chapla - Carol Of The Bells
+0034. Apocalyptica - Life Burns!
+0035. Screaming Females - Rotten Apple
+0036. The Temptations - My Girl
+0037. A Change Of Pace - Weekend Warriors
+0038. Bush - Comedown
+0039. Pat Benatar - Hit Me With Your Best Shot
+0040. Led Zeppelin - Black Dog
+0041. Maroon 5 - Harder To Breathe
+0042. Blink-182 - All The Small Things
+0043. Atreyu - Falling Down
+0044. 04 Limited Sazabys - Galapagos
+0045. Fang Island - Chompers
+0046. Blink-182 - Dammit
+0047. AFI - Totalimmortal
+0048. The Kinks - You Really Got Me
+0049. Slipknot - Killpop
+0050. (Hed) P.E. - Bartender
+0051. Pendulum Feat. In Flames - Self VS. Self
+0052. Billie Eilish - Bad Guy
+0053. Pendulum - 9,000 Miles
+0054. The Dandy Warhols - Bohemian Like You
+0055. Attila - Pizza
+0056. Autopilot Off - The 12th Day
+0057. Temple Of The Dog - Hunger Strike
+0058. BrokeNCYDE - 2 Drunk 2 Drive
+0059. Coheed And Cambria - A Favor House Atlantic
+0060. Avenged Sevenfold - A Little Piece Of Heaven
+0061. Rammstein - Adieu
+0062. The Boomtown Rats - I Don't Like Mondays
+0063. Rammstein - Adios
+0064. The Mamas & The Papas - Monday, Monday
+0065. Happy Mondays - Step On
+0066. The Bangles - Manic Monday
+0067. Pratt & McClain - Happy Days
+0068. The Allman Brothers Band - Stormy Monday
+0069. Coldrampage - Spoon
+0070. Rammstein - Amerika
+0071. Rammstein - Alter Mann
+0072. Rammstein - Hilf Mir
+0073. Rammstein - Amour
+0074. Pegboard Nerds - Heaven Let Us Down
+0075. Rammstein - Angst
+0076. Cream - Those Were The Days
+0077. T. Rex - 20th Century Boy
+0078. Tommy Tutone - 867-5309/Jenny
+0079. All Time Low Feat. Vic Fuentes - A Love Like War
+0080. Paramore - Misery Business
+0081. Avril Lavigne - Complicated
+0082. Jawbreaker - Accident Prone
+0083. Rammstein - Ein Lied
+0084. Kreator - Enemy Of God
+0085. Rogue x Stonebank x Slippy - Unity
+0086. Die Antwoord - Enter The Ninja
+0087. System Of A Down - Lonely Day
+0088. "Weird Al" Yankovic - Amish Paradise
+0089. Scorpions - Wind Of Change
+0090. Lostprophets - Last Train Home
+0091. Avril Lavigne - How Does It Feel
+0092. Silverstein - My Heroine
+0093. Johnny Cash - Personal Jesus
+0094. Paramore - All I Wanted
+0095. Rammstein - Du Hast
+0096. Linkin Park - Lying From You
+0097. Korn - Twisted Transistor
+0098. Billy Talent - Red Flag
+0099. Nirvana - The Man Who Sold The World
+0100. My Chemical Romance - Dead!
+0101. Paramore - Decode
+0102. Green Day - 21 Guns
+0103. Linkin Park - Numb
+0104. Ado - Usseewa
+0105. Muse - Time Is Running Out
+0106. Tom Misch - Disco Yes
+0107. Blink-182 - All The Small Things
+0108. My Chemical Romance - I Don't Love You
+0109. Bullet For My Valentine - Tears Don't Fall
+0110. HIM (His Infernal Majesty) - Wings Of A Butterfly
+0111. System Of A Down - Toxicity
+0112. Red Hot Chili Peppers - Soul To Squeeze
+0113. Pendulum - Fasten Your Seatbelt
+0114. Megadeth - Sweating Bullets
+0115. Electric Callboy - We Got The Moves
+0116. BABYMETAL Feat. Electric Callboy - RATATATA
+0117. Bury Your Dead - Magnolia
+0118. Coal Chamber - Sway
+0119. Coal Chamber - Fiend
+0120. Burzum - Autumn Leaves
+0121. DevilDriver - Sail
+0122. Rise Against - Savior
+0123. The Offspring - Gone Away
+0124. Arctic Monkeys - Do I Wanna Know?
+0125. Depresszió - Lásd (Azt Amit Neked Szántak)
+0126. Judas Priest - Electric Eye
+0127. +44 (Plus 44) - Chapter XIII
+0128. Metallica - Nothing Else Matters
+0129. Marilyn Manson - Coma White
+0130. Motionless In White - Another Life
+0131. Radiohead - Paranoid Android
+0132. La Bouche - Be My Lover
+0133. Michael Jackson - Billie Jean
+0134. Eminem - Rap God
+0135. Amon Amarth - Raise Your Horns
+0136. Korpiklaani - Rauta
+0137. Moonsorrow - Pakanajuhla
+0138. Amon Amarth - Fate Of Norns
+0139. Our Last Night - Fate
+0140. Avenged Sevenfold - Bat Country
+0141. The Used - All That I've Got
+0142. The Amity Affliction - Don't Lean On Me
+0143. Slipknot - Danger - Keep Away
+0144. Finntroll - Slaget Vid Blodsalv
+0145. Mastodon - Blood And Thunder
+0146. Wind Rose - Diggy Diggy Hole
+0147. Suicide Silence - Unanswered
+0148. Mudvayne - Dig
+0149. Slipknot - People=Shit
+0150. Infected Mushroom - Send Me An Angel
+
+
+===============================================================================================
+SECTION B: SHORTS MATCHED TO LONG-FORM ORDER (0151 TO 0702)
+===============================================================================================
+# Numbering and Artist - Song text are preserved from the supplied Long-Form master.
+# NOTE: 0596 has no row in the supplied canonical Long-Form repository; the gap is preserved.
+
+0151. Kiss - Rock And Roll All Nite
+0152. The Vines - Get Free
+0153. Brian Adam McCune - God Rest Ye Merry
+0154. Good Charlotte - A New Beginning
+0155. Otis Redding - (Sittin' On) The Dock Of The Bay
+0156. Creedence Clearwater Revival - Have You Ever
+0157. BrokeNCYDE - No Game
+0158. Judas Priest - Breaking The Law
+0159. Jack White - Sixteen Saltines
+0160. Arctic Monkeys - Why'd You Only Call Me When You're Sober
+0161. Magic Wands - Black Magic
+0162. Mountain - Mississippi Queen
+0163. Bob Dylan - Knockin' On Heaven's Door
+0164. Blink-182 - What's My Age Again?
+0165. 88 Fingers Louie - Meds
+0166. Vampire Weekend - Cousins
+0167. Violent Femmes - Blister In The Sun
+0168. Euringer - Be Afraid Who You Are
+0169. Queen - Stone Cold Crazy
+0170. Versus Them - We Three Kings
+0171. The Ramones - Blitzkrieg Bop
+0172. Korn - Freak On A Leash
+0173. Bummrraa - Be Right Back
+0174. Mark Mueller - Duck Tales (Theme)
+0175. Atreyu - Right Side Of The Bed
+0176. 311 - All Mixed Up
+0177. Euringer - Internal Organs
+0178. BrokeNCYDE - GCOD Intro
+0179. All That Remains - This Calling
+0180. Pegboard Nerds Feat Koda - Heaven Let Us Down [MATCHES WITH: 0074]
+0181. Chicago - 26 Or 6 To 4
+0182. Rush - Tom Sawyer
+0183. Billy Ocean - Red Light Spells Danger
+0184. Jawbreaker - Accident Prone [MATCHES WITH: 0082]
+0185. Bob Dylan - Knockin' On Heaven's Door
+0186. 10 Years - Actions & Motives
+0187. Pendulum - 9,000 Miles [MATCHES WITH: 0053]
+0188. P. Box - A Zöld A Bibor És A Fekete
+0189. Green Day - 8th Avenue Serenade
+0190. Good Charlotte - Broken Hearts Parade
+0191. Coheed And Cambria - A Favor House Atlantic [MATCHES WITH: 0059]
+0192. BrokeNCYDE - 2 Drunk 2 Drive [MATCHES WITH: 0058]
+0193. +44 (Plus 44) - 155
+0194. Within Temptation - The Howling
+0195. Tom Misch - The Journey
+0196. The Wallflowers - One Headlight
+0197. Scorpions - Winds Of Change [MATCHES WITH: 0089]
+0198. Santana - Black Magic Woman
+0199. Red Hot Chili Peppers - Dosed
+0200. Paul McCartney & Wings - Band On The Run
+0201. Limp Bizkit - Re-Arranged
+0202. Adele - Lovesong
+0203. Tool - The Pot
+0204. Radiohead - Paranoid Android [MATCHES WITH: 0131]
+0205. Pierce The Veil - Dive In
+0206. Pendulum - Voodoo People
+0207. Manowar - Warriors Of The World United
+0208. Haluk Levent - Elfida
+0209. Eminem Feat. Dido - Stan
+0210. Depeche Mode - Freelove
+0211. Dance Gavin Dance - The Story Of My Bros
+0212. Dance Gavin Dance - Elder Goose
+0213. EURINGER - Be Afraid Who You Are
+0214. EURINGER - Problematic
+0215. EURINGER - That's How Jimmy Gets Down
+0216. Pearl Jam - Black
+0217. The Killers - Read My Mind
+0218. Ozzy Osbourne - Desire
+0219. Isaac Hayes - Chocolate Salty Balls
+0220. Trust Company - Deeper Into You
+0221. Metallica - My Friend Of Misery
+0222. Good Riddance - Darkest Days
+0223. The Police - Canary In A Coalmine
+0224. Pierce The Veil - So Far So Fake
+0225. Santana - Jingo
+0226. Blondie - Slow Motion
+0227. Journey - Mother, Father
+0228. Saxon - Lionheart
+0229. Static-X - Grind 2 Halt
+0230. Kings Of Leon - Closer
+0231. Falling In Reverse Feat. HARDY - All My Women
+0232. Euringer Feat. Serj Tankian - If It Ain't You Today It Will Be You Tomorrow
+0233. Dance Gavin Dance - Inspire The Liars
+0234. Black Sabbath - Shadow Of The Wind
+0235. Bill Withers - Lean On Me
+0236. Alice Cooper - Snakebite
+0237. AC/DC - Hells Bells
+0238. Aerosmith - Deuces Are Wild
+0239. Thousand Foot Krutch - Absolute
+0240. The Killers - Smile Like You Mean It
+0241. Journey - No Surrender
+0242. Shinedown - Sin With A Grin
+0243. Mindless Self Indulgence - Dicks Are For My Friends
+0244. Mindless Self Indulgence - Money
+0245. Mindless Self Indulgence - Pay For It
+0246. 9mm Parabellum Bullet - Last Round
+0247. Mellow Mood - Tuff Rocky Road
+0248. Good Charlotte - Wondering
+0249. Good Charlotte - The Story Of My Old Man
+0250. Good Charlotte - The Anthem
+0251. Good Charlotte - The Young And The Hopeless
+0252. BrokeNCYDE - Bree Bree
+0253. Good Charlotte - Say Anything
+0254. Good Charlotte - Lifestyles Of The Rich & Famous
+0255. BrokeNCYDE - 2 Drunk 2 Drive [MATCHES WITH: 0058]
+0256. Good Charlotte - A New Beginning
+0257. Mellow Mood - Another Day
+0258. Pegboard Nerds Feat. Koda - Heaven Let Us Down [MATCHES WITH: 0074]
+0259. Train - Drops Of Jupiter
+0260. KT Tunstall - Black Horse And The Cherry Tree
+0261. Jack White - Sixteen Saltines
+0262. FUN. - Some Nights
+0263. Bob Marley & The Wailers - Three Little Birds
+0264. Outkast - Hey Ya!
+0265. The Bloodhound Gang - Foxtrot Uniform Charlie Kilo
+0266. Metallica - From Whom The Bell Tolls
+0267. Def Leppard - Pour Some Sugar On Me
+0268. Paramore - The Only Exception
+0269. Earth, Wind And Fire - Let's Groove
+0270. Billy Talent - Chasing The Sun
+0271. Silverstein - Wake Up
+0272. Run D.M.C. - Rock Box
+0273. Jackson 5 - I Want You Back
+0274. Elvis Presley - Suspicious Minds
+0275. Diamond Head - Am I Evil?
+0276. Coldplay - The Scientist
+0277. Bruno Mars - Versace On The Floor
+0278. Metallica - Battery
+0279. Metallica - Sad But True
+0280. Metallica - Leper Messiah
+0281. Slayer - Angel Of Death
+0282. Sabaton - Birds Of War
+0283. Rammstein - Deutschland
+0284. Metallica - Orion
+0285. Ado - Usseewa [MATCHES WITH: 0104]
+0286. The Proclaimers - I'm Gonna Be (500 Miles)
+0287. Sabaton - In The Name Of God
+0288. Sabaton - Attero Dominatus
+0289. Guns N' Roses - Don't Cry
+0290. Colin Hay Of Men At Work - Down Under 2012
+0291. Bon Jovi - Wanted Dead Or Alive
+0292. Aephanemer - Snowblind
+0293. Survivor - High On You
+0294. Green Day - 8th Avenue Serenade
+0295. Cutting Crew - (I Just) Died In Your Arms
+0296. Bonnie Tyler - Holding Out For A Hero
+0297. Joan Jett & The Black Hearts - I Love Rock 'N' Roll
+0298. Iron Maiden - The Evil That Men Do
+0299. AC/DC - For Those About To Rock (We Salute You)
+0300. Mgła - Mdłości I
+0301. KAT - Głos Z Ciemności
+0302. Green Day - Dilemma
+0303. Altaria - Wrath Of A Warchild
+0304. Sublime - Badfish
+0305. Dimmu Borgir - The Serpentine Offering
+0306. Cradle Of Filth Feat. King Diamond - Devil Woman
+0307. Aerosmith - Train Kept A-Rollin'
+0308. 957 - Fish Looking At 9
+0309. Scooter - How Much Is The Fish?
+0310. System Of A Down - Old School Hollywood
+0311. Amon Amarth - War Of The Gods
+0312. Ramones - Blitzkrieg Bop
+0313. Rammstein - Moskau
+0314. Rammstein - Feuer Frei
+0315. Aerosmith - Dream On
+0316. Volbeat - Still Counting
+0317. System Of A Down - Holy Mountains
+0318. System Of A Down - Chop Suey!
+0319. Sabaton - The Attack Of The Dead Men_
+0320. Sabaton - Defence Of Moscow
+0321. Rage Against The Machine - Guerrilla Radio
+0322. Kenny Loggins - Danger Zone
+0323. Van Halen - Jump
+0324. System Of A Down - Stealing Society
+0325. System Of A Down - Spiders
+0326. Survivor - Poor Man's Son
+0327. Pendulum - Slam
+0328. Motorhead - Sex And Death
+0329. Motorhead - Ramones
+0330. Motorhead - Louie Louie
+0331. Chicago - 25 Or 6 To 4
+0332. BABYMETAL - Gimme Chocolate!!
+0333. Aephanemer - Memento Mori (Instrumental)
+0334. System Of A Down - Streamline
+0335. Sabaton - Unbreakable
+0336. Sabaton - Screaming Eagles
+0337. Rage Against The Machine - Renegades Of Funk
+0338. Elton John - I'm Still Standing
+0339. Primus - My Name Is Mud
+0340. Rage Against The Machine - Know Your Enemy
+0341. Sabaton - Fields Of Verdun
+0342. Bryan Adams - Summer Of '69
+0343. Rage Against The Machine - Bombtrack
+0344. System Of A Down - Lost In Hollywood
+0345. Sabaton - Cliffs Of Gallipoli
+0346. Toto - Hold The Line
+0347. Survivor - Burning Heart
+0348. Rage Against The Machine - Killing In The Name
+0349. Survivor - Eye Of The Tiger
+0350. Black - Wonderful Life
+0351. Tankcsapda - Azt Mondom Állj!
+0352. 3 Doors Down - When I'm Gone
+0353. 3 Doors Down - Loser
+0354. Linkin Park - A Place For My Head
+0355. Ylvis - The Fox (What Does The Fox Say?)
+0356. Whitesnake - Is This Love
+0357. Twisted Sister - We're Not Gonna Take It
+0358. Tom Misch - Cinnamon Curls
+0359. Three Days Grace - I Hate Everything About You
+0360. Tarja - Until My Last Breath
+0361. Pendulum - Hold Your Color
+0362. Opeth - In My Time Of Need
+0363. Nickelback - How You Remind Me
+0364. My Chemical Romance - The Light Behind Your Eyes
+0365. Modjo - Lady (Hear Me Tonight)
+0366. Jack Off Jill - Strawberry Gashes
+0367. Iron Maiden - Wasted Years
+0368. Iron Maiden - Aces High
+0369. Iron Maiden - 2 Minutes To Midnight
+0370. Gorillaz - Clint Eastwood
+0371. Evanescence - Bring Me To Life
+0372. Burzum - Autumn Leaves [MATCHES WITH: 0120]
+0373. Asking Alexandria - Not An American Average
+0374. Apocalyptica - I Don't Care
+0375. American Hi-Fi - Flavor Of The Weak [MATCHES WITH: 0028]
+0376. American Authors - Best Day Of My Life [MATCHES WITH: 0024]
+0377. Alizée - Moi Lolita
+0378. Alexisonfire - This Could Be Anywhere In The World
+0379. Alestorm - Hangover
+0380. 220 Volt - Love Is All You Need
+0381. Zac Brown Band - Chicken Fried
+0382. Volbeat - Shotgun Blues
+0383. Thirty Seconds To Mars - The Fantasy
+0384. Simple Plan - Welcome To My Life
+0385. Sabaton - Livgardet
+0386. Rammstein - Adieu [MATCHES WITH: 0061]
+0387. Nirvana - The Man Who Sold The World [MATCHES WITH: 0099]
+0388. Megadeth - Sweating Bullets [MATCHES WITH: 0114]
+0389. Ill Nino - How Can I Live
+0390. HIM - Wings Of A Butterfly [MATCHES WITH: 0110]
+0391. Blink-182 - Always
+0392. Arctic Monkeys - Fluorescent Adolescent
+0393. ALI Feat. Aklo - Lost In Paradise (Jujutsu Kaisen Ending)
+0394. Alesana - Apology
+0395. 3 Doors Down - Away From The Sun
+0396. System Of A Down - Revenga
+0397. Sabaton - To Hell And Back
+0398. Sabaton - Devil Dogs
+0399. Pendulum - Showdown
+0400. My Chemical Romance - This Is How I Disappear
+0401. Pink Floyd - Money
+0402. Motionless In White - Scissorhands (The Last Snow)
+0403. Motionless In White - Reincarnate
+0404. Jaws - Stay In
+0405. Guns N' Roses - Sweet Child O' Mine
+0406. Escape The Fate - Situations
+0407. Arctic Monkeys - Do I Wanna Know? [MATCHES WITH: 0124]
+0408. Aerosmith - I Don't Want To Miss A Thing
+0409. 2pac - California Love
+0410. 3 Doors Down - Here Without You
+0411. Sabaton - 1916
+0412. Linkin Park - New Divide
+0413. Avril Lavigne - Hot
+0414. Sabaton - Panzerkampf
+0415. Catalina Estefania Pastrian - Nico-Nico-Nii
+0416. Rammstein - Ausländer
+0417. Beatsteaks - Hail To The Freaks
+0418. Pendulum - Fasten Your Seatbelt [MATCHES WITH: 0113]
+0419. Sabaton - Into The Fire
+0420. The Rolling Stones - Paint It, Black
+0421. Rise Against - Savior [MATCHES WITH: 0122]
+0422. Rammstein - Morgenstern
+0423. ...And You Will Know Us By The Trail Of Dead - Relative Ways
+0424. Sabaton - Soldier Of Heaven
+0425. Motionless In White - Death March
+0426. Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+0427. .38 Special - Back To Paradise
+0428. System Of A Down - Toxicity [MATCHES WITH: 0111]
+0429. Alestorm - Rum
+0430. 3 Doors Down - It's Not My Time
+0431. I See Stars Feat. Danny Worsnop - Endless Sky
+0432. Windir - Heidra
+0433. Scars On Broadway - Exploding/Reloading
+0434. Lady Gaga - Bad Romance
+0435. Halestorm - Bad Romance
+0436. Cold - Suffocate
+0437. Metallica - Nothing Else Matters [MATCHES WITH: 0128]
+0438. Motionless In White - Eternally Yours
+0439. Arch Enemy - Taking Back My Soul
+0440. Motionless In White - Werewolf
+0441. Sabaton - Uprising
+0442. Motionless In White - Cyberhex
+0443. Alestorm - Keelhauled
+0444. Trivium - Dying In Your Arms
+0445. Sabaton - Ett Slag Färgat Rött
+0446. Motionless In White - Creatures
+0447. Sabaton - Hill 3234
+0448. Motionless In White - Catharsis
+0449. System Of A Down - Prison Song
+0450. Fuerza Regida - OYE
+0451. Avril Lavigne - Take Me Away
+0452. Sabaton - Stormtroopers
+0453. Bring Me The Horizon Feat. Underoath - A Bullet W My Name On
+0454. P.O.D. (Payable On Death) - Change The World
+0455. Good Charlotte - Girls & Boys
+0456. Sabaton - Bismarck
+0457. John Denver - Take Me Home, Country Roads
+0458. Nirvana - All Apologies
+0459. Bring Me The Horizon Feat. Aurora - Limousine
+0460. Tom Misch - Disco Yes [MATCHES WITH: 0106]
+0461. System Of A Down - Sugar
+0462. Rammstein - Radio
+0463. Mindless Self Indulgence - Due
+0464. Good Charlotte - Riot Girl
+0465. Mindless Self Indulgence - On It
+0466. Mindless Self Indulgence - Mastermind
+0467. Mindless Self Indulgence - Animal
+0468. Mindless Self Indulgence - Revenge
+0469. Mindless Self Indulgence - Get It Up
+0470. Mindless Self Indulgence - Girls On Film
+0471. 009 Sound System - Dreamscape
+0472. Mindless Self Indulgence - Issues
+0473. Mindless Self Indulgence - Prescription
+0474. Mindless Self Indulgence - Stupid MF
+0475. Mindless Self Indulgence - Straight To Video
+0476. Mindless Self Indulgence - Shut Me Up
+0477. Mindless Self Indulgence - Lights Out
+0478. Mindless Self Indulgence - Never Wanted To Dance
+0479. Aphrodite's Child - Rain And Tears
+0480. Heart - Barracuda
+0481. Abc - The Look Of Love (Part One)
+0482. Billy Idol - White Wedding - Part 1
+0483. Weezer - Say It Ain't So
+0484. Blue Öyster Cult - Burnin' For You
+0485. Foo Fighters - My Hero
+0486. Iron Maiden - Run To The Hills
+0487. Rancid - Ruby Soho
+0488. Foster The People - Pumped Up Kicks
+0489. Alice In Chains - Again
+0490. Biffy Clyro - Stingin' Belle
+0491. David Bowie - The Man Who Sold The World
+0492. Megadeth - Symphony Of Destruction
+0493. Paramore - Now
+0494. My Chemical Romance - Planetary (GO!)
+0495. Maroon 5 - She Will Be Loved
+0496. Foo Fighters - Best Of You
+0497. The Birthday Massacre - Blue
+0498. Ace Of Base - The Sign
+0499. Alice In Chains - Stone
+0500. The Offspring - Gone Away [MATCHES WITH: 0123]
+0501. Aaliyah - Are You That Somebody
+0502. +44 (Plus 44) - Lycanthrope
+0503. 4 Non Blondes - What's Up
+0504. Thirty Seconds To Mars - Attack
+0505. Mindless Self Indulgence - Evening Wear
+0506. Mindless Self Indulgence - Bomb This Track
+0507. Mellow Mood - Tuff Rocky Road
+0508. Mellow Mood - Another Day
+0509. Boston - More Than A Feeling
+0510. The Police - Message In A Bottle
+0511. Billy Talent - Fallen Leaves
+0512. Volbeat - Fallen
+0513. Europe - The Final Countdown
+0514. Deep Purple - Smoke On The Water
+0515. Judas Priest - Painkiller
+0516. Blink-182 - All The Small Things [MATCHES WITH: 0042, 0107]
+0517. Pat Benatar - Hit Me With Your Best Shot [MATCHES WITH: 0039]
+0518. Flyleaf - Fire Fire
+0519. Queen - Another One Bites The Dust
+0520. Lily Allen - Smile
+0521. Bullet For My Valentine - Hand Of Blood
+0522. Sabaton - Far From The Fame
+0523. Linkin Park - Lying From You [MATCHES WITH: 0096]
+0524. HIM - The Funeral Of Hearts
+0525. 10 Years - Shoot It Out
+0526. HIM - The Sacrament
+0527. Sabaton - A Ghost In The Trenches
+0528. Motionless In White - /C0DE
+0529. Oasis - Don't Look Back In Anger
+0530. My Chemical Romance - Famous Last Words
+0531. Motionless In White - Black Damask (The Fog)
+0532. Attack Attack! - Smokahontas
+0533. 10 Years - Through The Iris
+0534. Sabaton - 1648 (Swedish)
+0535. Motionless In White - Immaculate Misconception
+0536. System Of A Down - A.T.W.A. (Air, Trees, Water And Animals)
+0537. Linkin Park - Crawling
+0538. Kansas - Carry On Wayward Son
+0539. George Michael - Faith
+0540. Red Hot Chili Peppers - Suck My Kiss
+0541. Pendulum - The Vulture
+0542. *NSYNC - It's Gotta Be Me
+0543. Maroon 5 - This Love
+0544. Sabaton - Stalingrad
+0545. HIM - Buried Alive By Love
+0546. My Chemical Romance - Welcome To The Black Parade
+0547. Thirty Seconds To Mars - Valhalla
+0548. Serj Tankian - Beethoven's Cunt
+0549. Serj Tankian - The Unthinking Majority
+0550. +44 (Plus 44) - When Your Heart Stops Beating
+0551. Generation X - Listen
+0552. My Chemical Romance - Teenagers
+0553. Rammstein - Amour [MATCHES WITH: 0073]
+0554. 3 Doors Down - Kryptonite
+0555. All Time Low - Somewhere In Neverland
+0556. Serj Tankian - Sky Is Over
+0557. Pendulum - Another Planet
+0558. Sabaton - 82nd All The Way
+0559. CKY - Flesh Into Gear
+0560. Paramore - Decode [MATCHES WITH: 0101]
+0561. Twenty One Pilots - Stressed Out
+0562. Sabaton - The Ballad Of Bull
+0563. 12 Stones - The Way I Feel
+0564. Adam And The Ants - That Voodoo!
+0565. Sabaton - Metal Crüe
+0566. Motionless In White - A.M.E.R.I.C.A.
+0567. Willie Nelson - Whiskey River
+0568. A Day To Remember - Another Song About The Weekend
+0569. Linkin Park - Papercut
+0570. Sabaton - Hearts Of Iron
+0571. 100 Gecs - Money Machine
+0572. Rammstein - Mein Teil
+0573. Aloe Blacc - I Need A Dollar
+0574. *NSYNC - Bye Bye Bye
+0575. +44 (Plus 44) - No, It Isn't
+0576. Linkin Park - Faint
+0577. -M- (Matthieu Chedid) - Qui De Nous Deux
+0578. Midnight Oil - Beds Are Burning
+0579. ZZ Top - La Grange
+0580. 10 Years - All Your Lies
+0581. Billy Talent - Sympathy
+0582. Mor Ve Ötesi - Bir Derdim Var
+0583. Arctic Monkeys - R U Mine?
+0584. Sabaton - Wehrmacht
+0585. "Weird Al" Yankovic - Foil
+0586. 10 Years - Wasteland
+0587. 04 Limited Sazabys - Galapagos [MATCHES WITH: 0044]
+0588. Avenged Sevenfold - Bat Country [MATCHES WITH: 0140]
+0589. Korn - Word Up!
+0590. Die Antwoord - Enter The Ninja [MATCHES WITH: 0086]
+0591. Sabaton - Karolinens Bön
+0592. Primus - South Park Theme
+0593. Tenacious D - Beelzeboss
+0594. Motionless In White - Masterpiece
+0595. Talking Heads - Burning Down The House
+0597. Pink Floyd - Comfortably Numb
+0598. Sabaton - Gott Mit Uns
+0599. Scorpions - Rock You Like A Hurricane
+0600. Motörhead Feat. Jim Johnston - The Game (WWE - Triple H Theme)
+0601. Saliva Feat. Jim Johnston - I Walk Alone (WWE - Batista Theme)
+0602. Sum 41 - War
+0603. Sabaton - Nuclear Attack
+0604. Falling In Reverse - The Drug In Me Is You
+0605. Amon Amarth - Raise Your Horns [MATCHES WITH: 0135]
+0606. Avril Lavigne - Losing Grip
+0607. Nirvana - About A Girl (Unplugged)
+0608. Sabaton - White Death
+0609. *NSYNC - Tearin' Up My Heart
+0610. Limp Bizkit - Break Stuff
+0611. Sabaton - Metal Machine
+0612. -M- (Matthieu Chedid) - Laisse Aller
+0613. -M- (Matthieu Chedid) - Je Dis Aime
+0614. -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes
+0615. Rammstein - Du Hast [MATCHES WITH: 0095]
+0616. Sabaton - The Final Solution
+0617. Laufey - Falling Behind
+0618. Rammstein - Ich Will
+0619. Sabaton - Purple Heart
+0620. Linkin Park - Numb [MATCHES WITH: 0103]
+0621. Sabaton - 7734
+0622. A-HA - I Call Your Name
+0623. Dire Straits - Sultans Of Swing
+0624. Girugamesh - Break Down
+0625. Alicia Keys - If I Ain't Got You
+0626. Linkin Park - Bleed It Out
+0627. Pendulum - Watercolour
+0628. Linkin Park - In The End
+0629. 2Pac - Ambitionz Az A Ridah
+0630. 3 Inches Of Blood - Deadly Sinners
+0631. Amy Winehouse - Back To Black
+0632. Rammstein - Keine Lust
+0633. U2 - Vertigo
+0634. Sabaton - Blood Of Bannockburn
+0635. Billy Talent - This Suffering
+0636. Dragonforce - My Spirit Will Go On
+0637. Pendulum - 9,000 Miles [MATCHES WITH: 0053]
+0638. Sabaton - Christmas Truce
+0639. System Of A Down - B.Y.O.B.
+0640. Asking Alexandria - If You Cant Ride Two Horses At Once You Should Get Out Of The Circus
+0641. All Time Low - Damned If I Do Ya (Damned If I Don't)
+0642. Sabaton - Sparta
+0643. Billy Talent - Standing In The Rain
+0644. R.E.M. - Losing My Religion
+0645. Fleetwood Mac - Go Your Own Way
+0646. Linkin Park - One Step Closer
+0647. Billy Talent - Try Honesty
+0648. Nirvana - Come As You Are
+0649. Sabaton - Primo Victoria
+0650. Rammstein - Hilf Mir [MATCHES WITH: 0072]
+0651. Three Days Grace - Pain
+0652. Sabaton - Ghost Division
+0653. T.A.T.U - All The Things She Said
+0654. +44 (Plus 44) - Weatherman
+0655. Sabaton - The Lion From The North
+0656. +44 (Plus 44) - Make You Smile
+0657. +44 (Plus 44) - Little Death
+0658. +44 (Plus 44) - Chapter XIII [MATCHES WITH: 0127]
+0659. +44 (Plus 44) - Baby, Come On
+0660. +44 (Plus 44) - 155
+0661. (HED) P.E. - I Got You
+0662. (Hed) P.E. - Watch It Burn
+0663. (G)I-DLE - Tomboy
+0664. (G)I-DLE - I'm The Trend
+0665. System Of A Down - Hypnotize [MATCHES WITH: 0014]
+0666. My Chemical Romance - Dead! [MATCHES WITH: 0100]
+0667. Bullet For My Valentine - Scream Aim Fire
+0668. Manowar - Kings Of Metal
+0669. Billy Talent - Viking Death March
+0670. Muse - Supermassive Black Hole
+0671. The Cult - Love Removal Machine
+0672. Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free
+0673. Rammstein - Amerika [MATCHES WITH: 0070]
+0674. Sabaton - En Livstid I Krig
+0675. The Cult - She Sells Sanctuary
+0676. All Time Low - Weightless
+0677. Sabaton - Man Of War
+0678. Billy Talent - Red Flag [MATCHES WITH: 0098]
+0679. Sabaton - Steel Commanders
+0680. Motionless In White - Another Life [MATCHES WITH: 0130]
+0681. System Of A Down - Roulette
+0682. All Time Low - Dear Maria, Count Me In
+0683. Pendulum - Tarantula
+0684. Amaranthe - Archangel
+0685. Sabaton - Dreadnought
+0686. Green Day - X-Kid
+0687. Alien Fucker - Arabic UFO Party
+0688. Aephanemer - Old French Song
+0689. Sabaton - The Hammer Has Fallen
+0690. Sabaton - Camouflage
+0691. Avril Lavigne - Together
+0692. Elvis Presley - Jailhouse Rock
+0693. BABYMETAL - Megitsune
+0694. Rage Against The Machine - Take The Power Back
+0695. Eurobeat Brony - Discord (The Living Tombstone Remix)
+0696. My Chemical Romance - The Foundations Of Decay
+0697. System Of A Down - Lonely Day [MATCHES WITH: 0087]
+0698. Rammstein - Du Hast [MATCHES WITH: 0095]
+0699. Queen - I Want To Break Free
+0700. Slayer - War Ensemble
+0701. Taking Back Sunday - Cute Without The 'E'
+0702. Motionless In White - Another Life [MATCHES WITH: 0130]
+
+
+===============================================================================================
+SECTION C: REMAINING SHORTS IN ORIGINAL RAW ORDER (0703 TO 2461)
+===============================================================================================
+# Every raw Short not consumed as the counterpart for 0151-0702 is retained here.
+# Repeated Artist - Song rows represent separate Shorts records, not accidental text duplicates.
+
+0703. AC/DC - Touch Too Much
+0704. AC/DC - Thunderstruck
+0705. Attila - Pizza [MATCHES WITH: 0055]
+0706. MAVOmusic - Just reached 100,000 Subscribers! [NON-MUSIC SHORT]
+0707. Deftones - Digital Bath
+0708. Dark Tranquility - Cathode Ray Sunshine
+0709. Escape The Fate - Situations
+0710. Skindred - Gimme That Boom
+0711. My Chemical Romance - Thank You For The Venom
+0712. Blue Öyster Cult - The Vigil
+0713. Slipknot - The Blister Exists
+0714. Slaughter To Prevail - Demolisher
+0715. Korn - Prey For Me
+0716. Limp Bizkit - Break Stuff
+0717. Rage Against The Machine - Sleep Now In The Fire
+0718. Rise Against - Audience Of One
+0719. Radiohead - Airbag
+0720. Rammstein - Morgenstern
+0721. 3 Doors Down - It's Not My Time
+0722. Aesthetic Perfection - Dead Zone
+0723. Avril Lavigne - Don't Tell Me
+0724. Avril Lavigne - I'm With You
+0725. Metallica - Orion
+0726. Asian Kung-Fu Generation - Blood Circulator (TV Size)
+0727. B*Witched - C'est La Vie
+0728. Megadeth - Washington Is Next!
+0729. HIM - Heartache Every Moment
+0730. 3 Inches Of Blood - Deadly Sinners
+0731. 3 Doors Down - Ticket To Heaven
+0732. 2 Times Terror - D.E.A.D.
+0733. Coal Chamber - Big Truck
+0734. 12 Stones - Crash
+0735. 10 Years - The Autumn Effect
+0736. Ava Max - Sweet But Psycho
+0737. Bathory - Lake Of Fire
+0738. 1986 Omega Tribe - Kimi Ha 1000%
+0739. 1927 - If I Could
+0740. 1910 Fruitgum Company - Simon Says
+0741. 164 Feat. GUMI - Amanojaku
+0742. 156/Silence - Irrational Pull
+0743. 16 Volt - Suffering You
+0744. 10 Years - All Your Lies
+0745. 04 Limited Sazabys - Squall
+0746. Evanescence - Tourniquet
+0747. Evanescence - Everybody's Fool
+0748. 1000 Homo Djs - Apathy
+0749. 10 Years - Backlash
+0750. Bilmuri - BETTER HELL (Thicc Boi)
+0751. 04 Limited Sazabys - Galapagos II
+0752. 04 Limited Sazabys - Galapagos [MATCHES WITH: 0044]
+0753. Crypta - I Resign
+0754. Nirvana - Smells Like Teen Spirit
+0755. Satyricon - K.I.N.G.
+0756. Slayer - Raining Blood
+0757. Pendulum - Fasten Your Seatbelt [MATCHES WITH: 0113]
+0758. 'Til Tuesday - Voices Carry
+0759. Daft Punk - The Game Of Love
+0760. Billy Talent - Burn The Evidence
+0761. Rammstein - Ohne Dich
+0762. A Day To Remember - All My Friends
+0763. 9mm Parabellum Bullet - Faust
+0764. 88 Fingers Louie - Meds
+0765. Aerosmith - Something's Gotta Give
+0766. Alice Cooper - Catch Me If You Can
+0767. .38 Special - Back To Paradise
+0768. In Flames - Clayman
+0769. Kiss - Danger
+0770. Kiss - It's My Life
+0771. Mötley Crüe - White Trash Circus
+0772. Madness - Sign Of The Times
+0773. 4 Non Blondes - What's Up
+0774. 3 Doors Down - Duck And Run
+0775. Generation X - Promises Promises
+0776. George Michael - Faith
+0777. Electric Callboy - Everytime We Touch
+0778. Guns N' Roses - Perhaps
+0779. In Flames - I Am Above
+0780. Falling In Reverse - Zombified
+0781. Pendulum - 9,000 Miles [MATCHES WITH: 0053]
+0782. Rammstein - Amerika [MATCHES WITH: 0070]
+0783. Evanescence - Sweet Sacrifice
+0784. Generation X - One Hundred Punks
+0785. Linkin Park - Bleed It Out
+0786. Nickelback - Side Of A Bullet
+0787. Placebo - Every You Every Me
+0788. MIKA - Grace Kelly
+0789. Anthrax - Monster At The End
+0790. Heaven Shall Burn - Endzeit
+0791. Bright Eyes - First Day Of My Life
+0792. Billy Talent - Cut The Curtains
+0793. Megadeth - Dystopia
+0794. Sabrina Carpenter - Manchild
+0795. Gwen Stefani - What You Waiting For?
+0796. Gamma Ray - Master Of Confusion
+0797. Rhapsody Of Fire - Triumph Or Agony
+0798. The Black Eyed Peas - Where Is The Love?
+0799. La Bouche - Be My Lover [MATCHES WITH: 0132]
+0800. Manowar - Fight Until We Die
+0801. Daryl Hall & John Oates - Out Of Touch
+0802. OPM - Heaven Is A Halfpipe
+0803. Blink-182 - Voyeur
+0804. 2 Unlimited - Get Ready!
+0805. MC Hammer - U Can't Touch This
+0806. September - Cry For You
+0807. Megadeth - Foreclosure Of A Dream
+0808. AdyS - Paper Plane
+0809. Die Antwoord - Enter The Ninja [MATCHES WITH: 0086]
+0810. Måneskin - Beggin'
+0811. Cascada - Everytime We Touch
+0812. No Doubt - It's My Life
+0813. Benny Benassi - Satisfaction
+0814. Alice DeeJay - Better Off Alone
+0815. 10 Years - Novocaine
+0816. The Black Keys - Your Touch
+0817. Tenacious D - The Metal
+0818. Shuggie Otis - Bootie Cooler
+0819. 10 Years - Battle Lust
+0820. Stevie Wonder - Signed, Sealed, Delivered I'm Yours
+0821. Barış Manço - Dönence
+0822. Altın Gün - Goca Dünya
+0823. Metallica - I Disappear
+0824. Rancid - Ruby Soho
+0825. Flyleaf - Fully Alive
+0826. 311 - Creature Feature
+0827. 9mm Parabellum Bullet - Wanderland
+0828. Anthrax - For All Kings
+0829. 9mm Parabellum Bullet - Invitation
+0830. Tenacious D - Master Exploder
+0831. The Doors - Break On Through (To The Other Side)
+0832. 311 - Electricity
+0833. Rancid - Time Bomb
+0834. 9mm Parabellum Bullet - Baby, Please Burn Out
+0835. 9mm Parabellum Bullet - Vortex
+0836. 311 - Earth People (Transistor Sessions - 1997)
+0837. 9mm Parabellum Bullet - Wild West Mustang
+0838. Kitsunetsuki - Futari Wa Psycho
+0839. 311 - Tune In
+0840. The Doors - People Are Strange
+0841. 3 Inches Of Blood - Destroy The Orcs
+0842. Bill Haley & His Comets - Rock Around The Clock
+0843. 100 Gecs - Dumbest Girl Alive
+0844. 311 - DLMD
+0845. HANABIE. - Reiwa Matching-Sedai
+0846. HANABIE. - We Love Sweets
+0847. 311 - Syntax Error
+0848. Good Charlotte - The Young & The Hopeless
+0849. Good Charlotte - Say Anything
+0850. Good Charlotte - Riot Girl
+0851. Good Charlotte - Girls & Boys
+0852. Good Charlotte - The Story Of My Old Man
+0853. Good Charlotte - Wondering
+0854. Good Charlotte - Lifestyles Of The Rich And Famous
+0855. Good Charlotte - The Anthem
+0856. Good Charlotte - A New Beginning
+0857. Good Charlotte - I Just Wanna Live
+0858. Good Charlotte - Broken Hearts Parade
+0859. Good Charlotte - Keep Your Hands Off My Girl
+0860. Good Charlotte - I Don't Wanna Be In Love (Dance Floor Anthem)
+0861. Shinedown - Cut The Cord
+0862. Silverstein - My Heroine [MATCHES WITH: 0092]
+0863. Paramore - The Only Exception
+0864. Fountains Of Wayne - Stacy's Mom
+0865. 3 Doors Down - Here Without You
+0866. Good Charlotte - The River
+0867. Good Charlotte - Little Things
+0868. 9mm Parabellum Bullet - Hide & Seek
+0869. 311 - Gap
+0870. 311 - Can't Fade Me
+0871. 9mm Parabellum Bullet - (Teenage) Disaster
+0872. 88 Fingers Louie - Won't Stay Late
+0873. 9mm Parabellum Bullet - Tear
+0874. 311 - Loco
+0875. Rancid - Maxwell Murder
+0876. 9mm Parabellum Bullet - Inferno (TV Size)
+0877. The Cranberries - How
+0878. The Cranberries - Pretty
+0879. Alkaline Trio - Movin' Right Along
+0880. Korn - Hater
+0881. Arctic Monkeys - Fluorescent Adolescent
+0882. 9mm Parabellum Bullet - Lovecall From The World
+0883. Manowar - Warriors Of The World United
+0884. Pantera - Cemetery Gates
+0885. B'z - Ultra Soul
+0886. Bush - Machinehead [MATCHES WITH: 0019]
+0887. Alice Cooper - No More Mr. Nice Guy [MATCHES WITH: 0017]
+0888. Oasis - Don't Look Back In Anger
+0889. The Kinks - You Really Got Me [MATCHES WITH: 0048]
+0890. Simple Plan - Welcome To My Life
+0891. Simple Plan - Shut Up
+0892. The Black Eyed Peas - Let's Get It Started
+0893. Rhapsody Of Fire - The Mighty Ride Of The Firelord
+0894. Tom Misch - Disco Yes [MATCHES WITH: 0106]
+0895. 10cc - Good Morning Judje
+0896. 88 Fingers Louie - 100 Proof
+0897. Burzum - Ea, Lord Of The Deeps
+0898. Arctic Monkeys - Fluorescent Adolescent
+0899. Alice In Chains - Down In A Hole
+0900. Radiohead - Paranoid Android [MATCHES WITH: 0131]
+0901. Guns N' Roses - Paradise City
+0902. Derek And The Dominos - Layla
+0903. The Beatles - Hey Jude
+0904. Pendulum - Another Planet
+0905. Metallica - One (S&M)
+0906. Black Sabbath - War Pigs
+0907. Led Zeppelin - Kashmir
+0908. Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+0909. Green Day - Jesus Of Suburbia
+0910. John Petrucci - Damage Control
+0911. Guns N' Roses - November Rain
+0912. Serj Tankian - Beethoven's C*nt
+0913. Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free
+0914. (HED) P.E. - Bartender [MATCHES WITH: 0050]
+0915. (HED) P.E. - Renegade
+0916. Sabaton - The Lion From The North
+0917. Sabaton - En Livstid I Krig
+0918. +44 - When Your Heart Stops Beating
+0919. Rammstein - Amour [MATCHES WITH: 0073]
+0920. Bullet For My Valentine - Scream Aim Fire
+0921. (HED) P.E. - I Got You
+0922. Sabaton - Man Of War
+0923. (G)I-DLE - I'm The Trend
+0924. The Cult - She Sells Sanctuary
+0925. +44 - Weatherman
+0926. Serj Tankian - The Unthinking Majority
+0927. (HED)P.E. - Killing Time
+0928. CKY - Disengage The Simulator
+0929. +44 - Little Death
+0930. Billy Talent - Viking Death March
+0931. The Cult - Love Removal Machine
+0932. +44 - Lycanthrope
+0933. +44 (Plus 44) - No, It Isn't
+0934. (G)I-DLE - Tomboy
+0935. +44 - Make You Smile
+0936. Billy Talent - Red Flag [MATCHES WITH: 0098]
+0937. Generation X - Listen
+0938. Muse - Supermassive Black Hole
+0939. Manowar - Kings Of Metal
+0940. +44 - Baby, Come On
+0941. (Hed)P.E. - Watch It Burn
+0942. T.A.T.U. - All The Things She Said
+0943. System Of A Down - Hypnotize [MATCHES WITH: 0014]
+0944. Black Sabbath - N.I.B.
+0945. Green Day - X-Kid
+0946. Pendulum - Another Planet
+0947. Sabaton Feat. Apocalyptica - Angels Calling
+0948. Sabaton - The Hammer Has Fallen
+0949. Pendulum - Tarantula
+0950. Sabaton - Dreadnought
+0951. Blink-182 - Obvious
+0952. Rage Against The Machine - Bombtrack
+0953. Green Day - Good Riddance (Time Of Your Life)
+0954. Alien F_cker - Arabic UFO Party
+0955. Joan Jett - Bad Reputation
+0956. Sabaton - Camouflage
+0957. Elvis Presley - Jailhouse Rock
+0958. Amaranthe - Archangel
+0959. BABYMETAL - Megitsune
+0960. Rage Against The Machine - Take The Power Back
+0961. All Time Low - Dear Maria, Count Me In
+0962. System Of A Down - Roulette
+0963. Serj Tankian - Sky Is Over
+0964. All Time Low - Somewhere In Neverland
+0965. Sabaton - Steel Commanders
+0966. CKY - Flesh Into Gear
+0967. Muse - Sunburn
+0968. Muse - Glorious
+0969. Muse - Thought Contagion
+0970. Sabaton - 82nd All The Way
+0971. Creedence Clearwater Revival - Down On The Corner
+0972. The 4-Skins - Evil
+0973. System Of A Down - She's Like Heroine
+0974. 311 - Sick Tight
+0975. Anouk - Good God [MATCHES WITH: 0021]
+0976. My Chemical Romance - Teenagers
+0977. System Of A Down - Suggestions
+0978. Linkin Park - One Step Closer
+0979. Nirvana - About A Girl
+0980. Incubus - Pardon Me
+0981. Avril Lavigne - I'm With You
+0982. Rammstein - Ausländer
+0983. Coldplay - Viva La Vida
+0984. Mark Ronson Feat. Bruno Mars - Uptown Funk
+0985. The Fray - How To Save A Life
+0986. Muse - Muscle Museum
+0987. Bathory - Blooded Shore
+0988. Muse - Hysteria
+0989. Eric Clapton - Tears In Heaven
+0990. Rednex - Cotton Eye Joe
+0991. Amon Amarth - Guardians Of Asgaard
+0992. Burzum - Erblicket Die Tochter Des Firmament
+0993. Equilibrium - Der Ewige Sieg
+0994. Paramore - The Only Exception
+0995. Igorrr - Musette Maximum
+0996. Tool - The Pot
+0997. Korpiklaani - Bring Us Pints Of Beer
+0998. Alestorm - Magyarorszag
+0999. Def Leppard - Pour Some Sugar On Me
+1000. Escape The Fate - This War Is Ours [The Guillotine II]
+1001. Evanescence - My Immortal
+1002. HIM - The Funeral Of Hearts
+1003. Aaliyah - Are You That Somebody
+1004. HIM - Gone With The Sin
+1005. The Smashing Pumpkins - The Chimera
+1006. Iron Maiden - The Trooper
+1007. Eyes Set To Kill - Reach
+1008. Paramore - Decode [MATCHES WITH: 0101]
+1009. Sabaton - 40:1
+1010. Ice Cube - It Was A Good Day
+1011. Sabaton - Primo Victoria
+1012. EarlyRise - Wasteland
+1013. The Beatles - Come Together
+1014. Rush - Workin' Them Angels
+1015. Blink-182 - Always
+1016. Creedence Clearwater Revival - Down On The Corner
+1017. Rage Against The Machine - Down Rodeo
+1018. Children Of Bodom - Downfall
+1019. Luke Bryan - Drink A Beer
+1020. Train - Drops Of Jupiter
+1021. Pendulum - Encoder
+1022. Avenged Sevenfold - Bat Country [MATCHES WITH: 0140]
+1023. 3 Doors Down - Away From The Sun
+1024. Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+1025. Billy Talent - Worker Bees
+1026. Red Hot Chili Peppers - Dosed
+1027. System Of A Down - Chop Suey!
+1028. Alice Cooper - He's Back (The Man Behind The Mask)
+1029. HIM - The Sacrament
+1030. Trivium - In Waves
+1031. *NSYNC - Bye Bye Bye
+1032. Fake Shark - Cheap Thrills
+1033. Muse - Bliss
+1034. My Chemical Romance - Welcome To The Black Parade
+1035. Red Hot Chili Peppers - Under The Bridge
+1036. Motionless In White - Du Hast
+1037. Eric Clapton - Cocaine
+1038. Silverstein - Bleeds No More
+1039. Toto - Africa
+1040. Paramore - All I Wanted [MATCHES WITH: 0094]
+1041. Paramore - Ain't It Fun
+1042. Deftones - Be Quiet And Drive (Far Away)
+1043. Tina Turner - The Best
+1044. Bathory - In Nomine Satanas
+1045. Serj Tankian - Saving Us
+1046. Deftones - Change (In The House Of Files)
+1047. Joan Jett - Bad Reputation
+1048. Rage Against The Machine - Bombtrack
+1049. Dying Fetus - Justifiable Homicide
+1050. Aephanemer - Snowblind
+1051. Dire Straits - Brothers In Arms
+1052. Rammstein - Ausländer
+1053. Bring Me The Horizon - Can You Feel My Heart
+1054. Seether - Careless Whisper
+1055. Paul McCartney & Wings - Band On The Run
+1056. 3 Doors Down - Be Like That
+1057. Blink-182 - Always
+1058. Trivium - Built To Fall
+1059. Elvis Presley - Can't Help Falling In Love
+1060. P.O.D. - Change The World
+1061. Paramore - Brick By Boring Brick
+1062. Serj Tankian - Empty Walls
+1063. Marilyn Manson - The Beautiful People
+1064. Arctic Monkeys - Arabella
+1065. Bloodhound Gang - Along Comes Mary
+1066. Accept - Losers And Winners
+1067. Aaliyah - Are You That Somebody
+1068. Five Finger Death Punch - A Little Bit Off
+1069. Billy Talent - Devil In A Midnight Mass
+1070. Linkin Park - Numb [MATCHES WITH: 0103]
+1071. Good Charlotte - Girls & Boys
+1072. Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+1073. Trivium - A Gunshot To The Head Of Trepidation
+1074. Green Day - 8th Avenue Serenade
+1075. Avenged Sevenfold - Almost Easy
+1076. XZibit - Alkaholik
+1077. Blink-182 - All Of This
+1078. Good Charlotte - The Anthem
+1079. Cage The Elephant - Ain't No Rest For The Wicked
+1080. P.O.D. - Alive
+1081. The Enemy - Aggro
+1082. System Of A Down - Aerials
+1083. Billy Talent - Surrender
+1084. CKY - Lost In A Contraption
+1085. +44 (Plus 44) - Chapter XIII [MATCHES WITH: 0127]
+1086. +44 (Plus 44) - 155
+1087. The All-American Rejects - Dirty Little Secrets
+1088. Lagwagon - May 16
+1089. Green Day - Fire, Ready, Aim
+1090. Green Day - Longview
+1091. Green Day - Father Of All...
+1092. Green Day - Jesus Of Suburbia
+1093. Green Day - Holiday
+1094. Green Day - Good Riddance (Time Of Your Life)
+1095. Green Day - Boulevard Of Broken Dreams
+1096. Green Day - Letterbomb
+1097. Green Day - Wake Me Up When September Ends
+1098. Green Day - Troubled Times
+1099. Green Day - Too Dumb To Die
+1100. Green Day - Youngblood
+1101. Green Day - Still Breathing
+1102. Green Day - Bouncing Off The Wall
+1103. Green Day - Outlaws
+1104. Green Day - Bang Bang
+1105. Green Day - Somewhere Now
+1106. Green Day - Burnout
+1107. Green Day - See The Light
+1108. Green Day - American Eulogy
+1109. Green Day - 21 Guns [MATCHES WITH: 0102]
+1110. Green Day - Horseshoes And Handgranades
+1111. Green Day - Restless Heart Syndrome
+1112. Green Day - Murder City
+1113. Green Day - Last Of The American Girls
+1114. Green Day - Peacemaker
+1115. Green Day - East Jesus Nowhere
+1116. Green Day - Last Night On Earth
+1117. Green Day - Christians Inferno
+1118. Green Day - Before The Lobotomy
+1119. Green Day - ¡Viva la Gloria!
+1120. Green Day - Know Your Enemy
+1121. Green Day - 21st Century Breakdown
+1122. Green Day - Welcome To Paradise
+1123. Green Day - Chump
+1124. Powerman 5000 - When Worlds Collide
+1125. 2 Unlimited - Get Ready For This (Instrumental)
+1126. 3rd Party - Waiting For Tonight
+1127. 3 Doors Down - Let Me Go
+1128. The All-American Rejects - Gives You Hell
+1129. Rage Against The Machine - Renegades Of Funk
+1130. Silverstein - Smile In Your Sleep
+1131. U2 - Vertigo
+1132. Jimmy Eat World - The Middle
+1133. Incubus - Pardon Me
+1134. Halestorm - I Miss The Misery
+1135. Good Charlotte - The River
+1136. Goldfinger - Superman
+1137. Linkin Park - One Step Closer
+1138. Less Than Jake - The Science Of Selling Yourself Short
+1139. Whiplash - Respect The Dead
+1140. Pendulum - Blood Sugar
+1141. Queen - Another One Bites The Dust
+1142. The Rolling Stones - Gimme Shelter
+1143. The Smashing Pumpkins - Cherub Rock
+1144. Deep Purple - Maybe I'm A Leo
+1145. Rage Against The Machine - Take The Power Back
+1146. Avril Lavigne - How Does It Feel [MATCHES WITH: 0091]
+1147. Deftones - Change (In The House Of Files)
+1148. Stone Temple Pilots - Big Empty
+1149. 311 - Friday Afternoon
+1150. 04 Limited Sazabys - Brain Sugar
+1151. Dethklok - Murmaider
+1152. Alice In Chains - Would
+1153. System Of A Down - B.Y.O.B.
+1154. Muse - Uprising
+1155. Sabaton - Uprising
+1156. Tool - Parabola
+1157. King Diamond - Voodoo
+1158. Red Hot Chili Peppers - Around The World
+1159. Tool - The Pot
+1160. Silverstein - My Heroine [MATCHES WITH: 0092]
+1161. Gorillaz - Clint Eastwood
+1162. Muse - Time Is Running Out [MATCHES WITH: 0105]
+1163. Marilyn Manson - Coma White [MATCHES WITH: 0129]
+1164. My Chemical Romance - DEAD! [MATCHES WITH: 0100]
+1165. Green Day - Brain Stew
+1166. P.O.D. - Youth Of The Nation
+1167. My Chemical Romance - Cancer
+1168. Good Charlotte - The Anthem
+1169. The Offspring - Can't Get My Head Around You
+1170. Septicflesh - Pyramid God
+1171. 28 Days - Rip It Up
+1172. Sabaton - The Carolean's Prayer
+1173. Halestorm - I Miss The Misery
+1174. Sabaton - Fields Of Verdun
+1175. Metallica - Nothing Else Matters [MATCHES WITH: 0128]
+1176. Elvis Presley - Hound Dog
+1177. The Killers - Read My Mind
+1178. CKY - Sink Into The Underground
+1179. Carnivore - Race War
+1180. Johnny Cash - Personal Jesus [MATCHES WITH: 0093]
+1181. Frank Sinatra - New York, New York
+1182. Five Finger Death Punch - Never Enough
+1183. Flow - Remember
+1184. Beastie Boys - Root Down
+1185. My Chemical Romance - I Don't Love You [MATCHES WITH: 0108]
+1186. Dj Shadow - Nobody Speak (Feat. Run The Jewels)
+1187. Death - To Forgive Is To Suffer
+1188. The Enemy - Aggro
+1189. Rammstein - Adios [MATCHES WITH: 0063]
+1190. Raico - Alive
+1191. Metallica - Fuel
+1192. Metallica - Enter Sandman
+1193. Ice Cube - It Was A Good Day
+1194. Down - Eyes Of The South
+1195. Devin Townsend Project - Addicted!
+1196. Cage The Elephant - Ain't No Rest For The Wicked
+1197. Sabaka - Monochromic
+1198. Matt Montgomery With Brian Adam McCune - On Top Of The World
+1199. Hail The Sun - Eight-Ball, Coroner's Pocket
+1200. Maximum The Hormone - Bikini Sports Ponchin
+1201. Dance Gavin Dance - Blue Dream
+1202. American Hi-Fi - Flavor Of The Weak [MATCHES WITH: 0028]
+1203. Alter Bridge - Zero
+1204. 3 Doors Down - Be Like That
+1205. Windir - Blodssvik
+1206. The Disney Afternoon Studio Chorus - Duck Tales Theme
+1207. Korpiklaani - Tequila
+1208. Armor For Sleep - The Truth About Heaven
+1209. Billy Talent - Sympathy
+1210. Yellowcard - Breathing
+1211. Splashh - All I Wanna Do
+1212. Slipknot - All Hope Is Gone
+1213. Queen - Breakthru
+1214. Kittie - Brackish
+1215. System Of A Down - U-Fig
+1216. System Of A Down - Soldier Side
+1217. Nickelback - Savin' Me
+1218. Sting - Demolition Man
+1219. Puddle Of Mudd - She Hates Me
+1220. The Beatles - What Goes On
+1221. The Dreadnoughts - Polka Never Dies
+1222. Dimmu Burgir - Burn In Hell
+1223. After The Burial - Lost In The Static
+1224. Michael Jackson - Billie Jean [MATCHES WITH: 0133]
+1225. Foo Fighters - All My Life
+1226. Black Sabbath - N.I.B.
+1227. Led Zeppelin - Kashmir
+1228. SOJA Feat. Rebelution - Here I Am
+1229. Asking Alexandria - If You Cant Ride Two Horses At Once...
+1230. Eskimo Callboy - MC Thunder 2
+1231. Eskimo Callboy - MC Thunder 1
+1232. Falling In Reverse - Popular Monster
+1233. The Police - Every Breath You Take
+1234. Deftones - Change (In The House Of Files)
+1235. Rammstein - Mutter
+1236. System Of A Down - Suite-Pee
+1237. Modjo - Lady (Hear Me Tonight)
+1238. Rammstein - Mein Land
+1239. Minus The Bear - Cold Company
+1240. Linkin Park - Castle Of Glass
+1241. Adele - Skyfall
+1242. ABC - Poison Arrow
+1243. Paul McCartney & Wings - Band On The Run
+1244. Waylon Jennings - Ask Me To
+1245. Van Halen - Running With The Devil
+1246. The Warning - Hell You Call A Dream
+1247. Paws - Sore Tummy
+1248. Bad Company - Bad Company
+1249. Rob Zombie - Dragula
+1250. Five Finger Death Punch - A Little Bit Off
+1251. Finntroll - Slaget Vid Blodsälv [MATCHES WITH: 0144]
+1252. Eskimo Callboy - Is Anyone Up
+1253. Depresszió - Lásd
+1254. Children Of Bodom - Ooops!... I Did It Again (Britney Spears Cover)
+1255. BABYMETAL - Uki Uki Midnight
+1256. Avril Lavigne - Fall To Pieces
+1257. Alesana - The Thespian
+1258. The Used - All That I've Got [MATCHES WITH: 0141]
+1259. 3 Doors Down - Away From The Sun
+1260. HIM - Circle Of Fear
+1261. Derek And The Dominos - Layla
+1262. My Chemical Romance - Cemetery Drive
+1263. Blink-182 - Always
+1264. Maximum The Hormone - ChuChu Lovely MuniMuni MuraMura
+1265. Sabaton - 40:1
+1266. Good Charlotte - Broken Hearts Parade
+1267. Cannibal Corpse - I C*m Blood
+1268. Emmure - (F)Inally (U)Nderstand (N)Othing
+1269. My Chemical Romance - Cancer
+1270. HIM - Bury Me Deep Inside Your Heart
+1271. CKY - 96 Quite Bitter Beings
+1272. Good Charlotte - Break Apart Her Heart
+1273. Bullet For My Valentine - Tears Don't Fall [MATCHES WITH: 0109]
+1274. Children Of Bodom - Hate Crew Deathroll
+1275. CKY - Tripled Manic State
+1276. 28 Days - What's The Deal?
+1277. The Offspring - Bad Habit
+1278. Trivium - Built To Fall
+1279. 10 Years - Actions And Motives
+1280. Elevation Rhythm - Goodbye Yesterday
+1281. 10 Years - Shoot It Out
+1282. Queen - We Will Rock You
+1283. Deftones - Hole In The Earth
+1284. Ghost - Call Me Little Sunshine
+1285. My Chemical Romance - Teenagers
+1286. Muse - Time Is Running Out [MATCHES WITH: 0105]
+1287. The Fray - How To Save A Life
+1288. My Chemical Romance - Helena
+1289. Eskimo Callboy - Muffin Purper-Gurk
+1290. Ill Nino - How Can I Live
+1291. Fake Shark - Cheap Thrills
+1292. All Time Low - Weightless
+1293. Ado - Usseewa [MATCHES WITH: 0104]
+1294. Linkin Park - Crawling
+1295. Serj Tankian - Baby
+1296. Alicia Keys - Fallin'
+1297. Avril Lavigne - Nobody's Home
+1298. Alestorm - Shipwrecked
+1299. I See Stars Feat. Danny Worsnop - Endless Sky
+1300. Linkin Park - What I've Done
+1301. +44 (Plus 44) - No, It Isn't
+1302. Celldweller - Good L_ck (Yo_'re F_cked)
+1303. Billy Talent - Line And Sinker
+1304. Linkin Park - In The End
+1305. Paramore - That's What You Get
+1306. Alestorm - Keelhauled
+1307. Billy Talent - Worker Bees
+1308. Crimson - Don't Stop
+1309. Asking Alexandria - I Won't Give In
+1310. Avantasia - Ghost In The Moon
+1311. Dr. Dre Feat. Snoop Dogg - The Next Episode
+1312. Spice Girls - Wannabe
+1313. Good Charlotte - I Just Wanna Live
+1314. Mindless Self Indulgence - Shut Me Up
+1315. Duane Eddy - Peter Gunn
+1316. Avril Lavigne - Break Of A Heartache
+1317. Mindless Self Indulgence - D_cks Are For My Friends
+1318. Billy Talent - Standing In The Rain
+1319. Johnny Medlar - Area 51 (Sabaton - Fields Of Verdun Parody)
+1320. P.O.D. - Boom
+1321. My Chemical Romance - Cemetery Drive
+1322. Finntroll - Trollhammaren
+1323. The Birthday Massacre - Flashback
+1324. Tom Misch - Insecure
+1325. Smash Mouth - All Star
+1326. Dethklok - Black Fire Upon Us
+1327. Pink Floyd - Money
+1328. Billy Talent - Living In The Shadows
+1329. Prince And The Revolution - Purple Rain
+1330. Metallica - Master Of Puppets
+1331. My Chemical Romance - The Sharpest Lives
+1332. Pendulum - The Tempest
+1333. Guns N' Roses - November Rain
+1334. Sum 41 - Screaming Bloody Murder
+1335. Pendulum Feat. Steven Wilson - The Fountain
+1336. Tankcsapda - Mire Vagy Kiváncsi?
+1337. X-Ecutioners Feat. Linkin Park - It's Going Down
+1338. Misfits - Attitude
+1339. Dragonforce - My Spirit Will Go On
+1340. Serj Tankian - Honking Antelope
+1341. Rammstein - Zerstören
+1342. Sabaton - Hill 3234
+1343. Mayhem - Freezing Moon
+1344. Korpiklaani - Let's Drink
+1345. HIM - Gone With The Sin
+1346. Good Charlotte - I Don't Wanna Be In Love (Dance Floor Anthem)
+1347. Children Of Bodom - Follow The Reaper
+1348. Blind Guardian - Traveler In Time
+1349. Billy Talent - Lies
+1350. BABYMETAL - Headbangeeeeerrrrrr!!!!!
+1351. Anti-Nowhere League - We Will Survive
+1352. Motionless In White Feat. Bryan Garris - Slaughterhouse
+1353. Iron Maiden - The Trooper
+1354. Jimi Hendrix - Sunshine Of Your Love
+1355. Led Zeppelin - Immigrant Song
+1356. 009 Sound System - Dreamscape
+1357. Paramore - Still Into You
+1358. Coldplay - Don't Panic
+1359. My Chemical Romance - Desolation Row
+1360. Coldplay - Viva La Vida
+1361. Marilyn Manson - The Beautiful People
+1362. System Of A Down - Lonely Day [MATCHES WITH: 0087]
+1363. Mother Mother - Hayloft II
+1364. HIM - Bury Me Deep Inside Your Heart
+1365. Mindless Self Indulgence - Straight To Video
+1366. Linkin Park - P5hng Me Away
+1367. Korpiklaani - Vodka
+1368. P.O.D. - Youth Of The Nation
+1369. Gorillaz - Feel Good Inc.
+1370. Avenged Sevenfold - Almost Easy
+1371. Billy Talent - Prisoners Of Today
+1372. Michael Jackson - Beat It
+1373. Korn - Freak On A Leash
+1374. Nirvana - Lithium
+1375. Paramore - Brick By Boring Brick
+1376. My Chemical Romance - S/C/A/R/E/C/R/O/W
+1377. Silverstein - Smashed Into Pieces
+1378. Volbeat - Shotgun Blues
+1379. Paramore - The Only Exception
+1380. Evanescence - My Immortal
+1381. Arctic Monkeys - Do I Wanna Know? [MATCHES WITH: 0124]
+1382. Eric Clapton - Layla (Unplugged)
+1383. Coldplay - Yellow
+1384. Ed Sheeran - Thinking Out Loud
+1385. Billy Idol - Rebel Yell
+1386. Goo Goo Dolls - Iris
+1387. BABYMETAL - Doki Doki Morning
+1388. Nancy Sinatra - All By Myself
+1389. Avril Lavigne - Alice
+1390. Amy Winehouse - Back To Black
+1391. Misfits - Attitude
+1392. Blink-182 - All Of This
+1393. 30 Seconds To Mars - A Beautiful Lie
+1394. Aim High Feat. Broadside - Better Than This
+1395. Talk Talk - Talk Talk
+1396. Nick Cave & The Bad Seeds Feat. Kylie Minogue - Where The Wild Roses Grow
+1397. Green Day - 8th Avenue Serenade
+1398. Screaming Females - Rotten Apple [MATCHES WITH: 0035]
+1399. Rammstein - Mutter
+1400. Linkin Park - Given Up
+1401. Linkin Park - A Place For My Head
+1402. System Of A Down - U-Fig
+1403. System Of A Down - Soldier Side
+1404. SOJA Feat. Rebelution - Here I Am
+1405. The Dreadnoughts - Polka Never Dies
+1406. The Beatles - What Goes On
+1407. System Of A Down - Suite-Pee
+1408. Puddle Of Mudd - She Hates Me
+1409. Falling In Reverse - Popular Monster
+1410. Nickelback - Savin' Me
+1411. Eskimo Callboy - MC Thunder 2
+1412. Eskimo Callboy - MC Thunder 1
+1413. Yellowcard - Breathing
+1414. The Used - All That I've Got [MATCHES WITH: 0141]
+1415. The Police - Every Breath You Take
+1416. Slipknot - All Hope Is Gone
+1417. Queen - Breakthru
+1418. Modjo - Lady (Hear Me Tonight)
+1419. Michael Jackson - Billie Jean [MATCHES WITH: 0133]
+1420. Led Zeppelin - Kashmir
+1421. Kittie - Brackish
+1422. Foo Fighters - All My Life
+1423. Dimmu Burgir - Burn In Hell
+1424. Black Sabbath - N.I.B.
+1425. Asking Alexandria - If You Cant Ride Two Horses At Once...
+1426. After The Burial - Lost In The Static
+1427. Celldweller - Good L_ck (Yo_'re F_cked)
+1428. Eyes Set To Kill - Not Sorry
+1429. Rammstein - Rein Raus
+1430. Tankcsapda - Azt Mondom Állj
+1431. Sum 41 - Walking Disaster
+1432. Korn - Thoughtless
+1433. ''Weird Al'' Yankovic - NOW! That's What I Call Polka
+1434. Tankcsapda - Adjon Az Ég
+1435. Rush - The Spirit Of Radio
+1436. Avantasia - The Final Sacrifice
+1437. Asking Alexandria - Not An American Average
+1438. Anouk - Good God [MATCHES WITH: 0021]
+1439. Eskimo Callboy - Hypa Hypa
+1440. Nickelback - Follow You Home
+1441. Marilyn Manson - mOBSCENE
+1442. System Of A Down - Lonely Day [MATCHES WITH: 0087]
+1443. Lindemann - Ladyboy
+1444. Blink-182 - Dumpweed
+1445. Beach Fossils - Social Jetlag
+1446. Beabadoobee - Last Day On Earth
+1447. Avenged Sevenfold - Almost Easy
+1448. Avantasia - Reach Out For The Light
+1449. Attack! Attack! - Stick Stickly
+1450. Snoop Dogg - Gin & Juice
+1451. Alexisonfire - No Transitory [MATCHES WITH: 0012]
+1452. ABC - The Look Of Love (Part One)
+1453. Cradle Of Filth - Cruelty Brought Thee Orchids
+1454. Rammstein - Benzin
+1455. The Offspring - Why Don't You Get A Job?
+1456. Rhapsody OF Fire - Dragor, Shadowlord Of The Black Mountain
+1457. Parkway Drive - Crushed
+1458. Paddy And The Rats - The Captain's Dead
+1459. Official Hige Dandism - Cry Baby
+1460. Of Monsters And Men - Dirty Paws
+1461. Michael Jackson - Beat It
+1462. Deftones - Be Quiet And Drive (Far Away)
+1463. Skindred - Roots Rock Riot
+1464. Primus - My Name Is Mud
+1465. Korpiklaani - Bring Us Pints Of Beer
+1466. Jack Off Jill - Strawberry Gashes
+1467. Emmure - Demons With Ryu
+1468. Angels & Airwaves - Everything's Magic
+1469. Amorphis - War
+1470. Alice Cooper - Hey Stoopid
+1471. AFI - God Called In Sick Today
+1472. Aaliyah - Are You That Somebody
+1473. Nirvana - About A Girl
+1474. Beastie Boys - Hey Ladies
+1475. Radiohead - Exit Music (For A Film)
+1476. Yellowcard - Only One
+1477. Dio - Caught In The Middle
+1478. Anthrax - I Am The Law
+1479. Cradle Of Filth - Cemetery And Sundown
+1480. Cradle Of Filth - The Foetus Of A New Day Kicking
+1481. Tokio Hotel - Monsoon (English)
+1482. Type O Negative - My Girlfriend's Girlfriend
+1483. Fall Out Boy - Saturday
+1484. Sum 41 - Underclass Hero
+1485. Dimmu Borgir - Mourning Palace
+1486. Simple Plan - I'm Just A Kid
+1487. Yngwie Malmsteen - Rising Force
+1488. System Of A Down - Attack
+1489. Bowling For Soup - S-S-S-Saturday
+1490. Rammstein - Los
+1491. My Chemical Romance - The Ghost Of You
+1492. Paramore - Now
+1493. Hawthorne Heights - Pens And Needles
+1494. Hawthorne Heights - Ohio Is For Lovers
+1495. Tom Petty And The Heartbreakers - Mary Jane's Last Dance
+1496. Dimmu Borgir - The Serpentine Offering
+1497. M.O.D. - Bubble Butt
+1498. Burzum - Jesus' Tod
+1499. Rancid - Roots Radical
+1500. Rammstein - Dalai Lama
+1501. Rage Against The Machine - Guerilla Radio
+1502. Rage Against The Machine - Testify
+1503. Rage Against The Machine - Bulls On Parade [MATCHES WITH: 0007]
+1504. System Of A Down - Forest
+1505. Rammstein - Stein Um Stein
+1506. Rammstein - Weisses Fleisch
+1507. Avantasia - Farewell
+1508. Lordi - Who's Your Daddy
+1509. Lordi - Hard Rock Hallelujah
+1510. System Of A Down - Vicinity Of Obscenity
+1511. Rage Against The Machine - Wake Up
+1512. Lostprophets - Last Train Home [MATCHES WITH: 0090]
+1513. 3 Doors Down - Let Me Go
+1514. Sum 41 - Rise Up
+1515. Reel Big Fish - The Fire
+1516. Sonny & Cher - I Got You Babe
+1517. Tool - The Pot
+1518. The Birthday Massacre - Flashback
+1519. Dimmu Borgir - Gateways
+1520. Eminem - The Way I Am
+1521. Avril Lavigne - I'm With You
+1522. Bring Me The Horizon - Sleepwalking
+1523. Fall Out Boy - Novocaine
+1524. UB40 - Kingston Town
+1525. Pendulum - Propane Nightmares
+1526. Thirty Seconds To Mars - The Mission
+1527. Blessthefall - Hollow Bodies
+1528. Garth Brooks - The Thunder Rolls
+1529. Avril Lavigne - My Happy Ending
+1530. Emmure - Nemesis
+1531. Billy Talent - Covered In Cowardice
+1532. BABYMETAL - Gimme Chocolate!!
+1533. Flow - Sign
+1534. Girugamesh - Owari To Mirai
+1535. Hammerfall - Any Means Necessary
+1536. The Starting Line - The Best Of Me
+1537. Stone Temple Pilots - Big Empty
+1538. Cute Is What We Aim For - The Curse Of Curves
+1539. Fall Out Boy - Dead On Arrival
+1540. Bowling For Soup - Emily
+1541. Outkast - Hey Ya!
+1542. Bowling For Soup - High School Never Ends
+1543. Slipknot - A Liar's Funeral
+1544. Lamb Of God - Vigil
+1545. Alizée - Moi Lolita
+1546. Billy Talent - Rusted From The Rain
+1547. Alter Bridge - Metalingus
+1548. Depeche Mode - Enjoy The Silence
+1549. Celldweller - Switchback
+1550. Daryl Hall & John Oates - Maneater
+1551. Amon Amarth - Amon Amarth
+1552. Alexisonfire - This Could Be Anywhere In The World
+1553. Avenged Sevenfold - Paradigm
+1554. Red Hot Chili Peppers - Parallel Universe
+1555. Akira Yamaoka - Room Of Angel (Feat. Mary Elizabeth McGlynn)
+1556. Elvis Presley - Burning Love
+1557. Rammstein - Zeit
+1558. Rammstein - Tier
+1559. Scooter - How Much Is The Fish?
+1560. Bryan Adams - Summer Of '69
+1561. Tarja Turunen - Until My Last Breath
+1562. Slipknot - 'Til We Die
+1563. ⚠ Children Of Bodom - Silent Night, Bodom Night
+1564. American Authors - Best Day Of My Life [MATCHES WITH: 0024]
+1565. Ajattara - Harhojen Renki
+1566. Trust - Antisocial
+1567. Dr. Dre & Eminem Feat. South Park - Forgot About TIMMY
+1568. Attila - Pizza [MATCHES WITH: 0055]
+1569. Knocked Loose - Everything Is Quiet Now
+1570. Metallica - Master Of Puppets
+1571. Ace Of Base - The Sign
+1572. Amy Winehouse - Rehab
+1573. Paramore - All I Wanted [MATCHES WITH: 0094]
+1574. Pendulum - Blood Sugar
+1575. P.O.D. - Set It Off
+1576. Pokolgép - Itt És Most
+1577. Puddle Of Mudd - Blurry
+1578. Rhapsody - Dawn Of Victory
+1579. Rage Against The Machine - Bullet In The Head
+1580. Robbie Williams - Supreme
+1581. Aching Head - Self-Destruct
+1582. Motörhead - Overkill
+1583. Amon Amarth - The Way Of Vikings
+1584. The All-American Rejects - Gives You Hell
+1585. Rage Against The Machine - Down Rodeo
+1586. Static-X - Push It
+1587. George Michael - Kissing A Fool
+1588. Dance Gavin Dance - Story Of My Bros
+1589. Seal - Kiss From A Rose
+1590. Sum 41 - Pieces
+1591. Paramore - Decoy
+1592. Silverstein - Apologize
+1593. In Flames - Take This Life
+1594. In Flames - Come Clarity
+1595. Cradle Of Filth - Forgive Me Father (I Have Sinned)
+1596. Green Day - Dilemma
+1597. 👀 10,000 Maniacs - Everyone A Puzzle Lover
+1598. Within Temptation - Grace
+1599. Rag'n'Bone Man - Human
+1600. Spiritbox - Circle With Me
+1601. Turisas - Rasputin
+1602. Coldplay - Speed Of Sound
+1603. Akira Yamaoka - Waiting For You
+1604. Breaking Benjamin - The Diary Of Jane
+1605. America - A Horse With No Name
+1606. Michael Jackson - Thriller
+1607. Amon Amarth - Blood Eagle
+1608. Led Zeppelin - Rock And Roll
+1609. Muse - Psycho
+1610. Papa Roach - Scars
+1611. Windir - Dance Of Mortal Lust
+1612. Junior H - 1004 Kilómetros
+1613. Eric Clapton - Cocaine
+1614. Muse - Bliss
+1615. Billy Idol - Rebel Yell
+1616. The Beatles - Come Together
+1617. Guns N' Roses - November Rain
+1618. Circus Maximus - Sane No More
+1619. Pearl Jam - Better Man
+1620. Ramones - Pet Sematary
+1621. Tool - Crawl Away
+1622. Wham! - Wake Me Up Before You Go Go
+1623. The Carpenters - Top Of The World
+1624. From First To Last - Note To Self
+1625. Toby Fox - Megalovania
+1626. Coal Chamber - Sway [MATCHES WITH: 0118]
+1627. Flyleaf - I'm So Sick
+1628. Dance Gavin Dance - Strawberry Swisher Pt. 2
+1629. Dragonforce - Trail Of Broken Hearts
+1630. Red Hot Chili Peppers - Emit Remmus
+1631. Ozzy Osbourne - Hellraiser (Feat. Motörhead)
+1632. My Chemical Romance - Ambulance
+1633. Bullet For My Valentine - Hearts Burst Into Fire
+1634. Godsmack - Releasing The Demons
+1635. Tankcsapda - Mi A Fasz Van?
+1636. Iron Maiden - Wasted Years
+1637. The Black Dahlia Murder - Everything Went Black
+1638. Slipknot - The Virus Of Life
+1639. Tenacious D - Tribute
+1640. AFI - Silver And Cold
+1641. Arctic Monkeys - Still Take You Home
+1642. Stratovarius - Hunting High And Low
+1643. Korpiklaani - Ievan Polkka
+1644. Dance Gavin Dance - The Robot With Human Hair Pt. 2
+1645. Disturbed - The Game
+1646. Muse - Time Is Running Out [MATCHES WITH: 0105]
+1647. Rage Against The Machine - Renegades Of Funk
+1648. Red Hot Chili Peppers - By The Way
+1649. Amon Amarth - Fafner's Gold
+1650. Bring Me The Horizon - Chelsea Smile
+1651. Toto - Africa
+1652. My Chemical Romance - Demolition Lovers
+1653. Good Charlotte - Lifestyles Of The Rich And Famous
+1654. The Proclaimers - I'm Gonna Be (500 Miles)
+1655. Radiohead - Creep
+1656. System Of A Down - Aerials
+1657. Bring Me The Horizon - Can You Feel My Heart
+1658. Knife Party - Bonfire
+1659. Rammstein - Mein Land
+1660. Good Charlotte - The River
+1661. After The Burial - To Carry You Away
+1662. Emmure - Smokey
+1663. Tom Misch - Insecure
+1664. Linkin Park - Shadow Of The Day
+1665. 10 Years - Ghosts
+1666. 10cc - Dreadlock Holiday
+1667. 04 Limited Sazabys - Utopia
+1668. Nirvana - The Money Will Roll Right In
+1669. AC/DC - Thunderstruck
+1670. Amon Amarth - The Hero
+1671. Tankcsapda - Örökké Tart
+1672. Slipknot - Snuff
+1673. Thirty Seconds To Mars - From Yesterday
+1674. The Cranberries - Linger
+1675. Fergie - Big Girls Don't Cry (Personal)
+1676. 100 Gecs - Stupid Horse
+1677. Bill Withers - Lean On Me
+1678. Kittie - Fire
+1679. TWRP - The No Pants Dance (Feat. Ninja S_x Party)
+1680. Adele - Lovesong
+1681. The HU - Wolf Totem
+1682. Five Finger Death Punch - House Of The Rising Sun
+1683. Attack Attack! - AC-130
+1684. Mindless Self Indulgence - D_cks Are For My Friends
+1685. Amorphis - As Mountains Crumble
+1686. System Of A Down - Shimmy
+1687. Blink-182 - Go
+1688. System Of A Down - Snowblind
+1689. Black Sabbath - Heaven And Hell
+1690. System Of A Down - Jet Pilot
+1691. Mindless Self Indulgence - Shut Me Up
+1692. Iron Maiden - The Trooper
+1693. Psychostick - Beer!!
+1694. Billy Talent - The Ex
+1695. Blink-182 - Easy Target
+1696. Mindless Self Indulgence - Stupid MF
+1697. Magic Wands - Black Magic
+1698. Red Hot Chili Peppers - Dani California
+1699. Jack White - Sixteen Saltines
+1700. Blink-182 - Stockholm Syndrome
+1701. System Of A Down - Science
+1702. Good Charlotte - My Old Man
+1703. Billy Talent - Ever Fallen In Love
+1704. The Clash - I Fought The Law
+1705. Jimmy Eat World - The Middle
+1706. Jinjer - No Hoard Of Value
+1707. AFI - Totalimmortal [MATCHES WITH: 0047]
+1708. Wham! - Club Tropicana
+1709. Attack Attack! - Fumbles O'Brian
+1710. Billy Talent - River Below
+1711. Slipknot - Orphan
+1712. Bullet For My Valentine - Tears Don't Fall [MATCHES WITH: 0109]
+1713. Bryan Adams - (Everything I Do) I Do It For You
+1714. Metallica - Fade To Black
+1715. Spineshank - Smothered
+1716. Stratovarius - Speed Of Light
+1717. Emmure - Bohemian Grove
+1718. Billy Talent - Voices Of Violence
+1719. The Dear Hunter - Stuck On A Wire Out On A Fence [MATCHES WITH: 0016]
+1720. Mother Mother - Hayloft
+1721. Elvis Presley - Can't Help Falling In Love
+1722. The All-American Rejects - Dirty Little Secrets
+1723. Bullet For My Valentine - Your Betrayal
+1724. BABYMETAL - Karate
+1725. Elvis Presley - If I Can Dream
+1726. Aephanemer - Memento Mori (Instrumental)
+1727. George Michael - Careless Whisper
+1728. Eiffel 65 - Blue (Da Ba Dee)
+1729. Blink-182 - Asthenia
+1730. Static-X - I'm With Stupid
+1731. Trivium - In Waves
+1732. Van Halen - Panama
+1733. Chris Isaak - Wicked Game
+1734. Elvis Presley - All Shook Up
+1735. Arch Enemy - Vultures
+1736. Billy Talent - Perfect World
+1737. Joan Jett - Bad Reputation
+1738. The Fray - How To Save A Life
+1739. Billy Talent - Pins And Needles
+1740. Spice Girls - Wannabe
+1741. Rage Against The Machine - Know Your Enemy
+1742. Sum 41 - Over My Head (Better Off Dead)
+1743. Limp Bizkit - Faith
+1744. Sum 41 - Count Your Last Blessings
+1745. Bad Wolves - Zombie (The Cranberries Cover)
+1746. Evanescence - Forgive Me
+1747. Alice In Chains - Rooster
+1748. Led Zeppelin - Dazed And Confused
+1749. 2pac - Changes
+1750. Mayday Parade - Black Cat
+1751. Type O Negative - Love You To Death
+1752. Danzig - Mother
+1753. American Head Charge - Just So You Know
+1754. Iron Maiden - Can I Play With Madness?
+1755. We Butter The Bread With Butter - Exorzist
+1756. Avantasia - Carry Me Over
+1757. The All-American Rejects - Move Along
+1758. Serj Tankian - Saving Us
+1759. System Of A Down - Stealing Society
+1760. All Time Low - Once In A Lifetime
+1761. Billy Talent - Stand Up And Run
+1762. Within Temptation - Angels
+1763. Rammstein - Sonne
+1764. All Time Low - Pretty Venom
+1765. CKY - Escape From Hellview
+1766. Pendulum - Salt In The Wounds
+1767. Amaranthe - Digital World
+1768. Green Day - In The End
+1769. Sabaton - Hellfighters
+1770. My Chemical Romance - Our Lady Of Sorrow
+1771. Rage Against The Machine - Bombtrack
+1772. System Of A Down - Spiders
+1773. Megadeth - Mechanix
+1774. CKY - Lost In Contraption
+1775. All Time Low - Get Down On Your Knees And Tell Me You Love Me
+1776. B-52's - Rock Lobster
+1777. Children Of Bodom - If You Want Peace... Prepare For War
+1778. Oasis - Stop Crying Your Heart Out
+1779. Rammstein - Engel
+1780. Avril Lavigne - Tomorrow
+1781. La Sera - Love That's Gone
+1782. 220 Volt - Love Is All You Need
+1783. Sabaton - Angels Calling (Live)
+1784. Orange Range - Asterisk
+1785. 1349 - Legion
+1786. Adelitas Way - Alive
+1787. 12 Stones - Broken
+1788. Rammstein - D_cke T_tten
+1789. Good Charlotte - I Just Wanna Live
+1790. Opeth - In My Time Of Need
+1791. Burzum - Autumn Leaves [MATCHES WITH: 0120]
+1792. Burzum - Black Spell Of Destruction
+1793. Stratovarius - Break The Ice
+1794. Eric Clapton - Layla (Unplugged)
+1795. Cyndi Lauper - Girls Just Want To Have Fun
+1796. Escape The Fate - This War Is Ours (The Guillotine II)
+1797. Akercocke - Man Without Faith Or Trust
+1798. Slaughter To Prevail - Baba Yaga
+1799. Emmure - Rusted Over Wet Dreams
+1800. Bring Me The Horizon Feat. Joe Bad - Sandpit Turtle
+1801. My Chemical Romance - Sing
+1802. We Butter The Bread With Butter - Ich Mach Was Mit Medien
+1803. Rage Against The Machine - Killing In The Name
+1804. Red Hot Chili Peppers - Californication
+1805. Bring Me The Horizon - Kool-Aid
+1806. Pendulum - Different
+1807. XZibit - Alkaholik
+1808. Sabaton - 1648 (English)
+1809. Linkin Park - Hit The Floor
+1810. The Glitch Mob - Seven Nation Army Remix (The White Stripes)
+1811. Motionless In White - LOUD (F*ck It)
+1812. Knocked Loose - ...And Still I Wander South
+1813. Red Hot Chili Peppers - Otherside
+1814. 10,000 Maniacs - Like The Weather
+1815. The Shins - For A Fool
+1816. Foo Fighters - Everlong
+1817. Dance Gavin Dance - Lemon Meringue Tie
+1818. Liquido - Narcotic
+1819. Rammstein - Zick Zack
+1820. In Flames - Episode 666
+1821. My Chemical Romance - Heaven Help Us
+1822. Avril Lavigne - How Does It Feel [MATCHES WITH: 0091]
+1823. Rhapsody Of Fire - The Last Winged Unicorn
+1824. Derek And The Dominos - Layla
+1825. Ghost - Square Hammer
+1826. Avril Lavigne - Sk8er Boi
+1827. Cradle Of Filth - Nymphetamine (Overdose)
+1828. My Chemical Romance - Mama
+1829. Igorrr - Musette Maximum
+1830. Eyes Set To Kill - Reach
+1831. Imagine Dragons - Warriors
+1832. Acid Drinkers - Hit The Road Jack
+1833. After The Burial - Neon Seoul
+1834. Emmure - E
+1835. I Killed The Prom Queen - Say Goodbye
+1836. Bob Marley & The Wailers - I Shot The Sheriff
+1837. Arctic Monkeys - Why'd You Only Call Me When You're High
+1838. Attack! Attack! - What Happens If I Can't Check My Myspace...
+1839. Arctic Monkeys - Balaclava
+1840. We Butter The Bread With Butter - Dreh Auf
+1841. I Prevail - Closure
+1842. Fall Out Boy - Homesick At Space Camp
+1843. Black Sabbath - War Pigs
+1844. NOFX - Dinosaurs Will Die
+1845. Fountains Of Wayne - Stacy's Mom
+1846. Ed Sheeran - Thinking Out Loud
+1847. Tool - Forty Six & 2
+1848. Alesana - Ambrosia
+1849. Rammstein - Te Quiero P*ta
+1850. Avril Lavigne - Don't Tell Me
+1851. Arctic Monkeys - R U Mine?
+1852. Def Leppard - Pour Some Sugar On Me
+1853. Kiss - Rock And Roll All Nite
+1854. 220 Volt - Dangerous
+1855. Avril Lavigne - He Wasn't
+1856. Tom Misch - Cinnamon Curls
+1857. Blink-182 - Man Overboard
+1858. Dance Gavin Dance - Elder Goose
+1859. Children of Bodom - Downfall
+1860. Sum 41 - With Me
+1861. ZZ Top - Tush
+1862. Fugazi - Turnover
+1863. Blink-182 - Blow Job
+1864. Angels & Airwaves - Sirens
+1865. Tankcsapda - Gyűrd Össze A Lepedőt
+1866. Nirvana - Tourette's
+1867. Weezer - Say It Ain't So
+1868. Tankcsapda - Mennyország Tourist
+1869. Blink-182 - Violence
+1870. Slipknot - Vermilion Pt. 2
+1871. Paramore - That's What You Get
+1872. Metallica - Creeping Death
+1873. Blink-182 - Down
+1874. Weird Al Yankovic - White & Nerdy
+1875. Nightwish - Sleeping Sun (Remastered)
+1876. EarlyRise - Wasteland
+1877. Thirty Seconds To Mars - Attack
+1878. Avenged Sevenfold - So Far Away
+1879. My Chemical Romance - Disenchanted
+1880. Linkin Park & Jay-Z - 99 Problems
+1881. Tankcsapda - Egyszerű Dal
+1882. Red Hot Chili Peppers - 21st Century
+1883. Pierce The Veil Ft. Kellin Quinn - King For A Day
+1884. Tenacious D - Kickapoo
+1885. Guns N' Roses - Knockin' On Heaven's Door
+1886. HIM - Killing Loneliness
+1887. Serj Tankian - Lie Lie Lie
+1888. Linkin Park - The Emptiness Machine
+1889. Sabaton - Kingdom Come
+1890. Black Sabbath - Iron Man
+1891. Goo Goo Dolls - Iris
+1892. Pendulum - Hold Your Colour
+1893. The Beatles - Here Comes The Sun
+1894. Sabaton - Counterstrike
+1895. Avenged Sevenfold - Hail To The King
+1896. The Beatles - Let It Be
+1897. Tenacious D - Wonderboy
+1898. Alestorm - Shipwrecked
+1899. Gogol Bordello - Immigraniada (We Comin' Rougher)
+1900. Alestorm - Pirate Metal Drinking Crew
+1901. Guns N' Roses - Welcome To The Jungle
+1902. Little V - Wellerman (Sea Chanty) But It's Pirate Metal
+1903. Pink Floyd - Another Brick In The Wall, Part Two
+1904. Finntroll - Trollhammaren
+1905. Dissection - Where Dead Angels Lie
+1906. Heaven Shall Burn - Black Tears
+1907. Vengaboys - Boom, Boom, Boom, Boom!
+1908. Mick Gordon - At DOOM's Gate
+1909. IkimonoGakari - Blue Bird
+1910. Die Ärzte - Pro-Zombie
+1911. Panic! At The Disco - High Hopes
+1912. Rammstein - Deutschland
+1913. Pendulum - Blood Sugar
+1914. Hollywood Undead - Another Way Out
+1915. Nightwish - Nightquest
+1916. System Of A Down - Streamline
+1917. Aesthetic Perfection - Never Enough
+1918. System Of A Down - Old School Hollywood
+1919. System Of A Down - Lost In Hollywood
+1920. Hollywood Undead - Levitate
+1921. Bullet For My Valentine - Hand Of Blood
+1922. Aesthetic Perfection - Dead Zone
+1923. Evanescence - What You Want
+1924. Metallica - One
+1925. Evanescence - Cloud Nine
+1926. Linkin Park - Lost
+1927. Maroon 5 - Memories
+1928. Mike Oldfield Feat. Maggie Reilly - Moonlight Shadow
+1929. Bob Dylan - Knockin' On Heaven's Door
+1930. BABYMETAL - Ijime, Dame, Zettai
+1931. Flyleaf - Green Heart
+1932. Dragonforce - Operation Ground And Pound
+1933. Disturbed - Shout 2000
+1934. Bring Me The Horizon - Diamonds Aren't Forever
+1935. Red Hot Chili Peppers - Scar Tissue
+1936. Gogol Bordello - Wonderlust King
+1937. Ed Sheeran - Shape Of You
+1938. Pendulum Feat. Liam Howlett - Immunize
+1939. Isaac Hayes - Chocolate Salty Balls
+1940. ReinXeed (Majestica) - Above The Sky
+1941. John Mayer - Gravity
+1942. Pendulum - Granite
+1943. Serj Tankian - Goodbye - Gate 21 (Rock Remix)
+1944. Sabaton - We Burn
+1945. Arctic Monkeys - Fluorescent Adolescent
+1946. Serj Tankian - Feed Us
+1947. Creedence Clearwater Revival - Down On The Corner
+1948. Sabaton - The Unkillable Soldier
+1949. Guns N' Roses - Civil War
+1950. Serj Tankian - Butterfly
+1951. Dire Straits - Brother In Arms
+1952. Arctic Monkeys - Arabella
+1953. Korn - Freak On A Leash
+1954. Sabaton - Winged Hussars
+1955. Bring Me The Horizon - Drown
+1956. Bring Me The Horizon Feat. BABYMETAL - Kingslayer
+1957. Nirvana - Rape Me
+1958. Disturbed - The Sound Of Silence
+1959. HIM - Join Me In Death
+1960. Steve Lacy - Bad Habit
+1961. Sabaton - Light In The Black
+1962. Tommy Richman - MILLION DOLLAR BABY
+1963. Falling In Reverse - Voices In My Head
+1964. PewDiePie X Party In Backyard - Bitch Lasagna
+1965. Sabaton - The Price Of A Mile
+1966. Zac Brown Band - Chicken Fried
+1967. Sabaton - In The Name Of God
+1968. Yoasobi - Kaibutsu
+1969. Powerwolf - Fist By Fist (Sacralize Or Strike)
+1970. ALI Feat. Aklo - Lost In Paradise (Jujutsu Kaisen Ending)
+1971. P.O.D. - Satelite
+1972. Powerwolf Feat. Ralf Scheepers - Sanctified With Dynamite
+1973. Sabaton - Aces In Exile
+1974. Girugamesh - Shining
+1975. Attack! Attack! - All My Life
+1976. I Set My Friends On Fire - Brief Interviews With Hideous Men
+1977. "Weird Al" Yankovic - Christmas At Ground Zero
+1978. Sabaton - The Last Battle
+1979. A Day To Remember - End Of Me
+1980. '68 - Whether Terrified Or Unafraid
+1981. "Weird Al" Yankovic - Attack Of The Radioactive Hamsters
+1982. Sabaton - Race To The Sea
+1983. Alesana - Apology
+1984. A Day To Remember - If I Leave
+1985. 'Til Tuesday - Maybe Monday
+1986. "Weird Al" Yankovic - Angry White Boy Polka
+1987. Sabaton - Versailles
+1988. .38 Special - See Me In Your Eyes
+1989. Trivium - A Gunshot To The Head Of Trepidation
+1990. 'Til Tuesday - Love In A Vacuum
+1991. "Weird Al" Yankovic - Amish Paradise [MATCHES WITH: 0088]
+1992. Eminem - The Real Slim Shady
+1993. Sabaton - Sarajevo
+1994. Asking Alexandria - I Won't Give In
+1995. Alesana - All Night Dance Parties In The Underground Palace
+1996. "Weird Al" Yankovic - eBay
+1997. .38 Special - If I'd Been The One
+1998. Sabaton - Union (Slopes Of St. Benedict)
+1999. Hot Mulligan - Featuring Mark Hoppus
+2000. .38 Special - Chain Lightnin'
+2001. +44 - Lycanthrope
+2002. Sabaton - Wolfpack
+2003. Rammstein - Spiel Mit Mir
+2004. Volbeat - Dead But Rising
+2005. Sum 41 - 88
+2006. Coal Chamber - Tyler's Song
+2007. Rammstein - Zwitter
+2008. Sabaton - 40:1
+2009. Måneskin - I WANNA BE YOUR SLAVE
+2010. Nena - 99 Red Balloons
+2011. Coal Chamber - Something Told Me
+2012. Pendulum - Slam
+2013. Sabaton - Livgardet
+2014. Rammstein - Das Modell (Kraftwerk Cover)
+2015. Nightwish - Nemo (Live)
+2016. Nickelback - Next Contestant
+2017. Led Zeppelin - Immigrant Song
+2018. Sabaton - Last Dying Breath
+2019. Rammstein - Moskau
+2020. Cradle Of Filth - Lovesick For Mina
+2021. The Bangles - Eternal Flame
+2022. Megadeth - Sweating Bullets [MATCHES WITH: 0114]
+2023. The Who - My Generation
+2024. Sabaton - The Valley Of Death
+2025. Yngwie Malmsteen - Anguish And Fear
+2026. Alice In Chains - Dirt
+2027. Joe Satriani - Satch Boogie [MATCHES WITH: 0013]
+2028. The Birthday Massacre - Blue
+2029. Sabaton - The Red Baron
+2030. Rockwell - Somebody's Watching Me
+2031. Fake Shark - Cheap Thrills
+2032. Dr. Dre - The Next Episode (Feat. Snoop Dogg, Kurupt, Nate Dogg)
+2033. 5 Seconds Of Summer - Teeth
+2034. Sabaton - Soldier Of 3 Armies
+2035. Eminem - Love The Way You Lie (Feat. Rihanna)
+2036. Gold Motel - Brand New Kind Of Blue [MATCHES WITH: 0027]
+2037. Alice In Chains - Brush Away
+2038. Rammstein - Bestrafe Mich
+2039. Sabaton - Inmate 4859
+2040. Blink-182 - I'm Lost Without You
+2041. Rammstein - Spring
+2042. Avenged Sevenfold - Shepherd Of Fire
+2043. Green Day - Hitchin' A Ride
+2044. Sabaton - Seven Pillars Of Wisdom
+2045. My Chemical Romance - House Of Wolves
+2046. 2pac - All Eyez On Me
+2047. Green Day - Letterbomb
+2048. Sabaton - Resist And Bite
+2049. Blink-182 - Here's Your Letter
+2050. Scorpions - Wind Of Change [MATCHES WITH: 0089]
+2051. Twenty One Pilots - Jumpsuit
+2052. Avril Lavigne - Together
+2053. Queen - We Are The Champions [MATCHES WITH: 0031]
+2054. Elvis Presley - Suspicious Minds
+2055. Rammstein - Mann Gegen Mann
+2056. Linkin Park - What I've Done
+2057. Limp Bizkit - Rollin' (Air Raid Vehicle) (Radio Edit)
+2058. 30 Seconds To Mars - The Fantasy
+2059. Eminem - Rap God [MATCHES WITH: 0134]
+2060. Sabaton - Midway
+2061. Blink-182 - Always
+2062. Billy Talent - Living In The Shadows
+2063. Rammstein - Adieu [MATCHES WITH: 0061]
+2064. HIM - Your Sweet 666
+2065. Sabaton - Night Witches
+2066. HIM - Vampire Heart
+2067. Good Charlotte - The Anthem
+2068. Blink-182 - Obvious
+2069. Santana - Europa
+2070. Sabaton - Metal Medley : Metal Machine (Live)
+2071. Mark Ronson Feat. Bruno Mars - Uptown Funk
+2072. Serj Tankian - Baby
+2073. .38 Special - Long Distance Affair
+2074. Autopilot Off - The 12th Day [MATCHES WITH: 0056]
+2075. Billy Talent - Tears Into Wine
+2076. 'Til Tuesday - (Believed You Were) Lucky
+2077. Metallica - Whiskey In The Jar
+2078. Sabaton - The Future Of Warfare
+2079. Smash Mouth - All Star
+2080. Pendulum - Witchcraft
+2081. Sabaton - Lejonet Från Norden
+2082. SiM - The Rumbling
+2083. !Action Pact! - Open Your Eyes
+2084. Sabaton - The First Soldier
+2085. Billy Talent - This Is How It Goes
+2086. !Action Pact! - Optimism
+2087. The Jackson 5 - I Want You Back
+2088. ReinXeed (Majestica) - Money, Money, Money
+2089. My Chemical Romance - Helena
+2090. Sabaton - Killing Ground
+2091. Billy Talent - Nothing To Lose
+2092. Rise Against - Behind Closed Doors
+2093. Red Hot Chili Peppers - Snow (Hey Oh)
+2094. Korn - Twisted Transistor [MATCHES WITH: 0097]
+2095. MrWeebl - Badger, Badger, Badger
+2096. Sabaton - The Lost Battalion
+2097. My Chemical Romance - I'm Not Okay (I Promise)
+2098. HIM - Under The Rose
+2099. Eurobeat Brony - Discord (The Living Tombstone Remix)
+2100. Coal Chamber - Loco
+2101. UB40 - Red Red Wine
+2102. Sabaton - Metal Ripper
+2103. Motionless In White - Porcelain
+2104. Bob Marley & The Wailers - Jammin'
+2105. ABBA - Money, Money, Money
+2106. My Chemical Romance - Boy Division
+2107. Sabaton - Kunungens Likfärd
+2108. Billy Talent - I Beg To Differ (This Will Get Better)
+2109. Sabaton - Rise Of Evil
+2110. Nirvana - Heart-Shaped Box
+2111. Sabaton - Ruina Imperii
+2112. Motionless In White - Sign Of Life
+2113. Blink-182 - Anthem Part Two
+2114. Limp Bizkit - Hot Dog
+2115. Motionless In White - Thoughts & Prayers
+2116. Edvard Grieg - In The Hall Of The Mountain King (Metal)
+2117. Billy Talent - Fallen Leaves
+2118. Bob Marley & The Wailers - Three Little Birds
+2119. Coal Chamber - Rowboat
+2120. Sabaton - Father
+2121. Motionless In White - Meltdown
+2122. Billy Talent - Devil In A Midnight Mass
+2123. Behemoth - Slaves Shall Serve
+2124. Sabaton - Reign Of Terror
+2125. Motionless In White - Du Hast
+2126. Blink-182 - Happy Holidays, You Bastard
+2127. Alice In Chains - Would?
+2128. Ado - Usseewa [MATCHES WITH: 0104]
+2129. Behemoth - Bartzabel
+2130. Sabaton - The Attack Of The Dead Men
+2131. Motionless In White - Ghost In The Mirror
+2132. A Change Of Pace - Weekend Warriors [MATCHES WITH: 0037]
+2133. Volbeat - Shotgun Blues
+2134. Cradle Of Filth - English Fire
+2135. Behemoth - Conquer All
+2136. Sabaton - The Last Stand
+2137. Motionless In White - Headache
+2138. The Birthday Massacre - Happy Birthday
+2139. 3 Doors Down - Away From The Sun
+2140. Simple Plan - Shut Up
+2141. Sabaton - Saboteurs
+2142. Joan Jett & The Blackhearts - I Love Rock 'N Roll
+2143. 88 Fingers Louie - Meds
+2144. Nonpoint - In The Air Tonight
+2145. Ill Nino - How Can I Live
+2146. Nirvana - The Man Who Sold The World [MATCHES WITH: 0099]
+2147. HIM - Wings Of A Butterfly [MATCHES WITH: 0110]
+2148. Coal Chamber - Big Truck
+2149. CB Murdoc - Everything Is Going To Be OK
+2150. Lorna Shore - To The Hellfire
+2151. Simple Plan - Welcome To My Life
+2152. Sabaton - Nightchild
+2153. Guns N' Roses - Sweet Child O' Mine
+2154. Sabaton - Devil Dogs
+2155. Motionless In White - Reincarnate
+2156. 4 Non Blondes - What's Up
+2157. 3 Doors Down - Here Without You
+2158. 2pac - California Love
+2159. Sabaton - To Hell And Back
+2160. Motionless In White - Scissorhands (The Last Snow)
+2161. System Of A Down - Revenga
+2162. Escape The Fate - Situations
+2163. My Chemical Romance - This Is How I Disappear
+2164. Pendulum - Showdown
+2165. Jaws - Stay In
+2166. Lamb Of God - Ashes Of The Wake
+2167. Sabaton - Panzer Battalion (Live)
+2168. Pink Floyd - Money
+2169. Arctic Monkeys - Do I Wanna Know? [MATCHES WITH: 0124]
+2170. Aerosmith - I Don't Want To Miss A Thing
+2171. Sabaton - 1916
+2172. Pendulum - The Catalyst
+2173. Linkin Park - New Divide
+2174. Suicide Silence - You Only Live Once
+2175. Avril Lavigne - Hot
+2176. Sabaton - Panzerkampf
+2177. Catalina Estefania Pastrian - Nico-Nico-Nii (Beatstep)
+2178. Rammstein - Ausländer
+2179. Beatsteaks - Hail To The Freaks
+2180. Pendulum - Fasten Your Seatbelt [MATCHES WITH: 0113]
+2181. Sabaton - Into The Fire
+2182. Motionless In White - Disguise
+2183. The Rolling Stones - Paint It, Black
+2184. Rise Against - Savior [MATCHES WITH: 0122]
+2185. Rammstein - Morgenstern
+2186. ...And You Will Know Us By The Trail Of Dead - Relative Ways
+2187. Sabaton - Soldier Of Heaven
+2188. Motionless In White - Death March
+2189. Avenged Sevenfold - A Little Piece Of Heaven [MATCHES WITH: 0060]
+2190. The Amity Affliction - Don't Lean On Me [MATCHES WITH: 0142]
+2191. .38 Special - Back To Paradise
+2192. Sabaton - Panzer Battalion
+2193. System Of A Down - Toxicity [MATCHES WITH: 0111]
+2194. Sabaton - Swedish Pagans
+2195. Alestorm - Rum
+2196. .38 Special - Robin Hood
+2197. 3 Doors Down - It's Not My Time
+2198. Slipknot - Duality
+2199. Sabaton - Rorke's Drift
+2200. I See Stars Feat. Danny Warsnop - Endless Sky
+2201. Frédéric Chopin - Nocturne In E Flat Major (Op. 9 No. 2)
+2202. Metallica - Nothing Else Matters [MATCHES WITH: 0128]
+2203. Sabaton - Poltava
+2204. Motionless In White - Eternally Yours
+2205. Arch Enemy - Taking Back My Soul
+2206. Metallica - Frantic
+2207. Motionless In White - Werewolf
+2208. Sabaton - Uprising
+2209. Motionless In White - Cyberhex
+2210. Alestorm - Keelhauled
+2211. Trivium - Dying In Your Arms
+2212. Maximum The Hormone - Zetsubou Billy
+2213. 009 Sound System - Dreamscape
+2214. Sabaton - Ett Slag Färgat Rött
+2215. Motionless In White - Creatures
+2216. Sabaton - Hill 3234
+2217. Motionless In White - Catharsis
+2218. System Of A Down - Prison Song
+2219. Rammstein - Asche Zu Asche
+2220. Fuerza Regida - OYE
+2221. Avril Lavigne - Take Me Away
+2222. Sabaton - Stormtroopers
+2223. Motionless In White - Billy In 4C Never Saw It Coming
+2224. Bring Me The Horizon Feat. Underoath - A BulleT W/ My NamE On
+2225. BABYMETAL & Dragonforce - Road To Resistance
+2226. Limp Bizkit - Nookie
+2227. Sabaton - The End Of The War To End All Wars
+2228. Motionless In White - Creatures X: To The Grave
+2229. P.O.D. - Change The World
+2230. Good Charlotte - Girls & Boys
+2231. Motionless In White - Cobwebs
+2232. Sabaton - Bismarck
+2233. John Denver - Take Me Home, Country Roads
+2234. Nirvana - All Apologies
+2235. Bring Me The Horizon Feat. AURORA - liMOusIne
+2236. BABYMETAL & Electric Callboy - RATATATA [MATCHES WITH: 0116]
+2237. Sabaton - Far From The Fame
+2238. Motionless In White - Cause Of Death
+2239. Linkin Park - Lying From You [MATCHES WITH: 0096]
+2240. HIM - Funeral Of Hearts
+2241. Motionless In White - Burned At Both Ends
+2242. 311 - Come Original
+2243. 311 - Color
+2244. Korn - Here To Stay
+2245. Sabaton - Birds Of War
+2246. Motionless In White - Break The Cycle
+2247. 10 Years - Shoot It Out
+2248. System Of A Down - Chop Suey
+2249. HIM - The Sacrament
+2250. Sabaton - A Ghost In The Trenches
+2251. Motionless In White - /C0de
+2252. Oasis - Don't Look Back In Anger
+2253. My Chemical Romance - Famous Last Words
+2254. Motionless In White - Black Damask (The Fog)
+2255. HIM - Buried Alive By Love
+2256. Attack! Attack! - Smokahontas
+2257. 10 Years - Through The Iris
+2258. Sabaton - 1648 (Swedish)
+2259. Motionless In White - Immaculate Misconception
+2260. 10 Years - Telescreen (Vampires Early Demo)
+2261. System Of A Down - A.T.W.A.
+2262. Linkin Park - Crawling
+2263. Kansas - Carry On Wayward Son
+2264. George Michael - Faith
+2265. Sabaton Feat. Radio Tapok - The Attack Of The Dead Men
+2266. Motionless In White - Brand New Numb
+2267. Falling In Reverse - Zombified
+2268. 12 Stones - Crash
+2269. Paramore - Decode [MATCHES WITH: 0101]
+2270. Twenty One Pilots - Stressed Out
+2271. Sabaton - The Ballad Of Bull
+2272. Motionless In White - Voices
+2273. ABBA - Waterloo
+2274. 12 Stones - The Way I Feel
+2275. 10 Years - Actions And Motives
+2276. Adam And The Ants - That Voodoo!
+2277. Sabaton - Metal Crüe
+2278. Motionless In White - America
+2279. ABBA - Thank You For The Music
+2280. Willie Nelson - Whiskey River
+2281. A Day To Remember - Another Song About The Weekend
+2282. Linkin Park - Papercut
+2283. Sabaton - Hearts Of Iron
+2284. 100 Gecs - Money Machine
+2285. 9mm Parabellum Bullet - Sacrifice [MATCHES WITH: 0008]
+2286. Our Last Night - Clarity
+2287. Sabaton - The Carolean's Prayer
+2288. Red Hot Chili Peppers - Dosed
+2289. Rammstein - Mein Teil
+2290. Aloe Blacc - I Need A Dollar
+2291. 'Til Tuesday - Voices Carry
+2292. Sabaton - Attero Dominatus
+2293. *NSYNC - Bye Bye Bye
+2294. +44 (Plus 44) - No, It Isn't
+2295. -M- (Matthieu Chedid) - Qui De Nous Deux
+2296. Linkin Park - Faint
+2297. Midnight Oil - Beds Are Burning
+2298. Sabaton - Unbreakable
+2299. ZZ Top - La Grange
+2300. 10 Years - All Your Lies
+2301. The Rasmus - In The Shadows
+2302. Billy Talent - Sympathy
+2303. Linkin Park - QWERTY
+2304. Sabaton - Wehrmacht
+2305. ''Weird Al'' Yankovic - Foil
+2306. 10 Years - Wasteland
+2307. 04 Limited Sazabys - Galapagos [MATCHES WITH: 0044]
+2308. Avenged Sevenfold - Bat Country [MATCHES WITH: 0140]
+2309. Sabaton - Screaming Eagles
+2310. Motionless In White - B.F.B.T.G.: Corpse Nation
+2311. Korn - Word Up!
+2312. Motionless In White - Abigail
+2313. Pantera - Cemetery Gates
+2314. Die Antwoord - Enter The Ninja [MATCHES WITH: 0086]
+2315. Sabaton - Karolinens Bön
+2316. Tenacious D - Beelzeboss
+2317. Motionless In White - Masterpiece
+2318. Linkin Park - Breaking The Habit
+2319. Talking Heads - Burning Down The House
+2320. Pink Floyd - Comfortably Numb
+2321. Sabaton - Gott Mit Uns
+2322. "Weird Al" Yankovic - Eat It
+2323. Motorhead Feat. Jim Johnston - The Game (WWE: Triple H Theme)
+2324. Saliva Feat. Jim Johnston - I Walk Alone (WWE: Batista Theme)
+2325. Sum 41 - War
+2326. Sabaton - Nuclear Attack
+2327. Falling In Reverse - The Drug In Me Is You
+2328. Amon Amarth - Raise Your Horns [MATCHES WITH: 0135]
+2329. Avril Lavigne - Losing Grip
+2330. Nirvana - About A Girl (Unplugged)
+2331. Sabaton - White Death
+2332. *NSYNC - Tearin' Up My Heart
+2333. Tom Misch - Disco Yes [MATCHES WITH: 0106]
+2334. Limp Bizkit - Break Stuff
+2335. Gorillaz - Dare
+2336. Sabaton - Metal Machine
+2337. System Of A Down - Holy Mountains
+2338. -M- (Matthieu Chedid) - Laisse Aller
+2339. -M- (Matthieu Chedid) - Je Dis Aime
+2340. -M- (Matthieu Chedid) - Le Complexe Du Corn Flakes
+2341. Sabaton - The Final Solution
+2342. Laufey - Falling Behind
+2343. Rammstein - Ich Will
+2344. Sabaton - Purple Heart
+2345. Linkin Park - Numb [MATCHES WITH: 0103]
+2346. Sabaton - 7734
+2347. A-Ha - I Call Your Name
+2348. Dire Straits - Sultans Of Swing
+2349. Girugamesh - Break Down
+2350. Alicia Keys - If I Ain't Got You
+2351. Linkin Park - Bleed It Out
+2352. Sabaton - Fields Of Verdun
+2353. Pendulum - Watercolour
+2354. Dire Straits - Money For Nothing
+2355. Linkin Park - In The End
+2356. Sabaton - Cliffs Of Gallipoli
+2357. 2pac - Ambitionz Az A Ridah
+2358. 3 Inches Of Blood - Deadly Sinners
+2359. Amy Winehouse - You Know I'm No Good
+2360. Sabaton - Defence Of Moscow
+2361. Muse - Knights Of Cydonia
+2362. Rammstein - Keine Lust
+2363. Evanescence - Call Me When You’re Sober
+2364. U2 - Vertigo
+2365. Sabaton - Blood Of Bannockburn
+2366. Billy Talent - This Suffering
+2367. "Weird Al" Yankovic - Another Tattoo
+2368. Red Hot Chili Peppers - Suck My Kiss
+2369. Pendulum - The Vulture
+2370. Korn - Blind
+2371. Sabaton - Angels Calling
+2372. Dragonforce - My Spirit Will Go On
+2373. *NSYNC - It's Gonna Be Me
+2374. Pendulum - 9,000 Miles [MATCHES WITH: 0053]
+2375. *Shels - Journey To The Plains
+2376. Red Hot Chili Peppers - Soul To Squeeze [MATCHES WITH: 0112]
+2377. Sabaton - Christmas Truce
+2378. Van Halen - Hot For Teacher
+2379. System Of A Down - B.Y.O.B.
+2380. Asking Alexandria - A Prophecy
+2381. All Time Low - A Love Like War (Feat. Vic Fuentes) [MATCHES WITH: 0079]
+2382. All Time Low - Damned If I Do Ya (Damned If I Don’t)
+2383. Sabaton - Sparta
+2384. Billy Talent - Standing In The Rain
+2385. R.E.M. - Losing My Religion
+2386. Slipknot - Psychosocial
+2387. Radiohead - Paranoid Android [MATCHES WITH: 0131]
+2388. Maroon 5 - This Love
+2389. Fleetwood Mac - Go Your Own Way
+2390. Sabaton - Stalingrad
+2391. System Of A Down - Lonely Day [MATCHES WITH: 0087]
+2392. Linkin Park - One Step Closer
+2393. Billy Talent - Try Honesty
+2394. My Chemical Romance - Welcome To The Black Parade
+2395. Nirvana - Come As You Are
+2396. Sabaton - Primo Victoria
+2397. Rammstein - Hilf Mir [MATCHES WITH: 0072]
+2398. Three Days Grace - Pain
+2399. Thirty Seconds To Mars - Valhalla
+2400. CKY - Dressed In Decay
+2401. Sabaton - Ghost Division
+2402. T.A.T.U. - All The Things She Said
+2403. Serj Tankian - Beethoven's C*nt
+2404. Serj Tankian - The Unthinking Majority
+2405. Muse - Hysteria
+2406. +44 - When Your Heart Stops Beating
+2407. +44 - Weatherman
+2408. Sabaton - The Lion From The North
+2409. +44 - Make You Smile
+2410. +44 - Little Death
+2411. +44 - Chapter XIII [MATCHES WITH: 0127]
+2412. +44 - Baby, Come On
+2413. +44 - 155
+2414. (Hed) P.E. - I Got You
+2415. (Hed) P.E. - Killing Time
+2416. (Hed) P.E. - Watch It Burn
+2417. (G)I-DLE - Tomboy
+2418. (G)I-DLE - i'M THE TREND
+2419. System Of A Down - Hypnotize [MATCHES WITH: 0014]
+2420. My Chemical Romance - Dead! [MATCHES WITH: 0100]
+2421. Bullet For My Valentine - Scream Aim Fire
+2422. Manowar - Kings Of Metal
+2423. Billy Talent - Viking Death March
+2424. Muse - Supermassive Black Hole
+2425. The Cult - Love Removal Machine
+2426. Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free
+2427. Rammstein - Amerika [MATCHES WITH: 0070]
+2428. Sabaton - En Livstid I Krig
+2429. The Cult - She Sells Sanctuary
+2430. Slipknot - Eyeless
+2431. Generation X - Listen
+2432. All Time Low - Weightless
+2433. Sabaton - Man Of War
+2434. CKY - Disengage The Simulator
+2435. Metallica - Orion
+2436. My Chemical Romance - Teenagers
+2437. Billy Talent - Red Flag [MATCHES WITH: 0098]
+2438. Rammstein - Amour [MATCHES WITH: 0073]
+2439. Sabaton - Steel Commanders
+2440. 3 Doors Down - Kryptonite
+2441. Motionless In White - Another Life [MATCHES WITH: 0130]
+2442. All Time Low - Somewhere In Neverland
+2443. System Of A Down - Roulette
+2444. Serj Tankian - Sky Is Over
+2445. Pendulum - Another Planet
+2446. Sabaton - 82nd All The Way
+2447. All Time Low - Dear Maria, Count Me In
+2448. CKY - Flesh Into Gear
+2449. Pendulum - Tarantula
+2450. Amaranthe - Archangel
+2451. Sabaton - Dreadnought
+2452. Green Day - X-Kid
+2453. Alien F_cker - Arabic UFO Party
+2454. Aephanemer - Old French Song
+2455. Sabaton - The Hammer Has Fallen
+2456. Sabaton - Camouflage
+2457. Elvis Presley - Jailhouse Rock
+2458. BABYMETAL - Megitsune
+2459. Rage Against The Machine - Take The Power Back
+2460. Primus - South Park Theme
+2461. System Of A Down - Lonely Day [MATCHES WITH: 0087]

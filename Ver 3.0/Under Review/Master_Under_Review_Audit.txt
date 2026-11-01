@@ -1,0 +1,140 @@
+# MAVOmusic (@mavomusicyt) - MASTER UNDER REVIEW AUDIT (VER 1.57 - 2026-07-19)
+# ONE fully-cleaned synthesis of ALL Under Review audits (velocity + comparison + whitelist + legacy flags).
+# Built from master documents by PY/build_master_under_review.py - regenerated every audit version.
+# Quick rule: everything NOT flagged in Section 1 is APPROVED. Nothing else needs review.
+
+====================================================================================================
+QUICK-CHECK INDEX (start here - every open flag, one line each)
+====================================================================================================
+  OPEN-01  UR-2026-001  Alex Turner / Etta James - consolidated flag (IDs pending Studio screenshots)   -> Section 1
+  OPEN-02  UR-1471      Legacy comparison flag - user re-sending Studio screenshots                       -> Section 1
+  OPEN-03  UR-2158      Legacy comparison flag - user re-sending Studio screenshots                       -> Section 1
+  OPEN-04  DATA-0043S   0043S screenshot set corrupted on receipt - awaiting re-send (retro-fit queued)   -> Section 1
+  INFO-01  0019/0886/0887 mislabel anomaly (documented, watch-only)                                       -> Section 2
+  INFO-02  0107 <-> 0042 duplicate-song watch (same song, two canonical slots)                            -> Section 2
+  INFO-03  2278 cluster title punctuation variant (A.M.E.R.I.C.A. vs America - benign)                    -> Section 2
+  All flags: search "FLAG:" in this file. Workspace locations: Section 6.
+
+====================================================================================================
+SECTION 1: OPEN FLAGS (flag rows = the ONLY items in the whole backlog needing action)
+====================================================================================================
+
+FLAG: UR-2026-001 | STATUS: OPEN | OPENED: 2026-07-19 (VER 1.57, user-directed consolidation)
+  WHAT: The three Shorts previously reported as "missing from Master" (velocity/comparison audits)
+        reduce to ONE consolidated Under Review flag covering the ALEX TURNER and ETTA JAMES uploads.
+        The other two were placeholder packages and have been re-pointed to the corresponding
+        synthwave duplicate uploads - flags CLEARED (see RESOLVED log, Section 5).
+  WHY OPEN: These uploads sit outside the 2,460-row Master Shorts Repository and outside every
+        canonical ecosystem, so no tag/metadata sync can be computed from master documents alone.
+  NEEDS:  Studio screenshots (NNNNL/NNNNS convention, Section 5 of the context block) or the
+        numeric Shorts IDs from the user, then bind IDs -> packages -> this audit auto-clears.
+  BLOCKS: Nothing. All other uploads remain fully approved.
+
+FLAG: UR-1471 | STATUS: OPEN (legacy comparison flag, carried forward)
+  REPO ROW: 1471. AFI - God Called In Sick Today
+  NEEDS:   User re-sending Studio screenshots (agreed 2026-07-19). Then re-run this builder.
+
+FLAG: UR-2158 | STATUS: OPEN (legacy comparison flag, carried forward)
+  REPO ROW: 2158. 2pac - California Love
+  NEEDS:   User re-sending Studio screenshots (agreed 2026-07-19). Then re-run this builder.
+
+FLAG: DATA-0043S | STATUS: OPEN (carried forward from VER 1.53)
+  WHAT:  The delivered 0043S - 1..4 screenshot set was a duplicated capture of 0042S analytics;
+         the real 0043S metrics never arrived. SF-side audit deferred; package SF block left as-is.
+  NEEDS: Re-sent 0043S screenshots; retro-fit folds into the next audit version (same pattern
+         as 0034S -> VER 1.45).
+
+====================================================================================================
+SECTION 2: INFORMATIONAL WATCH ITEMS (documented - no action required)
+====================================================================================================
+
+INFO-01  0019 (Bush - Machinehead): screenshot-label anomaly - the MAVO screenshot said "0887"
+         but 0887 is Alice Cooper - No More Mr. Nice Guy; the actual Machinehead match is 0886.
+         Mapping locked in PY/audit_backlog_shorts.py (0019 -> 0886). Watch-only.
+INFO-02  0107 <-> 0042: Blink-182 - All The Small Things occupies TWO canonical slots (0042 audited
+         & complete; 0107 alternative cut placeholder-dated). When 0107 ships: reuse the 0042 golden
+         typo-cluster (`all small things`) and keep both packages' metadata 100% asymmetric
+         (Section 2 zero-repetition). Watch-only.
+INFO-03  2278 cluster title variant: cluster title "Motionless In White - A.M.E.R.I.C.A." vs repo
+         row "Motionless In White - America" - punctuation variant only, zero metadata impact.
+
+====================================================================================================
+SECTION 3: BACKLOG CLASSIFICATION SNAPSHOT (2,310 backlog Shorts, 0151-2461; 0596 absent)
+====================================================================================================
+
+  Master Shorts Repository rows ......... 2460 (0001-2461, 0596 absent)
+  Backlog Shorts examined ............... 2310
+    -> MATCHED to canonical ecosystems .. 154 of 154 total matched
+         MATCHED-LIVE (packaged) ........ 154 (full SEO packages in bands/)
+         MATCHED-PENDING ................ 0 (approved; packages when batch reaches them)
+    -> UNIQUE originals (no canonical conflict) ... 2156
+  APPROVED TOTAL ........................ 2310 of 2310 backlog (100% minus Section-1 flags)
+  Duplicate-upload velocity ............. 479 clusters / 1114 uploads
+         canonical-bound clusters ....... 45
+         unique-original clusters ....... 434
+
+====================================================================================================
+SECTION 4: FRESH CROSS-SOURCE COMPUTATION - DATA INTEGRITY RESULTS (2026-07-19)
+====================================================================================================
+
+  Matched-list vs repo MATCHES tags ..... 154 == 154 perfect agreement (0 disagreements, 0 missing)
+  bands/ folders vs canonical table ..... 154/154 canonical live folders checked; 154/154 matched live folders checked
+  Cluster IDs missing from Master repo .. 0
+  Matched IDs missing from Master repo .. 0
+  IDs appearing in more than one cluster  0
+  Cluster member/title mismatches ....... 1 (2278 punctuation variant - see INFO-03)
+  Ghost-prefixed IDs (C/G/S/T/Z) ........ 0 anywhere in master documents or bands/ hierarchy
+  VERDICT: master documents are internally consistent; the legacy ghost-ID/rotation-era
+  inconsistencies are fully purged. Fresh computation finds NO new review items.
+
+====================================================================================================
+SECTION 5: RESOLVED / CLOSED LOG (this version)
+====================================================================================================
+
+  RESOLVED-2026-002 | 2026-07-19 (user-directed): placeholder package #1 of the legacy
+      "missing from Master" trio RE-POINTED to its corresponding synthwave duplicate upload.
+      No Under Review flag retained - treated as an approved duplicate cut.
+  RESOLVED-2026-003 | 2026-07-19 (user-directed): placeholder package #2 of the trio
+      RE-POINTED to its corresponding synthwave duplicate upload. No Under Review flag retained.
+  CLOSED (VER 1.57)   : the 97 legacy ghost-prefixed whitelist/log IDs (19 C + 18 G + 19 S +
+      27 T + 14 Z rotations, "other-AI" era) - stripped to canonical 4-digit form; every one
+      resolves to a canonical ecosystem via the matched map. Their tag boxes were audited to
+      the new Section-21 tag ruleset - see TXT/Tag_Audit_v1.57_2026-07-19.txt. 79 IDs were
+      recovered verbatim from the surviving logs; the remainder resolve through the same map.
+  CLOSED (VER 1.56)   : 95-package templated backlog rewrite; Shorts link-spam purge (0 URLs in
+      Shorts corpus after 10 additional stragglers were stripped in VER 1.57); Section-20 scrubs.
+
+====================================================================================================
+SECTION 6: WHERE EVERYTHING LIVES (workspace quick map)
+====================================================================================================
+
+  Under Review/Master_Under_Review_Audit.txt .. THIS FILE - every open flag, every watch item
+  Whitelist/Shorts_ID_Whitelist_0133_2460.txt . 172 approved Shorts IDs with canonical targets
+  TXT/Analytics_Of_Songs_0001_0050.txt etc. ... per-song Studio analytics (golden-tag evidence)
+  MAVO_VERSION_LOG.txt ........................ full per-version audit narratives
+  TXT/Backlog_Duplicate_Shorts_Audit_0151_2460.txt ... raw duplicate-cluster velocity data
+  Matched_Shorts_To_Cross_Check.txt ........... matched alternate cuts grouped per canonical song
+  PY/build_master_under_review.py ............. regenerates this file + the whitelist
+
+====================================================================================================
+SECTION 7: PLACEHOLDER PACKAGES AWAITING SCREENSHOTS (NOT Under Review - workflow queue)
+====================================================================================================
+
+  160 packages carry the 17-07-2026 placeholder date (ruleset: placeholder until
+  Studio images are copied and the song re-checked). Per the user rule these are NEVER counted as
+  Under Review flags; they clear through the normal screenshot-audit conveyor (next batch 0055+ (0054 48h/LF follow-up + 0055 ship queued)):
+
+    0081  0101  0102  0103  0104  0105  0106  0107  0108  0109  0110  0111
+    0112  0113  0114  0115  0116  0117  0118  0119  0120  0121  0122  0123
+    0124  0125  0126  0127  0128  0129  0130  0131  0132  0133  0134  0135
+    0136  0137  0138  0139  0140  0141  0142  0143  0144  0145  0146  0147
+    0148  0149  0150  0180  0184  0197  0204  0258  0285  0372  0387  0388
+    0390  0407  0418  0421  0428  0437  0460  0500  0523  0553  0560  0588
+    0590  0605  0615  0620  0650  0658  0666  0673  0678  0680  0697  0698
+    0702  0757  0782  0799  0809  0862  0894  0900  0919  0936  1008  1022
+    1040  1070  1085  1109  1146  1160  1162  1163  1164  1175  1180  1185
+    1224  1251  1258  1273  1286  1293  1362  1381  1414  1419  1442  1512
+    1573  1626  1646  1712  1791  1822  1991  2022  2050  2059  2094  2128
+    2146  2147  2169  2180  2184  2190  2193  2202  2236  2239  2269  2308
+    2314  2328  2333  2345  2376  2381  2387  2391  2397  2411  2420  2427
+    2437  2438  2441  2461
