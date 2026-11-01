@@ -3471,3 +3471,83 @@ Written up as `TXT/SSL_Demand_Map.txt`. Six headlines:
 4. **The 382.3k finding.** `System Of A Down - Lonely Day (Bass) #rocksmith` at **382,300 views** in CO-0012's viewers-also-watch panel - 35x the previous known corpus maximum, recorded in no file. SOAD: **62 songs in library, 3 packaged**.
 5. **"Viral" cannot be ranked.** The three biggest numbers are a 382.3k organic Short, a 10,723-view 86.6%-paid long form, and a 4,887-view 60.9%-news loop. One came from people looking for it. **The variable is the format and the first three seconds, not the song.**
 6. **What I cannot answer:** real `<song> bass tab` volume for 49,891 songs needs autocomplete or a keyword tool. Saying so beats guessing.
+
+================================================================================
+[Ver 4.8] - 2026-11-01 - CO-0013 SLAYER, FOLDER RESTRUCTURE, SOAD CORRECTION
+================================================================================
+
+## Correction I owe
+Last turn I called the 382.3k SOAD Lonely Day figure **"organic, unexplained"** and
+"the most defensible recommendation the project has ever produced". MAVO:
+*"That SOAD song is long form and my biggest ad campaign."*
+
+**It is bought.** `TXT/SSL_Demand_Map.txt` rewritten to v2. The SOAD pick is
+downgraded from "most defensible" to "a bet he already made"; the replacement advice
+is one SOAD upload with **no ad spend**, because that has never happened.
+
+**What that leaves:** there is no organic breakout anywhere in the data, in any
+format, at any size. The free ceiling on a long form is **~1,000-1,500 views**.
+
+## CO-0013 - Slayer, War Ensemble
+`BDJuaD9kTY`, 28-01-2025, 4:52, **1,694 views**, 9.8 h, **+12 subs**, GBP 0.00, **E4**.
+
+| Traffic | Share |
+| --- | --- |
+| **YouTube advertising** | **98.4%** |
+| Channel pages | 0.9% |
+| Browse / Search | 0.2% each |
+| Suggested | 0.1% |
+
+About **seventeen organic views out of 1,694**.
+
+### First negative retention in thirteen audits
+AVD **0:20** (-0:47), APV **7.1%**, **18% at 0:30 = below typical**, curve below the
+grey band from second zero to the end. Every previous capture was at or above typical
+somewhere; this never gets there.
+
+Not argued from the thumbnail. Two supported factors: the **opening** (18% vs CO-0012's
+19% same week, same campaign) and the **audience** (97.4% from India + Indonesia, mobile,
+from an ad, no relationship with Slayer).
+
+### The paid-vs-organic ratio - first real figure on ad spend
+| Cohort | Views | Subs | Rate |
+| --- | --- | --- | --- |
+| CO-0012 (paid) | 10,723 | +85 | **0.79%** |
+| CO-0013 (paid) | 1,694 | +12 | **0.71%** |
+| Play alongs (free search) | 5,236 | +423 | **8.16%** |
+| Chopin (news-served) | 4,887 | +64 | 1.31% |
+
+**A bought view is worth about one tenth of an organic view** for converting a viewer
+into a subscriber. Cohorted, not controlled - but 0.7 against 8.2 is not subtle.
+
+### Worst four surfaces in the corpus
+- **Tags: 9 at 96/500.** 404 characters unused and **zero search terms**: two self-brand, three artist misspellings (`slayarr`, `slayerrr`, `slayerrgghh`), four Kick tags. No "bass", no song title. Meanwhile the video's own panel shows `rocksmith bass` and `bass rocksmith` as half the visible slice
+- **Desc**: a fundraising document - "type in any amount in any currency", six platform links, nothing about Slayer
+- **Pin**: ~400 words under four headings, six links, "send any specific amount of your choice" - on a video that cannot earn
+- **Title**: a Shorts format on a 4:52 long form
+
+**Contradiction named:** desc says "Twitch streams when community wants me to"; pin says "Do NOT subscribe or gift subs, Twitch 'steals' 60%+".
+
+**Money appeals removed entirely.** Logged as reversible: if Super Thanks still earns,
+it belongs in one line, not four sections.
+
+### Delivered
+- **Title** (87/100): `Because Slayer never slowed down, War Ensemble makes one man sing and play bass at once` - opener "Because", never used in thirteen audits
+- **Desc** (1,699): Seasons in the Abyss, the no-intro opening, the dual-role problem
+- **Tags**: 9 at 96/500 -> **15 at 214**
+- **Pin** (98): no links, no money, ends on a question
+
+## Folder restructure
+```
+_All Songs/
+  0000 - Channel Analytics/     top level
+  _0001 Long Form/
+    0001 - 0010/  0011 - 0020/  0021 - 0030/
+  _0002 Short Form/             empty, .gitkeep
+```
+149 renames. README rewritten: the split exists because the two formats are audited for
+different things. **Long form = eligibility, watch time, copy. Shorts = reach, the first
+three seconds, and which long form each Short chains to.**
+
+**Order of work: all long form first, oldest upload first.** When the shorts pass starts,
+MAVO wants to be told which Short chains to which long form.

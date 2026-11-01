@@ -2188,3 +2188,117 @@ it is not captured in any file. The previous known maximum was 15,835 across twe
 Shorts. See TXT/SSL_Demand_Map.txt for what to do with it.
 
 ################################################################################
+
+################################################################################
+CO-0013 | SLAYER - WAR ENSEMBLE
+################################################################################
+Video ID      : BDJuaD9kTY
+Published     : 28-01-2025   Runtime 4:52   Format: full playthrough
+Badge         : INELIGIBLE TO EARN (flat)
+Lifetime      : 1,694 views / 1.7k unique / 9.8 watch hours / +12 subs / GBP 0.00
+
+*** 98.4% PAID - THE PUREST AD BUY IN THE CORPUS ***
+    YouTube advertising ......... 98.4%
+    Channel pages ............... 0.9%
+    Browse features .............. 0.2%
+    YouTube search ............... 0.2%
+    Suggested videos ............. 0.1%
+    Other ........................ 0.1%
+
+Of 1,694 views, the organic component is roughly 17 views. Ninety-eight point four
+per cent. CO-0012 the same week was 86.6%. Read together, the two January 2025
+uploads are the cleanest measurement of what an ad buy actually delivered:
+
+    CO-0012   10,723 views ...  +85 subs ...  0.79% subs per view
+    CO-0013    1,694 views ...  +12 subs ...  0.71% subs per view
+
+Compare the free traffic. The eight play alongs, all search-led, converted 423 subs
+on 5,236 views = 8.1%. So a bought view is worth about ONE TENTH of an organic view
+for subscriber conversion. That is the number that should decide whether MAVO spends
+again, and it is the first time this project can put a figure on it.
+Caveat stated honestly: different eras, different audiences, different videos. It is
+a ratio between two cohorts, not a controlled test. But 0.7% against 8.1% is not a
+subtle difference and it does not need a controlled test to be worth acting on.
+
+QUALITY SIGNALS - THE FIRST GENUINELY NEGATIVE RETENTION IN THIRTEEN AUDITS
+    AVD 0:20 (-0:47 LESS than usual) | APV 7.1% | 18% at 0:30 = BELOW typical
+    The retention curve sits BELOW the grey typical band for the entire runtime,
+    from second zero to the end. Every previous capture has been at or above typical
+    for part or all of its length. This is the first one that never gets there.
+    Engaged views from impressions: 16. Watch time from impressions: 0.08 h.
+    Bell: 62 pushes sent, 0% CTR, 0 views from notifications.
+    Likes 100.0% but on twelve subscribers, so it means nothing either way.
+    End screen 1.5% vs 1.1% channel (the only metric at or above par).
+    Devices mobile 98.5% / computer 1.5% / TV 0.1%.
+    Audience India 81.2% / Indonesia 16.2% - 97.4% in two countries - 25-34 44.2%,
+    male 68.8%, 97.4% of watch time non-subscribed.
+
+WHY THE RETENTION IS BAD, STATED CAREFULLY
+    I am not going to argue this from the thumbnail. Thumbnails are a tidy-up, not a
+    thesis. What the data supports is the opening: 18% remain at 0:30 and the curve
+    never recovers, against CO-0012 at 19% (typical) on the same week, same campaign,
+    same geography. Both hard-open. Both paid. The difference between "typical" and
+    "below typical" at 0:30 is the only variable the panels separate.
+
+    And there is a second, larger factor the panels show: the audience. 97.4% of these
+    views came from two countries, on mobile, from an ad. That audience has no
+    relationship with Slayer and no reason to stay past twenty seconds. No title,
+    thumbnail or first frame fixes that. It is the composition of the traffic.
+
+SURFACE FAULTS - THIS IS THE WORST SET OF FOUR SURFACES IN THE CORPUS
+  TITLE    "[||] Slayer - War Ensemble #rocksmith #bass #slayer" - a SHORTS title
+           format on a 4:52 long form. No claim, no hook, just the catalogue entry
+           plus three hashtags doing the work a title should do.
+  TAGS     9 TAGS AT 96/500. Four hundred and four characters of tag space unused.
+           AND NOT ONE OF THEM IS A SEARCH TERM:
+               mavomusic, mavomusicyt, slayarr, slayerrr, slayerrgghh,
+               kick, kickstreaming, kickcommunity, kickpartner
+           Two self-brand tags, three misspellings of the artist, four tags for a
+           streaming platform. The word "bass" does not appear. The actual song title
+           does not appear as a tag. This is the emptiest tag box in thirteen audits
+           and it is on a video whose own search panel shows "rocksmith bass" AND
+           "bass rocksmith" as 50% of the visible slice - both of which were simply
+           not tagged.
+  DESC     A fundraising document. Opens "if you'd like to contribute you can type in
+           any amount in any currency", then Kick Partner, a subscribe appeal, a
+           Discord link, X, TikTok, Rumble, Twitch, "be part of our community", a
+           subscribe/Like/Comment appeal, "Much love" and a heart. Not one sentence
+           about Slayer, the song, thrash, Tom Araya or bass.
+  PINNED   Worse. A pinned comment nearly 400 words long with headings:
+               [IMPORTANT INFORMATION] / [FINANCIAL SUPPORT] / [NEW STREAM SCHEDULE!!]
+               / [SUPER THANKS]
+           It carries six links, explains Kick revenue share, says "Twitch 'steals'
+           60%+ (Do NOT subscribe or gift subs)", offers a Patreon that admits "no
+           time to work on it", and closes by inviting viewers to "send any specific
+           amount of your choice".
+           On a video that cannot earn a penny, pinned under 1,694 bought views.
+           This is the single most damaging surface found in the whole project, and
+           it is damaging for a reason nobody has raised yet: it reads like a channel
+           in trouble. That is not what makes people subscribe to a bass channel.
+
+THE CONTRADICTION WORTH NAMING
+    The description says "Twitch streams when community wants me to". The pinned
+    comment tells people not to subscribe or gift on Twitch because Twitch takes 60%.
+    Two surfaces on the same video, giving opposite instructions about the same
+    platform.
+
+COPY DELIVERED
+  TITLE (87/100) - opener "Because", a shape never used in thirteen audits:
+    Because Slayer never slowed down, War Ensemble makes one man sing and play bass at once
+    Names artist, song and the actual reason the part is hard - Tom Araya sings and
+    plays it together - without inventing anything or using a template.
+  DESC (1,699) - written about Slayer. Seasons in the Abyss (1990), the no-intro
+    opening, the dual-role problem, why that makes it worth learning, where the record
+    sits in the catalogue. Every money appeal removed. Provenance line honest.
+  TAGS (15 / 214) - from 9 at 96/500 to 15 at 214. Leads with "rocksmith bass",
+    "war ensemble", "slayer". Drops all five misspellings and all four Kick tags.
+  PIN (98) - zero links, zero money, ends on a question.
+    One man, one voice, one bass, no room to breathe. Which Slayer record would you
+    want done next?
+
+DECISION FOR MAVO, NOT FOR ME
+  I have removed the financial appeal blocks entirely. If Super Thanks still earns
+  anything on any video, it belongs in ONE line, not four headed sections. Say the
+  word and I will put a single line back into the template.
+
+################################################################################

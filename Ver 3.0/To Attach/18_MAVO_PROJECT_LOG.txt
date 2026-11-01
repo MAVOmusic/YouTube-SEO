@@ -4809,3 +4809,114 @@ Written up as TXT/SSL_Demand_Map.txt. Headlines:
    Guessing it would be worse than saying so.
 
 ================================================================================
+
+================================================================================
+VER 4.8 - 2026-11-01 - CO-0013 SLAYER, THE FOLDER RESTRUCTURE, AND A CORRECTION
+                        I OWE MAVO
+================================================================================
+
+*** CORRECTION FIRST ***
+Last turn I found "System Of A Down - Lonely Day" at 382,300 views in a side panel
+and wrote: "ORGANIC, unexplained", "35x the previous corpus maximum", "the most
+defensible recommendation the project has ever produced".
+
+MAVO: "That SOAD song is long form and my biggest ad campaign."
+
+So it is bought. I built a recommendation on a number I had not checked, which is the
+exact mistake I have now made six times in this project and warned about twice. The
+SSL map is rewritten to v2 and the SOAD pick is downgraded from "most defensible" to
+"a bet he already made". The honest replacement advice: try ONE SOAD upload with no
+ad spend and find out what the song does on its own, because that has never happened.
+
+WHAT THE CORRECTION ACTUALLY CHANGES
+The last number in this project that looked organic is now gone. Recount:
+    382,300 ... biggest ad campaign
+     10,723 ... 86.6% paid
+      1,694 ... 98.4% paid
+      4,887 ... 60.9% news-suggested
+      ~1,500 ... the best single play along, genuine search
+There is no organic breakout anywhere in the data, in any format, at any size. The
+free ceiling on a long form is about 1,000-1,500 views and that is what 34 months of
+search traffic actually bought.
+
+CO-0013 - SLAYER, WAR ENSEMBLE, BDJuaD9kTY, 28-01-2025, 4:52
+    1,694 views / 9.8 watch hours / +12 subs / GBP 0.00 / E4 ineligible
+
+98.4% YouTube advertising. About seventeen organic views out of 1,694.
+
+THE FIRST NEGATIVE RETENTION IN THIRTEEN AUDITS
+    AVD 0:20 (-0:47 less than usual) / APV 7.1% / 18% at 0:30 = BELOW typical
+    Curve below the grey typical band from second zero to the end.
+Every previous capture was at or above typical somewhere. This never gets there.
+
+WHY, STATED CAREFULLY: I will not argue this from the thumbnail - thumbnails are a
+tidy-up, not a thesis. Two things the panels do support. First the opening: 18% at
+0:30 against CO-0012's 19% the same week, same campaign, same geography. Second, and
+larger, the audience: 97.4% of views from India and Indonesia, on mobile, from an ad.
+That audience has no relationship with Slayer and no reason to stay past twenty
+seconds. No title or first frame fixes that. It is the composition of the traffic.
+
+THE PAID-VS-ORGANIC RATIO - FIRST REAL NUMBER THIS PROJECT CAN PUT ON AD SPEND
+    CO-0012   10,723 views ... +85 subs ... 0.79% subs per view
+    CO-0013    1,694 views ... +12 subs ... 0.71%
+    Play alongs 5,236 views ... +423 subs .. 8.16%
+    Chopin      4,887 views ... +64 subs ... 1.31%
+A bought view is worth about one tenth of an organic view for converting a viewer
+into a subscriber. Cohorted, not controlled - but 0.7 against 8.2 is not subtle.
+
+WORST FOUR SURFACES IN THE CORPUS
+  TAGS    9 tags at 96/500. FOUR HUNDRED AND FOUR characters of unused space and not
+          one search term in it: mavomusic, mavomusicyt, slayarr, slayerrr,
+          slayerrgghh, kick, kickstreaming, kickcommunity, kickpartner.
+          No "bass". No song title. Meanwhile the video's own search panel shows
+          "rocksmith bass" and "bass rocksmith" as half the visible slice - the two
+          terms that were never tagged.
+  DESC    a fundraising document. "Type in any amount in any currency", Kick Partner,
+          subscribe appeal, six platform links, no sentence about Slayer.
+  PIN     ~400 words under four headings - [IMPORTANT INFORMATION] /
+          [FINANCIAL SUPPORT] / [NEW STREAM SCHEDULE!!] / [SUPER THANKS] - six links,
+          "send any specific amount of your choice". On a video that cannot earn.
+          It reads like a channel in trouble, which is the opposite of a reason to
+          subscribe to a bass channel.
+  TITLE   a Shorts title format on a 4:52 long form.
+
+CONTRADICTION NAMED: description says "Twitch streams when community wants me to";
+the pinned comment says "Do NOT subscribe or gift subs, Twitch 'steals' 60%+".
+Two surfaces, opposite instructions, same video.
+
+MAVO DECISION LOGGED: I removed every financial appeal block. If Super Thanks still
+earns on any video it belongs in ONE line, not four headed sections. He can reverse
+this.
+
+COPY: title 87/100, opener "Because" - never used in thirteen audits.
+  Because Slayer never slowed down, War Ensemble makes one man sing and play bass at once
+The claim is factual: Tom Araya sings it and plays it, which is why the part is hard.
+Description written about Slayer, Seasons in the Abyss, the no-intro opening and the
+dual-role problem. Tags 9 at 96/500 -> 15 at 214. Pin 98 chars, no links.
+
+################################################################################
+THE FOLDER RESTRUCTURE
+################################################################################
+MAVO: put the long form folders inside a "_0001 Long Form" folder, and make a
+"_0002 Short Form" folder for the shorts.
+
+_All Songs/
+  0000 - Channel Analytics/      stays top level
+  _0001 Long Form/
+    0001 - 0010/
+    0011 - 0020/
+    0021 - 0030/
+  _0002 Short Form/              empty, .gitkeep
+  README.md
+
+149 renames. README rewritten with the format-first logic and the reason the split
+exists: the two formats are audited for different things. Long form is about
+eligibility, watch time and copy. Shorts are about reach, the first three seconds and
+WHICH LONG FORM EACH SHORT CHAINS TO.
+
+ORDER OF WORK: all long form first, oldest upload first. When the shorts pass starts,
+MAVO wants to be told which Short chains to which long form. That mapping is part of
+the audit, not an afterthought - it is the thing that makes the shorts worth doing,
+because a Short with nowhere to send people is just a view.
+
+================================================================================
