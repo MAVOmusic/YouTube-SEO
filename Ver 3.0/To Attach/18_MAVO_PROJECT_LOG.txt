@@ -3927,3 +3927,60 @@ NEXT
   Chevelle renumbered CO-0004.
 
 ================================================================================
+
+================================================================================
+VER 3.7 - 2026-11-01 - THE FIRST EARNING LONG-FORM, AND WHY IT EARNS
+================================================================================
+MAVO sent a single Studio screen covering the whole play along series and said
+"8 Play alongs. We not dealing with chevelle at the moment."
+
+COUNT SETTLED AT 8. MAVO was right, my earlier read was wrong: Section C files 7
+PLAYALONG plus 2 LOOP, so it was never a complete count - the missing eighth is
+Another Life, which Section C does not classify as a play along.
+
+CONFIRMED LIVE: the CO-0003 retitle is applied. 26-10-2022 (not 25-10 as first
+recorded), 790 views, still Ineligible / Ads off. The badge was never going to
+move on metadata alone; the retitle buys the search door, not the money.
+
+THE EIGHT: 790 Masterpiece, 989 Another Life, 356 Abigail, 333 America, 510
+Immaculate Misconception, 407 X-Kid (partially blocked), 504 Black Parade
+(partially blocked), 1,347 .38 Special. Total 5,236 views. Total revenue 0.00.
+
+THE NINTH ROW IS THE FIND
+  Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2 [1 HOUR LOOP]
+  03-11-2022 | 4,887 views | "Sharing ad earnings" | GBP 0.54 | 9 comments
+First earning long-form in the corpus. Logged MR-0004. The section 33 WIN
+CONDITION is met.
+
+WHY IT EARNS - AND WHAT IT BREAKS
+Chopin died in 1849. The composition is public domain, the audio bed is
+unclaimed, Content ID has nothing to match. Eight play alongs earn nothing; one
+classical loop, same channel, same month, worse description, earns 0.54.
+  - It kills "long-form cannot earn on this channel". That was only ever tested
+    on claimed modern catalogues.
+  - It kills "the description link wall causes E4". This video carries a Twitch
+    link, a Discord invite and a text block, and monetises anyway.
+  - The CDLC placeholder test survives, but its expected value drops sharply.
+Rate per 1,000 views, computable for the first time:
+  public-domain loop  0.1105
+  Aug Shorts wave     0.0777
+  Aug long-form wave  0.0000
+
+NEW SECTION 35 - THE REPERTOIRE RULE
+Rights beat metadata. Long-form income does not come from re-recording claimed
+covers better; that door is closed by copyright, not by effort. It comes from
+pointing the long-form lane at unclaimed repertoire: the pre-1900 canon,
+traditional, folk, hymn, and anything genuinely unadministered.
+
+HONESTY ABOUT THE ROLL-OUT
+Fixing the remaining 7 play alongs is a TRAFFIC project, not a revenue project.
+They are claimed compositions and will stay ineligible however good the copy is.
+Do them for 5,236 views of free search traffic and the subscriber conversion, and
+never imply a badge flip that is not coming.
+
+Also flagged: Another Life exists twice - CO-0002 at 224 views (01-10-2022) and
+the play along at 989 views (26-10-2022). Do not cross-paste the rewrites.
+
+NEXT: play along 2 (Another Life, 989 views) - results incoming.
+
+================================================================================

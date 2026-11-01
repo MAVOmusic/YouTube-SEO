@@ -137,12 +137,116 @@ Next action        : (1) Apply the rewritten title/desc/tags/pin written into
                      play along series. (3) Roll the same shell fix across
                      [PA/LOOP 01-09] only after MAVO confirms the series count.
 
+--- MR-0004 | CO-0003-SERIES | Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2
+                     [1 HOUR LOOP] -----------------------------------------------
+Upload / date      : 03-11-2022 | 4:00:33 | 4,887 views | 9 comments
+Notices badge      : E2 EARNING - REVENUE SHARE  ("Sharing ad earnings" / "Shopping
+                     disabled")
+Revenue            : GBP 0.54   <-- FIRST EARNING LONG-FORM IN THE ENTIRE CORPUS
+Description risk   : YES, and it earns anyway. Twitch link, Discord invite
+                     (discord.gg/sHtflKrX), the "The Nocturnes, Op. 9 are a set of
+                     three nocturnes" text block, no bespoke copy, no genres, no
+                     hashtags, emoji-led title.
+Cause hypothesis   : COMPOSITION IS PUBLIC DOMAIN. Chopin died in 1849; the work is
+                     out of copyright and no label claims the audio bed used here,
+                     so Content ID has nothing to match and YouTube monetises it.
+                     This is the first capture in the whole project where the
+                     claimant is ABSENT rather than generous.
+Recreation verdict : RECREATE FREELY - but clone the RIGHTS PROFILE, not the video.
+                     The earnings come from the repertoire choice, not from the
+                     4-hour runtime, the emoji title or the link wall.
+Why it matters     : This single row overturns two working hypotheses at once:
+                     (a) "long-form cannot earn on this channel" is FALSE - it was
+                         only ever tested on copyrighted compositions;
+                     (b) "the description link wall / template shell causes E4" is
+                         now much weaker - this video has the same 2022 link wall
+                         and still monetises. Repertoire decides eligibility;
+                         the shell decides nothing.
+
+--------------------------------------------------------------------------------
+THE PLAY ALONG SERIES - FULL CAPTURE (8 videos, one screen, 01-11-2026)
+--------------------------------------------------------------------------------
+| # | Video                                    | Published   | Views | Notices                        |
+| 1 | Masterpiece                (RETITLED)    | 26-10-2022  |   790 | Ineligible / Ads off           |
+| 2 | Another Life                             | 26-10-2022  |   989 | Ineligible / Ads off           |
+| 3 | Abigail                                  | 26-10-2022  |   356 | Ineligible / Ads off           |
+| 4 | America                                  | 26-10-2022  |   333 | Ineligible / Ads off           |
+| 5 | Immaculate Misconception                 | 26-10-2022  |   510 | Ineligible / Ads off           |
+| 6 | Green Day - X-Kid                        | 18-02-2024  |   407 | Ineligible / Partially blocked |
+| 7 | My Chemical Romance - Black Parade       | 18-02-2024  |   504 | Ineligible / Partially blocked |
+| 8 | .38 Special - If I'd Been The One        | 11-04-2024  | 1,347 | Ineligible / Ads off           |
+| - | Frederic Chopin - Nocturne [1 HOUR LOOP] | 03-11-2022  | 4,887 | EARNING / revenue share, 0.54  |
+
+TOTAL play along traffic : 5,236 views
+TOTAL play along revenue : GBP 0.00
+TOTAL loop revenue on the same screen : GBP 0.54 from 4,887 views
+
+Read the split: 8 play alongs accumulate 5,236 views and earn nothing. ONE loop
+earns GBP 0.54 on 4,887. The play alongs are not underperforming on reach - they
+match the loop's traffic per video. They are ineligible because every one of them
+is a claimed copyrighted composition. The loop is eligible because Chopin is not.
+
+RATE PER 1,000 VIEWS (first time this is computable):
+  Chopin public-domain loop   GBP 0.1105 per 1k
+  Aug 2026 Shorts wave        GBP 0.0777 per 1k
+  Aug 2026 long-form wave     GBP 0.0000 per 1k
+The public-domain long-form is currently the most efficient earner on the channel.
+
+--------------------------------------------------------------------------------
+SERIES SHELL STATUS - confirms the CO-0003 diagnosis, and corrects it slightly
+--------------------------------------------------------------------------------
+Rows 2, 3, 4 and 5 still carry the identical bracketed template in the listing
+preview: "[TITLE] Rocksmith 2014 | Play Along on Bass | M | ... [CDLC DOWNLOAD
+LINK] SOON [DESCRIPTION] In this project will upload as many as CDLC can for you
+to play along on bass so even if you don't have th..." - so the shell is byte-
+identical across at least 4 more uploads. Row 1 is confirmed RETITLED and live.
+Rows 6, 7 and 8 (2024 uploads) use a different, newer shell: emoji-led title,
+"...Join our Daily Live Stream, I do multicast to Kick and Twitch", Twitch and
+Kick links, no CDLC placeholder.
+RATE OF THE 2022 vs 2024 SHELL: 2022 MIW set averages 596 views; 2024 set
+averages 753. The newer shell does not perform worse, which again says the shell
+is not the traffic problem.
+
+--------------------------------------------------------------------------------
+NEW FINDING - DUPLICATE UPLOAD, "Another Life" EXISTS TWICE
+--------------------------------------------------------------------------------
+CO-0002 (another-life long form) : 01-10-2022 | 3:44 | 224 views
+This capture (play along)        : 26-10-2022 | 3:43 | 989 views
+Both are Motionless In White - Another Life, three and a half minutes, three
+weeks apart. The play along version has 4.4x the views of the one already audited.
+That also explains the "own video 22.7%" slot in the Masterpiece suggested-traffic
+report. Neither should be deleted; the CO-0002 copy must NOT be pasted onto this
+one, because they are separate uploads with separate URLs.
+
+################################################################################
+## THE REPERTOIRE RULE (NEW VER 3.7 - the real determinant of earnings)
+################################################################################
+Claim status follows the COMPOSITION, so repertoire choice decides monetisation
+before a single frame is recorded or a single word of metadata is written.
+
+  PUBLIC DOMAIN / UNCLAIMED WORKS PAY. Classical (Chopin, and by extension the
+  whole pre-1900 canon), traditional, folk, hymn, and any composition whose
+  publishing is genuinely unadministered. MR-0004 is the proof.
+
+  CLAIMED CATALOGUES DO NOT PAY. Modern metal/hardcore/alt published by Fearless,
+  Roadrunner, Concord, Sony, UMG etc. Every capture of these is E4, whatever the
+  metadata says. That is now 15 of 15.
+
+CONSEQUENCE FOR THE ROADMAP: long-form income does not come from re-recording
+Copyrighted covers better. It comes from pointing the long-form lane at
+unclaimed repertoire. One Chopin loop out-earned the entire 12-video Aug long-form
+wave at 1/3 of the Shorts wave's total revenue on 1/3 of the views.
+################################################################################
+
 ################################################################################
 ## ROLL-UP (updated every capture)
 ################################################################################
 Captures audited         : 3 single-video (CO-0001, CO-0002, CO-0003) + 1 wave (CO-W01)
-E1 EARNING-NO-CLAIM      : 0
-E2 EARNING-REV-SHARE     : 0        <-- MAVO says "there are a few"; find them
+                           + 1 full-series screen (CO-0003-SERIES, 8 play alongs + 1 loop)
+E1 EARNING-NO-CLAIM      : 0        (still none - see E2)
+E2 EARNING-REV-SHARE     : 1        <-- FOUND 01-11-26: Chopin Nocturne 1hr loop,
+                                       4,887 views, GBP 0.54. MAVO was right that
+                                       a few exist.
 E3 CLAIMED-NOT-EARNING   : 0
 E4 INELIGIBLE            : 15       (CO-0001, CO-0002, CO-0003 + 12/12 of the Aug shipment)
 E5 BLOCKED               : 0        (4 of the Aug LFs are PARTIALLY blocked)

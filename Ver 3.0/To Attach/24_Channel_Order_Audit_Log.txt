@@ -506,7 +506,8 @@ W6  THE "2 NEW EDITS" REVIEW (MAVO's question): do NOT break the house style bac
 ================================================================================
 CO-0003 | Motionless In White - Masterpiece (LONG FORM, PLAY ALONG ON BASS)
 ================================================================================
-Upload / date      : 25-10-2022  (upload 0003 in channel-order; 4 yrs, 1 wk ago)
+Upload / date      : 26-10-2022  (CORRECTED 01-11-26 from the Studio screen - was
+                     recorded as 25-10-2022 from the earlier panel set)
 Runtime / views    : ~3:42 | 790 views | 27.2 h watch time | +51 subscribers
 Package status     : NO bands/ PACKAGE - and correctly so. The corpus already
                      files this in Master_Long_Form_Repository SECTION C
@@ -650,5 +651,66 @@ the link here first, re-read the Notices badge after 48-72 h, then apply the
 answer to the whole series at once. If the badge flips, ~4,000 views of existing
 search traffic across the series starts earning for free. If it does not, the
 series still earns its keep in subscribers.
+
+================================================================================
+
+================================================================================
+CO-0003 FOLLOW-UP (01-11-2026) - SERIES CONFIRMED AT 8, RETITLE LIVE, E2 FOUND
+================================================================================
+MAVO sent one Studio screen containing the whole series. Vision gate passed.
+
+CONFIRMED APPLIED: the new title "Every bass note in Motionless In White's
+'Masterpiece', left on screen" is LIVE on upload 1, published 26-10-2022, 790
+views, still Ineligible / Ads off. Badge unchanged, as expected - metadata does
+not move a claim. What the retitle buys is the search door, not the money.
+
+COUNT SETTLED: 8 play alongs. MAVO was right and my earlier count was wrong
+because I read Section C, which files 7 PLAYALONG plus 2 LOOP. The eighth is
+Another Life, which Section C does not list as a play along at all. The 9th row
+on the screen is the Chopin [1 HOUR LOOP], which is not a play along and is
+dealt with separately as MR-0004.
+
+THE EIGHT (views / notice):
+  790  Masterpiece (retitled)          Ineligible / Ads off
+  989  Another Life                    Ineligible / Ads off
+  356  Abigail                         Ineligible / Ads off
+  333  America                         Ineligible / Ads off
+  510  Immaculate Misconception        Ineligible / Ads off
+  407  Green Day - X-Kid               Ineligible / Partially blocked
+  504  My Chemical Romance - Black Parade  Ineligible / Partially blocked
+ 1,347 .38 Special - If I'd Been The One   Ineligible / Ads off
+------
+5,236 views, GBP 0.00.
+
+THE NINTH ROW IS THE HEADLINE, NOT THE FOOTNOTE:
+  Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2 [1 HOUR LOOP]
+  03-11-2022 | 4,887 views | "Sharing ad earnings" | GBP 0.54 | 9 comments
+That is the first earning long-form in the entire corpus. Eight play alongs earn
+nothing between them; one public-domain classical loop, on the same channel, in
+the same month, with a worse description, earns 0.54.
+
+WHY IT EARNS: Chopin died in 1849. The composition is public domain, the audio
+bed is unclaimed, Content ID has nothing to match, so ads run and revenue is
+shared. Nothing to do with the title, the shell, the runtime or the links.
+
+WHAT THIS DOES TO THE CO-0003 VERDICT: nothing. Keep the format, retire the shell
+still stands. But it re-ranks the E4-b hypothesis. This loop carries a full 2022
+link wall - Twitch, a Discord invite, the Nocturnes text block - and monetises
+anyway. So a description link wall does NOT cause E4. The CDLC placeholder may
+still be worth its 48-72 h test, but its expected value has dropped sharply, and
+the real lever on long-form income is now known to be REPERTOIRE.
+
+WHAT IT DOES TO THE SERIES ROLL-OUT: the roll-out is now a traffic project, not a
+revenue project. All 8 are copyrighted compositions and all 8 will stay ineligible
+however good the copy is. Fix them because 5,236 views of free search traffic and
+the subscriber conversion in the Masterpiece capture are worth having, not because
+the badge will flip. Say so plainly rather than implying a fix that is not coming.
+
+DUPLICATE FLAG: Another Life exists twice - CO-0002 at 224 views (01-10-2022) and
+this play along at 989 views (26-10-2022). Do not cross-paste either rewrite.
+
+NEXT: MAVO is sending the second play along's results. That is Another Life, the
+989-view one, and it is the highest-traffic MIW play along plus the closest thing
+in the set to a like-for-like comparison against the already-audited CO-0002.
 
 ================================================================================

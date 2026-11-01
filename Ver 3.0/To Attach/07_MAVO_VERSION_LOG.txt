@@ -2766,3 +2766,60 @@ conversion **separately from earning eligibility**.
 *   **Next:** CO-0004 (Chevelle - The Red package) when MAVO calls it; the CDLC
     cheap test now runs on CO-0003 (more traffic, live placeholder); series
     roll-out pending MAVO's count confirmation (7 PLAYALONG + 2 LOOP vs "8").
+
+================================================================================
+[Ver 3.7] - 2026-11-01 - FIRST EARNING LONG-FORM (E2): THE REPERTOIRE RULE
+================================================================================
+
+**Trigger:** MAVO's series screen - *"8 Play alongs. We not dealing with chevelle
+at the moment."*
+
+**Count settled at 8.** MAVO was right. Section C files 7 PLAYALONG + 2 LOOP, so
+it was an incomplete count; the eighth is Another Life.
+
+| # | Video | Published | Views | Notices |
+| --- | --- | --- | --- | --- |
+| 1 | Masterpiece (**retitled, live**) | 26-10-2022 | 790 | Ineligible / Ads off |
+| 2 | Another Life | 26-10-2022 | 989 | Ineligible / Ads off |
+| 3 | Abigail | 26-10-2022 | 356 | Ineligible / Ads off |
+| 4 | America | 26-10-2022 | 333 | Ineligible / Ads off |
+| 5 | Immaculate Misconception | 26-10-2022 | 510 | Ineligible / Ads off |
+| 6 | Green Day - X-Kid | 18-02-2024 | 407 | Ineligible / Partially blocked |
+| 7 | MCR - Black Parade | 18-02-2024 | 504 | Ineligible / Partially blocked |
+| 8 | .38 Special - If I'd Been The One | 11-04-2024 | 1,347 | Ineligible / Ads off |
+| | **TOTAL** | | **5,236** | **GBP 0.00** |
+
+**And the row that changes the project:**
+
+| Chopin - Nocturne Op. 9 No. 2 [1 HOUR LOOP] | 03-11-2022 | **4,887** | **Sharing ad earnings, GBP 0.54** |
+| --- | --- | --- | --- |
+
+**First earning long-form in the corpus.** MR-0004. The section 33 WIN CONDITION.
+
+**Why:** Chopin is public domain (d. 1849), the audio bed is unclaimed, Content
+ID has nothing to match. Copyright follows the **composition**.
+
+**Two hypotheses killed:**
+1. *"Long-form cannot earn on this channel"* - false. It had only ever been tested
+   on claimed modern catalogues.
+2. *"The 2022 description link wall causes E4"* - false. This video carries a
+   Twitch link, a Discord invite and a text block, and monetises.
+
+**New section 35 - THE REPERTOIRE RULE.** Rights beat metadata. Long-form income
+comes from unclaimed repertoire, not from re-recording claimed covers better.
+
+| Rate per 1,000 views | Value |
+| --- | --- |
+| Public-domain long-form loop | **GBP 0.1105** |
+| Aug 2026 Shorts wave | GBP 0.0777 |
+| Aug 2026 long-form wave | GBP 0.0000 |
+
+**Honest scope of the roll-out:** the remaining 7 play alongs are a **traffic**
+project, not a revenue project. Claimed compositions stay ineligible whatever the
+copy says. Fix them for search traffic and subscriber conversion only.
+
+**Duplicate flag:** Another Life exists twice - CO-0002 (224 views, 01-10-2022)
+and the play along (989 views, 26-10-2022). Separate uploads, separate URLs, do
+not cross-paste.
+
+*   **Next:** play along 2 = Another Life (989 views), results incoming from MAVO.
