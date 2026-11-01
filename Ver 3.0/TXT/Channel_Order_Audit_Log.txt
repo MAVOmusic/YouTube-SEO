@@ -2420,3 +2420,115 @@ COPY DELIVERED
     since 1984. Which Queen track next?
 
 ################################################################################
+
+################################################################################
+CO-0015 | RAMMSTEIN - DU HAST
+################################################################################
+Video ID      : 0W4ITBrdfYw
+Published     : 05-02-2025   Runtime 3:54   Format: full playthrough
+Badge         : INELIGIBLE TO EARN (flat, no partial block)
+Lifetime      : 4,222 views / 4.2k unique / 27.0 watch hours / +28 subs / GBP 0.00
+Folder note   : "0015 -  Rammstein" carries a DOUBLE SPACE after the dash, the same
+                defect as 0007. Cosmetic, but folder names are already known to lie.
+
+*** 97.5% PAID - AND NO SEARCH AT ALL, WHICH IS THE REAL STORY ***
+    YouTube advertising ......... 97.5%
+    Channel pages ............... 1.7%
+    Browse features ............. 0.2%
+    Playlists ................... 0.2%
+    YouTube SEARCH .............. 0.2%
+    Other ....................... 0.2%
+
+0.2% of 4,222 views is about EIGHT views from search.
+
+*** THE COMPARISON THAT MATTERS: CO-0014 QUEEN vs CO-0015 RAMMSTEIN ***
+    Queen    I Want To Break Free ... 31-01-2025 ... 82.0% paid ... SEARCH 8.7%
+    Rammstein Du Hast .............. 05-02-2025 ... 97.5% paid ... SEARCH 0.2%
+Five days apart. Two of the most famous songs in the library. Same channel, same ad
+buyer, same month. **One pulled 8.7% search, the other pulled 0.2%.**
+
+I am not going to pretend I can explain that difference, and it is the single most
+confusing pair of numbers in this project. Candidate explanations, all unproven:
+
+  a) CAMPAIGN TYPE. Queen's buy was 82% of traffic, Rammstein's 97.5%. If the Queen
+     campaign was cheaper or shorter, the video had more room for organic traffic to
+     show through. This is arithmetic, not a finding.
+  b) THE SEARCH TERM ITSELF. "i want to break free" is a title people type in full.
+     "du hast" is two common German words that mean several things, and Rammstein
+     searches are dominated by the official video. The panel does show "du hast"
+     14.3% of the slice, so the term exists - there were just almost no searches.
+  c) SOCIAL SPREAD. Queen carried WhatsApp as 30% + 20% of an external 0.8%.
+     Rammstein had "not enough traffic data to show this report" - no external at all.
+  d) AUDIENCE. Queen's geography was spread across India, Iraq, Algeria, Philippines,
+     Pakistan. Rammstein is India 70.3 + Indonesia 24.8 = 95.1%. Different buy,
+     different pool.
+
+The honest conclusion: **fame alone does not create search.** Queen is the outlier
+until a third case says otherwise, and I should stop treating CO-0014 as a repeatable
+recipe on the strength of one capture. That is exactly the mistake I made with the
+382.3k SOAD number.
+
+SUBS: +28 from 4,222 = **0.66%** - squarely in the paid cohort (0.79 / 0.71 / 0.66),
+and it makes CO-0014's 0.08% look like the anomaly rather than the rule.
+
+WATCH QUALITY - THE BEST CURVE OF THE 2025 SET
+    AVD 0:23 (-0:03) | APV 9.9% | 21% at 0:30 = typical
+    The retention curve sits ABOVE the grey typical band for the entire runtime,
+    which is the best shape of the four 2025 uploads. It is a 3:54 song holding a
+    bought audience better than a 4:14 Queen track did - but on a much smaller APV
+    than Queen's 17.3%, so the two facts are not in conflict: this is better than the
+    channel's own norm, Queen was better than this.
+
+OTHER READ
+    Impressions 3.4k | CTR 2.3% | 10.8% from YouTube recommending | 77 engaged views
+    from impressions | 0:45 imp-AVD | 0.97 h watch from impressions
+    Likes 94.1% vs 97.4% | END SCREEN 0.6% vs 1.1% | bell 55 pushes, 0% CTR, 0 views
+    Devices mobile 97.3 / computer 1.4 / TV 1.0 / tablet 0.4
+    India 70.3 / Indonesia 24.8 | 25-34 45.5 / 18-24 24.9 / 35-44 24.5
+    Male 68.4 / female 31.7 | 97.1% non-subscribed watch time
+    SEARCH TERMS (0.2% slice): du hast 14.3 | rocksmith 14.3 | rocksmith 2014 14.3
+      | rocksmith bass 14.3. "du hast" DID appear - there was simply almost no search
+      traffic for it to be a share of.
+    SUGGESTED BY (0.1%): Rocksmith Remastered - CDLC - The Killers 16.7 /
+      Chopin 4-hour loop 16.7 / BFMV Hand Of Blood 16.7 / SOAD Lonely Day 16.7 /
+      "What To Expect At kick.com/mavomusic?" 16.7
+      NOTE the CDLC video in that list. A CDLC channel is feeding traffic INTO this
+      one, which is worth knowing given how much effort went into avoiding the word.
+    PLAYLISTS (0.2%): Industrial Metal - Rocksmith 2014 Bass 12.5 / Van Halen Eruption
+      slowed 12.5 / YouTube Mix 12.5 / Korn Got The Life (Bass Cover) + TAB 12.5
+
+SURFACE FAULTS
+  TAGS   9 at 94/500. 406 characters unused. And the specific failure here is almost
+         funny: it tags THREE MISSPELLINGS of the band and NEVER the correct one.
+             mavomusic, mavomusicyt
+             ramstein, rammstain, ramstain     <-- three, and not one is "rammstein"
+             kick, kickstreaming, kickcommunity, kickpartner
+         The correct spelling of Rammstein does not appear. "Du hast" does not appear.
+         "Bass" does not appear. "Rocksmith bass" does not appear.
+  DESC   The same fundraising boilerplate as CO-0013 and CO-0014. And its Discord line
+         reads "https://www.discord.gg/mavomusic or type mavomusic into the invite box
+         in Discord!" - a link MAVO has now confirmed is DEAD.
+  PIN    BYTE-IDENTICAL to CO-0013 and CO-0014. Third confirmed use of the template.
+  TITLE  Shorts format on a 3:54 long form. Third in a row.
+
+ON THE MISSPELLINGS - A DELIBERATE TAG DECISION
+    I have KEPT "ramstein" in the new tag box and dropped "rammstain" and "ramstain".
+    Reason: "ramstein" (single M) is a genuine, high-volume misspelling of the band
+    that people actually type, and it also happens to be the name of the US air base
+    and a town in Germany. "rammstain" and "ramstain" are not things anyone types.
+    Keeping a real-world misspelling is good tagging. Keeping invented ones is noise.
+
+COPY DELIVERED
+  TITLE (71/100) - opener "Nein", a shape never used in fifteen audits:
+    Nein is the answer in Rammstein's Du Hast, and the bass is why it lands
+    The song's punchline is a refusal of a wedding vow, answered "nein". It is a true
+    statement about the song, it gives a German word at the front of a title on an
+    English channel, and it names artist, song and bass in natural prose.
+  DESC (1,821) - Sehnsucht (1997), the vow and the "nein", the Du hast / Du hasst
+    homophone, and Oliver Riedel treating the bass as machinery. All money blocks
+    removed. The dead mavomusic invite removed.
+  TAGS (15 / 213) - from 9 at 94/500. Now contains "rammstein" spelled correctly,
+    "du hast", "rocksmith bass", and one real-world misspelling on purpose.
+  PIN (114) - no links, no money, ends on a question.
+
+################################################################################
