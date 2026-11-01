@@ -255,3 +255,190 @@ Four minutes of Burzum calm turned into an hour, and it's been my start-soon scr
   4. Say YES/NO to correcting the genre line on bands/ 0120 / 0372 / 1791 from
      "Black metal, atmospheric black metal" to "Ambient, dungeon synth" (D7).
 ================================================================================
+
+================================================================================
+CO-0002 | Motionless In White - Another Life (LONG FORM)
+================================================================================
+Video title on box : Motionless In White - Another Life
+Live URL           : https://youtu.be/Y9Q3FTlBoVc
+Runtime            : 3:44   |   File: "00031 - Motionless In White - Another Life..."
+Published          : 01-10-2022 (premiere) - still Public
+Earning status     : ⛔ "Ineligible to earn" (red notice)  -> MR-0002, class E4
+Audit filed        : 01-11-2026 (VER 3.3)
+Capture window     : 1 Oct 2022 - 1 Nov 2026  "Since published" = 1,492 days
+Canonical package  : YES for the song - bands/M/Motionless_In_White/Another_Life/
+                     0130 (LF pack) + 0680 / 0702 / 2441 (matched shorts).
+                     None of them describe THIS 2022 video, and 0130 still carries
+                     the pre-§32 style title.
+
+--- PANEL TRANSCRIPT ----------------------------------------------------------
+
+Views (lifetime)      224        Watch time  5.7 h       Subscribers  +53 (!)
+Est. revenue          —          REALTIME (non-verdict): 0 views / last 48 h
+Premiere              3 concurrent peak / 3 average. Hype 0 points, 0 hypes.
+Duration / AVD        3:44 / 1:32        Average percentage viewed 41.1%
+                      47% still watching at 0:30 (above typical)
+
+REACH                 Impressions 3.9k | CTR 2.6% | Unique viewers 135
+                      24.3% of impressions came from YouTube recommending
+                      Funnel: 3.9k -> 2.6% CTR -> 102 engaged views -> 0:55 AVD
+                              -> 1.57 h watch time from impressions
+TRAFFIC               YouTube search 31.3 | Playlists 30.8 | Channel pages 14.3 |
+                      Browse 7.6 | External 7.6 | Others 8.5
+SEARCH TERMS (31.3%)  rocksmith bass 4.3 | rocksmith 1.4 | rocksmith 2014 1.4 |
+                      rocksmith 2014 bass 1.4     <-- ZERO artist/song terms
+EXTERNAL (7.6%)       Facebook 76.5 | Google Search 11.8
+SUGGESTING (0.5%)     "Rocksmith 2014 | Play Along on Bass | M | Moti…" 100%
+PLAYLISTS (30.8%)     "Videos" 1.5
+AUDIENCE              Device (watch time): Computer 61.9 | Mobile 27.4 | TV 6.6 |
+                        Tablet 4.1      <-- desktop-heavy, opposite of the channel
+                      Subscribed 52.1% | Not subscribed 47.9%
+                      Geo: UK 4.5% | Vietnam 0.0% (thin sample)
+                      Watch behaviour: not enough data
+ENGAGEMENT            Likes 100.0% (channel 97.4%) | End-screen CTR 0.0% |
+                      Remixes: none
+REVENUE               Ineligible - no revenue, no RPM, no ad types.
+
+--- DIAGNOSIS ----------------------------------------------------------------
+
+D1  THE TITLE BRINGS NO SONG TRAFFIC - ONLY PLATFORM TRAFFIC.
+    Search is 31.3% of views and EVERY visible term is a Rocksmith term
+    (`rocksmith bass` 4.3%, `rocksmith` 1.4%, `rocksmith 2014` 1.4%,
+    `rocksmith 2014 bass` 1.4%). Not one `motionless in white` or
+    `another life` query. The title "Motionless In White - Another Life" has the
+    right words but no `bass cover` / `playthrough` qualifier, so it competes as
+    a generic music upload - and loses. §32 contract applies: artist + song +
+    the format word, in the first ~50 characters.
+
+D2  THE +53 SUBSCRIBERS ARE A 2022 MECHANIC THAT NO LONGER EXISTS.
+    53 subs from 224 views (23.7%!) and 52.1% of watch time from subscribers -
+    the best conversion on record. It came from the "100% CDLC" download link in
+    the description: people subscribed to get the custom song. That funnel also
+    planted the monetisation problem (D3). Do not try to rebuild it.
+
+D3  🚨 THE DESCRIPTION LINKS TO A CDLC DOWNLOAD - THE LIKELY EARNING BLOCKER.
+    `[CDLC DOWNLOAD LINK] http://gestyy.com/ed1CwR` (a link shortener, i.e. a
+    monetisation/policy smell on its own). This is the 2022 "100% CDLC" series
+    template, so the same link is probably in every long-form from that era -
+    which is a plausible shared cause for the catalogue-wide
+    "Ineligible to earn" state. NEW RULE (VER 3.3, MR register): zero download
+    links of any kind, ever. CHEAP TEST: strip the link from this video, save,
+    re-check the Notices badge in 48-72 h before scheduling any remake.
+
+D4  THE DESCRIPTION IS A 2022 MUSEUM PIECE.
+    "[TITLE] / [CDLC DOWNLOAD LINK] / [DESCRIPTION] / [ABOUT ME] / [REQUESTING
+    SONGS] / [TWITCH SCHEDULE]" template; bio says "29 years old" (33 now) and
+    "got surgery on 5 October 2022"; the Discord invite (CebyXXTKJv) is dead;
+    the schedule and platform list are pre-Kick. Zero bespoke copy, zero genres
+    line, zero hashtags.
+
+D5  TAGS: 25 tags / 491 of 500 characters - a stuffed box.
+    Includes banned bare generics (`rocksmith`, `rocksmith 2014`), off-topic
+    filler (`games`, `metal`, `metalhead`, `tattoo`, `beard`, `stream`,
+    `streamer`, `smallstreamer`, `tatted`, `twitch`, `music (industry)`,
+    `how to play`, `dc`, `cdlc`) and near-duplicate identity variants. Doctrine
+    ceiling is 8.
+
+D6  PINNED COMMENT IS A STREAM SCHEDULE + LINK DUMP FROM 2022.
+    "Please Subscribe if you can, we are so close to 1500" + Kick/Twitch/Discord
+    URLs + a full Mon-Sun schedule. Violates the zero-URL pin rule, is stale, and
+    asks nothing. 0 replies.
+
+D7  THUMBNAIL IS BRAND ART, NOT TOPIC ART.
+    "MAVOMUSIC" logo + "100% CDLC" badge. CTR 2.6% (2x the channel's 1.2%) so it
+    is not broken - but nothing in the frame says *Motionless In White* or
+    *Another Life*, so the browse/suggested impression sells the channel, not the
+    song.
+
+D8  DESKTOP-HEAVY, SUBSCRIBER-HEAVY AUDIENCE = the "player", not the passer-by.
+    Computer 61.9% vs the channel's 25.5%; subscribed watch time 52.1% vs 2.9%
+    channel-wide. This is a Rocksmith-player audience that came for the CDLC
+    link. A remake without that link must reach players a different way (search
+    + playlist + the Rocksmith/player keyword lane).
+
+D9  PACKAGE DEFECT: `bands/M/Motionless_In_White/Another_Life/0130` pinned comment
+    reads "**Motionless In Write** modernized goth-metal" - typo in the artist
+    name, live in the corpus. Fixed in this version (see below).
+
+--- DECISION ----------------------------------------------------------------
+
+VERDICT: REWRITE ALL FOUR + REMOVE THE CDLC LINK. Then run the cheap
+eligibility test before any remake is scheduled.
+
+TITLE      : CHANGE - no format keyword, so search only ever matched on
+             "rocksmith". New title carries artist + song + `bass cover` inside
+             the first 50 characters and still speaks in MAVO's voice.
+DESCRIPTION: CHANGE - remove the CDLC download link (first, and separately, so the
+             badging test is clean), rewrite the hook bespoke, drop the 2022
+             schedule/bio block, refresh the Discord invite, keep to 2 allowlisted
+             links, add the genre line + a unique gear line + brand hashtags.
+TAGS       : CHANGE - 25 -> 7. Artist + song identity, platform family, brand,
+             and drop every bare generic, off-topic filler and duplicate variant.
+PINNED     : CHANGE - zero URLs, no schedule, one real question.
+THUMBNAIL  : CHANGE recommended - put "ANOTHER LIFE" (or the riff timestamp) on
+             the frame; keep the MAVOMUSIC mark small.
+EARNINGS   : MR-0002 logged as E4 INELIGIBLE. Cheap test = remove the CDLC link,
+             re-check the Notices badge in 48-72 h. If it flips, the same fix
+             applies to the whole 2022 series and NO re-recording is needed.
+
+--- APPROVED COPY (paste into YouTube Studio) --------------------------------
+
+TITLE (72 chars, artist + song + format inside the first 50):
+```
+Motionless In White's Another Life bass cover — metalcore's saddest song
+```
+
+DESCRIPTION:
+```
+Motionless In White wrote a metalcore song that hurts on purpose, and 'Another Life' lives or dies on how the low end carries that ache. The bass under the verses is almost gentle; by the final chorus it's the loudest thing in the room.
+
+This one is a cover I've played hundreds of times on stream, and the trick is restraint — no extra fills, no showing off, just letting the chorus land. There's a reason it still gets requested years after it came out.
+
+If you played this one in a band, you know exactly which bar is the hard one. Tell me below and I'll take on the next Motionless In White track you name.
+
+🟢 Daily bass sessions: https://kick.com/mavomusic
+💬 Requests and deep-cut picks: https://discord.gg/ESGsGkN4j2
+
+**Genres:** Metalcore, gothic metal, industrial metal
+🎸 Epiphone Thunderbird tuned for weight, no fills for the sake of it | 🎮 Played through Rocksmith 2014 Remastered on Steam
+
+#BassCover #MotionlessInWhite #AnotherLife #Rocksmith2014 #EpiphoneThunderbird
+```
+
+TAGS (7 tags, 165 chars):
+```
+motionless in white another life, another life bass cover, motionless in white bass, motionless in white, rocksmith bass, mavo music, epiphone thunderbird bass cover
+```
+
+PINNED COMMENT (zero URLs):
+```
+'Another Life' is the metalcore ballad that still gets requested every week. Which Motionless In White song should I take on next — something from Creatures or from the newer records? 👇🎸
+```
+
+--- GATE CHECK RUN BEFORE APPROVAL (01-11-2026) ------------------------------
+  Title: 72 chars, unique opener `motionless` (0 prior uses), no exact duplicate,
+         artist + song + `bass cover` all inside the first 50 characters ✓
+  Description first line        : unique across 188 LF hooks ✓
+  Boilerplate sentences >=4     : none ✓     Full lines >=4: none ✓
+  Gear line                     : byte-unique vs all 166 ✓
+  URLs                          : 2, both allowlisted ✓   Pin URLs: 0 ✓
+  Tags                          : 7 (3-8), `rocksmith bass` present, song identity,
+                                  no bare generics, no dupes, 165 chars ✓
+  §20 wording / retired phrases : clean ✓
+  Tracking-ID leak ("0002")     : absent ✓
+  Stale strings removed         : "29 years", "surgery", "gestyy", "1500", old
+                                  Discord invite - all gone ✓
+
+--- CORPUS SIDE-CHANGES MADE IN THIS VERSION --------------------------------
+  * bands/M/Motionless_In_White/Another_Life/0130/17-07-2026.md - pinned comment
+    typo "Motionless In Write" -> "Motionless In White" (D9).
+
+--- OPEN ITEMS FOR MAVO -------------------------------------------------------
+  1. Paste the four blocks above. Do it in two steps: delete the CDLC block
+     FIRST and save, so the Notices badge test in 48-72 h is uncontaminated.
+  2. Report the Notices badge 48-72 h later -> decides whether the whole 2022
+     series needs a remake or just a metadata rescue.
+  3. Thumbnail: add "ANOTHER LIFE" text.
+  4. When we meet an E1/E2 (earning or revenue-share) long-form, the MR register
+     immediately flags it as a recreate-first candidate.
+================================================================================
