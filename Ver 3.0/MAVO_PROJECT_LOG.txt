@@ -5021,3 +5021,49 @@ COPY
   Pin    116 chars, no links, no money.
 
 ================================================================================
+
+================================================================================
+VER 4.10 - 2026-11-01 - PRIVATE REPO TEST: FAILED, AND IT CHANGES THE ORDER
+================================================================================
+
+MAVO set mavomusic-site to private and asked me to write a test file into it.
+
+I could not even READ it. Three separate attempts, three 403s:
+
+    gh api repos/MAVOmusic/mavomusic-site
+        {"message":"Resource not accessible by integration","status":"403"}
+    git clone https://github.com/MAVOmusic/mavomusic-site.git
+        remote: Write access to repository not granted.
+        fatal: unable to access ... The requested URL returned error: 403
+    gh repo view MAVOmusic/mavomusic-site
+        GraphQL: Resource not accessible by integration (repository)
+
+No test file was written, because no write was possible. Nothing was left behind.
+
+WHAT THIS MEANS
+The GitHub App this session runs as is installed on SELECTED repositories and has
+NO private-repo access. The moment a repository becomes private and is outside that
+selection, it disappears from my view entirely.
+
+*** THIS IS THE BIT THAT MATTERS: DO NOT FLIP YouTube-SEO YET ***
+If YouTube-SEO goes private and the App still cannot see private repos, this session
+loses push, pull, PR creation and merge. The audit stops mid-file with no way for me
+to recover it - and I cannot flip it back either, because the App also lacks the
+Administration permission (that is the 403 I hit when I tried to make them private).
+
+Two turns ago MAVO asked directly whether I would still reach a private repo and I
+said "yes, almost certainly," with a caveat that I could not verify it. The caveat was
+right and the answer was wrong. Now it is verified, and the answer is NO.
+
+SAFE ORDER
+  1. Regrant the App first:
+     github.com/settings/installations -> find the Arena app -> Configure
+     -> Repository access -> All repositories (or add YouTube-SEO explicitly)
+     If it is not listed there, reconnect GitHub from inside Arena.
+  2. Then flip YouTube-SEO.
+  3. Then tell me, and I run ONE command to confirm access before anything else.
+If step 1 is skipped: leave YouTube-SEO public, finish the long-form pass, and flip it
+last. The analytics notes are the sensitive material and they get no safer by the repo
+being private five weeks earlier than necessary.
+
+================================================================================
