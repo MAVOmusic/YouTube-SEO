@@ -1,0 +1,44 @@
+🛠️ MAVO PIPELINE NOTES — 2026-08 (registered 06-08-2026, VER 2.63 era)
+=====================================================================
+
+1) WAVE 0082→0100 (current)
+   - Grid as filed 06-08 00:2x: 0088@00:50-late / 0084@08:00 / 0087@12:00 / 0086@15:00 /
+     0089@17:00 / 0085@21:00 (06-08) → 0094/0090/0092/0093/0095/0091 (07-08) →
+     0097/0099/0096/0098/0100@00:00/08:00/12:00/15:00/17:00 (08-08). Wave closes 08-08.
+   - Upload-start anchors drift ~30min (edit/upload/check/publish) — day-math uses actual
+     first-upload time (e.g. 0088 anchor = 00:50). md dates already match grid (renames done
+     06-08). Scheduling = copy md titles/tags/descs/pins verbatim (byte-match gate).
+
+2) RE-RECORD PROGRAM (NEW, announced 06-08)
+   - MAVO re-recording ALL songs. From ID 0151 upward, every song gets BOTH a long-form
+     version AND an updated short (new uploads alongside existing legacy shorts).
+   - WORKSPACE TODO when 0151+ starts shipping:
+     a) LF pack sections do not exist yet for mirror packs (0151+ = Shorts-only records,
+        LF fields = N/A placeholders). Prebuild LF sections (title/desc/tags/pin per
+        current 5+5 skeleton + genre slots) per batch BEFORE scheduling. Send batch list
+        + planned dates; AI generates the LF packs.
+     b) Updated Shorts = NEW uploads of already-live songs → duplicate-shorts policy:
+        keep legacy Shorts live (no delete-reupload doctrine; 0005-style exception only),
+        whitelist/duplicate-audit files must be updated per new upload (IDs, dates),
+        naming convention for v2 Shorts to be decided at first batch (suggest: original
+        title formula, distinct hook; no "v2/remake" wording in tags).
+     c) Date-sync/byte-match rules apply identically to new uploads; recheck queue
+        extension needed for 0151+ LFs+SFs.
+
+3) NEW FORMAT: LYRICS ON SCREEN (chroma-key cut-in, LF + SF, where lyric sheets available)
+   - Claims watch: audio Content ID unchanged (master/publisher claims same as now),
+     BUT displayed lyric text is separately licensed publishing IP — rare manual claims
+     for lyric reprint exist (lyrics-video class). First 2–3 lyric uploads: check Claims
+     cards, then treat as safe if silent.
+   - Analytics expectation: sing-along lyric cut-ins historically lift AVD/retention on
+     chorus-heavy cuts — flag as watch-item in rechecks (compare pre/post lyric-era AVD
+     badges once 0151+ data lands).
+
+4) SEO BACKLOG SWEEP (user: "nowhere near 10% done")
+   - Channel-wide legacy Shorts SEO update pending after current wave schedules out.
+   - Workspace assets already generated for copy-paste sweeps:
+     TXT/Titles.txt, TXT/Descriptions.txt, TXT/Tags.txt, TXT/Pinned_Comments.txt
+     (+ Master_Shorts_Repository.txt, Backlog_Duplicate_Shorts_Audit_0151_2460.txt).
+   - No blind re-tags on synced analytics boxes; analytics-built tags never stripped.
+
+=====================================================================
