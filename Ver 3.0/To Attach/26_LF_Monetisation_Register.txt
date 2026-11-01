@@ -258,6 +258,62 @@ were near-identical strings, so YouTube had no reason to treat them as distinct
 destinations to recommend in sequence. Retitling one lifts its siblings.
 CONSEQUENCE: completing the remaining six is NOT cosmetic. The series compounds.
 
+--- MR-0006 | CO-0005 | Motionless In White - Abigail [PLAY ALONG] ---------------
+Video ID           : yr3av2oSv6E
+Upload / date      : 26-10-2022 | 3:07 | 356 views | 8.8 h | +37 subs
+Notices badge      : E4 INELIGIBLE  ("Ineligible to earn", Ads off) | GBP 0.00
+Description risk   : the same six-block 2022 template as MR-0003 and MR-0005,
+                     including "[CDLC DOWNLOAD LINK] SOON" and the 2022 surgery
+                     note.
+Pinned risk        : identical to MR-0005 - three links, weekly EST schedule,
+                     subscribe-begging opener, stale discord.gg/Hguy3JCXn.
+Tags               : 26 at 497/500 - box effectively full.
+Cause hypothesis   : E4-a CLAIM-DRIVEN, Fearless / Roadrunner catalogue. Under
+                     the VER 3.7 repertoire rule this was predictable.
+Traffic verdict    : SMALLEST BUT BEST-CONVERTING. 356 views, 220 unique viewers,
+                     +37 subs = 16.8% conversion, the highest in the set (11.1%
+                     Masterpiece, 7.3% Another Life). Subscribers account for
+                     37.9% of watch time vs 11.2% on MR-0005.
+Weakness           : CTR 5.2% (lowest of the three) and APV 47.4% (lowest).
+                     22.2% of impressions came from YouTube RECOMMENDING it vs
+                     10.3% on MR-0005, so a higher share of impression supply is
+                     low-confidence recommendation traffic. End screen CTR 0.0%
+                     against a 1.1% channel average.
+Recreation verdict : KEEP, REWRITE THE SURFACE. Never earning (claimed
+                     composition); keep as an audience-acquisition asset.
+Next action        : Paste the CO-0005 copy. Thumbnails are now the top open item
+                     for the whole series - CTR is the only metric moving the
+                     wrong way and every card in the set is near-identical.
+
+--------------------------------------------------------------------------------
+CROSS-FEED ENGINE - TWO RETITLES FEEDING A THIRD (second measurement of 36)
+--------------------------------------------------------------------------------
+CO-0005 "Content suggesting this video":
+  75.0%  own series (untouched machine string)
+  12.5%  CO-0003 Masterpiece (retitled)
+   4.2%  CO-0004 Another Life (retitled)
+   4.2%  Motionless In White - Creatures Rocksmith 2014
+   4.2%  Abigail - Motionless In White + Bass only
+CO-0005 "Viewers also watch", in order: CO-0004 (989), CO-0003 (790), then the
+untouched siblings (510, 333) and a 37-view Short.
+
+**The two rewritten titles have displaced the untouched ones at the top of the
+watch-next list on a video that has not been touched at all.** CO-0004 showed one
+retitle feeding a sibling; CO-0005 shows two feeding a third. The mechanism is
+confirmed and it compounds: 2 of 8 rewritten, 6 to go, and each rewrite adds
+another distinct destination for the recommender to serve.
+
+--------------------------------------------------------------------------------
+THE TV TREND - THREE CAPTURES, ONE DIRECTION
+--------------------------------------------------------------------------------
+  MR-0003 Masterpiece    TV 34.7% | mobile 34.2% | computer 28.7%
+  MR-0005 Another Life   TV 41.5% | mobile 31.0% | computer 26.4%
+  MR-0006 Abigail        TV 47.8% | mobile 16.1% | computer 34.9%
+TV share rises every time, mobile collapses. A play along is a living-room
+format - the set goes on, the bass comes out, the phone stays down. Do not judge
+this format on mobile-era assumptions, and do not write it off as low-value
+traffic on a device basis.
+
 ################################################################################
 ## THE REPERTOIRE RULE (NEW VER 3.7 - the real determinant of earnings)
 ################################################################################
@@ -281,14 +337,14 @@ wave at 1/3 of the Shorts wave's total revenue on 1/3 of the views.
 ################################################################################
 ## ROLL-UP (updated every capture)
 ################################################################################
-Captures audited         : 4 single-video (CO-0001 to CO-0004) + 1 wave (CO-W01)
+Captures audited         : 5 single-video (CO-0001 to CO-0005) + 1 wave (CO-W01)
                            + 1 full-series screen (CO-0003-SERIES, 8 play alongs + 1 loop)
 E1 EARNING-NO-CLAIM      : 0        (still none - see E2)
 E2 EARNING-REV-SHARE     : 1        <-- FOUND 01-11-26: Chopin Nocturne 1hr loop,
                                        4,887 views, GBP 0.54. MAVO was right that
                                        a few exist.
 E3 CLAIMED-NOT-EARNING   : 0
-E4 INELIGIBLE            : 16       (CO-0001 to CO-0004 + 12/12 of the Aug shipment)
+E4 INELIGIBLE            : 17       (CO-0001 to CO-0005 + 12/12 of the Aug shipment)
 E5 BLOCKED               : 0        (4 of the Aug LFs are PARTIALLY blocked)
 E6 UNKNOWN               : 1        (Chevelle - no package, no claim card read yet; now CO-0004)
 Remakes queued           : 0        <-- deliberately: a claimed cover re-claims
