@@ -962,6 +962,74 @@ project - 382,300 views against a corpus whose previously-known maximum was 15,8
 across twelve Shorts. It is not captured anywhere in the repo. See the SSL DEMAND
 MAP for what to do about it.
 
+--- MR-0013 | CO-0013 | Slayer - War Ensemble -------------------------------
+Video ID           : BDJuaD9kTY
+Upload / date      : 28-01-2025 | 4:52 | 1,694 views (844 more than usual) | 9.8 h
+                     | +12 subs | 1.7k unique viewers
+Notices badge      : E4 INELIGIBLE (Ineligible to earn)
+Revenue            : GBP 0.00 - all panels dashed, RPM blank
+Impressions / CTR  : 2,015 / 0.8% | 13.6% from YouTube recommending
+                     | 16 engaged views from impressions | 0:17 imp-AVD | 0.08 h
+Watch quality      : AVD 0:20 (-0:47 LESS than usual) | APV 7.1%
+                     | 18% still watching at 0:30 = BELOW typical
+                     | **RETENTION CURVE BELOW THE TYPICAL BAND FOR THE WHOLE VIDEO -
+                     | the first capture in thirteen where that is true.**
+Likes              : 100.0% on twelve subscribers - meaningless either way
+End screen CTR     : 1.5% (channel 1.1%) - the only metric at or above par
+Bell               : 62 pushes sent, 0% CTR, 0 views from notifications
+Devices            : mobile 98.5% / computer 1.5% / TV 0.1%
+Audience           : India 81.2% / Indonesia 16.2% = 97.4% in two countries
+                     | 25-34 44.2% / 18-24 18.8% / 35-44 17.2%
+                     | male 68.8% / female 31.2% | 97.4% non-subscribed watch time
+CAUSE HYPOTHESIS   : E4-b CATALOGUE-CONTROLLED. Nothing exceptional about the
+                     description risk; the fault here is traffic and surface.
+
+*** 98.4% YOUTUBE ADVERTISING - THE PUREST AD BUY IN THE CORPUS ***
+    YouTube advertising 98.4 | Channel pages 0.9 | Browse 0.2 | Search 0.2
+    | Suggested 0.1 | Other 0.1
+
+Of 1,694 views the organic component is about 17 views.
+
+*** THE PAID-VS-ORGANIC CONVERSION RATIO - FIRST FIGURE THIS PROJECT CAN PUT ON IT ***
+    CO-0012 (2 days earlier)  10,723 views ... +85 subs ... 0.79% subs per view
+    CO-0013                    1,694 views ... +12 subs ... 0.71% subs per view
+    Play along series (free)   5,236 views ... +423 subs .. 8.16% subs per view
+    Chopin loop (news-served)  4,887 views ... +64 subs ... 1.31% subs per view
+    => a BOUGHT view is worth roughly ONE TENTH of an organic view for converting
+       a viewer into a subscriber.
+    Caveat: two cohorts, different eras and audiences, not a controlled test. But
+    0.7% against 8.1% does not need a controlled test to be worth acting on.
+
+SEARCH SLICE (0.2% - the only unbought part)
+    bass rocksmith 25.0% | rocksmith bass 25.0%
+    Both of these were missing from the tag box entirely. See surface faults.
+
+CONTENT SUGGESTING (0.1%) - Bullet For My Valentine Scream Aim Fire 50% /
+    System Of A Down Lonely Day 50%. Both MAVO's own uploads. Internal chaining
+    only, no external lane opened.
+
+SURFACE FAULTS - WORST SET OF FOUR IN THIRTEEN AUDITS
+  Tags : 9 AT 96/500. 404 characters unused. ZERO search terms. Two self-brand tags
+         (mavomusic, mavomusicyt), three misspellings of the artist (slayarr,
+         slayerrr, slayerrgghh) and four Kick platform tags (kick, kickstreaming,
+         kickcommunity, kickpartner). The word "bass" is absent. The song title is
+         absent. The two search terms the video actually appeared for were not tagged.
+  Desc : a fundraising document - "type in any amount in any currency", Kick Partner,
+         subscribe appeal, six platform links. Not one sentence about Slayer.
+  Pin  : nearly 400 words under four headings ([IMPORTANT INFORMATION] /
+         [FINANCIAL SUPPORT] / [NEW STREAM SCHEDULE!!] / [SUPER THANKS]), six links,
+         "send any specific amount of your choice". On a video that cannot earn.
+         Reads like a channel in trouble, which is the opposite of a reason to
+         subscribe.
+  Title: a SHORTS title format on a 4:52 long form.
+
+CONTRADICTION NAMED : description says "Twitch streams when community wants me to";
+    pinned says "Do NOT subscribe or gift subs, Twitch 'steals' 60%+". Two surfaces,
+    opposite instructions, same video.
+
+MAVO DECISION LOGGED : all financial appeal blocks removed from the copy. If Super
+    Thanks still earns, it belongs in one line, not four headed sections.
+
 THE PLAY ALONG SERIES - COMPLETE, 8 OF 8 AUDITED
 --------------------------------------------------------------------------------
   #  Video                      Views  Unique  Subs  Conv.  Shell  Priority
@@ -1003,14 +1071,14 @@ wave at 1/3 of the Shorts wave's total revenue on 1/3 of the views.
 ################################################################################
 ## ROLL-UP (updated every capture)
 ################################################################################
-Captures audited         : 12 single-video (CO-0001 to CO-0012) + 1 wave (CO-W01)
+Captures audited         : 13 single-video (CO-0001 to CO-0013) + 1 wave (CO-W01)
                            + 1 full-series screen (CO-0003-SERIES, 8 play alongs + 1 loop)
 E1 EARNING-NO-CLAIM      : 0        (still none - see E2)
 E2 EARNING-REV-SHARE     : 1        <-- FOUND 01-11-26: Chopin Nocturne FOUR-HOUR loop,
                                        4,887 views, GBP 0.54. MAVO was right that
                                        a few exist.
 E3 CLAIMED-NOT-EARNING   : 0
-E4 INELIGIBLE            : 23       (CO-0001 to CO-0010 + CO-0012 + 12/12 of the Aug shipment)
+E4 INELIGIBLE            : 24       (CO-0001 to CO-0010 + CO-0012/0013 + 12/12 of the Aug shipment)
 E5 BLOCKED               : 0        (4 of the Aug LFs are PARTIALLY blocked)
 E6 UNKNOWN               : 1        (Chevelle - no package, no claim card read yet; now CO-0004)
 Remakes queued           : 0        <-- deliberately: a claimed cover re-claims

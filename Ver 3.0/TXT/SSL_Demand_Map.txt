@@ -37,41 +37,43 @@ I cannot rank this library by viral probability, and neither can anything else.
 What I can do is tell you what the channel's own numbers say, because they say
 something unusual.
 
-THE THREE BIGGEST NUMBERS IN THE CORPUS, AND WHAT EACH ONE ACTUALLY IS:
+*** CORRECTION 01-11-2026, MAVO: THE 382.3k IS NOT ORGANIC ***
+I wrote in v1 of this map that the SOAD figure was "ORGANIC, unexplained". MAVO
+corrected it: "That SOAD song is long form and my biggest ad campaign."
+So it is his biggest campaign, not a breakout, and this map has been rewritten
+around that. It was the one number in this project that looked like proof that
+content could travel by itself, and it is not.
 
-    System Of A Down - Lonely Day (Short) ... 382,300 views ... ORGANIC, unexplained
-    Taking Back Sunday - Cute Without E ....  10,723 views ... 86.6% PAID
-    Frederic Chopin - Nocturne 4-hour loop .   4,887 views ... 60.9% news-suggested
+THE THREE BIGGEST NUMBERS IN THE CORPUS - ALL THREE ARE NOW NON-ORGANIC:
+    System Of A Down - Lonely Day ... 382,300 ... biggest AD CAMPAIGN (MAVO)
+    Taking Back Sunday - Cute W... ..  10,723 ... 86.6% paid advertising
+    Slayer - War Ensemble ...........   1,694 ... 98.4% paid advertising
+    Frederic Chopin - 4-hour loop ...   4,887 ... 60.9% news-suggested
+    Play along series (best single) ... ~1,500 ... genuine search, 60-70% of views
 
-Only one of those three came from people finding the video on purpose. Only one of
-them came from the content itself doing something. And it is a SHORT, not a long
-form.
+Read that list again, because it is the most important thing in this document.
+Every large number this channel has ever produced was bought, borrowed from a news
+cycle, or is a Short. The genuine organic ceiling on a long form is around
+1,000-1,500 views, and that is what thirty-four months of free search traffic
+actually delivers.
 
-WHAT THAT MEANS FOR SONG SELECTION:
-    - Buying views produces views and nothing else. It does not produce search
-      traffic, subscribers who stay, or a single view after the money stops.
-    - A loop can pick up thousands of views from a news cycle it has no relationship
-      with, and still earn 54 pence.
-    - The thing that has genuinely broken out once, on its own, is a 60-second
-      snippet of a very famous nu-metal bassline.
+WHAT THAT MEANS FOR SONG SELECTION, STATED PLAINLY:
+    - There is no song in this 49,891-song library with a demonstrated organic
+      breakout behind it. Not one. So "what will go viral" cannot be answered from
+      this data, by me or by anyone.
+    - Buying views works: it reliably moves the counter. What it does not do is
+      convert. CO-0012 converted 0.79% of views to subs, CO-0013 0.71%, against 8.16%
+      for the free search traffic of the play along series. A bought view is worth
+      roughly a tenth of an organic one.
+    - The only lever with evidence behind it is the one this channel already owns:
+      a song people search for, in a format that starts on the music. That is a small
+      claim, but it is a real one, and it is repeatable.
 
-If you want my actual read: **the variable is not the song, it is the format and the
-first three seconds.** SOAD - Lonely Day is a Short. The five play alongs that opened
-on the music held 62-70% at 0:30. The three that opened on a score card held 10-19%.
-Cute Without the E held 19% at 0:30 with a hard cut. The song list decides what is
-worth playing. The opening decides whether anyone meets it.
-
-THE ONE SONG-LEVEL SIGNAL THAT IS REAL, AND IT IS HUGE:
-On CO-0012's "Viewers also watch" panel - which is YouTube telling you what your own
-audience does - the top entry is:
-
-    System Of A Down - Lonely Day (Bass) #rocksmith - 382.3k views, 1 year ago
-
-SYSTEM OF A DOWN HAS 62 SONGS IN THE LIBRARY AND 3 PACKAGED. 59 are unused, including
-Chop Suey!, B.Y.O.B., Aerials, Toxicity-era material and the rest.
-This is the single most defensible recommendation in this document: the channel has
-proven, once, that a SOAD bass part can do 382,000 views. Nothing else in 12 audits
-comes within 35x of that.
+THE ONE THING THE SOAD NUMBER STILL TELLS US, AND IT IS A DIFFERENT THING NOW:
+it tells us where MAVO chose to spend his largest budget. He put it behind a nu-metal
+bassline rather than a ballad or a metal classic, and he has 62 SOAD songs in the
+library with 3 packaged. That is a bet he made, not a result he got. Worth knowing,
+not worth building a strategy on.
 
 ################################################################################
 3. TIER A - THE ONLY TIER THAT CAN EVER EARN (public domain, unclaimed)
@@ -150,10 +152,14 @@ This is not a reason to avoid them. It is the reason to stop expecting money fro
 them. Their value is search traffic (60-70% of views on the play along series) and
 subscriber conversion (11-29%).
 
-BEST TRAFFIC TARGETS, BY EVIDENCE:
-    SYSTEM OF A DOWN (62 in library, 3 packaged) - the 382.3k precedent. Start with
-        Lonely Day remade properly if the Short is what did it, then Chop Suey!,
-        Aerials, B.Y.O.B.
+BEST TRAFFIC TARGETS, BY EVIDENCE - NOTE THAT "EVIDENCE" HERE MEANS PROVEN
+ADJACENCY OR PROVEN SEARCH BEHAVIOUR ON THIS CHANNEL, NOT PROVEN VIEW COUNTS.
+Every view count above 1,700 in this project was bought or news-served:
+    SYSTEM OF A DOWN (62 in library, 3 packaged) - the 382.3k was a PAID campaign,
+        so it is not a demand signal. What it does show is that MAVO already believes
+        in this catalogue enough to spend on it, and that Chop Suey!, Aerials and
+        B.Y.O.B. have never been tried without money behind them. Worth one test
+        upload with no ad spend, to see what the song does on its own.
     TAKING BACK SUNDAY (13 in library, 0 packaged) - Make Damn Sure is their biggest
         song by a distance and it is sitting unused. You have just done Cute Without
         the E.
@@ -178,9 +184,10 @@ it is why the famous ones in a small library beat the obscure ones in a big one.
     - Which of the 49,891 songs have real "<song> bass tab" search volume. That
       needs YouTube autocomplete or a keyword tool. I have neither, and guessing it
       would be the sixth retraction in this project.
-    - What MAVO actually spent per view on the 2025 ad campaign. If 86.6% of 10,723
-      views was bought, the cost per subscriber is knowable and would settle whether
-      paid promotion has ever been worth doing.
+    - What MAVO actually spent. This matters more now than it did in v1. We know what
+      the ads DELIVERED (0.71-0.79% subs per view, against 8.16% organic) and we know
+      the 382.3k SOAD figure was his biggest campaign. What we do not know is the
+      cost, so nobody can say whether even that delivery was worth the money.
     - Whether the 382.3k SOAD Short still receives traffic today. If it does, that is
       a live search surface and the long form should be built to feed it.
 
@@ -205,5 +212,13 @@ Third, and only then:
        constraint - time is.
 
 ################################################################################
-END - SSL DEMAND MAP v1
+CORRECTION LOG
+    v1 (01-11-2026) - first pass, built from CO-0012's side panels.
+    v2 (01-11-2026) - MAVO corrected the SOAD 382.3k figure: it is his biggest AD
+                      CAMPAIGN, not an organic breakout. Section 2 rewritten, the
+                      SOAD recommendation downgraded from "most defensible pick" to
+                      "a bet he already made", and the paid-vs-organic conversion
+                      ratio added from CO-0013.
+################################################################################
+END - SSL DEMAND MAP v2
 ################################################################################
