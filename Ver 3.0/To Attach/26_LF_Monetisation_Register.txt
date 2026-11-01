@@ -105,18 +105,51 @@ Recreation verdict : (1) CHEAP TEST FIRST - strip the CDLC link + every non-
                      re-recording at all. (2) Only if it stays E4, treat as
                      E4-a and queue a remake with a different audio bed.
 
+--- MR-0003 | CO-0003 | Motionless In White - Masterpiece [PLAY ALONG] ----------
+Upload / date      : 25-10-2022 | ~3:42 | 790 views | 27.2 h
+Notices badge      : E4 INELIGIBLE  ("Ineligible to earn", red) | revenue GBP 0.00
+Visible claimant   : none shown on the Revenue/Overview captures (audio-state block).
+                     Motionless In White sit on Fearless / Roadrunner - a Content
+                     ID-claiming catalogue, same family as MR-0002.
+Description risk   : CRITICAL - six bracketed template blocks including
+                     "[CDLC DOWNLOAD LINK] SOON", plus a surgery note dated
+                     "5th October 2022" and a pinned comment that is a pure
+                     weekly Kick/Twitch/Discord schedule with 0 replies.
+Cause hypothesis   : E4-b POLICY-DRIVEN FIRST (CDLC link placeholder + template
+                     shell) + E4-a CLAIM-DRIVEN SECOND (same catalogue as MR-0002).
+Traffic verdict    : OUTPERFORMER. 71.1% YouTube search, 9.3% CTR on 6.4k
+                     impressions, 56.2% avg viewed, 70% still watching at 0:30
+                     (above channel typical), +51 subs from 459 unique viewers,
+                     86.6% not subscribed, TV 34.7% as the top device. This is a
+                     discovery asset, and it is the clearest TRAFFIC-VS-EARNINGS
+                     GAP in the corpus: near-best-in-class reach, GBP 0.00 return,
+                     and the gap is eligibility, not demand.
+Recreation verdict : KEEP THE FORMAT, RETIRE THE SHELL. Do NOT delete - it is an
+                     indexed search entry point that converts ~11% of its viewers
+                     into subscribers, and Section C of the master repository
+                     already exempts the play along archive from overhaul.
+                     Do NOT leave as-is - the CDLC placeholder is the prime
+                     policy flag on the page.
+Next action        : (1) Apply the rewritten title/desc/tags/pin written into
+                     CO-0003. (2) Use THIS video, not CO-0002, as the E4-b cheap
+                     test - strip the CDLC link, save, re-read the Notices badge
+                     after 48-72 h. One answer then applies to the whole
+                     play along series. (3) Roll the same shell fix across
+                     [PA/LOOP 01-09] only after MAVO confirms the series count.
+
 ################################################################################
 ## ROLL-UP (updated every capture)
 ################################################################################
-Captures audited         : 2 single-video (CO-0001, CO-0002) + 1 wave (CO-W01)
+Captures audited         : 3 single-video (CO-0001, CO-0002, CO-0003) + 1 wave (CO-W01)
 E1 EARNING-NO-CLAIM      : 0
 E2 EARNING-REV-SHARE     : 0        <-- MAVO says "there are a few"; find them
 E3 CLAIMED-NOT-EARNING   : 0
-E4 INELIGIBLE            : 14       (CO-0001, CO-0002 + 12/12 of the Aug shipment)
+E4 INELIGIBLE            : 15       (CO-0001, CO-0002, CO-0003 + 12/12 of the Aug shipment)
 E5 BLOCKED               : 0        (4 of the Aug LFs are PARTIALLY blocked)
-E6 UNKNOWN               : 1        (Chevelle - no package, no claim card read yet)
+E6 UNKNOWN               : 1        (Chevelle - no package, no claim card read yet; now CO-0004)
 Remakes queued           : 0        <-- deliberately: a claimed cover re-claims
-Cheap-fix tests queued   : 1 (CO-0002 - remove CDLC link, re-check badge)
+Cheap-fix tests queued   : 2 (CO-0002 and CO-0003 - remove CDLC link, re-check
+                              badge; CO-0003 is the higher-traffic test subject)
 Shorts earning (Aug wave): 12/12  -> GBP 0.04-0.17 each, avg 1,320 views
 
 WAVE SAMPLE - CO-W01 (26-28 Aug 2026, 12 LFs + 12 Shorts, same songs):

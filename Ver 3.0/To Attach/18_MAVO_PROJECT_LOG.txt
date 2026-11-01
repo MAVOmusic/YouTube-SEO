@@ -3847,3 +3847,83 @@ Deep-audit proved the opener-only uniqueness checks were masking mass-production
 [VER 3.4 - 2026-11-01] LATEST-UPLOAD WAVE AUDIT (26-28 Aug 2026, 12 Shorts + 12 LFs) - TITLE STYLE KEPT BESPOKE, MONETISATION HYPOTHESIS CORRECTED. MAVO pushed back on the VER 3.2 keyword rule ("breaking the original idea back to band and song will create repetitions") and asked for the latest uploads to be analysed first. All 24 rows map to packages 0093/0095/0096/0099/0100/0101/0102/0103/0104/0111/0124 and every LF/SF title byte-matches its package. **ANSWER: NO, we do not go back to `Artist - Song`.** The bespoke Shorts averaged **1,320 views** (1,003-1,904) in 1-3 days, above the 790-1,100 typical band, and 3 of the 12 carry neither artist nor song in the title - wording is not the constraint. The same shipment's long-forms are 12/12 "Ineligible to earn / Ads off" (4 "Partially blocked") at an average of 72 views and GBP 0.00, while 12/12 Shorts earned GBP 0.04-0.17. **So the split is FORMAT-driven, not title-driven.** New S32 contract: bespoke voice + natural mention of artist/song (title, or first description line/hashtags) + one format token on long-form (bass cover / playthrough / Rocksmith); the dash template is explicitly banned again. **S33 correction:** the CDLC-link theory is DOWNGRADED - the Aug packs have no links of any kind and are still blocked, so the block is claim-driven (E4-a), not policy-driven; "Shopping disabled" on Shorts is product tagging, not an ads block. Recreation doctrine corrected: do not spend sessions re-recording LFs that will simply re-claim; remake only E1/E2 or a genuinely different audio bed. **Fixed:** 11 packages date-synced to the real Studio dates (were 17-07/07-08/08-08); track history gained per-ID Last Checked support and now marks the 11 audited packages 01-11-2026. **Missing:** Chevelle has no package anywhere (SF 1,123 / LF 98, 26-08-26) - need the song name. **Edits:** CO-0002 stands as written (already house pattern); CO-0001 title rewritten into house style.
 
 [VER 3.5 - 2026-11-01] TYPOGRAPHY SWEEP (ASCII ONLY) + HOUSE FORMULA CODIFIED + CO-0001/CO-0002 FINAL COPY. MAVO: "NOT use en dashes or anything that can lead AI to read that it is AI SEO. Use - instead of —." The audit found this was not a two-file issue but a corpus-wide AI tell: **184 of 308 packages carried 408 em dashes**, plus 2 in the monetisation register and 2 in the kit guide. All 408 were replaced with hyphens (0 remaining) and Tier-1 verify.py now FAILS the build on `—` `–` `’` `‘` `“` `”` `…` in any package, so it cannot creep back in. **PATTERN DECISION:** the draft "Motionless In White's Another Life bass cover - metalcore's saddest song" is REJECTED - it is a fixed shape, so reusing it would break the uniqueness rule and banning it later would be inconsistent with what we already shipped. S32 now defines the house formula: a third-person bespoke claim about the bass/bassist with artist and song named naturally inside the sentence, the word "bass" present, and the structure varied every time; the literal phrase "bass cover" is downgraded from mandatory to optional because it would itself become a template. Reference set = the 26-28 Aug wave titles. FINAL COPY approved and gated: CO-0001 "Burzum's 'Autumn Leaves' stretched into 1 hour of calm dungeon synth" (68ch) and CO-0002 "Motionless In White's 'Another Life' hides one of metalcore's softest basslines!" (80ch), both with ASCII descriptions and pins. Chevelle - The Red is confirmed as the missing package (CO-0003 candidate, queued).
+
+================================================================================
+VER 3.6 - 2026-11-01 - FORMAT-LEVEL DECISION: THE PLAY ALONG SERIES IS KEPT
+================================================================================
+MAVO uploaded 10 panels of _All Songs/0003 - Motionless In White - Masterpiece
+(Long Form - Play Along on Bass) with a question that was not about the song:
+"1 of 8 play along recording. This is just showcasing the game with full song on
+screen without me playing it. Shall we keep these or remove them?"
+
+This is the first FORMAT-level question in the walk. Every previous entry judged
+a song: its title, its description, its tags, its pin. This one asks whether a
+whole content type deserves to exist. It cannot be answered by reading the copy
+sitting on one video, so it was answered from the video's own analytics.
+
+THE EVIDENCE
+  790 views, 27.2 h watch time, +51 subscribers.
+  Search    71.1% of traffic, and the search terms are real song queries
+            ("motionless in white masterpiece cover", "rocksmith bass drop d",
+            "rocksmith bass metal") rather than the channel's own name.
+  CTR       9.3% on 6.4k impressions - high, and high on a machine-shaped title.
+  Retention 56.2% average viewed, 70% still watching at 0:30, above the
+            channel's typical curve.
+  Audience  86.6% not subscribed. 459 unique viewers. UK 3.7%.
+  Devices   TV 34.7%, mobile 34.2%, computer 28.7%. TV-first viewing is what a
+            play along is for: the set gets the big screen and the player plays.
+  Series    Viewers-also-watch carries the sibling MIW play alongs at 989, 510,
+            356 and 333 views, next to a 37-view MIW Short. The format clusters
+            its audience; the Short does not.
+  Money     0.00. Ineligible to earn. "Nothing to show" on the Revenue card.
+
+THE DECISION
+  KEEP THE FORMAT. RETIRE THE SHELL. Do not delete, do not leave as-is.
+  This is the clearest traffic-versus-earnings gap in the corpus. The reach is
+  near the best in the channel; the return is zero; and the gap is ELIGIBILITY,
+  not demand. Removing the video would remove an indexed search entry point that
+  converts roughly one in nine of its viewers into a subscriber. Leaving it alone
+  locks in a six-block bracketed template with a live "[CDLC DOWNLOAD LINK] SOON"
+  placeholder, which is the leading policy suspect in the whole archive.
+
+WHY THE CORPUS ALREADY AGREED
+  Section C of the master repository is titled "PLAYALONG & LOOP ARCHIVE
+  (UNNUMBERED / NO SHORTS OR OVERHAUL REQUIRED)". Masterpiece is [PA/LOOP 08].
+  Section D, which is the removal list, holds exactly one item and it is not a
+  play along. A deletion would contradict a decision already recorded in the
+  workspace. Section C items are package-exempt, so no bands/ entry was created.
+
+THE HONESTY PROBLEM, AND WHY THE COPY IS WRITTEN DIFFERENTLY
+  Every other file in the corpus is voiced as a performed cover: "How did the
+  drive hold up?", "Did the stomp get your fist in the air?". On this video MAVO
+  is not playing. Copy in that voice would ask a viewer to review a take that
+  does not exist - and a viewer who works that out is a viewer who leaves. The
+  new copy sells what the video actually is: the full song, the bass part on
+  screen, no overdubs, useful to learn from and fine to just listen to.
+
+DELIVERED
+  Title    Every bass note in Motionless In White's 'Masterpiece', left on screen
+           (70 chars, opener "Every" used 0 times across 308 packages)
+  Desc     1,034 chars, all six bracketed blocks and the CDLC link deleted with
+           no replacement, rebuilt to the 26-28 Aug wave rhythm
+  Tags     20 tags / 362 chars, down from 27 / 498. Generic filler (games,
+           streamer, twitch, dlc, cdlc, how to play) and the "cdlc" tag dropped;
+           the three phrases the analytics actually prove promoted.
+  Pin      one question, 119 chars, zero URLs. The dead 2022 schedule block is
+           gone - a 2022 weekly schedule on a 2022 upload reads as abandoned.
+
+NEW RULE (§34)
+  Judge a format on discovery, retention and subscriber conversion SEPARATELY
+  from earning eligibility. A format is never removed for returning GBP 0.00
+  while it is still out-performing on search, retention and conversion. Fix the
+  badge and the shell first; only delete when the analytics themselves go quiet.
+
+NEXT
+  The CDLC-link cheap test now runs on THIS video rather than CO-0002: it has
+  more traffic, the placeholder is still live, and one answer applies to the
+  whole series. Strip the link, save, re-read the badge at 48-72 h.
+  Roll-out across [PA/LOOP 01-09] waits for MAVO to confirm the count - he says
+  8, the archive holds 7 PLAYALONG plus 2 LOOP (Chopin, Burzum).
+  Chevelle renumbered CO-0004.
+
+================================================================================

@@ -502,3 +502,153 @@ W6  THE "2 NEW EDITS" REVIEW (MAVO's question): do NOT break the house style bac
     "Burzum's 'Autumn Leaves' stretched into 1 hour of calm dungeon synth".
     Both now satisfy §32-VER-3.4: bespoke voice + natural mention, no template.
 ================================================================================
+
+================================================================================
+CO-0003 | Motionless In White - Masterpiece (LONG FORM, PLAY ALONG ON BASS)
+================================================================================
+Upload / date      : 25-10-2022  (upload 0003 in channel-order; 4 yrs, 1 wk ago)
+Runtime / views    : ~3:42 | 790 views | 27.2 h watch time | +51 subscribers
+Package status     : NO bands/ PACKAGE - and correctly so. The corpus already
+                     files this in Master_Long_Form_Repository SECTION C
+                     ("PLAYALONG & LOOP ARCHIVE, unnumbered, no Shorts or
+                     overhaul required") as [PA/LOOP 08]. Masterpiece also
+                     appears as 0594 in the Section B backlog list but has no
+                     package of its own.
+Notices badge      : Ineligible to earn (red). Revenue GBP 0.00. Analytics shows
+                     "Nothing to show" on the Revenue card.
+MR CLASS           : E4 INELIGIBLE -> logged as MR-0003.
+
+--------------------------------------------------------------------------------
+MAVO'S QUESTION (format-level, not song-level)
+--------------------------------------------------------------------------------
+"1 of 8 play along recording. This is just showcasing the game with full song on
+screen without me playing it. Shall we keep these or remove them?"
+
+--------------------------------------------------------------------------------
+VERDICT: KEEP THE FORMAT, RETIRE THE SHELL. DO NOT DELETE, DO NOT LEAVE AS-IS.
+--------------------------------------------------------------------------------
+This is the strongest-discovery asset in the 2022 block and it is being read as a
+failure for the wrong reason. It earns GBP 0.00 because the video is INELIGIBLE,
+not because the format is bad. The traffic numbers say the opposite of "remove".
+
+1. 71.1% of its views come from YouTube search. This is not a subscriber-feed
+   asset, it is an indexed entry point. Deleting it deletes a live door into the
+   channel and hands the ranking to someone else's video.
+2. 9.3% CTR on 6.4k impressions. That is high, and it is high on a title that is
+   itself machine-shaped ("... | Play Along on Bass | M | ..."). Fix the title and
+   that CTR has somewhere to go.
+3. 56.2% average viewed on a 2:05 average duration, with 70% still watching at
+   0:30 - above the channel's typical curve. People are not bouncing off this.
+4. +51 subscribers from 459 unique viewers. That is roughly 11% conversion on a
+   passive, non-performing video. Nothing else in the corpus converts like that.
+5. 86.6% not subscribed. New-audience acquisition, which is exactly what a
+   discovery format should be doing.
+6. Device split: TV 34.7%, mobile 34.2%, computer 28.7%. TV-first viewing is the
+   signature of a play along - people put it on the big screen and play to it.
+   That is the format working as designed, not people watching a cover.
+7. The series has its own audience. Viewers-also-watch carries the same-series
+   MIW play alongs at 989, 510, 356 and 333 views, alongside a 37-view MIW Short.
+   The format clusters viewers; the 37-view Short does not.
+8. The repository already made this call. Section C exists and says these need
+   "NO SHORTS OR OVERHAUL REQUIRED". Section D (removal) holds one item and it is
+   not a play along. Deleting these would contradict a decision already recorded.
+
+WHY "DO NOT LEAVE AS-IS": the description is six bracketed placeholders -
+[TITLE], [CDLC DOWNLOAD LINK] SOON, [DESCRIPTION], [ABOUT ME], [REQUESTING
+SONGS...], [TWITCH SCHEDULE] - plus a surgery note dated 5th October 2022 and a
+pinned comment that is nothing but a weekly Kick/Twitch/Discord schedule with 0
+replies. The "[CDLC DOWNLOAD LINK] SOON" placeholder is the single most likely
+policy flag on the page (E4-b), and it is the same defect already queued as a
+cheap test on CO-0002. Underneath the shell the content is fine.
+
+THE HONESTY PROBLEM. Every other file in the corpus is written in the voice of a
+performed cover - "How did the drive hold up?", "Did the stomp get your fist in
+the air?". Copy in that voice on THIS video would ask the viewer to judge a
+performance that does not exist. MAVO's own words are "showcasing the game with
+full song on screen without me playing it". So this record deliberately writes
+the play along as a play along: the song is the product, the on-screen tab is the
+teaching, and the copy never claims a take.
+
+--------------------------------------------------------------------------------
+FINAL COPY (paste-ready, ASCII only)
+--------------------------------------------------------------------------------
+TITLE (70/100):
+Every bass note in Motionless In White's 'Masterpiece', left on screen
+
+DESCRIPTION (1089/5000):
+Motionless In White's 'Masterpiece' runs in full here with the bass part sitting on screen the whole way - no talking over it, no cutaways, nobody waving a bass at the camera. The game plays the song, the on-screen tab does the teaching, and Graveyard Shift's cleanest chorus gets its full three and a half minutes with nothing in the way.
+
+I started making these because plenty of the songs worth learning never get a decent play along. If that is what brought you here, the rest of the series is already on the channel.
+
+Which track should get the full-song treatment next? Drop it below and it goes on the list.
+
+🟣 Learn-along blocks stream live on Twitch: https://www.twitch.tv/mavomusic
+💬 Request the next play along on Discord: https://discord.gg/ESGsGkN4j2
+
+**Genres:** Metalcore, gothic metal, alternative metal
+**Format:** Full song, on-screen bass tab, no overdubs - play it or just listen
+🎸 Epiphone Thunderbird, deliberately left out of the shot | 🎮 full song captured in Rocksmith 2014 Remastered (Steam)
+
+#BassPlayAlong #MotionlessInWhite #Rocksmith2014 #Masterpiece #BassTab
+
+TAGS (362/500 chars, 20 tags):
+motionless in white masterpiece bass, motionless in white masterpiece cover, masterpiece bass tab, motionless in white bass, rocksmith bass drop d, rocksmith bass metal, rocksmith 2014, bass play along, bass tab, metalcore bass, drop d bass, graveyard shift, motionless in white, bass cover, bass guitar, learn bass, bass lesson, play along bass, rocksmith, bass
+
+PINNED COMMENT (119/300):
+Play along, or just let the song run - both are the point of this one. What should get the full-song treatment next? 👇🎸
+
+--------------------------------------------------------------------------------
+WHAT CHANGED AND WHY
+--------------------------------------------------------------------------------
+- Title: the "Rocksmith 2014 | Play Along on Bass | M |" prefix is the machine
+  shape. It also front-loads the KEY "'Masterpiece'" with the search terms. The
+  new title keeps artist + song + "bass" (all three proven by its own search
+  terms: "motionless in white masterpiece cover", "rocksmith bass drop d",
+  "rocksmith bass metal") while opening on "Every", an opener used 0 times in 308
+  packages, so no shape is recycled.
+- Description: all six bracketed blocks deleted, [CDLC DOWNLOAD LINK] deleted
+  outright with no replacement. Rebuilt to the 26-28 Aug wave rhythm (context
+  para, personal para, question, two links, genres, format, gear, hashtags).
+- Tags: 27 tags / 498 of 500 chars cut to 20 tags / 362 chars. Dropped the
+  generic filler (games, streamer, twitch, dlc, cdlc, how to play) and the
+  "cdlc" tag that reinforces the download-link signal. Kept and promoted the
+  three phrases the analytics actually show being searched.
+- Pin: the weekly schedule block is gone. It dated the video (a 2022 schedule on
+  a 2022 upload reads as abandoned) and it asked for nothing. Replaced with the
+  single question the format can answer.
+- No bassist is named. The Graveyard Shift bassist is a divisive figure in this
+  fanbase and naming him invites the comments to become about him.
+
+--------------------------------------------------------------------------------
+SERIES ROLL-OUT (not done yet, needs MAVO's go-ahead)
+--------------------------------------------------------------------------------
+The same shell almost certainly sits on the other play alongs. Section C lists:
+  [PA/LOOP 01] .38 Special - If I'd Been The One        [PLAYALONG]
+  [PA/LOOP 02] My Chemical Romance - Welcome To The Black Parade [PLAYALONG]
+  [PA/LOOP 03] Green Day - X-Kid                        [PLAYALONG]
+  [PA/LOOP 04] Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2 [LOOP]
+  [PA/LOOP 05] Motionless In White - Immaculate Misconception [PLAYALONG]
+  [PA/LOOP 06] Motionless In White - America            [PLAYALONG]
+  [PA/LOOP 07] Motionless In White - Abigail            [PLAYALONG]
+  [PA/LOOP 08] Motionless In White - Masterpiece        [PLAYALONG]  <- THIS one
+  [PA/LOOP 09] Burzum - Autumn Leaves                   [LOOP]
+MAVO counted 8 play alongs; the archive shows 7 PLAYALONG plus 2 LOOP. Worth
+confirming which count he means before the roll-out, because the two Chopin and
+Burzum LOOPs are a different product (ambient utility, not a lesson).
+Each one needs its own bespoke title - no shape may repeat across the set, per
+the VER 3.5 no-template rule. They cannot share a title pattern even though they
+share a format.
+
+--------------------------------------------------------------------------------
+CHEAP TEST THAT DECIDES WHETHER THIS EVER EARNS
+--------------------------------------------------------------------------------
+The E4-b question (does the CDLC link cause the block, or is it Content ID on the
+Fearless/Roadrunner publishing?) is already queued on CO-0002. Masterpiece is the
+better test subject: different artist position in the same catalogue family,
+790 views of search traffic, and the placeholder link is still live on it. Strip
+the link here first, re-read the Notices badge after 48-72 h, then apply the
+answer to the whole series at once. If the badge flips, ~4,000 views of existing
+search traffic across the series starts earning for free. If it does not, the
+series still earns its keep in subscribers.
+
+================================================================================
