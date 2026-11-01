@@ -11,9 +11,10 @@ Status        : FIRST PASS. Structural + eligibility + coverage. Demand column i
 ################################################################################
 1. WHAT THE DATABASE IS
 ################################################################################
-_SSL is the StreamerSonglist requestable catalogue: every band and every song that
-can be pulled up on stream. It is not a CDLC library and it is not a wish list. It
-is the SUPPLY side, and it is enormous compared with what has been used.
+_SSL is MAVO'S OWN StreamerSonglist catalogue (streamersonglist.com/t/mavomusic) -
+every band and every song that can be pulled up on his stream. **It is his own data,
+not a third-party export.** It is not a CDLC library and it is not a wish list. It is
+the SUPPLY side, and it is enormous compared with what has been used.
 
     Bands in library .................................... 11,333
     Songs in library .................................... 49,891
@@ -214,11 +215,13 @@ Third, and only then:
 ################################################################################
 CORRECTION LOG
     v1 (01-11-2026) - first pass, built from CO-0012's side panels.
+    v3 (01-11-2026) - MAVO confirmed _SSL is his OWN StreamerSonglist database, not a
+                      third-party export. Ownership note corrected. No IP concern.
     v2 (01-11-2026) - MAVO corrected the SOAD 382.3k figure: it is his biggest AD
                       CAMPAIGN, not an organic breakout. Section 2 rewritten, the
                       SOAD recommendation downgraded from "most defensible pick" to
                       "a bet he already made", and the paid-vs-organic conversion
                       ratio added from CO-0013.
 ################################################################################
-END - SSL DEMAND MAP v2
+END - SSL DEMAND MAP v3
 ################################################################################

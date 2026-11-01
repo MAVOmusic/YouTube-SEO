@@ -1030,6 +1030,78 @@ CONTRADICTION NAMED : description says "Twitch streams when community wants me t
 MAVO DECISION LOGGED : all financial appeal blocks removed from the copy. If Super
     Thanks still earns, it belongs in one line, not four headed sections.
 
+--- MR-0014 | CO-0014 | Queen - I Want To Break Free -------------------------
+Video ID           : 0zujBWl4j0
+Upload / date      : 31-01-2025 | 4:14 | 1,278 views (428 more than usual) | 15.6 h
+                     | +1 sub | 1.2k unique viewers
+Notices badge      : "Ineligible to earn" **AND "Partially blocked"**
+Revenue            : GBP 0.00 - all panels dashed, RPM blank
+Classification     : **E5 BLOCKED (partial)** - first E5 in the corpus. Reclassified
+                     out of E4 because the partial block is a different mechanism and
+                     it suppresses reach.
+Impressions / CTR  : 8.9k / 1.5% | 134 engaged views from impressions
+                     | 0:44 imp-AVD | 1.64 h watch time from impressions
+                     | 4.0% from YouTube recommending
+Watch quality      : AVD 0:44 (-0:23 less than usual) | **APV 17.3% - the BEST
+                     percentage-viewed of any long form in this audit**
+                     | 23% at 0:30 = typical | curve starts ABOVE typical, crosses
+                     under after the first minute
+Subscribers        : **+1 from 1,278 views = 0.08%, the WORST conversion in the
+                     corpus.** People came for Queen and left not caring who played it
+Likes              : 91.3% (channel 97.4%)
+End screen CTR     : **0.0%** (channel 1.1%) - nothing clicked through
+Bell               : 63 pushes, 1.6% CTR, 1 view
+Devices            : mobile 91.1 / computer 4.4 / TV 2.5 / tablet 2.1
+Audience           : India 38.4 / Iraq 5.4 / Algeria 4.9 / Philippines 3.8 /
+                     Pakistan 2.9 - far more SPREAD than CO-0013's India 81.2 +
+                     Indonesia 16.2, suggesting different campaign targeting
+                     | 25-34 45.1 / 18-24 20.0 / 35-44 14.4 / 55-64 9.1
+                     | male 71.6 / female 28.4 | 95.7% non-subscribed watch time
+CAUSE HYPOTHESIS   : E5-partial. Claimed/enforced catalogue + partial block.
+
+*** THE FIRST VIDEO IN FOURTEEN WHERE SEARCH SHOWED UP ***
+    YouTube advertising 82.0 | **YouTube search 8.7** | Channel pages 4.9
+    | Browse 1.5 | External 0.8 | Other 2.1
+
+8.7% of 1,278 = about 111 views found by searching, on a video carrying NO search
+tags. Against CO-0012 at 0.2% and CO-0013 at 0.2%. Forty times the search share of
+the two videos either side of it, same channel, same month, same kind of ad buy.
+
+SEARCH TERMS - all five absent from the tag box:
+    i want to break free 17.1 | bass 9.9 | rocksmith 7.2 | queen 5.4 | queen songs 3.6
+
+**This is the first direct evidence in the project that a famous song still pulls
+search through the noise of a paid campaign.** The channel spent two years buying views
+on songs nobody was looking for; the one time the song WAS being looked for, search
+arrived by itself. It is a catalogue track, so the demand does not expire.
+
+EXTERNAL (0.8%) - WhatsApp 30 / whatsapp.com 20 / android youtube 10 /
+    genteflow.lat 10 / qwant.com 10. **The WhatsApp share is the first sign of people
+    SENDING one of these to each other** - the closest thing to organic sharing in any
+    capture so far.
+SUGGESTED BY (0.6%) - The Weeknd Blinding Lights 25 / Gangnam style slow-mo 25 /
+    Chad Smith Under The Bridge 12.5 / I Want To Break Free 12.5 / Mario Duplantier
+    drum solo 12.5. A completely different lane from the metal cluster.
+PLAYLISTS (0.2%) - YouTube Mix 33.3%.
+
+SURFACE FAULTS
+  Tags : 12 at 147/500, 353 characters unused. **Two self-brand, four Freddie Mercury
+         entries of which THREE ARE MISSPELLED** (freddie mercury duplicated, freddy
+         mercury, fred mercury), four Kick tags, queen, queenband. No "i want to break
+         free". No "bass". No "rocksmith bass". All five real search terms absent.
+  Desc : IDENTICAL boilerplate to CO-0013.
+  Pin  : **BYTE-IDENTICAL to CO-0013's pin.** This is the real finding - it is not a
+         bad pin, it is a TEMPLATE applied to every 2025 upload. Every future upload
+         inherits it unless the template changes.
+  Title: Shorts format on a 4:14 long form.
+
+TAG REBUILD IS THE HIGHEST-VALUE ONE IN THE AUDIT: the demand is proven by the panel
+rather than assumed, so the new tags are not a guess.
+
+MAVO QUESTION RAISED BY THIS CAPTURE: if the partial block is Queen's catalogue, the
+same will happen to every major-catalogue song. The Tier C plan should expect partial
+blocks as normal, not exceptional.
+
 THE PLAY ALONG SERIES - COMPLETE, 8 OF 8 AUDITED
 --------------------------------------------------------------------------------
   #  Video                      Views  Unique  Subs  Conv.  Shell  Priority
@@ -1071,7 +1143,7 @@ wave at 1/3 of the Shorts wave's total revenue on 1/3 of the views.
 ################################################################################
 ## ROLL-UP (updated every capture)
 ################################################################################
-Captures audited         : 13 single-video (CO-0001 to CO-0013) + 1 wave (CO-W01)
+Captures audited         : 14 single-video (CO-0001 to CO-0014) + 1 wave (CO-W01)
                            + 1 full-series screen (CO-0003-SERIES, 8 play alongs + 1 loop)
 E1 EARNING-NO-CLAIM      : 0        (still none - see E2)
 E2 EARNING-REV-SHARE     : 1        <-- FOUND 01-11-26: Chopin Nocturne FOUR-HOUR loop,
@@ -1079,7 +1151,10 @@ E2 EARNING-REV-SHARE     : 1        <-- FOUND 01-11-26: Chopin Nocturne FOUR-HOU
                                        a few exist.
 E3 CLAIMED-NOT-EARNING   : 0
 E4 INELIGIBLE            : 24       (CO-0001 to CO-0010 + CO-0012/0013 + 12/12 of the Aug shipment)
-E5 BLOCKED               : 0        (4 of the Aug LFs are PARTIALLY blocked)
+E5 BLOCKED (partial)     : 1        <-- CO-0014 Queen, first E5 found. First
+                                       confirmed mechanism for a partial block on
+                                       an enforced catalogue. 4 of the Aug LFs are
+                                       also partially blocked but were filed E4.
 E6 UNKNOWN               : 1        (Chevelle - no package, no claim card read yet; now CO-0004)
 Remakes queued           : 0        <-- deliberately: a claimed cover re-claims
 Cheap-fix tests queued   : 2 (CO-0002 and CO-0003 - remove CDLC link, re-check

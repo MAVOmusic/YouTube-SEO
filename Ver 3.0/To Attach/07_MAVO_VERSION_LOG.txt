@@ -3551,3 +3551,62 @@ three seconds, and which long form each Short chains to.**
 
 **Order of work: all long form first, oldest upload first.** When the shorts pass starts,
 MAVO wants to be told which Short chains to which long form.
+
+================================================================================
+[Ver 4.9] - 2026-11-01 - CO-0014 QUEEN: SEARCH ARRIVES, SUBSCRIBERS DO NOT
+================================================================================
+
+## Two corrections
+1. **`_SSL` is MAVO's own** (streamersonglist.com/t/mavomusic). I called it a
+   third-party export and warned about IP. Wrong. Map corrected to v3.
+2. **I could not make the repos private.** I have admin permission on the repo, but the
+   GitHub App this session runs as lacks the **Administration** permission - the API
+   returns `403 Resource not accessible by integration` on any visibility change.
+   MAVO has to do it himself, or reconnect the app with admin rights.
+
+## CO-0014 - Queen, I Want To Break Free
+\`0zujBWl4j0\`, 31-01-2025, 4:14, **1,278 views**, 15.6 h, **+1 sub**, GBP 0.00.
+Badge: **"Ineligible to earn" AND "Partially blocked"** - **first E5 in the corpus.**
+
+### The first time search showed up in fourteen captures
+| Traffic | Share |
+| --- | --- |
+| YouTube advertising | 82.0% |
+| **YouTube search** | **8.7%** |
+| Channel pages | 4.9% |
+| Browse | 1.5% |
+| External | 0.8% |
+
+40x the search share of CO-0012 and CO-0013 (both 0.2%), same channel, same month,
+same kind of ad buy - **with no search tags at all**.
+
+Terms: \`i want to break free\` 17.1, \`bass\` 9.9, \`rocksmith\` 7.2, \`queen\` 5.4,
+\`queen songs\` 3.6. **None of the five was in the tag box.**
+
+**First direct evidence that a well-known catalogue song pulls search through a paid
+campaign.** And it is a 1984 track, so the demand does not expire.
+
+### And the counterweight
+**+1 subscriber from 1,278 views = 0.08% - the worst conversion in the corpus.**
+Against CO-0012 at 0.79% and the play alongs at 8.16%. People came for Queen, got
+Queen, and left not caring who played it. **A famous song is a search magnet and a
+subscriber black hole at the same time.**
+
+### Other readings
+- **APV 17.3% - the best percentage-viewed of any long form audited** (CO-0012 10.2, CO-0013 7.1, Chopin 9.9). AVD 0:44, 23% at 0:30 typical, curve starts **above** typical and crosses under after a minute - the inverse of CO-0013
+- **Geography far more spread**: India 38.4, Iraq 5.4, Algeria 4.9, Philippines 3.8, Pakistan 2.9 - unlike CO-0013's India 81.2 + Indonesia 16.2, so different campaign targeting
+- **First sign of organic sharing**: WhatsApp 30% + whatsapp.com 20% of a 0.8% external slice
+- Suggested 0.6% opens a pop lane: The Weeknd Blinding Lights 25, Gangnam style 25
+- End screen **0.0%** vs 1.1% channel
+
+### The template is the story
+CO-0014's pinned comment is **byte-identical** to CO-0013's, and so is the description
+boilerplate. Not two bad pins - **one template on every 2025 upload**. Every future
+upload inherits it, so **changing it once fixes the surface everywhere**. That is the
+highest-leverage single edit left on the channel.
+
+### Delivered
+- **Title** (90/100): \`The hook in Queen's I Want To Break Free is a synth, and the bass underneath is the lesson\` - opener "The hook", never used in fourteen audits
+- **Desc** (1,682): The Works (1984), the synth hook, what Deacon plays underneath
+- **Tags**: 12 at 147/500 (four Freddie Mercury entries, three misspelled) -> **15 at 216**, now containing all five real search terms
+- **Pin** (116): no links, no money
