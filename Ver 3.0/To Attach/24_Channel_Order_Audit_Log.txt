@@ -1200,3 +1200,160 @@ before blaming thumbnails, because a shrinking retained share is a content-side
 signal and the four songs differ in difficulty and length.
 
 ================================================================================
+
+================================================================================
+CO-0007 | Motionless In White - Immaculate Misconception (PLAY ALONG ON BASS)
+================================================================================
+Video ID           : WhJw7-s5VO
+Upload / date      : 26-10-2022  (Studio window 25-10-2022 to 01-11-2026)
+Runtime            : 4:07 | source file "Motionless In White - Immaculate Misconc..."
+Views / watch      : 510 | 14.5 h | +54 subscribers | unique viewers 294
+Package status     : NO bands/ package. Section C archive item [PA/LOOP 05].
+Notices badge      : Ineligible to earn (Ads off)
+Revenue            : GBP 0.00
+MR CLASS           : E4 INELIGIBLE -> logged as MR-0008.
+
+--------------------------------------------------------------------------------
+THE NUMBERS
+--------------------------------------------------------------------------------
+Impressions        : 4.9k | CTR 8.0% | 12.7% from YouTube recommending
+Funnel             : 389 engaged views from impressions, 1:47 average duration,
+                     11.57 h watch time from impressions
+Retention          : AVD 1:43 | APV 41.9% | 68% still watching at 0:30 - the
+                     HIGHEST opening hold of any capture in this series
+Traffic            : YouTube search 64.1% | Playlists 15.7% | Channel pages
+                     10.0% | Suggested 4.7% | Browse 3.1% | Others 2.3% |
+                     External 0.2%
+Search terms       : "rocksmith bass motionless in white" 0.9% | "immaculate
+                     misconception" 0.6% | "motionless in white immaculate
+                     misconception" 0.6% | "hades gta rp" 0.3% | "motionless in
+                     white" 0.3%
+Devices            : TV 33.6% | Mobile 32.7% | Computer 32.6% | Tablet 1.1%
+Audience           : male 100% | 25-34 100% | not subscribed 72.0% |
+                     subscribed 28.0% (watch time) | UK 5.7% | no subs 100%
+Engagement         : likes 100.0% vs channel 97.4% | end screen CTR 0.4% vs
+                     channel 1.1% | 0 hype | 0 remixes
+Realtime           : 1 view in 48 h, 100% YouTube search
+Viewers also watch : Another Life (989), Masterpiece (790), Abigail (356),
+                     Iron Maiden - Wasted Years (412), America (333)
+
+--------------------------------------------------------------------------------
+THE CROSS-FEED IS NOW THE DOMINANT EXTERNAL SIGNAL
+--------------------------------------------------------------------------------
+"Content suggesting this video" reads:
+  16.7%  "No game needed for Motionless In White's 'Anot..."   <- CO-0004
+  12.5%  "Drop D the whole way through Motionless In Whi..."   <- CO-0006
+   8.3%  "Every bass note in Motionless In White's 'Master..."  <- CO-0003
+   4.2%  IRocksmith CDLC] Flewshwater - The Razor's Ap...
+   4.2%  Misfits - Die Die My Darling (Rocksmith 2014 Ba...
+37.5% of this video's suggested traffic now comes from the THREE REWRITTEN
+titles. That is the third measurement and by far the strongest:
+  CO-0004: 1 rewritten title feeding it,  24.6%
+  CO-0005: 2 rewritten titles feeding it,  16.7%
+  CO-0007: 3 rewritten titles feeding it,  37.5%
+And "Viewers also watch" is now, in order: Another Life, Masterpiece, Abigail,
+then the unrelated Iron Maiden Short, then America. **Four of the five visible
+slots are the four rewritten videos, in reverse rewrite order.** The untouched
+siblings have fallen off the list entirely.
+Four rewrites in, the rewritten videos are the entire watch-next surface.
+
+--------------------------------------------------------------------------------
+THE DIAGNOSIS I HAVE BEEN MISSING - AND IT IS NOT THE INTRODUCTION
+--------------------------------------------------------------------------------
+APV across the five captures: 56.2 -> 52.8 -> 47.4 -> 42.5 -> 41.9. Falling.
+But retention at 0:30 across the same five: 70 -> 63 -> 63 -> 62 -> **68**.
+The opening hold is stable to rising. **People are not leaving early - they are
+leaving late.** The average is being dragged down by the middle and the end, not
+by the first thirty seconds.
+This matters because it kills the two explanations I had been circling:
+  - it is NOT the thumbnail (a thumbnail cannot affect where people leave)
+  - it is NOT the intro or the first frame (that is the healthiest part)
+What it points at is the body of the video: four-minute play alongs where the
+viewer plays for a minute or two, sees enough, and stops. That is a NORMAL and
+arguably CORRECT behaviour for a practice aid - you do not watch a tab video all
+the way through, you watch the part you need and come back.
+So the honest reading is that low APV here is a usage pattern, not a defect, and
+APV is the wrong primary metric for this format. Watch time per viewer, playlist
+saves and subscriber conversion are the metrics that describe what this content
+actually does. I should have said that four captures ago.
+
+--------------------------------------------------------------------------------
+THIRD CORRECTION: THE DEVICE CLAIM FAILS AGAIN
+--------------------------------------------------------------------------------
+Ver 3.9 said TV is rising. Ver 4.0 corrected it to "mobile is always the
+minority". This capture breaks THAT claim too:
+  33.6% TV | 32.7% mobile | 32.6% computer | 1.1% tablet
+That is a three-way tie inside one point. The only defensible statement is that
+**the device split on these videos is roughly even and unstable between songs**,
+and no device story should be told from single captures at all. Two corrections
+in two versions is enough: stop making device claims from one video, and require
+a device conclusion to hold across the whole set before it is written down again.
+
+--------------------------------------------------------------------------------
+WHAT IS WRONG WITH THE SURFACE
+--------------------------------------------------------------------------------
+TITLE   "Rocksmith 2014 | Play Along on Bass | M | Motionless In White -
+         Immaculate Misconception"
+DESC    The six-block 2022 template, plus one extra line this video carries that
+        the others do not: "Until that join our Discord: https://discord.gg/
+        CeDvXXTKJv" - a clickable link to the SAME dead invite already flagged in
+        MR-0002. Stripped.
+TAGS    21 tags at 496/500, including a self-brand tag "mavomusic" and the
+        generic filler set.
+PIN     Identical stale pin: three links, weekly EST schedule, the "we are so
+        close to 1500" opener, and discord.gg/Hguy3JCXn.
+
+--------------------------------------------------------------------------------
+FINAL COPY (paste-ready, ASCII only)
+--------------------------------------------------------------------------------
+TITLE (68/100):
+Learning 'Immaculate Misconception' on bass with Motionless In White
+
+DESCRIPTION (1155/5000):
+'Immaculate Misconception' is four minutes of Motionless In White refusing to slow down, and the bass has to carry a lot of that momentum without ever taking the spotlight. It plays through here from the first note to the last with the bass line on screen, so you can pick the part up by sight as well as by ear.
+
+There is no commentary over it and nothing added on top of the original mix. The tuner stays visible in the corner throughout, which matters more on a song this fast - checking your tuning should not cost you a rewind.
+
+If you have been meaning to learn this one and never found a version you could actually follow, this is that version.
+
+What should go on the list next? Requests are always open.
+
+🟣 Fast-lane blocks run live on Twitch: https://www.twitch.tv/mavomusic
+💬 Add your requests on Discord: https://discord.gg/ESGsGkN4j2
+
+**Genres:** Metalcore, gothic metal, industrial metal
+**Format:** Full song, on-screen bass tab, tuner left running, no overdubs
+🎸 Played at full speed, nothing slowed down | 🎮 captured in Rocksmith 2014 Remastered (Steam)
+
+#ImmaculateMisconception #MotionlessInWhite #BassPlayAlong #Metalcore #Rocksmith2014
+
+TAGS (398/500 chars, 17 tags):
+rocksmith bass motionless in white, immaculate misconception, motionless in white immaculate misconception, immaculate misconception bass, immaculate misconception bass tab, motionless in white bass, motionless in white immaculate misconception bass tab, bass play along, play along bass, bass tab, learn bass, metalcore bass, rocksmith 2014, rocksmith, motionless in white, bass guitar, bass cover
+
+PINNED COMMENT (130/300):
+Four minutes at full speed with the part in view. If this is the one you have been putting off learning, start here. What next? 👇🎸
+
+--------------------------------------------------------------------------------
+WHAT CHANGED AND WHY
+--------------------------------------------------------------------------------
+- Title: a FIFTH distinct shape, and specifically one that AVOIDS the possessive
+  "Motionless In White's" - that construction is already in 3 of the 4 prior
+  titles and was on its way to becoming exactly the template the VER 3.5 rule
+  bans. "Learning ... on bass with ..." opens on a different verb, keeps both
+  names, and reads naturally. Opener "Learning" used 0 times in 308 packages.
+- Description: six bracketed blocks, the CDLC placeholder and the extra dead
+  Discord link all deleted. Written around speed and the untouched mix.
+- Tags: 21 at 496/500 cut to 17 at 398. The self-brand tag and the filler dropped;
+  the four observed search phrases lead the box.
+- Pin: link wall, weekly schedule and subscribe-begging removed. Zero URLs.
+
+--------------------------------------------------------------------------------
+SERIES POSITION - 5 OF 8 DONE
+--------------------------------------------------------------------------------
+Done: Masterpiece, Another Life, Abigail, America, Immaculate Misconception.
+Remaining: X-Kid (407), Black Parade (504), .38 Special (1,347) - all three are
+2024 uploads on the newer shell (emoji-led titles, Kick/Twitch links, no CDLC
+placeholder), so they get their own diagnosis rather than a template strip.
+The whole 2022 shell is now fully rewritten.
+
+================================================================================

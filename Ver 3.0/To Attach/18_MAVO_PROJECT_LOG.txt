@@ -4182,3 +4182,88 @@ MR-0007 logged, E4 roll-up 17 -> 18. Series 4 of 8: only Immaculate
 Misconception (510) remains on the 2022 shell.
 
 ================================================================================
+
+================================================================================
+VER 4.1 - 2026-11-01 - CO-0007 IMMACULATE MISCONCEPTION: THE APV DIAGNOSIS
+                        (and two more retractions)
+================================================================================
+
+THE NUMBERS (510 views, 14.5 h, +54 subs, Ineligible / Ads off, GBP 0.00)
+  4.9k impressions, CTR 8.0%, 12.7% from YouTube recommending
+  AVD 1:43, APV 41.9%, 68% still watching at 0:30 - the HIGHEST opening hold
+    of any capture in this series
+  64.1% YouTube search, 15.7% playlists, 10.0% channel pages, 4.7% suggested
+  TV 33.6% / mobile 32.7% / computer 32.6% - a three-way tie
+  +54 subs from 294 unique viewers = 18.4%
+
+THE DIAGNOSIS I HAD BEEN MISSING
+APV across the five captures: 56.2 -> 52.8 -> 47.4 -> 42.5 -> 41.9. Falling.
+Retention at 0:30 across the same five: 70 -> 63 -> 63 -> 62 -> 68. Stable to
+rising.
+People are NOT leaving at the start. They are leaving LATER. The average is being
+dragged down by the middle and the end of the video.
+That kills the two explanations I had been circling:
+  - not the thumbnail: a thumbnail cannot affect where in the video people stop
+  - not the intro or first frame: that is the healthiest part of the curve
+The honest reading: a four-minute play along gets used for a minute or two, the
+viewer has what they came for, stops, and comes back later. The rising playlist
+share (8.9 -> 17.4%) is the evidence that they come back.
+So low APV on a practice aid is a USAGE PATTERN, not a defect. APV is the wrong
+primary metric for this format. Watch time per viewer, playlist saves and
+subscriber conversion describe what this content actually does.
+I should have said this four captures ago instead of building a thumbnail project
+on a falling line.
+
+RETRACTION 1 - DEVICES (again)
+Ver 4.0 corrected "TV is rising" to "mobile is always the minority". This capture
+breaks that too: TV 33.6 / mobile 32.7 / computer 32.6 - a three-way tie inside
+one point. The device split is roughly even and unstable between songs.
+New rule: no device conclusion may be written from one video, and none may be
+repeated until it holds across the whole set. Two retractions in two versions is
+enough.
+
+RETRACTION 2 - THE THUMBNAIL PRIORITY
+The thumbnail project was justified with a falling CTR and a falling APV. CTR is
+noise (9.3 / 8.5 / 5.2 / 6.1 / 8.0) and APV is now explained by usage. Thumbnails
+stay a minor tidy-up - end screen CTR is 0.4% against a 1.1% average - but they
+are not the priority I called them.
+
+CROSS-FEED - THIRD MEASUREMENT, NOW THE DOMINANT SIGNAL
+Suggested traffic from our own rewritten titles:
+  CO-0004: one rewritten sibling existed  -> 24.6%
+  CO-0005: two existed                    -> 16.7%
+  CO-0007: three existed                  -> 37.5% (16.7 Another Life
+                                             + 12.5 America + 8.3 Masterpiece)
+"Viewers also watch": Another Life, Masterpiece, Abigail, an unrelated Iron
+Maiden Short, then America. Four of five visible slots are the four rewritten
+videos, in reverse rewrite order. The untouched siblings have dropped off the
+list entirely.
+Four rewrites in, the rewritten videos ARE the watch-next surface.
+
+SURFACE PROBLEMS FOUND
+  - Description carries an extra clickable dead invite this video alone:
+    "Until that join our Discord: https://discord.gg/CeDvXXTKJv" - the SAME dead
+    invite flagged back in MR-0002. Removed.
+  - Tags 21 at 496/500, including a self-brand "mavomusic" tag. Dropped.
+  - Pin identical to the other three: three links, weekly schedule, subscribe
+    begging, dead discord.gg/Hguy3JCXn.
+
+TITLE DISCIPLINE
+The first four titles had put "Motionless In White's" in three of four. That was
+becoming a template in its own right. The fifth deliberately avoids it:
+"Learning 'Immaculate Misconception' on bass with Motionless In White" (68 chars,
+opener "Learning" used 0 times in 308 packages).
+
+DELIVERED
+  Title  Learning 'Immaculate Misconception' on bass with Motionless In White
+  Desc   1,155 chars, six bracketed blocks + CDLC placeholder + dead Discord
+         link deleted
+  Tags   21 at 496/500 -> 17 at 398
+  Pin    rebuilt, zero URLs
+
+MR-0008 logged, E4 roll-up 18 -> 19.
+Series 5 of 8. THE ENTIRE 2022 SHELL IS NOW REWRITTEN.
+Remaining: X-Kid (407), Black Parade (504), .38 Special (1,347) - all 2024
+uploads on the newer shell, needing their own diagnosis.
+
+================================================================================

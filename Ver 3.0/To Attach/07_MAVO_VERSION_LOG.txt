@@ -3020,3 +3020,82 @@ shape.
 
 *   **Next:** Immaculate Misconception (510) - the last 2022-shell video. Then
     X-Kid (407), Black Parade (504), .38 Special (1,347) on the 2024 shell.
+
+================================================================================
+[Ver 4.1] - 2026-11-01 - CO-0007 IMMACULATE MISCONCEPTION: THE APV DIAGNOSIS
+================================================================================
+
+**Capture:** 11 panels, `WhJw7-s5VO`, 26-10-2022, 4:07, 510 views. **Completes
+the 2022 shell - all five 2022 play alongs now rewritten.**
+
+| Metric | Value |
+| --- | --- |
+| Views / watch / subs | 510 / 14.5 h / **+54** |
+| Unique viewers | 294 |
+| Subscriber conversion | 18.4% |
+| Impressions / CTR | 4.9k / 8.0% |
+| AVD / APV | 1:43 / 41.9% |
+| **Still watching at 0:30** | **68% - highest in the series** |
+| Playlists | 15.7% |
+| Revenue | **GBP 0.00** |
+
+## The five audited play alongs
+
+| Video | Views | Unique | Subs | Conv. | Playlists | APV | @0:30 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Masterpiece | 790 | 459 | +51 | 11.1% | 8.9% | 56.2% | 70% |
+| Another Life | 989 | 534 | +39 | 7.3% | 9.8% | 52.8% | 63% |
+| Abigail | 356 | 220 | +37 | 16.8% | 12.6% | 47.4% | 63% |
+| America | 333 | 197 | +58 | 29.4% | 17.4% | 42.5% | 62% |
+| Immaculate | 510 | 294 | +54 | 18.4% | 15.7% | 41.9% | **68%** |
+| **TOTAL** | **2,978** | 1,704 | **+239** | | | | |
+
+## The diagnosis I had been missing
+**APV falls 56.2 -> 41.9, but the 0:30 hold is stable to rising 70 -> 63 -> 63 ->
+62 -> 68.** People are not leaving early - they are leaving later.
+
+That kills the thumbnail and intro explanations outright: neither can affect
+where in the video people stop. A four-minute play along gets used for a minute
+or two, the viewer has what they came for, stops, and returns later - which is
+what the rising playlist share (8.9 -> 17.4%) shows.
+
+**Low APV on a practice aid is a usage pattern, not a defect. APV is the wrong
+primary metric for this format.** Watch time per viewer, playlist saves and
+subscriber conversion are the ones that matter. This should have been said four
+captures ago.
+
+## Retraction 1 - devices, again
+Ver 4.0's "mobile is always the minority" is broken: **TV 33.6 / mobile 32.7 /
+computer 32.6** - a three-way tie. **New rule: no device conclusion from a single
+capture, ever, and none repeated until it holds across the set.**
+
+## Retraction 2 - the thumbnail priority
+Justified on a falling CTR (which is noise: 9.3 / 8.5 / 5.2 / 6.1 / 8.0) and a
+falling APV (now explained by usage). Thumbnails stay a minor tidy-up - end
+screen CTR 0.4% vs 1.1% - not the priority I called them.
+
+## Cross-feed - third measurement, now dominant
+| Capture | Rewritten siblings existing | Share of suggested |
+| --- | --- | --- |
+| CO-0004 | 1 | 24.6% |
+| CO-0005 | 2 | 16.7% |
+| CO-0007 | 3 | **37.5%** |
+
+"Viewers also watch": Another Life, Masterpiece, Abigail, an unrelated Iron
+Maiden Short, then America. **Four of five slots are the four rewritten videos,
+in reverse rewrite order. The untouched siblings have gone.**
+
+## Surfaced problems
+- Description carries an extra clickable **dead** invite unique to this video: `discord.gg/CeDvXXTKJv` - the same one flagged in MR-0002. Removed.
+- Tags 21 at 496/500 including a self-brand `mavomusic` tag. Dropped.
+
+## Delivered
+- **Title** (68ch): `Learning 'Immaculate Misconception' on bass with Motionless In White` - opener "Learning" 0 prior uses, and deliberately avoids the possessive that had crept into 3 of the 4 prior titles
+- **Description** (1,155ch): six bracketed blocks, CDLC placeholder and dead Discord link deleted
+- **Tags**: 21 at 496/500 -> 17 at 398
+- **Pin** (130ch): zero URLs
+
+**MR-0008** logged, E4 roll-up 18 -> 19. **Series 5 of 8 - 2022 shell complete.**
+
+*   **Next:** X-Kid (407), Black Parade (504), .38 Special (1,347) - all 2024
+    uploads on the newer shell, needing their own diagnosis.
