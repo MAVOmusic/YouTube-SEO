@@ -2302,3 +2302,121 @@ DECISION FOR MAVO, NOT FOR ME
   word and I will put a single line back into the template.
 
 ################################################################################
+
+################################################################################
+CO-0014 | QUEEN - I WANT TO BREAK FREE
+################################################################################
+Video ID      : 0zujBWl4j0
+Published     : 31-01-2025   Runtime 4:14   Format: full playthrough
+Badge         : INELIGIBLE TO EARN **+ PARTIALLY BLOCKED** - first E5 in the corpus
+Lifetime      : 1,278 views / 1.2k unique / 15.6 watch hours / +1 sub / GBP 0.00
+
+*** THIS IS THE FIRST VIDEO IN FOURTEEN WHERE SEARCH ACTUALLY SHOWED UP ***
+    YouTube advertising ......... 82.0%
+    YouTube SEARCH .............. 8.7%   <-- the highest search share of any paid video
+    Channel pages ............... 4.9%
+    Browse features ............. 1.5%
+    External .................... 0.8%
+    Other ....................... 2.1%
+
+Eight point seven per cent of 1,278 views is about 111 views found by searching, on a
+video that carried NO search tags at all. Compare CO-0012 at 0.2% and CO-0013 at 0.2%.
+This is forty times the search share of the two videos either side of it, on the same
+channel, in the same month, on the same kind of ad buy.
+
+AND THE TERMS ARE THE SONG'S OWN NAME:
+    i want to break free ... 17.1%
+    bass .................... 9.9%
+    rocksmith ............... 7.2%
+    queen .................... 5.4%
+    queen songs .............. 3.6%
+Not one of those five terms was in the tag box. The video was found anyway, because
+Queen is the single most-searched name that has entered this audit.
+
+WHY THAT MATTERS MORE THAN THE VIEW COUNT: it is the first direct evidence in this
+project that a famous song still pulls search through the noise of a paid campaign.
+The channel has spent two years buying views on songs nobody was looking for. On the
+one occasion the song WAS being looked for, search arrived on its own, with no tags and
+a machine-string title. With the tags it should have had, this is the most plausible
+place in the 2025 set for real organic growth - and it is a catalogue track, not a
+contemporary one, so the demand is not going to expire.
+
+WATCH QUALITY - THE BEST OF ANY PAID UPLOAD
+    AVD 0:44 (-0:23 less than usual) | APV 17.3% | 23% at 0:30 = typical
+For comparison on APV: CO-0012 10.2% | CO-0013 7.1% | Chopin 9.9%. Seventeen point
+three per cent is the best percentage-viewed of any long form in this audit. The
+retention curve starts ABOVE the typical band and only crosses under it after the
+first minute, which is the opposite of CO-0013.
+
+AND YET: **+1 SUBSCRIBER.** One. From 1,278 views. That is 0.08%, the worst
+conversion in the corpus. People came for Queen, got Queen, and left without caring
+who was playing it. A famous song is a search magnet and a subscriber black hole at
+the same time. Worth knowing before building a strategy on famous songs.
+
+THE PARTIAL BLOCK - FIRST E5
+    The notice card carries both "Ineligible to earn" and "Partially blocked".
+    Queen's catalogue is heavily enforced. A partial block suppresses the video in
+    some territories and depresses reach overall, so part of why 8.9k impressions
+    produced only 1,278 views is the block rather than the ad or the artwork.
+    Implication: **do not read 1,278 as a demand verdict.** It is a suppressed number
+    on a video competing with an enforced catalogue.
+
+OTHER READ
+    Impressions 8.9k | CTR 1.5% | 134 engaged views from impressions | 0:44 imp-AVD
+    | 1.64 h watch time from impressions | 4.0% from YouTube recommending
+    Likes 91.3% vs 97.4% channel | END SCREEN 0.0% vs 1.1% - nothing clicked through
+    Bell 63 pushes, 1.6% CTR, 1 view
+    Devices mobile 91.1 / computer 4.4 / TV 2.5 / tablet 2.1
+    Audience India 38.4 / Iraq 5.4 / Algeria 4.9 / Philippines 3.8 / Pakistan 2.9
+      - a much more SPREAD geography than CO-0013's India 81.2 + Indonesia 16.2, which
+        suggests different campaign targeting rather than a different audience
+    Age 25-34 45.1 / 18-24 20.0 / 35-44 14.4 / 55-64 9.1 / 45-54 6.5 / 65+ 4.9
+    Male 71.6 / female 28.4 | not subscribed 95.7% of watch time
+    External 0.8%: WhatsApp 30 / whatsapp.com 20 / android youtube 10 / genteflow.lat
+      10 / qwant.com 10 - the WhatsApp share is worth noting: people SENT this to each
+      other, which is the closest thing to organic sharing in any capture so far
+    Suggested by 0.6%: The Weeknd Blinding Lights 25 / Gangnam style slow-mo 25 /
+      Chad Smith Under The Bridge 12.5 / I Want To Break Free 12.5 / Mario Duplantier
+      drum solo 12.5 - a completely different lane from the metal cluster
+    Playlists 0.2%: YouTube Mix 33.3%
+
+SURFACE FAULTS
+  TITLE  "[||] Queen - I Want To Break Free #rocksmith #bass #queen" - Shorts format on
+         a 4:14 long form, same as CO-0013. The one video in the set where the song
+         title in the title actually earned search traffic, and it is still a machine
+         string.
+  DESC   IDENTICAL boilerplate to CO-0013. "Type in any amount in any currency",
+         Kick Partner, six platform links. Not one word about Queen.
+  TAGS   12 at 147/500. 353 characters unused. Content:
+             mavomusic, mavomusicyt
+             freddie mercury, freddie mercury (DUPLICATED), freddy mercury,
+               fred mercury   <-- four entries, three of them misspelled
+             kick, kickstreaming, kickcommunity, kickpartner
+             queen, queenband
+         No "i want to break free". No "bass". No "rocksmith bass". The five terms the
+         video actually appeared for were all absent.
+  PINNED **BYTE-IDENTICAL to CO-0013's pinned comment.** That is the finding: this is
+         not a one-off bad pin, it is a TEMPLATE applied across every 2025 upload -
+         ~400 words under [IMPORTANT INFORMATION] / [FINANCIAL SUPPORT] /
+         [NEW STREAM SCHEDULE!!] / [SUPER THANKS], six links, ending on an invitation
+         to "send any specific amount of your choice".
+         A template means every future upload inherits it unless the template changes.
+
+COPY DELIVERED
+  TITLE (90/100) - opener "The hook", a shape never used in fourteen audits:
+    The hook in Queen's I Want To Break Free is a synth, and the bass underneath is the lesson
+    Every word of that is true and it is the most interesting fact about the song: the
+    famous line is a synthesiser, not John Deacon's bass. It gives a viewer a reason to
+    watch that has nothing to do with the advert.
+  DESC (1,682) - The Works (1984), four men barely speaking, the synth hook, what
+    Deacon is actually playing underneath, why copying a keyboard part on four strings
+    is the exercise. All money blocks gone. Provenance honest.
+  TAGS (15 / 216) - from 12 at 147/500 to 15 at 216. Now contains all five terms the
+    video was actually found on: "i want to break free", "bass", "rocksmith bass",
+    "queen", "queen songs". This is the highest-value tag rebuild in the audit, because
+    the demand is already proven by the panel rather than assumed.
+  PIN (116) - no links, no money, ends on a question.
+    One synth hook, one bass holding it down, one song nobody has stopped humming
+    since 1984. Which Queen track next?
+
+################################################################################
