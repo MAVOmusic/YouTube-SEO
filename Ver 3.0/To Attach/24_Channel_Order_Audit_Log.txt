@@ -42,7 +42,7 @@ Canonical package  : none for THIS upload. The song exists in bands/ as three
 --- PANEL TRANSCRIPT (verified against the 12 screenshots) --------------------
 
 Views (lifetime)         2,895           Watch time      1,900 h (1.9k)
-Subscribers              +33             Est. revenue    — (nothing to show)
+Subscribers              +33             Est. revenue    - (nothing to show)
 REALTIME (labelled non-verdict): 1 view / last 48 h, 100% from Playlists.
 
 PREMIERE / HYPE
@@ -92,7 +92,7 @@ ENGAGEMENT
   Remixes: none
 
 REVENUE
-  Ineligible to earn. Estimated revenue —, RPM —, ad types —, top products —.
+  Ineligible to earn. Estimated revenue -, RPM -, ad types -, top products -.
 
 MAVO NOTE (01-11-2026): "I use this video for my starting soon screen so first
 8 minutes of watch time in average is mine." - This is the single most important
@@ -195,19 +195,19 @@ CHAPTERS   : NONE - a 1-hour unbroken loop gains nothing from chapters.
 
 --- APPROVED COPY (paste into YouTube Studio) --------------------------------
 
-TITLE (68 chars — REVISED in VER 3.4 back to the house "bespoke voice + natural
-mention" style; the earlier keyword-string draft broke the anti-template rule):
+TITLE (68 chars - FINAL. House formula: third-person bespoke line, artist and song
+named inside it, no `Artist - Song` template, no em dash):
 ```
 Burzum's 'Autumn Leaves' stretched into 1 hour of calm dungeon synth
 ```
 
 DESCRIPTION:
 ```
-Four and a half minutes of still air, stretched into a full hour — 'Autumn Leaves' from Burzum's The Ways of Yore (2014), played fingerstyle and left to breathe on bass.
+Four and a half minutes of still air, stretched into a full hour. 'Autumn Leaves' comes from Burzum's The Ways of Yore (2014), and I play it fingerstyle, then let the take breathe as a loop.
 
-This one started as my start-soon screen before every stream, and it turned out plenty of you leave it running while you read, work or drift off. Acoustic picking floating over tremolo electrics, no drums, no rush, and a loop point that never snaps you out of it.
+This one started as my start-soon screen before every stream, and it turned out plenty of you leave it running while you read, work or drift off. Acoustic picking floats over tremolo electrics, there are no drums, no rush, and the loop point never snaps you out of it.
 
-If the hour helps you settle in, tell me which track should get the same treatment next — the quietest corner of the catalogue deserves an hour too.
+If the hour helps you settle in, tell me which track should get the same treatment next. The quietest corner of the catalogue deserves an hour too.
 
 🟢 Live bass sessions most days: https://kick.com/mavomusic
 💬 Requests and quiet-hour ideas: https://discord.gg/ESGsGkN4j2
@@ -225,7 +225,7 @@ burzum autumn leaves, autumn leaves burzum 1 hour, burzum the ways of yore, burz
 
 PINNED COMMENT (zero URLs):
 ```
-Four minutes of Burzum calm turned into an hour, and it's been my start-soon screen ever since. What do you keep looping while you read, work or wait for a stream to start? 👇🎸
+Four minutes of Burzum calm turned into an hour, and it has been my start-soon screen ever since. What do you keep looping while you read, work or wait for a stream to start? 👇🎸
 ```
 
 --- GATE CHECK RUN BEFORE APPROVAL (01-11-2026) ------------------------------
@@ -243,7 +243,7 @@ Four minutes of Burzum calm turned into an hour, and it's been my start-soon scr
   Tracking-ID leak ("0001")    : absent from all public text ✓
 
 --- STATUS UPDATE 01-11-2026 (VER 3.4) ------------------------------------------
-  Title revised to the house style (see above) — artist + song + "1 hour" all
+  Title revised to the house style (see above) - artist + song + "1 hour" all
   present as natural language, no `Artist - Song` template. Description, tags and
   pin unchanged from the original approval (they already passed the gate).
 
@@ -280,7 +280,7 @@ Canonical package  : YES for the song - bands/M/Motionless_In_White/Another_Life
 --- PANEL TRANSCRIPT ----------------------------------------------------------
 
 Views (lifetime)      224        Watch time  5.7 h       Subscribers  +53 (!)
-Est. revenue          —          REALTIME (non-verdict): 0 views / last 48 h
+Est. revenue          -          REALTIME (non-verdict): 0 views / last 48 h
 Premiere              3 concurrent peak / 3 average. Hype 0 points, 0 hypes.
 Duration / AVD        3:44 / 1:32        Average percentage viewed 41.1%
                       47% still watching at 0:30 (above typical)
@@ -389,20 +389,22 @@ EARNINGS   : MR-0002 logged as E4 INELIGIBLE. Cheap test = remove the CDLC link,
 
 --- APPROVED COPY (paste into YouTube Studio) --------------------------------
 
-TITLE (72 chars, artist + song + format inside the first 50 — VER 3.4: KEPT AS
-IS, because it already sits in MAVO's own house pattern, e.g. his live
-"Rammstein's industrial bass giant: Oliver Riedel's iconic 'Du Hast'!"):
+TITLE (80 chars - FINAL. The earlier `Artist's Song bass cover - X` shape is
+REJECTED: it is a fixed template, so reusing it would break the uniqueness rule
+and banning it later would be inconsistent. This one keeps the house formula -
+third-person bespoke claim, artist and song named naturally, the word "bass" in
+the line, no em dash):
 ```
-Motionless In White's Another Life bass cover — metalcore's saddest song
+Motionless In White's 'Another Life' hides one of metalcore's softest basslines!
 ```
 
 DESCRIPTION:
 ```
-Motionless In White wrote a metalcore song that hurts on purpose, and 'Another Life' lives or dies on how the low end carries that ache. The bass under the verses is almost gentle; by the final chorus it's the loudest thing in the room.
+'Another Life' is Motionless In White writing a metalcore song that hurts on purpose, and the low end is what makes it land. The bass sits almost gentle under the verses, then by the final chorus it is the loudest thing in the room.
 
-This one is a cover I've played hundreds of times on stream, and the trick is restraint — no extra fills, no showing off, just letting the chorus land. There's a reason it still gets requested years after it came out.
+This is a cover I have played hundreds of times on stream. The trick is restraint: no extra fills, no showing off, just letting the chorus do the work. There is a reason people still request it years after it came out.
 
-If you played this one in a band, you know exactly which bar is the hard one. Tell me below and I'll take on the next Motionless In White track you name.
+If you played this one in a band, you know exactly which bar is the hard one. Tell me below and I will take on the next Motionless In White track you name.
 
 🟢 Daily bass sessions: https://kick.com/mavomusic
 💬 Requests and deep-cut picks: https://discord.gg/ESGsGkN4j2
@@ -420,12 +422,12 @@ motionless in white another life, another life bass cover, motionless in white b
 
 PINNED COMMENT (zero URLs):
 ```
-'Another Life' is the metalcore ballad that still gets requested every week. Which Motionless In White song should I take on next — something from Creatures or from the newer records? 👇🎸
+'Another Life' still gets requested every week. Which Motionless In White song should I break out next, something off Creatures or off the newer records? 👇🎸
 ```
 
 --- GATE CHECK RUN BEFORE APPROVAL (01-11-2026) ------------------------------
-  Title: 72 chars, unique opener `motionless` (0 prior uses), no exact duplicate,
-         artist + song + `bass cover` all inside the first 50 characters ✓
+  Title: 80 chars, unique opener `motionless` (0 prior uses), no exact duplicate,
+         artist + song + "basslines" all present, no template shape, ASCII only ✓
   Description first line        : unique across 188 LF hooks ✓
   Boilerplate sentences >=4     : none ✓     Full lines >=4: none ✓
   Gear line                     : byte-unique vs all 166 ✓
@@ -452,11 +454,11 @@ PINNED COMMENT (zero URLs):
 ================================================================================
 
 ================================================================================
-CO-W01 | WAVE AUDIT — the 26-28 Aug 2026 shipment (12 Shorts + 12 LFs)
+CO-W01 | WAVE AUDIT - the 26-28 Aug 2026 shipment (12 Shorts + 12 LFs)
 ================================================================================
 Source: "_All Songs/Latest Shorts.jpeg" + "Latest Videos.jpeg" (Studio content
 lists), cross-checked against the package folders. All 24 rows map to existing
-`bands/` packages — every LF and SF title byte-matches its package, so the pack
+`bands/` packages - every LF and SF title byte-matches its package, so the pack
 copy was pasted faithfully. One song has no package (see W4).
 
 | pkg  | Artist - Song                      | SF pub   | Shorts v | LF pub   | LF v  | LF notice          |
@@ -479,7 +481,7 @@ TOTALS: Shorts 15,835 views / avg **1,320** / revenue **£1.23** (range £0.04-0
 
 W1  THE SHORTS LAYER IS HEALTHY. 12/12 earning, average 1,320 views in 1-3 days,
     above the channel's 790-1,100 typical band. "Shopping disabled" is PRODUCT
-    TAGGING, not an ads block — it does not affect the £0.04-0.17 these are making.
+    TAGGING, not an ads block - it does not affect the £0.04-0.17 these are making.
     "Potential limitation" appears on 4 of them = possible limited ads only.
 W2  THE LONG-FORM LAYER IS FULLY BLOCKED. 12/12 "Ineligible to earn / Ads off",
     average 72 views. Four carry "Partially blocked" = content ID is matching
@@ -487,7 +489,7 @@ W2  THE LONG-FORM LAYER IS FULLY BLOCKED. 12/12 "Ineligible to earn / Ads off",
 W3  TITLE STYLE IS NOT THE CAUSE. 3 of the 12 Shorts contain neither artist nor
     song in the title and still cleared 1,000+ views; the bespoke style is fine.
     What LFs lack is a format token, and what they lack more is ad eligibility.
-W4  CHEVELLE HAS NO PACKAGE — "Hypnotic Drop-D alt-metal stomp on Chevelle's
+W4  CHEVELLE HAS NO PACKAGE - "Hypnotic Drop-D alt-metal stomp on Chevelle's
     breakout 2012 anthem!" (SF 1,123 views, LF 98, both 26-08-26). Not in bands/,
     not in either master repository. Needs the song name + a full package.
 W5  DATE-SYNC DEFECT (fixed): 11 packages were dated 17-07-2026 (sentinel),
@@ -496,7 +498,7 @@ W5  DATE-SYNC DEFECT (fixed): 11 packages were dated 17-07-2026 (sentinel),
     uploads, tell me and I will revert the names.
 W6  THE "2 NEW EDITS" REVIEW (MAVO's question): do NOT break the house style back
     to `Artist - Song`. CO-0002 stands as written (already house pattern + format
-    word). CO-0001's title was the only keyword-string draft — rewritten to
+    word). CO-0001's title was the only keyword-string draft - rewritten to
     "Burzum's 'Autumn Leaves' stretched into 1 hour of calm dungeon synth".
     Both now satisfy §32-VER-3.4: bespoke voice + natural mention, no template.
 ================================================================================

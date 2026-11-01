@@ -43,12 +43,12 @@
 #      Legacy video stays live unless the 0005-class exception applies.
 #   6. Every remake gets a fresh package (LF+SF) and must clear the §29 gate.
 #
-# ✅ CORRECTION 2026-11-01 (VER 3.4) — THE CDLC-LINK HYPOTHESIS IS DOWNGRADED.
+# ✅ CORRECTION 2026-11-01 (VER 3.4) - THE CDLC-LINK HYPOTHESIS IS DOWNGRADED.
 #   The 26-28 Aug 2026 shipment (CO-W01, 12 long-forms) was built from the post-
 #   purge SEO packs: NO CDLC links, no download links of any kind. It is STILL
 #   12/12 "Ineligible to earn / Ads off", and 4 of them additionally read
 #   "Partially blocked". A policy problem caused by a link cannot explain that.
-#   The block is CLAIM-DRIVEN (E4-a) — content ID is matching the composition /
+#   The block is CLAIM-DRIVEN (E4-a) - content ID is matching the composition /
 #   audio of every cover. The no-download-link rule stays as permanent hygiene,
 #   and the CO-0002 link-removal test stays worth running (it is free and it
 #   confirms the class), but policy is NOT the leading explanation any more.
