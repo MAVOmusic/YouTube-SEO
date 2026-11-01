@@ -4450,3 +4450,100 @@ Series 7 of 8. Remaining: .38 Special - If I'd Been The One (1,347 views,
 11-04-2024), the highest-traffic play along in the set.
 
 ================================================================================
+
+================================================================================
+VER 4.4 - 2026-11-01 - CO-0010 .38 SPECIAL: THE SERIES CLOSES AT 8 OF 8,
+                        AND _ALL SONGS IS RESTRUCTURED INTO TENS
+================================================================================
+
+THE NUMBERS (1.3k views, 12.6 h, +61 subs, Ineligible / Ads off, GBP 0.00)
+Views flagged "647 MORE THAN USUAL" in green - the only video in the set Studio
+describes as out-performing the channel.
+  4.5k impressions, CTR 5.0%, 31.5% from YouTube recommending
+  AVD 0:33 (Studio: "0:55 less than usual") | APV 13.5% | 19% at 0:30, which
+    Studio rates as TYPICAL rather than below
+  External 73.7%, channel pages 8.5%, YouTube search 6.5%, browse 4.3%
+  1.1k unique viewers - the highest in the set, ahead of Another Life's 534
+  India 54.9%, Vietnam 18.5%
+
+MILDEST OF THE THREE PAID-INFLUENCED VIDEOS, WITH A REAL FLOOR UNDER IT
+  X-Kid India 77.6% | Black Parade 67.1% | .38 Special 54.9%
+And unlike the other two, real behaviour is visible underneath the paid noise:
+  - 19% at 0:30, which Studio itself calls TYPICAL
+  - CTR 5.0%, highest of the three 2024 videos
+  - suggested traffic comes from OTHER channels' Rocksmith uploads: Caught Up In
+    You, Hysteria, My Own Worst Enemy, Arthur's Theme, Someday. That is the
+    recommender placing this among genuinely similar content - a real signal,
+    not a bought one.
+
+THE OPENING DEFECT IS NOW A CLEAN GRADIENT
+  X-Kid          AVD 0:16 | APV  6.7% | 10% at 0:30 | opens on a score card
+  Black Parade   AVD 0:27 | APV  8.2% | 15% at 0:30 | opens on a score card
+  .38 Special    AVD 0:33 | APV 13.5% | 19% at 0:30 | opens on the tuner, song follows
+  Five 2022 videos (open on the song):            62-70% at 0:30
+The ranking follows the opening frame exactly, and Studio volunteers that this
+video's average view duration is "0:55 less than usual" - it is telling MAVO the
+retention underperforms even by his own channel's standard.
+RULE, now written three times from three data points: the song starts at 0:00.
+Cards and score screens go at the end or not at all.
+
+THE TITLE FINDING, WITH ITS LIMIT STATED
+This is the only play along whose title is already readable: no "M |" artist
+slot, no emoji, artist and song in plain language. It also holds the highest
+views and unique viewers in the set.
+BUT it received paid promotion and is the oldest of the three 2024 uploads, so
+its view count is NOT evidence that a readable title beats a machine string. Not
+claimed. What can be said: it needs replacing for SHAPE only, not readability.
+And its search terms are both "rocksmith"-only - "rocksmith bass e standard" and
+"rocksmith bass" - with NO artist and NO song query at all, which is the gap the
+new title and tags fill.
+
+DELIVERED
+  Title  Southern rock bass on .38 Special's 'If I'd Been The One'
+         (57 chars, opener "Southern" 0 prior uses). Eighth distinct shape, and
+         the first anchored on GENRE rather than on a bassist or a benefit.
+  Desc   1,163 chars. Opens on the song rather than an instruction, drops the
+         request for viewers to go watch Shorts (it was the only content line and
+         it asked them to leave), keeps the honest practical framing: simple to
+         hear, hard to hold steady.
+  Tags   25 at 481/500 -> 16 at 289. Two self-brand tags removed, six duplicate
+         .38 Special variants collapsed, and the apostrophe-less forms added
+         ("if id been the one bass tab") because viewers cannot reliably type an
+         apostrophe.
+  Pin    dead invite, schedule and subscribe lead-in removed. Zero URLs.
+
+ALL EIGHT PLAY ALONGS AUDITED
+  #  Video                     Views  Unique  Subs  Shell  Priority
+  1  Masterpiece                 790     459   +51   2022   LIVE, done
+  2  Another Life                989     534   +39   2022   done
+  3  Abigail                     356     220   +37   2022   done
+  4  America                     333     197   +58   2022   done
+  5  Immaculate Misconception    510     294   +54   2022   done
+  6  X-Kid                       407     346   +59   2024   LOWEST
+  7  Black Parade                504     438   +64   2024   high (psarc)
+  8  .38 Special               1,347   1,100   +61   2024   medium
+Clean organic (five 2022 videos): 2,978 views, +239 subs.
+Paid-influenced (three 2024 videos): 2,258 views, +184 subs - NOT evidence that
+the format works organically. Keep the two totals apart.
+
+THE THREE THINGS COPY COULD NOT FIX, IN PRIORITY ORDER
+  1. DELETE the psarc redistribution offer from Black Parade's live description.
+  2. Replace the dead discord.gg/Hguy3JCXn in every live pinned comment.
+  3. Stop opening play alongs on a score card. Start on the first note.
+
+FOLDER RESTRUCTURE - _All Songs NOW BUCKETED IN TENS
+MAVO asked for it, and it is done:
+  _All Songs/
+    0000 - Channel Analytics        (stays at top level - channel-wide)
+    0001 - 0010/                    all ten song folders moved inside
+    0011 - 0020/                    empty, .gitkeep
+    0021 - 0030/                    empty, .gitkeep
+All 118 moved paths are tracked by git as RENAMES, so file history is preserved.
+Empty ranges need .gitkeep or git will not store them.
+Past 0100, one more level: _All Songs/0001 - 0100/0001 - 0010/...
+A README.md now documents the convention, the internal per-song layout, and the
+two-numbering-system warning.
+Nothing reads these paths programmatically - PY/ only touches bands/, TXT/ and the
+kit - so buckets can be renamed or re-nested without breaking a build.
+
+================================================================================
