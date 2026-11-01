@@ -4267,3 +4267,102 @@ Remaining: X-Kid (407), Black Parade (504), .38 Special (1,347) - all 2024
 uploads on the newer shell, needing their own diagnosis.
 
 ================================================================================
+
+================================================================================
+VER 4.2 - 2026-11-01 - CO-0008 X-KID: BOT TRAFFIC, A 0:16 INTRO, AND TAGS THAT
+                        CONTRADICT THE DESCRIPTION
+================================================================================
+
+First 2024-shell video of the set. It broke every pattern in the series, and the
+metadata turned out to be the least of it.
+
+THE NUMBERS (407 views, 1.9 h, +59 subs, Ineligible / Partially blocked, GBP 0.00)
+  3.0k impressions, CTR 1.6%, 36.2% from YouTube recommending
+  AVD 0:16, APV 6.7%, 10% still watching at 0:30 - Studio says BELOW typical
+  External 79.1%, browse 7.9%, channel pages 7.1%, YouTube search 3.0%
+  India 77.6% | 25-34 43.6% | male 90.2%
+  Premiered 18-02-2024 to a peak of 3 concurrent viewers
+
+FINDING 1 - THE TRAFFIC IS NOT A REAL AUDIENCE
+Five independent signals, and I am stating it this way precisely because I have
+had to retract two single-metric claims already:
+  1. Referrers: xmxbest.pro 6.5%, txxx.com 4.4% (adult tube), desitales2.com
+     3.4%, desi-porn.tube 1.6% - known spam/bot domains.
+  2. Geography: India 77.6% against UK 2.8-8.7% on the audited clean videos.
+  3. Retention: APV 6.7%, AVD 0:16, 10% at 0:30.
+  4. CTR 1.6% on 3.0k impressions with 36.2% recommendation-driven.
+  5. "Viewers also watch" reads "not enough eligible data" - a panel that works
+     on all five clean videos.
+I did NOT add the mobile 54.5% device split to that list, because the 4.1 rule
+bans device claims from single captures. Five signals carry it without that one.
+CONSEQUENCE: the +59 subs are of unknown quality, are not comparable with
+America's 29.4%, and the series total stays +239 from five clean videos.
+
+FINDING 2 - THE 0:16 AVERAGE IS THE INTRO, AND IT IS AN EDIT DEFECT
+The opening frame is a Rocksmith score/results card: "Replay Score Attack on
+Hard", "Raise Your Mastery to 101% in this Song", "Get a 303 Note Streak", a
+100% overlay and the MAVOmusic watermark.
+Average view duration: exactly 0:16. The song has not started when the average
+viewer leaves.
+Stated as inference, but 0:16 matching the length of that card is hard to
+dismiss. Options for MAVO: trim the opening in Studio's editor, or leave it and
+start future play alongs on the song with the score screen moved to the end.
+No amount of title, description, tag or pin work can touch this. It is the most
+actionable finding in the whole play along audit.
+
+FINDING 3 - THE TAGS CONTRADICT THE DESCRIPTION
+The description correctly says: "[DIS] AIMER: This song is an official DLC you
+can find inside the game." (typo in the header, but the statement is correct).
+The tags say: cdlc, rocksmith 2014 custom, customsong, custom songs, customsfoge,
+dic. A licensed DLC track labelled as custom content, using the exact vocabulary
+the section 33 CDLC-policy theory is built on.
+Also removed: clone hero and guitar hero (competing platforms), relax, sightread,
+sight read, charts, bass songs, how to play, and a self-brand mavomusic tag.
+Hypothesis, deliberately not called a finding: the Guitar Hero / Clone Hero tags
+may be part of why 36.2% of impressions came from recommending this to an
+audience that did not want it. Only testable by removing them and re-reading.
+
+FINDING 4 - THE PREMIERE GAVE IT NOTHING
+Peak 3 concurrent, average 3. A Premiere puts a video's first impression inside a
+live format; this one debuted to an empty room.
+
+FINDING 5 - BOTH SEARCH TERMS ARE WRONG-INTENT
+"green day live" 8.3% is a CONCERT query. "green day rocksmith" 8.3% is the right
+one. Half its search traffic carried the wrong intent.
+
+THE APV RULE NEEDS A CONDITION
+Ver 4.1 said low APV is a usage pattern. True for the five clean 2022 videos
+(0:30 hold 62-70%). False here (6.7% APV, 10% at 0:30 - broken curve).
+Refined, not retracted: APV is a usage pattern ONLY when the 0:30 hold is healthy.
+If the opening hold has collapsed, APV is a real defect and it belongs to the edit.
+Always read 0:30 first, then APV.
+
+DISCORD - MAVO RECREATED THE INVITE
+MAVO supplied https://discord.gg/ESGsGkN4j2. Verified: that is already the handle
+in 568 places across the live corpus, and NO dead invite (Hguy3JCXn, CeDvXXTKJv,
+sHtflKrX, CebyXXTKJv) appears in a single one of the 308 live packages. The dead
+codes survive only inside the log files as evidence, which is where they belong.
+The LIVE PINS on the videos still carry Hguy3JCXn though - those get replaced
+when the new pins are pasted.
+
+DELIVERED
+  Title  Green Day's 'X-Kid' and the bass Mike Dirnt wrote for it
+         (56 chars, opener "Green" 0 prior uses, sixth distinct shape; names
+         Dirnt, safe - founding bassist of 38 years, uncontroversial)
+  Desc   1,195 chars; emoji stripped, [KICK]/[TWITCH]/[SCHEDULE] and the full
+         weekly EST schedule deleted, the typo'd [DISC] AIMER block rewritten
+         into the real value statement: official DLC means the part on screen is
+         the real transcription, not a community approximation
+  Tags   27 at 498/500 -> 16 at 249, restoring 251 characters of headroom on a
+         box that was completely full
+  Pin    dead invite and schedule gone, zero URLs
+
+MR-0009 logged, E4 roll-up 19 -> 20.
+Series 6 of 8. Remaining: Black Parade (504), .38 Special (1,347).
+
+HONEST PRIORITY: of all eight, X-Kid is the LOWEST priority for the copy above,
+because the audience it reached was largely not real and it stays ineligible
+regardless. It is the HIGHEST priority for the two things copy cannot fix - the
+intro edit and the CDLC tags. Black Parade and .38 Special deserve the effort.
+
+================================================================================

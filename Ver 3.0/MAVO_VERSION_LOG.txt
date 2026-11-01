@@ -3099,3 +3099,79 @@ in reverse rewrite order. The untouched siblings have gone.**
 
 *   **Next:** X-Kid (407), Black Parade (504), .38 Special (1,347) - all 2024
     uploads on the newer shell, needing their own diagnosis.
+
+================================================================================
+[Ver 4.2] - 2026-11-01 - CO-0008 X-KID: BOT TRAFFIC, 0:16 INTRO, TAG CONTRADICTION
+================================================================================
+
+**Capture:** 12 panels, `Ql-HKr1nwj4`, 18-02-2024, 4:05, 407 views. First
+2024-shell video of the set.
+
+| Metric | Value |
+| --- | --- |
+| Views / watch / subs | 407 / 1.9 h / +59 (quality unknown) |
+| Impressions / CTR | 3.0k / **1.6%** |
+| AVD / APV | **0:16** / **6.7%** |
+| Still watching at 0:30 | **10% - Studio says BELOW typical** |
+| External traffic | **79.1%** |
+| Geography | **India 77.6%** |
+| Revenue | **GBP 0.00** - Ineligible / **Partially blocked** |
+
+## Finding 1 - the traffic is not a real audience
+Five independent signals agree:
+1. **Referrers are spam/adult-tube domains**: `xmxbest.pro`, `txxx.com`, `desitales2.com`, `desi-porn.tube`
+2. **Geography**: India 77.6% vs UK 2.8-8.7% on clean videos
+3. **Retention collapse**: APV 6.7%, AVD 0:16, 10% at 0:30
+4. **CTR 1.6%** on 3.0k impressions, 36.2% recommendation-driven
+5. **"Viewers also watch"**: "not enough eligible data" - works on all five clean videos
+
+The mobile 54.5% split is **deliberately excluded** from the case, per the 4.1
+rule against device claims from single captures.
+
+**The +59 subs are of unknown quality.** Not comparable to America's 29.4%. The
+series total stays **+239 from five clean videos**.
+
+## Finding 2 - the 0:16 average is the intro. This is an edit defect.
+The opening frame is a **Rocksmith score/results card**: "Replay Score Attack on
+Hard", "Raise Your Mastery to 101%", 100% overlay, MAVOmusic watermark.
+
+Average view duration is **exactly 0:16**. The song has not started when the
+average viewer leaves. **No metadata work can touch this.**
+
+Options: trim the opening in Studio's editor, or start future play alongs on the
+song and move the score screen to the end. Most actionable finding in the audit.
+
+## Finding 3 - the tags contradict the description
+Description says **official DLC**. Tags said `cdlc`, `rocksmith 2014 custom`,
+`customsong`, `custom songs`, `customsfoge`, `dic`. A licensed track labelled as
+custom content - the exact vocabulary the §33 CDLC theory rests on. Plus
+competitor platforms `clone hero` / `guitar hero` and a self-brand tag.
+
+## Finding 4 - the Premiere gave it nothing
+Peak 3 concurrent, average 3. A debut in an empty room.
+
+## Finding 5 - both search terms are wrong-intent
+`green day live` 8.3% is a **concert** query. `green day rocksmith` 8.3% is the
+right one.
+
+## APV rule refined
+APV is a usage pattern **only when the 0:30 hold is healthy**. If the opening
+hold has collapsed, APV is a real defect belonging to the edit. **Read 0:30
+first, then APV.**
+
+## Discord
+MAVO recreated the invite as `discord.gg/ESGsGkN4j2`. Verified: already in **568
+places** across the live corpus, and **no dead invite appears in any of the 308
+live packages**. Dead codes survive only in logs as evidence. Live video pins
+still carry `Hguy3JCXn` - replace when pasting the new pins.
+
+## Delivered
+- **Title** (56ch): `Green Day's 'X-Kid' and the bass Mike Dirnt wrote for it` - opener "Green" 0 prior uses, sixth distinct shape
+- **Description** (1,195ch): emoji, schedule and typo'd `[DISC] AIMER` block replaced with the real value statement (official DLC = real transcription)
+- **Tags**: 27 at 498/500 -> **16 at 249**, restoring 251 characters
+- **Pin** (146ch): dead invite and schedule removed, zero URLs
+
+**MR-0009** logged, E4 roll-up 19 -> 20. **Series 6 of 8.**
+
+*   **Next:** Black Parade (504), .38 Special (1,347) - both 2024 shell.
+*   **Honest priority:** X-Kid is **lowest** for copy (the audience was largely not real) and **highest** for the intro edit and tag fix. Black Parade and .38 Special deserve the effort.
