@@ -185,9 +185,15 @@ plainly rather than implying fraud. Contracted view suppliers are not an attack
 and should never be described as one.
 ################################################################################
 
---- MR-0004 | CO-0003-SERIES | Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2
-                     [1 HOUR LOOP] -----------------------------------------------
-Upload / date      : 03-11-2022 | 4:00:33 | 4,887 views | 9 comments
+--- MR-0004 | CO-0011 | Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2
+                     [4 HOUR LOOP] -----------------------------------------------
+Upload / date      : 02-11-2022 | 4:00:33 | 4,887 views | 4.6k unique | +64 subs
+                     *** CORRECTED 01-11-2026 *** this is a FOUR-HOUR loop, not a
+                     one-hour loop. MAVO: "it is 4 hours not 1 hour loop. I can do
+                     more in the future if works out." The runtime 4:00:33 and the
+                     "[4 HOURS LOOP]" title both confirm it. The original entry
+                     said 1 hour and was wrong. Folder path is now
+                     _All Songs/0011 - 0020/0011 - Frederic Chopin ...
 Notices badge      : E2 EARNING - REVENUE SHARE  ("Sharing ad earnings" / "Shopping
                      disabled")
 Revenue            : GBP 0.54   <-- FIRST EARNING LONG-FORM IN THE ENTIRE CORPUS
@@ -210,6 +216,123 @@ Why it matters     : This single row overturns two working hypotheses at once:
                          now much weaker - this video has the same 2022 link wall
                          and still monetises. Repertoire decides eligibility;
                          the shell decides nothing.
+
+--------------------------------------------------------------------------------
+CO-0011 FULL CAPTURE - WHAT THIS VIDEO ACTUALLY IS, AND WHY IT EARNS
+--------------------------------------------------------------------------------
+Watch time         : 1,900 hours  <-- the largest watch-time asset in the corpus
+Revenue            : GBP 0.54 | CPM GBP 3.97 | RPM GBP 0.11
+Engaged views      : 4.9k | impressions 7.7k | CTR 2.6%
+Retention          : AVD 23:46 | APV 9.9% | 101% at 0:30 (above typical)
+Traffic            : SUGGESTED 60.9% | END SCREENS 31.0% | channel pages 5.6% |
+                     direct 0.8% | playlists 0.6% | YouTube search 0%
+Search             : "rocksmith bass" 7.1% - the only visible term, 0.3% of traffic
+Devices            : mobile 91.1% | computer 5.2% | tablet 3.7% | TV 0%
+Audience           : India 33.1% | Indonesia 3.5% | Pakistan 2.6% |
+                     Bangladesh 2.6% | Brazil 2.1% |
+                     25-34 50.6% | 18-24 34.4% | 35-44 15.0% | male 81.7%
+                     not subscribed 95.3% | subscribed 4.7% (watch time)
+Ad types           : skippable 72.5% | non-skippable 14.5% | bumper 8.9% |
+                     display 2.8% | unknown 1.4%
+Engagement         : likes 97.8% | end screen CTR 0.0% | 0 hype | 0 remixes
+
+*** THE FINDING THAT REFRAMES THE WHOLE VIDEO ***
+60.9% of this video's traffic is SUGGESTED, and the five visible sources are:
+  "E Tem Mais | Derrota nas urnas: pronunciamento..." 0.4%
+  "Imran Khan Attacked in Pakistan: Ex-Pak PM Sho..." 0.4%
+  "Imran Khan's first visuals after shooting attack..." 0.4%
+  "Gravitas: The Gunman who attacked Imran Khan" 0.3%
+  "Imran Khan Shot At: Imran Khan Injured In Firing..." 0.3%
+FOUR OF THE FIVE ARE BREAKING-NEWS VIDEOS about the Imran Khan shooting on
+03-11-2022 - the day after this loop was published. The loop was served next to
+rolling news coverage, and that is where most of its audience came from.
+That single fact explains everything else in the capture:
+  - India 33.1% plus Pakistan, Bangladesh, Indonesia - a news-driven, low-CPM
+    geography, not a bass-player geography.
+  - mobile 91.1% - people watching news on a phone, then leaving this running.
+  - AVD 23:46 with APV 9.9% - passive background listening, not active study.
+  - 101% at 0:30 - seeking and looping, which is what a looper does.
+  - RPM GBP 0.11 - geographic CPM, not content quality.
+
+*** SO WHY DOES IT EARN? ***
+Because the composition is PUBLIC DOMAIN. Chopin died in 1849, no label claims
+the audio bed, Content ID has nothing to match, so ads run and revenue is shared.
+That conclusion stands exactly as written. What changes is the second half of the
+story: it earns BECAUSE it is unclaimed, NOT because it is a good video, and the
+money is small because the audience it landed is cheap.
+  RPM 0.11 x 90,000 views would be about GBP 10.
+Four hours of looping produced 54 pence.
+
+*** AND AN UNCOMFORTABLE SIDE EFFECT ***
+Being 60.9% suggested from rolling news teaches the recommender that this video
+belongs next to news, which is why its own search traffic is ZERO. The video has
+no organic search life at all - 0.0% - and its only search term is
+"rocksmith bass" at 7.1% of a 0.3% slice.
+That is the opposite of the play along series, where 60-70% of traffic is search
+and the videos are found by people looking for the song.
+
+*** EVIDENCE THAT WEAKENS THE CDLC THEORY FURTHER (section 33) ***
+This video's live description contains, verbatim:
+  "This song's CDLC (Custom Downloadable Content) downloaded from CustomsForge
+   Ignition CDLC database site. All uploaded by different creator so any delay on
+   tab or wrong notes placed i still haven't learned how to edit them to fix."
+It names CDLC and CustomsForge in the description, carries cdlc and customsforge
+in its tags, and still monetises as E2 revenue share.
+CONSEQUENCE FOR THE PSARC ISSUE: describing where a chart came from did not block
+this video. That makes the Black Parade case look more specifically like what it
+is - an OFFER TO SEND THE FILE, not a mention of custom content. Do not treat a
+CDLC reference as fatal; do treat a redistribution offer as urgent.
+
+--------------------------------------------------------------------------------
+MAVO'S QUESTION: "I can do more in the future if works out"
+--------------------------------------------------------------------------------
+SHORT ANSWER: yes, but for the right reason, and with the arithmetic understood.
+  1. WHY DO IT: public-domain repertoire is the ONLY lane on this channel that is
+     genuinely eligible to earn. That is not a small thing - 22 of the 23 long
+     videos audited are ineligible. This is the one that pays.
+  2. WHAT IT BUYS YOU: 1,900 watch hours from a single upload. That is real
+     channel-level value regardless of the 54 pence, and it is the largest
+     watch-time asset measured.
+  3. WHAT IT DOES NOT BUY: money at any scale, on THIS audience. GBP 0.11 RPM is
+     geography, not effort. More loops aimed at the same low-CPM audience will
+     produce proportionally more of the same.
+  4. WHAT TO DO DIFFERENTLY: aim the next one at an audience that searches for
+     it. A four-hour Chopin loop with "classical music for studying" and
+     "chopin nocturne" in the title and tags could earn its traffic from SEARCH,
+     which is the traffic that keeps arriving after the news cycle ends. This
+     video is 60.9% dependent on a single week of breaking news in November 2022
+     and has never had a search life. Do not build a series on that.
+  5. HONEST CEILING: at this RPM, ten more loops might produce a few pounds.
+     Treat the lane as an eligibility and watch-time play, not an income stream.
+
+--------------------------------------------------------------------------------
+WHAT IS WRONG WITH THE SURFACE
+--------------------------------------------------------------------------------
+TITLE   "[4 HOURS LOOP] Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2 on
+        Rocksmith 2014 Bass" - emoji-led, and it never once says the words
+        "classical music", "study" or "sleep", which is what four-hour loop
+        audiences actually search.
+DESC    Genuinely the best research in the corpus - four paragraphs of accurate
+        musicology about the Op. 9 nocturnes - buried under [TWITCH], [OTHER
+        SOCIALS] and [REQUESTING SONGS] blocks. It also carries a THIRD dead
+        invite nobody has flagged yet: discord.gg/afnuBTBxiq (the others are
+        Hguy3JCXn in the pins and CebyXXTKJv/sHtflKrX in older files).
+TAGS    27 at 493/500, including streamer, twitch, cdlc, rocksmith 2014 custom,
+        guitar hero, clone hero, customsforge, sightread, sight read, custom
+        songs. NONE of the four tags a four-hour ambient audience would use.
+PIN     The usual stale block: three links, full weekly EST schedule, "we are so
+        close to 1500" opener, and the dead discord.gg/Hguy3JCXn.
+
+--------------------------------------------------------------------------------
+FINAL COPY - see CO-0011 in the Channel Order Audit Log
+--------------------------------------------------------------------------------
+Title   : Four hours of Chopin's Nocturne Op. 9 No. 2, played on bass
+Desc    : 1,533 chars - keeps and credits the musicology, sells the loop as a
+          loop, states plainly that the chart was made by another player rather
+          than implying it is official, removes all three stale invites
+Tags    : 15 at 233 of 500 - leads with the classical and study queries the
+          video has never had, drops every CDLC and competitor-platform tag
+Pin     : 108 chars, zero URLs, asks what to loop next
 
 --------------------------------------------------------------------------------
 THE PLAY ALONG SERIES - FULL CAPTURE (8 videos, one screen, 01-11-2026)

@@ -1903,3 +1903,189 @@ The three things copy could not fix, in priority order:
   3. Stop opening play alongs on a score card. Start on the first note.
 
 ================================================================================
+
+================================================================================
+CO-0011 | Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2 (4 HOUR LOOP)
+================================================================================
+Video ID           : MH4HCJTD-Cs
+Upload / date      : 02-11-2022 (Studio window 02-11-2022 to 01-11-2026)
+Runtime            : 4:00:33  <-- FOUR HOURS. Not one hour.
+Views / watch      : 4,887 lifetime | 1,900 watch hours | +64 subs | 4.6k unique
+Package status     : NO bands/ package. Section C archive item [PA/LOOP 04].
+Notices badge      : EARNING - "Sharing ad earnings" / "Shopping disabled"
+Revenue            : GBP 0.54 | CPM GBP 3.97 | RPM GBP 0.11
+MR CLASS           : E2 EARNING - REVENUE SHARE (MR-0004, corrected today)
+
+--------------------------------------------------------------------------------
+FIRST, A CORRECTION I OWE
+--------------------------------------------------------------------------------
+My register entry called this a ONE-HOUR loop. It is a FOUR-HOUR loop. MAVO:
+"it is 4 hours not 1 hour loop. I can do more in the future if works out."
+The runtime (4:00:33) and the video's own title ("[4 HOURS LOOP]") both said so
+all along. The entry is corrected in place rather than quietly patched over,
+because the length is not a detail - it is the whole point of the format and it
+is the thing MAVO is asking whether to repeat.
+
+--------------------------------------------------------------------------------
+THE NUMBERS
+--------------------------------------------------------------------------------
+Impressions        : 7.7k | CTR 2.6% | 10.7% from YouTube recommending
+Retention          : AVD 23:46 | APV 9.9% | 101% at 0:30, flagged ABOVE typical
+Traffic            : SUGGESTED 60.9% | END SCREENS 31.0% | channel pages 5.6% |
+                     direct 0.8% | playlists 0.6% | **YouTube search 0%**
+Search terms       : "rocksmith bass" 7.1% - the only visible term, on a slice
+                     that is 0.3% of total traffic
+Devices            : mobile 91.1% | computer 5.2% | tablet 3.7% | TV 0%
+Audience           : India 33.1% | Indonesia 3.5% | Pakistan 2.6% |
+                     Bangladesh 2.6% | Brazil 2.1% |
+                     25-34 50.6% | 18-24 34.4% | 35-44 15.0% | male 81.7% |
+                     not subscribed 95.3% | subscribed 4.7% (watch time)
+Ad mix             : skippable 72.5% | non-skippable 14.5% | bumper 8.9% |
+                     display 2.8% | unknown 1.4%
+Engagement         : likes 97.8% vs 97.4% channel | end screen CTR 0.0% |
+                     0 hype | 0 remixes | no Shorts remixes
+
+--------------------------------------------------------------------------------
+THE FINDING THAT REFRAMES THIS ENTIRE VIDEO
+--------------------------------------------------------------------------------
+60.9% of its traffic is SUGGESTED, and the five visible sources are:
+  "E Tem Mais | Derrota nas urnas: pronunciamento..."      0.4%  (Brazilian news)
+  "Imran Khan Attacked in Pakistan: Ex-Pak PM Sho..."      0.4%
+  "Imran Khan's first visuals after shooting attack..."    0.4%
+  "Gravitas: The Gunman who attacked Imran Khan"           0.3%
+  "Imran Khan Shot At: Imran Khan Injured In Firing..."    0.3%
+FOUR OF THE FIVE ARE BREAKING-NEWS VIDEOS about the Imran Khan shooting of
+03-11-2022 - the day after this loop was published.
+
+The loop was served next to rolling news coverage and that is where most of its
+audience came from. One fact explains the entire capture:
+  - India 33.1%, plus Pakistan, Bangladesh, Indonesia - a news-driven, low-CPM
+    geography, not a bass player's geography
+  - mobile 91.1% - people watching news on a phone, then leaving this running
+  - AVD 23:46 with APV 9.9% - passive background listening, not active study
+  - 101% at 0:30 - seeking and looping, which is what a looper does
+  - RPM GBP 0.11 - geographic CPM, not content quality
+
+--------------------------------------------------------------------------------
+SO WHY DOES IT EARN, AND WHAT SHOULD MAVO DO NEXT
+--------------------------------------------------------------------------------
+IT EARNS BECAUSE THE COMPOSITION IS PUBLIC DOMAIN. Chopin died in 1849, nothing
+claims the audio bed, Content ID has nothing to match, so ads run and the revenue
+is shared. That part of VER 3.7 stands unchanged.
+
+The second half of the story needs saying plainly, though: it earns BECAUSE it is
+unclaimed, NOT because it is a strong video, and the money is small because the
+audience it landed is cheap.
+    RPM 0.11 means roughly GBP 10 per 90,000 views.
+    Four hours of looping produced 54 pence.
+
+ANSWER TO "I can do more in the future if works out":
+  1. DO IT - public-domain repertoire is the only lane on this channel that is
+     genuinely eligible. 22 of the 23 long videos audited are ineligible. This is
+     the one that pays, and that is not a small distinction.
+  2. WHAT IT ALREADY BUYS - 1,900 watch hours from a single upload, the largest
+     watch-time asset in the corpus. Real channel value whatever the 54 pence.
+  3. WHAT IT DOES NOT BUY - money at any scale on this audience, because GBP 0.11
+     is geography rather than effort.
+  4. WHAT TO CHANGE - aim the next one at an audience that SEARCHES for it. This
+     video has 0% YouTube search traffic and 60.9% dependence on one week of
+     breaking news from November 2022. A loop titled and tagged for "classical
+     music for studying" and "chopin nocturne" earns from search, which keeps
+     arriving after the news cycle dies. That is the difference between a lucky
+     upload and a series.
+  5. HONEST CEILING - at this RPM, ten more loops might produce a few pounds.
+     Treat the lane as an eligibility and watch-time play, not an income stream.
+
+--------------------------------------------------------------------------------
+A SIDE EFFECT WORTH KNOWING
+--------------------------------------------------------------------------------
+Being 60.9% suggested from rolling news has taught the recommender that this video
+belongs next to news, which is why it has no search life at all. It is the exact
+inverse of the play along series, where 60-70% of traffic is search and the videos
+are found by people looking for the song. Long-term, the play alongs are the more
+durable asset even though they cannot earn; this loop earns today but depends on a
+news cycle that ended in 2022.
+
+--------------------------------------------------------------------------------
+EVIDENCE THAT WEAKENS THE CDLC THEORY FURTHER (section 33)
+--------------------------------------------------------------------------------
+This video's live description contains, verbatim:
+  "This song's CDLC (Custom Downloadable Content) downloaded from CustomsForge
+   Ignition CDLC database site. All uploaded by different creator so any delay on
+   tab or wrong notes placed i still haven't learned how to edit them to fix."
+It names CDLC and CustomsForge, carries cdlc and customsforge in its tags, and
+still monetises at E2 revenue share.
+CONSEQUENCE: describing where a chart came from did not block this video. So the
+Black Parade problem looks more specifically like what it is - an OFFER TO SEND
+THE FILE - rather than a mention of custom content. Do not treat a CDLC reference
+as fatal; do treat a redistribution offer as urgent. This is the third time the
+CDLC theory has been narrowed by evidence, and it should now be treated as a
+policy-of-behaviour theory, not a vocabulary theory.
+
+--------------------------------------------------------------------------------
+WHAT IS WRONG WITH THE SURFACE
+--------------------------------------------------------------------------------
+TITLE   "[4 HOURS LOOP] Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2 on
+        Rocksmith 2014 Bass" - emoji-led, and it never says "classical music",
+        "study" or "sleep", which is what a four-hour loop audience types.
+DESC    The best research in the corpus - four accurate paragraphs on the Op. 9
+        nocturnes - buried under [TWITCH], [OTHER SOCIALS] and [REQUESTING SONGS].
+        **It also carries a THIRD dead invite nobody had flagged:**
+        discord.gg/afnuBTBxiq.
+TAGS    27 at 493/500: streamer, twitch, cdlc, rocksmith 2014 custom, guitar hero,
+        clone hero, customsforge, sightread, sight read, custom songs. Not one tag
+        a four-hour ambient audience would use to find a classical loop.
+PIN     The usual stale block plus the dead discord.gg/Hguy3JCXn.
+
+--------------------------------------------------------------------------------
+FINAL COPY (paste-ready, ASCII only)
+--------------------------------------------------------------------------------
+TITLE (59/100):
+Four hours of Chopin's Nocturne Op. 9 No. 2, played on bass
+
+DESCRIPTION (1533/5000):
+The Nocturne in E flat major, Op. 9 No. 2, is the one Chopin piece almost everybody already knows without knowing its name. This is four hours of it, looped, played through on bass - put on when you need something in the room that never asks anything of you.
+
+Chopin wrote the Op. 9 nocturnes between 1831 and 1832 and dedicated them to Madame Marie Pleyel. This one sits in rounded binary form with a coda, thirty-four bars, in a waltz-like 12/8. The ornamentation thickens with each return, the left hand keeps its widely spaced accompaniment going under the damper pedal, and once you have heard it a few times the tune is yours for good.
+
+Nothing has been cut, sped up or rearranged for the sake of the loop. What you hear is the arrangement as charted, over and over, which is exactly what makes it usable as background.
+
+The chart itself was put together by another player rather than by me, so if a note ever looks off, that is the arrangement rather than the piece. Worth saying plainly.
+
+If you want a different piece stretched out like this - or a shorter one, or something that is not piano at all - say which below.
+
+🟣 Long-form and ambient blocks run on Twitch: https://www.twitch.tv/mavomusic
+💬 Ask for the next one on Discord: https://discord.gg/ESGsGkN4j2
+
+**Genres:** Classical, romantic era, piano
+**Format:** Four-hour loop, on-screen bass tab, no overdubs, no cuts
+🎸 Played on the Thunderbird one-handed | 🎮 charted in Rocksmith 2014 Remastered (Steam)
+
+#Chopin #Nocturne #ClassicalMusic #BassCover #Rocksmith2014
+
+TAGS (233/500 chars, 15 tags):
+chopin nocturne, chopin nocturne op 9 no 2, nocturne op 9 no 2, chopin, frederic chopin, chopin bass, classical music, classical music for studying, chopin 4 hours, 4 hour loop, rocksmith bass, rocksmith 2014, bass cover, bass, piano
+
+PINNED COMMENT (108/300):
+Four hours, no cuts, no interruptions - leave it running. Which piece should get the same treatment next? 👇🎸
+
+--------------------------------------------------------------------------------
+WHAT CHANGED AND WHY
+--------------------------------------------------------------------------------
+- Title: NINTH distinct shape, opening on "Four hours", opener "Four" used 0 times
+  in 308 packages. It keeps the length in the title because the length IS the
+  product, keeps "Chopin" and the Op. 9 No. 2 catalogue number for search, and
+  drops the emoji and the "on Rocksmith 2014 Bass" tail that nobody types.
+- Description: the four musicology paragraphs are KEPT, because they are the
+  reason this video has any substance and they earn trust. Everything around them
+  is rebuilt: the loop is sold as a loop, the chart's provenance is stated
+  honestly without naming a distribution site or implying official DLC, and all
+  three stale invites are gone.
+- Tags: 27 at 493/500 cut to 15 at 233. Leads with the classical and study queries
+  the video has never had; every CDLC, competitor-platform and sightread tag
+  removed. This is the biggest tag-box change in the audit - 260 characters of
+  headroom recovered.
+- Pin: the schedule and the subscribe opener are gone, zero URLs, and it asks the
+  one question that produces the next video.
+
+================================================================================

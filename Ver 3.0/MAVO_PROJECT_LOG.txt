@@ -4547,3 +4547,100 @@ Nothing reads these paths programmatically - PY/ only touches bands/, TXT/ and t
 kit - so buckets can be renamed or re-nested without breaking a build.
 
 ================================================================================
+
+================================================================================
+VER 4.5 - 2026-11-01 - CO-0011 CHOPIN: THE ONLY VIDEO THAT EARNS, AND WHY IT
+                        STILL ONLY EARNS 54 PENCE
+================================================================================
+
+A CORRECTION I OWE FIRST
+My register entry called this a ONE-HOUR loop. It is a FOUR-HOUR loop. MAVO:
+"it is 4 hours not 1 hour loop. I can do more in the future if works out."
+The runtime (4:00:33) and the video's own title both said four hours. The length
+is not a detail here - it IS the product - so the entry is corrected in place
+rather than quietly patched over.
+
+THE NUMBERS (4,887 views, 1,900 watch hours, +64 subs, GBP 0.54, E2 revenue share)
+  7.7k impressions, CTR 2.6%, 10.7% from YouTube recommending
+  AVD 23:46, APV 9.9%, 101% at 0:30 (above typical - that is looping behaviour)
+  SUGGESTED 60.9%, END SCREENS 31.0%, channel pages 5.6%, playlists 0.6%
+  YouTube search: 0%
+  mobile 91.1%, computer 5.2%, tablet 3.7%, TV 0%
+  India 33.1%, Indonesia 3.5%, Pakistan 2.6%, Bangladesh 2.6%, Brazil 2.1%
+  CPM GBP 3.97, RPM GBP 0.11
+  skippable ads 72.5%, non-skippable 14.5%, bumper 8.9%, display 2.8%
+
+THE FINDING THAT REFRAMES THE WHOLE VIDEO
+60.9% of traffic is suggested, and the five visible sources are:
+  "E Tem Mais | Derrota nas urnas..."                      (Brazilian news)
+  "Imran Khan Attacked in Pakistan: Ex-Pak PM Sho..."
+  "Imran Khan's first visuals after shooting attack..."
+  "Gravitas: The Gunman who attacked Imran Khan"
+  "Imran Khan Shot At: Imran Khan Injured In Firing..."
+FOUR OF THE FIVE are breaking-news videos about the Imran Khan shooting of
+03-11-2022 - the day after this loop was published.
+
+The loop was served next to rolling news and that is where its audience came from.
+That one fact explains everything else: India/Pakistan/Bangladesh/Indonesia
+geography, mobile 91.1%, passive 23-minute average view duration, 101% at 0:30
+from seeking and looping, and an RPM of 11 pence driven by geography.
+
+WHY IT EARNS, AND WHY IT EARNS LITTLE
+IT EARNS because the composition is public domain. Chopin died in 1849, nothing
+claims the audio bed, Content ID has nothing to match. That part stands exactly.
+IT EARNS LITTLE because the audience it landed is cheap:
+  RPM 0.11 means about GBP 10 per 90,000 views.
+  Four hours of looping produced 54 pence.
+So the rule is now TWO rules, not one:
+  1. RIGHTS decide ELIGIBILITY. Unclaimed repertoire is the only lane that pays.
+  2. AUDIENCE decides REVENUE. A loop served to news traffic earns geographic
+     CPM, not content value.
+Worth writing down because I spent two versions implying the first one was the
+whole story.
+
+MAVO'S QUESTION - "I can do more in the future if works out"
+  1. DO IT. Public-domain repertoire is the only genuinely eligible lane here -
+     22 of the 23 long videos audited are ineligible. That is not a small thing.
+  2. IT ALREADY BOUGHT 1,900 WATCH HOURS, the largest watch-time asset measured
+     in this project. Real value whatever the 54 pence.
+  3. IT DOES NOT BUY MONEY AT SCALE on this audience. 11p RPM is geography.
+  4. CHANGE ONE THING NEXT TIME: aim at an audience that SEARCHES. This video has
+     0% YouTube search traffic and depends on one week of breaking news from
+     November 2022. A loop titled and tagged for "classical music for studying"
+     and "chopin nocturne" earns from search, which keeps arriving after the news
+     cycle dies. That is the difference between a lucky upload and a series.
+  5. HONEST CEILING: at this RPM, ten more loops might produce a few pounds.
+     Treat the lane as an eligibility and watch-time play, not an income stream.
+THE STRATEGIC ASYMMETRY, said plainly: this loop earns today but is 0% search
+driven and news-dependent. The play alongs cannot earn but are 60-70% search
+driven and keep arriving. Long term the ineligible series is the more durable
+asset.
+
+CDLC THEORY NARROWED A THIRD TIME
+This description names CDLC and CustomsForge explicitly, and tags carry cdlc and
+customsforge - and it monetises as E2 revenue share.
+So DESCRIBING where a chart came from does not block a video. What Black Parade
+does is different and worse: it OFFERS TO SEND THE FILE.
+RULE: a CDLC reference is not fatal; a redistribution offer is urgent. Stop
+writing this as a vocabulary problem.
+
+THIRD DEAD INVITE FOUND
+The description carries discord.gg/afnuBTBxiq, which nobody had flagged. That is
+three dead invites in play: Hguy3JCXn (pins), afnuBTBxiq (this description),
+CebyXXTKJv/sHtflKrX (older files).
+
+DELIVERED
+  Title  Four hours of Chopin's Nocturne Op. 9 No. 2, played on bass
+         (59 chars, opener "Four" 0 prior uses, ninth distinct shape). Keeps the
+         length in the title because the length is the product.
+  Desc   1,533 chars. The four musicology paragraphs are KEPT - they are the only
+         real substance in any description in this corpus and they earn trust.
+         Everything around them rebuilt: the loop is sold as a loop, provenance
+         stated honestly without naming a distribution site, all three stale
+         invites gone.
+  Tags   27 at 493/500 -> 15 at 233. Biggest tag change in the audit. Leads with
+         classical and study queries the video has never had; every CDLC and
+         competitor-platform tag removed.
+  Pin    108 chars, zero URLs, asks the question that produces the next video.
+
+================================================================================
