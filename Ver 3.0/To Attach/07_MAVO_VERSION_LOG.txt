@@ -3381,3 +3381,40 @@ that is different. **A CDLC reference is not fatal; a redistribution offer is ur
 - **Description** (1,533ch): the four musicology paragraphs **kept** - the only real substance in any description in the corpus - with everything around them rebuilt
 - **Tags**: 27 at 493/500 -> **15 at 233**, the biggest tag change in the audit; leads with classical and study queries the video has never had
 - **Pin** (108ch): zero URLs, asks what to loop next
+
+================================================================================
+[Ver 4.6] - 2026-11-01 - PHASE 4 QUEUED: CDLC LIBRARY AUDIT + SCORING RUBRIC
+================================================================================
+
+MAVO will add a **CDLC folder** for browsing and turning into play
+recommendations - *"These only once we done with noticeable amount of files."*
+
+**Nothing started.** No folder exists. What is written down is the decision frame,
+in advance, so the recommendations come from evidence rather than taste.
+
+## Scoring order
+| # | Criterion | Why it is here |
+| --- | --- | --- |
+| 1 | **Eligibility forecast** (heaviest) | Rights decide whether a video can ever earn. 22 of 23 audited long videos are ineligible |
+| 2 | **Proven demand signal** | \`rocksmith bass\` is the channel's top query; \`<song> bass tab\` habits are observable |
+| 3 | **Format fit** | 3-5 min, audible part, learnable from a static tab |
+| 4 | **No duplicate** | Check against 308 packages + 10 audited uploads |
+
+**Tiers:** A = public domain / unclaimed (pre-1900 classical, traditional, folk,
+hymn) - the only tier with a proven earner. B = obscure or self-released. C =
+major-published modern catalogue - expect E4, play for traffic.
+
+## The output splits two lanes, always
+- **"Play this for MONEY"** - Tier A only, with the honest caveat that even Chopin returned **54p** on 4,887 views at an 11p RPM
+- **"Play this for TRAFFIC"** - Tier C, where search is 60-70% of views and subscriber conversion runs 11-29%
+
+A blended score would repeat the mistake that made me over-value the Chopin loop.
+
+## Standing cautions on every pick
+1. Browsing CDLC to *choose songs* is fine; the copy must **never offer or imply a downloadable chart file**
+2. **Never tag a licensed song as CDLC/custom**
+3. **Start every play along on the song** - 10-19% vs 62-70% at 0:30
+
+## Input format
+\`.psarc\` filenames normally encode \`Artist - Song\`, which is enough. A listing or
+CSV is better. A bare count is not enough - names would be needed.
