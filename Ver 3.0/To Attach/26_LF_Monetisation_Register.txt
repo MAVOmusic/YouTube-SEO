@@ -1102,6 +1102,83 @@ MAVO QUESTION RAISED BY THIS CAPTURE: if the partial block is Queen's catalogue,
 same will happen to every major-catalogue song. The Tier C plan should expect partial
 blocks as normal, not exceptional.
 
+--- MR-0015 | CO-0015 | Rammstein - Du Hast ----------------------------------
+Video ID           : 0W4ITBrdfYw
+Upload / date      : 05-02-2025 | 3:54 | 4,222 views (2.7k more than usual) | 27.0 h
+                     | +28 subs | 4.2k unique viewers
+Notices badge      : E4 INELIGIBLE (flat, no partial block)
+Revenue            : GBP 0.00 - all panels dashed, RPM blank
+Impressions / CTR  : 3.4k / 2.3% | 10.8% from YouTube recommending
+                     | 77 engaged views from impressions | 0:45 imp-AVD | 0.97 h
+Watch quality      : AVD 0:23 (-0:03) | APV 9.9% | 21% at 0:30 = typical
+                     | **curve ABOVE the typical band for the WHOLE runtime - the
+                     | best retention shape of the four 2025 uploads**
+Subscribers        : +28 from 4,222 = **0.66%**, squarely in the paid cohort
+                     (0.79 / 0.71 / 0.66) - which makes CO-0014's 0.08% the anomaly
+Likes              : 94.1% (channel 97.4%) | END SCREEN 0.6% (1.1%)
+Bell               : 55 pushes, 0% CTR, 0 views
+Devices            : mobile 97.3 / computer 1.4 / TV 1.0 / tablet 0.4
+Audience           : India 70.3 / Indonesia 24.8 = 95.1%
+                     | 25-34 45.5 / 18-24 24.9 / 35-44 24.5
+                     | male 68.4 / female 31.7 | 97.1% non-subscribed watch time
+Folder note        : "0015 -  Rammstein" has a DOUBLE SPACE after the dash, like 0007.
+CAUSE HYPOTHESIS   : E4-b CATALOGUE-CONTROLLED.
+
+*** 97.5% YOUTUBE ADVERTISING - AND NO SEARCH AT ALL ***
+    YouTube advertising 97.5 | Channel pages 1.7 | Browse 0.2 | Playlists 0.2
+    | **YouTube search 0.2** | Other 0.2
+0.2% of 4,222 is about EIGHT views from search.
+
+*** THE QUEEN-vs-RAMMSTEIN PAIR - THE MOST UNEXPLAINED VARIANCE IN THE PROJECT ***
+    Queen    I Want To Break Free ... 31-01-2025 ... 82.0% paid ... **SEARCH 8.7%**
+    Rammstein Du Hast ............... 05-02-2025 ... 97.5% paid ... **SEARCH 0.2%**
+Five days apart, two of the most famous songs in the library, same channel, same
+buyer, same month. One pulled 8.7% search, the other 0.2%.
+
+**Unproven candidate explanations, listed as hypotheses and nothing more:**
+    a) campaign length/cost - the Queen buy was 82% of traffic against Rammstein's
+       97.5%, so Queen simply had more room for organic to show through. Arithmetic,
+       not a finding.
+    b) the search term - "i want to break free" is typed in full; "du hast" is two
+       common German words and Rammstein searches are dominated by the official video
+    c) social spread - Queen carried WhatsApp at 30+20% of an external 0.8%; Rammstein
+       showed "not enough traffic data", i.e. no external at all
+    d) audience pool - Queen spread over India/Iraq/Algeria/Philippines/Pakistan;
+       Rammstein is India 70.3 + Indonesia 24.8
+
+**RULE ADOPTED: fame alone does not create search.** CO-0014 stays an outlier until a
+third case says otherwise. Treating it as a repeatable recipe off one capture would be
+the same error as the 382.3k SOAD number.
+
+SEARCH TERMS (0.2% slice) - **"du hast" 14.3** did appear; there was simply almost no
+    search traffic for it to be a share of. Also rocksmith 14.3 / rocksmith 2014 14.3
+    / rocksmith bass 14.3.
+SUGGESTED BY (0.1%) - **Rocksmith Remastered - CDLC - The Killers 16.7** / Chopin
+    4-hour loop 16.7 / BFMV Hand Of Blood 16.7 / SOAD Lonely Day 16.7 / "What To
+    Expect At kick.com/mavomusic?" 16.7.
+    **A CDLC video is feeding traffic INTO this channel.** Worth knowing given how much
+    effort went into removing the word from copy.
+PLAYLISTS (0.2%) - Industrial Metal - Rocksmith 2014 Bass 12.5 / Van Halen Eruption
+    slowed 12.5 / YouTube Mix 12.5 / Korn Got The Life (Bass Cover) + TAB 12.5.
+
+SURFACE FAULTS
+  Tags : 9 at 94/500, 406 characters unused. **It tags THREE MISSPELLINGS of the band
+         and never the correct one:** ramstein, rammstain, ramstain. No "rammstein".
+         No "du hast". No "bass". No "rocksmith bass". Two self-brand, four Kick tags.
+  Desc : same fundraising boilerplate; **Discord line points at discord.gg/mavomusic,
+         CONFIRMED DEAD by MAVO 01-11-2026.**
+  Pin  : BYTE-IDENTICAL to CO-0013 and CO-0014. Third confirmed use of the template.
+  Title: Shorts format on a 3:54 long form. Third in a row.
+
+DELIBERATE TAG DECISION: **"ramstein" KEPT, "rammstain" and "ramstain" DROPPED.**
+"ramstein" (single M) is a real high-volume misspelling that people type, and is also
+a US air base and a German town. The other two are invented. Keeping a real-world
+misspelling is good tagging; keeping invented ones is noise.
+
+MAVO CONFIRMED THE DEAD LINK: "discord.gg/mavomusic is not working at the moment
+because it would require a lot money to keep up." It is now a FOURTH dead invite and
+must never be used again. ESGsGkN4j2 remains the approved link pending re-confirmation.
+
 THE PLAY ALONG SERIES - COMPLETE, 8 OF 8 AUDITED
 --------------------------------------------------------------------------------
   #  Video                      Views  Unique  Subs  Conv.  Shell  Priority
@@ -1143,14 +1220,14 @@ wave at 1/3 of the Shorts wave's total revenue on 1/3 of the views.
 ################################################################################
 ## ROLL-UP (updated every capture)
 ################################################################################
-Captures audited         : 14 single-video (CO-0001 to CO-0014) + 1 wave (CO-W01)
+Captures audited         : 15 single-video (CO-0001 to CO-0015) + 1 wave (CO-W01)
                            + 1 full-series screen (CO-0003-SERIES, 8 play alongs + 1 loop)
 E1 EARNING-NO-CLAIM      : 0        (still none - see E2)
 E2 EARNING-REV-SHARE     : 1        <-- FOUND 01-11-26: Chopin Nocturne FOUR-HOUR loop,
                                        4,887 views, GBP 0.54. MAVO was right that
                                        a few exist.
 E3 CLAIMED-NOT-EARNING   : 0
-E4 INELIGIBLE            : 24       (CO-0001 to CO-0010 + CO-0012/0013 + 12/12 of the Aug shipment)
+E4 INELIGIBLE            : 25       (CO-0001 to CO-0010 + CO-0012/0013/0015 + 12/12 of the Aug shipment)
 E5 BLOCKED (partial)     : 1        <-- CO-0014 Queen, first E5 found. First
                                        confirmed mechanism for a partial block on
                                        an enforced catalogue. 4 of the Aug LFs are

@@ -5067,3 +5067,112 @@ last. The analytics notes are the sensitive material and they get no safer by th
 being private five weeks earlier than necessary.
 
 ================================================================================
+
+================================================================================
+VER 4.11 - 2026-11-01 - CO-0015 RAMMSTEIN, AND A RULE AGAINST MY OWN ADVICE
+================================================================================
+
+MAVO CONFIRMED THE DISCORD IS DEAD
+"discord.gg/mavomusic is not working at the moment because it would require a lot
+money to keep up."
+
+So it is a paid vanity URL that lapsed. That makes it the FOURTH dead invite, after
+Hguy3JCXn, CeDvXXTKJt-adjacent codes and afnuBTBxiq. It is now on the permanent
+do-not-use list, including the "type mavomusic into the invite box" wording, which is
+the same broken destination dressed differently.
+
+It appears in every 2025 upload checked so far: CO-0012's pin, and the descriptions of
+CO-0013, CO-0014 and CO-0015. Replacing it is a channel-wide edit, not a per-video one.
+
+ESGsGkN4j2 remains the approved link, BUT I cannot test Discord from this sandbox -
+outbound access is limited to github, npm and pypi. I have to take its status on trust
+and should ask MAVO to confirm it still resolves before we treat it as settled.
+
+Notes on repo visibility: MAVO will keep everything public for now and flip to private
+only when not in use. That works, provided he flips YouTube-SEO back to public before
+asking for the next song. It is one toggle and it costs nothing.
+
+CO-0015 - RAMMSTEIN, DU HAST, 0W4ITBrdfYw, 05-02-2025, 3:54
+    4,222 views / 27.0 watch hours / +28 subs / 4.2k unique / GBP 0.00 / E4 flat
+    (folder name has a double space after the dash, like 0007)
+
+*** 97.5% PAID AND SEARCH 0.2% - ABOUT EIGHT VIEWS ***
+    YouTube advertising 97.5 | Channel pages 1.7 | Browse 0.2 | Playlists 0.2
+    | YouTube search 0.2 | Other 0.2
+
+*** I HAVE TO WALK BACK WHAT I TOLD MAVO ABOUT QUEEN ***
+Five days apart, same channel, same ad buyer, same month:
+    Queen     I Want To Break Free ... 82.0% paid ... search 8.7%
+    Rammstein Du Hast ............... 97.5% paid ... search 0.2%
+Two of the most famous songs in the library, and one pulled forty times the search of
+the other. I said last turn that Queen was "the most plausible place in the 2025 set
+for real organic growth". On the evidence of the very next video, that was too strong.
+
+Four candidate explanations, all unproven, all logged in MR-0015: campaign length (82%
+vs 97.5% of traffic, so Queen simply had more room for organic to show), the search
+term itself ("i want to break free" is typed in full; "du hast" is two common German
+words and Rammstein searches go to the official video), social spread (Queen carried
+WhatsApp at 30+20% of an external 0.8%; Rammstein had no external data at all), and
+audience pool (Queen spread over five countries, Rammstein is India 70.3 + Indonesia
+24.8).
+
+RULE ADOPTED: FAME ALONE DOES NOT CREATE SEARCH. CO-0014 is an outlier until a third
+case agrees with it. Picking songs because they are famous, and expecting search to
+follow, is exactly the reasoning error I made with the 382.3k SOAD number two turns
+ago. Twice is enough.
+
+THE PAID COHORT IS NOW STABLE
+    0.79% (CO-0012) / 0.71% (CO-0013) / 0.66% (CO-0015)
+CO-0014's 0.08% is the outlier, not the rule. A bought view converts around 0.7% of
+the time, and that is now a three-point estimate rather than a single reading.
+
+WATCH QUALITY
+    AVD 0:23 (-0:03) | APV 9.9% | 21% at 0:30 = typical
+    Curve ABOVE the typical band for the WHOLE runtime - the best retention shape of
+    the four 2025 uploads. Note this does not contradict Queen's 17.3% APV: this is
+    better than the channel's own norm, Queen was better than this.
+
+OTHER
+    Impressions 3.4k | CTR 2.3% | 10.8% recommending | 77 engaged views | 0:45 imp-AVD
+    Likes 94.1 vs 97.4 | end screen 0.6 vs 1.1 | bell 55 pushes, 0% CTR, 0 views
+    mobile 97.3 / computer 1.4 / TV 1.0 / tablet 0.4
+    India 70.3 / Indonesia 24.8 | 25-34 45.5 / 18-24 24.9 / 35-44 24.5
+    male 68.4 | 97.1% non-subscribed
+    SEARCH (0.2%): du hast 14.3 / rocksmith 14.3 / rocksmith 2014 14.3 /
+      rocksmith bass 14.3. "du hast" DID appear - there was just almost no search
+      traffic for it to be a share of.
+    SUGGESTED BY (0.1%): **Rocksmith Remastered - CDLC - The Killers 16.7** /
+      Chopin 4-hour loop 16.7 / BFMV Hand Of Blood 16.7 / SOAD Lonely Day 16.7 /
+      "What To Expect At kick.com/mavomusic?" 16.7
+      A CDLC video is feeding traffic INTO this channel. Worth knowing, given how much
+      care went into keeping the word out of the copy.
+    PLAYLISTS (0.2%): Industrial Metal - Rocksmith 2014 Bass 12.5 / Van Halen Eruption
+      slowed 12.5 / YouTube Mix 12.5 / Korn Got The Life (Bass Cover) + TAB 12.5
+
+THE TAG BOX IS THE WORST KIND OF WRONG
+    9 tags at 94/500, 406 characters unused:
+        mavomusic, mavomusicyt
+        ramstein, rammstain, ramstain     <-- three misspellings
+        kick, kickstreaming, kickcommunity, kickpartner
+    "rammstein" - the correct spelling - does not appear. Nor does "du hast", "bass"
+    or "rocksmith bass". They tagged three ways to spell the band name wrongly and
+    zero ways to spell it right.
+
+    DELIBERATE DECISION: I kept "ramstein" and dropped the other two. "ramstein" with
+    one M is a genuine high-volume misspelling that people actually type, and it is
+    also a US air base and a German town. "rammstain" and "ramstain" are not things
+    anyone types. Keeping a real-world misspelling is good tagging; keeping invented
+    ones is noise.
+
+COPY
+  Title  Nein is the answer in Rammstein's Du Hast, and the bass is why it lands
+         (71/100, opener "Nein" never used in fifteen audits)
+         The song answers a wedding vow with the word no. True, distinctive, and it
+         names artist, song and bass in ordinary prose.
+  Desc   Sehnsucht (1997), the vow and the "nein", the Du hast / Du hasst homophone,
+         and Oliver Riedel treating the bass as machinery. Money blocks gone. Dead
+         invite gone.
+  Tags   9 at 94/500 -> 15 at 213. Correct spelling present for the first time.
+  Pin    114 chars, no links, no money.
+
+================================================================================

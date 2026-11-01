@@ -3645,3 +3645,73 @@ caveat was right; the answer was wrong. Now verified: **no.**
 
 **If step 1 is skipped:** leave YouTube-SEO public, finish the long-form pass, flip it
 last.
+
+================================================================================
+[Ver 4.11] - 2026-11-01 - CO-0015 RAMMSTEIN: FAME DOES NOT CREATE SEARCH
+================================================================================
+
+## MAVO confirmed the fourth dead Discord
+*"discord.gg/mavomusic is not working at the moment because it would require a lot
+money to keep up."* A paid vanity URL that lapsed.
+
+**Permanent dead list: \`Hguy3JCXn\`, \`CeDvXXTKJv\`, \`sHtflKrX\`, \`CebyXXTKJv\`,
+\`afnuBTBxiq\`, \`mavomusic\`.** Approved live link remains \`discord.gg/ESGsGkN4j2\`,
+pending MAVO re-confirming - I cannot reach discord.com from this sandbox.
+
+It appears in **every 2025 upload checked** (CO-0012 pin; CO-0013/14/15 descriptions),
+so replacing it is a channel-wide edit.
+
+**Repo visibility:** MAVO will keep everything public and flip to private only when not
+in use. Fine - provided he flips YouTube-SEO back before asking for the next song.
+
+## CO-0015 - Rammstein, Du Hast
+\`0W4ITBrdfYw\`, 05-02-2025, 3:54, **4,222 views**, 27.0 h, **+28 subs**, GBP 0.00, E4.
+Folder name has a double space after the dash, like 0007.
+
+| Traffic | Share |
+| --- | --- |
+| YouTube advertising | 97.5% |
+| Channel pages | 1.7% |
+| Browse / Playlists / **Search** / Other | 0.2% each |
+
+**Search 0.2% = about eight views.**
+
+### I have to walk back what I told MAVO about Queen
+| Video | Date | Paid | Search |
+| --- | --- | --- | --- |
+| Queen - I Want To Break Free | 31-01-2025 | 82.0% | **8.7%** |
+| Rammstein - Du Hast | 05-02-2025 | 97.5% | **0.2%** |
+
+Five days apart, same channel, same buyer, same month, two famous songs, **forty-fold
+difference in search**. Last turn I called Queen "the most plausible place in the 2025
+set for real organic growth". On the next video's evidence, that was too strong.
+
+Four unproven hypotheses logged: campaign length (82% vs 97.5%), the search term itself,
+social spread (Queen had WhatsApp, Rammstein had no external data), audience pool.
+
+**RULE ADOPTED: fame alone does not create search.** CO-0014 is an outlier until a third
+case agrees. Picking famous songs expecting search is the same error as the 382.3k SOAD
+number. Twice is enough.
+
+### The paid cohort is now stable
+**0.79% / 0.71% / 0.66%.** CO-0014's 0.08% is the outlier, not the rule.
+
+### Watch quality
+AVD 0:23, APV 9.9%, 21% at 0:30 typical, **curve above the typical band for the whole
+runtime** - best retention shape of the four 2025 uploads. Does not contradict Queen's
+17.3% APV: this is better than the channel norm, Queen was better than this.
+
+### Notable
+- **A CDLC video is feeding traffic into this channel** - `Rocksmith Remastered - CDLC - The Killers` is 16.7% of the suggested slice. Worth knowing given how much care went into keeping the word out of the copy
+- Search slice did contain `du hast` 14.3% - the term exists, there was just almost no traffic to be a share of
+
+### The tag box is the worst kind of wrong
+9 at 94/500, 406 characters unused: `ramstein`, `rammstain`, `ramstain` - **three misspellings and never `rammstein`.** No "du hast". No "bass". No "rocksmith bass".
+
+**Deliberate decision: kept `ramstein`, dropped the other two.** Single-M "ramstein" is a real high-volume misspelling people type; the others are invented. Keeping a real misspelling is good tagging; keeping invented ones is noise.
+
+### Delivered
+- **Title** (71/100): `Nein is the answer in Rammstein's Du Hast, and the bass is why it lands` - opener "Nein", never used in fifteen audits
+- **Desc** (1,821): Sehnsucht (1997), the vow and the "nein", the Du hast / Du hasst homophone, Oliver Riedel treating the bass as machinery
+- **Tags**: 9 at 94/500 -> **15 at 213**, correct spelling present for the first time
+- **Pin** (114): no links, no money
