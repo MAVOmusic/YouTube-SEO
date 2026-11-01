@@ -1045,3 +1045,158 @@ Then X-Kid (407), Black Parade (504), .38 Special (1,347) - 2024 shell, emoji
 titles, Kick/Twitch links, no CDLC placeholder. Those need their own diagnosis.
 
 ================================================================================
+
+================================================================================
+CO-0006 | Motionless In White - America (PLAY ALONG ON BASS)
+================================================================================
+Video ID           : 1E1V2vOxFuw
+Upload / date      : 26-10-2022  (Studio window 25-10-2022 to 01-11-2026)
+Runtime            : 3:50 | source file "Motionless In White - America_Final.mkv"
+Views / watch      : 333 | 9.0 h | +58 subscribers | unique viewers 197
+Package status     : NO bands/ package. Section C archive item [PA/LOOP 06].
+Notices badge      : Ineligible to earn (Ads off)
+Revenue            : GBP 0.00
+MR CLASS           : E4 INELIGIBLE -> logged as MR-0007.
+
+--------------------------------------------------------------------------------
+THE NUMBERS
+--------------------------------------------------------------------------------
+Impressions        : 4.3k | CTR 6.1% | 14.5% from YouTube recommending
+Funnel             : 263 engaged views from impressions, 1:31 average duration,
+                     6.72 h watch time from impressions
+Retention          : AVD 1:37 | APV 42.5% | 62% still watching at 0:30, flagged
+                     ABOVE typical
+Traffic            : YouTube search 59.8% | Playlists 17.4% | Channel pages
+                     11.4% | Suggested 6.0% | Browse 2.7% | Others 2.7% |
+                     External 0.9%
+Search terms       : "rocksmith bass motionless in white" 1.5% | "motionless in
+                     white america" 0.5% | "rocksmith bass drop d" 0.5%
+Devices            : Computer 45.0% | TV 33.2% | Mobile 16.0% | Tablet 5.8%
+Audience           : male 100% | 25-34 100% | not subscribed 62.4% |
+                     subscribed 37.7% (watch time) | UK 8.7% | no subs 100%
+Engagement         : likes 100.0% vs channel 97.4% | end screen CTR 0.0% vs
+                     channel 1.1% | 0 hype | 0 remixes
+Viewers also watch : Another Life (989), the Masterpiece Short (37), Immaculate
+                     Misconception (510), Masterpiece (790), Abigail (356)
+
+--------------------------------------------------------------------------------
+THE HEADLINE: +58 SUBSCRIBERS FROM 333 VIEWS
+--------------------------------------------------------------------------------
+That is a 29.4% conversion from 197 unique viewers - nearly one in three - and
+it is the highest of the four captures so far by a wide margin:
+  Masterpiece    +51 from 459 viewers = 11.1%
+  Another Life   +39 from 534 viewers =  7.3%
+  Abigail        +37 from 220 viewers = 16.8%
+  America        +58 from 197 viewers = 29.4%
+Conversion RISES as views FALL. The smallest, least-clicked video in the set is
+the best recruiter in the set.
+Running total across the four audited play alongs: **2,468 views, +185
+subscribers.** When MAVO asked whether to keep or remove this series, that is the
+number that answers it, and it is now measured rather than argued.
+
+WHY IT CONVERTS: playlists are 17.4% of its traffic, the highest in the series
+(8.9% -> 9.8% -> 12.6% -> 17.4%, a clean monotonic rise). People are not
+stumbling on this and moving on - they are saving it into practice lists and
+still subscribing. Subscribed viewers account for 37.7% of its watch time,
+against 11.2% on Another Life. This is a returning, practising audience.
+
+--------------------------------------------------------------------------------
+CORRECTION TO VER 3.9: THE "TV TREND" DOES NOT HOLD, AND I OVER-CLAIMED IT
+--------------------------------------------------------------------------------
+Ver 3.9 reported TV share rising 34.7 -> 41.5 -> 47.8 across three captures and
+called it "three captures, one direction". This capture breaks that chain:
+  America: Computer 45.0% | TV 33.2% | Mobile 16.0%
+Computer is now the TOP device and TV drops back to second. The claim as written
+was wrong and is corrected here rather than quietly dropped.
+
+WHAT SURVIVES OF IT: mobile is consistently the smallest real screen across all
+four captures - 34.2%, 31.0%, 16.1%, 16.0%. The robust statement is **"this
+format is watched on a screen people sit in front of, and mobile is a minority
+throughout"**, not "TV is rising". Which of TV or computer leads appears to
+depend on the song: Abigail is TV-led (47.8%), America is computer-led (45.0%),
+and the plausible read is that drop-D reference material gets pulled up on a
+desktop next to a tab or a DAW while the song plays on a TV. That is a
+hypothesis for the next captures, NOT a conclusion.
+Practical rule that survives: design the thumbnail and the first frame for a
+screen that is not held in a hand, and expect the player to be at a desk or on a
+sofa, not on a bus.
+
+SECOND CORRECTION: CTR is NOT trending down. Ver 3.9 read 9.3 -> 8.5 -> 5.2 as a
+decline. With this capture it reads 9.3 -> 8.5 -> 5.2 -> 6.1, which is noise
+around a mid-single-digit band, not a trend. The thumbnail problem is still real
+(every card in the set is near-identical and end screen CTR is 0.0% on both
+Abigail and America), but it must not be justified with a falling line that does
+not exist. The one metric that IS monotonic across all four is APV:
+56.2 -> 52.8 -> 47.4 -> 42.5. Retention share is falling steadily, and that is
+the real open question for the format.
+
+--------------------------------------------------------------------------------
+SEARCH TERMS - THE SERIES IS BUILDING ITS OWN QUERY
+--------------------------------------------------------------------------------
+"rocksmith bass motionless in white" at 1.5% is the single largest search term
+seen on any capture in this project, and it is a COMBINED query - platform plus
+artist. It is the exact string the house formula is designed to feed. Supporting
+it: "motionless in white america" 0.5% (a real song query, not a platform query)
+and "rocksmith bass drop d" 0.5%.
+Cross-feed: 10.0% of suggested traffic is the retitled Masterpiece, plus 5.0%
+each for Carry On Wayward Son, Elvis - Can't Help Falling In Love, and Slayer -
+South Of Heaven. Those three are the recommended-slot neighbours, not our own.
+
+--------------------------------------------------------------------------------
+FINAL COPY (paste-ready, ASCII only)
+--------------------------------------------------------------------------------
+TITLE (70/100):
+Drop D the whole way through Motionless In White's 'America' bass line
+
+DESCRIPTION (1228/5000):
+'America' is Motionless In White at their most direct - drop D, no clean passages to hide in, and a bass line that has to hold the whole bottom of the song together from the first bar. This upload plays it end to end with the bass part on screen, so you can follow the shape of it without hunting for a tab or guessing at what is under the guitars.
+
+The tuning is drop D and the game shows you that on screen before anything starts, then leaves the tuner running in the corner for the rest of the song. One string slips, you fix it, you carry on - no rewind.
+
+Nothing is layered over the original mix. What you hear is the game playing the part as it is, which is why the low end stays readable all the way through instead of turning to mush.
+
+Which song should be next? Requests go straight into the play along queue.
+
+🟣 Drop-D blocks run live on Twitch: https://www.twitch.tv/mavomusic
+💬 Put your requests in on Discord: https://discord.gg/ESGsGkN4j2
+
+**Genres:** Metalcore, gothic metal, alternative metal
+**Format:** Full song, on-screen bass tab, tuner left running, no overdubs
+🎸 Drop D for the entire song | 🎮 captured in Rocksmith 2014 Remastered (Steam)
+
+#DropD #MotionlessInWhite #America #BassPlayAlong #Rocksmith2014
+
+TAGS (360/500 chars, 18 tags):
+rocksmith bass motionless in white, rocksmith bass drop d, motionless in white america, america bass tab, motionless in white bass, motionless in white america bass tab, america motionless in white bass, drop d bass, bass play along, play along bass, bass tab, learn bass, metalcore bass, rocksmith 2014, rocksmith, motionless in white, bass guitar, bass cover
+
+PINNED COMMENT (124/300):
+Drop D from the first note to the last, tuner there if you need it. Which song would you want to see played through next? 👇🎸
+
+--------------------------------------------------------------------------------
+WHAT CHANGED AND WHY
+--------------------------------------------------------------------------------
+- Title: a FOURTH distinct shape ("Drop D the whole way through..."), and the
+  first draft had to be thrown away - "America by Motionless In White, ..." is
+  the same construction as ABIGAIL's title and would have become the template
+  the VER 3.5 rule bans. Caught at the gate, not in the wild.
+  It also leads with "Drop D", which is an observed search term on this exact
+  video ("rocksmith bass drop d" 0.5%) and a real property of the song.
+- Description: six bracketed blocks and the CDLC placeholder deleted. Written
+  around drop D and the untouched mix, which is what the old template actually
+  promised but buried.
+- Tags: 26 at 497/500 cut to 18 at 360, restoring 137 characters of headroom.
+  The three observed search phrases are the first three tags.
+- Pin: three links, weekly EST schedule, "we are so close to 1500" opener and the
+  stale discord.gg/Hguy3JCXn all removed. Zero URLs.
+
+--------------------------------------------------------------------------------
+SERIES POSITION
+--------------------------------------------------------------------------------
+4 of 8 done: Masterpiece, Another Life, Abigail, America.
+Remaining: Immaculate Misconception (510) on the 2022 shell.
+Then X-Kid (407), Black Parade (504), .38 Special (1,347) - 2024 shell.
+OPEN ITEM, now sharper: APV has fallen 56.2 -> 42.5 across the four. Explain it
+before blaming thumbnails, because a shrinking retained share is a content-side
+signal and the four songs differ in difficulty and length.
+
+================================================================================
