@@ -1,0 +1,168 @@
+################################################################################
+COPY CORRECTIONS REGISTER - SWEEP OF CO-0001 TO CO-0017
+################################################################################
+Built      : 01-11-2026 (Ver 4.16), at MAVO's request, before song 18
+Scope      : every surface delivered so far - title, description, CTA, pinned
+Trigger    : MAVO - "check the previous 17 songs if anything needs to be edited,
+             note out any corrections for repetitions and corrections... fixes are
+             always good." Plus the standing rules: Kick above Twitch, no templates,
+             no word-for-word repeats.
+Method     : cross-compared every delivered block against every other. Counts below
+             are measured, not estimated.
+
+SUMMARY BY SEVERITY
+    C-01  KICK MISSING FROM 14 VIDEOS .................. critical, revenue impact
+    C-02  TWITCH TEMPLATE, 9 CONSECUTIVE ............... critical, template
+    C-03  PROVENANCE SENTENCE, 5 CONSECUTIVE ........... critical, word-for-word
+    C-04  PIN TEMPLATE, 10 OF 12 ....................... high
+    C-05  FOOTER BULLET STACK, 11 VIDEOS ............... high, retired at CO-0017
+    C-06  CO-0016 TITLE OMITS THE SONG NAME ............ high, SEO loss
+    C-07  "REQUESTS AND SETLISTS" x3 IDENTICAL ......... medium
+    C-08  "ASK BELOW IF YOU WANT MORE..." x3 ............ medium
+    C-09  "BLOCKS RUN LIVE" VERB SWAP .................. medium (subset of C-02)
+    C-10  CO-0011 DOES NOT CARRY A STUDY/SLEEP PHRASE .. low, strategic
+
+################################################################################
+C-01 | KICK MISSING FROM 14 VIDEOS (CO-0003 TO CO-0016)
+################################################################################
+CURRENT - CO-0003 through CO-0011 all lead with Twitch and never mention Kick:
+    🟣 Learn-along blocks stream live on Twitch: https://www.twitch.tv/mavomusic
+CO-0012 to CO-0016 drop Twitch's prominence but still never add Kick.
+
+WHY IT MATTERS: MAVO, 01-11-2026 - "Kick is my main revenue base and where most
+people are. Twitch is just multistream tool for now." Fourteen of seventeen videos
+send viewers to the multistream mirror and never to the platform that pays.
+The old pins made it worse by telling people NOT to subscribe on Twitch.
+
+FIX: every description gets Kick FIRST, Twitch second framed as a mirror.
+Only CO-0001, CO-0002 and CO-0017 are already correct.
+
+################################################################################
+C-02 | TWITCH TEMPLATE, NINE CONSECUTIVE (CO-0003 TO CO-0011)
+################################################################################
+The same line with one adjective swapped. Nine times:
+    CO-0003  🟣 Learn-along blocks stream live on Twitch
+    CO-0004  🟣 Practice-room blocks run live on Twitch
+    CO-0005  🟣 Horror-metal blocks run live on Twitch
+    CO-0006  🟣 Drop-D blocks run live on Twitch
+    CO-0007  🟣 Fast-lane blocks run live on Twitch
+    CO-0008  🟣 Punk blocks run live on Twitch
+    CO-0009  🟣 Emo and alt-rock blocks run live on Twitch
+    CO-0010  🟣 Classic rock blocks run live on Twitch
+    CO-0011  🟣 Long-form and ambient blocks run on Twitch
+
+Same emoji, same verb ("run live" / "stream live"), same slot, one word changed.
+This is exactly the pattern MAVO warned about: a template with a noun swapped is
+more catchable than five different sentences, because the shape repeats.
+
+FIX: these lines are replaced entirely by C-01's rebuild, so the frame disappears.
+
+################################################################################
+C-03 | PROVENANCE SENTENCE, FIVE CONSECUTIVE (CO-0012 TO CO-0016)
+################################################################################
+CURRENT - the same 28 words in five consecutive descriptions:
+    "The chart was built by another player rather than by me, so if a note looks
+     wrong, that is the arrangement and not the song. Said plainly every time."
+
+The last four words literally announce it as a recurring line. That is the single
+most spam-shaped repetition in the corpus.
+
+FIX: keep the substance (provenance honesty) but never the sentence. CO-0017 already
+replaced it with:
+    "Every note here was charted and played on Rocksmith 2014 with the tab on screen
+     the whole way through, so you can follow it at your own speed rather than mine."
+CO-0012 to CO-0016 each need their own phrasing.
+
+################################################################################
+C-04 | PIN TEMPLATE, TEN OF TWELVE
+################################################################################
+    CO-0005  Which Motionless song is still missing from this series? 👇🎸
+    CO-0008  What should I play through next? 👇🎸
+    CO-0009  What should I play through next? 👇🎸   <-- IDENTICAL to CO-0008
+    CO-0010  Which song should I play through next? 👇🎸
+    CO-0011  Which piece should get the same treatment next? 👇🎸
+    CO-0012  Which 2002 record should get this treatment next? 👇🎸
+    CO-0013  Which Slayer record would you want done next? 👇🎸
+    CO-0014  Which Queen track next? 👇🎸
+    CO-0015  Which Rammstein track should follow it? 👇🎸
+    CO-0016  Which System Of A Down song should follow this one? 👇🎸
+
+Ten pins, one question, one emoji pair. CO-0008 and CO-0009 are byte-identical.
+
+FIX: CO-0017 broke the shape and is correct. The other nine need distinct asks -
+different question types, not different nouns.
+
+################################################################################
+C-05 | FOOTER BULLET STACK, ELEVEN VIDEOS (CO-0001 TO CO-0011)
+################################################################################
+CURRENT - three fixed lines, eleven uploads:
+    **Genres:** ...
+    **Format:** ...
+    🎸 ... Thunderbird ... | 🎮 ... Rocksmith 2014 Remastered (Steam)
+
+RETIRED at CO-0017 in favour of one ordinary sentence. CO-0001 to CO-0011 still
+carry the stack and need the same treatment, with different wording each time.
+
+################################################################################
+C-06 | CO-0016 TITLE OMITS THE SONG NAME - SEO LOSS
+################################################################################
+CURRENT:
+    The saddest System Of A Down song is also the simplest bassline they ever wrote
+The artist is there. The instrument is there. **"Lonely Day" is not**, in a title
+where the song name is the one thing people actually search.
+
+FIX:
+    Lonely Day is the quietest thing System Of A Down ever wrote, and the bass proves it
+
+################################################################################
+C-07 | "REQUESTS AND SETLISTS LIVE ON DISCORD" x3 IDENTICAL
+################################################################################
+    CO-0008  💬 Requests and setlists live on Discord: https://discord.gg/ESGsGkN4j2
+    CO-0009  💬 Requests and setlists live on Discord: https://discord.gg/ESGsGkN4j2
+    CO-0009  💬 Requests and setlists live on Discord: https://discord.gg/ESGsGkN4j2
+
+Three consecutive videos, byte-identical CTA line. Absorbed into C-01's rebuild.
+
+################################################################################
+C-08 | "ASK BELOW IF YOU WANT MORE X, OR ANOTHER Y DONE PROPERLY" x3
+################################################################################
+    CO-0013  Ask below if you want another Slayer track, or another record from 1990
+             done properly.
+    CO-0015  Ask below if you want more Rammstein, or another Sehnsucht track done
+             properly.
+    CO-0016  Ask below if you want more System Of A Down, or another Hypnotize track
+             done properly.
+Same frame, three times. CO-0012 and CO-0014 use close variants.
+
+FIX: each of CO-0012 to CO-0016 gets a different closing invitation, and it should
+not be an invitation at all in some of them - a statement works as well.
+
+################################################################################
+C-09 | "BLOCKS RUN LIVE" VERB SWAP
+################################################################################
+See C-02. Logged separately because the verb alternates between "run live" and
+"stream live" across the nine, which reads as an attempt to vary a template rather
+than as genuine variation.
+
+################################################################################
+C-10 | CO-0011 DOES NOT CARRY A STUDY OR SLEEP PHRASE
+################################################################################
+CURRENT:
+    Four hours of Chopin's Nocturne Op. 9 No. 2, played on bass
+Accurate and clean, but the loop's actual demand is people looking for listening
+background, not for the piece by name. The tags carry "classical music for studying"
+- the title does not.
+
+LOW PRIORITY. The title is honest and the video earns. Flagged, not recommended for
+change unless the next loop is built around the study/sleep demand from the start.
+
+################################################################################
+WHAT IS ALREADY CORRECT - DO NOT TOUCH
+################################################################################
+  - Every title names the artist and the instrument. No exceptions in seventeen.
+  - No em dashes, en dashes, curly quotes or ellipses in any delivered copy.
+  - No dead invite (Hguy3JCXn, afnuBTBxiq, mavomusic) in any final copy.
+  - No CDLC, CustomsForge, Clone Hero or Guitar Hero strings in any final copy.
+  - CO-0017 is the current standard: Kick first, fresh CTA, one-sentence footer,
+    pin shape broken. Use it as the model, not as a template.
+################################################################################
