@@ -140,27 +140,39 @@
           the tail. Second title on the channel with a negation as its engine
           (0027 was the first, and that one was withdrawn for being false)
   0044    the band single that was written by the guy on X   The Billy Talent single that was written by the guy on guitar
+          new skeleton - "the [band] single" noun-phrase subject with a
+          by-clause that inverts who normally writes a punk record
   0045    band + wrote a N rulebook + meant it               Manowar wrote a two word rulebook and meant every word
           new skeleton - number-as-adjective, double affirmation at the tail
   0046    band + wrote this + subordinate clause in past    Bullet For My Valentine wrote this while their singer could not sing
+          new skeleton - band-first with a "while" clause that turns a medical fact
+          into the hook; no date, no question, no possessive
   0047    the [timed fact] hidden in a [band] [section]    The two week death sentence hidden in a My Chemical Romance chorus
           new skeleton - band mid-sentence, fact named from the lyric rather than
           the release, no verb in the subject slot. Deliberately breaks the two
           previous band-writes openers.
   0048    [song] + spent [duration] + refusing to X           Hypnotize spent three minutes refusing to explode
+          new skeleton - song title alone as the subject, money-shot verb "spent",
+          negated infinitive at the tail. First title in the register where the
+          subject is the song doing something with time.
   0049    a [thing] became the [ordinal] [band] [format]      A thank you note to the fandom became the third (G)I-DLE single
           new skeleton - indefinite article subject, band at the tail, the ordinal
           does the search work instead of the band name
   0050    band + returned [state] + refused to [verb]          (G)I-DLE returned a member short and refused to lower the volume
           new skeleton - band-first again, but the verb frame is a return plus a
           refusal, not a writing frame. No "wrote" anywhere in the title.
-          new skeleton - song title alone as the subject, money-shot verb "spent",
-          negated infinitive at the tail. First title in the register where the
-          subject is the song doing something with time.
-          new skeleton - band-first with a "while" clause that turns a medical fact
-          into the hook; no date, no question, no possessive
-          new skeleton - "the [band] single" noun-phrase subject with a
-          by-clause that inverts who normally writes a punk record
+  0051    time preface + band + made [song] a [thing]            Two decades in, (Hed) P.E. made Watch It Burn a warning
+          new skeleton - a time phrase opens, band mid-sentence, the song arrives
+          third and the noun at the tail reclassifies it
+  0052    band + turned [song] into [noun] + never let go        (Hed) P.E. turned I Got You into a chant and never let go
+          new skeleton - the "turned X into Y" frame with a refusal to release as
+          the tail. Same artist as 0051, nothing shared but the band name.
+  0053    the [other thing] was called X for the same reason     The acoustic demo of 155 was called 145 for the same reason
+          new skeleton - a fact about a second version carries the title and the
+          song name appears only as a numeral
+  0054    person + hid [superlative thing] in [position]         Mark Hoppus hid the lightest song on the album in track two
+          new skeleton - a named individual as the subject, a concealment verb, a
+          track number at the tail instead of the song title
 
 ################################################################################
 # BANNED SHAPES - the evidence
@@ -214,6 +226,13 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.48. Rows added for CO-0051 to CO-0054 - three consecutive pairs
+              by one artist in this run (G)I-DLE, (Hed) P.E., +44, and no pair shares
+              a skeleton. Checked against the previous eight: no possessive, no "is"
+              opener, no date opener, no question (last was 0036), first words
+              distinct across all four (Two / (Hed) / The / Mark). 0053 is the first
+              title where the song is carried only as a numeral, and 0054 the first
+              where a band member carries the front instead of the band.
   2026-11-02  VER 4.47. Rows added for CO-0051 and CO-0052 - the second consecutive
               pair by one artist, and again the skeletons share nothing. Checked
               against the previous eight: no possessive, no "is" opener, no date

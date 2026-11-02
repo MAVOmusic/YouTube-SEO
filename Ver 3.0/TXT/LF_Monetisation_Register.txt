@@ -3670,3 +3670,109 @@ INTERNAL NOTE
   is the first measurable internal recommendation loop in the project and it is
   worth watching as the batch count rises.
 --------------------------------------------------------------------------------
+--- MR-0053 | CO-0053 | +44 (Plus 44) - 155 -------------------------------------
+Video ID           : yCzlg97EBxo | 3:24 | uploaded 04-09-2025 | 347 views
+                     | 2.0 watch hours | **+5 subscribers - the joint-best gain in
+                     the last twenty audits** | 343 unique
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00 - CPM dashed, RPM dashed, every revenue panel empty
+Impressions / CTR  : **3.6k impressions at 1.7%** | **51.2% from YouTube
+                     recommending - the lowest recommendation share since the
+                     ad-driven batch** | **60 engaged views from impressions - the
+                     highest absolute count in the register** | impression-AVD 0:31
+                     | **0.53 h - the highest watch time from impressions recorded**
+Watch quality      : AVD 0:21 | APV 10.4% | **18% at 0:30 flagged "below typical"**
+Likes              : **100.0%** against 97.4% channel average
+End screen CTR     : **0.0%** | hype 0/0
+Premiere           : **ran as a Premiere - peak 1, average 0.** Concurrent viewer
+                     panel present, the only one in the batch
+Traffic            : **advertising 77.0** / browse 19.3 / search 1.2 / channel pages
+                     0.6 / suggested 0.6 / other 1.4
+External (0.3%)    : **Google Search 100.0%**
+Search (1.2%)      : **"+44" 50.0%** - the band name as a search term, correct
+                     intent, and the first time an artist this obscure has been
+                     searched for by name in the register
+Content suggesting : two at 50.0% of a 0.6% slice - **"What Another Life sounds like
+                     when Motionless..." (our own CO-0002)** and a Spanish-language
+                     lyric video
+Bell notifications : **220 sent, 0.5% CTR, 1 view from notifications** - the first
+                     audit where notification traffic is visible at all
+Devices            : mobile 82.1 / computer 17.6 / TV 0.4
+Audience           : **Female 26.8 / Male 73.2** | 25-34 100.0% | India 66.3 /
+                     Indonesia 3.5 | **89.1% non-subscriber watch time - the LOWEST
+                     non-sub share in the register**, because the Premiere and the
+                     subscriber notifications landed at once | 100% no captions
+Old title          : "[guitar emoji] +44 (Plus 44) - 155 #rocksmith #bass #plus44"
+Old tags           : **14 / 160 chars. Song title ABSENT**, but this is the first box
+                     in 54 audits with genuinely useful search terms in it: +44,
+                     plus44band, markhoppus, travisbarker, plusfourtyfour,
+                     plusfourtyfourband, blink182, oldblink182 - plus seven
+                     channel-identity tags. The band name is run together two ways
+                     and both are misspelled "fourty"
+Old pin            : no pin. Four MAVO comments, all funding furniture
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Interscope. First +44 upload.
+
+*** LOWEST RECOMMENDATION SHARE, HIGHEST CONVERSION ***
+  51.2% recommended is the weakest algorithmic push of any audit in this batch - and
+  it produced 60 engaged views, 0.53 h from impressions and +5 subscribers, all
+  three at or near the top of the register. CO-0046 was recommended to 93.2% of its
+  impressions and converted 44 engaged views. The push and the performance are not
+  the same number.
+
+INTERNAL NOTE
+  This video ran as a Premiere. That explains the 220 notifications and probably the
+  subscriber spike, and it makes 0053 the only audit where the channel can see the
+  effect of its own scheduling.
+--------------------------------------------------------------------------------
+--- MR-0054 | CO-0054 | +44 (Plus 44) - Baby, Come On ---------------------------
+Video ID           : SsYvv3vM0-c | 2:37 | uploaded 04-09-2025 | 293 views
+                     | 1.9 watch hours | **+1 subscriber** | 289 unique
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00 - every revenue panel dashed
+Impressions / CTR  : **1.8k impressions at 1.2%** | **80.1% from YouTube
+                     recommending** | **21 engaged views** | impression-AVD 0:45 |
+                     0.26 h
+Watch quality      : AVD 0:22 | **APV 14.6% - the highest average percentage viewed
+                     in the register**, taking the record from CO-0048's 14.4% two
+                     audits earlier | 20% at 0:30 "typical"
+Likes              : **100.0%** against 97.4% channel average
+End screen CTR     : **0.0%** | hype 0/0 | no remixes
+Traffic            : **advertising 82.6** / browse 8.5 / suggested 6.1 / search 1.4
+                     / direct 0.7 / other 0.7
+External           : **"not enough traffic data"**
+Search (1.4%)      : **"blink 182 live" 25.0%** - wrong intent, and the first search
+                     term in the register that points at the parent band rather than
+                     the band on screen
+Content suggesting : **6.1% of all traffic, five entries and four of them internal:**
+                     our own CO-0047 title "The two week death sentence hidden in a
+                     My Ch..." at 27.8%, then our +44 Weatherman, Little Death and
+                     CO-0053 155 at 22.2% each, then Make You Smile at 5.6%
+Devices            : mobile 88.7 / computer 11.2 / TV 0.1
+Audience           : **Male 100.0 / Female 0.0** | 25-34 100.0% | India 62.1 /
+                     Indonesia 16.0 | **99.8% of watch time from non-subscribers -
+                     THE HIGHEST NON-SUBSCRIBER SHARE IN THE REGISTER** | 100% no
+                     captions
+Old title          : "[guitar emoji] +44 (Plus 44) - Baby, Come On #rocksmith #bass
+                     #plus44"
+Old tags           : **14 / 160 chars, THE IDENTICAL BOX to CO-0053** - same artist
+                     spellings, same blink182 and oldblink182 tags, song title absent
+                     from both
+Old pin            : no pin. Four MAVO comments, all funding furniture
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Interscope. Second +44 upload.
+
+*** FOUR OF FIVE SUGGESTIONS ARE THE CHANNEL RECOMMENDING ITSELF ***
+  6.1% of traffic arrived from content suggesting, and only one of the five entries
+  was an outside video. The other four are our own +44 uploads plus **our own
+  CO-0047 title, written yesterday**. Two audits in a row now show the rewritten
+  titles being served inside the channel, and this is the largest internal share so
+  far.
+
+INTERNAL NOTE
+  99.8% non-subscriber watch time and Male 100.0 / Female 0.0 - the most extreme
+  audience read in 54 audits. Compare CO-0053, the same band uploaded in the same
+  session, at 89.1% non-sub because it ran as a Premiere.
+--------------------------------------------------------------------------------
