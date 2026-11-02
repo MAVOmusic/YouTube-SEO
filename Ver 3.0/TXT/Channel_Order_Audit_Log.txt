@@ -3007,3 +3007,42 @@ FINDINGS CARRIED INTO THE CONTEXT BLOCK
      video. Impressions and search are aiming at different people.
 
 ################################################################################
+
+################################################################################
+CO-0021 | Elvis Presley - Jailhouse Rock | 2:28
+################################################################################
+
+FOLDER   : _0001 Long Form / 0021 - 0030 / 0021 - Elvis Presley - Jailhouse Rock
+           (Long Form)
+CAPTURED : 11 screenshots, all readable.
+BUCKET   : opens 0021 - 0030. Twenty-one of twenty-four long forms now audited.
+
+OLD COPY
+  Title   : broken "[]" glyph, #rocksmith #bass #elvis.
+  Desc    : the 2022 shell again - Super Thanks, Kick subscribe, dead invite
+            discord.gg/mavomusic plus "type mavomusic into the invite box", X,
+            TikTok, Rumble, Twitch, "Be part of our community (^-^)", "Much love".
+  Tags    : **7 tags at 79/500.** "elvispresley" is the only music tag. The song
+            name is not in the box. Neither is rock and roll, 1957, or Bill Black.
+            This is the same failure as CO-0019, on the single most searchable song
+            in the corpus.
+  Pin     : the "[IMPORTANT INFORMATION]" support wall.
+
+NEW COPY
+  Title   : 66 chars. Band, song, bassist, instrument.
+  Desc    : 1151 chars. April 1957 Radio Recorders, the seven weeks at number one,
+            Leiber and Stoller, Bill Black walking behind the guitar riff, and the
+            one-room bleed that is the actual sound of the record.
+  Tags    : 15 at 199/500. Adds jailhouse rock, bill black, rock and roll, 1957,
+            rockabilly, upright bass. Drops the channel-identity tags.
+  Pin     : 126 chars. Era question - what is the oldest song in your playlist.
+  GENRES  : 6 labels, rock and roll primary.
+
+FINDINGS CARRIED INTO THE CONTEXT BLOCK
+  1. Best CTR in the corpus (2.0%), highest recommendation share (72.9%), worst
+     like ratio (50.0%) and worst conversion (0.26%) all on this one video.
+  2. Third consecutive video whose top search term contains "live". Now a pattern
+     across three artists and three decades. Logged as unserved demand.
+  3. First appearance of the United States in a top-geographies panel.
+
+################################################################################
