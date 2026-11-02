@@ -7,7 +7,7 @@
 > TXT/Copy_Shape_Register.txt, rows D29 and P29. Do not reuse either shape.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (63 characters)
+## TITLE (53 characters)
 
 ```text
 Find the bass in Archangel before you watch the hands
@@ -29,13 +29,13 @@ That is what makes it worth learning. No bass moment exists to practise for. The
 Manifest followed in October 2020 and the album cut runs ten seconds longer than this.
 ```
 
-## TAGS (16 tags, 236/500 characters)
+## TAGS (16 tags, 209/500 characters)
 
 ```text
 amaranthe, archangel, amaranthe archangel, manifest, elize ryd, olof morck, johan andreassen, nils molin, melodic metal, power metal, electronic metal, swedish metal, metalcore, nuclear blast, 2020, bass cover
 ```
 
-## PINNED COMMENT (143 characters)
+## PINNED COMMENT (132 characters)
 
 ```text
 Three singers, a synth wall, and a bass playing floor for all of them. Can you actually hear it on your speakers, or does it vanish?
