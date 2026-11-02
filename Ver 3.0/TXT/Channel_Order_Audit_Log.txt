@@ -3086,3 +3086,42 @@ DISCORD BOOST DECISION (MAVO, 02-11-2026)
   runs across 22 descriptions, which covers the CTA block.
 
 ################################################################################
+
+################################################################################
+CO-0023 | Sabaton - Camouflage | 3:33
+################################################################################
+
+FOLDER   : _0001 Long Form / 0021 - 0030 / 0023 - Sabaton - Camouflage
+           (Long Form)
+CAPTURED : 11 screenshots, all readable.
+
+OLD COPY
+  Title   : broken "[]" glyph, #rocksmith #bass #sabaton.
+  Desc    : the 2022 shell.
+  Tags    : 8 tags at 84/500. "sabaton", "sabbaton" (deliberate misspelling -
+            correct instinct, same idea as ramstein/rammstain on CO-0015) and six
+            channel-identity tags. No song title, no Stan Ridgway, no power metal,
+            no year.
+  Pin     : the "[IMPORTANT INFORMATION]" support wall.
+
+NEW COPY
+  Title   : 72 chars. Band, song, and the fact it is a 1986 cover rebuilt.
+  Desc    : 1094 chars. Opens on Stan Ridgway, the Vietnam story-song, and the
+            fact Sabaton played it straight so most listeners think it is theirs.
+            Then Par Sundstrom marking time under the spoken sections.
+  Tags    : 15 at 191/500. KEEPS the "sabbaton" misspelling - it is the one thing
+            the old box got right - and adds camouflage, stan ridgway, power
+            metal, par sundstrom, 1986, 2016.
+  Pin     : 155 chars. War-story question - what song tells it better than a
+            history book. New question type.
+  GENRES  : 7 labels. Power metal primary. Flags the cover's dual filing lane -
+            it belongs in Stan Ridgway's audience too, and that audience has never
+            seen this video.
+
+NEW FILE CREATED
+  TXT/Earning_Recreate_Register.txt - MAVO asked for every earning detail to be
+  saved so the earning videos can be recreated. Two earning rows, the rights
+  test, the clone/never-clone list, the build queue by tier, and the eight
+  numbers to capture when a recreation goes live.
+
+################################################################################

@@ -1,0 +1,249 @@
+################################################################################
+# MAVOmusic (@mavomusicyt) - EARNING / RECREATE REGISTER                        #
+# ============================================================================ #
+# File    : Earning_Recreate_Register.txt                                       #
+# Created : 2026-11-02 (VER 4.23)                                               #
+# Owner   : MAVO                                                                #
+# ============================================================================ #
+#
+# WHY THIS FILE EXISTS
+#   MAVO (02-11-2026): "Make sure to save all earning information so we can
+#   recreate those videos."
+#
+#   Of twenty-three long forms audited, TWO earn money and twenty-one earn
+#   nothing at all. Those two are the only evidence in the project that the
+#   channel can be paid. This file is their complete specification, kept apart
+#   from the monetisation register so it can be read on its own when the
+#   recreate programme starts.
+#
+#   Sources of truth, in order:
+#     1. THIS FILE - the recreate spec. Read this first.
+#     2. TXT/LF_Monetisation_Register.txt - every MR entry, full audit detail.
+#     3. Each song folder's "_03 - Copy.md" - paste-ready metadata.
+#
+# STATUS AT TIME OF WRITING
+#   Long forms audited ........ 23 (CO-0001 to CO-0023)
+#   Earning ................... 2
+#   Total earned .............. GBP 0.58
+#   E1 EARNING-NO-CLAIM ....... 1  (CO-0022)
+#   E2 EARNING-REV-SHARE ...... 1  (CO-0011)
+#   E3 CLAIMED-NOT-EARNING .... 0  recorded
+#   E4 INELIGIBLE ............. 19 (and rising)
+#   E5 BLOCKED ................ 1
+#
+################################################################################
+# ROW 1 - CO-0011 - E2 - THE BIGGEST EARNER
+################################################################################
+
+Song               : Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2
+Video ID           : (see song folder)
+Format             : [4 HOUR LOOP] - runtime 4:00:33, single still frame, looped
+Uploaded           : 02-11-2022
+Status             : E2 EARNING - REVENUE SHARE ("Sharing ad earnings")
+Revenue            : GBP 0.54
+CPM / RPM          : CPM GBP 3.97 | RPM GBP 0.11
+Views              : 4,887 | 4.6k unique | +64 subscribers
+Watch time         : 1,900 hours  <-- the largest watch-time asset in the corpus
+CTR                : 2.6% | impressions 7.7k
+Retention          : AVD 23:46 | APV 9.9% | 101% at 0:30 (above typical band)
+Traffic            : SUGGESTED 60.9% | END SCREENS 31.0% | channel pages 5.6% |
+                     direct 0.8% | playlists 0.6% | YouTube search 0%
+Search terms       : "rocksmith bass" 7.1% of a 0.3% search slice
+Devices            : mobile 91.1 / computer 5.2 / tablet 3.7 / TV 0
+Audience           : India 33.1 / Indonesia 3.5 / Pakistan 2.6 / Bangladesh 2.6 /
+                     Brazil 2.1 | 25-34 50.6 / 18-24 34.4 / 35-44 15.0 |
+                     male 81.7 | 95.3% non-subscribed watch time
+Ad types           : skippable 72.5 / non-skippable 14.5 / bumper 8.9 /
+                     display 2.8 / unknown 1.4
+Engagement         : likes 97.8% | end screen CTR 0.0% | 0 hype | 0 remixes
+Metadata quality   : POOR and it earns anyway - Twitch link, dead Discord invite,
+                     a Wikipedia sentence about the Nocturnes, no bespoke copy,
+                     no genres, emoji-led title.
+
+WHY IT EARNS
+  The composition is public domain. Chopin died in 1849. No label claims the
+  audio bed used here, so Content ID has nothing to match and YouTube pays.
+  This is the first capture in the project where the claimant is ABSENT rather
+  than generous.
+
+WHY IT IS BIG
+  60.9% of traffic is SUGGESTED and 31.0% is END SCREENS. It is not found by
+  search and never was. It is served to people because a four-hour study loop
+  is a thing YouTube has a demand model for, and the runtime gives it 1,900
+  hours of watch time to be ranked on.
+
+RECREATE INSTRUCTION
+  Clone the RIGHTS PROFILE and the FORMAT. Do not clone the metadata - the
+  metadata is a 2022 mess and the 2022 shell is now banned outright.
+  Build: public-domain classical, four hours, single still frame, no talking,
+  no intro. Metadata from a Ver 4.17+ "_03 - Copy.md".
+
+################################################################################
+# ROW 2 - CO-0022 - E1 - THE CLEANEST RIGHTS PROFILE IN THE CORPUS
+################################################################################
+
+Song               : Avril Lavigne - Together
+Video ID           : fOagxJT5aLA
+Format             : straight bass cover, 2:57, 2022 template shell (old copy)
+Uploaded           : 31 Aug 2025
+Status             : E1 EARNING - NO CLAIM. **The Notices panel is completely
+                     empty** - no claim, no block, nothing. Only video in
+                     twenty-three with a clean notices box.
+Revenue            : GBP 0.04
+CPM / RPM          : CPM GBP 0.37 | RPM GBP 0.14
+Source of revenue  : watch page ads only
+Ad types           : display 69.2 / skippable 28.2 / bumper 2.6
+Product clicks     : 2 - Kick trucker cap 1, hoodie 1. First product clicks ever.
+Views              : 318 | 307 unique | +2 subscribers
+Watch time         : 2.4 hours
+CTR                : 0.9% | impressions 2.6k
+Retention          : AVD 0:27 | APV 15.4% (corpus record) |
+                     26% at 0:30 (corpus record - the ONLY retention curve in
+                     twenty-three that sits above the typical band throughout)
+Traffic            : advertising 89.9 / search 3.8 / browse 3.1 /
+                     suggested 2.2 (corpus record) / direct 0.6 / other 0.3
+Search terms       : "avril lavigne" 8.3% of a 3.8% search slice
+Audience           : India 73.3 / Indonesia 6.0 (corpus low) | male 63.4 |
+                     98.6% non-subscribed
+Likes              : 100.0%
+Metadata quality   : 7 tags at 72/500, only "avril" as a music tag, no song
+                     title, no album, no year. POOR - and it earns anyway.
+
+WHY IT EARNS
+  "Together" is a bonus track. Written with Chantal Kreviazuk during the Under
+  My Skin sessions in 2004, filed as a deluxe extra, never a single, never a
+  video. It has no commercial value to defend, so nobody registered a Content
+  ID match against it. Same channel, same shell, same campaign as nineteen
+  claimed videos that earn nothing.
+
+RECREATE INSTRUCTION
+  Clone the RIGHTS PROFILE and the retention shape. Do not clone the shell.
+  Build: a non-single, non-compilation, deep-cut or bonus track from a
+  catalogue whose owner does not police it. Metadata from a Ver 4.17+ copy file.
+
+################################################################################
+# THE RULE THIS FILE EXISTS TO PROTECT
+################################################################################
+
+    THE ONLY LONG FORMS THAT PAY ARE THE ONES NOBODY BOTHERED TO CLAIM.
+
+  Twenty-one audited videos at GBP 0.00 include the channel's biggest hits:
+  System Of A Down at 382,306 views earned GBP 0.00. Slayer, RATM, MCR,
+  Rammstein, Babymetal, Queen, Green Day - all claimed, all zero.
+
+  Meanwhile a Chopin loop from 2022 has made 54 pence and a 2004 Avril Lavigne
+  bonus track made 4 pence.
+
+  View count and earnings are not just uncorrelated here. They point in
+  opposite directions, because the songs people search for are exactly the
+  songs whose rights holders are watching.
+
+################################################################################
+# THE RIGHTS TEST - RUN THIS BEFORE RECORDING ANYTHING NEW
+################################################################################
+
+  The claim does not follow the song. It follows the RECORDING and the
+  COMPOSITION as registered. So the question is never "is this song famous",
+  it is "has anyone registered this specific recording".
+
+  Score a candidate against these. Two or more YES is a live candidate.
+
+    [ ] 1. Is the composition public domain? (composer dead 70+ years, or
+           traditional/folk). Chopin cleared on this alone.
+    [ ] 2. Was the track ever released as a single?  NO is good.
+    [ ] 3. Was it a bonus track, a b-side, a deluxe extra, a regional-only
+           release, or a soundtrack throwaway?  YES is good. This is the
+           CO-0022 profile.
+    [ ] 4. Does it appear on a greatest-hits or compilation record?  NO is good.
+           Compilations mean active catalogue management.
+    [ ] 5. Is the rights holder a major or a large independent with a
+           catalogue team?  NO is good.
+    [ ] 6. Does the song have a large existing cover/remix ecosystem on
+           YouTube?  NO is good. Heavy cover traffic means active enforcement.
+    [ ] 7. Can you find it in YouTube Content ID's own claimed-works data, or
+           does every existing upload of it show ads and no "Ineligible"
+           badge?  YES is good.
+
+  KNOWN COUNTER-EXAMPLE, IMPORTANT
+  CO-0023 Sabaton - Camouflage is a cover of an OBSCURE 1986 Stan Ridgway
+  one-hit-wonder, and it is E4 INELIGIBLE. "The original is obscure" is NOT a
+  shortcut. Nuclear Blast registered the Sabaton recording because Sabaton is a
+  large act. Obscurity of the SOURCE means nothing if the PERFORMER is big.
+  The test that matters is on the recording you are covering, not the song.
+
+################################################################################
+# WHAT TO CLONE, WHAT NEVER TO CLONE
+################################################################################
+
+  CLONE
+    - The repertoire decision. This is 100% of the effect.
+    - CO-0011: four-hour runtime, one still frame, no speech, no intro.
+    - CO-0022: short tight cover, full song, no padding.
+    - Both: honest two-paragraph description, three CTA lines, one unique
+      closing sentence (the Ver 4.17+ format).
+
+  NEVER CLONE
+    - The 2022 shell: dead invite, link wall, "type mavomusic into the invite
+      box", "Be part of our community (^-^)", "Much love".
+    - The channel-identity tag box. 6 of 7 tags being "kickpartner" is why
+      CO-0021 had 1.1% search and CO-0020 had 10.5%.
+    - The "[IMPORTANT INFORMATION]" pin wall. No question in it.
+    - The broken "[]" and "[B[]" glyphs in front of every old title.
+
+################################################################################
+# BUILD QUEUE - SHORTLIST BY RIGHTS PROFILE, NOT BY VIEW COUNT
+################################################################################
+
+  TIER A - public domain compositions. Zero claim risk, provable in advance.
+    Chopin, Bach, Beethoven, Debussy, Satie, traditional folk and hymnody.
+    Format: four-hour loop (CO-0011 shape) AND short cover (CO-0022 shape).
+    This is the only tier where eligibility can be guaranteed before recording.
+
+  TIER B - deep cuts and bonus tracks from claimed artists.
+    Same artist, same catalogue, wrong track to police. CO-0022 is the proof.
+    Look for: deluxe/bonus/b-side, never a single, absent from greatest hits.
+
+  TIER C - regional-only or soundtrack-only releases.
+    Unverified as a tier. No corpus evidence yet. Test with one upload.
+
+  DO NOT BUILD - anything whose full catalogue is actively enforced:
+    RATM/Epic, SOAD, Slayer, MCR, Queen, Sabaton/Nuclear Blast, Babymetal.
+    Every one of these is already in the register at E4 and will stay there.
+    Under the taxonomy rule, a remake of the same audio re-claims.
+
+################################################################################
+# WHEN A RECREATION GOES LIVE - RECORD THESE, EXACTLY
+################################################################################
+
+  The point of recreating is to see whether the rights profile travels. So each
+  recreation needs the same eight numbers captured as the originals, at 28 days
+  and again at 90:
+
+    1. Notices badge  (empty / E1 / E2 / E3 / E4 / E5)
+    2. Estimated revenue, CPM, RPM
+    3. Ad types, if any
+    4. Views / unique / subscribers gained
+    5. CTR + impressions
+    6. AVD + APV + % still present at 0:30
+    7. Traffic sources, and search terms if the slice is above 1%
+    8. Country split and device split
+
+  Log as MR-NNNN in LF_Monetisation_Register.txt, and add a one-line row to
+  the earn table at the top of THIS file.
+
+################################################################################
+# OPEN QUESTIONS
+################################################################################
+  Q1. Does the CO-0022 profile scale, or was one unregistered bonus track luck?
+      Answer by building three Tier B recreations and comparing. If three of
+      three come back E4, the profile was luck. If two or more come back E1/E2,
+      the strategy is real.
+  Q2. Does the four-hour loop still work in 2026, or was CO-0011 a 2022
+      algorithm accident? Answer by rebuilding one public-domain loop now.
+  Q3. Long forms are 89-96% paid advertising. Does a claimed video ever earn
+      organic money, or is the paid traffic itself suppressing the outcome?
+      No evidence either way. Noted, not answered.
+
+################################################################################
+# END OF FILE
+################################################################################

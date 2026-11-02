@@ -1777,3 +1777,51 @@ Four pence is four pence. This is one data point, on 318 views, at an RPM of GBP
 0.14. It proves the mechanism, not the business. It does prove that the 21 zeros
 were a rights problem and not a Channel problem.
 ################################################################################
+
+--- MR-0023 | CO-0023 | Sabaton - Camouflage -----------------------------------
+Video ID           : kIEXxXlM0Ig | 3:33 | 399 views | 2.4 watch hours | +3 subs
+                     | 399 unique viewers (unique equals views)
+Premiere           : peak 1 concurrent, average 0
+Notices badge      : **E4 INELIGIBLE only** - no partial block
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : 2.5k / 1.1% | 32.2% from YouTube recommending | 28 engaged
+                     views | 0:45 impression-AVD | 0.36 h from impressions
+Watch quality      : AVD 0:21 | APV 9.4% | 19% at 0:30 - typical band
+Likes              : **100.0%** - third perfect ratio in the corpus
+End screen CTR     : 0.0% | bell 203 pushes, 0% CTR, 0 views
+Devices            : mobile 92.2 / computer 6.4 / TV 1.4 / no tablet share
+Audience           : India 74.4 (only country shown) | **13.2% subscribed watch
+                     time - the highest subscriber share in the corpus**, nearly
+                     double the previous best of 8.5% | demographics below
+                     sampling threshold | 100% no subtitles
+Traffic            : YouTube advertising 90.7 / browse 6.8 / YouTube search 1.8 /
+                     direct 0.3 / other YouTube features 0.3 / other 0.3
+External (0.3%)    : **Creator Studio 100.0** - first capture where the external
+                     source is his own Creator Studio, i.e. MAVO clicking his own
+                     video while working on it.
+Search terms (1.8%): **camouflage sabaton 14.3** - note the word order. The
+                     searcher types the song before the artist. The old title
+                     "Sabaton - Camouflage" serves it anyway; the new title also
+                     contains both words.
+Content suggesting : not enough traffic
+Viewers also watch : not enough eligible audience data
+
+CONVERSION: +3 from 399 = 0.75% - mid-pack for the paid cohort.
+
+*** THE IMPORTANT NEGATIVE RESULT ***
+Camouflage is a cover of a 1986 Stan Ridgway one-hit-wonder - an obscure song by
+a one-hit artist - and it is still E4 INELIGIBLE with GBP 0.00.
+
+That kills a shortcut before anyone acts on it. "The original is obscure, so
+nobody will claim the cover" is FALSE. Nuclear Blast registered the SABATON
+recording, because Sabaton is a large act with a catalogue team. The obscurity
+of the source composition is irrelevant once the performer is big enough to be
+policed.
+
+The rule refines to: the claim follows the RECORDING YOU ARE PLAYING, not the
+song's fame and not the original's obscurity. CO-0022 works not because Avril
+Lavigne's song was obscure but because that specific bonus-track recording appears
+never to have been registered.
+
+CARRIED INTO Earning_Recreate_Register.txt AS THE COUNTER-EXAMPLE.
+--------------------------------------------------------------------------------
