@@ -3137,3 +3137,121 @@ INTERNAL NOTE
   gothic rock, CO-0042 is the Rick Rubin hard rock record. This is the first time
   one band has produced two genuinely different genres on the channel.
 --------------------------------------------------------------------------------
+
+--- MR-0043 | CO-0043 | Muse - Supermassive Black Hole ------------------------
+Video ID           : bYHn2x8Pyng | 3:30 | uploaded 03-09-2025 | 347 views
+                     | 2.5 watch hours | **ZERO subscribers** | 346 unique viewers
+Notices badge      : **"Sharing ad earnings / Shopping disabled"** - E2 REVENUE
+                     SHARE. Second E2 in the corpus and the first Warner Bros one.
+Revenue            : **GBP 0.05 - THE SIXTH EARNER AND THE THIRD LARGEST PAYMENT**
+How the money came : watch page ads 0.05 of 0.05 | **CPM GBP 0.54** |
+                     **RPM GBP 0.14 - the highest on the channel** | ad split:
+                     display 62.7 / skippable video 19.9 / non-skippable 9.3 /
+                     bumper 8.1 | 347 engaged views
+Impressions / CTR  : 3.5k / 1.2% | **only 47.1% from YouTube recommending** |
+                     **42 engaged views from impressions - the highest of the
+                     batch** | impression-AVD 0:36 | 0.43 h
+Watch quality      : AVD 0:25 | APV 12.3% | 25% at 0:30 "typical"
+Likes              : **100.0%** - seventeenth perfect ratio
+End screen CTR     : **5.3% - the highest on the channel by a factor of five**
+                     (channel average 1.1%) | hype 260 points and 1 Hype - the only
+                     hyped video in the batch | no Shorts remixes
+Devices            : mobile 86.6 / computer 13.4
+Audience           : **Female 50.0 / Male 50.0** - the closest split on the
+                     channel | 25-34 100% | India 68.3 / Indonesia 8.4 | 96.7% of
+                     watch time from non-subscribers | 100% no captions
+Traffic            : advertising 85.3 / **browse 12.4 - the highest browse share
+                     of the batch** / search 0.9 / related Shorts 0.9 / other
+                     features 0.3 / other 0.3
+Search (0.9%)      : **"supermassive black hole bass cover" 33.3%** - the exact
+                     intent, tiny volume
+Content suggesting : not enough traffic data
+Old title          : Muse - Supermassive Black Hole + Rocksmith/hashtag tail
+Old tags           : **9 / 76 chars. Song title ABSENT. Band present as "myuz" and
+                     "muze" - two invented spellings and no correct one.** Sixth
+                     channel-identity box in a row and the worst artist spelling
+                     yet: neither tag is a real word anyone would type.
+Old pin            : the 4,000-character funding wall
+
+CLASSIFICATION     : **E2 EARNING (REVENUE SHARE).** Helium 3 / Warner Bros.
+                     First Muse upload on the channel.
+
+*** THE SIXTH EARNER, AND IT CHANGES THE RULE ***
+
+  The corpus had a comfortable story: major-label metal and rock records are
+  claimed and blocked, so they earn nothing. Muse is a Warner major-label
+  alternative rock record and it pays GBP 0.05. Meanwhile Atlantic blocked
+  CO-0035 Billy Talent and CO-0041 Snoop/Wiz, and both are Warner family too.
+
+  **The label does not decide. The deal does.** Warner Bros shares on this
+  recording; Atlantic blocks on those two. Nothing visible in Studio before the
+  audit predicts which. That is why the three-upload empirical test exists.
+
+*** AND THE ENGAGEMENT PANEL IS DIFFERENT IN KIND ***
+  End screen CTR **5.3%** against a 1.1% channel average - five times better than
+  anything else audited. 260 Hype points and the only Hype on any video this week.
+  42 engaged views from 3,500 impressions, the best conversion from impressions in
+  the batch. This is the first video that looks like it has a real, small, active
+  audience rather than bought traffic.
+
+*** THE NEGATIVE, STATED PLAINLY ***
+  85.3% of traffic is still advertising and 47.1% recommended is the second lowest
+  of the batch. The money is real and it is small: 0.14 RPM on GBP 0.54 CPM means
+  the channel earns pennies per thousand views at this scale.
+
+INTERNAL NOTE
+  Muse is the new Tier A candidate for the replication register: same rights
+  profile as CO-0029 Amaranthe and CO-0030 Pendulum - a major label that happens
+  to share. Test one more Muse track before assuming it generalises; Warner Bros
+  shares per recording, not per artist.
+--------------------------------------------------------------------------------
+
+--- MR-0044 | CO-0044 | Billy Talent - Viking Death March ----------------------
+Video ID           : QwBBlhizRU | 4:04 | uploaded 03-09-2025 | 315 views
+                     | 2.2 watch hours | **+2 subscribers** | 312 unique viewers
+Notices badge      : **E4 INELIGIBLE** - single line, no partial block this time
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : 2.2k / **1.6% - the best CTR of the batch** | 88.0% from
+                     YouTube recommending | **36 engaged views** | impression-AVD
+                     0:44 | 0.44 h
+Watch quality      : AVD 0:24 | APV 10.2% | 26% at 0:30 "typical"
+Likes              : **100.0%** - eighteenth perfect ratio
+End screen CTR     : 0.0% | hype 0/0 | no Shorts remixes
+Devices            : mobile 87.1 / computer 12.9
+Audience           : **no demographic data** | India 65.4 / Indonesia 5.1 |
+                     94.7% of watch time from non-subscribers | 100% no captions
+Traffic            : advertising 83.2 / **browse 14.3 - the highest browse share in
+                     the corpus** / related Shorts 1.3 / channel pages 0.6 /
+                     suggested 0.3 / other 0.3
+External (0.3%)    : **Google Search 100.0%**
+Search             : not enough traffic data to report
+Content suggesting : **"Sabaton recorded this in two languages and the..." -
+                     our own CO-0039, under its house title, 100.0%**
+Old title          : Billy Talent - Viking Death March + Rocksmith/hashtag tail
+Old tags           : **8 / 90 chars. Song title ABSENT. Band only as "billytalent"
+                     twice, run together** - the SAME defect as CO-0035, from the
+                     same band, two years apart
+Old pin            : the 4,000-character funding wall
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN.** Warner Music Canada. Third Billy Talent
+                     upload, over the two-upload cap.
+
+*** THE BEST-CLICKING VIDEO OF THE BATCH EARNED NOTHING ***
+  CTR 1.6%, 88.0% recommended, 36 engaged views, +2 subs - and the rival Warner
+  release in the same batch paid GBP 0.05 on a worse CTR. Same label family,
+  opposite outcome. That is the whole thesis of this register in one pair.
+
+*** SECOND HOUSE TITLE IN A SUGGESTION PANEL ***
+  CO-0039's rewritten title turns up as 100% of this video's content-suggesting
+  traffic. Two of the last two batches have now shown rewritten titles being read
+  by the recommendation system. The 4.29 title reset is working.
+
+*** BROWSE IS CLIMBING AND NOBODY KNOWS WHY ***
+  CO-0043 12.4% and CO-0044 14.3% - the two highest browse shares in the corpus,
+  in the same batch, on videos with no shared artist, genre or era. Paid traffic
+  is still 83-85%. Worth watching; do not build a theory on two data points.
+
+INTERNAL NOTE
+  Billy Talent now has two long forms, both E4, both GBP 0.00, and the tag box was
+  botched the same way both times. Cap holds. Third upload must not happen.
+--------------------------------------------------------------------------------

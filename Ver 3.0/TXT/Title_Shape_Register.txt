@@ -135,6 +135,13 @@
   0042    producer + heard X and made Y                        Rick Rubin heard a goth song and made it a rock single
           new skeleton - a person who is not in the band carries the front of the
           title, two-clause contrast, no band name until the description
+  0043    nobody in band + does normal thing                   Nobody in Muse plays a normal bassline on Supermassive Black Hole
+          new skeleton - universal negative subject, band mid-sentence, song at
+          the tail. Second title on the channel with a negation as its engine
+          (0027 was the first, and that one was withdrawn for being false)
+  0044    the band single that was written by the guy on X   The Billy Talent single that was written by the guy on guitar
+          new skeleton - "the [band] single" noun-phrase subject with a
+          by-clause that inverts who normally writes a punk record
 
 ################################################################################
 # BANNED SHAPES - the evidence
@@ -188,6 +195,10 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.42. Rows added for CO-0043 and CO-0044. Checked against the
+              previous eight: no possessive opener, no "is", no date opener, no
+              question (last question was 0036), first words all distinct
+              (Nobody / The in a new noun-phrase frame).
   2026-11-02  VER 4.41. Rows added for CO-0041 and CO-0042. CO-0042 is the first
               title in the register that does not contain the band name at all -
               Rubin is the hook and the search terms carry The Cult instead. Checked

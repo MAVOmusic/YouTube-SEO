@@ -399,9 +399,18 @@ RECREATE INSTRUCTION
   MR-0026 CO-0026  Alien Fucker - Arabic UFO Party   E6      GBP 0.001
   MR-0029 CO-0029  Amaranthe - Archangel              E1      GBP 0.06
   MR-0030 CO-0030  Pendulum - Tarantula               E2      GBP 0.06
-                                                   TOTAL    GBP 0.701
+  MR-0043 CO-0043  Muse - Supermassive Black Hole      E2      GBP 0.05
+                                                   TOTAL    GBP 0.751
 
-  Everything else audited is GBP 0.00. Twenty-five long forms, zero pence.
+  Everything else audited is GBP 0.00. Thirty-nine long forms, zero pence.
+
+  *** SIXTH EARNER - 02-11-2026, CO-0043 MUSE - SUPERMASSIVE BLACK HOLE ***
+  E2 revenue share, GBP 0.05, "Sharing ad earnings / Shopping disabled". The
+  second E2 in the corpus after CO-0030 and the FIRST major-label rock record to
+  pay anything. CPM GBP 0.54 and **RPM GBP 0.14, the highest on the channel**.
+  Why it paid when its neighbours did not: Warner Bros claims it and shares.
+  Atlantic, same corporate family, claims and blocks - CO-0041 and CO-0035 both
+  carry partial blocks from that label. THE LABEL DOES NOT DECIDE. THE DEAL DOES.
 
   NOTE: E1 and E2 paid IDENTICALLY at this volume - GBP 0.06 each on CO-0029 and
   CO-0030 from 315 and 348 views. Do not chase E1 specifically. Chase anything
@@ -426,6 +435,7 @@ RECREATE INSTRUCTION
   MR-0036 CO-0036  Sabaton - Man of War (5th Sabaton, 5th E4)          E4
   MR-0037 CO-0037  All Time Low - Weightless (Hopeless, 2nd ATL)       E4
   MR-0038 CO-0038  The Cult - She Sells Sanctuary (Beggars/Warner)     E4
+  MR-0043 CO-0043  Muse - Supermassive Black Hole (WARNER, E2 - EARNS)  E2
   MR-0039 CO-0039  Sabaton - En Livstid I Krig (6th Sabaton, Swedish)  E4
   MR-0040 CO-0040  Rammstein - Amerika (2nd Rammstein, Universal)      E4
   MR-0041 CO-0041  Snoop/Wiz/Bruno - Young Wild & Free (Atlantic)      E4+block
@@ -512,6 +522,12 @@ RECREATE INSTRUCTION
               Another Life. Conversion fell 23.68% -> 3.94% -> 0.56% across the
               three takes of one song. Strongest duplicate evidence in the corpus;
               the one-song-one-upload rule now has a conversion curve.
+  2026-11-02  VER 4.43. SIXTH EARNER ADDED. CO-0043 Muse - Supermassive Black
+              Hole, E2 revenue share, GBP 0.05. Total GBP 0.701 -> GBP 0.751.
+              First major-label alternative rock record to earn, first Warner
+              Bros revenue share, highest RPM on the channel (GBP 0.14). Also
+              added: CO-0044 Billy Talent - Viking Death March, E4, GBP 0.00 -
+              third Billy Talent upload, over the two-upload cap.
   2026-11-02  VER 4.41. Two failed candidates added: CO-0041 (Atlantic, E4 +
               partial block, best conversion of its batch) and CO-0042 (The Cult
               second attempt, 4.6k impressions at 0.6% CTR - the corpus CTR floor -

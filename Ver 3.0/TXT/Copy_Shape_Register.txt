@@ -146,6 +146,8 @@
   0040    writing history, dated, with the studio         P-diagnostic-fork
   0041    the origin story, third person                  P-absurd-contrast
   0042    the same song in three versions                 P-craft-fork
+  0043    instrument-first, what nobody else does         P-binary-verdict
+  0044    the producer was a band member                  P-philosophical-fork
 
 ################################################################################
 # GENRE BLOCK - SPLIT INTO TWO ELEMENTS (VER 4.38, MAVO 02-11-2026)
@@ -196,6 +198,10 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.42. Rows added for CO-0043 and CO-0044. D20 instrument-first
+              reused after 0039, so it is no longer fresh until 0047; D09 writing
+              history reused after 0040. Allowed under the eight-video spacing rule.
+              No date-first opener, no nomination pin.
   2026-11-02  VER 4.41. Rows added for CO-0041 and CO-0042. D15 narrative
               scenario and D03 comparison to another version, both first use.
               No date-first opener in either, no nomination pin in either.

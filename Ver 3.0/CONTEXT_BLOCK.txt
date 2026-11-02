@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.42 ACTIVE - 2026-11-02]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.43 ACTIVE - 2026-11-02]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -1664,3 +1664,64 @@ web UI. The tree is now three levels: 100-bucket, ten-bucket, song folder.
   Copy files: 42, all still found by the glob.
 
 **Next:** CO-0043 + CO-0044, pasted into `0001 - 0100/0041 - 0050/`.
+
+################################################################################
+VER 4.43 STATUS ENTRY | 02-11-2026 | CO-0043 + CO-0044 - THE SIXTH EARNER
+################################################################################
+
+*** MUSE - SUPERMASSIVE BLACK HOLE EARNS GBP 0.05. SIXTH EARNER IN 44 AUDITS. ***
+  Badge **"Sharing ad earnings / Shopping disabled"** - an E2 revenue share, the
+  second in the corpus after CO-0030 Pendulum and the **first major-label
+  alternative rock record to pay anything**.
+  CPM **GBP 0.54**, RPM **GBP 0.14 - the highest on the channel**.
+  **TOTAL NOW GBP 0.751.**
+
+*** AND IT KILLS A RULE THE REGISTER HAS BEEN LEANING ON ***
+
+  The comfortable story was "major-label metal and rock is claimed and blocked, so
+  it earns nothing". Muse is Warner Bros and it shares. Atlantic is Warner family
+  and it blocks - CO-0035 Billy Talent and CO-0041 Snoop/Wiz both carry partial
+  blocks from that label. **The label does not decide. The deal does.** Nothing in
+  Studio before an audit predicts which.
+
+*** THE PAIR THAT PROVES IT, SAME BATCH ***
+
+     CO-0043 Muse          CTR 1.2%   47.1% recommended   **GBP 0.05**
+     CO-0044 Billy Talent  CTR 1.6%   88.0% recommended    GBP 0.00
+
+  The worse-clicking video on worse distribution earned money. Reach has never
+  predicted revenue on this channel and this is the sharpest demonstration yet.
+
+*** CO-0043 IS ALSO THE FIRST VIDEO THAT LOOKS ALIVE ***
+  **End screen CTR 5.3% against a 1.1% channel average** - five times anything else
+  audited. **260 Hype points and the only Hype in the batch.** 42 engaged views from
+  impressions, the best of the batch. Female 50.0 / Male 50.0, the most even split
+  on the channel. 85.3% of traffic is still advertising, so the audience is small
+  and bought, but this one has real activity on it.
+
+*** SECOND HOUSE TITLE IN A SUGGESTION PANEL, TWO BATCHES RUNNING ***
+  CO-0044's content-suggesting is **our own CO-0039 at 100.0%**, under the title
+  "Sabaton recorded this in two languages and the...". The 4.29 title reset is
+  demonstrably legible to the recommendation system now.
+
+*** BROWSE IS CLIMBING FOR NO STATED REASON ***
+  CO-0043 12.4% and CO-0044 14.3% - the two highest browse shares in the corpus,
+  same batch, no shared artist, genre or era. Two points is not a trend. Watching.
+
+*** C-11 TAG DEFECT, SEVENTH AND EIGHTH IN A ROW, AND THE WORST ONE YET ***
+  CO-0043: 9 tags / 76 chars, **song title absent, band present as "myuz" and
+  "muze" - two invented spellings and no correct one.**
+  CO-0044: 8 tags / 90 chars, song absent, **band as "billytalent" twice, run
+  together - the identical defect as CO-0035, two years apart.**
+
+**New shapes:** CO-0043 title = universal negative + band + song at the tail; desc
+D20 instrument-first (reused from 0039, logged); pin genius-or-cheating binary
+verdict. CO-0044 title = "The [band] single that was written by the guy on guitar";
+desc D09 writing history (reused from 0040, logged); pin philosophical fork.
+
+**Sweep:** 44 files, zero collisions at 9/8/7/6 and zero at 5 touching either new
+file. Five rewording passes were needed - the CTA block collided four times, and
+one collision had to be fixed in CO-0042 rather than in the new file, because the
+5-gram spanned a URL. The URL-adjacency law has not relaxed.
+
+**Next:** CO-0045 + CO-0046.

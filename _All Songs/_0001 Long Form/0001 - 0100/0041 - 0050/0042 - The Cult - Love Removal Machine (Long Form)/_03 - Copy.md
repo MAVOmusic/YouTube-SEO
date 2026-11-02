@@ -12,7 +12,7 @@
 Rick Rubin heard a goth song and made it a rock single
 ```
 
-## DESCRIPTION (1420 characters)
+## DESCRIPTION (1425 characters)
 
 ```text
 This song exists in three versions and the middle one is the reason it matters. The first was a radio session. The second was recorded for Peace, the album the band scrapped, and it sounded like the band that made Sanctuary - swirling, dark, patient. Then Rick Rubin arrived, the album was re-cut as Electric, and the same song came back as four minutes of straight hard rock with almost nothing left of the original.
@@ -21,7 +21,7 @@ That is why it is worth playing it exactly as the 1987 single does. The riff is 
 
 Released 16 February 1987 on Beggars Banquet, produced by Rubin, written by Ian Astbury and Billy Duffy. It charted at 18 in the UK and 15 on the US rock chart, and Guitar Hero World Tour put it back in front of a new generation.
 
-🟢 Hard rock and late 80s heaviness live on Kick: https://kick.com/mavomusic
+🟢 Hard rock and late 80s heaviness, streaming weekly: https://kick.com/mavomusic
 🟣 Twitch carries an identical feed, no extra commentary: https://www.twitch.tv/mavomusic
 💬 Have you heard the scrapped Peace version, and is the re-record actually better? Weigh in on Discord, a boost is a good way to back us: https://discord.gg/ESGsGkN4j2
 
