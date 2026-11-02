@@ -177,6 +177,31 @@
           frame, so it does not echo 0053 despite both being lore titles.
           new skeleton - a named individual as the subject, a concealment verb, a
           track number at the tail instead of the song title
+  0056    [song] + passive rebuild + comparative + band         Little Death was rebuilt
+          more times than any other +44 song
+          new skeleton - song as the patient of the verb rather than the doer, a
+          comparison in the middle instead of a fact, band possessive at the tail.
+          First title in the register built on a comparison of effort
+  0057    [song] + required + [outsider] + infinitive             Make You Smile needed
+          somebody outside +44 to answer
+          new skeleton - song as subject with a verb of requirement, the band named as
+          the group somebody had to come from, and an infinitive at the tail. No "wrote",
+          no "built", no "gave" anywhere in it
+  0058    imperative follow + possessive band + song + year       Follow Sabaton's Lion
+          From The North back to 1632
+          new skeleton - an imperative verb of movement (the only other imperative in
+          the register is 0007's "Keep up with"), the year as a destination rather than
+          a date stamp, and a possessive that is mid-sentence, not opening
+  0059    [song] + gives + negative object + refusal                Weatherman gives you
+          nothing to hum and does not care
+          new skeleton - song as subject handing over an absence, then a flat refusal in
+          the second clause. "Gives" here is a refusal-verb; CO-0057's "needed" is the
+          opposite direction and the two do not share a skeleton
+  0060    band + had + [song] + participle + adverbial             t.A.T.u. had All The
+          Things She Said working in Russian first
+          new skeleton - band first with a verb of prior possession, the song as its
+          object, a participle describing a working version and the language as an
+          adverb before a "first" that carries the whole chronology
 
 ################################################################################
 # BANNED SHAPES - the evidence
@@ -230,6 +255,15 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.50. Rows added for CO-0056 to CO-0060 - five in one batch, the
+              largest single addition to this file. Checked against the previous eight:
+              no possessive opener, no "is" opener, no date opener, no question (last
+              question remains 0036). Two titles in the batch take the song as subject
+              (0056, 0057) but with opposite verb directions - passive rebuild against
+              active requirement - and 0057's verb was changed from "gave" to "needed"
+              precisely because 0059 had claimed "gives". 0058 is the second imperative
+              in 60 titles. 0060 is the first title in the register to put a language in
+              an adverb slot. No row shares a skeleton with any of the previous 55.
   2026-11-02  VER 4.49. Row added for CO-0055. Third consecutive +44 title and it
               shares nothing with 0053 or 0054 - 0053 names a fact about a demo, 0054
               gives the front to a person, 0055 gives it to the song and a duration.

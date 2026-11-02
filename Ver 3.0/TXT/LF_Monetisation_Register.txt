@@ -3843,3 +3843,270 @@ INTERNAL NOTE
   collected the highest impression-AVD on the channel at 1:08. Long songs convert
   the few who click. They do not get clicked.
 --------------------------------------------------------------------------------
+--- MR-0056 | CO-0056 | +44 (Plus 44) - Little Death ---------------------------------
+Video ID           : hjHaATsTXFM | 4:00 | uploaded 04-09-2025 | 341 views | 2.4 watch
+                     hours | +1 subscriber | 334 unique
+                     | ID verified by crop - the first reading (rjHAt3TXFM) was wrong in
+                     three characters
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00 - CPM dashed, RPM dashed, every revenue panel empty
+Impressions / CTR  : 4.1k impressions at **1.7%** | **49.8% from YouTube recommending -
+                     the WEAKEST recommendation share in the batch** (funnel panel:
+                     4.4k impressions, 24 days of data) | **70 engaged views from
+                     impressions** | impression-AVD 0:30 | **0.6 h from impressions -
+                     the HIGHEST IN THE REGISTER**, ahead of CO-0053's 0.53 h
+Watch quality      : AVD 0:25 | APV 10.6% | 22% at 0:30 "typical"
+Likes              : **100.0%** against 97.4% channel average
+End screen CTR     : **0.0%** | hype 0/0 | no remixes
+Traffic            : advertising 73.0 / browse 19.9 / search 2.4 / other 2.4 /
+                     suggested 1.2 / external 1.2
+External (1.2%)    : **Google Search 25.0%**
+Search (2.4%)      : "rocksmith" 12.5% / "rocksmith plus" 12.5%
+Content suggesting : 1.2% share, five entries at 25.0% each - Just the Two of Us, The
+                     Perfect Girl (Motionwave remix), Hey Soul Sister (Train acoustic),
+                     **our own CO-0057 Make You Smile**, and one more unlabelled
+Playlists          : "not enough data"
+Bell notifications : **222 sent, 0.9% CTR, 2 views** - the second ~220 send in the
+                     register after CO-0053, so the Premiere surge is not the explanation
+Devices            : mobile 83.0 / computer 15.6 / TV 1.5
+Audience           : **age and gender: "not enough demographic data"** | India 61.6 /
+                     Indonesia 9.1 | 89.3% of watch time from non-subscribers, 10.8% from
+                     subscribers | 100% no captions
+Old title          : "[guitar emoji] +44 (Plus 44) - Little Death #rocksmith #bass #plus44"
+Old tags           : **14 / 160 chars - the IDENTICAL box to CO-0053, CO-0054 and
+                     CO-0055.** Song title absent from four consecutive +44 uploads
+Old desc           : "Little Death played on Rocksmith 2014 Remastered game... during a
+                     Live Stream on Kick" + the full 2022/24 funding wall, including the
+                     dead discord.gg/mavomusic invite, Ko-fi "95% goes to me", Kick
+                     Partner block, 3AM EST / 8AM BST schedule, X, TikTok, Rumble,
+                     Twitch, and the emoticon sign-off
+Old pin            : no pin. Four canned MAVO comments (Super Thanks, schedule, Kick
+                     support, subscribe/algorithm)
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Interscope. Fourth +44 upload.
+
+*** THE CONVERSION INVERSION ***
+  The weakest recommendation push in this batch (49.8%) produced the best conversion in
+  the register: 70 engaged views and 0.6 hours out of impressions, on a video whose
+  thumbnail only earned 1.7%. Arrival quality was better than arrival volume. That is
+  the opposite of CO-0055, which was recommendation-fed and lost most of them in 30
+  seconds.
+
+INTERNAL NOTE
+  The watch-time-from-impressions figure is the single most useful number in the panel
+  and it is not on the Overview tab. It lives one level down inside the funnel graphic.
+--------------------------------------------------------------------------------
+--- MR-0057 | CO-0057 | +44 (Plus 44) - Make You Smile -------------------------------
+Video ID           : uFPJTL3PKVY | 3:21 | uploaded 04-09-2025 | 339 views | 2.1 watch
+                     hours | **+2 subscribers** | 330 unique
+                     | ID verified by crop
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00 - every revenue panel empty
+Impressions / CTR  : 1.8k impressions at **0.6% - the LOWEST CTR in the batch** (funnel
+                     panel: 1.9k, 76.1% from YouTube recommending) | 11 engaged views
+                     from impressions | impression-AVD 1:00 | 0.19 h
+Watch quality      : AVD 0:22 | APV 11.4% | 20% at 0:30 "typical"
+Likes              : **100.0%** against 97.4% channel average
+End screen CTR     : **0.0%** | hype 0/0
+Traffic            : **advertising 92.6 - THE HIGHEST AD SHARE IN THE REGISTER** /
+                     browse 3.5 / search 2.1 / suggested 0.9 / other 0.6 / direct 0.3
+External           : "not enough traffic data"
+Search (2.1%)      : **"plus 44" 14.3%** - the artist handle, not the song
+Content suggesting : 0.9% share, three entries at 33.3% each - **our own CO-0059
+                     Weatherman**, Syncatto Nightfall (guitar playthrough), and **our own
+                     CO-0016 title** "Lonely Day proves System Of A Down can whis..."
+Playlists          : "not enough data"
+Bell notifications : click rate dashed, **0 views**
+Devices            : mobile **96.6** / computer 3.3 / TV 0.1 - the highest mobile share
+                     in the batch
+Audience           : **Female 34.4 / Male 65.6** | 25-34 100.0% | India 77.3 /
+                     Indonesia 10.6 | **98.8% of watch time from non-subscribers, 1.2%
+                     from subscribers - the lowest subscriber share in the register** |
+                     100% no captions
+Old title          : "[guitar emoji] +44 (Plus 44) - Make You Smile #rocksmith #bass
+                     #plus44"
+Old tags           : **14 / 160 chars - the identical box again.** Fifth +44 upload with
+                     no song title in it
+Old desc           : same funding wall as CO-0056, dead Discord invite included
+Old pin            : no pin. Four canned MAVO comments
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Interscope. Fifth +44 upload.
+
+*** PAID TRAFFIC DID THE WHOLE JOB ***
+  92.6% of 339 views came through advertising, the highest ad share of the 57 audits. The
+  video still held 337 engaged views and a 100% like rate. Paid traffic is MAVO's own, so
+  this is a purchase, not an algorithm outcome - and it is the cleanest available read on
+  whether a rewrite lands with a cold audience.
+
+INTERNAL NOTE
+  96.6% mobile with 1.2% subscriber watch time. A video watched almost entirely by
+  strangers on phones has to win on the first two seconds, not on the description. The
+  description is for the search index and the small number of people who open it.
+--------------------------------------------------------------------------------
+--- MR-0058 | CO-0058 | Sabaton - The Lion From The North ----------------------------
+Video ID           : TgE6Jx1Ndyw | 4:43 | uploaded 04-09-2025 | 328 views | 3.0 watch
+                     hours | subscribers **dashed, no figure** | 322 unique
+                     | ID verified by crop
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00 - every revenue panel empty
+Impressions / CTR  : 2.2k impressions at **1.7%** (funnel panel: 2.3k, **70.6% from
+                     YouTube recommending**) | 37 engaged views from impressions |
+                     impression-AVD 0:56 | 0.58 h
+Watch quality      : AVD 0:32 | **APV 11.6%** | 25% at 0:30 "typical"
+Likes              : **100.0%** against 97.4% channel average
+End screen CTR     : **0.0%** | **hype 250 points, 1 hype** - the only hype activity in
+                     the batch
+Traffic            : advertising 82.9 / browse 11.0 / suggested 1.8 / other 1.8 /
+                     channel pages 1.2 / search 1.2
+External           : "not enough traffic data"
+Search (1.2%)      : **"rocksmith" 25.0%** - format, not song
+Content suggesting : 1.8% share, five entries - **our own CO-0024 title** "The Hammer Has
+                     Fallen survived a 2001 demo..." at 33.3%, our own CO-0032 title "Every
+                     System Of A Down song is a wall except R..." 16.7%, our own CO-0016
+                     title "Lonely Day proves..." 16.7%, another channel's Sabaton Ghost
+                     Division 16.7%, Dragonforce Disciples Of Babylon demo 16.7%
+Playlists          : 0.3% share, "not enough traffic data" underneath
+Bell notifications : click rate dashed, **0 views**
+Devices            : mobile 86.4 / computer 13.6
+Audience           : **Female 43.3 / Male 56.7 - THE HIGHEST FEMALE SHARE IN 57 AUDITS**
+                     (Bullet For My Valentine held 40.0) | 25-34 100.0% | India 66.5 /
+                     Indonesia 8.2 | 95.5% of watch time from non-subscribers, 4.5% from
+                     subscribers | 100% no captions
+Old title          : "[guitar emoji] Sabaton - The Lion From The North #rocksmith #bass
+                     #sabaton"
+Old tags           : **8 tags / 84 chars** - mavomusic, mavomusicyt, **sabaton twice**,
+                     kick, kickstreaming, kickcommunity, kickpartner. Duplicate tag,
+                     song title absent, no album, no member, no genre
+Old desc           : the same funding wall, dead Discord invite included
+Old pin            : no pin. Four canned MAVO comments
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-c CLAIM-DRIVEN, CLEAN, CLOSED CATALOGUE.** Nuclear Blast.
+  **Sabaton is now 7 for 7 on E4** - the largest zero-revenue catalogue on the channel.
+
+*** THE FEMALE SHARE RECORD ***
+  43.3% female on a song about a 17th century Swedish king. The previous high was Bullet
+  For My Valentine at 40.0%. This is not a general channel trend - the +44 run in the same
+  batch sits between 26% and 34% - so it is either a Sabaton audience property or a
+  panel artefact on a 322-view sample. One more Sabaton upload decides it.
+
+INTERNAL NOTE
+  Three of the five suggested videos are our own titles. The title register is not just
+  preventing repetition; it is generating recommendation surface.
+--------------------------------------------------------------------------------
+--- MR-0059 | CO-0059 | +44 (Plus 44) - Weatherman -----------------------------------
+Video ID           : 09giRsDd9xE | 4:32 | uploaded 04-09-2025 | 306 views | 2.2 watch
+                     hours | +1 subscriber | 298 unique
+                     | ID verified by crop - the first reading (09gIRsD49xE) was wrong in
+                     three characters
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00 - every revenue panel empty
+Impressions / CTR  : 2.2k impressions at **1.4%** (funnel panel: 2.3k, **80.4% from
+                     YouTube recommending**) | 31 engaged views from impressions |
+                     impression-AVD 0:45 | 0.39 h
+Watch quality      : AVD 0:25 | **APV 9.4% - the lowest in the batch** | 19% at 0:30
+                     "typical"
+Likes              : **75.0% - the lowest of the +44 run** against 97.4% channel average
+                     (channel floor remains CO-0052 at 66.7%)
+End screen CTR     : **0.0%** | hype 0/0
+Traffic            : advertising 82.0 / browse 6.2 / other 3.6 / **end screens 2.9** /
+                     search 2.6 / suggested 2.6
+                     | "end screens" as a traffic source is rare in this register and is
+                     the first time the new end screen layout has sent anybody
+External (0.3%)    : **Google Search 100.0%**
+Search (2.6%)      : "rocksmith" 12.5% / "rocksmith bass" 12.5% / **"weatherman live"
+                     12.5%** - real song intent, the term the old tag box could not serve
+Content suggesting : 2.6% share, five entries - **our own CO-0055 REWRITE TITLE**
+                     "Chapter XIII closes +44's album with five minute..." at 37.5%, then
+                     four at 12.5% each: a half-time metal drum loop, Coheed & Cambria A
+                     Favor House Atlantic, Billy Talent Diamond On A Landmine live, Fear
+                     Factory Zero Signal live
+Playlists          : "not enough traffic data"
+Bell notifications : click rate dashed, **0 views**
+Devices            : mobile 81.1 / **computer 18.5** / TV 0.4 - second highest desktop
+                     share in the batch
+Audience           : **Female 30.3 / Male 69.7** | 25-34 100.0% | India 64.1 /
+                     Indonesia 13.1 | 91.4% of watch time from non-subscribers, 8.6% from
+                     subscribers | 100% no captions
+Old title          : "[guitar emoji] +44 (Plus 44) - Weatherman #rocksmith #bass #plus44"
+Old tags           : **14 / 160 chars - the identical box for the sixth time.** Song
+                     title absent
+Old desc           : the same funding wall, dead Discord invite included
+Old pin            : no pin. Four canned MAVO comments
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Interscope. Sixth +44 upload.
+
+*** THE REWRITE TITLE WAS ALREADY SUGGESTING THIS VIDEO ***
+  The CO-0055 title written in this programme, "Chapter XIII closes +44's album with five
+  minutes of revenge", appears in this panel's suggested list at 37.5%. That is the first
+  hard evidence that a rewritten title is doing recommendation work rather than only
+  preventing repetition, and it arrived on an older upload referencing a newer one.
+
+INTERNAL NOTE
+  Lowest likes (75.0%) and lowest APV (9.4%) in the batch, on the darkest song with the
+  least melodic hook. Both figures are small samples. Neither is a reason to bury the
+  track; the "weatherman live" search term says somebody is looking for exactly this.
+--------------------------------------------------------------------------------
+--- MR-0060 | CO-0060 | T.A.T.U - All The Things She Said ----------------------------
+Video ID           : 02vW9F6cxSE | 3:32 | **uploaded 06-09-2025** (a day later than the
+                     rest of the run, so every panel window starts 6 September) |
+                     **394 views, "14 more than usual" - the highest in the batch** |
+                     2.4 watch hours | **+2 subscribers** | 390 unique
+                     | ID verified by crop
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00 - every revenue panel empty
+Impressions / CTR  : **5.3k impressions at 1.2%** - twice the impression base of anything
+                     else in the batch (funnel panel: 5.3k, **87.8% from YouTube
+                     recommending**) | **62 engaged views from impressions** |
+                     impression-AVD 0:40 | **0.69 h from impressions - the highest in the
+                     register**, ahead of CO-0056's 0.6 h
+Watch quality      : AVD 0:21 | APV 10.3% | 21% at 0:30 "typical"
+Likes              : **100.0%** against 97.4% channel average
+End screen CTR     : **0.0%** | hype 0/0
+Traffic            : advertising 76.4 / browse 10.4 / **search 5.6 - the highest search
+                     share in the batch** / suggested 5.3 / other 1.3 / external 1.0
+External (1.0%)    : **Google Search 100.0%**
+Search (5.6%)      : **"all the things she said" 4.6%** / "rocksmith bass" 4.6% /
+                     "t.a.t.u." 4.6% - the only video in the batch where the song title
+                     outranks the format word, and only the second artist-name query in
+                     the register after CO-0053's "+44"
+Content suggesting : 5.3% share, five entries at 4.8% each - Nita Strauss Victorious ft
+                     Dorothy, a nu metal type beat, a Carry On Wayward Son cover, Numb
+                     (Live) by Linkin Park, and a Katy Perry E.T. rock cover. **None are
+                     our own** - the first batch entry whose suggestion list is entirely
+                     external
+Playlists          : "not enough traffic data"
+Bell notifications : click rate dashed, **0 views**
+Devices            : mobile 73.1 / **computer 24.6 - the second highest desktop share in
+                     the register**, behind only CO-0055's 29.2 | tablet 2.2 / TV 0.1 -
+                     the only tablet share in the batch
+Audience           : **Female 0.0 / Male 100.0 - THE ONLY VIDEO IN 57 AUDITS WITH NO
+                     FEMALE SHARE AT ALL** (previous batch low was CO-0059 at
+                     30.3) | 25-34 100.0% | India 62.7 / Indonesia 6.8 | **97.3% of watch
+                     time from non-subscribers** | 100% no captions
+Old title          : "[guitar emoji] T.A.T.U - All The Things She Said #rocksmith #bass
+                     #tatu"
+Old tags           : **8 tags / 84 chars** - mavomusic, mavomusicyt, kickpartner,
+                     kickstreaming, kick, kickcommunity, tatuband, t.a.t.u. Song title
+                     absent, band name misspelt against the official stylisation, no
+                     album, no producer, no era
+Old desc           : the same funding wall, dead Discord invite included
+Old pin            : no pin. Four canned MAVO comments
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-c CLAIM-DRIVEN, CLEAN.** Interscope with Universal Music Russia.
+
+*** TWO RECORDS AND A CORPUS EXTREME ON ARRIVAL ***
+  Highest views in the batch (394), highest search share (5.6%), highest watch time from
+  impressions in the register (0.69 h), and the only 0% female audience recorded. A 2002
+  pop song with a mainstream search identity out-pulled five rock uploads with better
+  recommendation support, on double the impression base.
+
+INTERNAL NOTE
+  The gender figure is the one number here that should not be trusted on a 390-view
+  sample with a declared-age bucket of 100% at 25-34. Log it, watch the next pop-era
+  upload, and do not build a decision on it.
+--------------------------------------------------------------------------------

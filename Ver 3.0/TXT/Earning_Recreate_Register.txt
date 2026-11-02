@@ -586,6 +586,22 @@ RECREATE INSTRUCTION
               Another Life. Conversion fell 23.68% -> 3.94% -> 0.56% across the
               three takes of one song. Strongest duplicate evidence in the corpus;
               the one-song-one-upload rule now has a conversion curve.
+  2026-11-02  VER 4.50. FIVE failed candidates added in one batch, and every one of
+              them is the same story: CO-0056 (+44 - Little Death, Interscope, clean
+              E4, the highest watch time from impressions in the register), CO-0057
+              (+44 - Make You Smile, Interscope, clean E4, 92.6% paid traffic and the
+              lowest subscriber watch share on record), CO-0058 (Sabaton - The Lion
+              From The North, Nuclear Blast, clean E4, highest female audience share
+              recorded - SABATON now 7 for 7), CO-0059 (+44 - Weatherman, Interscope,
+              clean E4) and CO-0060 (T.A.T.U - All The Things She Said, Interscope
+              with Universal Music Russia, clean E4, the best search share and the best
+              organic pull in the batch). Total unchanged at GBP 0.751 from six earners
+              in 60 audits.
+              THE PATTERN WORTH KEEPING: +44 is now SIX uploads, six claims, GBP 0.00,
+              and not one of them shows a partial block or a single line of revenue.
+              Interscope claims everything and pays nothing. Three of the six best
+              distribution results in the batch came from this catalogue. Reach and
+              eligibility remain unrelated.
   2026-11-02  VER 4.49. One failed candidate added: CO-0055 (+44 - Chapter XIII,
               Interscope, clean E4, third +44 upload, the new end screen CTR record
               at 5.6% and the best-intent search term in the register). Total

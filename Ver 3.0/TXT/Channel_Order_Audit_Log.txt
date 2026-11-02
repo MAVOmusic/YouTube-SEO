@@ -5251,3 +5251,287 @@ THE REWRITE
   Both of the channel's best end screen rates are five minute songs with unresolved
   outros, which is the first plausible mechanism anyone has found for that panel.
 ################################################################################
+################################################################################
+CO-0056 | +44 (Plus 44) - Little Death | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+PROFILE
+  Video ID hjHaATsTXFM | 4:00 | uploaded 04-09-2025 | 341 views ("about the same as
+  usual") | 2.4 watch hours | +1 subscriber | 334 unique viewers.
+  Notices badge: **E4 INELIGIBLE**, single line, no partial block. Estimated revenue
+  dashed. Interscope.
+
+REACH AND CONVERSION
+  Thumbnail impressions 4.1k at **1.7%**. The funnel panel reports 4.4k impressions over
+  24 days of data and **49.8% from YouTube recommending** - the weakest recommendation
+  share in the batch, against CO-0058's 70.6% and CO-0060's 87.8%. Engaged views from
+  impressions **70**, impression-AVD 0:30, **0.6 watch hours from impressions - the
+  highest figure in the register**, ahead of CO-0053's 0.53 h.
+
+  AVD 0:25, **APV 10.6%**, 22% still watching at 0:30 and flagged "typical". Likes
+  **100.0%**. End screen **0.0%**. Hype 0 points / 0 hypes. No remixes.
+  Retention chart is the player only; no overlay or panel conflict on this video, so
+  unlike CO-0055 there is no stale capture to reconcile.
+
+  Traffic **advertising 73.0** / browse 19.9 / search 2.4 / other 2.4 / suggested 1.2 /
+  external 1.2. External 1.2% is Google Search 25.0%. Search 2.4% carries
+  **"rocksmith" 12.5%** and **"rocksmith plus" 12.5%** - format words, not the song.
+
+  Content suggesting, 1.2%, sends five entries at 25.0% each: Just the Two of Us, The
+  Perfect Girl, Hey Soul Sister acoustic, **our own CO-0057 Make You Smile**, and one
+  unlabelled. Playlists "not enough data". Bell notifications **222 sent at 0.9% CTR
+  and 2 views** - the second ~220 send after CO-0053, so the Premiere is not the cause.
+
+  Devices mobile 83.0 / computer 15.6 / TV 1.5. **Age and gender returns "not enough
+  demographic data"** - the only panel in this batch where the demographic block is
+  empty. India 61.6 / Indonesia 9.1. 89.3% non-subscriber / 10.8% subscriber watch
+  time. 100% no captions.
+
+THE OLD COPY (all four surfaces)
+  Title   : bracket emoji, band, song, hashtag tail of #rocksmith #bass #plus44.
+  Desc    : "played on Rocksmith 2014 Remastered game... during a Live Stream on Kick"
+            plus the full 2022/24 funding wall - Super Thanks, Ko-fi at "95% goes to me",
+            Kick Partner, kick.com, 3AM EST / 8AM BST schedule, **the dead
+            discord.gg/mavomusic invite**, X, TikTok, Rumble, Twitch, emoticon sign-off.
+  Tags    : **14 at 160/500, the identical box to CO-0053, CO-0054 and CO-0055.** Four
+            consecutive +44 uploads, same fourteen tags, song absent from all four.
+  Comments: no pin, four canned MAVO comments, no viewer comments.
+
+THE REWRITE
+  Title   : 59 chars. "[Song] + passive rebuild + comparative + band". New skeleton -
+            the song is the thing being worked on rather than the thing doing.
+  Desc    : 1584 chars. Opens on the making of the track, not its release (D09 variant,
+            last used at 0053), then the arrangement argument, then the patience
+            instruction.
+  Tags    : 16 at 214/500. Band in two spellings, song, album, both members, producer,
+            both guitarists, three genre lanes, year, label, both formats.
+  Pin     : 100 chars, binary verdict on restraint. P-binary-verdict.
+  GENRES  : split block. CORRECT: Alternative rock, Emo pop, Pop punk.
+
+*** WEAKEST PUSH, BEST CONVERSION ***
+  49.8% recommendation on 4.4k impressions produced 70 engaged viewers and the highest
+  watch time from impressions in the register. CO-0055 was recommendation-fed and lost
+  them inside 30 seconds. Volume of impressions and quality of arrival are now two
+  clearly separate measurements, and this video wins the second one.
+################################################################################
+
+################################################################################
+CO-0057 | +44 (Plus 44) - Make You Smile | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+PROFILE
+  Video ID uFPJTL3PKVY | 3:21 | uploaded 04-09-2025 | 339 views | 2.1 watch hours |
+  **+2 subscribers** | 330 unique viewers.
+  Notices badge: **E4 INELIGIBLE**, single line. Revenue dashed. Interscope.
+
+REACH AND CONVERSION
+  Thumbnail impressions 1.8k at **0.6% - the lowest CTR in the batch**. Funnel panel
+  reports 1.9k impressions and **76.1% from YouTube recommending**, 11 engaged views,
+  impression-AVD 1:00, 0.19 watch hours.
+
+  AVD 0:22, APV 11.4%, 20% at 0:30 "typical". Likes 100.0%. End screen 0.0%. Hype 0/0.
+
+  Traffic **advertising 92.6 - the highest ad share in 57 audits** / browse 3.5 / search
+  2.1 / suggested 0.9 / other 0.6 / direct 0.3. External: "not enough traffic data".
+  Search 2.1% carries **"plus 44" 14.3%** - the artist handle, never the song.
+
+  Content suggesting 0.9%: three entries at 33.3% each - **our own CO-0059 Weatherman**,
+  Syncatto Nightfall, and **our own CO-0016 title**. Bell notifications 0 views, CTR
+  dashed. Playlists "not enough data".
+
+  Devices mobile **96.6** / computer 3.3 / TV 0.1. **Female 34.4 / Male 65.6**, 25-34
+  100%. India 77.3 / Indonesia 10.6. **98.8% non-subscriber / 1.2% subscriber watch
+  time - the lowest subscriber share in the register.** 100% no captions.
+
+THE OLD COPY (all four surfaces)
+  Title   : bracket emoji, band, song, hashtag tail.
+  Desc    : the same funding wall, dead Discord invite included.
+  Tags    : 14 at 160/500 - identical box, sixth time on this catalogue.
+  Comments: no pin, four canned MAVO comments, no viewer comments.
+
+THE REWRITE
+  Title   : 52 chars. "[Song] + required + [outsider] + infinitive". New skeleton - a
+            verb of requirement rather than a verb of making.
+  Desc    : 1611 chars. Opens on a review of the album and grants it (D21 reviewer
+            disagreement, first use in 60 audits), then the band's original plan, then
+            the pocket instruction.
+  Tags    : 16 at 193/500. Band in two spellings, song, the featured singer, album, both
+            members, producer, three lanes, year, label, duet, both formats.
+  Pin     : 133 chars, conditional on a second voice. P-conditional.
+  GENRES  : split block. CORRECT: Pop punk, Pop rock, Alternative rock.
+
+*** PAID TRAFFIC CARRIED IT ***
+  92.6% of views arrived through advertising that MAVO paid for. The video still held 337
+  engaged views and a 100% like rate, which makes it the cleanest read available on how a
+  rewrite performs with a genuinely cold audience.
+################################################################################
+
+################################################################################
+CO-0058 | Sabaton - The Lion From The North | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+PROFILE
+  Video ID TgE6Jx1Ndyw | 4:43 | uploaded 04-09-2025 | 328 views | 3.0 watch hours |
+  subscribers **dashed, no figure** | 322 unique viewers.
+  Notices badge: **E4 INELIGIBLE**, single line. Revenue dashed. Nuclear Blast.
+  **This closes SABATON at 7 uploads, 7 E4s, GBP 0.00.**
+
+REACH AND CONVERSION
+  Thumbnail impressions 2.2k at **1.7%**. Funnel panel 2.3k at **70.6% from YouTube
+  recommending**, 37 engaged views, impression-AVD 0:56, 0.58 watch hours.
+
+  AVD 0:32, **APV 11.6%**, 25% at 0:30 "typical". Likes 100.0%. End screen 0.0%.
+  **Hype 250 points and 1 hype** - the only hype activity in the batch.
+
+  Traffic advertising 82.9 / browse 11.0 / suggested 1.8 / other 1.8 / channel pages 1.2
+  / search 1.2. External: not enough data. Search 1.2% is **"rocksmith" 25.0%**.
+
+  Content suggesting 1.8%, five entries, **three of them our own titles**: CO-0024's
+  "The Hammer Has Fallen survived a 2001 demo..." at 33.3%, CO-0032's "Every System Of A
+  Down song is a wall except R..." and CO-0016's "Lonely Day proves..." at 16.7% each,
+  plus another channel's Ghost Division and a Dragonforce demo. Playlists 0.3% but "not
+  enough traffic data". Bell notifications 0 views.
+
+  Devices mobile 86.4 / computer 13.6. **Female 43.3 / Male 56.7 - the highest female
+  share in 57 audits**, beating Bullet For My Valentine's 40.0%. 25-34 100%. India 66.5
+  / Indonesia 8.2. 95.5% non-subscriber / 4.5% subscriber. 100% no captions.
+
+THE OLD COPY (all four surfaces)
+  Title   : bracket emoji, band, song, hashtag tail of #rocksmith #bass #sabaton.
+  Desc    : the same funding wall, dead Discord invite included.
+  Tags    : **8 at 84/500** - mavomusic, mavomusicyt, **sabaton twice**, kick,
+            kickstreaming, kickcommunity, kickpartner. A duplicate tag, no song, no
+            album, no member, no genre.
+  Comments: no pin, four canned MAVO comments, no viewer comments.
+
+THE REWRITE
+  Title   : 49 chars. "Imperative follow + possessive band + song + year". Second
+            imperative in 60 titles, and the year is a destination rather than a stamp.
+  Desc    : 1599 chars. Opens on an instruction to listen (D15, unused since 0029), then
+            the historical subject, then the stamina instruction.
+  Tags    : 16 at 238/500. Band, song, album, the Swedish title, the king, two lanes, the
+            singer, the producer, the label, the year, three descriptive lanes, both
+            formats.
+  Pin     : 127 chars, inference question on how the song gets used. P-inference-question.
+  GENRES  : split block. CORRECT: Power metal, Heavy metal.
+
+*** 7 FOR 7 ***
+  Seven Sabaton uploads across four eras - demo, album cut, cover, commission - and every
+  one returns the same single-line E4. Nuclear Blast claims the catalogue and pays nothing
+  on any of it. No Sabaton song is worth testing for revenue again.
+################################################################################
+
+################################################################################
+CO-0059 | +44 (Plus 44) - Weatherman | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+PROFILE
+  Video ID 09giRsDd9xE | 4:32 | uploaded 04-09-2025 | 306 views | 2.2 watch hours | +1
+  subscriber | 298 unique viewers.
+  Notices badge: **E4 INELIGIBLE**, single line. Revenue dashed. Interscope. Sixth +44
+  upload.
+
+REACH AND CONVERSION
+  Thumbnail impressions 2.2k at **1.4%**. Funnel panel 2.3k at **80.4% from YouTube
+  recommending**, 31 engaged views, impression-AVD 0:45, 0.39 watch hours.
+
+  AVD 0:25, **APV 9.4% - the lowest in the batch**, 19% at 0:30 "typical". Likes
+  **75.0%, the lowest of the +44 run** against a 97.4% channel average (the channel floor
+  is still CO-0052 at 66.7%). End screen 0.0%. Hype 0/0.
+
+  Traffic advertising 82.0 / browse 6.2 / other 3.6 / **end screens 2.9** / search 2.6 /
+  suggested 2.6. "End screens" as a traffic source is rare in this register and this is
+  the first audit where the new layout sent anybody at all. External 0.3% is Google
+  Search 100%. Search 2.6% carries rocksmith 12.5%, rocksmith bass 12.5% and
+  **"weatherman live" 12.5%** - real song intent.
+
+  Content suggesting 2.6%, five entries: **our own CO-0055 REWRITE TITLE** "Chapter XIII
+  closes +44's album with five minute..." at 37.5%, then a half-time drum loop, Coheed &
+  Cambria A Favor House Atlantic, Billy Talent Diamond On A Landmine live and Fear
+  Factory Zero Signal live at 12.5% each. Bell notifications 0 views. Playlists "not
+  enough traffic data".
+
+  Devices mobile 81.1 / **computer 18.5** / TV 0.4. Female 30.3 / Male 69.7, 25-34
+  100%. India 64.1 / Indonesia 13.1. 91.4% non-subscriber / 8.6% subscriber. 100% no
+  captions.
+
+THE OLD COPY (all four surfaces)
+  Title   : bracket emoji, band, song, hashtag tail.
+  Desc    : the same funding wall, dead Discord invite included.
+  Tags    : 14 at 160/500 - identical box, song absent.
+  Comments: no pin, four canned MAVO comments, no viewer comments.
+
+THE REWRITE
+  Title   : 53 chars. "[Song] + gives + negative object + refusal". New skeleton - the
+            song hands you an absence and then declines to care.
+  Desc    : 1511 chars. Opens on runtime arithmetic (D19, unused since 0031), then the
+            writing circumstances, then the tone instruction.
+  Tags    : 16 at 207/500. Band in two spellings, song, album, both members, producer,
+            two lanes, year, label, both formats plus a descriptor.
+  Pin     : 118 chars, binary value fork. P-binary-verdict.
+  GENRES  : split block. CORRECT: Alternative rock, Emo pop.
+
+*** THE REWRITE IS NOW RECOMMENDING THE CATALOGUE ***
+  CO-0055's new title, written in this programme, appears at 37.5% of this panel's
+  suggested traffic. That is the first direct evidence that a rewritten title does
+  recommendation work and not only anti-repetition work.
+################################################################################
+
+################################################################################
+CO-0060 | T.A.T.U - All The Things She Said | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+PROFILE
+  Video ID 02vW9F6cxSE | 3:32 | **uploaded 06-09-2025** - one day later than the rest of
+  the run, which shifts every panel window to start 6 September | **394 views, "14 more
+  than usual" - the highest in the batch** | 2.4 watch hours | **+2 subscribers** | 390
+  unique viewers.
+  Notices badge: **E4 INELIGIBLE**, single line. Revenue dashed. Interscope with
+  Universal Music Russia.
+
+REACH AND CONVERSION
+  **5.3k thumbnail impressions at 1.2%** - twice the impression base of anything else in
+  the batch. Funnel panel 5.3k at **87.8% from YouTube recommending**, **62 engaged views
+  from impressions**, impression-AVD 0:40, **0.69 watch hours from impressions - the
+  highest in the register**, ahead of CO-0056's 0.6 h.
+
+  AVD 0:21, APV 10.3%, 21% at 0:30 "typical". Likes 100.0%. End screen 0.0%. Hype 0/0.
+
+  Traffic advertising 76.4 / browse 10.4 / **search 5.6 - the highest search share in the
+  batch** / suggested 5.3 / other 1.3 / external 1.0. External 1.0% is Google Search
+  100%. Search 5.6% carries **"all the things she said" 4.6%**, "rocksmith bass" 4.6% and
+  **"t.a.t.u." 4.6%** - the only batch video where the song title outranks the format
+  word, and the second artist-name query in the register after CO-0053's "+44".
+
+  Content suggesting 5.3%, five entries at 4.8% each - Nita Strauss Victorious, a nu
+  metal type beat, a Carry On Wayward Son cover, Numb live by Linkin Park and a Katy
+  Perry E.T. rock cover. **None are our own** - the only batch panel whose suggestion
+  list is entirely external. Bell notifications 0 views.
+
+  Devices mobile 73.1 / **computer 24.6** / tablet 2.2 / TV 0.1 - the only tablet share
+  in the batch and the second-highest desktop share in the register. **Female 0.0 / Male
+  100.0 - the only video in 57 audits with no female share at all.** 25-34 100%. India
+  62.7 / Indonesia 6.8. **97.3% non-subscriber** / 2.7% subscriber. 100% no captions.
+
+THE OLD COPY (all four surfaces)
+  Title   : bracket emoji, "T.A.T.U", song, hashtag tail of #rocksmith #bass #tatu.
+  Desc    : the same funding wall, dead Discord invite included.
+  Tags    : **8 at 84/500** - mavomusic, mavomusicyt, kickpartner, kickstreaming, kick,
+            kickcommunity, tatuband, t.a.t.u. Song absent, stylisation inconsistent
+            with the title, no album, no producer, no era.
+  Comments: no pin, four canned MAVO comments, no viewer comments.
+
+THE REWRITE
+  Title   : 61 chars. "Band + had + song + participle + adverbial". First title in the
+            register to put a language in an adverb slot.
+  Desc    : 1502 chars. Opens on date plus album arrival (D02, the only date-first
+            opener in this batch, inside the one-in-four cap), then the Russian
+            original, then the machine instruction for the bass.
+  Tags    : 16 at 220/500. Band in two spellings plus the official stylisation, song,
+            album, the Russian title, the producer, both singers, three lanes, year,
+            label, both formats.
+  Pin     : 104 chars, two-way disagreement on the video versus the song. P-two-way-
+            disagreement, after 0059's value fork was already logged as a binary.
+  GENRES  : split block. CORRECT: Pop rock, Electropop, Eurodance.
+
+*** TWO RECORDS AND ONE EXTREME ON ARRIVAL ***
+  Best organic pull in the batch, best search share, best watch time from impressions in
+  the register, and the only 0% female audience recorded. A 2002 pop song out-pulled five
+  rock uploads with better recommendation support on double the impression base. The
+  gender figure is logged as a panel extreme, not as a planning fact.
+################################################################################
