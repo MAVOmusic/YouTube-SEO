@@ -4607,3 +4607,121 @@ BATCH FINDING - THE PAIR THAT PROVES THE THESIS
   does not share the other. Reach has never predicted revenue here and this is the
   sharpest demonstration yet.
 ################################################################################
+################################################################################
+CO-0045 | Manowar - Kings Of Metal | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : VF0FWayjZw | 3:24 | uploaded 03-09-2025 | 303 views | 1.9 h
+  Subs    : **zero** - back in the zero-subscriber club
+  Earning : **E4 INELIGIBLE + PARTIALLY BLOCKED, GBP 0.00.** Atlantic.
+  Bucket  : 0001 - 0100 / 0041 - 0050
+  Captured: 11 screenshots, all readable.
+
+THE SONG
+  Title track of Kings of Metal, 18 November 1988, Atlantic, recorded at Universal
+  Recording in Chicago, produced by Manowar with Jason Flom, 3:43. Written by Ross
+  Friedman and Joey DeMaio.
+
+WHAT THE PANELS SAY
+  **3.9k impressions at 0.4% - the worst click rate ever recorded on the channel**,
+  one day after CO-0042 set the previous floor at 0.6%. 86.6% recommended and only
+  **16 engaged views**. Impression-AVD 0:47, which is high - the few who clicked
+  stayed. AVD 0:23, APV 11.4%, 20% at 0:30 "typical". Likes 100.0%, nineteenth
+  perfect ratio. Zero subscribers.
+
+  **Search terms are both wrong-intent:** "man o war" 12.5% (the film, and the
+  spelling) and "manowar kings of metal live" 12.5% (a concert request).
+
+  Content suggesting is five unrelated videos at 9.1% each: Iron Maiden, a guitar
+  lessons video, a Kpop reaction, an Avenged Sevenfold drum cover, and a compilation
+  titled "Real Men Who NEVER Sing WILL LOVE These Vid...".
+
+  Devices mobile 88.9 / computer 5.4 / TV 1.7 / tablet 1.3 / other 2.7. Male 100%
+  and 25-34 100%. India 69.6 / Indonesia 9.6. 99.0% non-subscriber watch time.
+
+THE OLD COPY (all four surfaces)
+  Title   : band and song plus a Rocksmith hashtag tail.
+  Desc    : the funding wall.
+  Tags    : **11 at 110/500. Song title absent. "manowar" three times and two of
+            them invented - "manovar" and "manowarr" - plus one duplicate.** Eighth
+            channel-identity box in a row and the third with invented spellings.
+  Pin     : the funding wall, with a quiz attached.
+
+THE REWRITE
+  Title   : 54 chars. Band + wrote a number rulebook + meant it. New skeleton.
+  Desc    : 1401 chars. Opens on DeMaio writing declarations rather than lyrics -
+            D09 writing history, third outing - then what Ross the Boss and Eric
+            Adams do, then the bass, then the Sabaton cross-reference.
+  Tags    : 16 at 206/500. Band spelled correctly once and once in the misspelling
+            people actually type, song, all four members, three genre lanes, label,
+            year, both formats.
+  Pin     : 113 chars, the most confident or the most ridiculous - binary verdict.
+  GENRES  : split block. CORRECT: Heavy metal, Power metal, True metal.
+
+CROSS-REFERENCE
+  CO-0036 Sabaton - Man of War is built entirely from Manowar titles. This is the
+  band it names. File as a two-way pair. Both earned GBP 0.00.
+
+################################################################################
+CO-0046 | Bullet For My Valentine - Scream Aim Fire | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : ICC957PQXVY | 4:26 | uploaded 03-09-2025 | 349 views | 2.9 h | +3 subs
+  Earning : **E4 INELIGIBLE, GBP 0.00.** Sony BMG. First BFMV upload.
+  Bucket  : 0001 - 0100 / 0041 - 0050
+  Captured: 11 screenshots, all readable. **Intake folder used a different naming
+            convention** (`_01 Description`, `_02 Tags`, `_03 Comments`,
+            `_01 Overview` rather than `_01 - Overview`). Content complete.
+
+THE SONG
+  First single and title track, released 21 January 2008 (digital 18 December 2007),
+  produced and mixed by Colin Richardson with Matt Hyde, tracked at Sonic Ranch in
+  El Paso. Matt Tuck had an emergency tonsillectomy in mid-2007, months before
+  recording, and arrived able to write but not to sing.
+
+WHAT THE PANELS SAY
+  **4.8k impressions - the highest ever recorded on the channel** - at 0.9%.
+  **93.2% from YouTube recommending, the highest recommendation share in the
+  corpus.** **44 engaged views, the highest absolute count ever audited.**
+  Impression-AVD 0:50 and **0.62 h watch time from impressions, both corpus highs
+  for this metric.** AVD 0:29, APV 11.3%, 26% at 0:30 "typical".
+
+  Likes 100.0%, twentieth perfect ratio. **+3 subs at 0.86%.** Ran as a Premiere.
+
+  **Mobile 74.4 / computer 22.0 / TV 3.7 - the highest TV share in the corpus.**
+  **Female 40.0 / Male 60.0, the third-highest female share recorded.**
+
+  External 0.3% and it is **Creator Studio 100%** - the only audit where the
+  external referrer is the channel's own dashboard rather than a search engine.
+  Search 0.6%, **"bullet for my valentine live" 50.0%** - wrong intent, second live
+  gig search in three audits.
+
+  **A real viewer comment, the second in the corpus:** @colebevridge778 - "R u
+  looking for a band. I need a bass player" - one like, answered by MAVO about
+  streaming commitments this year.
+
+THE OLD COPY (all four surfaces)
+  Title   : band and song plus a Rocksmith tail.
+  Desc    : the funding wall.
+  Tags    : **10 at 121/500. Song title absent. Band run together four ways -
+            "bulletformyvalentine", "bfmv", "bulletvalentine", "bulletvalentine"
+            duplicated.** Ninth C-11 box in a row.
+  Pin     : the funding wall, with a quiz.
+
+THE REWRITE
+  Title   : 68 chars. Band + wrote this + a "while" clause carrying the medical
+            fact. New skeleton.
+  Desc    : 1526 chars. Opens on the throat - the recording circumstances before
+            the song, which is D08 origin story used on a medical event rather than
+            a release date. Then the thrash-in-a-metalcore-jacket reading, then what
+            the bass is actually for.
+  Tags    : 16 at 221/500. Band, song, all four members, producer, four genre
+            lanes, label, year, both formats.
+  Pin     : 139 chars, a question that asks the reader to infer a conclusion from
+            two facts. New device.
+  GENRES  : split block. CORRECT: Metalcore, Thrash metal, Melodic metalcore,
+            Heavy metal.
+
+THE COUNTER-EXAMPLE TO CO-0043
+  Muse was recommended to 47.1% of its viewers on 3.5k impressions and earned
+  GBP 0.05. This was recommended to 93.2% on 4.8k, converted 44 engaged views and
+  earned GBP 0.00. Same batch. The distribution was never the variable.
+################################################################################

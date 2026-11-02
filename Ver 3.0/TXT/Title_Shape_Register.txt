@@ -140,6 +140,11 @@
           the tail. Second title on the channel with a negation as its engine
           (0027 was the first, and that one was withdrawn for being false)
   0044    the band single that was written by the guy on X   The Billy Talent single that was written by the guy on guitar
+  0045    band + wrote a N rulebook + meant it               Manowar wrote a two word rulebook and meant every word
+          new skeleton - number-as-adjective, double affirmation at the tail
+  0046    band + wrote this + subordinate clause in past    Bullet For My Valentine wrote this while their singer could not sing
+          new skeleton - band-first with a "while" clause that turns a medical fact
+          into the hook; no date, no question, no possessive
           new skeleton - "the [band] single" noun-phrase subject with a
           by-clause that inverts who normally writes a punk record
 
@@ -195,6 +200,11 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.44. Rows added for CO-0045 and CO-0046. Two titles in a row
+              open with a band-writes frame (0045 "Manowar wrote", 0046 "Bullet For
+              My Valentine wrote") - flagged as a shape echo worth watching, though
+              the skeletons after the verb are entirely different. Do not open a
+              third consecutive title with "band wrote".
   2026-11-02  VER 4.42. Rows added for CO-0043 and CO-0044. Checked against the
               previous eight: no possessive opener, no "is", no date opener, no
               question (last question was 0036), first words all distinct

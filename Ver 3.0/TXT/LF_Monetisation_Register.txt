@@ -3255,3 +3255,116 @@ INTERNAL NOTE
   Billy Talent now has two long forms, both E4, both GBP 0.00, and the tag box was
   botched the same way both times. Cap holds. Third upload must not happen.
 --------------------------------------------------------------------------------
+
+--- MR-0045 | CO-0045 | Manowar - Kings Of Metal --------------------------------
+Video ID           : VF0FWayjZw | 3:24 | uploaded 03-09-2025 | 303 views
+                     | 1.9 watch hours | **ZERO subscribers** | 296 unique viewers
+Notices badge      : **E4 INELIGIBLE + PARTIALLY BLOCKED** - two-line badge
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : **3.9k impressions at 0.4% - the NEW CORPUS CTR FLOOR**,
+                     under CO-0042's 0.6% the day before | 86.6% from YouTube
+                     recommending | **16 engaged views** | impression-AVD 0:47 |
+                     0.21 h
+Watch quality      : AVD 0:23 | APV 11.4% | 20% at 0:30 "typical"
+Likes              : **100.0%** - nineteenth perfect ratio
+End screen CTR     : 0.0% | hype 0/0 | 1 quiz attached | no Shorts remixes
+Devices            : mobile 88.9 / computer 5.4 / TV 1.7 / tablet 1.3 / other 2.7
+Audience           : **Male 100% / 25-34 100%** - single bucket | India 69.6 /
+                     Indonesia 9.6 | 99.0% of watch time from non-subscribers |
+                     100% no captions
+Traffic            : advertising 88.8 / suggested 3.6 / browse 3.3 / YouTube search
+                     2.6 / direct or unknown 1.0 / other 0.7
+External (0.7%)    : Google Search 100.0%
+Search (2.6%)      : **"man o war" 12.5% / "manowar kings of metal live" 12.5%** -
+                     both wrong-intent: one is the film and the spelling, the other
+                     wants a concert
+Content suggesting : five at 9.1% each - Iron Maiden Fear Of The Dark / I Watched
+                     the WORST Guitar Lessons EVER / Kpop stan reacts to Missioned
+                     Souls / Lost by Avenged Sevenfold drum cover / Real Men Who
+                     NEVER Sing WILL LOVE These Vid...
+Old title          : Manowar - Kings Of Metal + Rocksmith/hashtag tail
+Old tags           : **11 / 110 chars. Song title ABSENT. "manowar" THREE times, two
+                     of them invented: "manovar", "manowarr", plus one duplicate**
+                     - three "M" tags, one correct. Eighth C-11 box in a row and
+                     the third time invented artist spellings were used instead of
+                     the real string.
+Old pin            : the 4,000-character funding wall, 1 quiz attached
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN + PARTIAL BLOCK.** Atlantic. First Manowar
+                     upload on the channel.
+
+*** 3,900 IMPRESSIONS AT 0.4% - THE WORST CLICK RATE EVER RECORDED HERE ***
+  The video was pushed harder than anything in the corpus (3.9k impressions, 86.6%
+  recommended) and 16 people clicked. Only 20% still watching at 0:30.
+  This is the second consecutive corpus CTR floor - CO-0042 hit 0.6% on 4.6k
+  impressions the day before this one hit 0.4% on 3.9k. Two in two days.
+
+*** MANOWAR AND SABATON NOW FORM A CLOSED LOOP ***
+  CO-0036 Sabaton - Man of War is built entirely from Manowar titles. This is the
+  band it names. It earned GBP 0.00 and this earns GBP 0.00, from Atlantic and
+  Nuclear Blast respectively. The reference runs in both directions and so does the
+  result.
+
+INTERNAL NOTE
+  Search terms are both wrong-intent - "man o war" is the film - and there is
+  nothing in the metadata to fix, because the title and the tags never contained
+  the song name to begin with. The rewrite puts "kings of metal" and the real
+  "manowar" string in the box for the first time.
+--------------------------------------------------------------------------------
+
+--- MR-0046 | CO-0046 | Bullet For My Valentine - Scream Aim Fire ---------------
+Video ID           : ICC957PQXVY | 4:26 | uploaded 03-09-2025 | 349 views
+                     | 2.9 watch hours | **+3 subscribers (0.86%)** | 349 unique
+Notices badge      : **E4 INELIGIBLE** - single line, no partial block
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : **4.8k impressions - the highest ever recorded on the channel**
+                     at 0.9% | **93.2% from YouTube recommending - the highest
+                     recommendation share in the corpus** | **44 engaged views, the
+                     highest absolute count ever audited** | impression-AVD 0:50 |
+                     0.62 h - the most watch time from impressions of any audit
+Watch quality      : AVD 0:29 | APV 11.3% | 26% at 0:30 "typical"
+Likes              : **100.0%** - twentieth perfect ratio
+End screen CTR     : 0.0% | hype 0/0 | 1 quiz | no Shorts remixes
+Premiere           : ran as a Premiere, peak 1, average 1
+Devices            : mobile 74.4 / **computer 22.0** / **TV 3.7 - the highest TV
+                     share in the corpus**
+Audience           : **Female 40.0 / Male 60.0** - the third-highest female share
+                     recorded | 25-34 100% | India 65.6 / Indonesia 10.6 | 98.4% of
+                     watch time from non-subscribers | 100% no captions
+Traffic            : advertising 82.0 / **browse 13.5** / suggested 2.0 / other
+                     YouTube features 0.9 / channel pages 0.6 / other 1.1
+External (0.3%)    : **Creator Studio 100.0%** - someone was reading the channel's
+                     own pages, not the open web
+Search (0.6%)      : **"bullet for my valentine live" 50.0%** - wrong intent again,
+                     the second live-show search in three audits
+Content suggesting : five at 14.3% each - First Time Hearing Tool Aenema reaction /
+                     The Jetset Life Is Gonna Kill You / Breaking Benjamin I Will
+                     Not Bow / VaunReacts to Sleep Token Hypnosis / Slipknot The
+                     Devil In I
+Old title          : Bullet For My Valentine - Scream Aim Fire + Rocksmith tail
+Old tags           : **10 / 121 chars. Song title ABSENT. Band run together four
+                     different ways: "bulletformyvalentine", "bfmv",
+                     "bulletvalentine", "bulletvalentine" (duplicated)** - the ninth
+                     C-11 box in a row and a duplicated tag on top
+Old pin            : the 4,000-character funding wall
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN.** Sony BMG. First Bullet For My Valentine
+                     upload on the channel.
+
+*** AND THERE IS A REAL COMMENT, THE SECOND IN THE CORPUS ***
+  @colebevridge778: "R u looking for a band. I need a bass player" - one like,
+  answered by MAVO with a genuine reply about streaming commitments. This is the
+  second unprompted human comment of the whole audit series after @xendox on
+  CO-0038, and the first one that is an approach rather than a compliment.
+
+*** THE BEST-DISTRIBUTED VIDEO IN 46 AUDITS EARNED NOTHING ***
+  4.8k impressions, 93.2% recommended, 44 engaged views, 0.62 h from impressions,
+  +3 subs at 0.86%, 100.0% likes, the highest TV share on the channel. GBP 0.00.
+  Compare CO-0043 Muse, which was recommended to 47.1% of viewers at half the
+  impression volume and earned GBP 0.05.
+
+INTERNAL NOTE
+  Bullet For My Valentine is now the strongest single test case in the register for
+  "reach cannot predict revenue". Do not re-record any of this catalogue; Sony BMG
+  claims it and does not share.
+--------------------------------------------------------------------------------
