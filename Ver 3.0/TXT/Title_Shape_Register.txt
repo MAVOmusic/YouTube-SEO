@@ -103,6 +103,8 @@
           was: Sabaton's Dreadnought on bass, the ship that missed its own battle
   0030    band built song from parts                     Pendulum built Tarantula from a club twelve and one borrowed verse
           new skeleton - no possessive, no "is", no question, no duration opener
+  0031    song subject + since-date tail                  Dear Maria, Count Me In has ended All Time Low shows since 2008
+          new skeleton - song first, band as the object, year LAST not first
 
 ################################################################################
 # BANNED SHAPES - the evidence

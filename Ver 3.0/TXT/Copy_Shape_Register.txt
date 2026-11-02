@@ -130,6 +130,7 @@
   0028    negation-correction                          Which vessel in history has the worst timing?
   0029    imperative listening instruction             Can you actually hear it on your speakers, or does it vanish?
   0030    second-person scenario                        Club record or band record, which is it?
+  0031    runtime arithmetic                           P-anecdote
 
 ################################################################################
 # BANNED / RESTRICTED

@@ -3633,3 +3633,81 @@ NEW BUCKETS CREATED
   0031 - 0040, 0041 - 0050, 0051 - 0060, each with a .gitkeep so the structure is
   live before the uploads arrive. CO-0031 starts in 0031 - 0040.
 ################################################################################
+
+################################################################################
+CO-0031 | All Time Low - Dear Maria, Count Me In | BASS PLAYTHROUGH | 02-11-2026
+################################################################################
+  Video   : StflHorKxSo | 3:02 | uploaded 31-08-2025 | 329 views | 327 unique
+  Subs    : **ZERO**
+  Earning : **E4 INELIGIBLE, GBP 0.00**. Flat red badge, no partial block.
+  Bucket  : 0031 - 0040 - FIRST OF THE NEW BUCKET
+
+THE SONG
+  All Time Low, track six on *So Wrong, It's Right*, Hopeless Records, second single
+  06-05-2008. 3:02, 178 BPM, written by Alex Gaskarth, Jack Barakat, Rian Dawson and
+  Zack Merrick. RIAA Platinum in 2015. Their signature song and their usual closer.
+
+*** THE BEST-CLICKING VIDEO ON THE CHANNEL, AND IT EARNED NOTHING ***
+
+  CTR **2.0%** - corpus best, roughly double the 0.8-1.1% band where most of the
+  channel sits. **76.4% of impressions came from YouTube recommending it**, second
+  highest in the corpus. 43 engaged views off 2.2k impressions is the best
+  impression-to-view conversion anywhere in the audit history. Impression-AVD
+  **0:46**, also a corpus high.
+
+  Result: **zero subscribers, GBP 0.00.**
+
+  Third proof that reach and earning are unrelated, and now the cleanest of the
+  three:
+     CO-0016  382,306 views, 99.6% paid     -> GBP 0.00 (E4)
+     CO-0030  22.8% recommended, worst       -> GBP 0.06 (E2)
+     CO-0031  2.0% CTR, best                 -> GBP 0.00 (E4)
+
+  Hopeless Records claim a platinum pop punk single. They always will.
+
+THE ZERO-SUBSCRIBER CLUB IS NOW THREE, AND THE PATTERN IS NOT THE COPY
+  CO-0024 a demo nobody asked for. CO-0027 a duplicate of an existing upload.
+  CO-0031 a song whose audience already owns it on the artist's own channel.
+  Three different faults, one shared property: **none of them gave a viewer any
+  reason to expect something else from this channel.** Everything else here has
+  converted at 0.26% to 1.14%, so the channel does not have a conversion problem.
+  It has three videos that were never going to convert anyone.
+
+DEMOGRAPHICS FINALLY LOOK LIKE THE ARTIST
+  Female 39.3%, the second highest in the corpus after CO-0027's 44.4. Computer
+  15.9%, a corpus high, against a mobile share of 80.4% which is a corpus low.
+  All Time Low have a large female audience and a desktop-listening habit and the
+  panels caught both. **This is the first upload where the audience panel has
+  described a real fanbase instead of paid traffic.**
+
+WATCH QUALITY IS FINE
+  AVD 0:23 on 3:02, APV 13.1%, 21% at 0:30 marked typical. Likes 100.0% - tenth
+  perfect ratio. Nothing here was broken except the eligibility.
+
+THE OLD COPY (all four surfaces)
+  Title   : "All Time Low - Dear Maria, Count Me In #rocksmith #bass #alltimelow" -
+            67 chars, and "alltimelow" is a string nobody types into a search box.
+  Desc    : the funding wall. Dead invite, dead schedule, no song, no year, no label.
+  Tags    : **7 tags, 70 chars. "dear maria" absent. "all time low" absent. "pop
+            punk" absent.** Six of the seven described the channel; the only music
+            word was "atl".
+  Pin     : the 4,000-character wall.
+
+THE REWRITE
+  Title   : 63 chars. Song first, band as the object, year LAST. New skeleton - the
+            register had never put a date at the end before.
+  Desc    : 1256 chars. Opens on runtime arithmetic (178 BPM, 3:02, seventeen years
+            as the closer) - device D20, first use. Then the release facts, then the
+            bass part as a live proposition rather than a technical one.
+  Tags    : 16 at 216/500. Song, album, label, all four members, the genre family,
+            the abbreviation ATL. Zero channel identity tags.
+  Pin     : 113 chars, an anecdote prompt rather than a nomination question - P16,
+            first use.
+  GENRES  : 8 labels. Pop punk primary, emo pop and neon pop punk documented. TRAP
+            notes against filing as emo (the 90s sense) or as hardcore.
+
+DIVERSITY
+  Zero collisions at 9, 8, 7 and 6-grams across 31 files with URLs counted. Title
+  clean to the 4-gram. Three rewording passes were needed on the CTA lines - the
+  Kick line collided with CO-0004, the Discord boost wording with CO-0003/0017/0019.
+################################################################################
