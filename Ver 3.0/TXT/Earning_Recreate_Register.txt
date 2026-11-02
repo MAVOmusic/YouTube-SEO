@@ -420,6 +420,7 @@ RECREATE INSTRUCTION
   MR-0028 CO-0028  Sabaton - Dreadnought (2022 album track)            E4
   MR-0031 CO-0031  All Time Low - Dear Maria, Count Me In (platinum)   E4
   MR-0032 CO-0032  System Of A Down - Roulette (2002, partial block)   E4
+  MR-0033 CO-0033  Motionless In White - Another Life (3rd upload)     E4
 
   Three failures, three different justifications, one shared cause: somebody
   registered the recording that was actually played.
@@ -457,6 +458,10 @@ RECREATE INSTRUCTION
   2026-11-02  VER 4.32. Failed candidate added: CO-0031, the best-clicking video on
               the channel, GBP 0.00 because Hopeless Records claim a platinum single.
               Third independent proof that reach and eligibility are unrelated.
+  2026-11-02  VER 4.34. Failed candidate added: CO-0033, the THIRD upload of
+              Another Life. Conversion fell 23.68% -> 3.94% -> 0.56% across the
+              three takes of one song. Strongest duplicate evidence in the corpus;
+              the one-song-one-upload rule now has a conversion curve.
   2026-11-02  VER 4.33. Failed candidate added: CO-0032, the most-recommended video
               on the channel - 91.0% of 4.8k impressions from YouTube recommending -
               and GBP 0.00 because American Recordings claim it and block it in some

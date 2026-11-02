@@ -2496,3 +2496,92 @@ INTERNAL NOTE
   system pushed hardest was also the one furthest from the channel's normal output.
   That belongs in the Phase 3 planning, not the copy.
 --------------------------------------------------------------------------------
+
+--- MR-0033 | CO-0033 | Motionless In White - Another Life [3rd upload] ------
+Video ID           : dkSZ2bmd21c | 3:20 | 360 views | 2.2 watch hours
+                     | +2 subscribers | 361 unique viewers
+Published          : 02-09-2025 (premiere: peak 1, average 1) | window to 01-11-2026
+Notices badge      : **E4 INELIGIBLE** - flat red, no partial block
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : 3.9k / 0.9% | 54.6% from YouTube recommending | 36 engaged
+                     views | 0:32 impression-AVD | 0.32 h from impressions
+Watch quality      : AVD 0:21 | APV 10.8% | **16% at 0:30 - BELOW typical**
+Likes              : **75.0%** - the fourth video at or under 80% in the corpus,
+                     against a channel average of 97.4%
+End screen CTR     : 0.0% | **bell: 209 pushes, 0.5% CTR, 1 view - the first time
+                     notifications have produced a view at all**
+Devices            : mobile 91.7 / computer 7.0 / TV 1.3
+Audience           : India 70.3 / Indonesia 17.8 | female 26.9 / male 73.1 |
+                     age 25-34 100% | 85.7% of watch time from non-subscribers
+Traffic            : advertising 85.6 / browse 9.7 / suggested 1.1 / search 0.8 /
+                     **notifications 0.8** / other 2.0
+External (0.3%)    : Google Search 100.0
+Content suggesting : 1.1% - Aephanemer (MAVO's own) 25, Lonely Day (MAVO's own) 25,
+                     HARIMAU MALAYA viral 25, Nightcore - Over The Hills 25
+**PLAYLISTS (0.6%)** : **Gothic Metal - Rocksmith 2014 Bass 50.0 /
+                     Nu Metal - Rocksmith 2014 Bass 50.0** - the first playlist
+                     traffic in 33 audits, and both playlists are MAVO's own
+Search terms (0.8%): **another life 33.3** - one term, no artist string
+Old title          : "Motionless In White - Another Life #rocksmith #bass
+                     #motionlessinwhite" - 62 chars
+Old tags           : **7 tags / 70 chars. "another life" absent. "motionless in
+                     white" absent.** The box held mavomusic twice, mavomusicyt,
+                     kick, kickstreaming, kickcommunity, kickpartner and "miw" -
+                     six of seven channel identity, one abbreviation of the band.
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN.** Fearless / Roadrunner. Third Motionless
+                     In White song audited, third E4, zero pence across all three.
+
+*** THIRD UPLOAD OF THE SAME SONG - AND THE COMPARISON IS DEVASTATING ***
+
+     CO-0002  long form    01-10-2022  3:44   224 views  **+53 subs  23.68%**
+     CO-0004  play along   26-10-2022  3:43   989 views  **+39 subs   3.94%**
+     CO-0033  long form    02-09-2025  3:20   360 views   +2 subs   0.56%
+
+  Same song. Same channel. Same badge on all three. Same GBP 0.00. And the
+  subscriber conversion falls by roughly a factor of six with every upload.
+
+  The CO-0002 figure is the highest conversion rate anywhere in 33 audits and it is
+  almost certainly a premiere artefact - 52.1% of its watch time came from
+  subscribers, its traffic was 31.3% search and 30.8% playlists, and its audience
+  was 61.9% desktop. It was shown to people who already knew the channel.
+
+  The third upload by contrast was 85.6% advertising and 85.7% non-subscribed. It
+  reached strangers, it was recommended by YouTube at a healthy 54.6%, and it
+  converted almost nobody.
+
+  **The degradation is not the copy and it is not the thumbnail.** It is that a
+  viewer who searches this song now finds three versions of it, and the version
+  that gets pushed is whichever YouTube prefers on the day. The catalogue is
+  competing with itself in a niche that only has room for one answer.
+
+*** RETENTION IS WHERE THE THIRD UPLOAD REALLY LOSES ***
+
+     CO-0002  APV 41.1%  |  AVD 1:32  |  47% at 0:30 - ABOVE typical
+     CO-0033  APV 10.8%  |  AVD 0:21  |  16% at 0:30 - BELOW typical
+
+  CO-0002's 41.1% is still the best APV in the corpus by a distance. The same song,
+  played by the same person on the same instrument, held four times as much of its
+  audience in 2022 as it did in 2025.
+
+  Runtime is nearly identical (3:44 vs 3:20), so this is not the runtime bias that
+  distorts the very short videos. Two explanations remain open: the audience changed
+  from subscribers to paid strangers, and the third cut arrived with two competitors
+  already in the search results. Both point the same way.
+
+TWO FIRSTS, BOTH SMALL BUT REAL
+  **Notifications: 209 pushes, 0.5% click-through, 1 view.** Everything else in the
+  corpus had single-digit pushes and zero views. The subscriber base has grown just
+  enough for the bell to exist.
+
+  **Playlist traffic for the first time** - 0.6%, split evenly between MAVO's Gothic
+  Metal and Nu Metal Rocksmith playlists. That means playlist filing is starting to
+  work, and it also means the wrong playlist is helping: this is a metalcore song
+  sitting in a nu metal list.
+
+INTERNAL NOTE
+  Do not upload this song a fourth time. Three takes exist, the third gains a fifth
+  of what the first did, and the only one worth keeping is CO-0002 on conversion and
+  CO-0004 on reach. If a fourth is ever attempted, it must be a different FORMAT -
+  a lesson, a tab walkthrough, something with a job the other three do not have.
+--------------------------------------------------------------------------------

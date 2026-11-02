@@ -3806,3 +3806,98 @@ DIVERSITY
   clean to the 5-gram - the only 4-gram overlap with CO-0016 is the band name
   itself, which is structural, like the three URLs.
 ################################################################################
+
+################################################################################
+CO-0033 | Motionless In White - Another Life | THIRD UPLOAD | audited 02-11-2026
+################################################################################
+  Video   : dkSZ2bmd21c | 3:20 | uploaded 02-09-2025 | 360 views | 361 unique
+  Subs    : +2 (0.56%)
+  Earning : **E4 INELIGIBLE, GBP 0.00.** Third MIW song, third E4.
+  Bucket  : 0031 - 0040
+
+THE SONG
+  Motionless In White, fourth single off *Disguise*, June 2019, written by Chris
+  Motionless with Drew Fulk and Josh Strock. Ricky Olson on bass. 3:25 on the album,
+  3:20 here.
+
+*** THIRD UPLOAD OF ONE SONG, AND THE CONVERSION CURVE ***
+
+     CO-0002  long form    01-10-2022  3:44   224 views   +53 subs   23.68%
+     CO-0004  play along   26-10-2022  3:43   989 views   +39 subs    3.94%
+     CO-0033  long form    02-09-2025  3:20   360 views    +2 subs    0.56%
+
+  Three uploads. Same song, same badge, same GBP 0.00. Subscriber conversion falls
+  by roughly six with each take.
+
+  CO-0002's 23.68% is the highest conversion in 33 audits, and it is a premiere
+  artefact: 52.1% subscriber traffic, 31.3% search, 30.8% playlists, 61.9% desktop.
+  It was shown to people who already knew the channel. The third upload was 85.6%
+  advertising and 85.7% non-subscribed, and converted almost nobody.
+
+  **The one-song-one-upload rule now has a measured curve instead of an anecdote.**
+  CO-0027 vs CO-0008 was two points. This is three, and the slope is consistent.
+
+*** RETENTION IS THE SHARPER LOSS ***
+
+     CO-0002  APV 41.1%  |  AVD 1:32  |  47% at 0:30  ABOVE typical
+     CO-0033  APV 10.8%  |  AVD 0:21  |  16% at 0:30  BELOW typical
+
+  Same song, same player, same instrument, near-identical runtime. The 2022 cut held
+  four times the percentage of its audience. 41.1% remains the corpus best. This is
+  not the short-runtime bias - 3:44 against 3:20 rules it out.
+
+  Two live explanations, both pointing the same way: the audience changed from
+  subscribers to paid strangers, and the third cut arrived with two competitors
+  already ranked for the same query.
+
+TWO FIRSTS
+  **Notifications: 209 pushes, 0.5% click-through, 1 view.** Every other upload had
+  single-digit pushes and zero views. The subscriber base is just large enough for
+  the bell to register.
+
+  **Playlist traffic, 0.6%, first time in 33 audits** - split evenly between "Gothic
+  Metal - Rocksmith 2014 Bass" and "Nu Metal - Rocksmith 2014 Bass", both MAVO's own.
+  Playlist filing is starting to pay, and one of the two playlists is wrong.
+
+LIKES 75.0%
+  Fourth video at or under 80% in the corpus, against a 97.4% channel average. The
+  run of low ratios started at CO-0028 and has now appeared on four of the last six.
+
+CONTENT SUGGESTING 1.1%
+  Two of the four are MAVO's own (Aephanemer, Lonely Day). The other two are
+  external: a HARIMAU MALAYA viral video and a Nightcore cover. Unlike CO-0032,
+  where five external channels carried the recommendation, this one is still mostly
+  self-referential.
+
+THE OLD COPY (all four surfaces)
+  Title   : "Motionless In White - Another Life #rocksmith #bass
+            #motionlessinwhite" - 62 chars, band name twice, third time as a hashtag.
+  Desc    : the funding wall. Dead invite, dead schedule, nothing about the song.
+  Tags    : **7 at 70/500. "another life" absent. "motionless in white" absent.**
+            Six channel-identity tags and "miw".
+  Pin     : the 4,000-character wall.
+
+THE REWRITE
+  Title   : 68 chars. "What X sounds like when Y" - an interrogative frame used
+            nowhere else, song first and band after the verb. No possessive, no
+            date, no hashtag.
+  Desc    : 1399 chars. Opens by breaking the song into four pieces and saying what
+            each one does - device D26, first use. Then the release facts and the
+            one genuinely interesting thing about the bass (it follows the melody
+            because Olson is singing behind the lead). Ends on the level problem:
+            the song gets loud twice and the bass must rise identically both times.
+  Tags    : 16 at 221/500. Song, band, album, three members, the producer, the genre
+            family, the abbreviation. Zero channel identity.
+  Pin     : 115 chars, a channel-history question - P25, first use - pointing at the
+            three takes without explaining them.
+  GENRES  : 7 labels. Metalcore primary, melodic metalcore and gothic metalcore
+            documented. TRAP note on the nu metal playlist this video is sitting in,
+            and a note that metalcore is missing from both existing playlists.
+            FILING NOTE: hard separation between the three uploads.
+
+DIVERSITY
+  Zero collisions at 9, 8, 7 and 6-grams across 33 files with URLs counted. Three
+  rewording passes on the CTA block - the Twitch line collided with CO-0005 on
+  "twitch carries", the Kick line with CO-0004, and the word after the Twitch URL
+  with CO-0013.
+################################################################################

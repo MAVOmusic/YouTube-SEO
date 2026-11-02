@@ -107,6 +107,8 @@
           new skeleton - song first, band as the object, year LAST not first
   0032    universal claim with an exception            Every System Of A Down song is a wall except Roulette
           new skeleton - article-free "every X is Y except Z", band name mid-sentence
+  0033    "what X sounds like when Y"                     What Another Life sounds like when Motionless In White stop shouting
+          new skeleton - interrogative frame, song first, band after the verb
 
 ################################################################################
 # BANNED SHAPES - the evidence
