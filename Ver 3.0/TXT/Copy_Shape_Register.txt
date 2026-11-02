@@ -144,6 +144,8 @@
   0038    single observation about the mix                P-craft-question
   0039    instrument-first, what the part refuses to do   P-correction-invite
   0040    writing history, dated, with the studio         P-diagnostic-fork
+  0041    the origin story, third person                  P-absurd-contrast
+  0042    the same song in three versions                 P-craft-fork
 
 ################################################################################
 # GENRE BLOCK - SPLIT INTO TWO ELEMENTS (VER 4.38, MAVO 02-11-2026)
@@ -194,6 +196,9 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.41. Rows added for CO-0041 and CO-0042. D15 narrative
+              scenario and D03 comparison to another version, both first use.
+              No date-first opener in either, no nomination pin in either.
   2026-11-02  VER 4.40. Rows added for CO-0039 and CO-0040. D20 instrument-first
               and D09 writing history, both first use. P13 correction invite and
               P11 diagnostic fork, both first use. No date-first opener in either,
