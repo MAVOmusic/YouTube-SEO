@@ -2685,3 +2685,117 @@ COPY DELIVERED
   PIN (105) - no links, no money, ends on a question.
 
 ################################################################################
+
+################################################################################
+CO-0017 | MY CHEMICAL ROMANCE - THE FOUNDATIONS OF DECAY
+################################################################################
+Video ID      : iN9k02kmfwK
+Published     : 13-03-2025   Runtime 5:59   Format: full playthrough (premiered)
+Badge         : INELIGIBLE TO EARN (flat)
+Lifetime      : 3,140 views / 3.1k unique / 21.2 watch hours / +19 subs / GBP 0.00
+Premiere      : peak 2 concurrent viewers, average 1
+
+*** FIRST TIME IN SEVENTEEN AUDITS: THE SUGGESTION PANEL IS HIS OWN RETITLED WORK ***
+"Content suggesting this video" (0.1% slice):
+    Underneath Cute Without the E, a Taking Back Sunday b... .... 66.7%
+    The saddest System Of A Down song is also the ... ........... 33.3%
+
+**Those are the NEW titles.** Not the machine strings. So MAVO has already applied the
+CO-0012 and CO-0016 copy to the live channel, and those two videos are now feeding
+each other inside YouTube's own suggestion lane.
+
+Read that carefully, because it is the first observed evidence that the rewrite has
+done something mechanical rather than cosmetic. Until now every "suggested by" panel
+showed either external videos, cold-curated neighbours, or MAVO's untitled catalogue.
+This one shows two of his videos, wearing the copy this project wrote, appearing as
+the recommendation source for a third. **Internal chaining works.** It is worth
+tracking whether it grows.
+
+OTHER READ
+    94.4% YouTube advertising | 2.6% channel pages | 1.6% browse | 0.7% search
+    | 0.2% other YouTube features | 0.5% others
+    46.4% from YouTube recommending - high for a paid video, and the highest of the
+      four 2025 uploads. The recommendation system was doing more work here than on
+      the others, even though the views were bought.
+    Impressions 6.2k / CTR 2.0% / 124 engaged views from impressions
+    AVD 0:24 | APV **6.8% - the LOWEST percentage-viewed in the audit**
+      (CO-0013 7.1, CO-0017 6.8, CO-0014 17.3, CO-0012 10.2, Chopin 9.9)
+    22% at 0:30 = typical, curve runs just under the typical band for most of the run
+    Likes **97.6% vs 97.4% channel** - the only metric at or above par, and the
+      highest like ratio of any 2025 upload
+    End screen 0.0% | bell 63 pushes, 1.6% CTR, 1 view
+    SEARCH 0.7% slice: rocksmith bass 13.6 | rocksmith 9.1 | **mcr acoustic 4.6**
+      - note "acoustic": someone arrived expecting an unplugged version. There is no
+        acoustic content on this channel. Small signal, but a real one about how
+        people read an MCR thumbnail.
+    PLAYLISTS 0.1%: Alternative Rock (Alt-Rock) Rocksmith 2014 50% / Punk Rock (Punk)
+      Rocksmith 2014 Bass 50%. Both curated, both on-genre, both cold.
+
+AUDIENCE - THE GEOGRAPHY SWITCHED COUNTRY, NOT JUST SHAPE
+    Indonesia **92.7%** - and NO India at all. This is the first capture in the whole
+    audit where India does not appear as a top geography. Every other 2025 upload was
+    India-first (81.2 / 38.4 / 70.3 / 77.3). This campaign was aimed somewhere else.
+    Devices mobile 96.1 / computer 3.4 / tablet 0.3 / TV 0.2
+    Age 25-34 49.3 / 35-44 **27.4** / 18-24 18.2 / 45-54 5.0
+      - the 35-44 share is the highest of any 2025 upload, and it fits an MCR audience
+    **Female 38.6% / male 61.4% - the highest female share in the corpus**
+      (all others 27-37%)
+    97.2% of watch time from non-subscribers
+
+CONVERSION: +19 from 3,140 = **0.61%** - the lowest of the paid cohort so far, which
+now reads 0.61 / 0.66 / 0.71 / 0.78 / 0.79 across five uploads. The band has widened
+slightly at the bottom but the central finding is unchanged: a bought view converts at
+well under one per cent, against 8.16% for organic search traffic on the play alongs.
+
+SURFACE FAULTS
+  TAGS   **7 at 70/500.** Four hundred and thirty characters unused - the emptiest tag
+         box in seventeen audits:
+             mavomusic, mavomusicyt, mcr, kick, kickstreaming, kickcommunity, kickpartner
+         No "my chemical romance" in full. No "the foundations of decay". No "bass".
+         No "mikey way". No "rocksmith bass". Two self-brand, four platform, and one
+         abbreviation.
+         It is the sixth consecutive tag box that names the platform or a person and
+         never the instrument:
+             CO-0013 game x19 | CO-0014 Freddie Mercury x4 | CO-0015 misspellings x3
+             CO-0016 the singer x2 | CO-0017 the platform x4 and "mcr"
+  DESC  Same fundraising boilerplate, same dead discord.gg/mavomusic link.
+  PIN   BYTE-IDENTICAL for the FIFTH confirmed time.
+  TITLE "[||] My Chemical Romance - The Foundations Of Decay #rocksmith #bass
+         #mychemicalromance" - Shorts format on a 5:59 long form, fifth in a row.
+
+COPY DELIVERED - WITH A CTA CHANGE MAVO ASKED FOR
+  MAVO: "Always make sure CTA is exciting, never repeats and all title, description
+  and pinned are maximum SEO, minimal or no robotic samples people can catch as
+  inauthentic."
+  That is a direct instruction to break the footer block, and he is right about why:
+  five uploads have now carried the identical three-line "Genres / Format / Played on
+  the Thunderbird / charted in Rocksmith" bullet stack. That is the most catchable
+  robotic pattern in the whole template - more than any individual sentence, because
+  it repeats in exactly the same place, in the same casing, every time.
+
+  TITLE (87/100) - opener "Nine", never used in seventeen audits:
+    Nine years after MCR split, The Foundations Of Decay gave Mikey Way six minutes of bass
+    Every element is true and checkable: the band stopped in 2013, the single landed in
+    2022, it runs 5:59, and Mikey Way's line is the spine of it. Names artist, song,
+    bassist and the instrument, in ordinary prose, with no bracket and no template.
+  DESC (1,728) - opens on the nine-year silence and the midnight release, then the
+    six-minute length, then the bass, then the two readers (returning and new), then
+    the charting note. **The bullet footer is GONE** - replaced by one sentence carrying
+    the same keywords:
+        "Alternative rock, emo, post-hardcore - played once through on the Epiphone
+         Thunderbird, charted in Rocksmith 2014 Remastered, no overdubs and no cuts."
+  TAGS (15 / 255) - from 7 at 70/500. Full artist name, full song title, "mikey way",
+    "rocksmith bass", "mcr bass", plus "return of my chemical romance" for the people
+    searching the reunion rather than the song.
+  PIN (146) - a new shape, no "which X next" clone:
+    They went quiet for nine years, came back at midnight, and led with a bassline.
+    What should I take apart next - the comeback, or the old stuff? 👇🎸
+
+  NEW CTA - exciting, no repeated wording, still two links, no duplicates:
+    🎸 Heard something in there you want slowed down? Name it below.
+    🟣 Every request, every take, every late one - live on Twitch: <twitch>
+    💬 Or throw your next request at the server - boost it and we get discord.gg/mavomusic back: <discord>
+  The boost ask is INSIDE the Discord line, not a separate line, so the invite appears
+  once. Different wording from CO-0016's CTA. Two URLs total, both allowlisted.
+
+################################################################################

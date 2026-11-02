@@ -5342,3 +5342,103 @@ RULE FOR THE RECORD
     The approved CTA tail is now fixed text and goes into the channel-wide template.
 
 ================================================================================
+
+================================================================================
+VER 4.14 - 2026-11-01 - CO-0017 MCR: THE REWRITE DID SOMETHING MECHANICAL
+================================================================================
+
+MAVO INSTRUCTION
+"Always make sure CTA is exciting, never repeats and all title, description and
+pinned are maximum SEO, minimal or no robotic samples people can catch as inauthentic."
+
+Acted on directly, because he is right about where the robot is. See the footer note
+below - it is not the sentences, it is the block.
+
+CO-0017 - MY CHEMICAL ROMANCE, THE FOUNDATIONS OF DECAY, iN9k02kmfwK, 13-03-2025, 5:59
+    3,140 views / 21.2 watch hours / +19 subs / 3.1k unique / GBP 0.00 / E4
+    Premiered to a peak of 2 concurrent viewers.
+
+*** THE FIRST PIECE OF MECHANICAL EVIDENCE THIS PROJECT HAS PRODUCED ***
+"Content suggesting this video" on this video:
+    Underneath Cute Without the E, a Taking Back Sunday b... ... 66.7%
+    The saddest System Of A Down song is also the ... ........... 33.3%
+
+Those are the NEW titles. Not the machine strings. So MAVO has already applied the
+CO-0012 and CO-0016 copy to the live channel, and the two videos are now feeding each
+other inside YouTube's own suggestion lane.
+
+Every previous suggestion panel in seventeen audits showed external videos,
+cold-curated neighbours, or MAVO's untitled catalogue. This one shows two of his
+videos, wearing this project's copy, as the recommendation source for a third.
+That is the first time anything we have written has produced an effect that can be
+seen in the data rather than argued about in the notes.
+It is small - a 0.1% slice - and I am not going to overstate it. But it is the only
+organic mechanic in this entire corpus that is responding to us, and it should be
+tracked from here.
+
+THE AUDIENCE MOVED COUNTRY
+    Indonesia 92.7%, and NO INDIA AT ALL.
+That is the first capture in the whole audit where India does not appear in the top
+geographies. Every other 2025 upload was India-first: 81.2, 38.4, 70.3, 77.3. This
+campaign was aimed somewhere else entirely.
+    Also: female 38.6% / male 61.4% - the highest female share in the corpus (the
+    others run 27-37%), and 35-44 at 27.4% is the highest of the 2025 set. Which fits
+    an MCR audience and suggests this buy was better targeted than the others.
+    It converted at 0.61% anyway, the lowest of the five-point paid cohort. Better
+    targeting did not produce better conversion. Worth noting.
+
+THE ROBOTIC PATTERN, AND WHERE IT ACTUALLY WAS
+MAVO asked for minimal robotic samples. I had a look at what repeats across the last
+five uploads and the answer is not the sentences - those are all different. It is the
+FOOTER BLOCK:
+    **Genres:** ...
+    **Format:** Full playthrough, on-screen bass tab, no overdubs, no cuts
+    🎸 Played on the Thunderbird | 🎮 charted in Rocksmith 2014 Remastered (Steam)
+Same three lines. Same order. Same casing. Same place. Every time.
+That is far more catchable than any single sentence, because a regular viewer sees it
+identically on every video and a new viewer sees it as boilerplate.
+    RETIRED. Replaced with one ordinary sentence carrying the same keywords:
+    "Alternative rock, emo, post-hardcore - played once through on the Epiphone
+     Thunderbird, charted in Rocksmith 2014 Remastered, no overdubs and no cuts."
+    Same SEO terms, no stack, no casing pattern to recognise.
+
+CTA - FRESH WORDING, TWO LINKS, NO DUPLICATE
+    🎸 Heard something in there you want slowed down? Name it below.
+    🟣 Every request, every take, every late one - live on Twitch: <twitch>
+    💬 Or throw your next request at the server - boost it and we get discord.gg/mavomusic back: <discord>
+Boost ask folded into the Discord line so the invite still appears once. Different
+wording from CO-0016. I will keep a running list of used CTA wording in the audit log
+so they cannot quietly converge.
+
+PIN - CHANGED SHAPE, NOT JUST NOUNS
+Six consecutive pins have asked "which X should get the same treatment next". This one
+asks a different question:
+    They went quiet for nine years, came back at midnight, and led with a bassline.
+    What should I take apart next - the comeback, or the old stuff?
+A viewer can answer it with a category instead of a song, which is a different kind of
+reply and may be a more useful one.
+
+THE REST
+    Impressions 6.2k / CTR 2.0% / 46.4% from YouTube recommending - the highest of the
+    four 2025 uploads, even though the views were bought.
+    AVD 0:24 / APV 6.8% - the LOWEST percentage-viewed in the audit (CO-0013 7.1 next)
+    22% at 0:30 typical; curve just under the band for most of the run
+    Likes 97.6% vs 97.4% channel - the only metric above par, highest like ratio of any
+    2025 upload
+    end screen 0.0% | bell 63 pushes, 1.6% CTR, 1 view
+    mobile 96.1 / computer 3.4 / tablet 0.3 / TV 0.2 | 97.2% non-subscribed
+    SEARCH 0.7%: rocksmith bass 13.6 / rocksmith 9.1 / **mcr acoustic 4.6**
+        "acoustic" - someone arrived expecting an unplugged version. There is no
+        acoustic content on this channel. Small, but it tells you what the thumbnail
+        promises.
+    PLAYLISTS 0.1%: Alt-Rock Rocksmith 2014 50% / Punk Rock Rocksmith 2014 Bass 50%
+
+TAGS - THE EMPTIEST BOX YET
+    7 tags at 70/500. Four hundred and thirty characters unused.
+        mavomusic, mavomusicyt, mcr, kick, kickstreaming, kickcommunity, kickpartner
+    No full artist name. No song title. No "bass". No "mikey way". No "rocksmith bass".
+    Sixth consecutive box that names the platform or a person and never the instrument.
+    There is no version of this that is a judgement call. The channel name contains
+    "music"; the product is bass; the tag boxes have never once said so.
+
+================================================================================
