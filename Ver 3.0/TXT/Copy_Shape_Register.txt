@@ -133,6 +133,8 @@
   0031    runtime arithmetic                           P-anecdote
   0032    band-reputation reversal                       P-rating-scale
   0033    section-by-section walkthrough                   P-channel-history
+  0034    the thing that is missing                       P-prediction
+  0035    a question the song refuses to answer           P-second-person-challenge
 
 ################################################################################
 # BANNED / RESTRICTED

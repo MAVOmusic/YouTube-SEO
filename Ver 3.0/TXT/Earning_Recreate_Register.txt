@@ -421,6 +421,8 @@ RECREATE INSTRUCTION
   MR-0031 CO-0031  All Time Low - Dear Maria, Count Me In (platinum)   E4
   MR-0032 CO-0032  System Of A Down - Roulette (2002, partial block)   E4
   MR-0033 CO-0033  Motionless In White - Another Life (3rd upload)     E4
+  MR-0034 CO-0034  Sabaton - Steel Commanders (4th Sabaton, 4th E4)    E4
+  MR-0035 CO-0035  Billy Talent - Red Flag (Atlantic, partial block)   E4
 
   Three failures, three different justifications, one shared cause: somebody
   registered the recording that was actually played.
@@ -458,6 +460,12 @@ RECREATE INSTRUCTION
   2026-11-02  VER 4.32. Failed candidate added: CO-0031, the best-clicking video on
               the channel, GBP 0.00 because Hopeless Records claim a platinum single.
               Third independent proof that reach and eligibility are unrelated.
+  2026-11-02  VER 4.36. Two failed candidates added. CO-0034 closes SABATON: four
+              uploads, four eras, four E4s, GBP 0.00 - a demo, an album cut, a cover
+              and a corporate commission all came back identical. No Sabaton song is
+              worth testing again. CO-0035 closes BILLY TALENT on its first try
+              (Atlantic, partial block) despite the second-best conversion of the
+              2025 cohort.
   2026-11-02  VER 4.34. Failed candidate added: CO-0033, the THIRD upload of
               Another Life. Conversion fell 23.68% -> 3.94% -> 0.56% across the
               three takes of one song. Strongest duplicate evidence in the corpus;
