@@ -3125,3 +3125,41 @@ NEW FILE CREATED
   numbers to capture when a recreation goes live.
 
 ################################################################################
+
+################################################################################
+CO-0024 | Sabaton - The Hammer Has Fallen | 4:54
+################################################################################
+
+FOLDER   : _0001 Long Form / 0021 - 0030 / 0024 - Sabaton - The Hammer Has
+           Fallen (Long Form)
+CAPTURED : 12 screenshots, all readable.
+
+OLD COPY
+  Title   : broken "[]" glyph, #rocksmith #bass #sabaton.
+  Desc    : the 2022 shell.
+  Tags    : **8 tags at 84/500 - BYTE-IDENTICAL to CO-0023.** Same eight tags,
+            same character count, two consecutive uploads. Six are channel
+            identity, and there is no song title anywhere in the box.
+  Pin     : the "[IMPORTANT INFORMATION]" support wall.
+
+NEW COPY
+  Title   : 71 chars. Band, song, the 2001 demo origin, the bass.
+  Desc    : 1102 chars. Fist for Fight 2001, the Metalizer 2007 reissue of the
+            same recordings, Broden on music and Sundstrom on words, then the
+            sustained notes, the descending figure and the closing run.
+  Tags    : 16 at 230/500. Adds the song both ways round, both albums, both
+            writers, power metal, swedish metal, 2001, 2007, and **"sabton" -
+            kept because it is now a proven live search term, not a guess**.
+  Pin     : 132 chars. Buried-track question about what deserved a full release.
+  GENRES  : 7 labels. Power metal primary, with a note that this is the band's
+            slowest early track and belongs in a slow-metal playlist the fast
+            Sabaton songs would not fit.
+
+FINDINGS CARRIED INTO THE CONTEXT BLOCK
+  1. Zero subscribers on 364 views - the first true zero in the corpus.
+  2. "sabton" misspelling appears as a live search term. Rule proven.
+  3. "react to sabaton" - a new intent, reaction content, never logged before.
+  4. Textbook Tier B deep cut came back E4. Register rewritten as a result.
+  5. Tag box byte-cloned from CO-0023. Broken deliberately in the new copy.
+
+################################################################################
