@@ -2585,3 +2585,130 @@ INTERNAL NOTE
   CO-0004 on reach. If a fourth is ever attempted, it must be a different FORMAT -
   a lesson, a tab walkthrough, something with a job the other three do not have.
 --------------------------------------------------------------------------------
+
+--- MR-0034 | CO-0034 | Sabaton - Steel Commanders ---------------------------
+Video ID           : pmfT3Bfp61c | 3:44 | 346 views | 2.0 watch hours
+                     | +1 subscriber | 346 unique viewers
+Published          : 02-09-2025 (premiere: peak 1, average 0) | window to 02-11-2026
+Notices badge      : **E4 INELIGIBLE** - flat red, no partial block
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : 1.9k / 1.1% | **80.7% from YouTube recommending - second
+                     highest in the corpus** after CO-0032's 91.0% | 20 engaged
+                     views | 0:28 impression-AVD | 0.16 h from impressions
+Watch quality      : AVD 0:20 | APV 9.2% | 20% at 0:30 - typical
+Likes              : **100.0%** - eleventh perfect ratio
+End screen CTR     : 0.0% | bell: zero pushes, zero views | hype 0/0
+Devices            : mobile 85.4 / computer 11.5 / TV 2.9 / tablet 0.1
+Audience           : **female 42.3 / male 57.7 - third highest female share in the
+                     corpus** (CO-0027 44.4, CO-0031 39.3) | age 25-34 100% |
+                     India 69.7 / Indonesia 12.4 | 98.0% of watch time non-subscribed
+Traffic            : advertising 89.6 / browse 6.4 / search 2.3 / direct 0.6 /
+                     channel pages 0.5 / other 0.9
+External           : not enough traffic data
+Content suggesting : 0.3% - **"Bring On The Thunder - Ultimate Gaming Tribute"
+                     100.0 - a single external channel, a gaming compilation**
+Search terms (2.3%): **commanders 12.5** / sabaton 12.5 / **sabaton cover 12.5**
+Old title          : "Sabaton - Steel Commanders #rocksmith #bass #sabaton" - 54 chars
+Old tags           : **9 tags / 103 chars. "steel commanders" absent entirely.**
+                     "sabaton" three times in variants (sabaton, sabbaton, sabaton),
+                     plus mavomusic, mavomusicyt and four kick tags.
+Old pin            : the 4,000-character funding wall.
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN.** Nuclear Blast. Fourth Sabaton upload,
+                     fourth E4.
+
+*** SABATON IS NOW A CLOSED RIGHTS FILE - 4 FOR 4 ***
+
+     CO-0023  Camouflage             2001-adjacent cover       E4  GBP 0.00
+     CO-0024  The Hammer Has Fallen  2001 demo, never a single E4  GBP 0.00
+     CO-0028  Dreadnought            2022 album track          E4  GBP 0.00
+     CO-0034  Steel Commanders       2021 game commission      E4  GBP 0.00
+
+  Four songs, four eras, four different reasons to expect a different result, one
+  answer. A demo, an album cut, a cover and a corporate commission. **There is no
+  Sabaton song that is worth testing.** That is now an empirical statement, not a
+  caution, and it should be written into the Phase 3 build rules.
+
+*** AND YET THE ALGORITHM LIKES THEM MOST ***
+
+  80.7% of this video's impressions came from YouTube recommending it - second only
+  to CO-0032's 91.0%, and far above the paid-cohort norm of 43-76%. Content
+  suggesting names a single external channel: "Bring On The Thunder - Ultimate
+  Gaming Tribute", a gaming compilation. The recommendation engine put a Sabaton
+  bass playthrough next to a gaming music video, which is exactly the audience the
+  song was written for.
+
+  So the pattern holds a fourth time: **the artists the algorithm wants to promote
+  are the artists whose masters are locked.**
+
+CONVERSION         : 1 from 346 = 0.29%. Lowest in the corpus bar CO-0024 and
+                     CO-0027 at zero.
+
+FEMALE SHARE 42.3% - THIRD HIGHEST
+  Behind CO-0027 (44.4) and CO-0031 (39.3). Together with those two, three of the
+  last eight uploads have run well above the 20-28% band most of the catalogue sits
+  in. A demographic profile is starting to emerge for the material that gets
+  recommended rather than bought.
+
+INTERNAL NOTE
+  Do not record another Sabaton song. Ever, under this rights regime. If the
+  catalogue is ever renegotiated or a different arrangement is used, re-test then.
+--------------------------------------------------------------------------------
+
+--- MR-0035 | CO-0035 | Billy Talent - Red Flag ------------------------------
+Video ID           : s9UhInRxTXtU | 3:17 | 307 views | 1.9 watch hours
+                     | **+3 subscribers** | 308 unique viewers
+Published          : 02-09-2025 | window to 02-11-2026, 426 days
+Notices badge      : **E4 INELIGIBLE + PARTIALLY BLOCKED** - two-line badge
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : 1.7k / 0.8% | 76.9% from YouTube recommending | 14 engaged
+                     views | **0:52 impression-AVD - NEW CORPUS HIGH** (CO-0031's
+                     0:46 was the previous) | 0.2 h from impressions
+Watch quality      : AVD 0:22 | APV 11.3% | 21% at 0:30 - typical
+Likes              : **100.0%** - twelfth perfect ratio
+End screen CTR     : 0.0% | bell: zero pushes, zero views | hype 0/0
+Devices            : mobile 82.1 / **computer 17.9 - third desktop-heavy upload in
+                     a row** after CO-0031 (15.9) and CO-0032 (19.7)
+Audience           : **no demographic data at all** | India 69.1 / Indonesia 15.3 |
+                     98.2% of watch time from non-subscribers
+Traffic            : advertising 89.9 / browse 8.5 / search 0.7 / external 0.7 /
+                     other YouTube features 0.3
+External (0.7%)    : not enough data to break down
+Content suggesting : not enough traffic data
+Search (0.7%)      : not enough traffic data
+Old title          : "Billy Talent - Red Flag #rocksmith #bass #billytalent" - 57 chars
+Old tags           : **8 tags / 88 chars. "red flag" absent. "billy talent" absent
+                     as two words** - the box held "billytalent" and "bilyltalent",
+                     both run together, plus six channel-identity tags.
+Old pin            : the 4,000-character funding wall.
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN + TERRITORY BLOCK.** Atlantic / Warner.
+                     First Billy Talent song on the channel, first E4 for them.
+
+*** THE SECOND-BEST CONVERSION OF THE WHOLE 2025 COHORT ***
+
+  3 from 307 = 0.98%. Only CO-0025 (1.11%) and CO-0024's zero-run sit outside this
+  on either side. And it happened on a video with **no search traffic at all,
+  almost no browse traffic, and no demographic data** - it was bought, watched and
+  converted, and YouTube learned nothing it could show us.
+
+  The 0:52 impression-AVD is the corpus high: people who were shown this thumbnail
+  and clicked stayed nearly a minute. It is the same signal CO-0031 produced, and
+  both videos earned GBP 0.00.
+
+*** THREE DESKTOP-HEAVY UPLOADS IN A ROW ***
+
+     CO-0031  computer 15.9
+     CO-0032  computer 19.7
+     CO-0033  computer  7.0
+     CO-0035  computer 17.9
+
+  A shift worth naming: the paid core is mobile (85-95%), but the recommended and
+  converted traffic is desktop. Nothing in the copy can act on this yet. It belongs
+  to the Phase 3 discussion about what the channel should look like on a monitor.
+
+INTERNAL NOTE
+  Billy Talent is now on the closed list alongside Sabaton and System Of A Down -
+  Atlantic, claimed, partially blocked, GBP 0.00. The Short for a different Billy
+  Talent song stays up because it is discovery, not revenue.
+--------------------------------------------------------------------------------

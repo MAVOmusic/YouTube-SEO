@@ -109,6 +109,9 @@
           new skeleton - article-free "every X is Y except Z", band name mid-sentence
   0033    "what X sounds like when Y"                     What Another Life sounds like when Motionless In White stop shouting
           new skeleton - interrogative frame, song first, band after the verb
+  0034    article subject + commissioned + infinitive        A tank game commissioned Sabaton to write Steel Commanders
+  0035    band + concealed-noun verb phrase                 Billy Talent hid a protest in the three minutes of Red Flag
+          both new - no possessive, no "is", no date, no question
 
 ################################################################################
 # BANNED SHAPES - the evidence

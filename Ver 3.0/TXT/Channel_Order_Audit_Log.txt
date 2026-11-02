@@ -3901,3 +3901,134 @@ DIVERSITY
   "twitch carries", the Kick line with CO-0004, and the word after the Twitch URL
   with CO-0013.
 ################################################################################
+
+################################################################################
+CO-0034 | Sabaton - Steel Commanders | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : pmfT3Bfp61c | 3:44 | uploaded 02-09-2025 | 346 views | 346 unique
+  Subs    : +1 (0.29%)
+  Earning : **E4 INELIGIBLE, GBP 0.00.** Flat red badge.
+  Bucket  : 0031 - 0040
+
+THE SONG
+  Sabaton, a standalone single released 17-09-2021 on Nuclear Blast, written for
+  Wargaming's World of Tanks event "Spirit of War". Tina Guo plays cello on the
+  single. Produced by Jonas Kjellgren, mastered by Maor Applebaum. Never on a
+  studio album.
+
+*** SABATON IS NOW A CLOSED FILE: FOUR UPLOADS, FOUR E4s, ZERO PENCE ***
+
+     CO-0023  Camouflage               a 1986 cover            E4
+     CO-0024  The Hammer Has Fallen    2001 demo, not a single E4
+     CO-0028  Dreadnought              2022 album track        E4
+     CO-0034  Steel Commanders         2021 game commission    E4
+
+  A cover, a demo, an album cut and a corporate commission. Four different reasons
+  to expect a different answer and one answer. **No Sabaton song is worth testing
+  again under this rights regime.** Written into the earning register as a rule,
+  not a caution.
+
+*** AND IT IS THE SECOND-MOST-RECOMMENDED VIDEO ON THE CHANNEL ***
+
+  80.7% of impressions came from YouTube recommending it. Only CO-0032 (91.0%) sits
+  higher, and the paid-cohort norm is 43-76%. Content suggesting names one external
+  channel: "Bring On The Thunder - Ultimate Gaming Tribute", a gaming compilation.
+  The algorithm filed a Sabaton bass playthrough next to gaming music - which is
+  precisely the audience the song was commissioned for.
+
+  Fourth restatement of the law: **the artists YouTube wants to push are the ones
+  whose masters are locked.**
+
+FEMALE 42.3% - THIRD HIGHEST
+  Behind CO-0027 (44.4) and CO-0031 (39.3). Three of the last eight uploads now sit
+  well above the 20-28% band. That is a real demographic shift on the recommended
+  traffic, and it mirrors the artist rather than the campaign.
+
+LIKES 100.0% - ELEVENTH PERFECT RATIO
+  The low-ratio run of CO-0028/0030/0033 did not continue here.
+
+THE OLD COPY (all four surfaces)
+  Title   : 54 chars, band name twice, half the title on hashtags.
+  Desc    : the funding wall.
+  Tags    : **9 at 103/500. "steel commanders" absent.** "sabaton" appeared three
+            times in variants including the typo "sabbaton". Six of nine tags were
+            channel identity.
+  Pin     : the 4,000-character wall.
+
+THE REWRITE
+  Title   : 58 chars. Article subject + commissioned + infinitive. New skeleton, and
+            the first title on the channel that leads with something other than the
+            band, the song or a player.
+  Desc    : 1406 chars. Opens on the commission itself, then spends the body on what
+            the song deliberately does NOT have - no slow section, no key change, no
+            ballad moment - which is device D21, first use.
+  Tags    : 16 at 227/500. Song present, the game, the publisher, all five members,
+            the label, the year. Zero channel identity.
+  Pin     : 115 chars, a prediction question - P14, first use.
+  GENRES  : 7 labels. Power metal primary. TRAP note that this is the only Sabaton
+            upload that legitimately belongs in a game-music playlist, and a filing
+            note recording the closed Sabaton rights file.
+
+################################################################################
+CO-0035 | Billy Talent - Red Flag | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : s9UhInRxTXtU | 3:17 | uploaded 02-09-2025 | 307 views | 308 unique
+  Subs    : **+3 (0.98% - second best of the 2025 cohort)**
+  Earning : **E4 INELIGIBLE + PARTIALLY BLOCKED, GBP 0.00.**
+  Bucket  : 0031 - 0040
+
+THE SONG
+  Billy Talent, second single from *Billy Talent II*, 11-09-2006, Atlantic, produced
+  by Gavin Brown. 3:16 on the album, 3:17 here. The band nearly pushed it to a
+  B-side and it became their opener.
+
+*** SECOND-BEST CONVERSION OF THE COHORT, ON ALMOST NO DATA ***
+
+  3 from 307 = 0.98%, beaten only by CO-0025's 1.11%. And it happened on a video
+  with **no search traffic, minimal browse traffic and no demographic panel at all**.
+  It was bought, watched, converted, and YouTube learned nothing it could report.
+
+  **Impression-AVD 0:52 - the new corpus high**, beating CO-0031's 0:46. Both of
+  those videos earned GBP 0.00.
+
+THREE DESKTOP-HEAVY UPLOADS IN FOUR
+     CO-0031  computer 15.9
+     CO-0032  computer 19.7
+     CO-0033  computer  7.0
+     CO-0035  computer 17.9
+
+  The paid core is still mobile at 85-95%, but the recommended and converting
+  traffic is desk-bound. Nothing in the copy can act on it. It belongs to Phase 3.
+
+WATCH QUALITY
+  AVD 0:22 on 3:17, APV 11.3%, 21% at 0:30, all typical. Likes 100.0% - twelfth
+  perfect ratio in the corpus.
+
+THE OLD COPY (all four surfaces)
+  Title   : 57 chars, band name again as a hashtag.
+  Desc    : the funding wall.
+  Tags    : **8 at 88/500. "red flag" absent. "billy talent" absent as two words** -
+            the box held "billytalent" and "bilyltalent", both run together, plus
+            six channel-identity tags.
+  Pin     : the 4,000-character wall.
+
+THE REWRITE
+  Title   : 59 chars. Band + concealed-noun verb phrase ("hid a protest in...").
+            New skeleton, no possessive, no "is", no date.
+  Desc    : 1333 chars. Opens on the tension between the warning in the chorus and
+            the party in the tempo, then the near-B-side history, then what the bass
+            actually does. Leads with the question the song refuses to answer - D24,
+            first use.
+  Tags    : 16 at 218/500. Song, album, all four members, the label, the scene, the
+            format. Zero channel identity.
+  Pin     : 134 chars, a second-person challenge to play it at tempo - P24, first use.
+  GENRES  : 7 labels. Punk rock primary, post-hardcore documented. TRAP note: do not
+            file with the pop punk material despite the era and the hooks.
+
+DIVERSITY - BOTH VIDEOS
+  Zero collisions at 9, 8, 7 and 6-grams across 35 files with URLs counted. Six
+  rewording passes were needed on CO-0034's CTA block alone; the URL-adjacency law
+  held again, and the escape that finally worked was moving the link to a verb-led
+  phrase ("nights are streamed via", "a second copy runs through") rather than
+  ending the line on the platform name.
+################################################################################
