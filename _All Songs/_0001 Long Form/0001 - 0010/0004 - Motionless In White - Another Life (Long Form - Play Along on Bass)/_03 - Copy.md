@@ -33,3 +33,15 @@ another life, motionless in white, motionless in white another life, bass play a
 ```text
 The pause button is not cheating. It is the only honest way to learn something this slow. What part took you longest to stop rushing?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Metalcore** | documented, primary - same song as CO-0002 | main metalcore lane |
+| Melodic metalcore | documented | melodic metalcore lane |
+| Gothic metalcore | documented | gothic metalcore lane |
+| Alternative metal | documented | alt-metal crossover |
+| Play along / tutorial format | factual - this is the same song as a teaching video | lesson lane, keep separate from performance playlists |
+
+5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.

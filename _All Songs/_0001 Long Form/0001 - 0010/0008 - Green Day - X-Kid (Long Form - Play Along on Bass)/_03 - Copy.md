@@ -33,3 +33,15 @@ green day, x-kid, x kid, tre, mike dirnt, punk rock, pop punk, bass cover, bass 
 ```text
 The most cheerful song ever written about someone not making it. What is your favourite bass part on a sad lyric?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Punk rock** | documented, primary | punk lane |
+| Pop punk | documented - strongest playlist fit | pop punk lane |
+| Alternative rock | documented | alt-rock lane |
+| Power pop | documented - the melody does the work | power pop and singalong lane |
+| Rock opera | light element, the trilogy structure | optional |
+
+5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.

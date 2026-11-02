@@ -33,3 +33,17 @@ queen, i want to break free, i want to break free bass, john deacon, the works, 
 ```text
 Two bass players on one record, and only one of them is holding a bass. Did you know the hook was a synth?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Pop rock** | documented, primary | pop rock lane |
+| Synth-pop | documented - the hook is a synth | synth-pop and 80s lane |
+| New wave | documented | new wave lane |
+| Funk rock | documented, the bass groove is funk | funk lane - the best fit for this bass part |
+| Arena rock | documented | stadium lane |
+| Classic rock | umbrella | classic rock lane |
+| Glam rock | artist context | optional |
+
+7 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.

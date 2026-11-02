@@ -33,3 +33,17 @@ taking back sunday, cute without the e, cute without the e bass, tell all your f
 ```text
 The pun only works one way round. Take the E out and it still lands. Which 2002 record should get this treatment next?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Emo** | documented, primary | main emo lane |
+| Post-hardcore | documented | post-hardcore lane |
+| Emo pop | documented | emo pop lane |
+| Pop punk | documented | pop punk lane |
+| Screamo | elements in the vocal only | optional |
+| Alternative rock | umbrella | alt-rock lane |
+| Long Island emo | scene label - the exact regional scene | scene and regional emo lane |
+
+7 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.

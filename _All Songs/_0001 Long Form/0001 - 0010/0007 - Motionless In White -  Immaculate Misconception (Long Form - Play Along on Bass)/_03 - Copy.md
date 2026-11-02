@@ -33,3 +33,14 @@ motionless in white, immaculate misconception, immaculate misconception bass, cr
 ```text
 Three-quarter speed for a week, then never look back. Which song did you avoid for years before finding it was easier than you thought?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Metalcore** | documented, primary | main metalcore lane |
+| Gothic metalcore | documented | gothic metalcore lane |
+| Melodic metalcore | documented | melodic metalcore lane |
+| Alternative metal | documented | alt-metal crossover |
+
+4 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.

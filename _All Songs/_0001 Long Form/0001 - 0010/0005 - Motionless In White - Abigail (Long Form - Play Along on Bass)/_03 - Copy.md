@@ -33,3 +33,15 @@ motionless in white, abigail, motionless in white abigail, creatures, metalcore,
 ```text
 This one is about the weight on the front of each note, not the notes themselves. Do you play behind the beat or on top of it?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Metalcore** | documented, primary | main metalcore lane |
+| Gothic metalcore | documented - the horror half of the debut era | gothic metalcore lane |
+| Melodic metalcore | documented | melodic metalcore lane |
+| Alternative metal | documented | alt-metal crossover |
+| Horror-themed metal | scene label, fits the song's subject matter | Halloween and horror playlist lane - strongest fit for this one |
+
+5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.

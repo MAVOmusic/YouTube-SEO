@@ -33,3 +33,16 @@ rammstein, du hast, rammstein du hast, sehnsucht, industrial metal, oliver riede
 ```text
 Four hundred identical hits and the room still moves. What is the one track you can play for an hour without getting bored of it?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Industrial metal** | documented, primary | main industrial metal lane |
+| Neue Deutsche Härte | documented - the exact German scene term | NDH lane, pairs with Oomph and Eisbrecher |
+| Industrial rock | documented | industrial rock lane |
+| Alternative metal | documented | alt-metal lane |
+| Electro-industrial | elements | electronic-metal crossover |
+| Heavy metal | umbrella | heavy metal lane |
+
+6 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.

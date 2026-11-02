@@ -33,3 +33,16 @@ chopin, nocturne op 9 no 2, chopin nocturne, classical music for studying, class
 ```text
 Four hours, no chapter markers, no interruptions. What should be the next piece stretched this far?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Classical** | documented, primary | classical lane |
+| Romantic era | documented - 1832 | Romantic period lane |
+| Nocturne | documented form | solo piano form lane |
+| Solo piano | factual - transcribed here for bass | piano and study music lane |
+| Study / focus / sleep music | functional label - this is a four hour loop | the strongest playlist lane for this video, by far |
+| Classical crossover / arrangement | factual | crossover lane |
+
+6 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.

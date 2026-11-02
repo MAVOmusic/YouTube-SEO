@@ -33,3 +33,15 @@ burzum, autumn leaves, burzum autumn leaves, the ways of yore, dungeon synth, am
 ```text
 Put this on at 2am once and it did the rest on its own. What do you leave running when the house is too quiet?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Dark ambient** | documented, primary | ambient and drone lane |
+| Dungeon synth | documented - the tag this record actually carries | dungeon synth and lo-fi fantasy lane |
+| Ambient | umbrella | the broad ambient bucket |
+| Neoclassical darkwave | adjacent, same era and scene | dark neoclassical lane |
+| Black metal | artist context only, NOT this track | keep out of any metal playlist - it would be wrong |
+
+5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.

@@ -33,3 +33,15 @@ Southern rock, 1983, one continuous take and no studio repair.
 ```text
 The bass is doing the arguing on this one and nobody ever mentions it. What is the most underrated bass part you know?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Southern rock** | documented, primary | main southern rock lane |
+| Hard rock | documented | hard rock lane |
+| AOR / album-oriented rock | documented - exact period fit | AOR and 80s radio lane |
+| Classic rock | umbrella | classic rock lane |
+| Pop rock | documented | soft rock and pop rock lane |
+
+5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
