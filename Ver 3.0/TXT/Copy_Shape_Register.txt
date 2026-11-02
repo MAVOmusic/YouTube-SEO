@@ -150,6 +150,8 @@
   0044    the producer was a band member                  P-philosophical-fork
   0045    the songwriter as a stylist                     P-binary-verdict
   0046    the recording circumstances, then the song      P-inference-question
+  0047    the one line the arrangement saves for the end   P-two-way-disagreement
+  0048    one-word verdict, then the reason                P-correction-invite
 
 ################################################################################
 # GENRE BLOCK - SPLIT INTO TWO ELEMENTS (VER 4.38, MAVO 02-11-2026)
@@ -200,6 +202,12 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.45. Rows added for CO-0047 and CO-0048. D22 back after
+              thirteen videos (last used 0034), D23 back after twelve (last used
+              0036), both inside the eight-video spacing rule. P12 and P13 both
+              returned, neither inside the last eight. No date-first opener in
+              either; no nomination pin; neither pin repeats the move the
+              description makes.
   2026-11-02  VER 4.44. Rows added for CO-0045 and CO-0046. D09 writing history
               reused on 0045 (third outing, still inside the eight-video spacing),
               D08 origin story dated on 0046 where the date is a medical event

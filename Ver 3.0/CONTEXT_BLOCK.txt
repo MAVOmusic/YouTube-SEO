@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.44 ACTIVE - 2026-11-02]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.45 ACTIVE - 2026-11-02]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -1792,3 +1792,51 @@ passes - the CTA block collided four times and the URL-adjacency law produced a 
 variant where the Twitch line directly after the Kick URL was the whole collision.
 
 **Next:** CO-0047 + CO-0048.
+
+################################################################################
+VER 4.45 STATUS ENTRY | 02-11-2026 | CO-0047 + CO-0048 - THE TAG THEORY DIES
+################################################################################
+
+**My Chemical Romance - Dead! and System Of A Down - Hypnotize. Both E4 with a
+partial block, both GBP 0.00.** 48 audits, 6 earners, GBP 0.751, 42 of 48 at zero.
+
+*** THE FIRST CORRECT TAG BOX IN 48 AUDITS CHANGED NOTHING ***
+  CO-0048's old tag box contained the band and the song, both spelled correctly,
+  with the song leading: "system of a down hypnotize". Nine consecutive audits
+  before it had the song title missing entirely. That video then returned 4.1k
+  impressions, 92.1% recommended, **the highest APV in the corpus at 14.4%** and
+  GBP 0.00 with a partial block. Metadata was never the mechanism. The claim
+  follows the recording played, and this is the cleanest proof in the register.
+
+*** MY CHEMICAL ROMANCE CLOSES IN THREE ATTEMPTS, THREE ERAS ***
+     CO-0009  Welcome To The Black Parade    2006 flagship single      E4
+     CO-0017  Foundations Of Decay           2022 reunion single      E4
+     CO-0047  Dead!                          deep album cut           E4 + block
+  Two of the three carry the partial block. Reprise claimed it three times out of
+  three. My Chemical Romance joins Sabaton and System Of A Down in the closed file.
+
+*** THE ADVERTISING CEILING, IN TWO AUDITS ***
+     CO-0047  88.1% of views from YouTube advertising - the highest share recorded
+     CO-0048  86.2%, and its search and external panels are both empty
+  Paid traffic is MAVO's own. For both songs it is the only traffic that exists,
+  which makes the thumbnail and the title the whole product for a viewer who never
+  searched for either song.
+
+*** NEW CTA CONSTRAINT OBSERVED ***
+  The Discord boost ask is now fixed furniture and it collided at the 5-gram with
+  CO-0045 on the first pass. Every boost line this pair uses a different verb
+  ("earns my gratitude", "will not be argued with") and the whole sweep was re-run
+  after each reword. Final state: 8, 7, 6 and 5-gram collisions touching a new file
+  are all zero.
+
+**Titles:** 0047 "The two week death sentence hidden in a My Chemical Romance
+chorus" (66) - breaks the two band-writes openers. 0048 "Hypnotize spent three
+minutes refusing to explode" (49) - the song as the subject of the sentence.
+**Lengths:** 0047 desc 1521 / tags 16-184 / pin 118. 0048 desc 1585 / tags
+16-222 / pin 134.
+**GENRES:** 0047 Emo, Emo pop, Pop punk, Alternative rock, Rock opera. 0048
+Alternative metal, Nu metal, Hard rock, Armenian metal.
+
+**Next:** CO-0049 + CO-0050. A folder for 0049 - (G)I-DLE - I'm The Trend (Long
+Form) is already in the bucket; 0050 is not. Read 0049 first, then wait for 0050
+to land before starting the pair.

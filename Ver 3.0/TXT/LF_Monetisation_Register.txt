@@ -3368,3 +3368,109 @@ INTERNAL NOTE
   "reach cannot predict revenue". Do not re-record any of this catalogue; Sony BMG
   claims it and does not share.
 --------------------------------------------------------------------------------
+--- MR-0047 | CO-0047 | My Chemical Romance - Dead! ------------------------------
+Video ID           : rjvCHdjWgr4 | 3:15 | uploaded 03-09-2025 | 345 views
+                     | 1.9 watch hours | **+1 subscriber** | 345 unique
+Notices badge      : **E4 INELIGIBLE + PARTIALLY BLOCKED** - two-line badge
+Revenue            : GBP 0.00 - estimated revenue dashed, CPM dashed, RPM dashed,
+                     "how you make money" empty, "earnings by ad type" empty
+Impressions / CTR  : 2.4k impressions at 1.2% | **87.4% from YouTube recommending**
+                     | **28 engaged views** | impression-AVD 0:23 | 0.18 h
+Watch quality      : AVD 0:20 | APV 10.4% | 20% still watching at 0:30, marked
+                     "typical" against the channel's own benchmark
+Likes              : **100.0%** against a channel average of 97.4%
+End screen CTR     : **0.0%** against a channel average of 1.1% | hype 250 points
+                     from a single hype | no remixes
+Traffic            : **advertising 88.1** / browse 8.7 / direct-unknown 0.9 /
+                     suggested 0.9 / search 0.6 / other 0.9
+External (0.6%)    : **Google Search 100.0%** - the only external source of the set
+Search (0.6%)      : **"rocksmith" 50.0%** - the tool, not the song, which is the
+                     clearest statement yet that the software carries the discovery
+Content suggesting : three at 33.3% - "Como tocar Perdon Perdon de HA" /
+                     "So Far Away - Avenged Sevenfold (Cover by Fit...)" /
+                     "[Lv.16] Decode - Paramore (four star) Pop Drum..."
+Devices            : mobile 89.3 / computer 10.7 / tablet 0 - no TV share at all
+Audience           : **Male 100.0% / 25-34 100.0%** - the third clean male read in
+                     the corpus | India 70.7 / Indonesia 8.4 | **96.1% of watch
+                     time from non-subscribers** | 100% no captions
+Old title          : "[guitar emoji] My Chemical Romance - Dead! #rocksmith #bass
+                     #mychemicalromance" - no space after the exclamation mark
+Old tags           : **7 / 70 chars. Song title ABSENT, band absent as a phrase,
+                     no MCR long form, and the box is entirely channel-identity
+                     tags: mavomusic, mavomusicyt, mcr, kick, kickstreaming,
+                     kickcommunity, kickpartner** - the tenth C-11 box in a row
+Old pin            : the 4,000-character funding wall (Super Thanks / Kick /
+                     Discord / X / TikTok / Rumble / Twitch / subscribe)
+Old comments       : four MAVO comments, all funding furniture, all one year old,
+                     all with zero replies
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, WITH PARTIAL BLOCK.** Reprise / Warner.
+                     Third My Chemical Romance upload on the channel.
+
+*** THREE MCR UPLOADS, THREE ERAS, THREE E4s - 0047 CLOSES THE CATALOGUE ***
+  0009 Welcome To The Black Parade (2006 flagship single), 0017 Foundations Of
+  Decay (2022 reunion single), 0047 Dead! (deep album cut). Three eras, three
+  production teams, two of them carrying the partial block. The claimant follows
+  the recording and it has followed it three times out of three. My Chemical
+  Romance joins Sabaton in the closed file.
+
+INTERNAL NOTE
+  The press pack for this record argues that Dead! is the most upbeat track on an
+  album about a man dying of cancer. That is the copy's hook and it is also the
+  only fact of the audit worth keeping: 345 views is the lowest view count since
+  CO-0040, and the video was still recommended to 87.4% of the people who saw it.
+  Distribution worked. Payment did not.
+--------------------------------------------------------------------------------
+--- MR-0048 | CO-0048 | System Of A Down - Hypnotize ----------------------------
+Video ID           : 20vHeUiDhwl | 3:10 | uploaded 03-09-2025 | 312 views
+                     | 2.4 watch hours | **+2 subscribers** | 312 unique
+Notices badge      : **E4 INELIGIBLE + PARTIALLY BLOCKED** - two-line badge
+Revenue            : GBP 0.00 - every revenue panel dashed, RPM shown as a dash
+Impressions / CTR  : **4.1k impressions at 0.7%** | **92.1% from YouTube
+                     recommending** - the second-highest recommendation share on
+                     the channel behind CO-0046 | **30 engaged views** |
+                     impression-AVD 1:01 | 0.52 h from impressions
+Watch quality      : AVD 0:27 | APV 14.4% - the highest average percentage viewed
+                     in the corpus | 23% at 0:30, marked "typical"
+Likes              : **100.0%** against a 97.4% channel average
+End screen CTR     : **0.0%** | hype 0 points, no hypes | no remixes
+Traffic            : **advertising 86.2** / browse 8.3 / suggested 3.9 /
+                     search 1.0 / direct-unknown 0.3 / other 0.3
+External           : **"not enough traffic data"** - no external report at all
+Search (1.0%)      : **"not enough traffic data"** - the search panel is empty even
+                     though the term share is recorded as 1.0%
+Content suggesting : six at 8.3% each, and one of them is **our own CO-0032
+                     Roulette** ("Every System Of A Down song is a wall except
+                     Ro...") - the reference loop is now internal to the channel
+Devices            : mobile 85.1 / computer 12.7 / **TV 1.2** / tablet 0.9
+Audience           : 25-34 100.0% | India 63.1 / Indonesia 12.5 | **91.3% of watch
+                     time from non-subscribers, the lowest non-subscriber share in
+                     the corpus** | 100% no captions | **"not enough demographic
+                     data"** for the gender split, the second such gap in 48 audits
+Old title          : "Descending into the brooding Drop-C low end of SOAD's
+                     Hypnotize!" - dated "!" opener, band abbreviated
+Old tags           : **7 / 145 chars. First correct box in the entire series:**
+                     "system of a down hypnotize", "soad hypnotize bass", "kick drop
+                     bass", "rocksmith 2014 bass", "shavo odadjian bass", "roulette
+                     bass", "soad bass cover" - band and song both present and
+                     correctly spelled. Two defects only: a tag for the wrong SOAD
+                     song and no album or misspelling lane
+Old pin            : one MAVO comment, three months old, zero replies, asking
+                     whether viewers prefer Hypnotize or Roulette
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, WITH PARTIAL BLOCK.** American Recordings.
+                     Third System Of A Down upload.
+
+*** THE TAG BOX FINALLY WORKED AND NOTHING CHANGED ***
+  Nine consecutive audits had the song title missing from the tags. 0048 is the
+  first box in 48 videos where the band and the song were both there, spelled
+  correctly, with the song leading. It still earned GBP 0.00, and it still carries
+  the partial block. Eligibility is not a metadata problem and this video is the
+  proof. The rewritten box above keeps the working structure and adds the album
+  and the misspelling lane.
+
+INTERNAL NOTE
+  Hypnotize's clean read - highest APV in the corpus, 92.1% recommended, 30
+  engaged views - makes it the SOAD equivalent of CO-0046: the format works on
+  this catalogue and the money does not. Do not re-record it.
+--------------------------------------------------------------------------------

@@ -4725,3 +4725,127 @@ THE COUNTER-EXAMPLE TO CO-0043
   GBP 0.05. This was recommended to 93.2% on 4.8k, converted 44 engaged views and
   earned GBP 0.00. Same batch. The distribution was never the variable.
 ################################################################################
+################################################################################
+CO-0047 | My Chemical Romance - Dead! | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : rjvCHdjWgr4 | 3:15 | uploaded 03-09-2025 | 345 views | 1.9 h
+  Subs    : **+1**
+  Earning : **E4 INELIGIBLE + PARTIALLY BLOCKED, GBP 0.00.** Reprise / Warner.
+  Bucket  : 0001 - 0100 / 0041 - 0050
+  Captured: 11 screenshots, all readable.
+
+THE SONG
+  Track two on The Black Parade, 23 October 2006, Reprise, produced by Rob
+  Cavallo, 3:15. Written by My Chemical Romance. The album's concept is a dying
+  cancer patient called the Patient; Dead! is the track where the diagnosis is
+  delivered, and the doctor gets one line in the bridge before the horns take over.
+
+WHAT THE PANELS SAY
+  2.4k impressions at 1.2%, 87.4% recommended, **28 engaged views**, impression-AVD
+  0:23 and 0.18 h from impressions. AVD 0:20, APV 10.4%, 20% at 0:30 marked
+  "typical". Likes 100.0% against a 97.4% channel average. **End screen 0.0%**
+  against a 1.1% average. Hype 250 points from a single hype.
+
+  **Traffic is the most advertising-heavy read in the corpus: 88.1%.** Browse 8.7,
+  everything else under 1%. Search 0.6% and the only term is **"rocksmith" at
+  50.0%** - people are finding the software, not the song. External 0.6%, and it
+  is 100% Google Search.
+
+  Devices mobile 89.3 / computer 10.7 / tablet 0, no TV share. Male 100% and 25-34
+  100%. India 70.7 / Indonesia 8.4. **96.1% non-subscriber watch time.**
+
+THE OLD COPY (all four surfaces)
+  Title   : band and song with no space after the exclamation mark, plus a
+            hashtag tail of #rocksmith #bass #mychemicalromance.
+  Desc    : the 4,000-character funding wall.
+  Tags    : **7 at 70/500. Song title absent, band never written as a phrase, and
+            every tag is channel identity** - mavomusic, mavomusicyt, mcr, kick,
+            kickstreaming, kickcommunity, kickpartner. Tenth C-11 box in a row.
+  Pin     : the funding wall. Four MAVO comments in total, all funding furniture,
+            all a year old, all with zero replies - no pinned question at all.
+
+THE REWRITE
+  Title   : 66 chars. The [timed fact] hidden in a [band] [section]. New skeleton,
+            and it deliberately breaks the two previous band-writes openers.
+  Desc    : 1521 chars. Opens on the doctor and the two-week line, then the joke
+            of the arrangement, then the bass instruction (do not slow down), then
+            the release facts. D22, the one element the arrangement saves for the
+            end.
+  Tags    : 16 at 184/500. Band, song, album, all four members, producer, three
+            genre lanes, year, label, both formats.
+  Pin     : 118 chars, two-way disagreement - brilliance or bad taste. P12.
+  GENRES  : split block. CORRECT: Emo, Emo pop, Pop punk, Alternative rock, Rock
+            opera.
+
+THE CLOSED CATALOGUE
+  Third My Chemical Romance upload, third E4, and two of the three carry the
+  partial block. 0009 was the flagship single, 0017 the 2022 reunion single, 0047
+  a deep album cut. Three eras, three production teams, one claimant. Nothing is
+  left to test.
+################################################################################
+CO-0048 | System Of A Down - Hypnotize | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : 20vHeUiDhwl | 3:10 | uploaded 03-09-2025 | 312 views | 2.4 h
+  Subs    : **+2**
+  Earning : **E4 INELIGIBLE + PARTIALLY BLOCKED, GBP 0.00.** American Recordings.
+  Bucket  : 0001 - 0100 / 0041 - 0050
+  Captured: 11 screenshots, all readable.
+
+THE SONG
+  Title track and second single from Hypnotize, 10 November 2005 (the album
+  followed on 22 November), American Recordings, 3:09, produced by Rick Rubin with
+  Daron Malakian, Drop C tuning. Second half of the Mezmerize / Hypnotize pair,
+  two full albums inside six months.
+
+WHAT THE PANELS SAY
+  **4.1k impressions at 0.7%, 92.1% recommended - the second-highest recommendation
+  share on the channel - and 30 engaged views.** Impression-AVD 1:01, the highest
+  of any audit in this batch, and 0.52 h from impressions. AVD 0:27, **APV 14.4%,
+  the highest average percentage viewed in the corpus**, 23% at 0:30 "typical".
+  Likes 100.0%. End screen 0.0%, hype 0 points, no hypes.
+
+  Traffic advertising 86.2 / browse 8.3 / suggested 3.9 / search 1.0. Search and
+  external both come back "not enough traffic data" - the search panel is empty
+  even though the share is recorded.
+
+  Content suggesting is six at 8.3% each and **one of them is our own CO-0032
+  Roulette** ("Every System Of A Down song is a wall except Ro..."). The loop is
+  now internal to the channel.
+
+  Devices mobile 85.1 / computer 12.7 / TV 1.2 / tablet 0.9. 25-34 100%. India
+  63.1 / Indonesia 12.5. **91.3% non-subscriber watch time, the lowest non-sub
+  share in the corpus.** Demographics "not enough data" - second gap in 48 audits.
+
+THE OLD COPY (all four surfaces)
+  Title   : "Descending into the brooding Drop-C low end of SOAD's Hypnotize!" -
+            a date-style opener with an exclamation tail and the band abbreviated.
+  Desc    : structured - hook, stream, genres, hashtags. Not the funding wall.
+  Tags    : **7 at 145/500 and this is the first correct box in the entire series.**
+            "system of a down hypnotize", "soad hypnotize bass", "kick drop bass",
+            "rocksmith 2014 bass", "shavo odadjian bass", "roulette bass", "soad
+            bass cover". Band and song both present, both spelled correctly, song
+            leading. Two defects: a tag for the wrong SOAD song, and no album or
+            misspelling lane.
+  Pin     : one MAVO comment, three months old, zero replies, asking Hypnotize or
+            Roulette.
+
+THE REWRITE
+  Title   : 49 chars. [Song] + spent [duration] + refusing to X. New skeleton - the
+            song title alone as the subject.
+  Desc    : 1585 chars. Opens on a one-word verdict and the reason for it (D23),
+            then the two-albums-in-six-months release history, then the Drop C
+            playing instruction, then the facts.
+  Tags    : 16 at 222/500. Band, song, album (plus the common misspelling lane),
+            all four members, producer, three genre lanes, year, label, both
+            formats.
+  Pin     : 134 chars, correction invite - point out where I am wrong about
+            restraint being the heavy thing here. P13.
+  GENRES  : split block. CORRECT: Alternative metal, Nu metal, Hard rock, Armenian
+            metal.
+
+THE TAG THEORY DIES HERE
+  Nine consecutive audits had the song title missing from the tag box. 0048 had the
+  band and the song both correct from the start, and returned GBP 0.00 with a
+  partial block on 4.1k impressions and the highest APV in the corpus. Metadata was
+  never the mechanism. The claim follows the recording played.
+################################################################################
