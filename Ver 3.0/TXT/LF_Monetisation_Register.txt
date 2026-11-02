@@ -2098,3 +2098,78 @@ INTERNAL NOTE ON THIS SONG
   CO-0008 is a play along. CO-0027 is the performance. If only one survives, keep
   CO-0008 - it is the one that produced 59 subscribers.
 --------------------------------------------------------------------------------
+
+--- MR-0028 | CO-0028 | Sabaton - Dreadnought -----------------------------------
+Video ID           : dx8ar_iGpE | 4:47 | 313 views | 2.1 watch hours
+                     | **+2 subscribers** | 314 unique viewers
+Published          : 31-08-2025 (capture window to 01-11-2026)
+Notices badge      : **E4 INELIGIBLE** - flat "Ineligible to earn", NO partial
+                     block flag (unlike CO-0027). Ads simply off.
+Revenue            : GBP 0.00 - every panel dashed, no ad types, no CPM
+Impressions / CTR  : 1.4k / 1.1% | 56.0% from YouTube recommending | 15 engaged
+                     views | 0:34 impression-AVD | 0.14 h from impressions
+Watch quality      : AVD 0:24 | APV 8.5% | 23% at 0:30 - "typical", not flagged
+Likes              : **75.0% vs channel average 97.4%** - the worst like ratio in
+                     the corpus by a wide margin (previous lowest 100.0%)
+End screen CTR     : 0.0% (channel 1.1%) | bell: zero pushes, zero views
+Hype               : 0 points, 0 hypes
+Devices            : mobile 96.2 / computer 3.6 / TV 0.2 / no tablet
+Audience           : India 75.4 / Indonesia 11.5 | female 22.6 / male 77.4 |
+                     age 25-34 100% | 91.2% of watch time from non-subscribers
+Traffic            : **advertising 93.0** / browse 2.9 / search 2.6 / related
+                     Shorts 1.0 / suggested 0.3 / other 0.3
+External (0.3%)    : Google Search 100.0
+Search terms (2.6%): **rock smith 12.5** / **sabaton 12.5**
+Content suggesting : "Lonely Day is the quietest thing System Of A Do..." 100.0 -
+                     MAVO's own SOAD upload feeding this one
+Old title          : "Sabaton - Dreadnought #rocksmith #bass #sabaton" - 43 chars
+Old tags           : 8 tags / 83 chars. **"sabaton" appears TWICE** and
+                     "dreadnought" appears ZERO times. Six of the eight are
+                     channel identity (mavomusic, mavomusicyt, kick, kickstreamer,
+                     kickcommunity, kickpartner). C-11 again, at its worst ratio.
+Old pin            : the 4,000-character funding wall (Patreon, streams elements,
+                     Prime subs, the whole dead-link stack) - no question, no
+                     song, nothing a viewer would answer.
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN.** Sabaton / Nuclear Blast are a
+                     Content-ID-enforcing catalogue. This is the same claimant as
+                     MR-0024 and it produced the same flat E4. Two Sabaton songs
+                     in, two E4s, zero pence. Nothing about the metadata caused
+                     this - the old copy was the standard link wall and it made no
+                     difference either way.
+
+CONVERSION         : 2 from 313 = 0.64%. Third lowest in the paid cohort, ahead of
+                     only CO-0024 (0.00%) and CO-0027 (0.00%). Still not zero, and
+                     still above nothing, which matters for the comparison below.
+
+*** THE PAID-COHORT CEILING KEEPS HOLDING ***
+
+  Fourteen paid uploads now. The conversion range has been 0.00% to 1.14% and the
+  median sits just under 0.7%. CO-0028 lands at 0.64%. The pattern is so stable
+  that the paid campaign is buying approximately two subscribers per thousand
+  views, every time, regardless of the song, the thumbnail or the runtime.
+
+  What varies is watch quality, and CO-0028 is only the second upload in the
+  corpus to sit at "typical" rather than below it - 23% still there at 0:30, AVD
+  0:24 on a 4:47 runtime. CO-0024 (Sabaton, demo) had AVD 0:28 on 4:54 and 22% at
+  0:30. **The two Sabaton uploads have the two most similar retention profiles in
+  the corpus.** Sabaton viewers stay for Sabaton.
+
+*** THE LIKE RATIO IS THE NEW SIGNAL ***
+
+  75.0% against a channel average of 97.4% means roughly one in four likes on this
+  video was a dislike. Every other upload in the corpus printed 100.0% or close.
+  This is the first genuine negative reception measurement on the channel.
+
+  It is NOT a copy problem - the old copy was the standard wall and this capture
+  predates any rewrite. The likeliest reading is that a bass playthrough of a
+  2022 power metal album track pulls in album fans rather than the Rocksmith
+  crowd, and album fans notice when a nine-instrument song is reduced to the
+  bassline. Recorded as a hypothesis, not a conclusion.
+
+INTERNAL NOTE
+  Do not queue a remake. Two Sabaton songs have now been tried at two different
+  points in the catalogue (2001 demo, 2022 album track) and both are E4 with zero
+  revenue. The claimant follows the catalogue, not the song. A third Sabaton
+  upload should be assumed to be E4 before it is recorded.
+--------------------------------------------------------------------------------

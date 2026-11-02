@@ -399,7 +399,7 @@ RECREATE INSTRUCTION
   MR-0026 CO-0026  Alien Fucker - Arabic UFO Party   E6      GBP 0.001
                                                    TOTAL    GBP 0.581
 
-  Everything else audited is GBP 0.00. Twenty-three long forms, zero pence.
+  Everything else audited is GBP 0.00. Twenty-four long forms, zero pence.
 
   THE THREE EARNERS HAVE ALMOST NOTHING IN COMMON ON THE SURFACE:
       classical piano loop / 2004 pop bonus track / 2014 Israeli grind
@@ -411,6 +411,7 @@ RECREATE INSTRUCTION
   MR-0023 CO-0023  Sabaton - Camouflage (obscure cover)              E4
   MR-0024 CO-0024  Sabaton - The Hammer Has Fallen (demo deep cut)    E4
   MR-0025 CO-0025  Aephanemer - Old French Song (Tchaikovsky cover)   E4
+  MR-0028 CO-0028  Sabaton - Dreadnought (2022 album track)            E4
 
   Three failures, three different justifications, one shared cause: somebody
   registered the recording that was actually played.
@@ -432,6 +433,10 @@ RECREATE INSTRUCTION
               Tchaikovsky piece and still came back E4, because the arrangement
               played was Aephanemer's, not MAVO's. Public domain frees the
               COMPOSITION only. Tier A is now explicitly "arranged by MAVO".
+  2026-11-02  VER 4.28. ROW list unchanged - CO-0028 earned nothing. Added to the
+              failed-candidate list. Sabaton now has TWO E4s at opposite ends of
+              the catalogue (2001 demo, 2022 album track), which settles that the
+              claimant follows the catalogue and not the song.
 
 ################################################################################
 # END OF FILE

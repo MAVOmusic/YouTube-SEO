@@ -3299,3 +3299,81 @@ DUPLICATE-SONG WATCH
   to gain nothing. Best answer is usually not to upload it.
 
 ################################################################################
+
+################################################################################
+CO-0028 | Sabaton - Dreadnought | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : dx8ar_iGpE | 4:47 | uploaded 31-08-2025 | 313 views | 314 unique
+  Subs    : +2 (0.64% of views)
+  Earning : **E4 INELIGIBLE, GBP 0.00** - flat badge, no partial block
+  Bucket  : 0021 - 0030
+
+THE SONG
+  Sabaton, track 3 on *The War To End All Wars*, released 04-03-2022 on Nuclear
+  Blast. 4:58 on the record, 4:47 here. Written by Joakim Broden and Par
+  Sundstrom. Not a single, but the band put out a lyric video in March 2022.
+  Subject: the dreadnought class of battleship, not one ship, ending on the
+  Battle of Jutland in 1916.
+
+WHY THIS IS NOT A REPEAT OF CO-0024
+  CO-0024 was *The Hammer Has Fallen*, a 2001 demo from Fist for Fight. Different
+  song, different era, different cut. The one-song-one-upload rule is satisfied.
+  Both are E4 with zero revenue, and that is the finding: two Sabaton songs at
+  opposite ends of the catalogue, same result. The claimant follows the catalogue.
+
+WHAT THE DATA SAYS
+  Reach is normal for the paid cohort - 1.4k impressions, 1.1% CTR, 93.0%
+  advertising traffic - and conversion is ordinary at 0.64%. What is not ordinary
+  is the like ratio: **75.0% against a channel average of 97.4%.** Roughly one in
+  four likes here was a dislike. No other upload in the corpus has done that.
+  Retention is the second best in the corpus for a long runtime: 23% still present
+  at 0:30 on 4:47, AVD 0:24, both marked "typical" instead of "below typical".
+  Together with CO-0024 (22% at 0:30, AVD 0:28 on 4:54) this means **the two
+  Sabaton uploads have the closest retention profiles in the corpus**. People who
+  click Sabaton stay. They just do not click in large numbers, and they do not pay.
+
+  Search is only 2.6% and the entire slice is two terms: "rock smith" and
+  "sabaton", 12.5% each. Nothing from the song title. Google Search is the only
+  external referrer at 0.3%. Content suggesting is 100% MAVO's own SOAD upload -
+  the channel is recommending itself, not being recommended by anyone new.
+
+THE OLD COPY (all four surfaces)
+  Title   : "Sabaton - Dreadnought #rocksmith #bass #sabaton" - 43 chars, half of
+            it hashtags, and it wastes the hashtag budget repeating a word that is
+            already in the title.
+  Desc    : the full funding wall - Prime subs, streams elements, Patreon, TikTok,
+            X, Rumble, the dead discord.gg/mavomusic invite, "type mavomusic into
+            the invite box", a stream schedule that no longer exists. No song, no
+            subject, no song release, nothing about the music at all.
+  Tags    : 8 at 83/500. **"sabaton" twice, "dreadnought" never.** Six of the eight
+            are channel identity. This is C-11 at its worst ratio yet - 75% of the
+            tag box describes the channel, 0% describes the song.
+  Pin     : the same 4,000-character wall, no question, nothing to answer.
+
+THE REWRITE
+  Title   : 66 chars, front-loads Sabaton and Dreadnought, keeps "bass" as the
+            format word, drops the hashtag stack, and adds the hook - the ship that
+            named the class was in refit and missed Jutland.
+  Desc    : 1153 chars. Three beats: what a dreadnought was (1906, every other
+            battleship obsolete), the irony (Jutland 1916, the ship absent, her
+            only kill a rammed submarine), and what the bassline actually demands
+            (a march, even and steady, no drifting). Sabaton and album credited at
+            the end. No dead links, no funding wall.
+  Tags    : 16 at 232/500. Correct spellings first, both Sabaton members by name,
+            the album, the battle, the format, plus "rock smith" spelled both ways
+            because it is a measured live query. Zero channel identity tags.
+  Pin     : 122 chars. The Jutland irony, asked as a question.
+  GENRES  : 6 labels. Power metal primary. Carries an explicit TRAP note that
+            Sabaton must not be filed as symphonic power metal - this track has no
+            orchestra - and a filing note that CO-0024 and CO-0028 CAN share a
+            playlist, unlike the CO-0008/CO-0027 pair.
+
+DIVERSITY
+  First copy in the corpus to score zero collisions down to the 4-gram, across all
+  28 files, on description, pin and title. No rewording cycles needed.
+
+C-11 WATCH
+  Old box 75% channel identity / 0% song. New box 0% channel identity / 100% song.
+  This is the reference case for the correction - quote it whenever the tag advice
+  is questioned.
+################################################################################
