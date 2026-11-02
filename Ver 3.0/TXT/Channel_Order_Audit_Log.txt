@@ -2860,3 +2860,61 @@ back" (discord.gg/mavomusic). That vanity invite is dead. The live invite
 ESGsGkN4j2 is the URL actually printed. MAVO to confirm the boost line stays.
 
 ################################################################################
+
+################################################################################
+CO-0018 | Eurobeat Brony - Discord (The Living Tombstone Remix) | 3:14
+################################################################################
+
+FOLDER   : _0001 Long Form / 0011 - 0020 / 0018 - Eurobeat Brony - Discord
+           (The Living Tombstone Remix) (Long Form)
+CAPTURED : 12 screenshots, all readable (Details, Pinned, Tags, Overview x2,
+           Reach x2, Engagement x2, Audience x2, Revenue).
+CHART    : Rocksmith 2014 remastered, bass, 3:14 - the same length as the 2012
+           single, so the arrangement follows the remix rather than cutting it.
+
+WHAT WAS WRONG WITH THE OLD COPY
+  Title   : started with a broken "[]" glyph, then "[B[]" - a bracket artefact
+            pasted in front of the artist name. Then #rocksmith #bass
+            #thelivingtombstone as hashtags. Answering none of the five search
+            terms the video actually gets.
+  Desc    : the 2022 template shell in full - Super Thanks pitch, Kick subscribe
+            link, "we are officially a Kick Partner", the dead invite
+            discord.gg/mavomusic PLUS "or type mavomusic into the invite box",
+            an X link, TikTok, Rumble, Twitch, "Be part of our community (^-^)",
+            "Much love", and a licence note. Fourteen links and zero about the song.
+  Tags    : 8 real tags at 90/500 characters - a quarter of the box. Six of the
+            eight are channel and platform identity (mavomusic, mavomusicyct,
+            kickpartner, kickstreaming, kick, kickcommunity). Only two name the
+            music, and one of those, "ffnaf", is a typo with no search volume.
+  Pin     : the "[IMPORTANT INFORMATION]" wall - subscription pitch, financial
+            support block, Tip link, Patreon, TikTok, schedule, Twitch revenue
+            split, Super Thanks explanation. No question, no reason to reply.
+            The single longest and most generic pin in the corpus.
+
+WHAT THE NEW COPY DOES
+  Title   : 74 chars, names the artist, the remixer, the song and the bass. No
+            hashtags, no glyph, no bracket.
+  Desc    : 974 chars, opens on the actual release history (Bandcamp August 2011,
+            track four of Super Ponybeat Vol. 2, remix five months later) then
+            explains the four chords and the off-centre groove. Three CTA lines,
+            one unique closing sentence. No licence note, no dead invite.
+  Tags    : 15 tags at 230/500. Both artists, the song, three remix variants of the
+            query, four genre lanes and the platform family. Dropped all six
+            channel-identity tags and the "ffnaf" typo.
+  Pin     : one comparative question - this remix outdrew the song it remixes.
+            A fact, a hook and an ask in two sentences.
+  GENRES  : new block, requested by MAVO 01-11-2026. Nine labels listed with a
+            status column (documented genre vs scene label) and a playlist lane
+            for each.
+
+NEW STANDING RULE - GENRE BLOCK (MAVO, 02-11-2026)
+  "include a Genre block where you tell me which of all genre applies to the
+   songs. You removed from the titles, only left 1 or 2 in. I need all the
+   genres to know so i can add songs to playlists."
+  From CO-0018 onward every "_03 - Copy.md" carries a GENRES section after the
+  pinned comment, marked "playlist reference - do not paste". Descriptions are
+  written exactly as before. The block lists every genre the song genuinely
+  carries, flags which are documented classifications and which are scene
+  labels, and names the single best playlist lane plus the best two-genre pair.
+
+################################################################################
