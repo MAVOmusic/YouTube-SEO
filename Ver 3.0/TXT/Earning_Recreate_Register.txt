@@ -398,9 +398,14 @@ RECREATE INSTRUCTION
   MR-0022 CO-0022  Avril Lavigne - Together          E1      GBP 0.04
   MR-0026 CO-0026  Alien Fucker - Arabic UFO Party   E6      GBP 0.001
   MR-0029 CO-0029  Amaranthe - Archangel              E1      GBP 0.06
-                                                   TOTAL    GBP 0.641
+  MR-0030 CO-0030  Pendulum - Tarantula               E2      GBP 0.06
+                                                   TOTAL    GBP 0.701
 
   Everything else audited is GBP 0.00. Twenty-five long forms, zero pence.
+
+  NOTE: E1 and E2 paid IDENTICALLY at this volume - GBP 0.06 each on CO-0029 and
+  CO-0030 from 315 and 348 views. Do not chase E1 specifically. Chase anything
+  that is not E4.
 
   THE THREE EARNERS HAVE ALMOST NOTHING IN COMMON ON THE SURFACE:
       classical piano loop / 2004 pop bonus track / 2014 Israeli grind
@@ -442,6 +447,11 @@ RECREATE INSTRUCTION
               first modern major-label metal record to come back unclaimed, and on
               the same label (Nuclear Blast) as two E4 Sabaton uploads. The label
               is not the claimant; the master is. Total now GBP 0.641.
+  2026-11-02  VER 4.31. ROW 5 ADDED - Pendulum - Tarantula, E2, GBP 0.06. First
+              revenue-share claim since CO-0011 and the first electronic record to
+              earn. E1 and E2 paid the same amount at the same volume, so the
+              register now separates ELIGIBILITY from SPLIT: chase eligibility,
+              ignore the split. Total GBP 0.701.
 
 ################################################################################
 # END OF FILE
