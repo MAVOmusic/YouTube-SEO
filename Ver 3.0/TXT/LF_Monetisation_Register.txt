@@ -1892,3 +1892,72 @@ uploads. That is exactly the pattern YouTube's repetition detectors look for, an
 the new copy deliberately breaks it - CO-0024's box is 16 tags at 230/500 with
 the song, the album, both writers, the misspelling and two years.
 --------------------------------------------------------------------------------
+
+--- MR-0025 | CO-0025 | Aephanemer - Old French Song ----------------------------
+Video ID           : 7epGMYJz2X4 | 2:25 | 366 views | 2.2 watch hours | +4 subs
+                     | 360 unique viewers
+Notices badge      : **E4 INELIGIBLE only**
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : 1.9k / 1.2% | 67.9% from YouTube recommending | 24 engaged
+                     views | 0:37 impression-AVD | 0.25 h from impressions
+Watch quality      : AVD 0:21 | **APV 15.0% - second highest in the corpus after
+                     CO-0022's 15.4%** | 21% at 0:30 - typical band
+Likes              : **100.0%** - fifth perfect ratio in the corpus
+End screen CTR     : 0.0% | bell: zero pushes, zero views
+Devices            : mobile 84.6 / computer 15.4 / no TV / no tablet
+Audience           : India 68.6 / Indonesia 12.6 | demographics below threshold
+                     | 96.5% non-subscribed, 3.6% subscribed
+Traffic            : advertising 86.1 / browse 7.7 / search 3.0 /
+                     **external 1.9 - the HIGHEST external share in the corpus** /
+                     related Shorts 0.6 / other 0.8
+External breakdown : **Facebook 42.9 / Creator Studio 28.6 / Google Search 14.3**
+                     Facebook is the top external source for the first time ever.
+                     Somebody shared this off-platform.
+Search terms (3.0%): **aephanemer 9.1** - the correct spelling, typed by people
+                     who already know the band
+Content suggesting : **"Elvis Presley's Jailhouse Rock swings on Bill B..." 100.0**
+                     That is CO-0021 wearing its Ver 4.21 title. **Fifth internal
+                     chaining sighting, and the first time his own video is 100%
+                     of the suggestion panel.**
+
+CONVERSION: +4 from 366 = **1.09% - second highest in the corpus**, behind only
+CO-0022's 1.14%.
+
+*** THE BAND FOUND THE VIDEO AND COMMENTED ON IT ***
+A screenshot of the comments is filed as "_01 - Main Info/Official Comment.jpeg".
+    @AephanemerOfficial  - 1 year ago
+    "Fantastic job! Congrats!!"
+    MAVO replied: "Thank you! Your songs are 🔥 my pleasure to play them 💚"
+That is a verified artist account, on the record, endorsing the cover. It is the
+single most valuable piece of social proof in the corpus and it is currently
+buried in the comments with no mention in the description, the title or the pin.
+The new copy mentions it in the second paragraph, truthfully and without
+embellishment. The band's own audience is a warm, unserved traffic source - the
+Facebook share showing up as the top external referrer is almost certainly that
+audience arriving.
+
+*** THIRD COUNTER-EXAMPLE, AND THE MOST IMPORTANT ONE ***
+Old French Song is a TCHAIKOVSKY piece - Op. 39 No. 16 from Album for the Young,
+written 1878. Tchaikovsky died in 1893. The composition is unambiguously public
+domain and cannot be claimed by anyone.
+
+It is E4 INELIGIBLE, GBP 0.00, because MAVO played AEPHANEMER'S ARRANGEMENT of
+it, and Aephanemer's recording is registered to Napalm Records.
+
+Two separate rights exist on every cover:
+    1. the composition (publishing) - public domain, free
+    2. the recording and arrangement - Napalm's, live, claimed
+
+CO-0011 Chopin pays because MAVO built his own arrangement of a public-domain
+piece. CO-0025 does not pay because he copied a 2021 metal band's arrangement of
+a public-domain piece. Identical public-domain status, opposite outcome.
+
+Earning_Recreate_Register Tier A has been corrected in writing. "Public domain"
+means you may arrange it yourself. It never means you may cover a modern
+recording of it. A metal band's Bach cover is a Tier B risk wearing a classical
+disguise.
+
+TAGS: 10 at 97/500, and the one good thing in the old box is that it carries
+THREE spellings of the band - aephanemer, ephanemer, aepanemer. Kept in the new
+box. There is still no song title, no Tchaikovsky, no album and no genre.
+--------------------------------------------------------------------------------
