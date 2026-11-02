@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.40 ACTIVE - 2026-11-02]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.41 ACTIVE - 2026-11-02]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -1568,3 +1568,64 @@ in X to mock X; desc D09 writing history; pin P11 diagnostic fork. All six first
 Two rewording passes were needed in CO-0040's CTA - the URL-adjacency law again.
 
 **Next:** CO-0041.
+
+################################################################################
+VER 4.41 STATUS ENTRY | 02-11-2026 | FOLDER RESTRUCTURE + CO-0041 + CO-0042
+################################################################################
+
+*** WORKING METHOD CHANGED: TWO SONGS PER PASS, PUSHED AND MERGED EACH TIME ***
+  MAVO, verbatim: "Do 2 at a time, push and merge. We will work like this from now
+  to not get error in chat. I will constantly upload info to folders while you work
+  on it and we will do 2 at a time."
+
+*** FOLDER RESTRUCTURE DONE, ON MAVO'S INSTRUCTION ***
+     _All Songs/_0001 Long Form/0001 - 0100/   <- 45 song folders, 0001 to 0045
+     _All Songs/_0001 Long Form/0101 - 0200/   <- empty, .gitkeep only
+  The six ten-song buckets are gone. verify.sh and diversity_guard.py read `bands/`
+  and are unaffected - both tiers confirmed green after the move. Song 0101 lands in
+  0101 - 0200; the next boundary is 0200.
+
+**CO-0041 and CO-0042 both E4, both GBP 0.00. 42 audits, 5 earners, GBP 0.701.**
+
+*** THE CTR FLOOR HAS MOVED AGAIN, AND THE REASON IS NOW VISIBLE ***
+
+     CO-0037  0.7% on 1.3k impressions
+     CO-0041  0.7% on 2.6k impressions, only 34.4% recommended
+     CO-0042  **0.6% on 4.6k impressions - the corpus floor**, 81.4% recommended
+
+  CO-0042 is the cleanest thumbnail finding the register has produced. Right query
+  ("the cult" 36.4% and the full song title 9.1%), right video, right audience, and
+  4,600 impressions converted into 312 views. It is a picture problem sitting on top
+  of an eligibility problem.
+
+*** ONE CHANNEL, ONE WEEK, TWO OPPOSITE DISTRIBUTIONS ***
+
+     CO-0041   34.4% recommended   2.6k impressions   +4 subs
+     CO-0042   81.4% recommended   4.6k impressions   +1 sub
+
+  The algorithm picked one and ignored the other. Revenue identical: nothing.
+
+*** SNOOP / WIZ / BRUNO IS THE BEST CONVERTER OF THE BATCH ***
+  1.34% - joint second best on the channel - on a video YouTube barely recommended,
+  with Atlantic claiming it and a partial block on top. Still GBP 0.00.
+
+*** THE CULT IS NOW 2 FOR 2, THE FIRST BAND ON THE CHANNEL WITH TWO GENUINE GENRES ***
+  CO-0038 gothic rock 1985, CO-0042 hard rock 1987 - the same song that existed twice
+  before Rubin got it, and the copies belong in different playlists. A filing note is
+  in both the register and the MR block.
+
+*** TAG DEFECT, FIFTH AND SIXTH IN A ROW ***
+  CO-0041: 15 tags, "wizkhalifa" twice plus "whizkhalifa", "snopdog", "brunomars" -
+  five run-together variants and a misspelled artist, no song title.
+  CO-0042: 7 tags, song absent, band only as "thecult".
+
+**New shapes:** CO-0041 title = two artists + built X out of Y; desc D15 narrative
+scenario; pin P-absurd-contrast. CO-0042 title = producer + heard X and made Y, and
+the FIRST title on the channel with no band name in it; desc D03 comparison to
+another version; pin P-craft-fork.
+
+**Sweep:** 42 files, zero collisions at 9/8/7/6, and no 5-gram touching either new
+file. Three rewording passes needed - the CTA block collided twice and the URL-
+adjacency law held again.
+
+**Next:** CO-0043 + CO-0044.

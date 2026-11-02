@@ -130,6 +130,11 @@
           first but the song is implied rather than named in the title slot
   0040    element + band + wrote in X to mock X                The chorus Rammstein wrote in English to mock English
           new skeleton - object first, band mid-sentence, chiasmus in the tail
+  0041    two artists + built X out of Y                       Snoop and Wiz built a hit out of a demo nobody wanted
+          new skeleton - two-name subject, transitive build-verb, negation at the tail
+  0042    producer + heard X and made Y                        Rick Rubin heard a goth song and made it a rock single
+          new skeleton - a person who is not in the band carries the front of the
+          title, two-clause contrast, no band name until the description
 
 ################################################################################
 # BANNED SHAPES - the evidence
@@ -183,6 +188,10 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.41. Rows added for CO-0041 and CO-0042. CO-0042 is the first
+              title in the register that does not contain the band name at all -
+              Rubin is the hook and the search terms carry The Cult instead. Checked
+              against 0038: two The Cult uploads, neither title opens the same way.
   2026-11-02  VER 4.40. Rows added for CO-0039 and CO-0040. Check against the
               previous eight: no possessive, no "is", no date opener, one question
               in eight (0036), first three words differ from every recent row.

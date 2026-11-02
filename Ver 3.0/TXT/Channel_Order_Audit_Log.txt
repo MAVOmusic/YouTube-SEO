@@ -4343,3 +4343,124 @@ CORRECTION CARRIED IN
   internal, CORRECT GENRES printed on its own with nothing in it that should not
   be added to a playlist.
 ################################################################################
+################################################################################
+FOLDER RESTRUCTURE | 02-11-2026 | 0001 - 0100 / 0101 - 0200
+################################################################################
+  MAVO, verbatim: "Create folders to up to 0200. Create a folder 0001 - 0100 and
+  move all folders 1-100 into, then make a folder 0101 - 0200 then move folders
+  101-200 into it."
+
+  DONE. `_All Songs/_0001 Long Form/` now holds two buckets of a hundred instead of
+  six buckets of ten:
+      _0001 Long Form/0001 - 0100/   45 song folders (0001 to 0045)
+      _0001 Long Form/0101 - 0200/   empty, held with a .gitkeep
+  The old 0011 - 0020 through 0051 - 0060 buckets are gone. Every `_03 - Copy.md`
+  references folders by number, not by path, so nothing inside the copy changed.
+  verify.sh and diversity_guard.py read `bands/`, not `_All Songs/`, so both tiers
+  are unaffected - confirmed green after the move.
+
+  GOING FORWARD: song 0101 lands in `0101 - 0200` and the next bucket boundary is
+  0200. Two audits per pass from here, each pair committed and merged before the
+  next pair starts.
+
+################################################################################
+CO-0041 | Snoop Dogg & Wiz Khalifa feat. Bruno Mars - Young, Wild & Free
+################################################################################
+  Video   : KJP8MaWsqA4 | 3:29 | uploaded 03-09-2025 | 299 views | 1.9 h | **+4 subs**
+  Earning : **E4 INELIGIBLE + PARTIALLY BLOCKED, GBP 0.00.** Atlantic.
+  Bucket  : 0001 - 0100
+  Captured: 12 screenshots, all readable.
+
+THE SONG
+  Released 11 October 2011, Rostrum with Atlantic, lead single from the Mac and
+  Devin Go to High School soundtrack. Produced by The Smeezingtons - Bruno Mars,
+  Philip Lawrence, Ari Levine - and written by Snoop, Wiz, Mars, Lawrence, Levine,
+  Brody Brown, YG and Ty Dolla Sign plus the sampled writers.
+
+WHAT THE PANELS SAY
+  299 views, **+4 subscribers = 1.34%, joint second best conversion on the channel**.
+  2.6k impressions at 0.7%, and **only 34.4% from YouTube recommending** against
+  91.0% advertising - the only video this week the algorithm declined to touch.
+  19 engaged views from impressions, impression-AVD 0:26.
+
+  AVD 0:22, APV 10.7%, 20% at 0:30 "typical". Likes 100.0%, fifteenth perfect.
+  Ran as a Premiere, peak 2 concurrent.
+
+  Search is one term: "rocksmith bass" 14.3%. Nobody searched for the song.
+  External 0.7% and it is entirely **za.com**, a South African site. India 58.9 /
+  Indonesia 20.1. Mobile 91.8. No demographic data. 97.3% watched without captions.
+
+THE OLD COPY (all four surfaces)
+  Title   : the whole artist credit plus a Rocksmith tail and three hashtags.
+  Desc    : the funding wall.
+  Tags    : 15 at 146/500. **"wizkhalifa" twice, "whizkhalifa", "snopdog",
+            "brunomars"** - five run-together variants, one misspelled artist, and
+            no song title.
+  Pin     : the funding wall.
+
+THE REWRITE
+  Title   : 53 chars. Two artists, a build-verb, and a negation at the tail. New
+            skeleton.
+  Desc    : 1496 chars. Opens on the origin story - the demo nobody wanted, the A
+            and R who saved it, Wiz's reluctance - which is D15, first use. Then
+            what the arrangement refuses to do, then the release facts.
+  Tags    : 16 at 231/500. All three artists, the song, the film, the production
+            team, two genre lanes, both labels, the year, both formats.
+  Pin     : 122 chars, the biggest hit that started as a leftover - a contrast
+            question, new pin device.
+  GENRES  : split block. CORRECT: Pop rap, West Coast hip hop, Hip hop, Pop.
+
+################################################################################
+CO-0042 | The Cult - Love Removal Machine
+################################################################################
+  Video   : UWT1bxSCJHO | 4:17 | uploaded 03-09-2025 | 312 views | 2.0 h | +1 sub
+  Earning : **E4 INELIGIBLE, GBP 0.00.** Second The Cult upload, second E4.
+  Bucket  : 0001 - 0100
+  Captured: 10 screenshots, all readable. No Overview 2 in this folder.
+
+THE SONG
+  Single 16 February 1987, Beggars Banquet, recorded December 1986, produced by
+  Rick Rubin, written by Astbury and Duffy. The song existed twice before this
+  version - a radio session, then the scrapped Peace album with a goth arrangement.
+  Rubin's re-cut for Electric is the one everybody knows.
+
+WHAT THE PANELS SAY
+  **4.6k impressions at 0.6% CTR - the lowest click rate in the corpus and the
+  second-highest impression count ever recorded.** 81.4% recommended, **28 engaged
+  views, the highest absolute count of the batch**, impression-AVD 0:32.
+
+  AVD 0:22, APV 8.9%, 19% at 0:30 "typical". Likes 100.0%, sixteenth perfect.
+
+  **Search is the best-intent panel in the corpus:** "the cult" 36.4%, "love removal
+  machine the cult" 9.1%, "rocksmith 2014 bass" 9.1%. The right people found it and
+  almost nobody clicked.
+
+  Devices mobile 85.5 / computer 12.0 / TV 1.9 / tablet 0.5. No demographic data.
+  India 64.7 / Indonesia 6.7. 88.9% of watch time from non-subscribers.
+
+THE OLD COPY (all four surfaces)
+  Title   : band and song plus a Rocksmith/hashtag tail.
+  Desc    : the funding wall.
+  Tags    : **7 at 74/500. "love removal machine" absent, band only as "thecult"**,
+            five channel-identity tags. Third run-together artist tag in a row.
+  Pin     : the funding wall.
+
+THE REWRITE
+  Title   : 54 chars. The producer carries the front, no band name anywhere - the
+            first title in the register that omits the artist, and the search terms
+            prove the song title does the work.
+  Desc    : 1420 chars. Opens on the three versions of the same song - D03, first
+            use - then what Rubin did to it, then why the bass part is deliberately
+            stupid.
+  Tags    : 16 at 209/500. Band, song, album, both members, Rubin, four genre
+            handles, label, year, both formats.
+  Pin     : 144 chars, a craft fork about producers who strip a band back.
+  GENRES  : split block. CORRECT: Hard rock, Garage rock, Gothic rock, Alternative
+            rock. Gothic rock is listed because the scrapped version was goth - the
+            note in FINDINGS says file this and CO-0038 in different playlists.
+
+BATCH FINDING
+  Two videos, opposite distributions, same revenue. CO-0041: 34.4% recommended, 2.6k
+  impressions, 0.7% CTR, +4 subs. CO-0042: 81.4% recommended, 4.6k impressions, 0.6%
+  CTR, +1 sub. The algorithm chose one and ignored the other, and both paid nothing.
+################################################################################

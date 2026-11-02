@@ -3035,3 +3035,105 @@ INTERNAL NOTE
   Do not read 17% at 0:30 as an arrangement problem. 88.4% of the audience was
   bought, and bought traffic does not watch intros.
 --------------------------------------------------------------------------------
+
+--- MR-0041 | CO-0041 | Snoop Dogg & Wiz Khalifa feat. Bruno Mars - Young, Wild & Free
+Video ID           : KJP8MaWsqA4 | 3:29 | uploaded 03-09-2025 | 299 views
+                     | 1.9 watch hours | **+4 subscribers - 1.34%, joint second best
+                     conversion on the channel** | 296 unique viewers
+Notices badge      : **E4 INELIGIBLE + PARTIALLY BLOCKED** - two-line badge
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : 2.6k / **0.7%** | only **34.4% from YouTube recommending** |
+                     **19 engaged views from impressions** | impression-AVD 0:26 |
+                     0.14 h
+Watch quality      : AVD 0:22 | APV 10.7% | 20% at 0:30 "typical"
+Likes              : **100.0%** - fifteenth perfect ratio
+End screen CTR     : 0.0% | hype 0/0 | 1 quiz attached | no Shorts remixes
+Premiere           : ran as a Premiere, peak 2 concurrent, average 1
+Devices            : mobile 91.8 / computer 8.0 / tablet 0.1 / TV 0.1
+Audience           : **no demographic data** | India 58.9 / Indonesia 20.1 |
+                     96.4% of watch time from non-subscribers | 97.3% no captions
+Traffic            : advertising **91.0** / browse 4.4 / YouTube search 2.3 /
+                     suggested 1.3 / external 0.7 / other 0.3
+External (0.7%)    : **za.com 100.0%** - a single South African site
+Search (2.3%)      : **"rocksmith bass" 14.3% only.** Nobody searched for the song.
+Content suggesting : four at 25.0% each - Michael Jackson WE ARE THE WORLD piano /
+                     Alice In Chains Would guitar cover / Childish Gambino Redbone
+                     bass cover / The Cranberries Zombie bass arrangement
+Old title          : full artist credit + Rocksmith/hashtag tail, 3 hashtags
+Old tags           : 15 / 146 chars, mostly channel identity, plus **"wizkhalifa"
+                     twice, "snopdog", "whizkhalifa", "brunomars"** - five
+                     run-together variants and one misspelling of Snoop
+Old pin            : the 4,000-character funding wall
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN (Rostrum / Atlantic) + PARTIAL BLOCK.**
+                     First Snoop, Wiz and Bruno Mars upload on the channel.
+
+*** THE BEST CONVERSION IN THE BATCH, AND IT EARNED NOTHING ***
+  +4 from 299 = 1.34%. Only CO-0025 (1.11) is close in the 2025 cohort and CO-0024's
+  +4 on fewer views is the nearest comparison. Nothing about the number is
+  interpretable as money - the master belongs to Atlantic.
+
+*** AND THE ONE GENUINE ANOMALY IN THIS BATCH ***
+  **34.4% of impressions came from YouTube recommending this**, against 71-91% on
+  every other video audited this week. The paid campaign bought 91.0% of the views
+  and the algorithm barely touched the video at all. Compare CO-0042 the same day
+  at 81.4% recommended on 4.6k impressions. Same channel, same week, opposite
+  distribution.
+
+INTERNAL NOTE
+  Do not read "nobody searched for the song" as a title problem. The song is a
+  global top-ten single; people absolutely search for it. This upload never got in
+  front of them, because the impressions were bought rather than earned.
+--------------------------------------------------------------------------------
+
+--- MR-0042 | CO-0042 | The Cult - Love Removal Machine ------------------------
+Video ID           : UWT1bxSCJHO | 4:17 | uploaded 03-09-2025 | 312 views
+                     | 2.0 watch hours | **+1 subscriber** | 311 unique viewers
+Notices badge      : **E4 INELIGIBLE** - single line, no partial block
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : **4.6k impressions at 0.6% - the LOWEST CTR in the corpus**
+                     and the second-highest impression count ever recorded |
+                     **81.4% from YouTube recommending** | **28 engaged views -
+                     the highest absolute count of the batch** | impression-AVD
+                     0:32 | 0.25 h
+Watch quality      : AVD 0:22 | APV 8.9% | 19% at 0:30 "typical"
+Likes              : **100.0%** - sixteenth perfect ratio
+End screen CTR     : 0.0% | hype 0/0 | no Shorts remixes
+Devices            : mobile 85.5 / computer 12.0 / **TV 1.9** / tablet 0.5
+Audience           : **no demographic data** | India 64.7 / Indonesia 6.7 |
+                     88.9% of watch time from non-subscribers | 100% no captions
+Traffic            : advertising 87.5 / browse 6.7 / YouTube search 3.5 /
+                     suggested 1.6 / external 0.3 / other 0.3
+External (0.3%)    : not enough traffic data
+Search (3.5%)      : **"the cult" 36.4% / "love removal machine the cult" 9.1% /
+                     "rocksmith 2014 bass" 9.1%** - the best-intent panel in the
+                     corpus, and it names the band and the song correctly
+Content suggesting : five at 20.0% each - a Spanish bass tutorial, a Queensryche
+                     reaction, a Metallica Fade To Black reaction, an I did not
+                     want to make this video, and a "song everybody has heard but
+                     nobody knows" clip
+Old title          : band and song plus a Rocksmith/hashtag tail
+Old tags           : **7 / 74 chars. "love removal machine" ABSENT. Band only as
+                     "thecult"**, plus five channel-identity tags - the third
+                     run-together artist tag in three The Cult/Billy Talent audits
+Old pin            : the 4,000-character funding wall
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN.** Beggars Banquet. The Cult is now 2 for 2
+                     at GBP 0.00.
+
+*** THE IMPRESSION ANOMALY OF THE WHOLE 40-AUDIT SET ***
+  4,600 impressions, 0.6% CTR, 28 engaged views. The video was shown more than
+  almost anything else on the channel and clicked by almost nobody - and of the 28
+  who did click, the search panel proves they were the right people ("the cult"
+  and the full song title, 45.5% of search traffic combined).
+
+  That is a THUMBNAIL finding, not a metadata finding, and it is the cleanest one
+  the register has produced: right audience, right query, right video, wrong
+  picture. It also restates that a thumbnail fix is a tidy-up and not a revenue
+  strategy - the claim is unaffected.
+
+INTERNAL NOTE
+  The Cult 2 for 2. Keep both uploads, file them in DIFFERENT playlists: CO-0038 is
+  gothic rock, CO-0042 is the Rick Rubin hard rock record. This is the first time
+  one band has produced two genuinely different genres on the channel.
+--------------------------------------------------------------------------------

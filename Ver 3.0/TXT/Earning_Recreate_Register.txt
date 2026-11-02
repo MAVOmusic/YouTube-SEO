@@ -428,6 +428,8 @@ RECREATE INSTRUCTION
   MR-0038 CO-0038  The Cult - She Sells Sanctuary (Beggars/Warner)     E4
   MR-0039 CO-0039  Sabaton - En Livstid I Krig (6th Sabaton, Swedish)  E4
   MR-0040 CO-0040  Rammstein - Amerika (2nd Rammstein, Universal)      E4
+  MR-0041 CO-0041  Snoop/Wiz/Bruno - Young Wild & Free (Atlantic)      E4+block
+  MR-0042 CO-0042  The Cult - Love Removal Machine (2nd Cult)          E4
 
   Three failures, three different justifications, one shared cause: somebody
   registered the recording that was actually played.
@@ -453,7 +455,15 @@ RECREATE INSTRUCTION
     and earned the same nothing. A textbook demonstration that intent quality and
     search relevance do not touch eligibility.
 
-  THE CULT: ONE ATTEMPT, E4 - FIRST AND LAST FOR NOW
+  THE CULT: TWO ATTEMPTS, BOTH E4, AND THE SECOND ONE IS MORE USEFUL
+    0038 was the 1985 goth record, 0042 the 1987 Rick Rubin re-cut. Two eras, two
+    genres, two labels, same nothing. 0042 is the most diagnostically clean failure
+    in the register: 4,600 impressions, correct search intent, 28 engaged views,
+    GBP 0.00 - a thumbnail problem on top of an eligibility problem.
+
+  SNOOP DOGG / WIZ KHALIFA / BRUNO MARS: ONE ATTEMPT, E4 + PARTIAL BLOCK
+    0041 is the best-converting video in its batch at 1.34% and the only one this
+    week the algorithm declined to recommend (34.4% vs 71-91%). Atlantic again.
     0038 tested whether a 1985 Beggars Banquet record with an eight-minute 12 inch
     mix might sit outside the modern claim net. It does not. Also the first
     capture where the 2022 shell out-reached everything else in the batch and
@@ -502,6 +512,11 @@ RECREATE INSTRUCTION
               Another Life. Conversion fell 23.68% -> 3.94% -> 0.56% across the
               three takes of one song. Strongest duplicate evidence in the corpus;
               the one-song-one-upload rule now has a conversion curve.
+  2026-11-02  VER 4.41. Two failed candidates added: CO-0041 (Atlantic, E4 +
+              partial block, best conversion of its batch) and CO-0042 (The Cult
+              second attempt, 4.6k impressions at 0.6% CTR - the corpus CTR floor -
+              with correct search intent). Total unchanged at GBP 0.701 from five
+              earners in 42 audits.
   2026-11-02  VER 4.40. Two failed candidates added: CO-0039 (Sabaton, sixth
               attempt, Swedish-language master - the last untested variable on that
               catalogue) and CO-0040 (Rammstein, second attempt, best CTR and
