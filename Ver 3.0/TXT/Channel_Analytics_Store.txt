@@ -191,3 +191,134 @@ G9  THE FIX LIST IS NOW UNAMBIGUOUS.
 # DELTA vs CA-YYYY-MM-DD:  views +/- | watch h +/- | subs +/- | rev +/- | CTR |
 #                          search share | bell | top-content swaps
 ################################################################################
+
+################################################################################
+## CA-2026-11-02 | capture 02-11-2026 | REALTIME PERFORMANCE, split by format
+################################################################################
+# Source folder: _All Songs/0000 - Channel Analytics/Channel Analytics - 2026-11-02/
+#   Long Form.jpeg  - Advanced mode > Realtime performance, filter "Videos"
+#   Short Form.jpeg - Advanced mode > Realtime performance, filter "Shorts"
+# WINDOW: "Last 48 hours" and "Last 60 minutes". This is a LIVE INSTRUMENT, not a
+# verdict. It is not the 28-day roll-up and it is not comparable to CA-2026-11-01's
+# headline numbers, which were a 28-day window.
+#
+# CAVEAT THAT GOVERNS EVERY NUMBER BELOW: the cards show a SCROLLING TOP LIST, not
+# a total. Twenty-two rows were visible in each capture. Anything ranking below the
+# fold is invisible. Treat totals as a FLOOR, never as the channel total.
+
+--- F. REALTIME ---------------------------------------------------------------
+
+LONG FORM - 22 visible rows, floor 26 views / 48h, floor 1 view / 60 min
+
+   VIEWS  PUBLISHED     CONTENT
+     2    03-12-2025    Alice Cooper - SNAKEDbite #rocksmith #bass #alice...
+     2    13-02-2025    Lonely Day proves System Of A Down can whisper and...   [CO-0016]
+     2    22-07-2026    Oliver Riedel's crushing Drop C industrial metal bass we...
+     2    09-09-2025    *NSYNC - Tearin' Up My Heart #rocksmith #bass #...
+     1    11-11-2025    Primus - My Name Is Mud #rocksmith #bass #pri...
+     1    22-03-2022    Autumn Leaves for an hour and Burzum in no hurry        [CO-0001]
+     1    04-12-2025    Saxon - LoneHeart #rocksmith #bass #saxon
+     1    01-12-2025    9mm Parabellum Bullet - Last round #rocksmith #...
+     1    27-08-2026    Odadjian's wild, syncopated Drop C bass assault on "To...
+     1    18-10-2025    Motionless In White - Eternally Yours #rocksmith #...
+     1    11-09-2025    [M - (Matthieu Chedid) - Qui De Nous Deux #rocks...
+     1    05-12-2025    Good Riddance - Darkest Days #rocksmith #bass ...
+     1    26-10-2022    A second Another Life from Motionless In White, tuner... [CO-0004]
+     1    23-06-2026    Playing bass over this classic crunkcore track is wild!
+     1    27-07-2026    Bergy Oakley's legendary fluid 12-bar blues-rock bass w...
+     1    04-12-2025    Static-X - Grind 2 Hell #rocksmith #bass #staticx
+     1    04-12-2025    Kings Of Leon - Closer #rocksmith #bass #kingso...   [60 min: 1]
+     1    26-10-2022    Motionless In White wrote Masterpiece so the bass cou...  [CO-0003]
+     1    02-12-2025    The Killers - Smile Like You Mean It #rocksmith #b...
+     1    14-01-2026    Rocksmith 2014 Bass Cover - Mark Mueller - Duck...
+     1    31-12-2025    Rocksmith 2014 Bass Cover - Dance Gavin Dance - ...
+     1    27-10-2025    My Chemical Romance - The Light Behind Your Eyes ...
+
+SHORTS - 22 visible rows, floor 76 views / 48h, floor 4 views / 60 min
+
+   VIEWS  PUBLISHED     CONTENT
+     5    18-10-2025    Cold - Suffocate #rocksmith #bass #cold
+     4    12-06-2024    Rise Against - Savior (Bass) #rocksmith #bass #rocks...
+     4    22-03-2025    Pendulum - The Tempest #rocksmith #bass #pendulum
+     4    03-07-2024    Billy Talent - I Beg To Differ (This Will Get Better) (Bass) ...
+     4    16-06-2026    Restless Good Charlotte bass on 'A New Beginning' #s...
+     4    05-07-2024    Eurobeat Brony - Discord (The Living Tombstone R...
+     4    07-07-2025    9mm Parabellum Bullet - Lovecall From The World #roc...
+     4    12-11-2025    BABYMETAL - Gimme Chocolate! #rocksmith #ba...
+     4    11-01-2025    Dragonforce - Trail Of Broken Hearts #rocksmith #bass ... [60 min: 1]
+     3    09-07-2025    Good Charlotte - A New Beginning #rocksmith #bass #...
+     3    29-11-2025    KT Tunstall - Black Horse And The Cherry Tree #ro...
+     3    23-03-2025    Prince And The Revolution - Purple Rain #rocksmith #b...
+     3    01-04-2025    Ill Nino - How Can I Live #rocksmith #bass #illnino
+     3    23-07-2024    Nickelback - Next Contestant (Bass) #rocksmith #bass ... [60 min: 3]
+     3    29-08-2024    Dir En Grey - Where Dead Angels Lie (Bass) #rocksmith ...
+     3    28-05-2024    311 - Come Original (Bass) #rocksmith #bass #rock...
+     3    21-04-2025    Red Hot Chili Peppers - Around The World #rocksmith #...
+     3    10-03-2024    Primus - South Park Theme #rocksmith #bass #pri...
+     3    10-05-2024    *NSYNC - Tearin' Up My Heart (Bass) #rocksmith #bass...
+     3    18-09-2025    Sabaton - 1648 (Swedish) #rocksmith #bass #sab...
+     3    01-07-2024    Sabaton - Ruina Imperii #rocksmith #bass #sabaton
+     3    11-05-2025    Bathory - In Nomine Satanas #rocksmith #bass #bathory
+
+--- G. READ -------------------------------------------------------------------
+
+G-A  SHORTS IS DOING 74% OF THE REALTIME WORK AT 3.5X THE PER-ROW YIELD.
+     76 visible Shorts views against 26 visible long-form views, from the same
+     number of rows. Median row is 3 for Shorts and 1 for long form. The long-form
+     tail is a long list of single views; the Shorts tail is a short list of
+     threes and fours. Nothing here contradicts the 01-11 finding that Shorts
+     carries reach and long form carries RPM - it sharpens it.
+
+G-B  THE 60-MINUTE PULSE IS FIVE VIEWS. Three of them land on one Nickelback
+     Short. Two land on Kings Of Leon (long form) and Dragonforce (Short). At
+     ~5/hour against the standing 1,000/hour target, this is x0.5% of goal, and
+     the earlier "869 views / 48h" figure from CA-2026-11-01 cannot be reconciled
+     with a 102-view visible floor - which means either the 48h figure covers a
+     much longer tail than the cards show, or the channel has fallen off a cliff
+     in the last 24 hours. **Do not resolve this from a card. Re-capture the
+     28-day window to settle it.**
+
+G-C  THE AUDITED CATALOGUE IS BARELY IN THE ROOM. Four of 44 visible realtime rows
+     are Phase-2 audited videos: CO-0001 (Burzum), CO-0016 (Lonely Day), CO-0003
+     and CO-0004 (the 2022 Motionless pair). Every other row is a video that has
+     never been through this process. **Zero of the 22 Shorts rows has been
+     audited at all.** This is finding G4 from 01-11 restated with today's data:
+     the business end of the channel is the unaudited tail, and Phase 2 is walking
+     the chronology instead.
+
+G-D  THE NEW HOUSE TITLES ARE ALREADY IN THE WILD AND ALREADY GETTING VIEWS.
+     "Lonely Day proves System Of A Down can whisper and...", "Autumn Leaves for
+     an hour and Burzum in no hurry", "Odadjian's wild, syncopated Drop C bass
+     assault on To...", "A second Another Life from Motionless In White, tuner...",
+     "Motionless In White wrote Masterpiece so the bass cou...", "Playing bass
+     over this classic crunkcore track is wild!", "Bergy Oakley's legendary fluid
+     12-bar blues-rock bass w..." - that is seven of the 22 long-form rows carrying
+     a rewritten title, and four of those live in the top half of the list.
+     **The rewrite programme is measurably in the traffic already.**
+
+G-E  SABATON KEEPS EARNING ATTENTION WITHOUT EARNING MONEY. Both Sabaton Shorts
+     (1648 Swedish, Ruina Imperii) hold 3 views each in a 48h window, and Sabaton
+     long forms are E4 twice over. This is the seventh sighting of the pattern:
+     **demand tracks the artist; revenue tracks the master.**
+
+G-F  A WISHLIST OF UNTOUCHED ARTISTS HAS JUST BEEN HANDED OVER BY YOUTUBE ITSELF.
+     Alice Cooper, *NSYNC, Primus, Saxon, Static-X, Kings Of Leon, The Killers,
+     Good Riddance, 9mm Parabellum Bullet, Matthieu Chedid, Cold, Rise Against,
+     Pendulum, Billy Talent, Good Charlotte, KT Tunstall, Prince, Ill Nino,
+     Nickelback, Dir En Grey, 311, Red Hot Chili Peppers, Bathory, Dragonforce.
+     Every one of these has a live row and none has a full audit. Cross-check
+     against TXT/SSL_Demand_Map.txt before the next recording session - several of
+     these are likely already in the SSL database MAVO owns.
+
+G-G  PROCESS NOTE - LOG EVERY TASK. MAVO (02-11-2026): "Make sure to always update
+     logs and context block. After every task so nothing getting missed."
+     Standing rule from this capture onward: no audit, capture or folder change is
+     complete until the relevant TXT register AND CONTEXT_BLOCK.txt carry the
+     entry. The commit that ships a task ships its log lines.
+
+--- DELTA vs CA-2026-11-01 ----------------------------------------------------
+  NOT COMPUTABLE. Different window (realtime card vs 28-day roll-up) and this
+  capture has no totals, only a top-list. Recorded as a separate realtime record
+  and not as a delta. The next true delta is due on the next 28-day capture.
+################################################################################
+
