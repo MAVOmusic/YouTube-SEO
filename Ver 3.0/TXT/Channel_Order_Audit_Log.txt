@@ -4464,3 +4464,33 @@ BATCH FINDING
   impressions, 0.7% CTR, +4 subs. CO-0042: 81.4% recommended, 4.6k impressions, 0.6%
   CTR, +1 sub. The algorithm chose one and ignored the other, and both paid nothing.
 ################################################################################
+
+################################################################################
+FOLDER RESTRUCTURE v2 | 02-11-2026 | 100 / 10 / SONG, THREE LEVELS
+################################################################################
+  MAVO, verbatim: "Create folders to up to 0200... every folder of 100 must have
+  subfolder of 10 then inside them the correct numbered folder with files. This can
+  create a structure and no overloading when having only 10 folders with files
+  inside. Currently you moved 45 folders into 0001 - 0100. It's load time is much
+  higher than load 0001 - 0010 0011 - 0020 etc."
+  Then: "Don't create song folders just the main and sub folders. I paste song
+  folders together inside once ready."
+
+  Built exactly that. Seven 100-buckets to 0672, sixty-seven ten-buckets inside
+  them, all empty except the ones holding the 45 live songs, every empty one held
+  by a .gitkeep.
+
+    0001 - 0100   0001 - 0010 ... 0091 - 0100   45 songs live (0001 to 0045)
+    0101 - 0200   0101 - 0110 ... 0191 - 0200   empty
+    0201 - 0300   0201 - 0210 ... 0291 - 0300   empty
+    0301 - 0400   empty
+    0401 - 0500   empty
+    0501 - 0600   empty
+    0601 - 0672   0601 - 0610 ... 0661 - 0670 + 0671 - 0672   CURRENT
+
+  No song folder was created. The 45 existing ones were relocated, not renamed:
+  0001-0010 in `0001 - 0010`, 0011-0020 in `0011 - 0020`, 0041-0045 in
+  `0041 - 0050`. Registers reference songs by number so nothing needed rewriting.
+  verify.sh and diversity_guard.py read `bands/` - both tiers green after the move.
+################################################################################
+
