@@ -1,60 +1,63 @@
-# CO-0027 | Rewritten copy (Ver 4.27)
+# CO-0027 | Rewritten copy (Ver 4.39)
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
-> **DUPLICATE SONG WARNING: CO-0008 is the play along of this same track.**
-> This file is written as the PERFORMANCE cut and must stay visibly different from
-> CO-0008 in title, description and pin. Do not merge the two.
+> **DUPLICATE SONG WARNING: CO-0008 is the earlier cut of this same track.**
+> Both cuts have the chart on screen - MAVO confirmed every upload does. The old
+> "no chart, no overlay" angle was WRONG and is deleted from all four surfaces.
+> The only honest separations left are the live-stream take and the runtime.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (58 characters)
+## TITLE (54 characters)
 
 ```text
-No chart, no overlay, just X-Kid and Green Day in one take
+The X-Kid take that came off a live stream in one pass
 ```
 
-## DESCRIPTION (998 characters)
+## DESCRIPTION (1409 characters)
 
 ```text
-There are two cuts of this song on the channel. The other one keeps the tab running across the whole screen for anyone learning it. This is the performance version - one camera, one take, nothing drawn over the fretboard - so if you are here to watch rather than to study, this is the one.
+The game is running the whole time. Notes scroll, the score climbs, and whether the take lands is decided while chat is watching - which is the deal with every one of these. This run came out of a live stream, so there was one attempt and no second one hiding behind it.
 
-What you notice without the overlay is the space. The bass sits out of the way for most of the song and then does the work in the last forty seconds, when everything else has already peaked and the guitars have stopped moving. Playing it that way is harder than it sounds, because the temptation is to fill a gap that the arrangement left there on purpose.
+Green Day released three records in three months in 2012 and Tre was the one that got filed away fastest. X-Kid is the track that outlives the filing. Mike Dirnt keeps the line up near the dusty end of the neck through the verse, then drops an octave when the chorus lifts, and that single move is what stops a song about somebody who is not coming back from turning into a dirge.
 
-🟢 Punk and pop punk get a whole night on Kick each week: https://kick.com/mavomusic
-🟣 Twitch relays the same thing for a second audience: https://www.twitch.tv/mavomusic
-💬 Chart or no chart, which do you prefer? Answer in the server, a boost welcome: https://discord.gg/ESGsGkN4j2
+Rocksmith does not hear any of that. It counts notes, judges timing and hands out a number, and the feel is not in the score. Playing it for the score and playing it for the song are two different jobs, and the fun of a live take is that you have to do both at once with no safety net.
 
-Pop punk from 2012, three minutes forty three, one continuous take.
+🟢 Punk and pop punk nights run weekly on Kick, requests open in chat: https://kick.com/mavomusic
+🟣 Twitch carries the same stream for people who live there: https://www.twitch.tv/mavomusic
+💬 Nothing here was re-recorded, what you see is what happened. Drop your own worst live-take story in Discord, and a server boost is always decent of you: https://discord.gg/ESGsGkN4j2
+
+Green Day, 2012, three minutes forty three, one continuous take on Rocksmith 2014 Remastered.
 ```
 
-## TAGS (16 tags, 173/500 characters)
+## TAGS (16 tags, 179/500 characters)
 
 ```text
-green day, x-kid, xkid, x kid, tre, green day tre, mike dirnt, billie joe armstrong, pop punk, punk rock, grinday, grenday, 2012, bass cover, bass play along, rocksmith bass
+green day, x-kid, xkid, x kid, tre, mike dirnt, billie joe armstrong, tre cool, pop punk, punk rock, 2012, rocksmith 2014, bass cover, bass play along, rocksmith bass, live stream
 ```
 
-## PINNED COMMENT (133 characters)
+## PINNED COMMENT (126 characters)
 
 ```text
-Three albums in three months, and this is the one that outlived the sprint. Which band's over-ambitious release plan actually worked?
+Everything here went out live, one pass, no second chances. Do you prefer a run that could fall apart, or a clean studio take?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal - not for playlists)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Pop punk** | documented, primary | main pop punk lane, pairs with the 2000s wave |
-| Punk rock | documented | punk rock lane |
-| Alternative rock | documented | alt-rock lane |
-| Power pop | documented - the chorus is built on a hook, not a riff | power pop and hooks lane |
-| Pop rock | umbrella | pop rock lane |
-| 2010s pop punk | scene label for the era | 2010s revival lane, thin but real |
-| Rock trio / three piece | factual - the arrangement is bass, guitar and drums | three piece and power trio lane |
+  Verified against the release, not guessed. Tre, the third of the 2012 trilogy,
+  released 4 December 2012 on Reprise. Pop punk is the working label; punk rock
+  and power pop are true but secondary. "2010s pop punk" is a scene label for the
+  era and holds up. Dropped from the old table: "rock trio / three piece", which
+  describes the arrangement and is not a genre.
 
-Seven labels, five formal classifications. One word: **Pop punk**. Two: **Pop punk + Punk rock**.
+## CORRECT GENRES
 
-DUPLICATE NOTE FOR FILING - IMPORTANT
-  This song exists TWICE in the catalogue. CO-0008 is the play along cut (4:05,
-  uploaded 18-02-2024). This is the performance cut (3:43, uploaded 31-08-2025).
-  They should never be filed in the same playlist - they compete for the same
-  searches and the second upload measurably cannibalised the first audience.
-  Play alongs go in lesson lanes. Performances go in music lanes. Never both.
+Pop punk · Punk rock · Alternative rock · Power pop · Pop rock · 2010s pop punk
+
+## FIX LOG
+
+  Old title ("No chart, no overlay, just X-Kid and Green Day in one take") stated
+  something false about the video and about every other upload on the channel.
+  Old description made the same claim twice and split the catalogue into a
+  "lesson" cut and a "performance" cut that do not exist. Both are gone. The new
+  angle is the one thing the video's own Studio description confirms: it was
+  recorded during a live stream.

@@ -97,7 +97,12 @@
           was: Aephanemer turned Tchaikovsky's Old French Song into two minutes of metal bass
   0026    duration of song and band is done              Eighty two seconds of Arabic UFO Party and Alien Fucker is done
           was: Alien Fucker's Arabic UFO Party is eighty two seconds of grind bass
-  0027    no X no Y just                                 No chart, no overlay, just X-Kid and Green Day in one take
+  0027    take + origin clause                            The X-Kid take that came off a live stream in one pass
+          REVISED Ver 4.39 - the first version, "No chart, no overlay, just
+          X-Kid and Green Day in one take", was deleted because it was FALSE.
+          Every upload on this channel has the chart on screen; MAVO confirmed
+          it. Do not use absence-of-the-format as a hook anywhere. The shape is
+          now object-first with an origin clause, which is new in the register.
           was: Green Day's X-Kid with the bass left bare and no chart on screen
   0028    year object, year song, one instrument         A 1906 battleship, a 2022 Sabaton song, one bassline
           was: Sabaton's Dreadnought on bass, the ship that missed its own battle
@@ -134,7 +139,9 @@
          0023 "Sabaton's Camouflage is a 1986 one hit wonder..."
          0024 "Sabaton's The Hammer Has Fallen was a 2001 demo..."
          0026 "Alien Fucker's Arabic UFO Party is..."
-         0027 "Green Day's X-Kid with the bass left bare..."
+         0027 "Green Day's X-Kid with the bass left bare... (also deleted in
+              4.39 - it claimed the bass was left bare when the chart is on
+              screen)"
          0028 "Sabaton's Dreadnought on bass, the ship that..."
          TEN OF TWENTY-EIGHT. Four of the last six. This is the one MAVO caught.
 
@@ -171,6 +178,10 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.39. Row 0027 rewritten on MAVO's correction. Two separate
+              title versions on this song had claimed the absence of the on-screen
+              chart, which is on every upload. New ban added: NO TITLE OR PROMPT
+              MAY CLAIM THE ABSENCE OF THE CHART, THE OVERLAY OR THE TAB.
   2026-11-02  VER 4.37. Three rows added for CO-0036/37/38. Two drafts were
               discarded before logging: "All Time Low wrote Weightless about not
               wanting to grow up" reused CO-0003's "band wrote song so clause",

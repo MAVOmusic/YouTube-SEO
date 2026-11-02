@@ -126,7 +126,11 @@
   0024    catalogue position                           Which track do you think a band buried on purpose?
   0025    composer history                             Which piece should a metal band borrow next?
   0026    track position + band origin                 What is the shortest track in your library that still works?
-  0027    comparison to the other cut                  Which band's over-ambitious release plan actually worked?
+  0027    the format, stated plainly, then the song     P-opinion-fork
+          REVISED Ver 4.39 - the first version opened on "there are two cuts of
+          this song", which described a lesson cut and a performance cut that do
+          not exist. The description now opens on the chart being on screen,
+          because it always is.
   0028    negation-correction                          Which vessel in history has the worst timing?
   0029    imperative listening instruction             Can you actually hear it on your speakers, or does it vanish?
   0030    second-person scenario                        Club record or band record, which is it?
@@ -171,6 +175,11 @@
          when it repeats 2,500 times. Capped at one in four.
   PS-B2  "What should I play next?" in any wording. Same problem, no cap, banned
          outright from CO-0030 onward.
+  DS-B3  DO NOT DESCRIBE THE FORMAT AS ABSENT. "No chart", "no overlay", "no tab",
+         "the bass left bare", "nothing drawn over the fretboard" - every upload
+         here has the chart on screen, so all of those are false. MAVO, 02-11-2026:
+         "I literally play this song on bass while overlay is on screen. Every
+         video has overlay on screen." Name what IS there, never what is not.
 
 ################################################################################
 # HOW THIS FAILURE HAPPENED - recorded so it is not repeated
@@ -183,6 +192,8 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.39. CO-0027 rewritten after MAVO caught a false claim across
+              its title, description and pin. Banned shape DS-B3 added.
   2026-11-02  VER 4.38. Genre block split into FINDINGS and CORRECT GENRES on
               MAVO's instruction - he was reading the exclusion rows as
               recommendations. All 40 earlier blocks reworked into a single clean
