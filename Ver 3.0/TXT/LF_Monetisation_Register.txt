@@ -2173,3 +2173,74 @@ INTERNAL NOTE
   revenue. The claimant follows the catalogue, not the song. A third Sabaton
   upload should be assumed to be E4 before it is recorded.
 --------------------------------------------------------------------------------
+
+--- MR-0029 | CO-0029 | Amaranthe - Archangel ---------------------------------
+Video ID           : CptJVIYcaU | 3:13 | 315 views | 1.9 watch hours
+                     | +1 subscriber | **315 unique viewers**
+Published          : 31-08-2025 (capture window to 01-11-2026, 427 days)
+Notices badge      : **NONE. The field prints a dash.** No claim, no block, no
+                     limited-ads flag - the first clean record since CO-0022.
+Revenue            : **GBP 0.06** | RPM GBP 0.20 | CPM GBP 0.45
+                     Ad mix: display 91.0 / skippable 6.3 / bumper 2.7 /
+                     non-skippable 0.9. Watch-page ads only.
+Impressions / CTR  : 1.6k / 0.8% | 53.2% from YouTube recommending | 13 engaged
+                     views | 0:23 impression-AVD | 0.08 h from impressions
+Watch quality      : AVD 0:21 | APV 11.0% | 20% at 0:30 - "typical", not flagged
+Likes              : 100.0% - ninth perfect ratio in the corpus
+End screen CTR     : 0.0% | bell: 5 pushes, 1.0% CTR, 0 views attributed
+Hype               : 0 points, 0 hypes
+Devices            : mobile 92.6 / computer 7.3 / TV 0.2
+Audience           : India 73.3 / Indonesia 14.9 | female 20.0 / male 80.0 |
+                     age 25-34 100% | 96.8% of watch time from non-subscribers
+Traffic            : advertising 91.8 / browse 5.7 / search 1.0 / related Shorts
+                     1.0 / suggested 0.3 / other 0.3
+External (0.3%)    : Creator Studio 100.0 - MAVO's own click, same as CO-0024
+Content suggesting : "Aephanemer take Old French Song and plug Tc..." 100.0 -
+                     captures the NEW CO-0025 title, so the recommendation graph is
+                     reading the rewritten titles already
+Search terms (1.0%): **rocksmith 66.7** / **amaranthe 33.3**
+Old title          : "Amaranthe - Archangel #rocksmith #bass #amaranthe" - 43 chars
+Old tags           : 8 tags / 84 chars. Six are channel identity. "archangel" is
+                     absent. "amaranthe" and "amaranhe" both present - the typo
+                     instinct was right, the rest of the box was empty.
+Old pin            : the 4,000-character funding wall. No question, no song.
+
+CLASSIFICATION     : **E1 EARNING, NO CLAIM.** Second E1 in the corpus after
+                     CO-0022, and the first modern major-label metal recording to
+                     come back clean. Nuclear Blast released both this and the two
+                     Sabaton songs, which are E4 twice over. So the claimant is not
+                     the label - it is the rights holder behind the record, and on
+                     this one there is nothing registered against the master.
+
+*** THE FINDING: A 2020 NUCLEAR BLAST SINGLE EARNS ***
+
+  This breaks the assumption the register has been carrying since MR-0024, which
+  was that modern metal on a major metal label is automatically claimed. It is not.
+  Sabaton (also Nuclear Blast) is claimed twice at opposite ends of their catalogue.
+  Amaranthe is not claimed at all. The difference is not the label, the year, the
+  format or the song's obscurity - all four were eliminated across CO-0023 to
+  CO-0028. It is simply whether somebody registered that specific master.
+
+  Consequence for Phase 3: **a modern metal track is worth one cheap test.** The
+  existing procedure (seven-point score, then a three-upload empirical check) still
+  governs, but Sabaton-heavy acts should no longer be skipped on the assumption that
+  the whole genre is blocked. Amaranthe was uploaded before anyone tested them and
+  it paid 6p.
+
+REVENUE MATHS
+  GBP 0.06 on 315 views = GBP 0.00019 per view, against Chopin's 4-hour loop which
+  earned GBP 0.54 largely on watch time. RPM of GBP 0.20 is low in absolute terms,
+  and it is low because 91% of the ad mix is display and the audience is 73% India.
+  **The revenue here is not the point - the eligibility is.** An E1 video can be
+  lengthened, re-cut, looped or repackaged to raise watch time and RPM. An E4 video
+  can do none of that. This is the first modern metal asset that can be worked.
+
+CONVERSION         : 1 from 315 = 0.32%. Lowest in the paid cohort (previous low
+                     0.60% on CO-0019 and CO-0021).
+
+INTERNAL NOTE
+  Build queue entry: second in the E1 row after CO-0022. Before any remake, test
+  whether lengthening works - the same recording as a 30-minute practice loop would
+  multiply watch time at zero extra rights risk, because the claim status follows
+  the master and this master is unclaimed.
+--------------------------------------------------------------------------------

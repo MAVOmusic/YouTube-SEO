@@ -397,9 +397,10 @@ RECREATE INSTRUCTION
   MR-0004 CO-0011  Chopin - Nocturne Op.9 No.2       E2      GBP 0.54
   MR-0022 CO-0022  Avril Lavigne - Together          E1      GBP 0.04
   MR-0026 CO-0026  Alien Fucker - Arabic UFO Party   E6      GBP 0.001
-                                                   TOTAL    GBP 0.581
+  MR-0029 CO-0029  Amaranthe - Archangel              E1      GBP 0.06
+                                                   TOTAL    GBP 0.641
 
-  Everything else audited is GBP 0.00. Twenty-four long forms, zero pence.
+  Everything else audited is GBP 0.00. Twenty-five long forms, zero pence.
 
   THE THREE EARNERS HAVE ALMOST NOTHING IN COMMON ON THE SURFACE:
       classical piano loop / 2004 pop bonus track / 2014 Israeli grind
@@ -437,6 +438,10 @@ RECREATE INSTRUCTION
               failed-candidate list. Sabaton now has TWO E4s at opposite ends of
               the catalogue (2001 demo, 2022 album track), which settles that the
               claimant follows the catalogue and not the song.
+  2026-11-02  VER 4.30. ROW 4 ADDED - Amaranthe - Archangel, E1, GBP 0.06. The
+              first modern major-label metal record to come back unclaimed, and on
+              the same label (Nuclear Blast) as two E4 Sabaton uploads. The label
+              is not the claimant; the master is. Total now GBP 0.641.
 
 ################################################################################
 # END OF FILE
