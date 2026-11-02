@@ -1538,3 +1538,81 @@ bought; approval is not. Every paid upload in this corpus is renting an audience
 that did not choose the video, which is why the conversion rate never moves
 between 0.60% and 0.99% no matter the song.
 --------------------------------------------------------------------------------
+
+--- MR-0020 | CO-0020 | BABYMETAL - Megitsune -----------------------------------
+Video ID           : hT0aPHPRqQ | 4:05 | 352 views | 2.4 watch hours | +4 subs
+                     | 348 unique viewers
+Premiere           : not enough data / no bell push recorded
+Notices badge      : **E4 INELIGIBLE ONLY - no partial block.** This BREAKS the
+                     two-in-a-row pattern set by CO-0018 and CO-0019. Same channel,
+                     same week, same 2025 paid campaign, same template shell, and
+                     one of the three has no regional block. So the double badge is
+                     per-composition, not channel-wide. The block follows the
+                     rights holder, exactly as the taxonomy says.
+Revenue            : GBP 0.00 - flat line, "nothing to show for these dates"
+Impressions / CTR  : 6k / **0.7% - the LOWEST click-through in the entire corpus.**
+                     Every prior capture sat between 1.5% and 2.0%. | 58.2% from
+                     YouTube recommending - the HIGHEST recommendation share |
+                     41 engaged views | **0:59 impression-AVD - the longest in the
+                     corpus by a wide margin** | 0.68 h from impressions
+Watch quality      : AVD 0:24 | APV 9.8% | 21% at 0:30 - typical band
+Likes              : 87.5% vs 97.4% channel - second worst after CO-0018 (79.4%)
+End screen CTR     : 0.0% | **bell notifications: ZERO sent, 0 views.** First video
+                     in the corpus that never sent a push at all.
+Devices            : mobile 77.3 / **computer 21.4 - the highest desktop share in
+                     the corpus** (previous max 10.1) / TV 1.0 / tablet 0.3
+Audience           : India 59.7 / Indonesia 16.5 - **lowest India share of the paid
+                     set** (the others ran 70-77) | **age 25-34 = 100.0%, every
+                     other bucket 0%** - the first single-bucket demographic panel
+                     in the corpus, which is a tiny-sample artefact but also the
+                     only panel that puts the whole audience in one bracket
+                     | **female 40.0 / male 60.0 - the highest female share in the
+                     corpus** (CO-0017 was 38.6) | 98.5% non-subscribed watch time
+                     | 100% no subtitles
+Traffic            : YouTube advertising 81.5 / **YouTube search 10.5** / browse 3.7 /
+                     channel pages 1.1 / suggested 1.1 / other 2.0
+                     ** Search at 10.5% is TEN TIMES the corpus norm. No other
+                     upload beats 1.3%. This is the single most important number in
+                     the whole twenty-song audit.
+External (0.6%)    : **Google Search 100.0** - first capture where the external
+                     source is Google rather than an app or a social site.
+Search terms (10.5%): babymetal 13.5 / babymetal live 13.5 / **megitsune 10.8** /
+                     rocksmith 8.1 / babymetal catch me if you can 5.4
+Content suggesting : TOOL - The Pot 25.0 / "Greatest collab in Through the Tables
+                     and Memes" 25.0 / Nirvana - Breed 25.0 / Megadeth - Black Swan
+                     25.0 - all external, four equal neighbours, none of his own.
+
+CONVERSION: +4 from 352 = **1.14% - the highest in the corpus**, above CO-0018
+(0.99%) and every other paid upload.
+
+*** THE TAG BOX IS THE REASON, AND IT IS THE ONLY GOOD TAG BOX HE HAS EVER BUILT ***
+13 tags at 161/500. Six are still channel identity, but the other seven are the
+best music tagging in the corpus:
+    ベビーメタル        (BABYMETAL in Japanese katakana - NATIVE SCRIPT)
+    Babimetaru        (the romanised form of the same word - the misspelling lane)
+    Suzuka Nakamoto / Su-metal
+    Moa Kikuchi    / Moametal
+    Momoko Okazaki / momometal
+That is native-script + romanised + all three member names in both forms. It is a
+real keyword lattice, and it is the only tag box in twenty audits built like one.
+Compare CO-0019: 7 tags, 71 chars, "ratm" and nothing else.
+
+WHAT IT MISSED, AND STILL RANKED
+  "megitsune" is not in the tag box. Neither is Latin "babymetal". Both appear only
+  in the title - and megitsune still pulls 10.8% of the search slice. The title is
+  doing the work; the tags are supporting it rather than the reverse.
+
+ACTIONABLE RULE FOR EVERY FUTURE SONG
+  Where the artist has a non-English name, add the native-script form, the
+  romanised form and the common misspelling, plus member names in both scripts.
+  Rammstein already has ramstein/rammstain in the record - this is the same idea
+  executed properly. It is the only tactic in twenty audits with a measurable
+  organic signal attached to it.
+
+THE UNCOMFORTABLE TRADE
+  CTR 0.7% is the worst ever, and search is the best ever, on the same video.
+  Impressions were 6k - more than CO-0019 (2.6k) - and almost nobody clicked. But
+  the people who did click converted at 1.14%, the best rate in the corpus. A low
+  CTR here is not a thumbnail failure so much as a sign the impressions were
+  poorly aimed while the search arrivals were perfectly aimed.
+--------------------------------------------------------------------------------

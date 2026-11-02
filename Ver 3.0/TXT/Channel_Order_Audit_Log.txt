@@ -2963,3 +2963,47 @@ GENRE BACKFILL COMPLETE
   "elements" only, not as members of the wave.
 
 ################################################################################
+
+################################################################################
+CO-0020 | BABYMETAL - Megitsune | 4:05
+################################################################################
+
+FOLDER   : _0001 Long Form / 0011 - 0020 / 0020 - BABYMETAL - Megitsune
+           (Long Form)
+CAPTURED : 11 screenshots, all readable.
+UPLOADED : 31 Aug 2025, same batch as CO-0019.
+BUCKET   : 0011 - 0020 CLOSES HERE. Twenty of thirty audited in this bucket group.
+
+OLD COPY
+  Title   : broken "[]" glyph again, then #rocksmith #bass #babymetal.
+  Desc    : the 2022 shell, unchanged - Super Thanks, Kick subscribe, dead invite
+            discord.gg/mavomusic plus "type mavomusic into the invite box", X,
+            TikTok, Rumble, Twitch, "Be part of our community (^-^)", "Much love".
+  Tags    : **13 tags at 161/500 - the best tag box in the corpus.** See MR-0020.
+            Native script, romanised form, all three members in both forms.
+            Missing only "megitsune" and Latin "babymetal".
+  Pin     : the "[IMPORTANT INFORMATION]" support wall, same as 18 and 19.
+
+NEW COPY
+  Title   : 69 chars. Names the band, the song and the bass. No hashtags.
+  Desc    : 1028 chars. Opens on the June 2013 single and what it did for the
+            band's reputation, then the running pulse, the breakdown and the fact
+            that the chart has no rest bar. Three CTA lines, one closing sentence.
+  Tags    : 16 tags at 198/500. Keeps the entire native-script lattice that was
+            already there - it is the one thing the old box got right - and adds
+            megitsune, babymetal megitsune, megitsune bass, japanese metal, boh
+            and the year. Drops the six channel-identity tags.
+  Pin     : 175 chars. Language question - do you learn words in a language you do
+            not speak, or just the rhythm. New question type, no prior use.
+  GENRES  : 8 labels. Kawaii metal primary.
+
+FINDINGS CARRIED INTO THE CONTEXT BLOCK
+  1. Search traffic 10.5%, ten times the corpus norm. Driven by native-script tags.
+  2. Single badge only - no partial block - which proves the double badge on 18
+     and 19 is per-composition, not channel-wide.
+  3. "Viewers also watch" was five for five his own videos, all wearing the new
+     Ver 4.17 titles. Third independent confirmation of internal chaining.
+  4. CTR 0.7% (worst in corpus) and conversion 1.14% (best in corpus) on the same
+     video. Impressions and search are aiming at different people.
+
+################################################################################
