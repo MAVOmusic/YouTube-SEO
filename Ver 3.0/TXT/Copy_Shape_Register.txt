@@ -152,6 +152,8 @@
   0046    the recording circumstances, then the song      P-inference-question
   0047    the one line the arrangement saves for the end   P-two-way-disagreement
   0048    one-word verdict, then the reason                P-correction-invite
+  0049    catalogue position, third single, no title status  P-anecdote-prompt
+  0050    band history, the year the member left            P-fact-quiz
 
 ################################################################################
 # GENRE BLOCK - SPLIT INTO TWO ELEMENTS (VER 4.38, MAVO 02-11-2026)
@@ -202,6 +204,12 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.46. Rows added for CO-0049 and CO-0050. D11 catalogue position
+              returns after twenty-five videos (last used 0024) and D07 band history
+              after thirty-three (last used 0017), both well outside the spacing
+              rule. P16 anecdote prompt and P09 fact quiz both returned, neither in
+              the last eight. No date-first opener in either, no nomination pin, and
+              neither pin repeats the move its own description makes.
   2026-11-02  VER 4.45. Rows added for CO-0047 and CO-0048. D22 back after
               thirteen videos (last used 0034), D23 back after twelve (last used
               0036), both inside the eight-video spacing rule. P12 and P13 both

@@ -440,6 +440,8 @@ RECREATE INSTRUCTION
   MR-0046 CO-0046  Bullet For My Valentine - Scream Aim Fire (Sony)    E4
   MR-0047 CO-0047  My Chemical Romance - Dead! (Reprise, 3rd MCR)      E4+block
   MR-0048 CO-0048  System Of A Down - Hypnotize (3rd SOAD, American)   E4+block
+  MR-0049 CO-0049  (G)I-DLE - I'm The Trend (Cube, 1st K-pop)          E4
+  MR-0050 CO-0050  (G)I-DLE - Tomboy (Cube, 2nd K-pop, #1 single)      E4
   MR-0039 CO-0039  Sabaton - En Livstid I Krig (6th Sabaton, Swedish)  E4
   MR-0040 CO-0040  Rammstein - Amerika (2nd Rammstein, Universal)      E4
   MR-0041 CO-0041  Snoop/Wiz/Bruno - Young Wild & Free (Atlantic)      E4+block
@@ -487,6 +489,15 @@ RECREATE INSTRUCTION
     the start, and it changed nothing: 4.1k impressions, 92.1% recommended, the
     highest APV in the corpus, GBP 0.00, partial block. Recorded as the definitive
     answer to the "fix the tags and it will earn" theory.
+
+  (G)I-DLE: TWO ATTEMPTS, TWO CLEAN E4s - THE FIRST K-POP TEST
+    0049 I'm The Trend and 0050 Tomboy. Both single-line ineligible, neither
+    partially blocked, GBP 0.00. Cube Entertainment claims the catalogue but does
+    not block it, which makes this the one new label in the batch that behaves
+    differently from Warner and Sony BMG.
+    The pair also splits the recommendation system in half: 80.2% recommended on
+    0049 against 25.1% on 0050, same artist, same week, same format. Neither
+    earned anything. Recommendation volume is a per-video signal.
 
   MANOWAR: ONE ATTEMPT, E4 + PARTIAL BLOCK
     0045 is the other half of the CO-0036 reference loop - Sabaton's Man of War is
@@ -552,6 +563,11 @@ RECREATE INSTRUCTION
               Another Life. Conversion fell 23.68% -> 3.94% -> 0.56% across the
               three takes of one song. Strongest duplicate evidence in the corpus;
               the one-song-one-upload rule now has a conversion curve.
+  2026-11-02  VER 4.46. Two failed candidates added: CO-0049 ((G)I-DLE - I'm The
+              Trend, Cube Entertainment, first K-pop upload, clean E4) and CO-0050
+              ((G)I-DLE - Tomboy, the group's first number one single, same clean
+              E4). Total unchanged at GBP 0.751 from six earners in 50 audits.
+              New label behaviour recorded: claim without block.
   2026-11-02  VER 4.45. Two failed candidates added: CO-0047 (My Chemical Romance
               - Dead!, Reprise, third MCR upload, E4 + partial block - the MCR
               catalogue is now closed on three eras of evidence) and CO-0048

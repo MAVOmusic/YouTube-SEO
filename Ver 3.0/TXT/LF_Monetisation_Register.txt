@@ -3474,3 +3474,98 @@ INTERNAL NOTE
   engaged views - makes it the SOAD equivalent of CO-0046: the format works on
   this catalogue and the money does not. Do not re-record it.
 --------------------------------------------------------------------------------
+--- MR-0049 | CO-0049 | (G)I-DLE - I'm The Trend --------------------------------
+Video ID           : Ee4bSv_yw4 | 3:28 | uploaded 03-09-2025 | 306 views
+                     | 1.9 watch hours | **+2 subscribers** | 304 unique
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00 - estimated revenue dashed, CPM dashed, RPM dashed
+Impressions / CTR  : 1.2k impressions at 0.8% | **80.2% from YouTube recommending**
+                     | **9 engaged views** | impression-AVD 0:28 | 0.07 h
+Watch quality      : AVD 0:22 | APV 10.9% | 20% at 0:30 "typical"
+Likes              : **100.0%** against a 97.4% channel average
+End screen CTR     : **0.0%** | hype 290 points from a single hype | no remixes
+Traffic            : **advertising 92.2** / browse 2.9 / search 2.0 / direct 1.0 /
+                     channel pages 1.0 / other 1.0
+External           : **"not enough traffic data"**
+Search (2.0%)      : **"not enough traffic data"** - share recorded, terms withheld
+Content suggesting : one video at 100.0% of a 0.3% slice - **"What Another Life
+                     sounds like when Motionless..." - our own CO-0002 upload**
+Devices            : mobile 92.1 / computer 5.1 / tablet 1.7 / TV 1.1
+Audience           : 25-34 100.0% | India 69.6 / Indonesia 14.7 | **97.1% of watch
+                     time from non-subscribers** | 96.7% no captions, 3.3% English |
+                     gender panel **"not enough demographic data"**, third gap in 49
+Old title          : "[guitar emoji] (G)I-DLE - I'm The Trend #rocksmith #bass
+                     #gidle_tomby" - the hashtag is the OTHER song's name
+Old tags           : **7 / 77 chars. Song title ABSENT. Eight channel-identity tags
+                     in a row: mavomusic, mavomusicyt, kickpartner, kickstreaming,
+                     kick, kickcommunity, gidle, kpop** - eleventh C-11 box
+Old pin            : no pin. Four MAVO comments, all funding furniture
+Old comments       : **THIRD GENUINE VIEWER COMMENT IN THE CORPUS**
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Cube Entertainment. First
+                     (G)I-DLE upload on the channel.
+
+*** THE THIRD REAL VIEWER COMMENT, AND THE FIRST DIAGNOSTIC ONE ***
+  @777_Rynn: "Ngl I think this got recommended cause I like i-dle, but I'm actually
+  hooked. Keep it up! I'll watch your other vids" - two likes, answered twice by
+  MAVO, once with a thank-you and emoji. This is the first comment in the series
+  that describes the recommendation mechanism from the viewer's side: genre
+  affinity served the video, the play along format converted them, and they said
+  both things out loud.
+
+INTERNAL NOTE
+  92.2% of views came from YouTube advertising, behind only CO-0050's 96.0% in
+  the register. Nobody searched for this song. The format is doing all of the work and the thumbnail is
+  doing none of it.
+--------------------------------------------------------------------------------
+--- MR-0050 | CO-0050 | (G)I-DLE - Tomboy ---------------------------------------
+Video ID           : 3HGPQc-oYP8 | 2:55 | uploaded 03-09-2025 | 322 views
+                     | 1.8 watch hours | **+2 subscribers** | 322 unique
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00 - every revenue panel dashed, RPM a dash
+Impressions / CTR  : **416 impressions at 0.7%** - the smallest impression pool in
+                     the batch | the funnel reports 422 at 0.7% and **25.1% from
+                     YouTube recommending**, against 92.1% on CO-0048 and 80.2% on
+                     CO-0049 in the same week | **3 engaged views** |
+                     impression-AVD 1:20 | 0.07 h
+Watch quality      : AVD 0:20 | APV 11.6% | **18% at 0:30, flagged "below typical"**
+                     - the only audit in this batch that the panel criticises
+Likes              : **100.0%** against 97.4% channel average
+End screen CTR     : **0.0%** | hype 290 points, one hype | no remixes
+Traffic            : **advertising 96.0% - the highest advertising share recorded
+                     so far on the channel** / search 1.9 / channel pages 0.6 /
+                     related Shorts 0.6 / direct 0.3 / other 0.6
+External           : **"not enough traffic data"**
+Search (1.9%)      : **"rocksmith bass" 16.7% and "tomboy song" 16.7%** - one term
+                     is the tool and the other is the song, and both are correct.
+                     The cleanest search intent of any audit in this batch
+Content suggesting : **"not enough traffic data"** - no suggestion report at all
+Devices            : mobile 97.3 / computer 2.1 / TV 0.7 - **highest mobile share
+                     and lowest desktop share in the batch**
+Audience           : **Female 38.9 / Male 61.1** | 25-34 100.0% | India 69.9 /
+                     Indonesia 21.4 | **99.2% of watch time from non-subscribers,
+                     marginally above CO-0045's 99.0%** | 99.1% no captions
+Old title          : "[guitar emoji] (G)I-DLE - Tomboy#rocksmith #bass
+                     #gidle_tomby" - **no space before the hashtag block**
+Old tags           : **7 / 77 chars, identical box to CO-0049** - same eight
+                     channel-identity tags, song title absent in both
+Old pin            : no pin. Four MAVO comments, all funding furniture
+Old comments       : **zero viewer comments**
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Cube Entertainment. Second
+                     (G)I-DLE upload.
+
+*** THE SAME BAND, TWO DAYS APART, TWO DIFFERENT PRODUCTS ***
+     CO-0049   1.2k impressions   80.2% recommended   9 engaged
+     CO-0050   416 impressions    25.1% recommended   3 engaged
+  Same group, same voice, same format, same week of upload. One was served as
+  genre affinity, the other was barely served at all. Neither earned anything,
+  because eligibility never entered the conversation - but the pair is the
+  cleanest demonstration yet that recommendation volume is a property of the
+  individual video's signal, not of the artist.
+
+INTERNAL NOTE
+  96.0% advertising and 99.2% non-subscriber watch time is the far end of the
+  channel's own curve. Paid traffic is MAVO's own and it is currently the only
+  traffic this catalogue has.
+--------------------------------------------------------------------------------

@@ -148,6 +148,12 @@
           the release, no verb in the subject slot. Deliberately breaks the two
           previous band-writes openers.
   0048    [song] + spent [duration] + refusing to X           Hypnotize spent three minutes refusing to explode
+  0049    a [thing] became the [ordinal] [band] [format]      A thank you note to the fandom became the third (G)I-DLE single
+          new skeleton - indefinite article subject, band at the tail, the ordinal
+          does the search work instead of the band name
+  0050    band + returned [state] + refused to [verb]          (G)I-DLE returned a member short and refused to lower the volume
+          new skeleton - band-first again, but the verb frame is a return plus a
+          refusal, not a writing frame. No "wrote" anywhere in the title.
           new skeleton - song title alone as the subject, money-shot verb "spent",
           negated infinitive at the tail. First title in the register where the
           subject is the song doing something with time.
@@ -208,6 +214,12 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.46. Rows added for CO-0049 and CO-0050 - two uploads by the
+              same artist, written back to back, and the skeletons share nothing.
+              Checked against the previous eight: no possessive, no "is" opener, no
+              date opener, no question (last was 0036), first words distinct
+              (A / (G)I-DLE). The band-writes frame flagged in 4.44 is still closed
+              three videos later.
   2026-11-02  VER 4.45. Rows added for CO-0047 and CO-0048. The band-writes echo
               flagged in 4.44 is closed: 0047 puts the band mid-sentence inside a
               noun phrase and 0048 gives the subject to the song. Checked against
