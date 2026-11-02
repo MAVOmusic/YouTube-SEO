@@ -1,0 +1,164 @@
+# ============================================================================
+# MAVOmusic (@mavomusicyt) - COPY SHAPE REGISTER  (DS description / PS pin)
+# ============================================================================
+# Created: 2026-11-02 (VER 4.30) - opened after the title correction, extended
+# to the other two prose surfaces on MAVO's instruction.
+#
+# WHY THIS FILE EXISTS
+#   MAVO (02-11-2026), verbatim:
+#     "Make sure Description and pinned comments follow the same logic as title.
+#      No repetition YouTube algorithm can take as spam. We have 2500+ videos,
+#      all must be unique to stay noticed"
+#
+#   The title register had already caught the possessive opener. This one catches
+#   the same disease in the other two surfaces, and the audit says it was worse
+#   there than in the titles.
+#
+# WHAT THE AUDIT FOUND (29 videos, before CO-0029)
+#   DESCRIPTION OPENERS : 13 of 28 opened with a year or a release date.
+#                         That is 46 percent of the catalogue using one
+#                         device: "[Album] arrived in [year] and...". No string guard
+#                         can see it, because the album names all differ.
+#   PINNED COMMENTS     : 19 of 28 ended in a nomination question -
+#                         "What is the best / most / favourite X you...". Every
+#                         one of them asks the reader to supply a superlative.
+#                         Twenty-eight videos, one conversational move.
+#
+# THE RULE
+#   1. A description opens with a DEVICE, not with a fact. The device is chosen
+#      from the pool below and logged here before the copy is written.
+#   2. No device may be used twice within eight consecutive videos, and the
+#      date-first opener may not exceed one in four across any window of twelve.
+#   3. The pin must not repeat the device of the previous pin. A nomination
+#      question is one device among many, not the default.
+#   4. THE PIN MUST NOT MIRROR THE DESCRIPTION'S OPENING MOVE. If the
+#      description opens with a question, the pin does not.
+#   5. Prose is what gets read as spam. TAGS ARE KEYWORDS AND MAY REPEAT -
+#      "bass cover", "rocksmith 2014" and "bass play along" are search
+#      vocabulary and belong in every box. What must never repeat is a
+#      sentence, a skeleton or a conversational move.
+#   6. Scale note for 2500+ videos: this file holds one row per video and grows
+#      by one row per audit. That is the point. The pool never runs dry because
+#      each device has variants, and a device that has been away for eight
+#      videos is fresh again.
+#
+# OPENING DEVICE POOL - descriptions
+#   D01  narrative scenario
+#   D02  date + album arrival
+#   D03  comparison to another upload
+#   D04  tuning or production detail
+#   D05  piece-first identification
+#   D06  album-first with the opener track
+#   D07  band history or hiatus
+#   D08  origin story, dated
+#   D09  writing history
+#   D10  authorship negation
+#   D11  catalogue position
+#   D12  composer history
+#   D13  track position + band origin
+#   D14  negation-correction
+#   D15  imperative listening instruction
+#   D16  second-person scenario
+#   D17  single observation about the mix
+#   D18  quote a lyric line then undercut it
+#   D19  runtime arithmetic
+#   D20  instrument-first description
+#   D21  reviewer disagreement
+#   D22  the thing that is missing from the arrangement
+#   D23  one-word verdict then the reason
+#   D24  a question the song refuses to answer
+#
+# PIN DEVICE POOL - pinned comments
+#   P01  nomination (name your favourite)
+#   P02  memory (what did you learn late)
+#   P03  yes/no
+#   P04  favourite
+#   P05  song-specific trap
+#   P06  superlative
+#   P07  conditional
+#   P08  imperative challenge
+#   P09  fact quiz
+#   P10  opinion poll
+#   P11  diagnostic fork
+#   P12  two-way disagreement (pick a side)
+#   P13  correction invite (tell me I am wrong)
+#   P14  prediction
+#   P15  craft question
+#   P16  anecdote prompt
+#   P17  binary comparison
+#   P18  confession then ask
+#   P19  recommendation request
+#   P20  count request
+#   P21  identification test
+#   P22  rating scale
+#   P23  open floor
+#   P24  second-person challenge
+
+################################################################################
+# PER-VIDEO LOG - one row per video, appended as each copy is written
+################################################################################
+
+  CO      DESC OPENING DEVICE                          PIN DEVICE
+  ----    ------------------------------------------   ------------------------
+  0001    narrative scenario                           What do you leave running when the house is empty?
+  0002    date + album arrival                         What is the song you would show someone first?
+  0003    date + album verdict                         What song did you learn far too late?
+  0004    comparison to the other upload               What is the one thing you always slow down?
+  0005    date + album origin                          Do you play by ear or by tab?
+  0006    tuning / production detail                   What is the heaviest thing you play in Drop D?
+  0007    date + album + track position                Which song did you avoid for years before trying it?
+  0008    date + album + verdict                       What is your favourite bass part in this band?
+  0009    date + album arrival                         Which section of this song catches people out?
+  0010    date + album                                 What is the most underrated bassline you know?
+  0011    piece-first identification                   What should be the next piece stretched this far?
+  0012    date + band + wordplay                       Which 2002 record should get this treatment?
+  0013    album-first, opener track                    Which Slayer record would you want done next?
+  0014    date + album                                 Did you know the hook was a synth?
+  0015    date + album + band rise                     What is the one track you can play forever?
+  0016    date + album                                 If you had to pick a track that proves a bass player is good?
+  0017    band history / hiatus                        Name a band whose return single beat the old material
+  0018    origin story, dated                          What other remix buried the original?
+  0019    date + album + track position                What bassline would you use to prove a point?
+  0020    date + single position                       Do you learn the words phonetically?
+  0021    session history, dated                       What is the oldest riff you still recognise instantly?
+  0022    writing history                              What is the best song a band left off an album?
+  0023    authorship negation                          What other cover beats the original?
+  0024    catalogue position                           Which track do you think a band buried on purpose?
+  0025    composer history                             Which piece should a metal band borrow next?
+  0026    track position + band origin                 What is the shortest track in your library that still works?
+  0027    comparison to the other cut                  Which band's over-ambitious release plan actually worked?
+  0028    negation-correction                          Which vessel in history has the worst timing?
+  0029    imperative listening instruction             Can you actually hear it on your speakers, or does it vanish?
+
+################################################################################
+# BANNED / RESTRICTED
+################################################################################
+
+  DS-B1  DATE-FIRST DEFAULT. 13 of the first 28 descriptions opened with a year.
+         Still allowed, capped at one in four, never twice in a row.
+  DS-B2  "There are two cuts of this song on the channel." - needed twice only
+         (CO-0004, CO-0027) and never again outside a genuine duplicate.
+  PS-B1  THE NOMINATION DEFAULT. 19 of 28 pins ended "What is the best/most/
+         favourite X you...". This is the move YouTube reads as engagement bait
+         when it repeats 2,500 times. Capped at one in four.
+  PS-B2  "What should I play next?" in any wording. Same problem, no cap, banned
+         outright from CO-0030 onward.
+
+################################################################################
+# HOW THIS FAILURE HAPPENED - recorded so it is not repeated
+################################################################################
+  Same mechanism as the title drift: each description was written against its own
+  song, never against the other twenty-seven. The date-first opener is the natural
+  first sentence for a music video, and because nothing tracked it, the natural
+  choice became the only choice. The n-gram guard passes it happily.
+
+################################################################################
+# CHANGE LOG
+################################################################################
+  2026-11-02  created, VER 4.30. 29 rows logged. Date-first opener capped,
+              nomination-pin default capped, "what should I play next" banned.
+              24 description devices and 24 pin devices in the pool.
+
+################################################################################
+# END OF FILE
+################################################################################

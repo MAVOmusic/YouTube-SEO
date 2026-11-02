@@ -3458,3 +3458,92 @@ GLOBAL | TITLE SHAPE RESET, ALL 28 TITLES | 02-11-2026
   invisible. Comparing with URLs intact exposed a six-gram repeat between
   CO-0013 and CO-0028 (twitch line followed by 'which'). Reworded CO-0028.
 ################################################################################
+
+################################################################################
+CO-0029 | Amaranthe - Archangel | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : CptJVIYcaU | 3:13 | uploaded 31-08-2025 | 315 views | 315 unique
+  Subs    : +1 (0.32% of views - lowest in the paid cohort)
+  Earning : **E1 EARNING, GBP 0.06**. No notice at all. RPM GBP 0.20.
+  Bucket  : 0021 - 0030
+
+THE SONG
+  Amaranthe, a single on 18-09-2020, two weeks ahead of *Manifest* on Nuclear Blast.
+  Written by Elize Ryd and Olof Morck, produced by Jacob Hansen, video by Grupa13.
+  Album cut is 3:23; this run is 3:13. Swedish band, formed 2008, built around three
+  vocalists against a synth wall.
+
+*** IT EARNS - AND THAT IS THE STORY ***
+
+  The Notices field is empty. Not "partially blocked", not "Ineligible" - nothing.
+  Studio pays out GBP 0.06, all of it watch-page display ads, and it is the second
+  E1 in twenty-nine audits.
+
+  The assumption this kills: modern metal on a major metal label is automatically
+  claimed. Nuclear Blast released this AND both Sabaton uploads. Sabaton is E4
+  twice, at opposite ends of its own catalogue. Amaranthe is clean. Label, year,
+  format and obscurity were all eliminated as explanations across CO-0023 to
+  CO-0028, and this is the seventh counter-example from the other direction:
+  the claimant is the specific master, and nobody registered this one.
+
+  Revenue is small - 6p, GBP 0.00019 per view, RPM 0.20 - because 91% of the ad mix
+  is display and 73% of the audience is in India. **The eligibility matters more
+  than the money.** An E1 asset can be lengthened, looped and re-cut to raise watch
+  time with zero added rights risk, because the claim follows the master and this
+  master is unclaimed. That is the Phase 3 build queue, entry two.
+
+WATCH QUALITY
+  20% still there at 0:30 on a 3:13 runtime, AVD 0:21, APV 11.0%, marked "typical".
+  Third best of the 2025 paid set on percentage viewed, after CO-0026 (1:22) and
+  CO-0025 (2:25) - and both of those were shorter. Likes 100.0%, the ninth perfect
+  ratio in the corpus. Conversion 0.32%, the lowest in the paid cohort, which is
+  the one number that says the paid traffic was not looking for Amaranthe.
+
+  Two panels were empty for the first time in the corpus: "Audience by watch
+  behaviour" and "Viewers also watch" both read "not enough data". At 315 views
+  with 96.8% of watch time from non-subscribers, YouTube has no behavioural signal
+  on these viewers at all.
+
+THE OLD COPY (all four surfaces)
+  Title   : "Amaranthe - Archangel #rocksmith #bass #amaranthe" - 43 chars, band
+            name printed twice, half the title spent on hashtags.
+  Desc    : the full funding wall - Prime subs, streams elements, Patreon, TikTok,
+            X, Rumble, the dead discord.gg/mavomusic invite, "type mavomusic into
+            the invite box", a schedule that no longer exists. Nothing about the
+            song, the band or the album.
+  Tags    : 8 at 84/500. Six channel identity. **"archangel" absent entirely.**
+            "amaranthe" and "amaranhe" both there - the typo instinct was correct
+            and everything around it was empty.
+  Pin     : the same 4,000-character wall.
+
+THE REWRITE
+  Title   : 53 chars, imperative, no band name in front and no hashtags. New shape,
+            logged as a distinct skeleton in the title register.
+  Desc    : 1240 chars. Opens with an instruction to the viewer (a device used
+            nowhere else in the catalogue), then the release facts, then why the
+            bass has to behave itself in a three-vocalist mix. Credited at the end.
+  Tags    : 16 at 209/500. Song title present, both writers, the bassist, the second
+            clean vocalist, the album, the label, the genre family. Zero channel
+            identity tags.
+  Pin     : 143 chars, a diagnostic fork ("can you hear it, or does it vanish")
+            rather than the nomination question that 19 of the previous 28 pins used.
+  GENRES  : 7 labels. Melodic metal primary, plus power metal and electronic metal.
+            TRAP note: not symphonic metal despite the keyboards and the female lead.
+
+DESCRIPTION AND PIN SHAPE RULE - NEW
+  MAVO: "Make sure Description and pinned comments follow the same logic as title.
+  No repetition YouTube algorithm can take as spam. We have 2500+ videos, all must
+  be unique to stay noticed."
+
+  Audit of the 28 descriptions before this one: **13 opened with a year or release
+  date** - "[Album] arrived in [year] and..." - and no string guard can see it
+  because every album name differs. Audit of the 28 pins: **19 ended in a
+  nomination question**, "the best / most / favourite X you...". Twenty-eight videos
+  doing the same conversational move.
+
+  New file: TXT/Copy_Shape_Register.txt. 24 description-opening devices and 24 pin
+  devices in the pool. No device twice inside eight consecutive videos; date-first
+  capped at one in four; the pin may not repeat the previous pin's device and may
+  not mirror the description's opening move; "what should I play next" banned
+  outright from CO-0030.
+################################################################################
