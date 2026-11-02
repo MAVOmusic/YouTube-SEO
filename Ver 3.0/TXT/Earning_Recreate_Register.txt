@@ -446,6 +446,7 @@ RECREATE INSTRUCTION
   MR-0052 CO-0052  (Hed) P.E. - I Got You (Jive, 2.2% CTR record)      E4+block
   MR-0053 CO-0053  +44 (Plus 44) - 155 (Interscope, Premiere, +5 subs) E4
   MR-0054 CO-0054  +44 (Plus 44) - Baby, Come On (99.8% non-sub)       E4
+  MR-0055 CO-0055  +44 (Plus 44) - Chapter XIII (3rd +44, 5.6% end)   E4
   MR-0039 CO-0039  Sabaton - En Livstid I Krig (6th Sabaton, Swedish)  E4
   MR-0040 CO-0040  Rammstein - Amerika (2nd Rammstein, Universal)      E4
   MR-0041 CO-0041  Snoop/Wiz/Bruno - Young Wild & Free (Atlantic)      E4+block
@@ -585,6 +586,10 @@ RECREATE INSTRUCTION
               Another Life. Conversion fell 23.68% -> 3.94% -> 0.56% across the
               three takes of one song. Strongest duplicate evidence in the corpus;
               the one-song-one-upload rule now has a conversion curve.
+  2026-11-02  VER 4.49. One failed candidate added: CO-0055 (+44 - Chapter XIII,
+              Interscope, clean E4, third +44 upload, the new end screen CTR record
+              at 5.6% and the best-intent search term in the register). Total
+              unchanged at GBP 0.751 from six earners in 55 audits.
   2026-11-02  VER 4.48. Two failed candidates added: CO-0053 (+44 - 155,
               Interscope, clean E4, Premiere, +5 subs on the weakest recommendation
               share in the batch) and CO-0054 (+44 - Baby, Come On, clean E4, the

@@ -3776,3 +3776,70 @@ INTERNAL NOTE
   audience read in 54 audits. Compare CO-0053, the same band uploaded in the same
   session, at 89.1% non-sub because it ran as a Premiere.
 --------------------------------------------------------------------------------
+--- MR-0055 | CO-0055 | +44 (Plus 44) - Chapter XIII -----------------------------
+Video ID           : QbHGMYd8qDE | 4:50 | uploaded 04-09-2025 | 329 views
+                     | 2.6 watch hours | subscriber panel **dashed, no figure
+                     supplied** | 323 unique
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00 - CPM dashed, RPM dashed, every revenue panel empty
+Impressions / CTR  : **1.7k impressions at 1.6%** | **76.0% from YouTube
+                     recommending** - the lowest recommendation share since CO-0053's
+                     51.2% | **26 engaged views** | **impression-AVD 1:08 - the
+                     highest in the register** | 0.49 h
+Watch quality      : AVD 0:28 | **APV 9.8% - the lowest in the batch** | 21% at 0:30
+                     "typical"
+Likes              : **100.0%** against 97.4% channel average
+End screen CTR     : **5.6% - NEW CORPUS RECORD**, ahead of CO-0043's 5.3%, against a
+                     1.1% channel average | hype 0/0 | no remixes
+Traffic            : **advertising 88.5** / browse 6.1 / suggested 3.3 / search 0.9 /
+                     direct 0.3 / other 0.9
+External (0.3%)    : **Google Search 100.0%**
+Search (0.9%)      : **"chapter 13 plus 44" 33.3% - the best-intent search term in 55
+                     audits.** Numeral instead of roman, artist appended, no format
+                     word, no "live"
+Content suggesting : five at 9.1% each - **our own +44 Weatherman**, Incubus Wish You
+                     Were Here live, **our own Sabaton The Lion From The North**, IVY
+                     and Adalaide Adams Oxygen, and **our own CO-0016 title** "Lonely
+                     Day proves System Of A Down can whisper..." - three of five
+                     entries are internal
+Bell notifications : 0 views, click rate dashed - the CO-0053 Premiere surge did not
+                     repeat
+Devices            : mobile 70.8 / **computer 29.2 - THE HIGHEST DESKTOP SHARE IN THE
+                     REGISTER**, beating CO-0046's 22.0
+Audience           : **Female 34.5 / Male 65.5** | 25-34 100.0% | India 66.6 /
+                     Indonesia 11.6 | 90.8% of watch time from non-subscribers, 9.2%
+                     from subscribers - the second-highest subscriber share recorded,
+                     behind only the CO-0053 Premiere | 100% no captions
+Old title          : "[guitar emoji] +44 (Plus 44) - Chapter XIII #rocksmith #bass
+                     #plus44"
+Old tags           : **14 / 160 chars, the IDENTICAL box to CO-0053 and CO-0054** -
+                     same "fourty" misspellings twice, same blink182 tags, song title
+                     absent from all three +44 uploads
+Old pin            : no pin. Four MAVO comments, all funding furniture
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Interscope. Third +44 upload, over
+                     the two-upload cap already logged at CO-0054.
+
+*** END SCREEN RECORD, AND THE BEST SEARCH INTENT ON THE CHANNEL ***
+  5.6% end screen CTR against a 1.1% average, on a video whose average percentage
+  viewed is the lowest in the batch at 9.8%. The people who arrived late enough to
+  reach the end screen clicked it. That is the first audit where the end screen
+  out-performs the retention curve, and it is a property of a five minute song with
+  an unresolved outro.
+
+  "chapter 13 plus 44" at 33.3% is the term the rewrite programme exists to capture:
+  numeral spelling, artist appended, no format word. The old tag box could not serve
+  it because the song title was absent.
+
+*** CAPTURE DEFECT LOGGED: `_01 Overview 2` IS A STALE PANEL ***
+  It reads 4:26 runtime, AVD 0:29, APV 11.3%, 26% at 0:30 - and 4:26 is CO-0046's
+  runtime exactly. The player, Reach 1 and all three Engagement panels agree on 4:50,
+  AVD 0:28, APV 9.8%, 21% at 0:30. The figures above use the majority reading.
+
+INTERNAL NOTE
+  26.6% of this video's impressions came from somewhere other than YouTube
+  recommending, the highest non-recommendation share in the recent batch, and it
+  collected the highest impression-AVD on the channel at 1:08. Long songs convert
+  the few who click. They do not get clicked.
+--------------------------------------------------------------------------------

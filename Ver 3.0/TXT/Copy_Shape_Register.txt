@@ -158,6 +158,7 @@
   0052    track position, then the label that signed them    P-rating-scale
   0053    the title explained, then the album around it      P-identification-test
   0054    track position head to head, then the credits      P-diagnostic-fork
+  0055    the title denied, then the real source              P-second-person-challenge
 
 ################################################################################
 # GENRE BLOCK - SPLIT INTO TWO ELEMENTS (VER 4.38, MAVO 02-11-2026)
@@ -208,6 +209,12 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.49. Row added for CO-0055. The description opens by denying what
+              the title implies and then supplies the real source - a D14
+              negation-correction, last used at 0028, fifty-seven videos ago. P24
+              second-person challenge returns after a long absence. No date-first
+              opener, no nomination pin, and the pin does not repeat the description's
+              move: the description explains the name, the pin asks about the outro.
   2026-11-02  VER 4.48. Rows added for CO-0053 and CO-0054. 0053 opens by answering
               the question its own title raises - a naming fact rather than a release
               date - and 0054 opens on the sequencing of two adjacent tracks, a close
