@@ -131,6 +131,7 @@
   0029    imperative listening instruction             Can you actually hear it on your speakers, or does it vanish?
   0030    second-person scenario                        Club record or band record, which is it?
   0031    runtime arithmetic                           P-anecdote
+  0032    band-reputation reversal                       P-rating-scale
 
 ################################################################################
 # BANNED / RESTRICTED

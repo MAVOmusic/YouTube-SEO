@@ -3711,3 +3711,98 @@ DIVERSITY
   clean to the 4-gram. Three rewording passes were needed on the CTA lines - the
   Kick line collided with CO-0004, the Discord boost wording with CO-0003/0017/0019.
 ################################################################################
+
+################################################################################
+CO-0032 | System Of A Down - Roulette | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : 0E7scWG8JTM | 3:21 | uploaded 31-08-2025 | 399 views | 395 unique
+  Subs    : **+4 (1.00% - best since CO-0025)**
+  Earning : **E4 INELIGIBLE + PARTIALLY BLOCKED, GBP 0.00.** Same two-line badge as
+            CO-0027. American Recordings claim it and restrict territories.
+  Bucket  : 0031 - 0040
+
+THE SONG
+  System Of A Down, track fifteen on *Steal This Album!* (2002), American Recordings,
+  produced by Rick Rubin and Daron Malakian. 3:21. Acoustic fingerpicking in standard
+  E tuning - which the band almost never use - with Tankian and Malakian sharing the
+  chorus. Written by Malakian with Tankian on lyrics. The album itself was assembled
+  from material leaked from the Toxicity sessions.
+
+*** THE RECOMMENDATION SYSTEM FINALLY WORKED - FOR A VIDEO THAT CANNOT PAY ***
+
+  Impressions **4.8k** - the highest in the corpus. CTR 1.5%, second best after
+  CO-0031. And **91.0% of those impressions came from YouTube recommending the
+  video**, against a 43-76% band everywhere else. **Corpus high by 15 points.**
+
+  The likely cause is in the content-suggesting panel, which names **five separate
+  channels and not one of them is MAVO's**: a Portnoy drum video, a Metallica drum
+  cover, a Bad Omens cover, a beginner guitar riff lesson, a CKY cover. Every earlier
+  upload was only ever suggested beside MAVO's own videos. Here the algorithm
+  understood what the video was and who else watches that.
+
+  What it understood was the odd one out: a quiet acoustic ballad at track fifteen
+  of a 2002 outtakes record, played on a bass, on a channel that otherwise does
+  down-tuned metal. **The most pushable thing on the channel is the strangest one.**
+
+  Outcome: GBP 0.00.
+
+*** +4 SUBSCRIBERS, 1.00%, THE BEST CONVERSION SINCE CO-0025 ***
+
+  399 views to 4 subscribers is top of the paid-cohort range (0.00-1.14%) and the
+  only upload in the corpus that both reached a new audience through recommendation
+  AND converted it. Everything else was either bought or ignored.
+
+  A video that gains 4 subscribers and earns nothing is the clearest statement of the
+  channel's position yet: **real demand for odd, quiet, out-of-place material, and no
+  way to monetise it while that material belongs to somebody else.**
+
+BROWSE FEATURES 19.1% - CORPUS HIGH
+  Advertising 76.2 is the lowest paid share since CO-0024. Browse features at 19.1
+  is nearly a fifth of all traffic from the homepage and subscription feed, which is
+  the first sign of the channel being served to people who already follow it rather
+  than to strangers bought by the ad campaign.
+
+TWO DEMOGRAPHIC FIRSTS
+  Computer **19.7%**, a new corpus high on top of CO-0031's 15.9 - two desktop-heavy
+  uploads in a row. And the United States appears at 4.5%, **the first Western
+  country in any top-three table across 32 audits.** India and Indonesia have taken
+  every other slot.
+
+  Reading: western metal audiences watch on desktop, the paid traffic watches on
+  mobile. That is a targeting fact, not a copy fact, and it belongs to Phase 3.
+
+LIKES 80.0%
+  Third lowest in the corpus. One in five likes was a dislike. On a System Of A Down
+  ballad that is defensible - the band's own fanbase is split on this material almost
+  exactly in that ratio.
+
+THE OLD COPY (all four surfaces)
+  Title   : "System Of A Down - Roulette #rocksmith #bass #systemofadown" - 62
+            chars, and the hashtag version of the band name is not a search string.
+  Desc    : the funding wall. Dead invite, dead schedule, no song, no album, no year.
+  Tags    : **7 at 71/500. "roulette" absent. "system of a down" absent.** "soad" was
+            the only music tag; the other six described the channel.
+  Pin     : the 4,000-character wall.
+
+THE REWRITE
+  Title   : 54 chars. Universal claim with an exception - "every X is Y except Z" -
+            a skeleton used nowhere in 31 previous titles. Band name mid-sentence,
+            no possessive, no date, no question.
+  Desc    : 1435 chars. Opens by saying the band's name out loud and describing the
+            wall everyone hears, then removes it: no down-tuning, standard E,
+            fingerpicking, a string pad. Device D25, first use. Then the record's
+            origin, then what the bass actually does (one note at a time, following
+            the chord, nothing to hide behind).
+  Tags    : 16 at 217/500. Song, band, album, all four members, the genre family,
+            "ballad" and the format words. Zero channel identity.
+  Pin     : 118 chars, a rating scale rather than a nomination question - P22, first
+            use - and it gives an answer first so nobody has to be brave.
+  GENRES  : 8 labels. Alternative metal primary, nu metal flagged as ELEMENTS ONLY,
+            art rock and acoustic ballad for this track. TRAP note: this is the one
+            System Of A Down song that does not belong in a nu metal playlist.
+
+DIVERSITY
+  Zero collisions at 9, 8, 7 and 6-grams across 32 files with URLs counted. Titles
+  clean to the 5-gram - the only 4-gram overlap with CO-0016 is the band name
+  itself, which is structural, like the three URLs.
+################################################################################
