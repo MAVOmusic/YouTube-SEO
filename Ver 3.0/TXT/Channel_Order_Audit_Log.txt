@@ -2532,3 +2532,142 @@ COPY DELIVERED
   PIN (114) - no links, no money, ends on a question.
 
 ################################################################################
+
+################################################################################
+CO-0016 | SYSTEM OF A DOWN - LONELY DAY
+################################################################################
+Video ID      : WCJcAr5bJhk
+Published     : 12-02-2025   Runtime 2:49   Format: full playthrough (premiered)
+Badge         : INELIGIBLE TO EARN (flat)
+Lifetime      : 382,306 views / 357.3k unique / 1.9k watch hours / **+3k subs**
+                / GBP 0.00
+Premiere      : peak 1 concurrent viewer, average 1. The premiere was not an event.
+
+*** THE 382.3k IS THIS VIDEO, AND IT IS 99.6% PAID ***
+    YouTube advertising ........ 99.6%   <-- the highest paid share of any capture
+    Browse features ............. 0.1%
+    Playlists .................... 0.1%
+    Channel pages ............... 0.1%
+    External .................... 0.0%
+
+This closes the loop on the number that has been following this project since CO-0012's
+side panel. MAVO said "that SOAD song is long form and my biggest ad campaign"; the
+panel now says the same thing in numbers. **It is the largest view count in the corpus
+by a factor of 35, it is a long form, and 99.6% of it was bought.**
+
+*** A FOURTH POINT LANDS EXACTLY ON THE PAID COHORT ***
+    CO-0012   10,723 views ... +85 subs ... 0.79%
+    CO-0013    1,694 views ... +12 subs ... 0.71%
+    CO-0015    4,222 views ... +28 subs ... 0.66%
+    CO-0016  382,306 views ... +3k subs ... **0.78%**
+Four videos, view counts from 1,694 to 382,306, a spread of 226x, and the conversion
+rate does not move. **That is no longer a cohort, it is a constant.** A bought view
+converts to a subscriber at about 0.7-0.8% regardless of how many are bought.
+    (Caveat: "+3k" is rounded by the panel, so the true figure is 0.72-0.85%.)
+
+    AND THE RAW NUMBER STILL MATTERS: 3,000 subscribers is seven times the 423 the
+    entire eight-video play along series produced. A bad rate applied to an enormous
+    number still moves the channel. That is the honest case FOR what MAVO did, and I
+    should state it as plainly as the case against.
+
+*** WHEN THE ADS RAN - THE CURVE DATES THE CAMPAIGN ***
+The lifetime curve is flat and low for the first ~100 days, then lifts sharply between
+roughly **late May and early September 2025** before flattening again. The video was
+published in February 2025. So the campaign was run **three to seven months after
+upload**, not at launch.
+    Consequence: this video's first 100 days are a free sample of what an unpaid SOAD
+    long form does. It is a low line, near zero. Worth knowing before anyone concludes
+    that the song "would have worked anyway".
+
+WATCH QUALITY - BAD, AND IT DID NOT MATTER
+    AVD 0:17 | APV 10.7% | **17% at 0:30 = BELOW typical** | curve below the band
+    1.9k watch hours from 382,306 views = about 18 seconds per view
+    Likes 94.4% vs 97.4% | end screen 0.9% vs 1.1%
+    Impressions 18.1k | CTR 2.0% | 22.0% from YouTube recommending
+    Bell 63 pushes, 1.6% CTR, 1 view
+    This is the second-worst retention in the audit after CO-0013, on the biggest
+    video in the audit. **Retention did not stop 382,000 views arriving, because the
+    views were paid for.** Retention tells you whether an audience wants to stay.
+    Money tells you whether they arrive. Those are different questions and this video
+    is the cleanest proof of it.
+
+AUDIENCE - THE PUREST BUY SIGNATURE YET
+    Devices: mobile **99.7%** / computer 0.2% / TV 0.1% / tablet 0%
+    Geography: India **77.3%** / Indonesia **22.1%** = 99.4% in two countries
+    25-34 51.6% / 35-44 18.0% / 18-24 16.8% | male 72.8% / female 27.2%
+    96.7% of watch time from non-subscribers
+    Realtime: 3 views in the last 48 hours. The campaign is over and the video is
+    effectively dormant.
+
+SEARCH AND SUGGESTED - BOTH ESSENTIALLY ZERO
+    YouTube search: 0% slice. Terms inside it: rocksmith bass 34.8 / musick 4.4 /
+    norton mr beast 4.4 / rocksmith 4.4 / rocksmith bass system of a down 4.4.
+    **"rocksmith bass" is 34.8% of nothing**, which is the clearest illustration in the
+    project of why a percentage without its base is worthless.
+    Suggested 0.1%: CreeP Radhead Rocksmith BLC 6.7 / Adele Rolling In The Deep bass
+    6.7 / Three Days Grace Strange Days 6.7 / Slipknot Psychosocial 6.7 / Stevie
+    Wonder Master Blaster 6.7 - the Rocksmith bass-cover ecosystem, all hand-placed.
+    External 0.0%: android youtube 59.9 / whatsapp.com 17.5 / Google Search 5.1 /
+    WhatsApp 5.1 / Google 3.7.
+
+*** "VIEWERS ALSO WATCH" IS ALL MAVO'S OWN VIDEOS ***
+    What To Expect At kick.com/mavomusic? #rocksmith .... 280 views, 11 months ago
+    Aephanemer - Old French Song (Bass) ..................... 56 views, 1 year ago
+    RockSmith 2014 Bass Cover Emiliem Feat. Dido Stan ....... 28 views, 10 months ago
+    RockSmith 2014 Bass Cover Blink-182 What's My Age Again .. 9 views, 6 months ago
+    009 Sound System Dreamscape (Bass) ...................... 11.0k views, 2 years ago
+    Five of five are internal. This video is not feeding an ecosystem, it is feeding
+    itself: 382,000 people arrived, and what they were offered next was videos with 9,
+    28 and 56 views. **The single most expensive audience this channel has ever bought
+    was sent, at the end, to a catalogue with nothing in it.**
+    ALSO NOTE: 009 Sound System - Dreamscape at 11,000 views, 2 years ago, is the
+    second-largest number found so far and appears in no other file.
+
+SURFACE FAULTS - AND A PATTERN ACROSS FIVE VIDEOS NOW
+  TAGS  9 at 91/500. 409 characters unused:
+            mavomusic, mavomusicyt
+            soad
+            kick, kickstreaming, kickcommunity, kickpartner
+            serj, serj tankian
+        **It names the SINGER twice and the BASSIST never.** No "lonely day". No
+        "system of a down" in full. No "bass". The two genuine search terms in this
+        video's own slice were "rocksmith bass" (34.8%) and "rocksmith bass system of
+        a down" (4.4%) and neither was tagged.
+        THE PATTERN, which is now five videos deep:
+            CO-0013  tagged the GAME nineteen times, the song never
+            CO-0014  four Freddie Mercury entries, three misspelled, Deacon never
+            CO-0015  three misspellings of the band, the correct spelling never
+            CO-0016  the singer twice, the bassist never
+        **Every tag box on this channel names the frontman or the platform. Not one
+        of them names the instrument the channel is about.**
+  DESC  Same fundraising boilerplate. Same dead discord.gg/mavomusic link.
+  PIN   BYTE-IDENTICAL again. Fourth confirmed use of the template.
+  TITLE "[||] System Of A Down - Lonely Day #rocksmith #bass #systemofadown" - Shorts
+        format on a 2:49 long form, fourth in a row.
+
+MAVO'S REQUEST, ACTIONED: THE DISCORD BOOST LINE
+    MAVO confirmed discord.gg/ESGsGkN4j2 works and wants viewers told they can gift
+    boosts to restore the official discord.gg/mavomusic vanity URL.
+    Added to the copy as a single line under the existing Discord invite:
+        "Boost the Discord to bring back discord.gg/mavomusic: https://discord.gg/ESGsGkN4j2"
+    **One line, not a section.** It sits with the invite it belongs to and adds no
+    appeal language. I did NOT add a fifth money-style block - that is what turned the
+    last four descriptions into fundraising documents.
+    NOTE FOR THE TEMPLATE: this belongs in the channel-wide CTA so it appears once,
+    in a fixed place, rather than being rewritten per video.
+
+COPY DELIVERED
+  TITLE (79/100) - opener "The saddest", never used in sixteen audits:
+    The saddest System Of A Down song is also the simplest bassline they ever wrote
+    True, specific, and it names artist, song context and bass. It also gives the
+    viewer a reason to watch that has nothing to do with the advert.
+  DESC (1,891) - Hypnotize (2005), Daron Malakian writing about one bad day, Shavo
+    Odadjian choosing restraint in Drop C, and the two different lessons the same part
+    teaches a beginner and a long-time player. Money blocks gone, dead invite gone,
+    boost line added.
+  TAGS (15 / 217) - from 9 at 91/500. Now has "system of a down", "lonely day",
+    "shavo odadjian", "rocksmith bass" and the exact phrase that appeared in its own
+    search slice.
+  PIN (105) - no links, no money, ends on a question.
+
+################################################################################

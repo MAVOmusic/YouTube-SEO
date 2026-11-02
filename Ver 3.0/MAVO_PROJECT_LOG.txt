@@ -5176,3 +5176,118 @@ COPY
   Pin    114 chars, no links, no money.
 
 ================================================================================
+
+================================================================================
+VER 4.12 - 2026-11-01 - CO-0016 SYSTEM OF A DOWN: THE 382.3k RESOLVED
+================================================================================
+
+DISCORD CONFIRMED
+MAVO: "The following link works: discord.gg/ESGsGkN4j2". Settled. It is the approved
+link and I no longer have to hedge about it.
+He also asked that viewers be told they can gift boosts to bring back the official
+discord.gg/mavomusic vanity URL. Added as ONE line, directly under the invite:
+
+    Boost the Discord to bring back discord.gg/mavomusic: https://discord.gg/ESGsGkN4j2
+
+One line, not a section. The last four descriptions became fundraising documents
+because every appeal got its own headed block. This one sits where it belongs and
+adds no appeal language. It should go into the channel-wide CTA so it appears once,
+in a fixed place, instead of being rewritten per video.
+
+CO-0016 - SYSTEM OF A DOWN, LONELY DAY, WCJcAr5bJhk, 12-02-2025, 2:49
+    382,306 views / 357.3k unique / 1.9k watch hours / +3k subs / GBP 0.00 / E4
+    Premiered: peak 1 concurrent viewer, average 1. It was not an event.
+
+*** 99.6% YOUTUBE ADVERTISING ***
+    YouTube advertising 99.6 | Browse 0.1 | Playlists 0.1 | Channel pages 0.1
+    | External 0.0
+
+That closes the loop on the number that has been following this project since CO-0012.
+MAVO told me it was his biggest ad campaign; the panel now says the same in numbers.
+Largest view count in the corpus by a factor of 35, it is a long form, and essentially
+all of it was bought.
+
+*** THE FREE PERIOD IS VISIBLE, AND IT IS THE MOST USEFUL THING IN THIS CAPTURE ***
+The lifetime curve is flat and low for the first ~100 days, lifts sharply between
+roughly late May and early September 2025, then flattens again. Published February.
+So the campaign ran three to seven months AFTER upload.
+Which means the unpaid performance of this video is already measured and it is
+approximately nothing.
+    That kills the last version of a story I have been telling since CO-0012. There was
+    no "SOAD works on this channel". There was a campaign. The song did nothing on its
+    own, for a hundred days, in public.
+    The SSL map goes to v4 and SOAD is removed as a demand-signal recommendation.
+
+*** THE PAID RATE IS NOW A CONSTANT, NOT A COHORT ***
+    CO-0012   10,723 views ... +85 subs .. 0.79%
+    CO-0013    1,694 views ... +12 subs .. 0.71%
+    CO-0015    4,222 views ... +28 subs .. 0.66%
+    CO-0016  382,306 views .. +3k subs .. **0.78%**
+Four videos. View counts spanning 226x. The conversion rate does not move.
+(+3k is rounded by the panel, so the true figure is 0.72-0.85%.)
+    A bought view converts at 0.7-0.8% regardless of scale. Organic search on the play
+    alongs converts at 8.16%. Tenfold, measured four times.
+    AND THE OTHER HALF, WHICH I MUST NOT OMIT: 3,000 subscribers is SEVEN TIMES the
+    423 the entire eight-video play along series produced. A bad rate applied to an
+    enormous number still moves the channel. Both things are true. MAVO spent real
+    money and got real subscribers; he also got them at a tenth of the organic rate.
+
+*** RETENTION DID NOT MATTER, BECAUSE THE VIEWS WERE BOUGHT ***
+    AVD 0:17 | APV 10.7% | 17% at 0:30 = BELOW typical | curve under the band
+    1.9k watch hours from 382,306 views = about 18 seconds per view
+    Second-worst retention in the audit, on the biggest video in the audit.
+    Retention tells you whether an audience wants to stay. Money tells you whether
+    they arrive. Those are different questions and this is the cleanest proof of it.
+
+*** AUDIENCE SIGNATURE - THE PUREST BUY YET ***
+    mobile 99.7% / computer 0.2 / TV 0.1 / tablet 0
+    India 77.3 + Indonesia 22.1 = 99.4% in two countries
+    25-34 51.6 / 35-44 18.0 / 18-24 16.8 | male 72.8 | 96.7% non-subscribed
+    Realtime 3 views in 48 hours. Campaign over, video dormant.
+
+*** SEARCH 0% AND "34.8% OF NOTHING" ***
+    The search slice is 0%. Inside it: rocksmith bass 34.8 / musick 4.4 / norton mr
+    beast 4.4 / rocksmith 4.4 / rocksmith bass system of a down 4.4.
+    "rocksmith bass" is 34.8% of nothing - the clearest illustration in this project of
+    why a percentage without its base is worthless. I have been quoting percentages
+    like these for sixteen audits; this is the one that shows how easy it is to be
+    fooled by them.
+
+*** "VIEWERS ALSO WATCH" - FIVE OF FIVE ARE MAVO'S OWN, AND THAT IS THE REAL FINDING ***
+    What To Expect At kick.com/mavomusic? ....... 280 views, 11 months
+    Aephanemer - Old French Song (Bass) ....... 56 views, 1 year
+    Emiliem Feat. Dido - Stan ................. 28 views, 10 months
+    Blink-182 - What's My Age Again ........... 9 views, 6 months
+    009 Sound System - Dreamscape (Bass) ...... 11.0k views, 2 years
+    The most expensive audience this channel has ever bought - 382,000 people for real
+    money - was handed, at the end of the video, a catalogue containing videos with 9,
+    28 and 56 views.
+    **The spend worked and the destination did not.**
+    ALSO: 009 Sound System - Dreamscape at 11,000 views is the second-largest figure
+    found in this project and is recorded in no other file. Worth a look at some point.
+
+*** THE TAG PATTERN, NOW FIVE VIDEOS DEEP ***
+    9 tags at 91/500: mavomusic, mavomusicyt, soad, kick, kickstreaming, kickcommunity,
+    kickpartner, **serj, serj tankian**.
+    The SINGER is named twice. The BASSIST is never named. No "lonely day". No "system
+    of a down" in full. No "bass".
+    The sequence:
+        CO-0013  tagged the GAME nineteen times, the song never
+        CO-0014  four Freddie Mercury entries (three misspelled), Deacon never
+        CO-0015  three misspellings of the band, the correct spelling never
+        CO-0016  the singer twice, the bassist never
+    **Every tag box on this channel names the frontman or the platform. Not one names
+    the instrument the channel is about.** That is a single habit, not five mistakes,
+    and it is the easiest thing on the whole channel to fix.
+
+COPY
+  Title  The saddest System Of A Down song is also the simplest bassline they ever
+         wrote  (79/100, opener "The saddest" never used in sixteen audits)
+  Desc   1,891. Hypnotize (2005), Malakian writing about one bad day, Odadjian
+         choosing restraint in Drop C, and the two different lessons the same part
+         teaches a beginner and a long-time player.
+  Tags   9 at 91/500 -> 15 at 217, with "system of a down", "lonely day", "shavo
+         odadjian", "rocksmith bass" and the exact phrase from its own search slice.
+  Pin    105 chars, no links, no money.
+
+================================================================================
