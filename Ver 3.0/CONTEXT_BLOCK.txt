@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.41 ACTIVE - 2026-11-02]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.42 ACTIVE - 2026-11-02]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -1629,3 +1629,38 @@ file. Three rewording passes needed - the CTA block collided twice and the URL-
 adjacency law held again.
 
 **Next:** CO-0043 + CO-0044.
+
+################################################################################
+VER 4.42 STATUS ENTRY | 02-11-2026 | LONG-FORM TREE REBUILT, 100 / 10 / SONG
+################################################################################
+
+**MAVO REVERSED PART OF VER 4.41.** A flat 100-bucket loads slowly in the GitHub
+web UI. The tree is now three levels: 100-bucket, ten-bucket, song folder.
+
+    _All Songs/_0001 Long Form/
+      0001 - 0100/   0001 - 0010 ... 0091 - 0100   (10 sub-buckets, 45 songs live)
+      0101 - 0200/   0101 - 0110 ... 0191 - 0200
+      0201 - 0300/   0201 - 0210 ... 0291 - 0300
+      0301 - 0400/   0301 - 0310 ... 0391 - 0400
+      0401 - 0500/   0401 - 0410 ... 0491 - 0500
+      0501 - 0600/   0501 - 0510 ... 0591 - 0600
+      0601 - 0672/   0601 - 0610 ... 0661 - 0670, 0671 - 0672   (CURRENT)
+
+  **67 sub-buckets in total, all pre-created.** Empty ones hold a .gitkeep so the
+  structure survives Git. 64 .gitkeep files are live because the 45 song folders
+  displaced theirs.
+
+  **No song folders were created.** MAVO, verbatim: "Don't create song folders just
+  the main and sub folders. I paste song folders together inside once ready." The 45
+  existing song folders were MOVED from the flat bucket into their correct
+  ten-bucket - 0001 to 0010 in 0001 - 0010, 0041 to 0045 in 0041 - 0050, and so on -
+  with their names unchanged, so every register reference and copy file still
+  resolves.
+
+  **Where a new song goes:** number 0101 lands in `0101 - 0200/0101 - 0110/`. The
+  ten-bucket is the folder MAVO pastes into.
+
+  Gates: both tiers green after the move (they read `bands/`, not `_All Songs/`).
+  Copy files: 42, all still found by the glob.
+
+**Next:** CO-0043 + CO-0044, pasted into `0001 - 0100/0041 - 0050/`.
