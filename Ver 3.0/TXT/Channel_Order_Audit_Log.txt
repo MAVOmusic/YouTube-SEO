@@ -2806,3 +2806,57 @@ COPY DELIVERED - WITH A CTA CHANGE MAVO ASKED FOR
   invite still prints once.
 
 ################################################################################
+
+################################################################################
+VER 4.17 | FULL REWRITE OF CO-0001 TO CO-0017 | 02-11-2026
+################################################################################
+
+MAVO: "Rewrite all, fix all issues then add it to every folder as their own MD
+file. I will copy corrections from them. Seems like nearly everything repeated.
+It will makes our work pointless since youtube catching repetitive containments."
+
+DELIVERED: one file per song folder, named "_03 - Copy.md", containing TITLE,
+DESCRIPTION, TAGS and PINNED COMMENT in fenced blocks with live character counts.
+Seventeen files, CO-0001 through CO-0017.
+
+  C-01 Kick missing from 14 of 17  -> Kick is now line one of every CTA, all 17.
+  C-02 "blocks run live on Twitch" x9 -> every CTA line rewritten, no shared shape.
+  C-03 provenance sentence x5     -> sentence deleted entirely. Every description
+                                     now opens on its own research, different angle
+                                     per song: opener, tempo, tuning, silence, lag,
+                                     right-hand load, sprint, register change,
+                                     root discipline, space, hand position, octave
+                                     jump, singing-while-playing, synth vs bass,
+                                     repetition, ring-out, structure.
+  C-04 pin "Which X next?" 10 of 12 -> seventeen different question types now.
+                                     No two pins share a five-word run.
+  C-05 footer bullet stack        -> replaced by one unique closing sentence per
+                                     video describing that specific chart.
+  C-06 CO-0016 title omits Lonely Day -> now names it in full, 84 characters.
+  C-07 "Requests and setlists" x3 -> gone; request asks are all separate phrasings.
+  C-08 "Ask below if you want more X" x3 -> gone.
+  C-09 run-live/stream-live swap  -> gone, no shared verb pair left anywhere.
+  C-10 CO-0011 no study/sleep phrase -> restored as "for working through".
+
+MEASURED, all 17 files, all pairs compared:
+  identical 9-word runs ......... 0
+  identical 8-word runs ......... 0
+  identical 7-word runs ......... 0
+  identical 6-word runs ......... 0
+  identical pin 5-word runs ..... 0
+  identical pin 4-word runs ..... 0
+  repeated URLs inside a file ... 0 (three URLs, each printed once)
+  banned typography (dash/curly/ellipsis) ... 0
+  title range 62 to 84 chars, description range 663 to 893, tags 162 to 255.
+
+Also removed: the emoji guitar on four pins, and three malformed "?" glyphs that
+had been pasted in as placeholder emoji.
+
+Both gates re-run after the rewrite: TIER 1 verify.py PASS, TIER 2
+diversity_guard.py PASS, 0 violations, 0 warnings.
+
+STILL OPEN: the rewritten Discord line asks for a boost to "get the short name
+back" (discord.gg/mavomusic). That vanity invite is dead. The live invite
+ESGsGkN4j2 is the URL actually printed. MAVO to confirm the boost line stays.
+
+################################################################################

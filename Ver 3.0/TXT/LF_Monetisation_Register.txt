@@ -1410,3 +1410,13 @@ WAVE SAMPLE - CO-W01 (26-28 Aug 2026, 12 LFs + 12 Shorts, same songs):
   Shorts    : 15,835 views total, avg 1,320, GBP 1.23, 12/12 earning
   => the earning split is FORMAT-driven, not song-driven and not metadata-driven.
 ################################################################################
+
+--------------------------------------------------------------------------------
+VER 4.17 REWRITE NOTE | 02-11-2026
+--------------------------------------------------------------------------------
+All seventeen long forms CO-0001 to CO-0017 had title, description, tags and
+pinned comment rewritten as part of the repetition sweep. Video IDs, runtimes,
+view counts, revenue figures and monetisation states are UNCHANGED. MR-0001 to
+MR-0017 still read exactly as before. E4 count 27, E5 count 1, both unaffected.
+Copy lives in each song folder as "_03 - Copy.md".
+--------------------------------------------------------------------------------
