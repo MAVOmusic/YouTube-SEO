@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.37 ACTIVE - 2026-11-02]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.38 ACTIVE - 2026-11-02]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -1440,3 +1440,27 @@ the rule working.
 Zero collisions at 9, 8, 7 and 6-grams. No 5-gram touches the three new files.
 
 **Next:** CO-0039.
+
+################################################################################
+VER 4.38 STATUS ENTRY | 02-11-2026 | GENRE BLOCK SPLIT + CANONICAL LIST 1-40
+################################################################################
+
+**MAVO CAUGHT A REAL DEFECT IN THE GENRE BLOCK.** Every block so far mixed three
+things in one table: correct genres, "elements only" grey areas, and "NOT
+applicable" rows. He reads that block as a shopping list, so the rows that said DO
+NOT ADD were being added - the block was working against itself.
+
+**NEW STANDING RULE.** From CO-0039 onward every song carries two separate things:
+  GENRE FINDINGS - internal only, in the audit log and the copy file. Research,
+                   grey areas, exclusions.
+  CORRECT GENRES - the only block he sees. Genuinely applicable genres, best fit
+                   first. Nothing else.
+
+**Delivered:** `TXT/Genre_Canonical_0001_0040.txt` - 40 rows, correct genres only,
+removals listed in a separate appendix at the bottom so the audit trail survives
+without polluting the list.
+
+**Songs 0039 and 0040 are now in the workspace:** Sabaton - En Livstid I Krig and
+Rammstein - Amerika. Neither has been panel-audited yet.
+
+**Next:** the full CO-0039 + CO-0040 audit pass, with the split genre block.

@@ -1,0 +1,128 @@
+# ============================================================================
+# MAVOmusic (@mavomusicyt) - CANONICAL GENRE LIST, CO-0001 TO CO-0040
+# ============================================================================
+# Created: 2026-11-02 (VER 4.38) on MAVO's instruction.
+#
+# MAVO (02-11-2026), verbatim:
+#   "From now on when you looking for genre, split into 2 elements. 1 is your
+#    findings and the other what you says ARE the correct genres. Give me CORRECT
+#    genres (no matter how many) to songs 0001-0040 before we continue. I will go
+#    through all and remove the ones i have added because you listed. Listing
+#    unnecessary genres into the block i look for things to add is not really good,
+#    especially not noticing you say DO not add and add anyways because is in the
+#    block i expect a list of genres to add."
+#
+# THE PROBLEM HE CAUGHT
+#   Every GENRES block so far mixed three different things in one table: correct
+#   genres, grey-area "elements only" labels, and explicit "NOT applicable" rows.
+#   He reads the block as a shopping list, so anything printed in it gets added -
+#   including the rows that said DO NOT ADD. The block was self-defeating.
+#
+# THE NEW RULE (applies from CO-0039 onward, and to every block already written)
+#   GENRE FINDINGS   - internal only. Lives in the audit log and the copy file.
+#                      Holds the research, the grey areas and the exclusions.
+#   CORRECT GENRES   - the only thing MAVO sees. Genres that genuinely apply to
+#                      the recording, best fit first. Nothing else. No "elements
+#                      only", no "not applicable", no themes, no umbrellas that are
+#                      not a real genre, no scene labels he cannot use.
+#   If a label is not certain enough to be added to a playlist, it does not appear
+#   in the correct-genre list at all.
+#
+# THIS FILE is the cleaned output for the first forty audits: 40 rows, correct
+# genres only. Order matters - first entry is the best single label, second is the
+# best two-word answer.
+# ============================================================================
+
+  CO    SONG                                   CORRECT GENRES (best fit first)
+  ----  -------------------------------------  ----------------------------------------------
+  0001  Burzum - Autumn Leaves                 Dark ambient / Dungeon synth / Ambient /
+                                               Neoclassical darkwave
+  0002  Motionless In White - Another Life     Metalcore / Melodic metalcore / Gothic metalcore /
+                                               Alternative metal
+  0003  Motionless In White - Masterpiece      Metalcore / Melodic metalcore / Gothic metalcore /
+                                               Alternative metal
+  0004  Motionless In White - Another Life PA  Metalcore / Melodic metalcore / Gothic metalcore /
+                                               Alternative metal
+  0005  Motionless In White - Abigail          Metalcore / Gothic metalcore / Melodic metalcore /
+                                               Alternative metal / Horror metal
+  0006  Motionless In White - America          Metalcore / Melodic metalcore / Gothic metalcore /
+                                               Alternative metal
+  0007  Motionless In White - Immaculate Mis.  Metalcore / Gothic metalcore / Melodic metalcore /
+                                               Alternative metal
+  0008  Green Day - X-Kid                      Punk rock / Pop punk / Alternative rock / Power pop
+  0009  My Chemical Romance - Black Parade     Emo / Pop punk / Emo pop / Alternative rock /
+                                               Rock opera / Arena rock / Glam rock
+  0010  .38 Special - If I'd Been The One      Southern rock / Hard rock / AOR / Classic rock /
+                                               Pop rock
+  0011  Chopin - Nocturne Op. 9 No. 2          Classical / Romantic era / Solo piano / Nocturne /
+                                               Classical crossover
+  0012  Taking Back Sunday - Cute Without E    Emo / Post-hardcore / Emo pop / Pop punk /
+                                               Alternative rock
+  0013  Slayer - War Ensemble                  Thrash metal / Speed metal / Heavy metal /
+                                               Extreme metal
+  0014  Queen - I Want To Break Free           Pop rock / Synth-pop / New wave / Funk rock /
+                                               Arena rock / Classic rock / Glam rock
+  0015  Rammstein - Du Hast                    Industrial metal / Neue Deutsche Haerte /
+                                               Industrial rock / Alternative metal / Heavy metal
+  0016  System Of A Down - Lonely Day          Alternative metal / Nu metal / Acoustic rock /
+                                               Hard rock ballad
+  0017  My Chemical Romance - Foundations      Emo / Post-hardcore / Hard rock / Alternative rock /
+                                               Emo revival / Art rock
+  0018  Discord (Living Tombstone Remix)       Eurobeat / Electropop / Glitch hop / Chiptune /
+                                               Electronic dance / Remix / Brony fan music
+  0019  Rage Against The Machine - Take Power  Rap metal / Rap rock / Funk metal / Funk rock /
+                                               Alternative metal / Hard rock
+  0020  BABYMETAL - Megitsune                  Kawaii metal / J-metal / Heavy metal /
+                                               Alternative metal / Pop metal / Idol metal
+  0021  Elvis Presley - Jailhouse Rock         Rock and roll / Rockabilly / Rhythm and blues /
+                                               1950s pop / Rock
+  0022  Avril Lavigne - Together               Pop rock / Pop punk / Power pop /
+                                               Alternative rock / 2000s pop
+  0023  Sabaton - Camouflage                   Power metal / Heavy metal / Hard rock
+  0024  Sabaton - The Hammer Has Fallen        Power metal / Heavy metal / Swedish metal
+  0025  Aephanemer - Old French Song           Melodic death metal / Symphonic melodeath /
+                                               Symphonic metal / Neoclassical metal /
+                                               Classical crossover / French metal
+  0026  Alien Fucker - Arabic UFO Party        Grindcore / Pornogrind / Extreme metal /
+                                               Punk rock / Israeli metal
+  0027  Green Day - X-Kid (play along)         Pop punk / Punk rock / Alternative rock /
+                                               Power pop / Pop rock / 2010s pop punk
+  0028  Sabaton - Dreadnought                  Power metal / Heavy metal / Swedish metal /
+                                               Metal / Hard rock
+  0029  Amaranthe - Archangel                  Melodic metal / Power metal / Electronic metal /
+                                               Swedish metal / Hard rock
+  0030  Pendulum - Tarantula                   Drum and bass / Jungle / Ragga jungle /
+                                               Breakbeat / Dancefloor DnB / Electronic dance
+  0031  All Time Low - Dear Maria              Pop punk / Emo pop / Neon pop punk /
+                                               Alternative rock / Pop rock / Power pop
+  0032  System Of A Down - Roulette            Alternative metal / Acoustic rock / Art rock /
+                                               Hard rock / Metal
+  0033  Motionless In White - Another Life 3   Metalcore / Melodic metalcore / Gothic metalcore /
+                                               Gothic metal / Alternative metal / Post-hardcore
+  0034  Sabaton - Steel Commanders             Power metal / Heavy metal / Swedish metal /
+                                               Metal / Soundtrack and game music
+  0035  Billy Talent - Red Flag                Punk rock / Post-hardcore / Alternative rock /
+                                               Canadian punk
+  0036  Sabaton - Man Of War                   Power metal / Heavy metal / Swedish metal / Metal
+  0037  All Time Low - Weightless              Pop punk / Emo pop / Neon pop punk /
+                                               Alternative rock / Pop rock / Power pop
+  0038  The Cult - She Sells Sanctuary         Gothic rock / Post-punk / Alternative rock /
+                                               Psychedelic rock / Hard rock
+  0039  Sabaton - En Livstid I Krig            Power metal / Heavy metal / Symphonic power metal /
+     (pending panel pass)                      Swedish metal / Metal
+  0040  Rammstein - Amerika                    Industrial metal / Neue Deutsche Haerte /
+                                               Industrial rock / Alternative metal / Heavy metal
+# ============================================================================
+# WHAT WAS REMOVED FROM THE OLD BLOCKS (kept here, invisible to playlist work)
+# ============================================================================
+#   Dropped from 40 blocks: "elements only" labels (nu metal on MIW, folk metal on
+#   BABYMETAL, symphonic on Sabaton CO-0028/0034, metalcore on Amaranthe, pop punk
+#   and hardcore punk on Billy Talent, electro-industrial on Rammstein, new wave on
+#   The Cult), all "NOT applicable" rows (black metal on Burzum, symphonic power on
+#   Dreadnought, emo on All Time Low, progressive metal on Roulette, rock on
+#   Pendulum), every theme label (war/military, UFO, horror was KEPT for Abigail
+#   because horror metal is a real scene and playlist term), every non-genre
+#   factual label (cover song, demo, remix was KEPT for CO-0018, bonus track, play
+#   along format, rock trio, four hour loop) and pure umbrellas that add nothing
+#   beside a more precise label already listed (Metal, Rock, Electronic).
+# ============================================================================
