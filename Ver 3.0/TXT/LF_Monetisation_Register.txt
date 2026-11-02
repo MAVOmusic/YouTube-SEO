@@ -1961,3 +1961,72 @@ TAGS: 10 at 97/500, and the one good thing in the old box is that it carries
 THREE spellings of the band - aephanemer, ephanemer, aepanemer. Kept in the new
 box. There is still no song title, no Tchaikovsky, no album and no genre.
 --------------------------------------------------------------------------------
+
+--- MR-0026 | CO-0026 | Alien Fucker - Arabic UFO Party -------------------------
+Video ID           : q3rZTYlTGNJ8 | 1:22 | 26 views | 0.4 watch hours
+                     | **0 subscribers** | 23 unique viewers
+Notices badge      : **NEW BADGE TYPE - "Viewable by those aged 18+" and
+                     "Limited ad earnings".** Neither a claim nor a block this
+                     time: a CONTENT POLICY gate. First of its kind in 26 audits.
+                     Logged as **E6 AGE-RESTRICTED / LIMITED ADS** in
+                     Earning_Recreate_Register.
+Revenue            : **GBP 0.001** - watch page ads only, RPM GBP 0.04
+Impressions / CTR  : 532 / **3.6% - the HIGHEST click-through rate in the entire
+                     corpus.** Previous best 2.0% (CO-0021). | 19 engaged views |
+                     0:46 impression-AVD | 0.25 h from impressions
+Watch quality      : **AVD 0:48 | APV 59.1%** - the highest percentage-viewed in
+                     the corpus by a factor of nearly four (previous best 15.4%).
+                     AVD flagged "0:15 more than usual", the only green arrow in
+                     the corpus. No typical-retention band available for this one.
+Likes              : **100.0%** - sixth perfect ratio
+End screen CTR     : 0.0% | bell: zero pushes, zero views
+Devices            : mobile 58.5 / **computer 40.1 - the highest desktop share on
+                     record by a wide margin** (previous 21.4 on CO-0020) / TV 1.3
+Audience           : **"not enough geographic data to show this report"** - the
+                     first long form with no country panel at all | age, gender
+                     and watch behaviour all below threshold | 93.6% non-subscribed
+Traffic            : **YouTube search 84.6** / channel pages 3.9 / other YouTube
+                     features 3.9 / external 3.9 / related Shorts 3.9
+                     ** NO ADVERTISING TRAFFIC AT ALL. ** Not even a residue.
+External (3.9%)    : Google 100.0
+Search terms (84.6%): **alien fucker 4.6 / ufo 4.6**
+
+CONVERSION: 0 from 26 = 0.00%. Second zero-conversion upload, and irrelevant -
+26 views cannot move a subscriber count.
+
+*** THIS VIDEO BREAKS EVERY PATTERN IN THE CORPUS AT ONCE ***
+ 1. Every other long form is 81-96% YouTube advertising. This one is 84.6%
+    SEARCH and 0% advertising.
+ 2. Every other long form sits at 0.9-2.0% CTR. This one is 3.6%.
+ 3. Every other long form sits at 6.8-15.4% APV. This one is 59.1%.
+ 4. Every other long form has a geographic panel. This one has none.
+ 5. It earns money while carrying an 18+ restriction.
+
+WHY: THERE IS NO COMPETITION
+  "alie fcker" and "ufo" are the queries. Almost nobody on YouTube has made a
+  bass chart of an Israeli grind band. When supply is zero the algorithm has
+  nothing to prefer over you, so the one matching video gets served, clicked at
+  3.6% and watched to the end.
+  This is a SUPPLY VACUUM, and it is the second earning mechanism this register
+  has found.
+
+WHY IT IS RESTRICTED, AND WHAT THE RESTRICTION COSTS
+  The band name is profanity. Nothing in MAVO's performance, title or copy
+  triggered the gate; the artist name cannot be avoided if the song is to be
+  named honestly. The EP title is also explicit, so the new description does not
+  print it.
+  Age restriction throttles advertising, it does not remove it. GBP 0.001 on 26
+  views is about GBP 0.000038 per view against CO-0022's GBP 0.000126 - roughly
+  three times worse. That is a REVENUE DISCOUNT, not a block. E4 is a block.
+  So E6 sits between E1 and E4 on the money ladder: gated, discounted, still paid.
+
+THE TWO EARNING PATHS, NOW BOTH DOCUMENTED
+  PATH 1 NOBODY CLAIMED IT   -> CO-0011, CO-0022   rights vacuum
+  PATH 2 NOBODY ELSE MADE IT -> CO-0026            supply vacuum
+  Both are properties of the repertoire. Neither is a metadata effect.
+
+TAGS: 10 at 88/500, six channel-identity, and two band spellings
+(alienfucker, alienfcker - the second is not a real spelling, it is "fcker" with
+the vowel removed, which is how people type around a blocked word). Both kept.
+No song title, no genre, no year.
+--------------------------------------------------------------------------------

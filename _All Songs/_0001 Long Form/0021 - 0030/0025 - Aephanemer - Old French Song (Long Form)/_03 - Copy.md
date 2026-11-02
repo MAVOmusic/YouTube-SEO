@@ -1,4 +1,6 @@
-# CO-0025 | Rewritten copy (Ver 4.25)
+# CO-0025 | Rewritten copy (Ver 4.26)
+
+> **PIN STATUS: the band's comment is pinned. Do not replace it.**
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 > The GENRES block at the bottom is reference only - it is not part of the description.
@@ -31,7 +33,13 @@ Symphonic melodic death metal from 2021, a Tchaikovsky cover, two minutes twenty
 aephanemer, old french song, tchaikovsky, a dream of wilderness, napalm records, melodic death metal, symphonic metal, neoclassical metal, french metal, classical metal, ephanemer, aepanemer, 2021, bass cover, bass play along, rocksmith bass
 ```
 
-## PINNED COMMENT (148 characters)
+## PINNED COMMENT (148 characters) - SUPERSEDED, DO NOT USE
+
+> **MAVO pinned the band's own comment instead (02-11-2026).** The pin slot on
+> this video is already taken by @AephanemerOfficial saying "Fantastic job!
+> Congrats!!" and leaving it there is the better call - it thanks the band in
+> public, it is verified, and it converts better than any question could.
+> The question below is kept only so the wording is not lost if the pin frees up.
 
 ```text
 A piano miniature written for children in 1878, played by a death metal band from Toulouse. Which classical piece deserves the metal treatment next?
