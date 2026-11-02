@@ -444,6 +444,8 @@ RECREATE INSTRUCTION
   MR-0050 CO-0050  (G)I-DLE - Tomboy (Cube, 2nd K-pop, #1 single)      E4
   MR-0051 CO-0051  (Hed) P.E. - Watch It Burn (self-produced, 1.4% CTR) E4
   MR-0052 CO-0052  (Hed) P.E. - I Got You (Jive, 2.2% CTR record)      E4+block
+  MR-0053 CO-0053  +44 (Plus 44) - 155 (Interscope, Premiere, +5 subs) E4
+  MR-0054 CO-0054  +44 (Plus 44) - Baby, Come On (99.8% non-sub)       E4
   MR-0039 CO-0039  Sabaton - En Livstid I Krig (6th Sabaton, Swedish)  E4
   MR-0040 CO-0040  Rammstein - Amerika (2nd Rammstein, Universal)      E4
   MR-0041 CO-0041  Snoop/Wiz/Bruno - Young Wild & Free (Atlantic)      E4+block
@@ -509,6 +511,16 @@ RECREATE INSTRUCTION
     thumbnail and a title can be proven to work on this channel. Nothing about
     eligibility follows from that.
 
+  +44 (PLUS 44): TWO ATTEMPTS, TWO CLEAN E4s - AND THE BEST CONVERSION ON RECORD
+    0053 155 and 0054 Baby, Come On, both Interscope, both single-line ineligible,
+    no partial block from the label. GBP 0.00 together.
+    0053 was recommended to only 51.2% of its impressions - the weakest algorithmic
+    push in the batch - and still produced 60 engaged views, 0.53 h from impressions
+    and +5 subscribers, all three at or near the top of the register. It also ran as
+    a Premiere. 0054 holds the highest non-subscriber watch time share recorded at
+    99.8%. If reach and engagement could be bought anywhere in this catalogue it
+    would be here, and they cannot.
+
   MANOWAR: ONE ATTEMPT, E4 + PARTIAL BLOCK
     0045 is the other half of the CO-0036 reference loop - Sabaton's Man of War is
     built from Manowar titles. Both directions earned nothing, from Atlantic and
@@ -573,6 +585,11 @@ RECREATE INSTRUCTION
               Another Life. Conversion fell 23.68% -> 3.94% -> 0.56% across the
               three takes of one song. Strongest duplicate evidence in the corpus;
               the one-song-one-upload rule now has a conversion curve.
+  2026-11-02  VER 4.48. Two failed candidates added: CO-0053 (+44 - 155,
+              Interscope, clean E4, Premiere, +5 subs on the weakest recommendation
+              share in the batch) and CO-0054 (+44 - Baby, Come On, clean E4, the
+              highest non-subscriber share on record). Total unchanged at GBP 0.751
+              from six earners in 54 audits.
   2026-11-02  VER 4.47. Two failed candidates added: CO-0051 ((Hed) P.E. - Watch
               It Burn, self-produced, clean E4) and CO-0052 ((Hed) P.E. - I Got You,
               Jive, E4 + partial block, the best CTR and the highest engaged count

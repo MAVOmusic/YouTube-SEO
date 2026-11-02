@@ -156,6 +156,8 @@
   0050    band history, the year the member left            P-fact-quiz
   0051    track position inside a self-released record       P-count-request
   0052    track position, then the label that signed them    P-rating-scale
+  0053    the title explained, then the album around it      P-identification-test
+  0054    track position head to head, then the credits      P-diagnostic-fork
 
 ################################################################################
 # GENRE BLOCK - SPLIT INTO TWO ELEMENTS (VER 4.38, MAVO 02-11-2026)
@@ -206,6 +208,13 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.48. Rows added for CO-0053 and CO-0054. 0053 opens by answering
+              the question its own title raises - a naming fact rather than a release
+              date - and 0054 opens on the sequencing of two adjacent tracks, a close
+              relative of D03 comparison but inside one record instead of across
+              uploads. P21 identification test returns after a long absence; P11
+              diagnostic fork used again. No date-first opener in either, no
+              nomination pin, and neither pin repeats its description's move.
   2026-11-02  VER 4.47. Rows added for CO-0051 and CO-0052. D13 track position
               returns on both - twice in one pair, which is logged rather than
               excused; the second half of each description diverges completely (a

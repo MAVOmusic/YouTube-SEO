@@ -5076,3 +5076,113 @@ THE REWRITE
   video, one day after that title was written. The rewrite programme is starting to
   feed itself.
 ################################################################################
+################################################################################
+CO-0053 | +44 (Plus 44) - 155 | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : yCzlg97EBxo | 3:24 | uploaded 04-09-2025 | 347 views | 2.0 h
+  Subs    : **+5 - the joint-best gain of the last twenty audits**
+  Earning : **E4 INELIGIBLE, GBP 0.00. Single-line badge, no partial block.**
+  Bucket  : 0001 - 0100 / 0051 - 0060
+  Captured: 12 screenshots, all readable - the extra one is the Premiere card.
+
+THE SONG
+  Track five on When Your Heart Stops Beating, released 13 November 2006 on
+  Interscope, produced by Jerry Finn with Mark Hoppus and Travis Barker, written by
+  Hoppus and Barker, 3:29, 155 BPM in F minor. The acoustic demo was renamed 145
+  because the tempo changed. First +44 upload on the channel.
+
+WHAT THE PANELS SAY
+  **3.6k impressions at 1.7%**, only **51.2% from YouTube recommending - the weakest
+  algorithmic push in the batch** - and yet **60 engaged views from impressions, the
+  highest absolute count in the register, with 0.53 h, also the highest**. AVD 0:21,
+  APV 10.4%, **18% at 0:30 flagged "below typical"**. Likes 100.0%. End screen 0.0%.
+  Hype 0/0. **Ran as a Premiere: peak 1, average 0.**
+
+  Traffic advertising 77.0 / browse 19.3 / search 1.2 / channel pages 0.6 / suggested
+  0.6 / other 1.4. External 0.3% is **Google Search 100.0%**. Search is **"+44"
+  50.0%** - the band name itself, correct intent.
+
+  **Bell notifications: 220 sent, 0.5% click rate, 1 view.** The first audit in 54
+  where notification traffic is visible at all, and the Premiere is why.
+
+  Devices mobile 82.1 / computer 17.6 / TV 0.4. **Female 26.8 / Male 73.2**, 25-34
+  100%. India 66.3 / Indonesia 3.5. **89.1% non-subscriber watch time - the lowest
+  in the register**, because the Premiere and the notifications landed at once.
+
+THE OLD COPY (all four surfaces)
+  Title   : bracket emoji, band, song, hashtag tail of #rocksmith #bass #plus44.
+  Desc    : the funding wall, with the dead discord.gg/mavomusic invite.
+  Tags    : **14 at 160/500, song title absent** - but the first box in 54 audits
+            containing real search terms: +44, plus44band, markhoppus, travisbarker,
+            plusfourtyfour, plusfourtyfourband, blink182, oldblink182, plus seven
+            channel-identity tags. The band is spelled "fourty" twice.
+  Comments: no pin, four MAVO funding comments, no viewer comments.
+
+THE REWRITE
+  Title   : 59 chars. "The [other thing] was called X for the same reason". New
+            skeleton - the song appears only as a numeral.
+  Desc    : 1548 chars. Opens by answering the question the title raises, then the
+            album context, then the tempo instruction.
+  Tags    : 16 at 205/500. Band in three spellings, song, album, both members,
+            producer, both guitarists, three genre lanes, year, label, both formats.
+  Pin     : 104 chars, identification test - what else is titled after its BPM. P21.
+  GENRES  : split block. CORRECT: Pop punk, Alternative rock, Emo pop.
+
+*** THE WEAKEST PUSH PRODUCED THE BEST CONVERSION ***
+  51.2% recommended is the lowest share in the batch. It still delivered 60 engaged
+  views and 0.53 h from impressions. CO-0046 was recommended to 93.2% and produced
+  44. The algorithm's push and the video's performance are two different numbers and
+  this pair of audits proves it in both directions.
+################################################################################
+CO-0054 | +44 (Plus 44) - Baby, Come On | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : SsYvv3vM0-c | 2:37 | uploaded 04-09-2025 | 293 views | 1.9 h
+  Subs    : **+1**
+  Earning : **E4 INELIGIBLE, GBP 0.00. Single-line badge, no partial block.**
+  Bucket  : 0001 - 0100 / 0051 - 0060
+  Captured: 11 screenshots, all readable.
+
+THE SONG
+  Track two on When Your Heart Stops Beating, 13 November 2006, Interscope, produced
+  by Jerry Finn with Hoppus and Barker, written by Hoppus and Barker, 2:46, released
+  as a single. Lycanthrope opens the album.
+
+WHAT THE PANELS SAY
+  1.8k impressions at 1.2%, **80.1% recommended**, **21 engaged views**, impression-AVD
+  0:45, 0.26 h. AVD 0:22, **APV 14.6% - the highest average percentage viewed in the
+  register**, taking the record from CO-0048 two audits earlier. 20% at 0:30
+  "typical". Likes 100.0%. End screen 0.0%.
+
+  Traffic advertising 82.6 / browse 8.5 / suggested 6.1 / search 1.4. Search is
+  **"blink 182 live" 25.0%** - wrong intent, and the first term in the register that
+  points at the parent band instead of the band on screen.
+
+  **Content suggesting is 6.1% of all traffic and four of its five entries are this
+  channel's own uploads** - Weatherman, Little Death and CO-0053 at 22.2% each, Make
+  You Smile at 5.6% - plus **our own CO-0047 title at 27.8%**, written yesterday.
+
+  Devices mobile 88.7 / computer 11.2 / TV 0.1. **Male 100.0 / Female 0.0**, 25-34
+  100%. India 62.1 / Indonesia 16.0. **99.8% non-subscriber watch time - the highest
+  in the register.**
+
+THE OLD COPY (all four surfaces)
+  Title   : bracket emoji, band, song, hashtag tail.
+  Desc    : the funding wall, with the dead Discord invite.
+  Tags    : **14 at 160/500, the identical box to CO-0053** - same "fourty"
+            misspellings, same blink182 tags, song title absent from both.
+  Comments: no pin, four MAVO funding comments, no viewer comments.
+
+THE REWRITE
+  Title   : 59 chars. "Person + hid [superlative thing] in [position]". New skeleton.
+  Desc    : 1489 chars. Opens on the two-track sequencing (D03 variant inside one
+            record), then the credits, then the clean-playing instruction.
+  Tags    : 16 at 213/500. Band in three spellings, song, album, both members,
+            producer, both guitarists, two genre lanes, year, label, both formats.
+  Pin     : 107 chars, diagnostic fork - brave sequencing or a mistake. P11.
+  GENRES  : split block. CORRECT: Pop punk, Alternative rock.
+
+*** THE CHANNEL IS NOW RECOMMENDING ITSELF ***
+  Four of five suggestions internal, including a title written the day before. Second
+  consecutive audit showing the rewritten titles being served, and the largest
+  internal share recorded.
+################################################################################
