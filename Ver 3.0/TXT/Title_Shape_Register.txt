@@ -125,6 +125,11 @@
           opposed verbs in one line
   0038    band + left + element + state + on purpose          The Cult left the riff of She Sells Sanctuary unresolved on purpose
           new skeleton - deliberate-act framing, song buried mid-sentence
+  0039    band + recorded it twice + verdict                  Sabaton recorded this in two languages and the Swedish one wins
+          new skeleton - two-version framing with a judgement at the end, band
+          first but the song is implied rather than named in the title slot
+  0040    element + band + wrote in X to mock X                The chorus Rammstein wrote in English to mock English
+          new skeleton - object first, band mid-sentence, chiasmus in the tail
 
 ################################################################################
 # BANNED SHAPES - the evidence
@@ -178,6 +183,9 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.40. Rows added for CO-0039 and CO-0040. Check against the
+              previous eight: no possessive, no "is", no date opener, one question
+              in eight (0036), first three words differ from every recent row.
   2026-11-02  VER 4.39. Row 0027 rewritten on MAVO's correction. Two separate
               title versions on this song had claimed the absence of the on-screen
               chart, which is on every upload. New ban added: NO TITLE OR PROMPT

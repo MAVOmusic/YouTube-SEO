@@ -142,6 +142,8 @@
   0036    one-word verdict then the reason                P-binary-comparison
   0037    quote a lyric line then undercut it             P-confession-then-ask
   0038    single observation about the mix                P-craft-question
+  0039    instrument-first, what the part refuses to do   P-correction-invite
+  0040    writing history, dated, with the studio         P-diagnostic-fork
 
 ################################################################################
 # GENRE BLOCK - SPLIT INTO TWO ELEMENTS (VER 4.38, MAVO 02-11-2026)
@@ -192,6 +194,10 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.40. Rows added for CO-0039 and CO-0040. D20 instrument-first
+              and D09 writing history, both first use. P13 correction invite and
+              P11 diagnostic fork, both first use. No date-first opener in either,
+              no nomination pin in either.
   2026-11-02  VER 4.39. CO-0027 rewritten after MAVO caught a false claim across
               its title, description and pin. Banned shape DS-B3 added.
   2026-11-02  VER 4.38. Genre block split into FINDINGS and CORRECT GENRES on

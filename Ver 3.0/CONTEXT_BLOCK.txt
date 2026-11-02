@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.39 ACTIVE - 2026-11-02]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.40 ACTIVE - 2026-11-02]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -1499,3 +1499,72 @@ take. Sweep remains zero at 9/8/7/6 across 38 files.
 and the exclusions) and CORRECT GENRES (what MAVO reads). CO-0027's are in the file.
 
 **Next:** CO-0039 + CO-0040 audit pass.
+
+################################################################################
+VER 4.40 STATUS ENTRY | 02-11-2026 | CO-0039 + CO-0040 - SIX FOR SIX
+################################################################################
+
+**Sabaton - En Livstid I Krig and Rammstein - Amerika. Both E4, both GBP 0.00.**
+That is 40 long-form audits, 5 earners, GBP 0.701, and the first batch written under
+the new split genre block.
+
+*** SABATON: SIX FOR SIX. THE LANGUAGE TEST FAILS TOO. ***
+
+     CO-0023 Camouflage / CO-0024 The Hammer Has Fallen / CO-0028 Dreadnought /
+     CO-0034 Steel Commanders / CO-0036 Man of War / CO-0039 En Livstid I Krig
+
+  CO-0039 was the last untested variable on that catalogue - a Swedish-language
+  master, concept album, non-English audience. Same flat red badge. **There is
+  nothing left to vary. The file is closed permanently.**
+
+*** RAMMSTEIN: 2 FOR 2 AT ZERO, WITH THE BEST SEARCH PANEL ON THE CHANNEL ***
+
+  CO-0040's search terms: rammstein 40.0, rammstein cover 20.0, rocksmith 20.0,
+  rocksmith bass 20.0. Every term the right band or the right format. CTR 1.5%,
+  the best of the last four audits. Likes 100.0%. Revenue GBP 0.00.
+
+*** TWO GENUINE FIRSTS, BOTH SMALL, BOTH WORTH KEEPING ***
+
+  1. **A house title surfaced in a suggestion panel.** CO-0039's "Content
+     suggesting" names our own CO-0035 as "Billy Talent hid a protest in the three
+     minutes of..." - the first evidence in the whole corpus that the rewritten
+     titles are legible to the recommendation system rather than drowned by the old
+     format.
+
+  2. **Search intent matched the video, twice.** "en livstid i krig" 8.3% plus
+     "sabaton" 8.3% on CO-0039, against CO-0036 where the top term was "warrock",
+     the ad keyword. Intent is now correct on the metal uploads and it moves no
+     money at all.
+
+*** THE LIKE RATIO IS NOW SPREAD ACROSS THE WHOLE RANGE ***
+
+     CO-0039  50.0%  - new low
+     CO-0037  80.0%
+     CO-0040 100.0%  - fourteenth perfect ratio
+
+  Three videos, three answers, one batch, all GBP 0.00. Ratings on paid traffic are
+  noise; the register logs them, the audit does not act on them.
+
+*** IMPRESSION-AVD 0:58 IS THE NEW CORPUS HIGH ***
+  Beating CO-0035's 0:52 and CO-0031's 0:46. Three of the four highest on the
+  channel belong to videos that earned nothing.
+
+*** C-11 TAG DEFECT, FOURTH IN A ROW AND STILL THE SAME TYPO ***
+  CO-0039: 8 tags / 84 chars, song absent, "sabaton" twice with "sabbaton" -
+  the identical self-inflicted misspelling as CO-0036. CO-0040: 9 tags / 94 chars,
+  song absent, band present as "ramstein" and "rammstein" listed twice.
+  **The typo is being copy-pasted between uploads. Worth checking the tag template
+  rather than the tags.**
+
+**Upload hygiene note:** CO-0040's source file inside the player is still named
+"Sabaton - En Livstid I Krig_Full_Final.mkv". No effect on claims, but name files
+by song.
+
+**New shapes:** CO-0039 title = band + recorded twice + verdict; desc D20
+instrument-first; pin P13 correction invite. CO-0040 title = element + band + wrote
+in X to mock X; desc D09 writing history; pin P11 diagnostic fork. All six first use.
+
+**Sweep:** 40 files, URLs counted, tags excluded. Zero collisions at 9, 8, 7 and 6.
+Two rewording passes were needed in CO-0040's CTA - the URL-adjacency law again.
+
+**Next:** CO-0041.

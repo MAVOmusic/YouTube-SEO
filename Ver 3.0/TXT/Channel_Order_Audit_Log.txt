@@ -4239,3 +4239,107 @@ CO-0027 RE-CUT | Green Day - X-Kid | Ver 4.39 | 02-11-2026
     No surface may describe the chart, the overlay or the tab as ABSENT. It is on
     screen on all 2,500+ uploads.
 ################################################################################
+################################################################################
+CO-0039 | Sabaton - En Livstid I Krig | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : xY9nzHmL7U | 5:35 | uploaded 02-09-2025 | 374 views | 3.1 h | +1 sub
+  Earning : **E4 INELIGIBLE, GBP 0.00.** Sixth Sabaton upload, sixth E4.
+  Bucket  : 0031 - 0040
+  Captured: 12 screenshots, all readable.
+
+THE SONG
+  Carolus Rex (Swedish Version), 25 May 2012, Nuclear Blast, track four, 5:44 on
+  the record. Written by Broden and Sundstrom, produced by Peter Tagtgren. The
+  Thirty Years' War from the Swedish soldier's side. The band cut the whole album
+  in English as well, where this is A Lifetime of War.
+
+WHAT THE PANELS SAY
+  2.1k impressions at 1.1%, 71.9% recommended, 23 engaged views, **impression-AVD
+  0:58 - the corpus high**, beating CO-0035's 0:52. AVD 0:29, APV 8.9%, 22% at
+  0:30 "typical". Ran as a Premiere, peak 1 concurrent.
+
+  **Search terms finally match the video** - "en livstid i krig" 8.3% and "sabaton"
+  8.3%, off 3.2% of traffic. On CO-0036 the top term was the ad keyword "warrock".
+
+  **Content suggesting names our own CO-0035 under its house title**, "Billy Talent
+  hid a protest in the three minutes of..." - the first time a rewritten title has
+  turned up in a suggestion panel anywhere in the corpus.
+
+  **Likes 50.0% - a new corpus low.** Three ratings. Recorded, not theorised.
+
+  Devices mobile 93.2 / computer 5.8 / tablet 1.0. Demographics Male 100% and
+  25-34 100%, a single bucket. India 69.8 / Indonesia 11.2. No captions 100%.
+
+THE OLD COPY (all four surfaces)
+  Title   : band and song plus a Rocksmith hashtag tail.
+  Desc    : the funding wall.
+  Tags    : **8 at 84/500. "en livstid i krig" absent, "sabaton" twice with the
+            self-inflicted misspelling "sabbaton"**, five channel-identity tags.
+  Pin     : the funding wall, with the four house comments as the only thread.
+
+THE REWRITE
+  Title   : 63 chars. Band + recorded twice + verdict, naming the Swedish one.
+            New skeleton.
+  Desc    : 1517 chars. Opens on the instrument - what the bass refuses to do for
+            five and a half minutes - which is D20, first use. Then the two-language
+            story, then the history, then the CTA.
+  Tags    : 16 at 235/500. Song in both languages, album, both writers, both
+            formats, the genre, the war. Zero channel identity, no misspellings.
+  Pin     : 148 chars, an invitation to tell me the English version is better -
+            P13 correction invite, first use.
+  GENRES  : split block. CORRECT: Power metal, Symphonic power metal, Heavy metal,
+            Swedish metal. Note in FINDINGS that symphonic IS defensible here,
+            unlike CO-0028 and CO-0034, because the album has real orchestration.
+
+################################################################################
+CO-0040 | Rammstein - Amerika | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : RusyZn0GyWk | 3:40 | uploaded 02-09-2025 | 284 views | 1.7 h
+  Subs    : **zero** - back in the zero-subscriber club
+  Earning : **E4 INELIGIBLE, GBP 0.00.** Second Rammstein upload.
+  Bucket  : 0031 - 0040
+  Captured: 10 screenshots, all readable. No Overview 2 in this folder.
+
+THE SONG
+  Reise, Reise, second single, 13 September 2004 (video 20 August), Universal,
+  3:46, recorded 2003 at El Cortijo in Malaga, produced by Jacob Hellner with the
+  band. German verses, English chorus, and a video full of Apollo-era spacesuits.
+
+WHAT THE PANELS SAY
+  1.4k impressions at **1.5% - the best CTR of the last four audits**. 81.7%
+  recommended, 21 engaged views, impression-AVD 0:44. AVD 0:21, APV 9.8%, and
+  **17% at 0:30, below typical** - the first below-typical hold in this batch.
+
+  **Search panel is the cleanest on the channel:** rammstein 40.0, rammstein cover
+  20.0, rocksmith 20.0, rocksmith bass 20.0 - every term correct band or correct
+  format. 1.8% of traffic. External and content-suggesting both too small to report.
+
+  Likes **100.0%**, the fourteenth perfect ratio. Devices mobile 81.6 / computer
+  18.4 / TV 0.1. No demographic data. India 62.7 / **Indonesia 21.5, the highest
+  Indonesian share in the corpus**. No captions 100%.
+
+THE OLD COPY (all four surfaces)
+  Title   : band and song plus a Rocksmith hashtag tail.
+  Desc    : the funding wall.
+  Tags    : **9 at 94/500. "amerika" absent. "rammstein" listed twice, plus
+            "ramstein" run together** (keep the misspelling, add the right string).
+  Pin     : the funding wall.
+  Hygiene : the file inside the player is still named for CO-0039.
+
+THE REWRITE
+  Title   : 53 chars. Element + band + "wrote in English to mock English". New
+            skeleton, chiasmus in the tail.
+  Desc    : 1531 chars. Opens on the writing history and the studio - D09, first
+            use - then the video, then what Riedel does and does not play.
+  Tags    : 16 at 230/500. Band, song, album, all six members, producer, both
+            genres, label, year, both formats.
+  Pin     : 112 chars, a diagnostic fork with my own answer attached - P11, first
+            use.
+  GENRES  : split block. CORRECT: Industrial metal, Neue Deutsche Harte,
+            Industrial rock, Alternative metal, Heavy metal.
+
+CORRECTION CARRIED IN
+  This batch is the first to use MAVO's new genre rule - GENRE FINDINGS kept
+  internal, CORRECT GENRES printed on its own with nothing in it that should not
+  be added to a playlist.
+################################################################################
