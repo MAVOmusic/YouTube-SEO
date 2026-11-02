@@ -2244,3 +2244,77 @@ INTERNAL NOTE
   multiply watch time at zero extra rights risk, because the claim status follows
   the master and this master is unclaimed.
 --------------------------------------------------------------------------------
+
+--- MR-0030 | CO-0030 | Pendulum - Tarantula -----------------------------------
+Video ID           : uWluLPp7wu0 | 5:09 | 348 views | 2.0 watch hours
+                     | **+3 subscribers** | 349 unique viewers
+Published          : 31-08-2025 (capture window to 01-11-2026, 427 days)
+Notices badge      : **"Sharing ad earnings / Shopping disabled"** - two lines.
+                     The first is E2 REVENUE-SHARE: a claimant exists and pays a
+                     cut. The second is the shopping product being switched off,
+                     unrelated to earning. **First E2 since CO-0011.**
+Revenue            : **GBP 0.06** | RPM GBP 0.18 | CPM GBP 0.71
+                     Ad mix: display 98.6 / bumper 0.9. Watch-page ads only.
+Impressions / CTR  : 1.4k / **0.9%** | **22.8% from YouTube recommending - the
+                     LOWEST in the corpus** (previous low 43.5% on CO-0018) |
+                     13 engaged views | 0:24 impression-AVD | 0.09 h
+Watch quality      : AVD 0:20 | **APV 6.8% - lowest in the corpus** (previous low
+                     7.8% on CO-0027) | 17% at 0:30, flagged below typical
+Likes              : **75.0%** - joint second worst in the corpus with CO-0028,
+                     against a channel average of 97.4%
+End screen CTR     : 0.0% | bell: zero pushes, zero views | hype 0/0
+Devices            : mobile 93.4 / computer 6.5 / TV 0.2
+Audience           : India 69.8 / Indonesia 11.8 | **NO demographic data at all**
+                     (second time, after CO-0029) | 94.2% of watch time from
+                     non-subscribers
+Traffic            : **advertising 94.5** / search 3.2 / browse 0.6 / channel
+                     pages 0.6 / direct 0.3 / other 0.9
+External (0.3%)    : Creator Studio 100.0 - MAVO's own click
+Content suggesting : 0.3%, and the only entry is the video itself
+Search terms (3.2%): **tarantula pendulum 27.3** / **pendulum tarantula 18.2** /
+                     **pendulum guitar cover 9.1** / **pendulum tarantula
+                     reaction 9.1** / rocksmith bass 9.1
+Old title          : "Pendulum - Tarantula #rocksmith #bass #pendulum" - 41 chars
+Old tags           : 8 tags / 86 chars. "mavomusic" twice, four kick tags, and
+                     **"tarantula" absent entirely**. The typo instinct produced
+                     "pendulm", which is worth keeping - it is a plausible
+                     misspelling and costs nothing.
+Old pin            : the 4,000-character funding wall, as on every other capture.
+
+CLASSIFICATION     : **E2 EARNING, REVENUE SHARE.** A claimant is present and
+                     shares the ad revenue. Different mechanism from CO-0029,
+                     which had no claimant at all.
+
+*** SAME MONEY, DIFFERENT MECHANISM - AND THAT IS THE POINT ***
+
+  CO-0029  E1  no claim      3:13  315 views  GBP 0.06  RPM 0.20
+  CO-0030  E2  shared claim  5:09  348 views  GBP 0.06  RPM 0.18
+
+  Two completely different rights positions, one identical payout to the penny.
+  At this volume the claim TYPE makes no measurable difference to what MAVO banks.
+  **Eligibility is everything and the split is noise.** That is the practical
+  lesson for the build queue: do not hunt for E1 specifically, hunt for anything
+  that is not E4. E1 and E2 both pay, and they paid the same here.
+
+*** AND IT EARNED WITH THE LEAST ALGORITHMIC HELP IN THE CATALOGUE ***
+
+  22.8% of impressions came from YouTube recommending the video. Every other
+  upload in the corpus sits between 43% and 58%. This video was almost entirely
+  bought: 94.5% of traffic was advertising.
+
+  It still earned. Reach and eligibility are independent variables, and the corpus
+  now has a video that proves it - the least recommended upload on the channel is
+  one of only five that has ever paid. **A video does not need to be found to earn;
+  it needs to be eligible.** The reverse is also already proven: CO-0016 had
+  382,306 views, 99.6% of them paid, and earned nothing because it was E4.
+
+CONVERSION         : 3 from 348 = 0.86%. Above the paid-cohort median of roughly
+                     0.7% and the best of the last four uploads.
+
+INTERNAL NOTE
+  Build queue entry three. Pendulum opens a lane the channel did not have -
+  electronic, drum and bass, no guitars - and this is the first record in the
+  corpus where the earning material is not rock or classical in any form. Worth
+  one more Pendulum/Knife Party test before drawing a conclusion, since a single
+  upload is not a pattern.
+--------------------------------------------------------------------------------

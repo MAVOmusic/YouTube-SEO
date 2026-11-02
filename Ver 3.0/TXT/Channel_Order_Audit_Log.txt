@@ -3547,3 +3547,89 @@ DESCRIPTION AND PIN SHAPE RULE - NEW
   not mirror the description's opening move; "what should I play next" banned
   outright from CO-0030.
 ################################################################################
+
+################################################################################
+CO-0030 | Pendulum - Tarantula | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : uWluLPp7wu0 | 5:09 | uploaded 31-08-2025 | 348 views | 349 unique
+  Subs    : +3 (0.86% of views)
+  Earning : **E2 REVENUE SHARE, GBP 0.06**. Badge reads "Sharing ad earnings /
+            Shopping disabled" - the second line is the shopping product, not money.
+  Bucket  : 0021 - 0030 - **BUCKET CLOSED**
+
+THE SONG
+  Pendulum, a club twelve on Breakbeat Kaos, 27-06-2005, then track eight on *Hold
+  Your Colour* four weeks later. Written by Rob Swire, Gareth McGrillen and DJ
+  Fresh, with Tenor Fly and $pyda on vocals. The Tenor Fly verse came from a
+  Rawhill Cru record via Fresh's stems. 5:31 on the album, 5:09 here.
+
+*** TWO EARNERS IN A ROW, TWO DIFFERENT MECHANISMS, IDENTICAL MONEY ***
+
+     CO-0029  Amaranthe  E1  no claim at all   315 views  GBP 0.06  RPM 0.20
+     CO-0030  Pendulum   E2  shared claim      348 views  GBP 0.06  RPM 0.18
+
+  Same payout, to the penny, from completely different rights positions. **At this
+  volume the split is noise and eligibility is everything.** The build queue should
+  stop hunting E1 specifically and hunt anything that is not E4.
+
+*** IT EARNED WITH THE LEAST ALGORITHMIC HELP IN THE CATALOGUE ***
+
+  **22.8% of impressions came from YouTube recommending this video.** Every other
+  upload sits between 43% and 58%. 94.5% of traffic was advertising. It was the
+  least recommended video on the channel and it still paid.
+
+  Put that beside CO-0016: 382,306 views, 99.6% paid, GBP 0.00, because it was E4.
+  **Reach and eligibility are independent.** One video proves a video does not need
+  to be found to earn. The other proves a video can be found by hundreds of
+  thousands and earn nothing at all.
+
+WATCH QUALITY - THE WORST IN THE CORPUS ON TWO MEASURES
+  APV **6.8%** is the new lowest (previous 7.8% on CO-0027). AVD 0:20 on a 5:09
+  runtime, 17% at 0:30, flagged below typical. Likes **75.0%**, joint second worst
+  with CO-0028 against a channel average of 97.4%.
+
+  Reading: a five-minute drum and bass twelve, delivered as a bass-only playthrough
+  to a paid audience that arrived from advertising, is a mismatch on both ends. The
+  people clicking wanted a song and got one instrument; the algorithm had already
+  decided not to help. **No demographic data at all** for the second time in a row,
+  which means YouTube could not profile these viewers either.
+
+SEARCH IS THE BRIGHT SPOT
+  3.2% of traffic, and 45.5% of that slice is the song in one word order or the
+  other - "tarantula pendulum" 27.3 and "pendulum tarantula" 18.2. The title carries
+  both words, so it ranks for both. The other 27% is format-mismatch intent:
+  "pendulum guitar cover" and "pendulum tarantula reaction". **People want this song
+  on guitar and in reaction form.** Both are formats the channel could actually
+  make, unlike the "live" intent that keeps appearing on the metal uploads.
+
+THE OLD COPY (all four surfaces)
+  Title   : "Pendulum - Tarantula #rocksmith #bass #pendulum" - 41 chars, band name
+            printed twice, half the title spent on hashtags.
+  Desc    : the funding wall. Dead discord invite, "type mavomusic into the invite
+            box", a schedule that no longer exists. No song, no year, no label.
+  Tags    : 8 at 86/500. "mavomusic" twice, four kick tags, **"tarantula" absent**.
+            "pendulm" is the one useful thing in the box and it has been kept.
+  Pin     : the 4,000-character wall.
+
+THE REWRITE
+  Title   : 66 chars. "[Band] built [song] from [two things]" - a skeleton used
+            nowhere else, no possessive, no question, no date in front.
+  Desc    : 1187 chars. Opens in the second person with the club, then the borrowed
+            verse and the $pyda nickname, then why the bass at this tempo has to be
+            the melody. Device D16, first use.
+  Tags    : 15 at 195/500. Song present, album, label, both writers, both vocalists,
+            the misspelling, the genre family. Zero channel identity.
+  Pin     : 127 chars, a correction invite rather than a nomination question. Device
+            P13, first use.
+  GENRES  : 7 labels. Drum and bass primary, jungle and ragga jungle documented.
+            TRAP note: do not file as rock - that is the 2008-2010 era, this is 2005
+            and there are no guitars on it.
+
+BUCKET 0021-0030 CLOSED
+  Ten videos, one duplication (CO-0027 of CO-0008), two earners (CO-0029, CO-0030),
+  eleven pence between them. Everything from CO-0021 to CO-0028 was E4 or blocked.
+
+NEW BUCKETS CREATED
+  0031 - 0040, 0041 - 0050, 0051 - 0060, each with a .gitkeep so the structure is
+  live before the uploads arrive. CO-0031 starts in 0031 - 0040.
+################################################################################
