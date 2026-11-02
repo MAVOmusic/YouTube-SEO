@@ -3163,3 +3163,48 @@ FINDINGS CARRIED INTO THE CONTEXT BLOCK
   5. Tag box byte-cloned from CO-0023. Broken deliberately in the new copy.
 
 ################################################################################
+
+################################################################################
+CO-0025 | Aephanemer - Old French Song | 2:25
+################################################################################
+
+FOLDER   : _0001 Long Form / 0021 - 0030 / 0025 - Aephanemer - Old French Song
+           (Long Form)
+CAPTURED : 12 screenshots, all readable, plus a new file type:
+           "_01 - Main Info/Official Comment.jpeg" - the band's own comment.
+
+THE BAND COMMENTED
+  @AephanemerOfficial, verified, "Fantastic job! Congrats!!" - MAVO replied.
+  First artist interaction in the corpus. The new description mentions it in one
+  plain sentence. It belongs on the record, not buried in the comments.
+
+OLD COPY
+  Title   : broken "[]" glyph, #rocksmith #bass #aephanemer.
+  Desc    : the 2022 shell. No mention of Tchaikovsky anywhere - the single most
+            interesting fact about the video is missing from all four surfaces.
+  Tags    : 10 at 97/500. Six channel-identity tags, then THREE spellings of the
+            band (aephanemer, ephanemer, aepanemer) - genuinely good instinct and
+            kept. No song title, no Tchaikovsky, no album, no genre.
+  Pin     : the "[IMPORTANT INFORMATION]" support wall.
+
+NEW COPY
+  Title   : 78 chars. Names Tchaikovsky, the song, the band, the bass.
+  Desc    : 1276 chars. 1878 Album for the Young, the 2021 Napalm bonus track,
+            what the arrangement does and does not change, the band's comment.
+  Tags    : 16 at 241/500. Keeps all three band spellings. Adds tchaikovsky,
+            a dream of wilderness, napalm records, melodic death metal,
+            symphonic metal, neoclassical metal, classical metal, 2021.
+  Pin     : 148 chars. Classical piece question - which one deserves the metal
+            treatment next.
+  GENRES  : 7 labels. Melodic death metal primary, neoclassical metal flagged as
+            the strongest fit. Notes that this is the only track in the corpus
+            that legitimately belongs in a classical playlist too, and that
+            Tchaikovsky searchers are a large unserved audience.
+
+REGISTER CORRECTED - TIER A
+  CO-0025 is a public-domain Tchaikovsky cover and is still E4. Public domain
+  frees the composition, not the recording. Tier A is only safe when the
+  arrangement is MAVO's own. Written into Earning_Recreate_Register as the third
+  counter-example.
+
+################################################################################

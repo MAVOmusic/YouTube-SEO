@@ -22,7 +22,7 @@
 #     3. Each song folder's "_03 - Copy.md" - paste-ready metadata.
 #
 # STATUS AT TIME OF WRITING
-#   Long forms audited ........ 24 (CO-0001 to CO-0024)
+#   Long forms audited ........ 25 (CO-0001 to CO-0025)
 #   Earning ................... 2
 #   Total earned .............. GBP 0.58
 #   E1 EARNING-NO-CLAIM ....... 1  (CO-0022)
@@ -198,6 +198,30 @@ RECREATE INSTRUCTION
   Scoring the seven points gives you a candidate. This check gives you a verdict.
   Only the verdict counts.
 
+  *** CRITICAL CORRECTION TO TIER A - ADDED 02-11-2026 (CO-0025) ***
+  Tier A says public-domain compositions carry zero claim risk. That is TRUE ONLY
+  WHEN THE ARRANGEMENT IS MAVO'S OWN.
+
+  CO-0025 Aephanemer - Old French Song is a cover of TCHAIKOVSKY, who died in
+  1893 and whose Op. 39 No. 16 is unambiguously public domain. It is E4
+  INELIGIBLE, GBP 0.00, because MAVO played AEPHANEMER'S ARRANGEMENT of it, and
+  Aephanemer's recording is registered to Napalm Records.
+
+  The composition being free does not free the recording. Two different rights
+  exist on every cover:
+      1. the COMPOSITION (publishing) - Tchaikovsky's, long expired, free
+      2. the RECORDING and ARRANGEMENT - Napalm's, live, claimed
+
+  CO-0011 Chopin works because MAVO built his own four-hour arrangement of a
+  public-domain piece. CO-0025 fails because he copied a 2021 metal band's
+  arrangement of a public-domain piece. Same public-domain status, opposite
+  outcome.
+
+  TIER A, RESTATED: public domain means you may ARRANGE IT YOURSELF. It never
+  means you may COVER A MODERN RECORDING OF IT. Covering a metal band's Bach or
+  Beethoven or Tchaikovsky arrangement is a Tier B risk with a classical
+  disguise, and it fails the same way.
+
   BEST CURRENT HYPOTHESIS, UNPROVEN
   Claim coverage follows REISSUE and PROMOTION, not catalogue size. A track that
   was swept into a remaster or reissue gets registered with everything else on
@@ -229,10 +253,13 @@ RECREATE INSTRUCTION
 # BUILD QUEUE - SHORTLIST BY RIGHTS PROFILE, NOT BY VIEW COUNT
 ################################################################################
 
-  TIER A - public domain compositions. Zero claim risk, provable in advance.
+  TIER A - public domain compositions, ARRANGED BY MAVO. Zero claim risk.
     Chopin, Bach, Beethoven, Debussy, Satie, traditional folk and hymnody.
     Format: four-hour loop (CO-0011 shape) AND short cover (CO-0022 shape).
     This is the only tier where eligibility can be guaranteed before recording.
+    ** THE ONE RULE THAT MAKES TIER A SAFE: build the arrangement yourself. The
+    moment you play a modern band's arrangement of a public-domain piece you are
+    in Tier B, not Tier A, and you will fail exactly like CO-0025 did. **
 
   TIER B - deep cuts and bonus tracks from claimed artists.
     Same artist, same catalogue, wrong track to police. CO-0022 is the proof.
@@ -297,8 +324,12 @@ RECREATE INSTRUCTION
   Everything else audited is GBP 0.00. Twenty-two long forms, zero pence.
 
   Failed candidates, recorded so they are never rebuilt:
-  MR-0023 CO-0023  Sabaton - Camouflage (obscure cover)     E4
-  MR-0024 CO-0024  Sabaton - The Hammer Has Fallen (demo)   E4
+  MR-0023 CO-0023  Sabaton - Camouflage (obscure cover)              E4
+  MR-0024 CO-0024  Sabaton - The Hammer Has Fallen (demo deep cut)    E4
+  MR-0025 CO-0025  Aephanemer - Old French Song (Tchaikovsky cover)   E4
+
+  Three failures, three different justifications, one shared cause: somebody
+  registered the recording that was actually played.
 
 ################################################################################
 # APPENDIX B - CHANGE LOG
@@ -309,6 +340,10 @@ RECREATE INSTRUCTION
               seven points now only produces a candidate, and the three-upload
               empirical check produces the verdict. Tier B marked do-not-batch.
               Appendix A added so every earning result lives in one table.
+  2026-11-02  VER 4.25. TIER A CORRECTED. CO-0025 is a cover of a public-domain
+              Tchaikovsky piece and still came back E4, because the arrangement
+              played was Aephanemer's, not MAVO's. Public domain frees the
+              COMPOSITION only. Tier A is now explicitly "arranged by MAVO".
 
 ################################################################################
 # END OF FILE
