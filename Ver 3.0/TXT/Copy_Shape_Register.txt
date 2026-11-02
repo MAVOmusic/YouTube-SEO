@@ -159,6 +159,11 @@
   0053    the title explained, then the album around it      P-identification-test
   0054    track position head to head, then the credits      P-diagnostic-fork
   0055    the title denied, then the real source              P-second-person-challenge
+  0056    the construction history, told as a making-of      P-binary-verdict
+  0057    reviewer disagreement, quoted then granted          P-conditional
+  0058    imperative listening instruction                    P-inference-question
+  0059    runtime arithmetic, then the refusal                P-binary-comparison
+  0060    date plus album arrival, then the original version  P-two-way-disagreement
 
 ################################################################################
 # GENRE BLOCK - SPLIT INTO TWO ELEMENTS (VER 4.38, MAVO 02-11-2026)
@@ -209,6 +214,17 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.50. Five rows added in one batch, CO-0056 to CO-0060:
+              0056 construction history / 0057 reviewer disagreement (first use in 60
+              audits) / 0058 imperative listening instruction / 0059 runtime arithmetic
+              (D19, first use since 0031) / 0060 date plus album arrival (D02, the only
+              date-first opener in the batch, well inside the one-in-four cap).
+              Pin devices: binary verdict, conditional (first use), inference question,
+              and a two-way disagreement. 0060's pin was rewritten from a "which
+              version" question to a "fair or not" question before logging, because
+              0059's pin is already a value fork and two adjacent binary pins is exactly
+              the drift this file exists to catch. No pin repeats the description's opening move, and no pin repeats
+              the previous pin's device.
   2026-11-02  VER 4.49. Row added for CO-0055. The description opens by denying what
               the title implies and then supplies the real source - a D14
               negation-correction, last used at 0028, fifty-seven videos ago. P24

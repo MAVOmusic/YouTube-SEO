@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.49 ACTIVE - 2026-11-02]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.50 ACTIVE - 2026-11-02]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -2031,3 +2031,81 @@ passes on the CTA block. verify.sh green.
 the `0051 - 0060` bucket is live and `0061 - 0070` already exists for the overflow.
 When five land, read all five before writing any of them, and run the stale-panel
 agreement check on each.
+
+################################################################################
+# VER 4.50 - CO-0056 TO CO-0060 (2026-11-02) - THE FIRST FIVE-AT-A-TIME BATCH
+################################################################################
+
+Five long forms read in full, then five copies written, then one verification pass.
+The batch is +44 x3, Sabaton x1 and t.A.T.U x1: four catalogue revisits and the first
+non-rock, non-+44, non-Sabaton upload since the run began.
+
+**THE BATCH IN ONE TABLE**
+
+  CO      SONG                          ID            LEN   VIEWS  CTR   APV    LIKES  E
+  0056    +44 - Little Death            hjHaATsTXFM   4:00  341    1.7%  10.6%  100.0  E4
+  0057    +44 - Make You Smile          uFPJTL3PKVY   3:21  339    0.6%  11.4%  100.0  E4
+  0058    Sabaton - Lion From The North TgE6Jx1Ndyw   4:43  328    1.7%  11.6%  100.0  E4
+  0059    +44 - Weatherman              09giRsDd9xE   4:32  306    1.4%   9.4%   75.0  E4
+  0060    T.A.T.U - All Things She Said 02vW9F6cxSE   3:32  394    1.2%  10.3%  100.0  E4
+
+  Every ID above was crop-verified. **Four of the five had been misread by eye first**
+  (0056 wrong in three characters, 0059 wrong in three); only 0057 and 0060 survived
+  the first reading. The crop pass is not optional.
+
+**FIVE RECORDS AND ONE EXTREME**
+  - **Highest female audience share in 57 audits: CO-0058 at 43.3%** (BFMV held 40.0).
+  - **Only video in 57 audits with no female share at all: CO-0060 at 0.0%.**
+  - **Highest watch time from impressions: CO-0060 at 0.69 h**, then CO-0056 at 0.6 h.
+  - **Highest ad share: CO-0057 at 92.6%** (paid traffic; MAVO's own).
+  - **Lowest CTR of the batch: CO-0057 at 0.6%**, on the highest paid share.
+  - **Highest organic pull: CO-0060, 394 views and "14 more than usual".**
+
+*** THE CONVERSION INVERSION ***
+  CO-0056 got the weakest recommendation push in the batch (49.8%) and returned the best
+  conversion of the five - 70 engaged viewers and 0.6 hours out of impressions. CO-0060
+  got the strongest push (87.8%) and the biggest impression base. Push volume and arrival
+  quality are now two separate measurements, and the small song with the bad push wins
+  the second one.
+
+*** THE REWRITE IS RECOMMENDING THE CATALOGUE ***
+  CO-0055's rewritten title appears at 37.5% of CO-0059's suggested traffic, and
+  CO-0057 appears as a suggested video on CO-0056's panel. The programme now generates
+  internal traffic, which makes the ORDER of the rewrites matter as much as the copy.
+
+*** SABATON CLOSES AT 7 FOR 7 ***
+  Seven uploads, four eras, seven single-line E4s, GBP 0.00. Nuclear Blast claims the
+  catalogue and pays on none of it. No Sabaton song needs testing for revenue again.
+
+*** +44 AT SIX UPLOADS ***
+  0053, 0054, 0055, 0056, 0057 and 0059 are all Interscope, all clean E4, all GBP 0.00,
+  none of them with a partial block. Register total unchanged at **GBP 0.751 from six
+  earners in 60 audits**.
+
+**THE FIVE TITLES (skeletons, all new)**
+  0056 "Little Death was rebuilt more times than any other +44 song" (59) - song as
+       patient of the verb, comparison in the middle, band possessive at the tail.
+  0057 "Make You Smile needed somebody outside +44 to answer" (52) - verb of
+       requirement, outsider clause, infinitive tail.
+  0058 "Follow Sabaton's Lion From The North back to 1632" (49) - imperative of
+       movement, year as a destination. Second imperative in 60 titles.
+  0059 "Weatherman gives you nothing to hum and does not care" (53) - song hands over an
+       absence, then refuses in the second clause.
+  0060 "t.A.T.u. had All The Things She Said working in Russian first" (61) - band first
+       with prior possession, language in an adverb slot.
+  **Lengths:** desc 1584 / 1611 / 1599 / 1511 / 1502. tags 16 each at 214 / 193 / 238
+  / 207 / 220 characters. pins 100 / 133 / 127 / 118 / 104.
+
+**THE TAG BOX PROBLEM, FINALLY MEASURED**
+  0053, 0054, 0055, 0056 and 0059 carried **fourteen identical tags at 160/500 with the
+  song title absent**. 0058 and 0060 carried **eight tags at 84/500, also without the
+  song**, and 0058 carried "sabaton" twice. That is seven uploads in a row where the box
+  could not serve the song's own name, which is the search demand the panels actually
+  recorded ("chapter 13 plus 44", "weatherman live", "all the things she said", "plus 44").
+
+**Gate:** combined n-gram sweep over **60 files** clean at **8, 7, 6 and 5-grams on the
+first pass** - no rewording passes were needed this cycle. Intra-file title/desc/pin
+overlap also clean at 4-grams. verify.sh green at 60 packages.
+
+**Next:** CO-0061 to CO-0065, five at a time. Read all five first, crop-verify every ID
+before writing, then write, sweep once, log, verify, push, merge.
