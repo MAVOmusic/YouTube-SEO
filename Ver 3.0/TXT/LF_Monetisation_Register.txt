@@ -1686,3 +1686,94 @@ absent from the box entirely, as are rock and roll, 1957 and the bassist. Contra
 CO-0020's katakana lattice, which is why that video had 10.5% search and this one
 has 1.1%.
 --------------------------------------------------------------------------------
+
+################################################################################
+--- MR-0022 | CO-0022 | Avril Lavigne - Together -----------------------------
+################################################################################
+
+*** FIRST LONG FORM IN THE ENTIRE CORPUS TO EARN ANYTHING. GBP 0.04. ***
+
+Video ID           : fOagxJT5aLA | 2:57 | 318 views | 2.4 watch hours | +2 subs
+                     | 307 unique viewers
+Notices badge      : **NONE. The panel is empty.** No "Ineligible to earn", no
+                     "Partially blocked", nothing. This is the only capture in
+                     twenty-two audits with a clean Notices box, and it is the
+                     only one with money attached to it.
+STATUS             : **E1 EARNING-NO-CLAIM.** First E1 in the register.
+Revenue            : **GBP 0.04** - watch page ads only, no other source.
+                     CPM GBP 0.37 | RPM GBP 0.14
+Ad types           : Display ads (auction) 69.2 / Skippable video ads (auction)
+                     28.2 / Bumper ads (auction) 2.6
+Product clicks     : **2 - first product interaction in the corpus.**
+                     MAVOmusic Official Kick Trucker Cap 1, MAVOmusic Official
+                     Hoodie 1. The shop panel works; nobody had ever clicked it
+                     before because no video was ever monetised enough to show it.
+Impressions / CTR  : 2.6k / 0.9% | **83.0% from YouTube recommending - the highest
+                     recommendation share ever recorded** | 23 engaged views |
+                     0:51 impression-AVD | 0.33 h from impressions
+Watch quality      : AVD 0:27 | **APV 15.4% - highest in the corpus** |
+                     **26% still present at 0:30 - highest retention point in the
+                     corpus** | curve sits ABOVE the typical band for its whole
+                     length, the only video in twenty-two that does
+Likes              : **100.0% vs 97.4% channel** - second perfect ratio after CO-0019
+End screen CTR     : 0.0% | bell: zero pushes, zero views (third time)
+Devices            : mobile 92.1 / computer 7.9 / TV 0 / tablet 0
+Audience           : India 73.3 / **Indonesia 6.0 - lowest Indonesia share in the
+                     corpus** | male 63.4 / female 36.6 | age 25-34 100% (tiny
+                     sample) | 98.6% non-subscribed | 100% no subtitles
+Traffic            : YouTube advertising 89.9 / YouTube search 3.8 / browse 3.1 /
+                     **suggested videos 2.2 - the highest suggested-video share in
+                     the corpus** / direct 0.6 / other 0.3
+Search terms (3.8%): avril lavigne 8.3
+Content suggesting : Sylvain Coudret SOILWORK Recording 14.3 / Pink Floyd
+                     Comfortably Numb solo cover 14.3 / **Green Day - X-Kid
+                     #rocksmith #bass (CO-0008) 14.3** / Fifth Harmony All In My
+                     Head 14.3 / "Together (Avril Lavigne) bass cover" 14.3
+                     One fifth of the entry lane is his own video wearing a Ver
+                     4.17 title - fourth internal chaining sighting. One fifth is a
+                     COMPETING bass cover of the same song.
+External           : not enough traffic
+
+CONVERSION: +2 from 318 = 0.63% - mid-pack, and irrelevant here. The story is not
+the rate, it is that the rate finally has money behind it.
+
+################################################################################
+WHY THIS ONE AND NOT THE OTHER TWENTY-ONE
+################################################################################
+
+Six things are true of CO-0022 and have never been true of any other long form:
+
+ 1. It is the only video with NO claim on it.
+ 2. It is the only video that earns. (GBP 0.04, but earning.)
+ 3. Highest percentage viewed, 15.4%.
+ 4. Highest 0:30 retention, 26%, and the only curve above the typical band.
+ 5. Highest recommendation share, 83.0%, and highest suggested-video share, 2.2%.
+ 6. 100% like ratio.
+
+The song explains all six. **"Together" is a bonus track.** It was written with
+Chantal Kreviazuk during the Under My Skin sessions in 2004 and filed away as a
+deluxe extra. It was never a single, never got a video, and has no commercial value
+to defend - so no claimant bothered to register a Content ID match against it.
+
+Meanwhile the songs people actually search for - SOAD, Slayer, RATM, MCR,
+Rammstein, Babymetal - are all claimed, all blocked, all at GBP 0.00 regardless of
+whether they pull 333 views or 382,306.
+
+** The monetisation thesis is now confirmed with a live data point: the only long
+form that pays is the one nobody wanted enough to claim. **
+
+THIS INVERTS THE OBVIOUS STRATEGY
+Uploading famous songs buys reach and buys nothing else. The corpus already shows
+that: 382,306 views on CO-0016 earned GBP 0.00. Four pence on 318 views beats that
+on the only metric that matters. The scalable play is not "bigger songs", it is
+"unclaimed songs" - deep cuts, bonus tracks, b-sides, regional-only releases,
+compositions whose rights have lapsed or were never enforced.
+
+That is a Phase 3 decision, not a copy decision, and it should be made with the
+E1/E2 list as the shortlist rather than with the view-count list.
+
+CAVEAT, STATED PLAINLY
+Four pence is four pence. This is one data point, on 318 views, at an RPM of GBP
+0.14. It proves the mechanism, not the business. It does prove that the 21 zeros
+were a rights problem and not a Channel problem.
+################################################################################
