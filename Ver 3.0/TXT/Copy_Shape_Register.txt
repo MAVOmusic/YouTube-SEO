@@ -148,6 +148,8 @@
   0042    the same song in three versions                 P-craft-fork
   0043    instrument-first, what nobody else does         P-binary-verdict
   0044    the producer was a band member                  P-philosophical-fork
+  0045    the songwriter as a stylist                     P-binary-verdict
+  0046    the recording circumstances, then the song      P-inference-question
 
 ################################################################################
 # GENRE BLOCK - SPLIT INTO TWO ELEMENTS (VER 4.38, MAVO 02-11-2026)
@@ -198,6 +200,11 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.44. Rows added for CO-0045 and CO-0046. D09 writing history
+              reused on 0045 (third outing, still inside the eight-video spacing),
+              D08 origin story dated on 0046 where the date is a medical event
+              rather than a release. P-binary-verdict reused from 0043, P-inference
+              question is new. No date-first opener in either; no nomination pin.
   2026-11-02  VER 4.42. Rows added for CO-0043 and CO-0044. D20 instrument-first
               reused after 0039, so it is no longer fresh until 0047; D09 writing
               history reused after 0040. Allowed under the eight-video spacing rule.

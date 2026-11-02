@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.43 ACTIVE - 2026-11-02]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.44 ACTIVE - 2026-11-02]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -1725,3 +1725,70 @@ one collision had to be fixed in CO-0042 rather than in the new file, because th
 5-gram spanned a URL. The URL-adjacency law has not relaxed.
 
 **Next:** CO-0045 + CO-0046.
+
+################################################################################
+VER 4.44 STATUS ENTRY | 02-11-2026 | CO-0045 + CO-0046 - THE REFERENCE LOOP
+################################################################################
+
+**Manowar - Kings Of Metal and Bullet For My Valentine - Scream Aim Fire. Both E4,
+both GBP 0.00.** 46 audits, 6 earners, GBP 0.751.
+
+*** THE MANOWAR / SABATON LOOP IS NOW CLOSED IN BOTH DIRECTIONS ***
+  CO-0036 Sabaton - Man of War is built entirely from Manowar song and album titles.
+  CO-0045 is the band that song is about. Nuclear Blast and Atlantic. **Both earned
+  GBP 0.00.** It is the only reciprocal reference in the catalogue and the register
+  now files them as a pair.
+
+*** TWO CORPUS CTR FLOORS IN TWO DAYS, AND THEY POINT AT THUMBNAILS ***
+
+     CO-0042 The Cult      4.6k impressions   0.6%
+     CO-0045 Manowar       3.9k impressions   **0.4% - the floor**
+
+  Both were pushed hard by the algorithm (81.4% and 86.6% recommended), both had
+  correct-or-near-correct search intent, and both converted almost nobody. This is
+  now the clearest body of evidence the channel has for the Phase 2e thumbnail
+  tidy-up, and it is still a tidy-up - neither video would have earned a penny with
+  a better picture.
+
+*** CO-0046 IS THE STRONGEST COUNTER-EXAMPLE YET ***
+
+     impressions            4.8k - highest ever recorded
+     recommended            93.2% - highest ever recorded
+     engaged views from     44 - highest ever recorded
+     watch from impressions 0.62 h - highest ever recorded
+     subscribers            +3 at 0.86%
+     revenue                GBP 0.00
+
+  Four corpus records on one video that paid nothing, in the same batch as a video
+  half its size that paid GBP 0.05. **Distribution has never been the variable.**
+
+*** SECOND GENUINE VIEWER COMMENT OF THE CORPUS ***
+  @colebevridge778 on CO-0046: "R u looking for a band. I need a bass player" - one
+  like, answered by MAVO with a real reply. First approach rather than compliment.
+  Still no pinned artist comment anywhere; the standing rule has never had an
+  opportunity to be applied.
+
+*** C-11 TAG DEFECT - EIGHTH AND NINTH IN A ROW, AND IT IS GETTING WORSE ***
+  CO-0045: 11 tags, **song absent, "manowar" three times of which two are invented -
+  "manovar" and "manowarr" - plus one duplicate.**
+  CO-0046: 10 tags, song absent, **band run together four ways with one duplicated.**
+  The defect is now mechanical: channel identity tags first, one run-together artist
+  spelling, duplicated, and never the song title. **This is a template problem, not
+  a typing problem, and it has cost nine consecutive uploads.**
+
+**Two new things in the panels:** CO-0046 has the **highest TV share in the corpus
+(3.7%)** and 22.0% computer, and its only external referrer is **Creator Studio** -
+the channel's own dashboard. CO-0045 has the **highest Indonesian share after
+CO-0040** and a Male 100% / 25-34 100% single-bucket panel.
+
+**New shapes:** CO-0045 title = band + wrote a number rulebook + meant it; desc D09
+writing history (third outing); pin binary verdict. CO-0046 title = band + wrote
+this + a "while" clause; desc D08 origin story on a medical event; pin inference
+question (new). **Both titles open with a band-writes frame - flagged in the title
+register as a shape echo to watch. A third consecutive one is banned.**
+
+**Sweep:** 46 files, zero collisions at 9, 8, 7, 6 AND 5-grams. Five rewording
+passes - the CTA block collided four times and the URL-adjacency law produced a new
+variant where the Twitch line directly after the Kick URL was the whole collision.
+
+**Next:** CO-0047 + CO-0048.
