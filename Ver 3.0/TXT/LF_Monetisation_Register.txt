@@ -2030,3 +2030,71 @@ TAGS: 10 at 88/500, six channel-identity, and two band spellings
 the vowel removed, which is how people type around a blocked word). Both kept.
 No song title, no genre, no year.
 --------------------------------------------------------------------------------
+
+--- MR-0027 | CO-0027 | Green Day - X-Kid [PERFORMANCE CUT] ---------------------
+Video ID           : 3tnrL1ZVmo | 3:43 | 324 views | 1.6 watch hours
+                     | **ZERO subscribers** | 322 unique viewers
+Notices badge      : **E4 INELIGIBLE + PARTIALLY BLOCKED**
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : 884 / **0.5% - the WORST click-through in the corpus**
+                     (previous worst 0.7% on CO-0020) | 44.3% from YouTube
+                     recommending | **only 4 engaged views from 929 impressions** |
+                     0:15 impression-AVD | 0.02 h from impressions
+Watch quality      : **AVD 0:17 - the LOWEST in the corpus** |
+                     **APV 7.8% - the LOWEST in the corpus** |
+                     **14% at 0:30 - flagged "below typical"** and the lowest
+                     retention point recorded
+Likes              : 100.0% - seventh perfect ratio, on a video almost nobody watched
+End screen CTR     : 0.0% | bell: zero pushes, zero views
+Devices            : mobile 97.4 / computer 1.2 / TV 1.1 / tablet 0.3 -
+                     **the highest mobile share in the corpus**
+Audience           : India 67.0 / Indonesia 19.4 | **female 44.4 - the highest
+                     female share in the corpus** (previous 40.0) | age 25-34 100%
+                     | 91.6% non-subscribed
+Traffic            : advertising 93.8 / **related Shorts 4.0** / browse 1.2 /
+                     channel pages 0.6 / search 0.3
+Search terms (0.3%): x-kid 100.0
+Viewers also watch : three of his own Green Day videos - Hitchin' A Ride 751 views,
+                     East Jesus Nowhere 1.6k, Horseshoes And Handgrenades 1.2k
+
+*** THE DUPLICATE-SONG PROBLEM, NOW MEASURED ***
+This is the same song as CO-0008. Two uploads, eighteen months apart:
+
+                          CO-0008 PLAY ALONG      CO-0027 PERFORMANCE
+  uploaded                18-02-2024              31-08-2025
+  runtime                 4:05                    3:43
+  views                   407                     324
+  watch hours             1.9                     1.6
+  SUBSCRIBERS             **+59**                 **0**
+  unique viewers          346                     322
+  badge                   E4 + partial block      E4 + partial block
+  revenue                 GBP 0.00                GBP 0.00
+  CTR / AVD / APV         not captured            0.5% / 0:17 / 7.8%
+
+  +59 subscribers on one, zero on the other, for the same song, same channel,
+  same badge, same year group. The play along was uploaded first and took the
+  audience.
+
+  CO-0027 also set the worst engagement numbers in the entire corpus on all three
+  measures and still got 884 impressions - the algorithm was willing to show it
+  and viewers were not willing to click it. 4 engaged views from 929 impressions
+  is 0.43%.
+
+WHAT THIS MEANS
+  Two uploads of one song compete for the same searches, the same recommendation
+  slots and the same thumbnails. The second one does not split the traffic, it
+  loses it, and it makes the channel look like it republishes its own catalogue.
+  That is the exact pattern that YouTube's mass-produced / inauthentic content
+  policy is designed to catch, which is what MAVO was worried about when he
+  ordered the Ver 4.17 rewrite.
+
+RULE, ADDED TO THE AUDIT LOG
+  One song, one upload. If a second cut is genuinely wanted, it must be a DIFFERENT
+  FORMAT with a DIFFERENT JOB (teaching cut vs performance cut), it must never
+  share a playlist with the first, and the second upload should be expected to
+  gain nothing. Better still: do not upload it.
+
+INTERNAL NOTE ON THIS SONG
+  CO-0008 is a play along. CO-0027 is the performance. If only one survives, keep
+  CO-0008 - it is the one that produced 59 subscribers.
+--------------------------------------------------------------------------------
