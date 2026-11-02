@@ -2712,3 +2712,181 @@ INTERNAL NOTE
   Atlantic, claimed, partially blocked, GBP 0.00. The Short for a different Billy
   Talent song stays up because it is discovery, not revenue.
 --------------------------------------------------------------------------------
+
+--- MR-0036 | CO-0036 | Sabaton - Man Of War ------------------------------------
+Video ID           : captured in the Details panel | 3:34 | 303 views | 1.9 watch hours
+                     | **+3 subscribers** | 300 unique viewers
+Published          : 2025 cohort | window captured 02-11-2026
+Notices badge      : **E4 INELIGIBLE** - single-line, no PARTIALLY BLOCKED, no
+                     block notice of any kind
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : 2.1k / **1.2%** | 80.2% from YouTube recommending | 25 engaged
+                     views | impression-AVD 0:37 | 0.13 h from impressions
+Watch quality      : AVD 0:22 | APV 10.6% | no 0:30 retention marker shown
+Likes              : **100.0%** - thirteenth perfect ratio
+End screen CTR     : 0.0%
+Devices            : mobile 86.0 / computer 13.4 / tablet 0.5 / TV 0.1
+Audience           : **no demographic panel at all** | India 63.4 / Indonesia 11.9 |
+                     subscribers supplied 3.7% of watch time
+Traffic            : advertising 87.8 / browse 8.6 / search 1.7 / channels 0.7 /
+                     suggested 0.7
+Search (1.7%)      : top term **"warrock" 20.0%** - not this song. The box is
+                     matching the paid keyword, not the video.
+Content suggesting : "The Iconic Drumming Behind 'The Kill (Bury Me)'" 50.0% +
+  (0.7% combined)    "Musicians REACT to El Estepario Siberiano!" 50.0%
+Old title          : Sabaton - Man Of War + Rocksmith/hashtag tail
+Old tags           : **10 tags / 103 chars. "man of war" ABSENT. "sabaton" appears
+                     four times including the misspelling "sabbaton"** - the worst
+                     C-11 instance in the corpus so far.
+Old pin            : the 4,000-character funding wall. No artist comment.
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN.** Nuclear Blast. Sabaton's fifth upload.
+
+*** SABATON IS NOW FIVE FOR FIVE AT GBP 0.00 - THE FILE STAYS CLOSED ***
+
+  CO-0023  Camouflage              cover of a 1986 one hit wonder
+  CO-0024  The Hammer Has Fallen   2001 demo recording
+  CO-0028  Dreadnought             album track
+  CO-0034  Steel Commanders        corporate commission (Wargaming)
+  CO-0036  Man of War              album bonus track, Manowar tribute
+
+  Five different reasons, five different eras, one answer. This is the most
+  thorough falsification the register has produced: there is no Sabaton shape
+  that pays. The rule written at CO-0034 stands unchanged.
+
+*** AND A SECOND FINDING: THE TRIBUTE SONG IS THE ONLY FUNNY ONE ***
+
+  Every other Sabaton upload here is about a war, a ship or a game. This one is a
+  joke built out of another band's discography and it performed to the same
+  standard - 303 views, +3 subs, 100% likes - which says the audience does not
+  come for the subject, it comes for the band. That is useful for Phase 3 and it
+  changes nothing about the money.
+
+WATCH-TIME NOTE
+  1.9 hours from 303 views is 0.38 minutes per view of total watch. On a 3:34
+  video that is not a retention problem, it is a paid-traffic problem: 87.8% of
+  the audience was bought, watched 22 seconds and left. Do not read APV 10.6% as
+  a verdict on the arrangement.
+
+INTERNAL NOTE
+  Do not record another Sabaton song under this rights regime. If a renegotiation
+  or a different audio bed ever happens, MR-0036 is a fresh test case - but five
+  failures is enough evidence to stop spending sessions on it.
+--------------------------------------------------------------------------------
+
+--- MR-0037 | CO-0037 | All Time Low - Weightless ------------------------------
+Video ID           : captured in the Details panel | 3:13 | 264 views | 1.9 watch hours
+                     | **+1 subscriber** | ~265 unique viewers
+Published          : 2025 cohort | window captured 02-11-2026
+Notices badge      : **E4 INELIGIBLE** - single-line, no block notice
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : 1.3k / **0.7% - NEW CORPUS LOW** (previous floor ~0.9%) |
+                     69.4% from YouTube recommending | **only 9 engaged views from
+                     impressions** | impression-AVD 0:50 | 0.13 h
+Watch quality      : AVD 0:25 | APV 13.2% | 0:30 marker not shown
+Likes              : **80.0% - LOWEST LIKE RATIO EVER RECORDED ON THIS CHANNEL**
+                     (channel average 97.4%, previous floor 75% on short runs)
+End screen CTR     : 0.0%
+Devices            : mobile 73.2 / **computer 26.8 - NEW DESKTOP HIGH**, almost
+                     double CO-0035's 17.9
+Audience           : **no demographic panel at all** | India 71.2 / Indonesia 4.9
+Traffic            : advertising 90.2 / browse 4.2 / external 3.0 / search 1.1 /
+                     related Shorts 0.8
+External (3.0%)    : Google Search 62.5% / duckduckgo.com 12.5% / rest unlisted
+Search (1.1%)      : **"all time low live" 66.7%** / "rocksmith bass" 33.3% - the
+                     first search term in the corpus that names the band and asks
+                     for something the channel does not sell (a live show)
+Subtitles          : 98.5% watched without captions
+Old title          : All Time Low - Weightless + Rocksmith/hashtag tail
+Old tags           : **8 tags / 70 chars. BAND NAME AND SONG TITLE BOTH ABSENT**
+                     (mavomusic, mavomusicyt, kick, kickstreaming, kickcommunity,
+                     kickpartner, atl). Seven of the eight are channel branding.
+Old pin            : the 4,000-character funding wall. No artist comment.
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN.** Hopeless Records. Second All Time Low
+                     upload, second GBP 0.00.
+
+*** THE TWO ENDS OF THE SAME ARGUMENT, IN ONE BATCH ***
+
+  CO-0037   CTR 0.7%   GBP 0.00
+  CO-0038   CTR 0.9%   GBP 0.00, on 3k impressions - the most of the three
+
+  One video could not get shown, the other was shown three thousand times and
+  still earned nothing. Reach and eligibility remain independent variables. This
+  is the cleanest demonstration the register has: two opposite CTR failures, the
+  same revenue.
+
+*** THE LIKE RATIO BREAK IS WORTH NOTING, NOT WORRYING ABOUT ***
+
+  80.0% is the lowest on record, but the sample is five ratings on 264 views of
+  bought traffic. It is recorded because the register is an instrument, not
+  because it means the video is disliked. The one signal that is real is the
+  search term - people looking for "all time low live" landed on a play along and
+  left. That is a title-clarity finding, and the new title names the band, the
+  song and the chorus in one line.
+
+INTERNAL NOTE
+  All Time Low is capped at two uploads (CO-0031, CO-0037). Hopeless Records
+  claims the catalogue and neither video has earned a penny.
+--------------------------------------------------------------------------------
+
+--- MR-0038 | CO-0038 | The Cult - She Sells Sanctuary -------------------------
+Video ID           : captured in the Details panel | 4:08 | 367 views | +2 subs
+Published          : **2022 (the old shell)** | premiered, peak 3 concurrent |
+                     Engagement window opens 1 Oct 2022, "first 2 years 111 days"
+                     marker - so this is NOT a 2025 upload like its siblings
+Notices badge      : **E4 INELIGIBLE** - single-line, no block notice
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : **3k / 0.9% - the most impressions of the three audits** |
+                     89.3% from YouTube recommending | 26 engaged views |
+                     impression-AVD 0:41
+Watch quality      : AVD **0:23** | APV **9.3%** | 47% still watching at 0:30 -
+                     "typical"
+Likes              : not readable - the Engagement panel is contaminated (below)
+End screen CTR     : 0.0%
+Devices            : mobile 87.0 / computer 9.4 / **TV 2.6** / tablet 1.0 - the
+                     only TV share in the corpus
+Audience           : **Male 100% / 25-34 100%** - a single-bucket panel from 367
+                     views. Record it, do not model it. | India 67.3 / Indonesia 15.3
+Traffic            : advertising 87.2 / browse 4.1 / suggested 4.1 / external 2.2 /
+                     direct or unknown 1.6
+External (2.2%)    : Google Search 25.0% / bing.com 12.5%
+Content suggesting : **fully scattered** - five channels at 6.7% each: Infected /
+                     Stone Sour - Tired / I Tested the Top Three $200 Guitars /
+                     HE's NEVER heard AC/DC - Thunderstruck / Beasté Blanca - RUN
+                     FOR YOUR LIFE. Combined 4.1% of traffic, no theme.
+Comments           : **first genuine viewer comment of the batch** - @xendox, "Love
+                     this song, I can never seem to get it loud enough", 1 like,
+                     answered by MAVO
+Old title          : The Cult - She Sells Sanctuary + Rocksmith/hashtag tail
+Old tags           : **8 tags / 74 chars. "she sells sanctuary" ABSENT. Band name
+                     appears only as the run-together "thecult".**
+Old pin            : the 4,000-character funding wall. No artist comment.
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN.** Beggars Banquet / Warner. First The
+                     Cult upload on the channel.
+
+⚠️ CAPTURE WARNING - DO NOT TRUST THE ENGAGEMENT PANEL
+  The `_03 - Engagement` screenshot in this folder renders the **Motionless In
+  White "Another Life"** player (3:44, APV 41.1%, 100.0% likes, 5.7 watch hours).
+  That is CO-0033's data sitting under CO-0038's header - a stale overlay in the
+  channel's own Studio view. Only the Overview and Reach panels belong to this
+  video. Every figure above is taken from those two.
+
+*** THE OLD 2022 SHELL ATTRACTS AND DOES NOT CONVERT - PHASE 2e EVIDENCE ***
+
+  Impressions 3,000 (best of the batch), CTR 0.9%, AVD 0:23, APV 9.3%, +2 subs.
+  It was shown more than anything else audited this week, at the longest runtime
+  in the batch, and it produced the weakest completion of the three. Premiered,
+  multi-streamed, 4:08 long, and the audience left at twenty-three seconds.
+
+  That is exactly the case for retiring the 2022 shell that Phase 2e already
+  decided: the format does not fail because nobody sees it. It fails after they
+  click. Combined with the five-in-six desktop shift, the shell is aimed at the
+  wrong viewer on the wrong screen.
+
+INTERNAL NOTE
+  First The Cult upload. Beggars Banquet is Warner-distributed, which makes this
+  the fourth Warner-family GBP 0.00 in a row (CO-0026 through the Atlantic pair,
+  now this). Nobody should be surprised.
+--------------------------------------------------------------------------------

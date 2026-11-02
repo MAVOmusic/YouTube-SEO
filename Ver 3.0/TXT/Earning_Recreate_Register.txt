@@ -423,9 +423,28 @@ RECREATE INSTRUCTION
   MR-0033 CO-0033  Motionless In White - Another Life (3rd upload)     E4
   MR-0034 CO-0034  Sabaton - Steel Commanders (4th Sabaton, 4th E4)    E4
   MR-0035 CO-0035  Billy Talent - Red Flag (Atlantic, partial block)   E4
+  MR-0036 CO-0036  Sabaton - Man of War (5th Sabaton, 5th E4)          E4
+  MR-0037 CO-0037  All Time Low - Weightless (Hopeless, 2nd ATL)       E4
+  MR-0038 CO-0038  The Cult - She Sells Sanctuary (Beggars/Warner)     E4
 
   Three failures, three different justifications, one shared cause: somebody
   registered the recording that was actually played.
+
+  SABATON: FIVE ATTEMPTS, FIVE E4s, GBP 0.00 - CLOSED PERMANENTLY
+    0036 is the song that ends the argument. It is the only Sabaton track here
+    that is not about a war, not a commission and not a cover of another writer -
+    it is an in-joke built from Manowar titles - and it returned the same flat
+    red badge. There is no shape left to test.
+
+  ALL TIME LOW: TWO ATTEMPTS, TWO E4s - CAPPED AT TWO
+    0031 was the best-clicking video on the channel and earned nothing; 0037 had
+    the worst CTR on record and earned nothing. Hopeless Records claims both.
+
+  THE CULT: ONE ATTEMPT, E4 - FIRST AND LAST FOR NOW
+    0038 tested whether a 1985 Beggars Banquet record with an eight-minute 12 inch
+    mix might sit outside the modern claim net. It does not. Also the first
+    capture where the 2022 shell out-reached everything else in the batch and
+    still converted nobody.
 
 ################################################################################
 # APPENDIX B - CHANGE LOG
@@ -470,6 +489,12 @@ RECREATE INSTRUCTION
               Another Life. Conversion fell 23.68% -> 3.94% -> 0.56% across the
               three takes of one song. Strongest duplicate evidence in the corpus;
               the one-song-one-upload rule now has a conversion curve.
+  2026-11-02  VER 4.37. Three failed candidates added: CO-0036 (Sabaton, fifth
+              attempt, GBP 0.00 - the file is now closed with five independent
+              proofs), CO-0037 (All Time Low, second attempt, GBP 0.00, capped at
+              two) and CO-0038 (The Cult, first attempt, GBP 0.00, the first 2022
+              shell audited since CO-0002). No earning row added. Total unchanged
+              at GBP 0.701 from five earners in 38 audits.
   2026-11-02  VER 4.33. Failed candidate added: CO-0032, the most-recommended video
               on the channel - 91.0% of 4.8k impressions from YouTube recommending -
               and GBP 0.00 because American Recordings claim it and block it in some

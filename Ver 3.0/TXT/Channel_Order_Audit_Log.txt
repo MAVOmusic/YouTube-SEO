@@ -4032,3 +4032,179 @@ DIVERSITY - BOTH VIDEOS
   phrase ("nights are streamed via", "a second copy runs through") rather than
   ending the line on the platform name.
 ################################################################################
+################################################################################
+CO-0036 | Sabaton - Man Of War | PLAY ALONG | audited 02-11-2026
+################################################################################
+  Video   : 3:34 | 303 views | 300 unique | 1.9 watch hours | +3 subs (0.99%)
+  Earning : **E4 INELIGIBLE, GBP 0.00.** Fifth Sabaton upload, fifth E4.
+  Bucket  : 0031 - 0040
+
+THE SONG
+  Track twelve on *Heroes*, 16 May 2014, Nuclear Blast, produced by Peter Tagtgren.
+  Written by Joakim Broden with Hannes van Dahl. The entire lyric is made of
+  Manowar song and album titles - it is the only Sabaton song that is a joke, and
+  it is played completely straight.
+
+WHAT THE PANELS SAY
+  2.1k impressions at 1.2%, 80.2% recommended, 25 engaged views, impression-AVD
+  0:37. AVD 0:22 on a 3:34 runtime, APV 10.6%. 100.0% likes - the thirteenth
+  perfect ratio. End screen 0.0%.
+
+  Traffic is 87.8% paid, and the search panel proves it: the top term is
+  **"warrock" at 20.0%**, which is the advertising keyword, not the song. 1.7% of
+  traffic arrives through search and almost none of it is looking for Sabaton.
+
+  Content suggesting is two unrelated videos at 50/50 - a drum breakdown of The
+  Kill and a reaction to El Estepario Siberiano - 0.7% of traffic combined. The
+  recommendation engine has not placed this next to any metal.
+
+  Audience has no demographic panel at all. India 63.4, Indonesia 11.9. Mobile
+  86.0.
+
+THE OLD COPY (all four surfaces)
+  Title   : band and song plus a hashtag tail.
+  Desc    : the funding wall.
+  Tags    : **10 at 103/500. "man of war" absent. "sabaton" four times, one of
+            them spelled "sabbaton"** - the worst channel-identity box in the
+            corpus, and a self-inflicted misspelling on top of a missing title.
+  Pin     : the 4,000-character wall. No artist comment.
+
+THE REWRITE
+  Title   : 56 chars. Which-question, band and song both present, verb of
+            concealment carrying the joke. New skeleton - the fourth interrogative
+            in 38 titles and the first "which" frame.
+  Desc    : 1513 chars. Opens on a one-word verdict and then justifies it - D23,
+            first use. Covers the Manowar construction, the straight-faced
+            arrangement, and why the bass part is the most physical of the four
+            Sabaton uploads. Ends on the two runtimes.
+  Tags    : 16 at 210/500. Song, album, both Manowar and Sabaton, all five members,
+            the label, the year, both formats. Zero channel identity, and the
+            misspelling is gone.
+  Pin     : 105 chars, binary comparison - Manowar or Sabaton. P17, first use.
+  GENRES  : 7 labels. Power metal primary, heavy metal documented. TRAP note: do
+            not file as comedy metal - the lyric is the joke, the arrangement is
+            not.
+
+################################################################################
+CO-0037 | All Time Low - Weightless | PLAY ALONG | audited 02-11-2026
+################################################################################
+  Video   : 3:13 | 264 views | 1.9 watch hours | **+1 sub (0.38%)**
+  Earning : **E4 INELIGIBLE, GBP 0.00.** Second All Time Low upload, second E4.
+  Bucket  : 0031 - 0040
+
+THE SONG
+  Lead single from *Nothing Personal*, 7 April 2009, Hopeless Records, produced by
+  Matt Squire, 3:18 on the record. Written by Barakat, Dawson, Gaskarth, Merrick
+  and Squire. US Bubbling Under 4, UK 100, UK Indie 8, RIAA Platinum, BPI Silver,
+  and it shipped inside Rock Band and Guitar Hero 5 in the same year.
+
+WHAT THE PANELS SAY
+  **CTR 0.7% on 1.3k impressions - the new corpus low**, under the previous floor
+  of about 0.9%. 69.4% recommended, but only **nine engaged views came from those
+  impressions**. Impression-AVD 0:50, which is high, on a click rate that is
+  almost zero: the thumbnail reads badly and the few who take it stay.
+
+  AVD 0:25, APV 13.2%. **Likes 80.0% - the lowest like ratio ever recorded here**
+  against a 97.4% channel average. Five ratings on bought traffic; logged, not
+  over-read.
+
+  **Computer 26.8% - the new desktop high**, nearly double CO-0035.
+
+  External traffic 3.0%, split Google Search 62.5 / duckduckgo 12.5. The one
+  search term that matters is **"all time low live" at 66.7%** - people want a
+  live show and landed on a play along.
+
+THE OLD COPY (all four surfaces)
+  Title   : band and song plus a hashtag tail.
+  Desc    : the funding wall.
+  Tags    : **8 at 70/500. Band name and song title BOTH absent.** Seven of the
+            eight are channel branding.
+  Pin     : the 4,000-character wall. No artist comment.
+
+THE REWRITE
+  Title   : 60 chars. Element + song + "sounds like A and says B". New skeleton -
+            starts on the arrangement rather than the band, and answers the
+            "all time low live" searcher by naming the song and the lie in it.
+  Desc    : 1520 chars. Opens by quoting the most quoted lyric and then arguing it
+            is misread - D18, first use. Uses both of the band's own statements
+            about the song, then the release facts, then the bass line's job.
+  Tags    : 16 at 212/500. Band, song, album, label, all four members, producer,
+            three scene labels, both formats, the game. Zero channel identity.
+  Pin     : 112 chars, a confession followed by the same question turned back -
+            P18, first use.
+  GENRES  : 8 labels, 6 formal. Pop punk primary, emo pop documented. TRAP note:
+            emo POP, not emo - do not file beside the 90s material.
+
+################################################################################
+CO-0038 | The Cult - She Sells Sanctuary | PLAY ALONG | audited 02-11-2026
+################################################################################
+  Video   : 4:08 | 367 views | +2 subs (0.54%) | premiered, peak 3 concurrent
+  Upload  : **2022, the old shell** - unlike every other audit in this bucket
+  Earning : **E4 INELIGIBLE, GBP 0.00.** First The Cult upload.
+  Bucket  : 0031 - 0040
+
+THE SONG
+  Single from *Love*, 17 May 1985, Beggars Banquet, produced and engineered by
+  Steve Brown - the Wham! producer the band did not want - with Mark "Spike" Stent
+  engineering. Written by Ian Astbury and Billy Duffy. Jamie Stewart played bass,
+  keyboards and strings on the record.
+
+WHAT THE PANELS SAY
+  **3,000 impressions at 0.9% - the most reach of the three audits, still GBP
+  0.00.** 89.3% recommended, 26 engaged views, impression-AVD 0:41. AVD 0:23,
+  APV 9.3%, 47% still watching at 0:30 - "typical".
+
+  Content suggesting is completely scattered: five channels at 6.7% each, covering
+  a horror short, Stone Sour, a guitar review, an AC/DC reaction and a Beasté
+  Blanca track. 4.1% of traffic, no theme. The engine has no idea what this is.
+
+  Devices: mobile 87.0, computer 9.4, **TV 2.6** - the only TV share in the corpus.
+
+  Demographics: Male 100%, 25-34 100%. A single bucket from 367 views. Recorded,
+  not modelled.
+
+  **First real viewer comment of the batch**: @xendox - "Love this song, I can
+  never seem to get it loud enough" - one like, answered by MAVO. That is the
+  first unprompted human response in three audits.
+
+CAPTURE WARNING
+  The Engagement tab in this folder renders the **Motionless In White "Another
+  Life"** player and its 3:44 retention curve. That is CO-0033's data. Only the
+  Overview and Reach panels belong to CO-0038. Nothing in this entry is taken
+  from the contaminated tab.
+
+THE OLD COPY (all four surfaces)
+  Title   : band and song plus a Rocksmith hashtag tail.
+  Desc    : the funding wall.
+  Tags    : **8 at 74/500. "she sells sanctuary" absent; the band appears only as
+            the run-together "thecult".**
+  Pin     : the 4,000-character wall. No artist comment.
+
+THE REWRITE
+  Title   : 67 chars. Band + deliberate act + the unresolved riff. New skeleton -
+            the song sits mid-sentence and the claim is about intent.
+  Desc    : 1635 chars. Opens on one observation about the arrangement - the riff
+            that never resolves - and builds from there: D17, first use. Then the
+            Steve Brown story, then what Jamie Stewart playing three instruments
+            means for the low end.
+  Tags    : 16 at 210/500. Band, song, album, both writers, both engineers, five
+            genre handles, the label, the year, both formats.
+  Pin     : 134 chars, a craft question about a song that refuses to change - P15,
+            first use.
+  GENRES  : 7 labels, 5 formal. Gothic rock primary, post-punk documented. TRAP
+            note: "80s rock" is a decade, not a genre - do not file beside the
+            hair metal.
+
+PHASE 2e EVIDENCE
+  The 2022 shell produced the most impressions in the batch and the weakest
+  completion. It does not fail at the impression; it fails at twenty-three
+  seconds. That is the third independent reason to retire it.
+
+DIVERSITY - ALL THREE VIDEOS
+  Zero collisions at 9, 8, 7 and 6-grams across 38 files with URLs counted and
+  tags excluded (tags are keyword vocabulary and are allowed to repeat - rule 5 of
+  the copy register). No 5-gram touches any of the three new files. Two title
+  drafts were discarded for shape reuse before they reached the sweep, and one
+  5-gram echo in CO-0038 ("why the low end has") was reworded after the first pass
+  collided with CO-0033.
+################################################################################
