@@ -4849,3 +4849,119 @@ THE TAG THEORY DIES HERE
   partial block on 4.1k impressions and the highest APV in the corpus. Metadata was
   never the mechanism. The claim follows the recording played.
 ################################################################################
+################################################################################
+CO-0049 | (G)I-DLE - I'm The Trend | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : Ee4bSv_yw4 | 3:28 | uploaded 03-09-2025 | 306 views | 1.9 h
+  Subs    : **+2**
+  Earning : **E4 INELIGIBLE, GBP 0.00. Single-line badge, no partial block.**
+  Bucket  : 0001 - 0100 / 0041 - 0050
+  Captured: 11 screenshots, all readable.
+
+THE SONG
+  Third digital single, 7 July 2020, Cube Entertainment, 3:25. Written by Minnie,
+  Yuqi, Soyeon and FCM Houdini, premiered as the encore of the group's online
+  concert on 5 July 2020 and dedicated to the fandom, Neverland. Also a CD-only
+  track on the DUMDi DUMDi single album. First (G)I-DLE upload on the channel.
+
+WHAT THE PANELS SAY
+  1.2k impressions at 0.8%, **80.2% recommended**, **9 engaged views**,
+  impression-AVD 0:28, 0.07 h. AVD 0:22, APV 10.9%, 20% at 0:30 "typical". Likes
+  100.0%. End screen 0.0%. Hype 290 from a single hype.
+
+  **Traffic is 92.2% YouTube advertising**, then browse 2.9, search 2.0, direct,
+  channel pages and other at 1.0 each. External and search terms both come back
+  "not enough traffic data". Content suggesting is one video at 100.0% of a 0.3%
+  slice and it is **our own CO-0002** - "What Another Life sounds like when
+  Motionless...".
+
+  Devices mobile 92.1 / computer 5.1 / tablet 1.7 / TV 1.1. 25-34 100%. India 69.6
+  / Indonesia 14.7. 97.1% non-subscriber watch time. Gender panel empty - third
+  demographic gap in 49 audits.
+
+THE OLD COPY (all four surfaces)
+  Title   : bracket emoji, band and song, then #rocksmith #bass **#gidle_tomby** -
+            the hashtag belongs to the OTHER (G)I-DLE upload.
+  Desc    : the funding wall, with a dead Discord invite (discord.gg/mavomusic).
+  Tags    : **7 at 77/500, song title absent, eight channel-identity tags** -
+            mavomusic, mavomusicyt, kickpartner, kickstreaming, kick,
+            kickcommunity, gidle, kpop. Eleventh C-11 box.
+  Comments: no pin. Four MAVO comments, all funding furniture - **plus the third
+            genuine viewer comment in the corpus**, below.
+
+THE REWRITE
+  Title   : 63 chars. "A [thing] became the [ordinal] [band] [format]". New
+            skeleton - the ordinal carries the search, the band sits at the tail.
+  Desc    : 1503 chars. Opens on catalogue position (D11, unused since 0024), then
+            the credits, then the CD-only detail, then the bass instruction.
+  Tags    : 16 at 171/500. Band, song, the parent single, four members, three genre
+            lanes, year, label, both formats.
+  Pin     : 125 chars, an anecdote prompt - name the song that made you look up a
+            band. P16.
+  GENRES  : split block. CORRECT: K-pop, Dance-pop, Pop rap, Contemporary R&B.
+
+*** THIRD GENUINE VIEWER COMMENT OF THE CORPUS ***
+  @777_Rynn, one year ago: "Ngl I think this got recommended cause I like i-dle, but
+  I'm actually hooked. Keep it up! I'll watch your other vids" - two likes, and MAVO
+  answered it twice. After CO-0038 (a compliment) and CO-0046 (a band approach),
+  this is the first comment that explains the mechanism: genre affinity served the
+  video, the format kept them. It is the only piece of audience evidence in 49
+  audits that says the play along works on a stranger.
+################################################################################
+CO-0050 | (G)I-DLE - Tomboy | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : 3HGPQc-oYP8 | 2:55 | uploaded 03-09-2025 | 322 views | 1.8 h
+  Subs    : **+2**
+  Earning : **E4 INELIGIBLE, GBP 0.00. Single-line badge, no partial block.**
+  Bucket  : 0001 - 0100 / 0041 - 0050
+  Captured: 11 screenshots, all readable.
+
+THE SONG
+  Title track of I NEVER DIE, released 14 March 2022, Cube Entertainment, 2:54.
+  Lyrics by Soyeon, music by Soyeon with Pop Time and JENCI, arrangement by the
+  same three. The group's first full-length album and first release as five after
+  Soojin's August 2021 departure. Number one on the Korean charts, five music show
+  wins, music video of the year at the year-end shows.
+
+WHAT THE PANELS SAY
+  **416 impressions at 0.7% - the smallest pool in the batch** - with the funnel
+  reporting 422 at 0.7% and **25.1% from YouTube recommending**, against 92.1% on
+  CO-0048 and 80.2% on CO-0049 that same week. **3 engaged views**, impression-AVD
+  1:20. AVD 0:20, APV 11.6%, **18% at 0:30 flagged "below typical"** - the only
+  audit in this batch the panel criticises. Likes 100.0%. End screen 0.0%.
+
+  **Traffic is 96.0% YouTube advertising - the highest advertising share recorded
+  so far.** Search 1.9 with **"rocksmith bass" 16.7% and "tomboy song" 16.7%**, the
+  cleanest intent pair in the batch. Content suggesting and external both "not
+  enough traffic data".
+
+  Devices mobile 97.3 / computer 2.1 / TV 0.7 - highest mobile and lowest desktop
+  share in the batch. **Female 38.9 / Male 61.1**, 25-34 100%. India 69.9 /
+  Indonesia 21.4. **99.2% non-subscriber watch time**, just above CO-0045's 99.0%.
+
+THE OLD COPY (all four surfaces)
+  Title   : bracket emoji, band and song, **no space before the hashtag block** -
+            "Tomboy#rocksmith".
+  Desc    : the funding wall, with the same dead Discord invite.
+  Tags    : **7 at 77/500, the identical box to CO-0049** - same eight
+            channel-identity tags, song title absent.
+  Comments: no pin, four MAVO funding comments, **zero viewer comments**.
+
+THE REWRITE
+  Title   : 64 chars. "Band + returned [state] + refused to [verb]". New skeleton,
+            band-first but not a writing frame.
+  Desc    : 1495 chars. Opens on band history - the year the member left (D07,
+            unused since 0017), then the sole-writer credit, then what the bass is
+            for.
+  Tags    : 16 at 173/500. Band, song, album, four members, three genre lanes, year,
+            label, both formats.
+  Pin     : 136 chars, a fact quiz followed by a question about the chorus. P09.
+  GENRES  : split block. CORRECT: K-pop, Pop rock, Alternative rock, Pop rap.
+
+*** THE PAIR THAT SPLITS THE RECOMMENDATION SYSTEM ***
+  Two uploads by one group, same voice, same format, same week: 80.2% recommended
+  and 9 engaged views on one, 25.1% and 3 on the other. Both GBP 0.00, both clean
+  single-line ineligible, no partial block from Cube. Whatever decides how far a
+  video is served is decided per video, not per artist - and it has nothing to do
+  with whether the video can earn.
+################################################################################

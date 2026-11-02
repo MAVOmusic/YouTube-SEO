@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.45 ACTIVE - 2026-11-02]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.46 ACTIVE - 2026-11-02]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -1840,3 +1840,52 @@ Alternative metal, Nu metal, Hard rock, Armenian metal.
 **Next:** CO-0049 + CO-0050. A folder for 0049 - (G)I-DLE - I'm The Trend (Long
 Form) is already in the bucket; 0050 is not. Read 0049 first, then wait for 0050
 to land before starting the pair.
+
+################################################################################
+VER 4.46 STATUS ENTRY | 02-11-2026 | CO-0049 + CO-0050 - THE FIRST K-POP TEST
+################################################################################
+
+**(G)I-DLE - I'm The Trend and (G)I-DLE - Tomboy. Both clean E4, no partial block,
+both GBP 0.00.** 50 audits, 6 earners, GBP 0.751, 44 of 50 at zero.
+
+*** CUBE ENTERTAINMENT IS THE FIRST LABEL THAT CLAIMS WITHOUT BLOCKING ***
+  Warner (MCR, Muse) and Sony BMG (BFMV) both return the two-line badge with the
+  partial block. Cube returns a single line: ineligible, nothing blocked. Two
+  uploads, both clean. That is a new label behaviour in the register and it is the
+  only positive eligibility signal in the last twenty audits.
+
+*** THE SAME ARTIST, TWO PRODUCTS, ONE WEEK ***
+     CO-0049   I'm The Trend   1.2k impressions   80.2% recommended   9 engaged
+     CO-0050   Tomboy          416 impressions   25.1% recommended   3 engaged
+  Same group, same voice, same play along format, uploaded in the same window. The
+  fan song was served; the number one single was not. Recommendation volume is a
+  property of the individual video's signal and nothing else in this corpus has
+  demonstrated it as cleanly.
+
+*** THE THIRD GENUINE VIEWER COMMENT, AND THE FIRST USEFUL ONE ***
+  @777_Rynn on CO-0049: "Ngl I think this got recommended cause I like i-dle, but
+  I'm actually hooked. Keep it up! I'll watch your other vids." First comment in 49
+  audits that describes the mechanism from the viewer's side: genre affinity served
+  the video, the format converted them. Two likes, answered twice by MAVO.
+
+*** TITLE CACHE BUG WORTH KNOWING: THE HASHTAG POINTED AT THE WRONG SONG ***
+  CO-0049's old title carried #gidle_tomby - the hashtag for CO-0050's song - while
+  CO-0050's own title had no space before the hashtag block. Two uploads, two
+  broken hashtag tails, and neither was visible in the analytics.
+
+**Titles:** 0049 "A thank you note to the fandom became the third (G)I-DLE single"
+(63). 0050 "(G)I-DLE returned a member short and refused to lower the volume" (64).
+Two uploads by one artist, back to back, with no shared skeleton.
+**Lengths:** 0049 desc 1503 / tags 16-171 / pin 125. 0050 desc 1495 / tags 16-173 /
+pin 136.
+**GENRES:** 0049 K-pop, Dance-pop, Pop rap, Contemporary R&B. 0050 K-pop, Pop rock,
+Alternative rock, Pop rap.
+**Gate:** n-gram sweep over 50 files clean at 8, 7, 6 and 5-grams; verify.sh green.
+Two collisions were introduced and reworded during the pass - a shared closing line
+("Recorded live in one pass on Rocksmith 2014 Remastered") and the D09-style "for the
+bass that means one instruction" left over from CO-0047. Both are now unique per
+upload, and the sweep was re-run to zero.
+
+**Next:** CO-0051 + CO-0052. They belong in `0001 - 0100 / 0051 - 0060`, which
+already exists and is empty - MAVO drops the song folders in, and no song folder is
+created by the assistant.
