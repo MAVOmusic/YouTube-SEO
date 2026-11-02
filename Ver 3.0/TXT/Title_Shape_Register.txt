@@ -112,6 +112,14 @@
   0034    article subject + commissioned + infinitive        A tank game commissioned Sabaton to write Steel Commanders
   0035    band + concealed-noun verb phrase                 Billy Talent hid a protest in the three minutes of Red Flag
           both new - no possessive, no "is", no date, no question
+  0036    which-question, band smuggles noun into song        Which Manowar songs did Sabaton smuggle into Man of War?
+          new skeleton - interrogative, but "which" + verb of concealment, not
+          the why/what/where frames already used at 0002, 0019 and 0033
+  0037    element + song + sounds like A and says B          The Weightless chorus sounds like hope and says the opposite
+          new skeleton - starts on the arrangement, not the band, and carries two
+          opposed verbs in one line
+  0038    band + left + element + state + on purpose          The Cult left the riff of She Sells Sanctuary unresolved on purpose
+          new skeleton - deliberate-act framing, song buried mid-sentence
 
 ################################################################################
 # BANNED SHAPES - the evidence
@@ -163,6 +171,14 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.37. Three rows added for CO-0036/37/38. Two drafts were
+              discarded before logging: "All Time Low wrote Weightless about not
+              wanting to grow up" reused CO-0003's "band wrote song so clause",
+              and "A Wham! producer took The Cult to She Sells Sanctuary" reused
+              CO-0034's "A [thing] commissioned [band]" article-verb shape. Both
+              were caught by reading this file first, which is what the rule is
+              for. Batch check: no possessive opener, one question in three, three
+              different verbs in the first three words (Which / The / The).
   2026-11-02  created, VER 4.29. All 28 titles rewritten with 28 distinct
               skeletons. Banned the possessive opener, the "[Song] is [Band]"
               opener and the four signature closers. Zero title n-gram

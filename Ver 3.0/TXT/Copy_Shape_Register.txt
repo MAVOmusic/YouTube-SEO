@@ -135,6 +135,9 @@
   0033    section-by-section walkthrough                   P-channel-history
   0034    the thing that is missing                       P-prediction
   0035    a question the song refuses to answer           P-second-person-challenge
+  0036    one-word verdict then the reason                P-binary-comparison
+  0037    quote a lyric line then undercut it             P-confession-then-ask
+  0038    single observation about the mix                P-craft-question
 
 ################################################################################
 # BANNED / RESTRICTED
@@ -161,6 +164,12 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.37. Three rows added for CO-0036/37/38. First use of D23,
+              D18 and D17, and first use of P17, P18 and P15 - all six were in the
+              pool and none had been drawn. Opener check against the previous
+              eight: no date-first, no question in the pin, no pin repeating the
+              description's move. The one repeated thing in this batch is the CTA
+              furniture, which is deliberate and reworded every upload.
   2026-11-02  created, VER 4.30. 29 rows logged. Date-first opener capped,
               nomination-pin default capped, "what should I play next" banned.
               24 description devices and 24 pin devices in the pool.

@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.36 ACTIVE - 2026-11-01]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.37 ACTIVE - 2026-11-02]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -1349,3 +1349,94 @@ verb phrase; desc D24 the question the song refuses to answer; pin P24 second-pe
 challenge.
 
 **Next:** CO-0036.
+
+################################################################################
+VER 4.37 STATUS ENTRY | 02-11-2026 | CO-0036 + CO-0037 + CO-0038 - THREE E4s
+################################################################################
+
+**THREE VIDEOS AUDITED IN ONE PASS, ALL E4, ALL GBP 0.00.** That is 38 long-form
+audits and still five earners at GBP 0.701 total.
+
+*** SABATON: FIVE ATTEMPTS, FIVE E4s. THE FILE IS CLOSED FOR GOOD. ***
+
+     CO-0023  Camouflage              a 1986 cover
+     CO-0024  The Hammer Has Fallen   2001 demo
+     CO-0028  Dreadnought             2022 album track
+     CO-0034  Steel Commanders        2021 game commission
+     CO-0036  Man of War              2014 bonus track / Manowar tribute
+
+  CO-0036 was the last shape worth testing - not a war song, not a cover of
+  another writer, not commissioned, a joke built out of Manowar titles - and it
+  came back the same flat red badge. Five different reasons, five different eras,
+  one answer. Do not spend another session on Sabaton.
+
+*** REACH AND ELIGIBILITY ARE STILL INDEPENDENT, AND THIS BATCH PROVES IT TWICE ***
+
+     CO-0037  CTR 0.7% - the new corpus LOW      GBP 0.00
+     CO-0038  CTR 0.9% on 3,000 impressions       GBP 0.00
+     CO-0036  303 views, 100.0% likes             GBP 0.00
+
+  One video could not get shown, one was shown three thousand times, one was
+  liked by everybody who watched. Nothing paid.
+
+*** NEW CORPUS LOWS AND HIGHS ***
+
+  CO-0037 CTR **0.7%** - under the previous floor of about 0.9%.
+  CO-0037 likes **80.0%** - the lowest like ratio ever recorded here, against a
+  97.4% channel average. Five ratings on bought traffic; logged, not over-read.
+  CO-0037 computer **26.8%** - the new desktop high, nearly double CO-0035.
+
+*** DESKTOP SHIFT IS NOW FIVE IN SIX ***
+
+     CO-0031 15.9 / CO-0032 19.7 / CO-0033 7.0 / CO-0035 17.9 / CO-0037 26.8 /
+     CO-0038 9.4 - against a mobile 85-95% paid core.
+
+*** THE 2022 SHELL FAILS AFTER THE CLICK, NOT BEFORE ***
+
+  CO-0038 is a 2022 upload (Engagement window opens 1 Oct 2022, premiered, peak 3
+  concurrent) and the only old-shell video audited in this bucket. It drew **the
+  most impressions of the three - 3,000 - and the weakest completion: AVD 0:23,
+  APV 9.3%, 47% still watching at 0:30.** Premiered, multistreamed, 4:08 long.
+  It does not fail at the impression, it fails at twenty-three seconds. Third
+  independent reason to retire the shell in Phase 2e.
+
+*** CAPTURE WARNING - STALE OVERLAY IN STUDIO ***
+
+  CO-0038's `_03 - Engagement` screenshot renders the **Motionless In White
+  "Another Life"** player, its 3:44 retention curve, APV 41.1% and 100.0% likes -
+  i.e. CO-0033's data under CO-0038's header. Only the Overview and Reach panels
+  belong to that video. **First time this has been seen: check the header of every
+  panel before reading a figure from it.**
+
+*** A REAL HUMAN COMMENT, FOR THE FIRST TIME IN THE BATCH ***
+
+  @xendox on CO-0038: "Love this song, I can never seem to get it loud enough",
+  one like, answered by MAVO. Still no pinned artist comment anywhere - the
+  standing rule (a real artist comment outranks the copy's pin) has not had a
+  single opportunity to be applied.
+
+*** OLD TAG BOXES, C-11 AGAIN AND WORSE ***
+
+  CO-0036  10 tags / 103 chars - "man of war" ABSENT, "sabaton" four times
+           including the self-inflicted misspelling "sabbaton". Worst box yet.
+  CO-0037   8 tags /  70 chars - band name AND song title both absent, seven of
+           the eight are channel branding.
+  CO-0038   8 tags /  74 chars - "she sells sanctuary" absent, band only as
+           "thecult". That is now three run-together artist tags in a row
+           (billytalent, thecult) and it is the single most common defect.
+
+**New shapes:** CO-0036 title = which-question with a verb of concealment; desc D23
+one-word verdict; pin P17 binary comparison. CO-0037 title = element + song +
+"sounds like A and says B"; desc D18 quote a lyric then undercut it; pin P18
+confession then ask. CO-0038 title = band + deliberate act + the unresolved riff;
+desc D17 single observation about the mix; pin P15 craft question.
+
+**Two title drafts were discarded for shape reuse before they reached the sweep** -
+"All Time Low wrote Weightless about..." reused CO-0003, "A Wham! producer took
+The Cult..." reused CO-0034's article-verb shape. The register caught both. That is
+the rule working.
+
+**Sweep:** 38 files, URLs counted, tags excluded (keyword vocabulary may repeat).
+Zero collisions at 9, 8, 7 and 6-grams. No 5-gram touches the three new files.
+
+**Next:** CO-0039.
