@@ -154,6 +154,8 @@
   0048    one-word verdict, then the reason                P-correction-invite
   0049    catalogue position, third single, no title status  P-anecdote-prompt
   0050    band history, the year the member left            P-fact-quiz
+  0051    track position inside a self-released record       P-count-request
+  0052    track position, then the label that signed them    P-rating-scale
 
 ################################################################################
 # GENRE BLOCK - SPLIT INTO TWO ELEMENTS (VER 4.38, MAVO 02-11-2026)
@@ -204,6 +206,13 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.47. Rows added for CO-0051 and CO-0052. D13 track position
+              returns on both - twice in one pair, which is logged rather than
+              excused; the second half of each description diverges completely (a
+              producer and release context on 0051, a label history and the guest
+              spot on 0052). P20 count request returns after a long absence and P22
+              rating scale returns after twenty audits. No date-first opener, no
+              nomination pin, and neither pin repeats its description's move.
   2026-11-02  VER 4.46. Rows added for CO-0049 and CO-0050. D11 catalogue position
               returns after twenty-five videos (last used 0024) and D07 band history
               after thirty-three (last used 0017), both well outside the spacing
