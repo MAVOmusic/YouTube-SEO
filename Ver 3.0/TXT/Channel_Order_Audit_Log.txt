@@ -3046,3 +3046,43 @@ FINDINGS CARRIED INTO THE CONTEXT BLOCK
   3. First appearance of the United States in a top-geographies panel.
 
 ################################################################################
+
+################################################################################
+CO-0022 | Avril Lavigne - Together | 2:57 | *** FIRST EARNING LONG FORM ***
+################################################################################
+
+FOLDER   : _0001 Long Form / 0021 - 0030 / 0022 - Avril Lavigne - Together
+           (Long Form)
+CAPTURED : 11 screenshots, all readable.
+
+HEADLINE: GBP 0.04. The Notices panel is EMPTY - no claim, no block. E1
+EARNING-NO-CLAIM, the first in the register. Twenty-one videos at GBP 0.00 and
+this one, a 2004 bonus track, pays. Full analysis in MR-0022.
+
+OLD COPY
+  Title   : broken "[]" glyph, #rocksmith #bass #avrillavigne.
+  Desc    : the 2022 shell.
+  Tags    : **7 tags at 72/500.** Only "avril" is music-related. Not the full
+            artist name, not the song title, not the album, not the year.
+  Pin     : the "[IMPORTANT INFORMATION]" support wall.
+
+NEW COPY
+  Title   : 75 chars. Artist, song, the fact it was a bonus track, the bass.
+  Desc    : 1077 chars. The Under My Skin sessions, Kreviazuk, the fact it was
+            never a single, then what the bass actually does - root through the
+            verses, one short walk into each chorus, four times in the whole song.
+  Tags    : 15 at 223/500. Full artist name, song, both orderings, album,
+            co-writer, two genre lanes, platform family, year.
+  Pin     : 142 chars. Deluxe-edition question - what is the best song your
+            favourite band buried.
+  GENRES  : 7 labels. Pop rock primary. Flags "female-fronted rock" as a real
+            discovery category, the only song in the corpus that fits it.
+
+DISCORD BOOST DECISION (MAVO, 02-11-2026)
+  "Discord boost can stay as long as it has unique catch line"
+  Ruling: the boost ask STAYS in every file, inside the Discord CTA line, and
+  every file must carry its own catch line worded differently from all others.
+  The diversity harness already enforces this by measurement - zero shared 6-word
+  runs across 22 descriptions, which covers the CTA block.
+
+################################################################################
