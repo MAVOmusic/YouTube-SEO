@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.31 ACTIVE - 2026-11-01]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.32 ACTIVE - 2026-11-01]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -326,7 +326,7 @@ The user will provide several `.txt` files `Recovery_Scripts.txt`, `Recovery_Dat
 
 ### 🎯 CURRENT STATUS (2026-11-01, VER 4.7):
 
-- **VER 4.31 - FULL SWEEP OF CO-0001 TO CO-0017 BEFORE SONG 18: TEN CORRECTIONS FOUND.** MAVO asked for a repetition and correction check across the seventeen delivered sets. Measured, not estimated. **`TXT/Copy_Corrections_Register.txt` written** with C-01 to C-10. **Worst findings: 14 of 17 videos have NO Kick link at all** (CO-0003 to CO-0016), and nine of those lead with Twitch - directly contrary to the new Kick-first rule. **"🟣 [X] blocks run live on Twitch" ran nine consecutive times with one adjective swapped.** **The provenance sentence "The chart was built by another player rather than by me... Said plainly every time" ran word-for-word in five consecutive descriptions** - the most spam-shaped repeat in the corpus, and it announces itself. **The pin "Which X next? 👇🎸" ran ten times out of twelve**, with CO-0008 and CO-0009 identical. Plus the footer bullet stack on eleven videos, and **CO-0016's title omits "Lonely Day" entirely** on a video whose demand is the song name. Nothing applied yet - register only, pending MAVO's go-ahead.
+- **VER 4.32 - FULL SWEEP OF CO-0001 TO CO-0017 BEFORE SONG 18: TEN CORRECTIONS FOUND.** MAVO asked for a repetition and correction check across the seventeen delivered sets. Measured, not estimated. **`TXT/Copy_Corrections_Register.txt` written** with C-01 to C-10. **Worst findings: 14 of 17 videos have NO Kick link at all** (CO-0003 to CO-0016), and nine of those lead with Twitch - directly contrary to the new Kick-first rule. **"🟣 [X] blocks run live on Twitch" ran nine consecutive times with one adjective swapped.** **The provenance sentence "The chart was built by another player rather than by me... Said plainly every time" ran word-for-word in five consecutive descriptions** - the most spam-shaped repeat in the corpus, and it announces itself. **The pin "Which X next? 👇🎸" ran ten times out of twelve**, with CO-0008 and CO-0009 identical. Plus the footer bullet stack on eleven videos, and **CO-0016's title omits "Lonely Day" entirely** on a video whose demand is the song name. Nothing applied yet - register only, pending MAVO's go-ahead.
 - **VER 4.15 - KICK PROMOTED ABOVE TWITCH + THE ANTI-TEMPLATE RULE + CO-0017 COPY REISSUED:** MAVO corrected two things. **(1) Kick outranks Twitch:** *"Kick is my main revenue base and where most people are. Twitch is just multistream tool for now."* My CO-0017 CTA led with Twitch and gave Kick no presence at all - wrong way round, and the old descriptions did the same while the pinned comments told viewers not to subscribe on Twitch. **New order: Kick, then Twitch as an honest mirror, then Discord.** **(2) No templates, no word-for-word repeats** - every surface rewritten fresh each video, because repetition trips spam detection. Both are now standing rules in the context block. **CO-0017 copy reissued with a rebuilt CTA:** 3 URLs (kick / twitch / discord), all allowlisted, zero duplicates, zero 9-gram collisions. Title, description body, tags and pin re-pasted for MAVO because the first paste failed on his end.
 - **VER 4.14 - CO-0017 MCR + THE FIRST PROOF THE REWRITE DID SOMETHING MECHANICAL + THE ROBOTIC FOOTER RETIRED:** 12 panels read (`iN9k02kmfwK`, 13-03-2025, 5:59, **3,140 views**, 21.2 h, **+19 subs**, GBP 0.00, E4). **97.6% likes vs 97.4% channel - the only metric above par.** **THE FINDING: the "content suggesting this video" panel is his OWN RETITLED VIDEOS** - `Underneath Cute Without the E...` 66.7% (CO-0012) and `The saddest System Of A Down song...` 33.3% (CO-0016). **The new copy is live and the videos are chaining inside YouTube's suggestion lane** - the first mechanical evidence this project has produced. Also: **Indonesia 92.7% with NO India at all** (first capture in the corpus where India is absent - the campaign targeting changed country, not just shape), **female 38.6% the highest in the corpus**, **APV 6.8% the lowest in the corpus**, **46.4% from YouTube recommending the highest of the 2025 set**, and an odd search term `mcr acoustic` (4.6%) - someone expected an unplugged version and this channel has none. **Paid conversion 0.61%, the lowest of the five-point cohort (0.61/0.66/0.71/0.78/0.79).** **Tags 7 at 70/500 - the emptiest box in seventeen audits, 430 characters unused**, sixth consecutive box naming the platform or a person and never the instrument. Pin byte-identical a **fifth** time. **NEW MAVO INSTRUCTION ACTED ON: the three-line Genres/Format/Played-on-the-Thunderbird footer is RETIRED** as the most catchable robotic pattern in the template - replaced with one ordinary sentence carrying the same keywords. **CTA rewritten fresh (279 chars, 2 links, boost folded into the Discord line), pin given a new shape.** **E4 26 -> 27.**
 - **VER 4.13 - THE DUPLICATED DISCORD LINK, AND A GUARD SO IT CANNOT RECUR:** MAVO spotted that the CO-0016 copy printed `discord.gg/ESGsGkN4j2` **twice** - once as the request invite, once at the end of the new boost line. **He is right and it was my error.** It reads as a broken template, wastes a CTA line, and duplicated outbound links are what YouTube's spam guidance is aimed at. **FIXED to one line with one link (109 chars):** `Request the next one, or boost the server to bring back discord.gg/mavomusic: <invite>`. **`diversity_guard.py` now FAILS any description containing the same URL more than once** (normalised for case and trailing slash) - the old guard capped at 3 URLs and allowlisted them but never checked for duplicates, which is exactly how the mistake cleared every gate last turn. CO-0016's audit block corrected in place.
@@ -507,7 +507,7 @@ The user will provide several `.txt` files `Recovery_Scripts.txt`, `Recovery_Dat
 - **Next Step:** Studio screenshot audit batch **0048–0050** (Kinks · Slipknot · Hed P.E.; 0046–0047 complete; matched 0889 & 0914 in scope) — Section-20 scrubs and SF link-strips are already in place; full bespoke overhaul + golden-tag discovery during the audit, then `bash verify.sh` two-tier gate, history regen, container re-serialization, ZIP rotation. Then recheck 0051/0052. 0053 audited (shelf breakthrough, 1,042/48h; LF set pending). 0054 screenshot results queued (~24h or on performance).
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | FULL COPY REWRITE OF CO-0001 TO CO-0017
+VER 4.32 STATUS ENTRY | 02-11-2026 | FULL COPY REWRITE OF CO-0001 TO CO-0017
 ################################################################################
 
 **Trigger:** MAVO, 01-11-2026: *"Rewrite all, fix all issues then add it to every
@@ -539,7 +539,7 @@ stays or cut it.
 **Next:** CO-0018, oldest-upload order resumes.
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | CO-0018 + GENRE BLOCK RULE
+VER 4.32 STATUS ENTRY | 02-11-2026 | CO-0018 + GENRE BLOCK RULE
 ################################################################################
 
 **New standing rule (MAVO, 02-11-2026):** every `_03 - Copy.md` now carries a
@@ -576,7 +576,7 @@ audio; the block follows the composition.
 **Next:** CO-0019 in oldest-upload order.
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | GENRE BACKFILL 1-17 + CO-0019
+VER 4.32 STATUS ENTRY | 02-11-2026 | GENRE BACKFILL 1-17 + CO-0019
 ################################################################################
 
 **Genre block backfilled.** MAVO: *"Have all the genre from 1-17 because you
@@ -608,7 +608,7 @@ runs. 0 shared pin 4-word runs. 0 shared title 4-word runs.
 **Next:** CO-0020, then the bucket closes and the audit moves to 0021 - 0030.
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | CO-0020 + NATIVE-SCRIPT TAG RULE
+VER 4.32 STATUS ENTRY | 02-11-2026 | CO-0020 + NATIVE-SCRIPT TAG RULE
 ################################################################################
 
 **New standing rule (from MR-0020, evidence-backed):** where an artist's name has a
@@ -640,7 +640,7 @@ the corpus and was deliberately preserved and extended rather than replaced.
 **Next:** CO-0021 - new bucket, 0021 - 0030.
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | CO-0021 + THE "LIVE" INTENT FINDING
+VER 4.32 STATUS ENTRY | 02-11-2026 | CO-0021 + THE "LIVE" INTENT FINDING
 ################################################################################
 
 **CO-0021 delivered:** Elvis Presley - Jailhouse Rock, 2:28. Title 66 chars,
@@ -672,7 +672,7 @@ runtimes without saying so.
 **Next:** CO-0022.
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | CO-0022 - THE FIRST EARNING LONG FORM
+VER 4.32 STATUS ENTRY | 02-11-2026 | CO-0022 - THE FIRST EARNING LONG FORM
 ################################################################################
 
 **DISCORD BOOST - DECIDED, CLOSED.** MAVO, 02-11-2026: *"Discord boost can stay as
@@ -713,7 +713,7 @@ full length), recommendation share 83.0% (highest).
 **Next:** CO-0023.
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | CO-0023 + EARNING RECREATE REGISTER
+VER 4.32 STATUS ENTRY | 02-11-2026 | CO-0023 + EARNING RECREATE REGISTER
 ################################################################################
 
 **NEW FILE - READ THIS BEFORE ANY RECREATION WORK:**
@@ -749,14 +749,14 @@ subscriber share recorded (previous best 8.5%).
 **Next:** CO-0024.
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | CO-0024 + RIGHTS TEST REWRITTEN
+VER 4.32 STATUS ENTRY | 02-11-2026 | CO-0024 + RIGHTS TEST REWRITTEN
 ################################################################################
 
 **CO-0024 delivered:** Sabaton - The Hammer Has Fallen, 4:54. Title 71 chars,
 description 1102, tags 16 at 230/500, pin 132, seven genres.
 
 **THE REGISTER HAS BEEN REWRITTEN.** `TXT/Earning_Recreate_Register.txt` is now
-VER 4.31 and its central test has changed. Reason: CO-0024 was a textbook Tier B
+VER 4.32 and its central test has changed. Reason: CO-0024 was a textbook Tier B
 deep cut - never a single, never on a studio album, released only on a 2001 demo
 compilation and the 2007 reissue of the same recordings - and it came back
 **E4 INELIGIBLE at GBP 0.00.** Nuclear Blast registered the Metalizer reissue as
@@ -794,7 +794,7 @@ the now-familiar "live" intent.
 **Next:** CO-0025.
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | CO-0025 + TIER A CORRECTED
+VER 4.32 STATUS ENTRY | 02-11-2026 | CO-0025 + TIER A CORRECTED
 ################################################################################
 
 **CO-0025 delivered:** Aephanemer - Old French Song, 2:25. Title 78 chars,
@@ -843,7 +843,7 @@ taken the whole panel.
 **Next:** CO-0026.
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | CO-0026 + THE SUPPLY VACUUM
+VER 4.32 STATUS ENTRY | 02-11-2026 | CO-0026 + THE SUPPLY VACUUM
 ################################################################################
 
 **MAVO DECISION - PIN THE ARTIST'S COMMENT, NOT A QUESTION (CO-0025).** MAVO,
@@ -890,7 +890,7 @@ and the sixth perfect like ratio.
 **Next:** CO-0027.
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | CO-0027 - THE DUPLICATE-SONG PROBLEM
+VER 4.32 STATUS ENTRY | 02-11-2026 | CO-0027 - THE DUPLICATE-SONG PROBLEM
 ################################################################################
 
 **CO-0027 delivered:** Green Day - X-Kid [performance cut], 3:43. Title 64 chars,
@@ -934,7 +934,7 @@ female share 44.4% (highest).
 **Next:** CO-0028.
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | CO-0028 - SABATON, TWICE, ZERO PENCE
+VER 4.32 STATUS ENTRY | 02-11-2026 | CO-0028 - SABATON, TWICE, ZERO PENCE
 ################################################################################
 
 **CO-0028 delivered:** Sabaton - Dreadnought, bass playthrough on Rocksmith 2014,
@@ -980,7 +980,7 @@ side of the link from the start.
 **Next:** CO-0029.
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | TITLE SHAPES RESET, ALL 28
+VER 4.32 STATUS ENTRY | 02-11-2026 | TITLE SHAPES RESET, ALL 28
 ################################################################################
 
 **MAVO CAUGHT A REAL DRIFT AND WAS RIGHT.** Ten of twenty-eight titles opened with
@@ -1013,7 +1013,7 @@ Twitch line. Fixed. **All future diversity runs must compare with URLs included.
 **Next:** CO-0029.
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | CO-0029 EARNS, AND THE PROSE SHAPE RULE
+VER 4.32 STATUS ENTRY | 02-11-2026 | CO-0029 EARNS, AND THE PROSE SHAPE RULE
 ################################################################################
 
 **CO-0029 delivered:** Amaranthe - Archangel, bass playthrough, 3:13, 315 views,
@@ -1064,7 +1064,7 @@ take as spam. We have 2500+ videos, all must be unique to stay noticed."
 **Next:** CO-0030 - the last of the 0021-0030 bucket.
 
 ################################################################################
-VER 4.31 STATUS ENTRY | 02-11-2026 | CO-0030 EARNS, BUCKET CLOSED, NEW FOLDERS
+VER 4.32 STATUS ENTRY | 02-11-2026 | CO-0030 EARNS, BUCKET CLOSED, NEW FOLDERS
 ################################################################################
 
 **CO-0030 delivered:** Pendulum - Tarantula, bass playthrough, 5:09, 348 views,
@@ -1109,3 +1109,45 @@ two earners, eleven pence between them.
 parts", description D16 second-person scenario, pin P13 correction invite.
 
 **Next:** CO-0031, first of the new bucket.
+
+################################################################################
+VER 4.32 STATUS ENTRY | 02-11-2026 | CO-0031 - BEST CLICKS, NO MONEY
+################################################################################
+
+**CO-0031 delivered:** All Time Low - Dear Maria, Count Me In, bass playthrough,
+3:02, 329 views, **ZERO subscribers, GBP 0.00**. Title 63, description 1256, tags 16
+at 216/500, pin 113, eight genres. E4 - Hopeless Records claim a platinum single.
+
+*** THE BEST-CLICKING VIDEO ON THE CHANNEL EARNED NOTHING ***
+
+  CTR **2.0%** (corpus best, roughly double the 0.8-1.1% band), **76.4% of
+  impressions from YouTube recommending it**, 43 engaged views off 2.2k impressions
+  (best impression-to-view conversion in the corpus), impression-AVD **0:46**
+  (corpus high). Result: zero subs, GBP 0.00.
+
+  **Three independent proofs now that reach and earning are unrelated:**
+     CO-0016  382,306 views, 99.6% paid   -> GBP 0.00  (E4)
+     CO-0030  22.8% recommended, worst     -> GBP 0.06  (E2)
+     CO-0031  2.0% CTR, best               -> GBP 0.00  (E4)
+
+**THE ZERO-SUBSCRIBER CLUB IS THREE: CO-0024, CO-0027, CO-0031.** A demo nobody
+asked for, a duplicate upload, and a song whose audience already owns it on the
+artist's own channel. Different faults. **Same property: none gave a viewer a reason
+to expect anything else from this channel.** Everything else converts at 0.26% to
+1.14%, so this is not a conversion problem - these three were never going to convert.
+
+**A NEW KIND OF AUDIENCE PANEL.** Female 39.3% (second highest after CO-0027),
+computer 15.9% (corpus high) against mobile 80.4% (corpus low). All Time Low have a
+large female audience and a desktop habit, and the panels caught both. **First upload
+where the demographics describe a real fanbase instead of paid traffic.**
+
+**Watch quality was never the problem:** AVD 0:23, APV 13.1%, 21% at 0:30 typical,
+likes 100.0% (tenth perfect ratio).
+
+**OLD TAG BOX, C-11 again, worst yet:** 7 tags at 70 chars with "dear maria" absent,
+"all time low" absent and "pop punk" absent. Six of the seven described the channel.
+
+**New shapes logged:** title = song subject with a since-date tail (year LAST, first
+time); description D20 runtime arithmetic; pin P16 anecdote prompt.
+
+**Next:** CO-0032.

@@ -2318,3 +2318,88 @@ INTERNAL NOTE
   one more Pendulum/Knife Party test before drawing a conclusion, since a single
   upload is not a pattern.
 --------------------------------------------------------------------------------
+
+--- MR-0031 | CO-0031 | All Time Low - Dear Maria, Count Me In ---------------
+Video ID           : StflHorKxSo | 3:02 | 329 views | 2.2 watch hours
+                     | **ZERO subscribers** | 327 unique viewers
+Published          : 31-08-2025 (capture window to 01-11-2026, 426 days)
+Notices badge      : **E4 INELIGIBLE** - flat red "Ineligible to earn". No partial
+                     block flag, no sharing flag.
+Revenue            : GBP 0.00 - every panel dashed, no ad types, no CPM, no RPM
+Impressions / CTR  : 2.2k / **2.0% - the BEST click-through in the corpus**
+                     (previous best 1.4% implicit, most sit at 0.8-1.1%)
+                     **76.4% from YouTube recommending - second highest** |
+                     43 engaged views | **0:46 impression-AVD, corpus high** |
+                     0.56 h from impressions
+Watch quality      : AVD 0:23 | **APV 13.1%** | 21% at 0:30 - typical, not flagged
+Likes              : 100.0% - tenth perfect ratio in the corpus
+End screen CTR     : 0.0% | bell: zero pushes, zero views | hype 0/0
+Devices            : mobile 80.4 / **computer 15.9 - corpus high** / TV 3.4 /
+                     tablet 0.4 | **4.8% non-mobile, the most desktop-weighted video
+                     on the channel after CO-0026**
+Audience           : India 60.8 / Indonesia 14.9 | female **39.3** - second highest
+                     after CO-0027's 44.4 | age 25-34 100% | 93.6% of watch time
+                     from non-subscribers
+Traffic            : advertising 83.6 / **browse features 11.6 - corpus high** /
+                     search 2.7 / channel pages 0.9 / external 0.9 / other 0.3
+External (0.9%)    : **Google Search 100.0 - corpus high for external share**
+Content suggesting : not enough traffic
+Search terms (2.7%): **count me in 33.3** / all time low dear maria count me in
+                     11.1 / dear maria count me in 11.1 / dear maria count me in
+                     bass 11.1 / rocksmith 2014 bass 11.1
+Old title          : "All Time Low - Dear Maria, Count Me In #rocksmith #bass
+                     #alltimelow" - 67 chars, and "alltimelow" as a hashtag is a
+                     string nobody types
+Old tags           : **7 tags / 70 chars. "dear maria" absent, "all time low"
+                     absent, "pop punk" absent.** The box held mavomusic twice,
+                     mavomusicyt, kick, kickstreaming, kickcommunity, kickpartner -
+                     and "atl". Seven tags, six of them channel identity, and the
+                     only music word is an abbreviation.
+Old pin            : the 4,000-character funding wall.
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN.** Hopeless Records is a Content-ID
+                     participant and this is one of the most licensed pop punk
+                     songs of its decade - RIAA Platinum, MTV rotation, and it has
+                     been on every compilation since. Of course it is registered.
+
+*** THE BEST-CLICKING VIDEO ON THE CHANNEL EARNED NOTHING ***
+
+  CTR 2.0% is the corpus best, nearly double the 0.8-1.1% band where most uploads
+  sit. 76.4% of its impressions came from YouTube recommending it - second only to
+  ordinary organic behaviour and far above the paid-cohort norm. 43 engaged views
+  off 2.2k impressions is the best conversion from impression to view anywhere in
+  the corpus.
+
+  Outcome: **zero subscribers and GBP 0.00.** 329 views on an E4.
+
+  This is now the third independent proof that reach and earning are unrelated.
+  CO-0016: 382,306 views, GBP 0.00. CO-0030: worst recommendation rate in the
+  corpus, still paid. CO-0031: best click-through in the corpus, GBP 0.00.
+
+  **And the zero subscriber figure is the sharper fact.** The corpus has 31 videos
+  and only three have gained nobody: CO-0024 (Sabaton demo), CO-0027 (the duplicate)
+  and now CO-0031. Three videos with three different faults - an unrequested demo,
+  a duplicate upload, and a song whose audience already owns it elsewhere. The
+  common factor is not the copy and not the thumbnail. It is that none of them gave
+  a viewer a reason to expect anything else from the channel.
+
+WATCH QUALITY
+  AVD 0:23 on 3:02, APV 13.1%, both ordinary-to-good. 21% still present at 0:30,
+  marked typical. **The 0:46 impression-AVD is the corpus high** - the people who
+  were shown this thumbnail and clicked stayed for nearly three quarters of a
+  minute, which is what a genuinely good thumbnail plus a genuinely wanted song
+  looks like. It is all wasted on an ineligible video.
+
+DEVICE AND AUDIENCE SHIFT
+  Computer share 15.9% is a corpus high and mobile 80.4% is a corpus low. Female
+  share 39.3% is the second highest. All Time Low is a band with a large female
+  audience and a desktop-listening habit, and the analytics caught both. **This is
+  the first upload where the demographic panel has looked like the artist rather
+  than like paid traffic.**
+
+INTERNAL NOTE
+  Do not rebuild. Hopeless will claim anything from this catalogue, and this is
+  their most licensed song. If pop punk revenue is ever wanted, CO-0011 and CO-0022
+  remain the only proven routes - an unclaimed arrangement and an unclaimed bonus
+  track. A platinum single is the exact opposite of that.
+--------------------------------------------------------------------------------
