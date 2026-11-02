@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.46 ACTIVE - 2026-11-02]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.47 ACTIVE - 2026-11-02]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -1889,3 +1889,47 @@ upload, and the sweep was re-run to zero.
 **Next:** CO-0051 + CO-0052. They belong in `0001 - 0100 / 0051 - 0060`, which
 already exists and is empty - MAVO drops the song folders in, and no song folder is
 created by the assistant.
+
+################################################################################
+VER 4.47 STATUS ENTRY | 02-11-2026 | CO-0051 + CO-0052 - THE CLICK RECORD
+################################################################################
+
+**(Hed) P.E. - Watch It Burn and (Hed) P.E. - I Got You. GBP 0.00 each.** 52 audits,
+6 earners, GBP 0.751, 46 of 52 at zero.
+
+*** THE TWO BEST CLICK RATES IN THE WHOLE REGISTER ARE THE SAME ARTIST ***
+     CO-0051  Watch It Burn   2.5k impressions   **1.4%**   34 engaged
+     CO-0052  I Got You       2.6k impressions   **2.2%**   57 engaged - the highest
+                                                               absolute count recorded
+  The channel's recent run sits between 0.4% (CO-0045) and 1.2% (CO-0047). Both of
+  these thumbs show a person instead of a chart. This is now the strongest single
+  piece of evidence for the Phase 2e thumbnail work, and neither video earned a
+  penny, which keeps it a presentation problem and not a money problem.
+
+*** THE LIKE RATIO BREAKS AFTER 51 PERFECT AUDITS ***
+  CO-0052 returns **66.7%** against a 97.4% channel average - the only negative
+  signal in 52 audits, on the most political song in the catalogue (a mob-chant
+  chorus, an explicit bridge about the rich). Logged without interpretation. Every
+  other upload including all six earners sits at 100.0%.
+
+*** THE REWRITE PROGRAMME IS NOW FEEDING ITSELF ***
+  CO-0052's content-suggesting panel served **our own CO-0048 title**, written the
+  previous day: "Hypnotize spent three minutes refusing to expl...". First measurable
+  internal recommendation loop in the project.
+
+*** JIVE SPLITS FROM CUBE AND WARNER ***
+  Jive (2000 master) claims and blocks; Cube claims without blocking; Warner and
+  Sony BMG claim and block. Three behaviours across four labels, all at GBP 0.00.
+
+**Titles:** 0051 "Two decades in, (Hed) P.E. made Watch It Burn a warning" (55).
+0052 "(Hed) P.E. turned I Got You into a chant and never let go" (57).
+**Lengths:** 0051 desc 1506 / tags 16-206 / pin 113. 0052 desc 1398 / tags 16-191 /
+pin 115.
+**GENRES:** 0051 Nu metal, Rap metal, Rap rock, Hardcore punk. 0052 Nu metal, Rap
+metal, Rap rock, Punk rock, Hardcore punk.
+**Folder trap:** `0052 - (HED) P.E. - I  Got You` has a **double space** and mixed
+capitals; the old title and the master disagree on the band's capitalisation.
+**Gate:** n-gram sweep over 52 files clean at 8, 7, 6 and 5-grams after rewording
+three boost-line collisions and one repeated pin phrase. verify.sh green.
+
+**Next:** CO-0053 + CO-0054. The 0051 - 0060 bucket is live; MAVO drops the folders in.

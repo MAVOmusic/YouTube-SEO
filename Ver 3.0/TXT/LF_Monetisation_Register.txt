@@ -3569,3 +3569,104 @@ INTERNAL NOTE
   channel's own curve. Paid traffic is MAVO's own and it is currently the only
   traffic this catalogue has.
 --------------------------------------------------------------------------------
+--- MR-0051 | CO-0051 | (Hed) P.E. - Watch It Burn -------------------------------
+Video ID           : _CdFBbvv5As | 2:54 | uploaded 04-09-2025 | 278 views
+                     | 1.6 watch hours | **+2 subscribers** | 273 unique
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00 - CPM dashed, RPM dashed, every revenue panel empty
+Impressions / CTR  : **2.5k impressions at 1.4% - the best CTR of the last twenty
+                     audits before CO-0052** | **89.6% from YouTube recommending** |
+                     **34 engaged views** | impression-AVD 0:23 | 0.23 h
+Watch quality      : AVD 0:21 | APV 12.2% | 23% at 0:30 "typical"
+Likes              : **100.0%** against 97.4% channel average
+End screen CTR     : **0.0%** | hype 0/0 - no hypes at all | no remixes
+Traffic            : advertising 83.1 / **browse 13.0** / search 2.2 / direct 0.7 /
+                     **end screens 0.7** / other 0.4
+External           : **"not enough traffic data"**
+Search (2.2%)      : **"hed pe" 16.7%** - the band name alone, spelled the way the
+                     folder spells it, and it is the first correct-intent search term
+                     of the last five audits
+Content suggesting : **"not enough traffic data"**
+Devices            : mobile 87.7 / computer 12.4 - no TV or tablet share recorded
+Audience           : **"not enough demographic data"** for gender and age | India
+                     68.4 / Indonesia 7.6 / **United States 3.6** | 96.1% of watch
+                     time from non-subscribers | 100.0% no captions
+Old title          : "[guitar emoji] (Hed) P.E. - Watch It Burn #rocksmith #bass
+                     #hedpe" - band and song both correct, hashtag tail
+Old tags           : **7 / 81 chars. Song title ABSENT. Eight channel-identity tags
+                     in a row: mavomusic, mavomusicyt, kickpartner, kickstreaming,
+                     kick, kickcommunity, hedplanetearth** - twelfth C-11 box
+Old pin            : no pin. Four MAVO comments, all funding furniture, zero replies
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Self-produced release. First
+                     (Hed) P.E. upload on the channel.
+
+*** 1.4% AND 2.2% - THE BEST CLICK RATES IN TWENTY AUDITS, SAME ARTIST ***
+  CO-0051 sits at 1.4% on 2.5k impressions and CO-0052 at 2.2% on 2.6k. The
+  channel's recent run has been 0.4% to 1.2%. Both of these are (Hed) P.E. and both
+  thumbs put a human being and a face on screen rather than a chart screenshot. This
+  is the strongest evidence in 52 audits for the Phase 2e thumbnail argument, and it
+  arrives one day after CO-0050 set the smallest impression pool in the batch.
+
+INTERNAL NOTE
+  No hypes at all. 34 engaged views from 2.5k impressions is a conversion rate of
+  1.36%, against 44 from 4.8k on CO-0046 (0.92%) and 30 from 4.1k on CO-0048
+  (0.73%) - the best conversion of the three, on a video that earned GBP 0.00.
+--------------------------------------------------------------------------------
+--- MR-0052 | CO-0052 | (Hed) P.E. - I Got You ---------------------------------
+Video ID           : qZqDz9Yr2Ss | 3:44 | uploaded 04-09-2025 | 307 views
+                     | 2.3 watch hours | **+2 subscribers** | 302 unique
+Notices badge      : **E4 INELIGIBLE + PARTIALLY BLOCKED** - two-line badge
+Revenue            : GBP 0.00 - every revenue panel dashed
+Impressions / CTR  : **2.6k impressions at 2.2% - the best CTR in the register** |
+                     **88.7% from YouTube recommending** | **57 engaged views - the
+                     highest absolute count in the corpus** | impression-AVD 0:32 |
+                     0.52 h
+Watch quality      : AVD 0:27 | APV 12.2% | 23% at 0:30 "typical"
+Likes              : **66.7% - THE FIRST NON-PERFECT LIKE RATIO IN 52 AUDITS**,
+                     against a 97.4% channel average. Two votes out of three.
+End screen CTR     : **0.0%** | hype 0/0 | no remixes
+Traffic            : **advertising 75.9 - the lowest advertising share since
+                     CO-0041** / browse 17.3 / search 4.9 / external 0.7 / related
+                     Shorts 0.7 / other 0.6
+External (0.7%)    : proportion recorded, report **"not enough traffic data"**
+Search (4.9%)      : **"hed pe" 6.7%** - band name only, correct spelling
+Content suggesting : **"Hypnotize spent three minutes refusing to expl..." at 100.0%
+                     of a 0.3% slice - and that is OUR OWN CO-0048 TITLE, written
+                     yesterday and already being suggested inside the channel**
+Devices            : mobile 83.3 / computer 13.7 / TV 2.3 / tablet 0.6
+Audience           : **"not enough demographic data"** for gender and age | India
+                     62.2 / **United States 7.2 - the highest US share of the last
+                     ten audits** / Indonesia 3.6 | 96.5% of watch time from
+                     non-subscribers | 100.0% no captions
+Old title          : "[guitar emoji] (HED) P.E. - I Got You #rocksmith #bass #hedpe"
+                     - band capitalised differently from the master, song correct
+Old tags           : **7 / 81 chars, the identical box to CO-0051** - same eight
+                     channel-identity tags, song title absent in both
+Old pin            : no pin. Four MAVO comments, all funding furniture
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, WITH PARTIAL BLOCK.** Jive Records. Second
+                     (Hed) P.E. upload.
+
+*** THE LIKE RATIO BREAKS AFTER 51 PERFECT AUDITS ***
+  66.7% against a 97.4% channel average, on a video with 307 views and 57 engaged -
+  the highest engaged count in the corpus. Every other audit in 52 sits at 100.0%.
+  This is a song whose chorus is a mob chant and whose bridge contains an explicit
+  line about the rich; the register records the number and does not speculate
+  further. **It is the only negative signal the channel has ever shown and it is on
+  the most political song in the catalogue.**
+
+*** 2.6k IMPRESSIONS AT 2.2% - THE CLICK RECORD ***
+  Second-best recommendation share in the batch at 88.7%, best CTR ever recorded,
+  most engaged views ever recorded, 0.52 h from impressions - and GBP 0.00 with a
+  partial block. Jive claims the 2000 master.
+
+INTERNAL NOTE
+  The content-suggesting panel served **our own CO-0048 title** to viewers of this
+  video. The rewrite programme is now feeding itself: a title written on 02-11-2026
+  appeared next to an upload from 2025 within a day of the copy being logged. That
+  is the first measurable internal recommendation loop in the project and it is
+  worth watching as the batch count rises.
+--------------------------------------------------------------------------------

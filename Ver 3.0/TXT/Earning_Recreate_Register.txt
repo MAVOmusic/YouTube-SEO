@@ -442,6 +442,8 @@ RECREATE INSTRUCTION
   MR-0048 CO-0048  System Of A Down - Hypnotize (3rd SOAD, American)   E4+block
   MR-0049 CO-0049  (G)I-DLE - I'm The Trend (Cube, 1st K-pop)          E4
   MR-0050 CO-0050  (G)I-DLE - Tomboy (Cube, 2nd K-pop, #1 single)      E4
+  MR-0051 CO-0051  (Hed) P.E. - Watch It Burn (self-produced, 1.4% CTR) E4
+  MR-0052 CO-0052  (Hed) P.E. - I Got You (Jive, 2.2% CTR record)      E4+block
   MR-0039 CO-0039  Sabaton - En Livstid I Krig (6th Sabaton, Swedish)  E4
   MR-0040 CO-0040  Rammstein - Amerika (2nd Rammstein, Universal)      E4
   MR-0041 CO-0041  Snoop/Wiz/Bruno - Young Wild & Free (Atlantic)      E4+block
@@ -498,6 +500,14 @@ RECREATE INSTRUCTION
     The pair also splits the recommendation system in half: 80.2% recommended on
     0049 against 25.1% on 0050, same artist, same week, same format. Neither
     earned anything. Recommendation volume is a per-video signal.
+
+  (HED) P.E.: TWO ATTEMPTS, BOTH FAILED - BUT THE BEST CLICK RATES IN THE REGISTER
+    0051 Watch It Burn (self-produced, 2020) and 0052 I Got You (Jive, 2000). Two
+    decades apart, two different rights situations, GBP 0.00 together. The pair
+    still matters: 1.4% and 2.2% CTR are the two best click rates in 52 audits, and
+    0052 converted 57 engaged views, the highest absolute count in the corpus. A
+    thumbnail and a title can be proven to work on this channel. Nothing about
+    eligibility follows from that.
 
   MANOWAR: ONE ATTEMPT, E4 + PARTIAL BLOCK
     0045 is the other half of the CO-0036 reference loop - Sabaton's Man of War is
@@ -563,6 +573,11 @@ RECREATE INSTRUCTION
               Another Life. Conversion fell 23.68% -> 3.94% -> 0.56% across the
               three takes of one song. Strongest duplicate evidence in the corpus;
               the one-song-one-upload rule now has a conversion curve.
+  2026-11-02  VER 4.47. Two failed candidates added: CO-0051 ((Hed) P.E. - Watch
+              It Burn, self-produced, clean E4) and CO-0052 ((Hed) P.E. - I Got You,
+              Jive, E4 + partial block, the best CTR and the highest engaged count
+              in the register). Total unchanged at GBP 0.751 from six earners in 52
+              audits. First non-perfect like ratio of the project recorded on 0052.
   2026-11-02  VER 4.46. Two failed candidates added: CO-0049 ((G)I-DLE - I'm The
               Trend, Cube Entertainment, first K-pop upload, clean E4) and CO-0050
               ((G)I-DLE - Tomboy, the group's first number one single, same clean

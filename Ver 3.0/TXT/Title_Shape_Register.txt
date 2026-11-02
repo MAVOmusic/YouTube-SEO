@@ -214,6 +214,12 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.47. Rows added for CO-0051 and CO-0052 - the second consecutive
+              pair by one artist, and again the skeletons share nothing. Checked
+              against the previous eight: no possessive, no "is" opener, no date
+              opener, no question (last was 0036), first words distinct (Two /
+              (Hed)). Both titles keep the song name and the band name, which is
+              their only common ground.
   2026-11-02  VER 4.46. Rows added for CO-0049 and CO-0050 - two uploads by the
               same artist, written back to back, and the skeletons share nothing.
               Checked against the previous eight: no possessive, no "is" opener, no
