@@ -426,6 +426,8 @@ RECREATE INSTRUCTION
   MR-0036 CO-0036  Sabaton - Man of War (5th Sabaton, 5th E4)          E4
   MR-0037 CO-0037  All Time Low - Weightless (Hopeless, 2nd ATL)       E4
   MR-0038 CO-0038  The Cult - She Sells Sanctuary (Beggars/Warner)     E4
+  MR-0039 CO-0039  Sabaton - En Livstid I Krig (6th Sabaton, Swedish)  E4
+  MR-0040 CO-0040  Rammstein - Amerika (2nd Rammstein, Universal)      E4
 
   Three failures, three different justifications, one shared cause: somebody
   registered the recording that was actually played.
@@ -439,6 +441,17 @@ RECREATE INSTRUCTION
   ALL TIME LOW: TWO ATTEMPTS, TWO E4s - CAPPED AT TWO
     0031 was the best-clicking video on the channel and earned nothing; 0037 had
     the worst CTR on record and earned nothing. Hopeless Records claims both.
+
+  SABATON: SIX ATTEMPTS, SIX E4s - THE LANGUAGE TEST ALSO FAILS
+    0039 was the last untested variable: a Swedish-language master, on a concept
+    album cut, in a genre where the band's own audience is non-English. Same flat
+    red badge. There is nothing left to vary on this catalogue.
+
+  RAMMSTEIN: TWO ATTEMPTS, TWO E4s
+    0015 Du Hast and 0040 Amerika. The second one had the cleanest search panel on
+    the channel - every term the right band, the right format - and 100.0% likes,
+    and earned the same nothing. A textbook demonstration that intent quality and
+    search relevance do not touch eligibility.
 
   THE CULT: ONE ATTEMPT, E4 - FIRST AND LAST FOR NOW
     0038 tested whether a 1985 Beggars Banquet record with an eight-minute 12 inch
@@ -489,6 +502,11 @@ RECREATE INSTRUCTION
               Another Life. Conversion fell 23.68% -> 3.94% -> 0.56% across the
               three takes of one song. Strongest duplicate evidence in the corpus;
               the one-song-one-upload rule now has a conversion curve.
+  2026-11-02  VER 4.40. Two failed candidates added: CO-0039 (Sabaton, sixth
+              attempt, Swedish-language master - the last untested variable on that
+              catalogue) and CO-0040 (Rammstein, second attempt, best CTR and
+              cleanest search panel of the batch, GBP 0.00). Total unchanged at
+              GBP 0.701 from five earners in 40 audits.
   2026-11-02  VER 4.37. Three failed candidates added: CO-0036 (Sabaton, fifth
               attempt, GBP 0.00 - the file is now closed with five independent
               proofs), CO-0037 (All Time Low, second attempt, GBP 0.00, capped at

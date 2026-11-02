@@ -2922,3 +2922,116 @@ INTERNAL NOTE
     on screen. The format is the format on all 2,500+ uploads, so an absence claim
     is both false and instantly checkable by any viewer.
 ################################################################################
+
+--- MR-0039 | CO-0039 | Sabaton - En Livstid I Krig ---------------------------
+Video ID           : xY9nzHmL7U | 5:35 | uploaded 02-09-2025 | 374 views
+                     | 3.1 watch hours | **+1 subscriber** | 370 unique viewers
+Notices badge      : **E4 INELIGIBLE** - single line, no partial block
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : 2.1k / 1.1% | 71.9% from YouTube recommending | 23 engaged
+                     views | impression-AVD 0:58 - the corpus high | 0.37 h from
+                     impressions
+Watch quality      : AVD 0:29 | APV 8.9% | 22% still watching at 0:30, "typical"
+Likes              : **50.0% - NEW CORPUS LOW**, under CO-0037's 80.0
+End screen CTR     : 0.0% | hype 0/0 | no Shorts remixes
+Premiere           : ran as a Premiere, peak 1 concurrent, average 0
+Devices            : mobile 93.2 / computer 5.8 / tablet 1.0 / TV 0
+Audience           : **Male 100% / 25-34 100%** - single bucket, tiny sample |
+                     India 69.8 / Indonesia 11.2 | 94.7% of watch time from
+                     non-subscribers | 100% no captions
+Traffic            : advertising 88.8 / browse 3.5 / YouTube search 3.2 / related
+                     Shorts 1.6 / suggested 1.3 / other 1.6
+External (0.5%)    : Google Search 100.0%
+Search (3.2%)      : **"en livstid i krig" 8.3% and "sabaton" 8.3%** - the first
+                     Sabaton upload in six where the search intent matches the
+                     video instead of the ad keyword
+Content suggesting : five at 20.0% each - My Heart Will Go On (Titanic) / Sabaton
+                     Man Of War / BEST Zombie covers In The Voice / Just A Dream
+                     by Nelly / **"Billy Talent hid a protest in the three
+                     minutes of..." - our own CO-0035, under its house title**
+Old title          : Sabaton - En Livstid I Krig + Rocksmith/hashtag tail
+Old tags           : **8 tags / 84 chars. "en livstid i krig" ABSENT. "sabaton"
+                     twice, one of them the misspelling "sabbaton", plus five
+                     channel-identity tags** - fourth C-11 repeat in a row and the
+                     same typo that appeared on CO-0036
+Old pin            : the 4,000-character funding wall, with the four house comments
+                     (@MAVOmusicYT) as the only visible thread
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN.** Nuclear Blast. Sabaton's SIXTH upload.
+
+*** SABATON: SIX FOR SIX AT GBP 0.00 ***
+  CO-0023 Camouflage / CO-0024 The Hammer Has Fallen / CO-0028 Dreadnought /
+  CO-0034 Steel Commanders / CO-0036 Man of War / CO-0039 En Livstid I Krig.
+  Add a language: this one is the Swedish edition of a song the band also cut in
+  English, so it also tests whether a non-English master slips the net. It does
+  not. The file stays closed.
+
+*** THE FIRST EVIDENCE THE HOUSE TITLES ARE LEGIBLE ***
+  The "Content suggesting this video" panel names **our own CO-0035 by its new
+  title** - "Billy Talent hid a protest in the three minutes of..." That is the
+  first time a rewritten title has appeared in a suggestion panel, and it means
+  the recommendation system is reading the new strings rather than the old
+  "Band - Song #hashtag" format. Small, but it is the only positive signal in this
+  entry.
+
+*** THE SEARCH PANEL FINALLY MATCHES THE VIDEO ***
+  "en livstid i krig" and "sabaton" both at 8.3%. On CO-0036 the top search term
+  was "warrock", an advertising keyword. Here the intent is correct and the revenue
+  is identical, which restates the law: search intent does not buy eligibility.
+
+*** IMPRESSION-AVD 0:58 IS THE CORPUS HIGH ***
+  Beating CO-0035's 0:52 and CO-0031's 0:46. Three of the four highest
+  impression-AVDs on the channel now belong to videos that earned nothing.
+
+INTERNAL NOTE
+  Likes 50.0% on three ratings. Logged as the floor, not as a verdict.
+--------------------------------------------------------------------------------
+
+--- MR-0040 | CO-0040 | Rammstein - Amerika -----------------------------------
+Video ID           : RusyZn0GyWk | 3:40 | uploaded 02-09-2025 | 284 views
+                     | 1.7 watch hours | **ZERO subscribers** | 282 unique viewers
+Notices badge      : **E4 INELIGIBLE** - single line, no partial block
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : 1.4k / **1.5%** | 81.7% from YouTube recommending | 21 engaged
+                     views | impression-AVD 0:44 | 0.26 h from impressions
+Watch quality      : AVD 0:21 | APV 9.8% | **17% still watching at 0:30 - BELOW
+                     typical**, the first below-typical hold in this batch
+Likes              : **100.0%** - fourteenth perfect ratio
+End screen CTR     : 0.0% | hype 0/0 | no Shorts remixes
+Devices            : mobile 81.6 / computer 18.4 / TV 0.1
+Audience           : **no demographic data at all** | India 62.7 / Indonesia 21.5
+                     (the highest Indonesian share in the corpus) | 91.6% of watch
+                     time from non-subscribers | 100% no captions
+Traffic            : advertising 88.4 / browse 9.5 / YouTube search 1.8 / channel
+                     pages 0.4 / direct or unknown 0.0
+External (n/a)     : not enough traffic data
+Search (1.8%)      : **rammstein 40.0 / rammstein cover 20.0 / rocksmith 20.0 /
+                     rocksmith bass 20.0** - the cleanest search panel on the
+                     channel: every term is the right band or the right format
+Content suggesting : not enough traffic data to report
+Old title          : Rammstein - Amerika + Rocksmith/hashtag tail
+Old tags           : **9 tags / 94 chars. "amerika" ABSENT. Band present as
+                     "ramstein" (run together, and a real misspelling worth
+                     keeping) and "rammstein" twice, "rammstein" listed twice**
+Old pin            : the 4,000-character funding wall
+Upload hygiene     : the source file inside the player is still named
+                     "Sabaton - En Livstid I Krig_Full_Final.mkv" - wrong video's
+                     file name. No effect on claims, but name files by song.
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN.** Universal. Second Rammstein upload.
+
+*** RAMMSTEIN IS 2 FOR 2 AT ZERO ***
+  CO-0015 Du Hast E4 + partially blocked, CO-0040 Amerika E4. The one band on the
+  channel with a genuinely correct search panel and 100.0% likes, and it earns
+  nothing, because the claim follows the recording played.
+
+*** THE CLICK IS NOT THE PROBLEM ***
+  CTR 1.5% is the best of the last four audits, on 1.4k impressions against
+  CO-0037's 0.7% on 1.3k. The difference in revenue between them is nothing. What
+  differs is the hold: 17% at 0:30, below typical, on a 3:40 song with a
+  five-second intro riff.
+
+INTERNAL NOTE
+  Do not read 17% at 0:30 as an arrangement problem. 88.4% of the audience was
+  bought, and bought traffic does not watch intros.
+--------------------------------------------------------------------------------
