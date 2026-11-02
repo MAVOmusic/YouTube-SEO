@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (78 characters)
+## TITLE (60 characters)
 
 ```text
-Immaculate Misconception is four minutes of Motionless In White at full sprint
+Keep up with Motionless In White on Immaculate Misconception
 ```
 
 ## DESCRIPTION (663 characters)
@@ -28,7 +28,7 @@ Creatures, 2010, at full tempo in one pass with the tab on screen throughout.
 motionless in white, immaculate misconception, immaculate misconception bass, creatures, metalcore, fast bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2010, speed, bass guitar, play along
 ```
 
-## PINNED COMMENT (138 characters)
+## PINNED COMMENT (135 characters)
 
 ```text
 Three-quarter speed for a week, then never look back. Which song did you avoid for years before finding it was easier than you thought?

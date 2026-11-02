@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (64 characters)
+## TITLE (62 characters)
 
 ```text
-Cute Without the E hides a bassline under a title that is a joke
+Cute Without The E: Taking Back Sunday hid a joke in the title
 ```
 
 ## DESCRIPTION (793 characters)
@@ -28,7 +28,7 @@ Long Island emo, 2002, Epiphone Thunderbird, chart running underneath.
 taking back sunday, cute without the e, cute without the e bass, tell all your friends, emo, emo bass, pop punk, shaun cooper, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2000s emo, long island emo
 ```
 
-## PINNED COMMENT (121 characters)
+## PINNED COMMENT (118 characters)
 
 ```text
 The pun only works one way round. Take the E out and it still lands. Which 2002 record should get this treatment next?

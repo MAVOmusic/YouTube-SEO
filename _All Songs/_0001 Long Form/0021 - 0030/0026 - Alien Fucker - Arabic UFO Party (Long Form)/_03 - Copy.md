@@ -5,10 +5,10 @@
 > **NOTE: this video is age restricted 18+. That comes from the BAND NAME, not from anything
 > in the copy. The description deliberately does not print the EP title, which is explicit.
 
-## TITLE (67 characters)
+## TITLE (63 characters)
 
 ```text
-Alien Fucker's Arabic UFO Party is eighty two seconds of grind bass
+Eighty two seconds of Arabic UFO Party and Alien Fucker is done
 ```
 
 ## DESCRIPTION (1109 characters)

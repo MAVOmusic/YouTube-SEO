@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (78 characters)
+## TITLE (58 characters)
 
 ```text
-Motionless In White made Another Life hurt on purpose, and the bass carries it
+Why Another Life by Motionless In White hurts more on bass
 ```
 
 ## DESCRIPTION (886 characters)
@@ -28,7 +28,7 @@ Metalcore from Graveyard Shift, 2017. One take, no overdubs, Epiphone Thunderbir
 motionless in white, another life, motionless in white another life, graveyard shift, metalcore, metalcore bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, drop c bass, 2017 metalcore, bass tab, bass guitar, epiphone thunderbird
 ```
 
-## PINNED COMMENT (134 characters)
+## PINNED COMMENT (131 characters)
 
 ```text
 This one gets asked for at every single stream and I have never once minded. What is the song you have requested most in your life?

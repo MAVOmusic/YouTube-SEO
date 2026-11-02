@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (77 characters)
+## TITLE (63 characters)
 
 ```text
-Welcome To The Black Parade is five minutes of Mikey Way never standing still
+Mikey Way and My Chemical Romance, five minutes of Black Parade
 ```
 
 ## DESCRIPTION (893 characters)
@@ -28,7 +28,7 @@ My Chemical Romance, 2006, official chart rather than a transcription, nothing s
 my chemical romance, welcome to the black parade, black parade, mcr, mikey way, emo, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2006, bass guitar, the black parade
 ```
 
-## PINNED COMMENT (113 characters)
+## PINNED COMMENT (110 characters)
 
 ```text
 Five minutes, five different jobs, and no riff to lean on. Which section of this song catches people out most?

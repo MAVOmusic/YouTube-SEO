@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (71 characters)
+## TITLE (48 characters)
 
 ```text
-An hour of Burzum's Autumn Leaves with nothing added and nothing rushed
+Autumn Leaves for an hour and Burzum in no hurry
 ```
 
 ## DESCRIPTION (838 characters)
@@ -28,7 +28,7 @@ Ambient and dungeon synth from 2014, looped without a single edit and recorded t
 burzum, autumn leaves, burzum autumn leaves, the ways of yore, dungeon synth, ambient, dark ambient, 1 hour loop, hour loop, atmospheric black metal, study music, background music, burzum bass, rocksmith bass, long form loop
 ```
 
-## PINNED COMMENT (113 characters)
+## PINNED COMMENT (110 characters)
 
 ```text
 Put this on at 2am once and it did the rest on its own. What do you leave running when the house is too quiet?

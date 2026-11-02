@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (62 characters)
+## TITLE (61 characters)
 
 ```text
-X-Kid is Mike Dirnt playing a farewell song like it is a party
+Mike Dirnt plays X-Kid like Green Day already know the ending
 ```
 
 ## DESCRIPTION (686 characters)
@@ -28,7 +28,7 @@ Green Day, 2012, charted from the official release rather than by ear.
 green day, x-kid, x kid, tre, mike dirnt, punk rock, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2012, bass guitar, punk bass
 ```
 
-## PINNED COMMENT (116 characters)
+## PINNED COMMENT (113 characters)
 
 ```text
 The most cheerful song ever written about someone not making it. What is your favourite bass part on a sad lyric?

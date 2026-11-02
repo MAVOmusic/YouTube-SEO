@@ -3,10 +3,10 @@
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (80 characters)
+## TITLE (68 characters)
 
 ```text
-Rage Against The Machine put the argument in the bassline of Take The Power Back
+Where Rage Against The Machine put the speech in Take The Power Back
 ```
 
 ## DESCRIPTION (919 characters)

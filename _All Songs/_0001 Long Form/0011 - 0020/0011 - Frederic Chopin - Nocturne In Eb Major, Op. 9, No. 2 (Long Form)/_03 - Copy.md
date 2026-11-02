@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (73 characters)
+## TITLE (61 characters)
 
 ```text
-Four hours of Chopin's Nocturne Op. 9 No. 2, on bass, for working through
+Chopin on bass for four hours, Nocturne Op. 9 No. 2 on repeat
 ```
 
 ## DESCRIPTION (877 characters)
@@ -28,7 +28,7 @@ Romantic era piano, 1832, transcribed for four strings and looped for four hours
 chopin, nocturne op 9 no 2, chopin nocturne, classical music for studying, classical music, study music, four hour loop, 4 hour loop, sleep music, piano, classical bass, frederic chopin, relaxing music, rocksmith bass, long form loop
 ```
 
-## PINNED COMMENT (102 characters)
+## PINNED COMMENT (99 characters)
 
 ```text
 Four hours, no chapter markers, no interruptions. What should be the next piece stretched this far?

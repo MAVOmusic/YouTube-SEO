@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (62 characters)
+## TITLE (55 characters)
 
 ```text
-The famous line in I Want To Break Free is a synth, not a bass
+Queen built the hook of I Want To Break Free on a synth
 ```
 
 ## DESCRIPTION (711 characters)
@@ -28,7 +28,7 @@ Classic rock, 1984, played once through and not tidied afterwards.
 queen, i want to break free, i want to break free bass, john deacon, the works, classic rock, 80s bass, synth bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, freddie mercury, queen bass
 ```
 
-## PINNED COMMENT (109 characters)
+## PINNED COMMENT (106 characters)
 
 ```text
 Two bass players on one record, and only one of them is holding a bass. Did you know the hook was a synth?

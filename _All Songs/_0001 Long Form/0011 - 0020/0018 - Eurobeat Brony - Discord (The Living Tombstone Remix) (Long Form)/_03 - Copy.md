@@ -3,10 +3,10 @@
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (74 characters)
+## TITLE (58 characters)
 
 ```text
-Eurobeat Brony's Discord, remixed by The Living Tombstone, on one bassline
+The Living Tombstone remix of Discord runs on one bassline
 ```
 
 ## DESCRIPTION (974 characters)

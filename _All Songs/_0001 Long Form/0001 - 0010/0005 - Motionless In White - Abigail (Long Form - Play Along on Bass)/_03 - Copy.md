@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (72 characters)
+## TITLE (57 characters)
 
 ```text
-Abigail lets Motionless In White be a horror band, and the bass leads it
+Abigail turns Motionless In White back into a horror band
 ```
 
 ## DESCRIPTION (716 characters)
@@ -28,7 +28,7 @@ Debut-era metalcore, 2010. Played through once, nothing cut out afterwards.
 motionless in white, abigail, motionless in white abigail, creatures, metalcore, horror metal, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2010, bass guitar, drop c, play along
 ```
 
-## PINNED COMMENT (129 characters)
+## PINNED COMMENT (126 characters)
 
 ```text
 This one is about the weight on the front of each note, not the notes themselves. Do you play behind the beat or on top of it?

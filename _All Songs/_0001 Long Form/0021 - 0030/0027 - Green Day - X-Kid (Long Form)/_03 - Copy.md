@@ -6,10 +6,10 @@
 > CO-0008 in title, description and pin. Do not merge the two.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (64 characters)
+## TITLE (58 characters)
 
 ```text
-Green Day's X-Kid with the bass left bare and no chart on screen
+No chart, no overlay, just X-Kid and Green Day in one take
 ```
 
 ## DESCRIPTION (998 characters)

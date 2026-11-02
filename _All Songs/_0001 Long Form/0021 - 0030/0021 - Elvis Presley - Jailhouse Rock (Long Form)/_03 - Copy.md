@@ -3,10 +3,10 @@
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (66 characters)
+## TITLE (59 characters)
 
 ```text
-Elvis Presley's Jailhouse Rock swings on Bill Black's upright bass
+Bill Black swings Jailhouse Rock and Elvis Presley keeps up
 ```
 
 ## DESCRIPTION (1151 characters)

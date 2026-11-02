@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (71 characters)
+## TITLE (59 characters)
 
 ```text
-If I'd Been The One is Southern rock where the low end does the arguing
+If I'd Been The One, but .38 Special lets the low end argue
 ```
 
 ## DESCRIPTION (738 characters)
@@ -28,7 +28,7 @@ Southern rock, 1983, one continuous take and no studio repair.
 38 special, if id been the one, southern rock, classic rock, tour de force, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 1983, bass guitar, 80s rock, rock bass, play along
 ```
 
-## PINNED COMMENT (121 characters)
+## PINNED COMMENT (118 characters)
 
 ```text
 The bass is doing the arguing on this one and nobody ever mentions it. What is the most underrated bass part you know?

@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (65 characters)
+## TITLE (63 characters)
 
 ```text
-War Ensemble is Slayer at full sprint with one man doing two jobs
+Tom Araya sings and plays War Ensemble for Slayer at full speed
 ```
 
 ## DESCRIPTION (785 characters)
@@ -28,7 +28,7 @@ Thrash metal, 1990, one pass at full tempo, no punch-ins.
 slayer, war ensemble, seasons in the abyss, thrash metal, thrash bass, tom araya, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 1990, speed metal, bass guitar, metal bass
 ```
 
-## PINNED COMMENT (102 characters)
+## PINNED COMMENT (99 characters)
 
 ```text
 One voice, one bass, no room to breathe between them. Which Slayer record would you want done next?

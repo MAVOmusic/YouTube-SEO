@@ -3,10 +3,10 @@
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (71 characters)
+## TITLE (58 characters)
 
 ```text
-Sabaton's The Hammer Has Fallen was a 2001 demo and still lands on bass
+The Hammer Has Fallen survived a 2001 demo and still lands
 ```
 
 ## DESCRIPTION (1102 characters)

@@ -6,13 +6,13 @@
 > Different songs, so the one-song-one-upload rule is satisfied; nothing here reuses CO-0024.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (66 characters)
+## TITLE (52 characters)
 
 ```text
-Sabaton's Dreadnought on bass, the ship that missed its own battle
+A 1906 battleship, a 2022 Sabaton song, one bassline
 ```
 
-## DESCRIPTION (1153 characters)
+## DESCRIPTION (1130 characters)
 
 ```text
 Sabaton wrote this one for a class of ship, not a single ship. When HMS Dreadnought launched in 1906, every other battleship afloat went obsolete in an afternoon, and the name turned into a whole category that every navy suddenly had to build.
@@ -23,7 +23,7 @@ On bass the discipline is the whole job. The line is a march, even and steady, n
 
 🟢 Request a warship song on Kick and it gets played that night: https://kick.com/mavomusic
 🟣 Twitch streams the identical feed, second screen optional: https://www.twitch.tv/mavomusic
-💬 Which Dreadnought era ship deserves its own song? Argue it in Discord, boosts keep the invite clean: https://discord.gg/ESGsGkN4j2
+💬 Best Dreadnought era ship? Argue it in Discord, boosts keep the invite clean: https://discord.gg/ESGsGkN4j2
 
 Sabaton, The War To End All Wars, 2022, four minutes forty seven.
 ```
