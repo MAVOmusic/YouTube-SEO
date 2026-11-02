@@ -3810,3 +3810,38 @@ channel is about.** One habit, not five mistakes - and the easiest thing to fix.
 - **Desc** (1,891): Hypnotize (2005), Malakian's one bad day, Odadjian's restraint in Drop C, and the two different lessons the same part teaches
 - **Tags**: 9 at 91/500 -> **15 at 217**
 - **Pin** (105): no links, no money
+
+================================================================================
+[Ver 4.13] - 2026-11-01 - ONE URL, ONCE, PER DESCRIPTION
+================================================================================
+
+**MAVO caught it:** the CO-0016 copy printed `https://discord.gg/ESGsGkN4j2` **twice** -
+once as the request invite, once at the end of the new boost line.
+
+## Why it is a real fault
+1. **It reads like a broken template** - a viewer sees the same link twice and concludes nobody read the page back
+2. **It wastes a CTA line** - the block exists to give one clear next step
+3. **Duplicated outbound links are what YouTube's spam guidance targets.** Not strike-level, but zero upside
+
+## The fix
+```
+💬 Request the next one, or boost the server to bring back discord.gg/mavomusic: https://discord.gg/ESGsGkN4j2
+```
+109 chars. One link. Both asks survive - they were never two asks, they were one
+invitation and one reason to take it.
+
+## The part that matters more than the fix
+**My guard should have caught this and did not.** \`diversity_guard.py\` capped LF
+descriptions at 3 URLs and checked them against the allowlist, but **never looked for
+the same URL twice**. So the copy passed TIER 1, TIER 2 and every cascade step, and I
+reported **ALL GATES GREEN** on a description with an obvious duplicate.
+
+Third time in this project a gate passed something wrong and a human found it: the
+one-hour loop, the 382.3k attribution, now this.
+
+## Guard added
+\`diversity_guard.py\` now **fails** any LF description where the same URL appears more
+than once, normalised for case and trailing slash. Verified to fail on the broken text
+and pass on the fixed text.
+
+**Rule: two asks may share one link. A link is never printed twice.**
