@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (72 characters)
+## TITLE (60 characters)
 
 ```text
-Du Hast answers a wedding vow with one word, and Riedel repeats one note
+Rammstein ask a wedding question and answer it with one note
 ```
 
 ## DESCRIPTION (742 characters)

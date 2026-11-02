@@ -4,10 +4,10 @@
 > Discord line carries a unique catch line in every file, per MAVO 02-11-2026.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (75 characters)
+## TITLE (63 characters)
 
 ```text
-Avril Lavigne's Together stayed a bonus track and still carries a bass hook
+Together never made an Avril Lavigne album and still has a hook
 ```
 
 ## DESCRIPTION (1077 characters)

@@ -6,7 +6,7 @@
 ## TITLE (69 characters)
 
 ```text
-Babymetal's Megitsune is a folk melody riding a bass that never rests
+Babymetal stack a folk melody on a bass that never rests in Megitsune
 ```
 
 ## DESCRIPTION (1028 characters)

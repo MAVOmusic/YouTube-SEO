@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (84 characters)
+## TITLE (61 characters)
 
 ```text
-Lonely Day is the quietest thing System Of A Down ever wrote, and the bass proves it
+Lonely Day proves System Of A Down can whisper and still land
 ```
 
 ## DESCRIPTION (814 characters)

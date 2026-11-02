@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (77 characters)
+## TITLE (65 characters)
 
 ```text
-Nine years after the split, Foundations Of Decay handed Mikey Way six minutes
+Nine years off, then My Chemical Romance and Foundations Of Decay
 ```
 
 ## DESCRIPTION (724 characters)

@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (67 characters)
+## TITLE (62 characters)
 
 ```text
-Another Life on bass with the tuner in frame and no game in the way
+A second Another Life from Motionless In White, tuner in frame
 ```
 
 ## DESCRIPTION (786 characters)
@@ -28,7 +28,7 @@ Play along build of a 2017 ballad, with a visible tuner and no scoring of any ki
 another life, motionless in white, motionless in white another life, bass play along, play along bass, bass tab, rocksmith bass, graveyard shift, metalcore bass, learn bass, bass cover, drop c, 2017, bass guitar, tuner
 ```
 
-## PINNED COMMENT (136 characters)
+## PINNED COMMENT (133 characters)
 
 ```text
 The pause button is not cheating. It is the only honest way to learn something this slow. What part took you longest to stop rushing?

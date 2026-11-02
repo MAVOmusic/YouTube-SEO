@@ -3,10 +3,10 @@
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (72 characters)
+## TITLE (62 characters)
 
 ```text
-Sabaton's Camouflage is a 1986 one hit wonder rebuilt as a marching bass
+Camouflage was a 1986 fluke and Sabaton turned it into a march
 ```
 
 ## DESCRIPTION (1094 characters)

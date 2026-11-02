@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (73 characters)
+## TITLE (65 characters)
 
 ```text
-Masterpiece is the Motionless In White song where the bass stops behaving
+Motionless In White wrote Masterpiece so the bass could misbehave
 ```
 
 ## DESCRIPTION (867 characters)
@@ -28,7 +28,7 @@ Gothic metalcore from Infamous, 2012. Full playthrough, chart visible the entire
 motionless in white, masterpiece, motionless in white masterpiece, infamous, metalcore, gothic metal, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, drop c, 2012 metalcore, bass guitar, play along
 ```
 
-## PINNED COMMENT (127 characters)
+## PINNED COMMENT (124 characters)
 
 ```text
 Half speed, then the real tempo. That order has never let me down. What song did you learn far too fast and have to unlearn?

@@ -5,10 +5,10 @@
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (78 characters)
+## TITLE (55 characters)
 
 ```text
-Aephanemer turned Tchaikovsky's Old French Song into two minutes of metal bass
+Aephanemer take Old French Song and plug Tchaikovsky in
 ```
 
 ## DESCRIPTION (1275 characters)

@@ -1,0 +1,164 @@
+# ============================================================================
+# MAVOmusic (@mavomusicyt) - TITLE SHAPE REGISTER  (TS-NN)
+# ============================================================================
+# Created: 2026-11-02 (VER 4.29) - opened after MAVO's title correction.
+#
+# WHY THIS FILE EXISTS
+#   MAVO (02-11-2026), verbatim:
+#     "You started repeating again. Bandname's Song Title is .... Sabaton's
+#      Dreadnought on bass, the ship that missed its own battle. 'Sabaton's'
+#      appearing every time. Be more creative, Do not repeat. Title needs to be
+#      unique. Redo the titles which have repetitive, robotic structure"
+#
+#   He was right and the drift was measurable. Ten of the twenty-eight titles
+#   opened with a possessive band name - "Sabaton's Camouflage", "Green Day's
+#   X-Kid", "Avril Lavigne's Together" - and the nine newest titles had collapsed
+#   into two skeletons: "[Band]'s [Song] ..." and "[Song] is [Band] ...".
+#
+#   A title shape is not a template you can reuse. YouTube indexes the pattern as
+#   well as the words, and a human reader sees the pattern long before they see
+#   the words: the same file name with a different noun in it. Ver 3.5 banned
+#   fixed shapes; this register enforces the ban with a written rule and a log.
+#
+# THE RULE
+#   1. EVERY TITLE USES A DIFFERENT SYNTACTIC SKELETON. Not different words -
+#      a different skeleton. If the previous title was a question, the next one
+#      is not a question. If the last three opened with the band name, the next
+#      one does not open with the band name.
+#   2. THE POSSESSIVE OPENER IS BANNED. "[Band]'s [Song] ..." may not start a
+#      title, at all, ever again. It is the single most repetitive thing the
+#      channel did and it ran for ten straight videos.
+#   3. "[SONG] IS [BAND] ..." IS BANNED as an opener for the same reason.
+#   4. NO FIXED TURN OF PHRASE. "on bass", "at full sprint", "on one bassline"
+#      and "and the bass carries it" are not allowed to become signatures either.
+#      Three videos may not share the closing device.
+#   5. EVERY TITLE CARRIES THE SEARCHABLE STRINGS - band name and song title -
+#      but their POSITION moves: sometimes song first, sometimes band first,
+#      sometimes both mid-sentence, sometimes a player's name carries the front
+#      and the song lands at the back.
+#   6. LENGTH: 48 to 69 characters as of Ver 4.29. Long enough for the search
+#      terms, short enough that mobile does not cut the hook off.
+#   7. BEFORE WRITING A NEW TITLE, READ THIS FILE. The new skeleton goes in the
+#      log below at the same time the copy is written. No row, no title.
+#
+# THE 28 SKELETONS IN USE (all different, none reusable)
+
+  CO      SHAPE                                          CURRENT TITLE
+  ----    ---------------------------------------------  ------------------------------------------------------------
+  0001    duration opener + refusal                      Autumn Leaves for an hour and Burzum in no hurry
+          was: An hour of Burzum's Autumn Leaves with nothing added and nothing rushed
+  0002    why-question                                   Why Another Life by Motionless In White hurts more on bass
+          was: Motionless In White made Another Life hurt on purpose, and the bass carries it
+  0003    band wrote song so clause                      Motionless In White wrote Masterpiece so the bass could misbehave
+          was: Masterpiece is the Motionless In White song where the bass stops behaving
+  0004    second cut of the same song                    A second Another Life from Motionless In White, tuner in frame
+          was: Another Life on bass with the tuner in frame and no game in the way
+  0005    song turns band into noun                      Abigail turns Motionless In White back into a horror band
+          was: Abigail lets Motionless In White be a horror band, and the bass leads it
+  0006    count triplet + band does not blink            One string, four minutes, and Motionless In White does not blink
+          was: America keeps one string busy for four minutes and never apologises
+  0007    imperative keep up                             Keep up with Motionless In White on Immaculate Misconception
+          was: Immaculate Misconception is four minutes of Motionless In White at full sprint
+  0008    player-name first                              Mike Dirnt plays X-Kid like Green Day already know the ending
+          was: X-Kid is Mike Dirnt playing a farewell song like it is a party
+  0009    two names appositive + duration                Mikey Way and My Chemical Romance, five minutes of Black Parade
+          was: Welcome To The Black Parade is five minutes of Mikey Way never standing still
+  0010    if-clause + but                                If I'd Been The One, but .38 Special lets the low end argue
+          was: If I'd Been The One is Southern rock where the low end does the arguing
+  0011    composer + duration + work on repeat           Chopin on bass for four hours, Nocturne Op. 9 No. 2 on repeat
+          was: Four hours of Chopin's Nocturne Op. 9 No. 2, on bass, for working through
+  0012    song: band hid noun                            Cute Without The E: Taking Back Sunday hid a joke in the title
+          was: Cute Without the E hides a bassline under a title that is a joke
+  0013    player sings and plays                         Tom Araya sings and plays War Ensemble for Slayer at full speed
+          was: War Ensemble is Slayer at full sprint with one man doing two jobs
+  0014    band built the hook on instrument              Queen built the hook of I Want To Break Free on a synth
+          was: The famous line in I Want To Break Free is a synth, not a bass
+  0015    band ask and answer                            Rammstein ask a wedding question and answer it with one note
+          was: Du Hast answers a wedding vow with one word, and Riedel repeats one note
+  0016    song proves band can verb                      Lonely Day proves System Of A Down can whisper and still land
+          was: Lonely Day is the quietest thing System Of A Down ever wrote, and the bass proves it
+  0017    duration off then band and song                Nine years off, then My Chemical Romance and Foundations Of Decay
+          was: Nine years after the split, Foundations Of Decay handed Mikey Way six minutes
+  0018    remixer + remix of song                        The Living Tombstone remix of Discord runs on one bassline
+          was: Eurobeat Brony's Discord, remixed by The Living Tombstone, on one bassline
+  0019    where band put noun                            Where Rage Against The Machine put the speech in Take The Power Back
+          was: Rage Against The Machine put the argument in the bassline of Take The Power Back
+  0020    band stack noun on noun in song                Babymetal stack a folk melody on a bass that never rests in Megitsune
+          was: Babymetal's Megitsune is a folk melody riding a bass that never rests
+  0021    player swings and other player keeps up        Bill Black swings Jailhouse Rock and Elvis Presley keeps up
+          was: Elvis Presley's Jailhouse Rock swings on Bill Black's upright bass
+  0022    song never made album and still verb           Together never made an Avril Lavigne album and still has a hook
+          was: Avril Lavigne's Together stayed a bonus track and still carries a bass hook
+  0023    song was a year fluke                          Camouflage was a 1986 fluke and Sabaton turned it into a march
+          was: Sabaton's Camouflage is a 1986 one hit wonder rebuilt as a marching bass
+  0024    song survived year thing                       The Hammer Has Fallen survived a 2001 demo and still lands
+          was: Sabaton's The Hammer Has Fallen was a 2001 demo and still lands on bass
+  0025    band take song and plug composer in            Aephanemer take Old French Song and plug Tchaikovsky in
+          was: Aephanemer turned Tchaikovsky's Old French Song into two minutes of metal bass
+  0026    duration of song and band is done              Eighty two seconds of Arabic UFO Party and Alien Fucker is done
+          was: Alien Fucker's Arabic UFO Party is eighty two seconds of grind bass
+  0027    no X no Y just                                 No chart, no overlay, just X-Kid and Green Day in one take
+          was: Green Day's X-Kid with the bass left bare and no chart on screen
+  0028    year object, year song, one instrument         A 1906 battleship, a 2022 Sabaton song, one bassline
+          was: Sabaton's Dreadnought on bass, the ship that missed its own battle
+
+################################################################################
+# BANNED SHAPES - the evidence
+################################################################################
+
+  TS-B1  POSSESSIVE OPENER, "[Band]'s [Song] ..."
+         0011 "Four hours of Chopin's Nocturne..."
+         0018 "Eurobeat Brony's Discord, remixed by..."
+         0020 "Babymetal's Megitsune is a folk melody..."
+         0021 "Elvis Presley's Jailhouse Rock swings..."
+         0022 "Avril Lavigne's Together stayed..."
+         0023 "Sabaton's Camouflage is a 1986 one hit wonder..."
+         0024 "Sabaton's The Hammer Has Fallen was a 2001 demo..."
+         0026 "Alien Fucker's Arabic UFO Party is..."
+         0027 "Green Day's X-Kid with the bass left bare..."
+         0028 "Sabaton's Dreadnought on bass, the ship that..."
+         TEN OF TWENTY-EIGHT. Four of the last six. This is the one MAVO caught.
+
+  TS-B2  "[Song] is [Band] ..." OPENER
+         0003 "Masterpiece is the Motionless In White song where..."
+         0013 "War Ensemble is Slayer at full sprint..."
+         0016 "Lonely Day is the quietest thing System Of A Down..."
+         Five more sat in the same slot with slightly different verbs.
+
+  TS-B3  DASH TEMPLATE, "[Band] - [Song]"
+         Already banned in Ver 3.5 and still correctly absent.
+
+  TS-B4  HASHTAG STACK
+         0028's original "Sabaton - Dreadnought #rocksmith #bass #sabaton" spent
+         a third of the title repeating a word it had just printed.
+
+  TS-B5  SIGNATURE CLOSERS - "and the bass carries it" / "and the bass leads it"
+         / "on one bassline" / "at full sprint". Each was fine once. None is
+         allowed to appear twice.
+
+################################################################################
+# HOW THIS FAILURE HAPPENED - recorded so it is not repeated
+################################################################################
+  Nothing about any single title was wrong. Every one of them was defensible in
+  isolation. The failure was sequential: each new title was written against the
+  song rather than against the twenty-seven titles already on the channel, so the
+  most recent shape won by default. The n-gram guard could not catch it either,
+  because "Sabaton's Dreadnought on bass" and "Sabaton's Camouflage is" share no
+  six-word run. Shape repetition is invisible to string guards.
+
+  The fix is procedural, not lexical: the skeleton is now a logged artefact, and
+  step 7 above makes it a precondition.
+
+################################################################################
+# CHANGE LOG
+################################################################################
+  2026-11-02  created, VER 4.29. All 28 titles rewritten with 28 distinct
+              skeletons. Banned the possessive opener, the "[Song] is [Band]"
+              opener and the four signature closers. Zero title n-gram
+              collisions down to the 4-gram, with URLs counted rather than
+              masked - the previous harness replaced links with a placeholder,
+              which had been hiding every collision that spanned a URL.
+
+################################################################################
+# END OF FILE
+################################################################################

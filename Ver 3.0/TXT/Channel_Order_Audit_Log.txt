@@ -3377,3 +3377,84 @@ C-11 WATCH
   This is the reference case for the correction - quote it whenever the tag advice
   is questioned.
 ################################################################################
+
+################################################################################
+GLOBAL | TITLE SHAPE RESET, ALL 28 TITLES | 02-11-2026
+################################################################################
+
+  MAVO: "You started repeating again. Bandname's Song Title is .... 'Sabaton's'
+  appearing every time. Be more creative, Do not repeat. Title needs to be
+  unique. Redo the titles which have repetitive, robotic structure"
+
+  Ten of twenty-eight titles opened with a possessive band name. Four of the last
+  six did. The nine newest had collapsed into two skeletons. All 28 rewritten,
+  28 distinct skeletons, logged in TXT/Title_Shape_Register.txt.
+
+  CO      OLD                                                                  ->
+          NEW
+  0001    An hour of Burzum's Autumn Leaves with nothing added and nothing rushed
+          -> Autumn Leaves for an hour and Burzum in no hurry
+  0002    Motionless In White made Another Life hurt on purpose, and the bass carries it
+          -> Why Another Life by Motionless In White hurts more on bass
+  0003    Masterpiece is the Motionless In White song where the bass stops behaving
+          -> Motionless In White wrote Masterpiece so the bass could misbehave
+  0004    Another Life on bass with the tuner in frame and no game in the way
+          -> A second Another Life from Motionless In White, tuner in frame
+  0005    Abigail lets Motionless In White be a horror band, and the bass leads it
+          -> Abigail turns Motionless In White back into a horror band
+  0006    America keeps one string busy for four minutes and never apologises
+          -> One string, four minutes, and Motionless In White does not blink
+  0007    Immaculate Misconception is four minutes of Motionless In White at full sprint
+          -> Keep up with Motionless In White on Immaculate Misconception
+  0008    X-Kid is Mike Dirnt playing a farewell song like it is a party
+          -> Mike Dirnt plays X-Kid like Green Day already know the ending
+  0009    Welcome To The Black Parade is five minutes of Mikey Way never standing still
+          -> Mikey Way and My Chemical Romance, five minutes of Black Parade
+  0010    If I'd Been The One is Southern rock where the low end does the arguing
+          -> If I'd Been The One, but .38 Special lets the low end argue
+  0011    Four hours of Chopin's Nocturne Op. 9 No. 2, on bass, for working through
+          -> Chopin on bass for four hours, Nocturne Op. 9 No. 2 on repeat
+  0012    Cute Without the E hides a bassline under a title that is a joke
+          -> Cute Without The E: Taking Back Sunday hid a joke in the title
+  0013    War Ensemble is Slayer at full sprint with one man doing two jobs
+          -> Tom Araya sings and plays War Ensemble for Slayer at full speed
+  0014    The famous line in I Want To Break Free is a synth, not a bass
+          -> Queen built the hook of I Want To Break Free on a synth
+  0015    Du Hast answers a wedding vow with one word, and Riedel repeats one note
+          -> Rammstein ask a wedding question and answer it with one note
+  0016    Lonely Day is the quietest thing System Of A Down ever wrote, and the bass proves it
+          -> Lonely Day proves System Of A Down can whisper and still land
+  0017    Nine years after the split, Foundations Of Decay handed Mikey Way six minutes
+          -> Nine years off, then My Chemical Romance and Foundations Of Decay
+  0018    Eurobeat Brony's Discord, remixed by The Living Tombstone, on one bassline
+          -> The Living Tombstone remix of Discord runs on one bassline
+  0019    Rage Against The Machine put the argument in the bassline of Take The Power Back
+          -> Where Rage Against The Machine put the speech in Take The Power Back
+  0020    Babymetal's Megitsune is a folk melody riding a bass that never rests
+          -> Babymetal stack a folk melody on a bass that never rests in Megitsune
+  0021    Elvis Presley's Jailhouse Rock swings on Bill Black's upright bass
+          -> Bill Black swings Jailhouse Rock and Elvis Presley keeps up
+  0022    Avril Lavigne's Together stayed a bonus track and still carries a bass hook
+          -> Together never made an Avril Lavigne album and still has a hook
+  0023    Sabaton's Camouflage is a 1986 one hit wonder rebuilt as a marching bass
+          -> Camouflage was a 1986 fluke and Sabaton turned it into a march
+  0024    Sabaton's The Hammer Has Fallen was a 2001 demo and still lands on bass
+          -> The Hammer Has Fallen survived a 2001 demo and still lands
+  0025    Aephanemer turned Tchaikovsky's Old French Song into two minutes of metal bass
+          -> Aephanemer take Old French Song and plug Tchaikovsky in
+  0026    Alien Fucker's Arabic UFO Party is eighty two seconds of grind bass
+          -> Eighty two seconds of Arabic UFO Party and Alien Fucker is done
+  0027    Green Day's X-Kid with the bass left bare and no chart on screen
+          -> No chart, no overlay, just X-Kid and Green Day in one take
+  0028    Sabaton's Dreadnought on bass, the ship that missed its own battle
+          -> A 1906 battleship, a 2022 Sabaton song, one bassline
+
+  Length range was 55-84, now 48-69. Possessive opener banned outright.
+  Signature closers banned from repeating: on bass / at full sprint /
+  on one bassline / and the bass carries it.
+
+  HARNESS BUG FOUND AND FIXED: the diversity run used to replace URLs with
+  a placeholder before comparing, so every collision spanning a link was
+  invisible. Comparing with URLs intact exposed a six-gram repeat between
+  CO-0013 and CO-0028 (twitch line followed by 'which'). Reworded CO-0028.
+################################################################################
