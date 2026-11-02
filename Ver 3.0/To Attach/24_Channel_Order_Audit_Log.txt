@@ -2645,16 +2645,30 @@ SURFACE FAULTS - AND A PATTERN ACROSS FIVE VIDEOS NOW
   TITLE "[||] System Of A Down - Lonely Day #rocksmith #bass #systemofadown" - Shorts
         format on a 2:49 long form, fourth in a row.
 
-MAVO'S REQUEST, ACTIONED: THE DISCORD BOOST LINE
+MAVO'S REQUEST, ACTIONED - AND THEN CORRECTED: THE DISCORD BOOST LINE
     MAVO confirmed discord.gg/ESGsGkN4j2 works and wants viewers told they can gift
     boosts to restore the official discord.gg/mavomusic vanity URL.
-    Added to the copy as a single line under the existing Discord invite:
-        "Boost the Discord to bring back discord.gg/mavomusic: https://discord.gg/ESGsGkN4j2"
-    **One line, not a section.** It sits with the invite it belongs to and adds no
-    appeal language. I did NOT add a fifth money-style block - that is what turned the
-    last four descriptions into fundraising documents.
-    NOTE FOR THE TEMPLATE: this belongs in the channel-wide CTA so it appears once,
-    in a fixed place, rather than being rewritten per video.
+
+    MY FIRST VERSION WAS WRONG and MAVO caught it. It printed the same invite twice,
+    six lines apart, in one description:
+        💬 Request the next one on Discord: https://discord.gg/ESGsGkN4j2
+        🚀 Boost the Discord to bring back discord.gg/mavomusic: https://discord.gg/ESGsGkN4j2
+    Three reasons that is a fault, not a style choice:
+        1. It reads like a broken template. A viewer sees the same link twice and
+           concludes nobody checked the page.
+        2. It spends a line of the CTA saying nothing. The block exists to give people
+           ONE clear next step, and it gave them the same one twice.
+        3. Duplicated outbound links are exactly what YouTube's spam guidance is aimed
+           at. Not strike-level, but there is no upside and a small real downside.
+    THE FIX - one line, one link, both asks:
+        💬 Request the next one, or boost the server to bring back discord.gg/mavomusic: https://discord.gg/ESGsGkN4j2
+    (109 characters. Same information. One URL.)
+    GUARD ADDED so I cannot repeat it: diversity_guard.py now FAILS any LF description
+    containing the same URL more than once, normalised for case and trailing slash. The
+    old guard counted URLs and allowlisted them but never checked for duplicates, which
+    is exactly why my mistake passed all gates last turn.
+    NOTE FOR THE TEMPLATE: this belongs in the channel-wide CTA so it appears once, in
+    a fixed place, rather than being rewritten per video.
 
 COPY DELIVERED
   TITLE (79/100) - opener "The saddest", never used in sixteen audits:
@@ -2664,7 +2678,7 @@ COPY DELIVERED
   DESC (1,891) - Hypnotize (2005), Daron Malakian writing about one bad day, Shavo
     Odadjian choosing restraint in Drop C, and the two different lessons the same part
     teaches a beginner and a long-time player. Money blocks gone, dead invite gone,
-    boost line added.
+    boost line merged into the invite line so the link appears ONCE.
   TAGS (15 / 217) - from 9 at 91/500. Now has "system of a down", "lonely day",
     "shavo odadjian", "rocksmith bass" and the exact phrase that appeared in its own
     search slice.

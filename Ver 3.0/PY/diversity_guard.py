@@ -145,6 +145,16 @@ def main():
         lf_urls = re.findall(r'https?://[^\s)]+', F['lf_desc'] or '')
         if len(lf_urls) > MAX_LF_URLS:
             errors.append(f'LINK POLICY: {rel} - {len(lf_urls)} LF urls (> {MAX_LF_URLS})')
+        # v4.13: the same URL must never appear twice in one description. Two asks can
+        # share one link ("request a song, or boost the server") but must not print it
+        # twice - it reads as a broken template and wastes a line of the CTA.
+        _seen = {}
+        for _u in lf_urls:
+            _k = _u.rstrip('/').lower()
+            _seen[_k] = _seen.get(_k, 0) + 1
+        for _k, _n in _seen.items():
+            if _n > 1:
+                errors.append(f'LINK POLICY: {rel} - duplicate LF url repeated {_n}x ({_k})')
         for u in lf_urls:
             if not any(a in u for a in ALLOWED):
                 errors.append(f'LINK POLICY: {rel} - non-allowlist LF url {u}')

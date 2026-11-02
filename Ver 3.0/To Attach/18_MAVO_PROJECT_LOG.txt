@@ -5291,3 +5291,54 @@ COPY
   Pin    105 chars, no links, no money.
 
 ================================================================================
+
+================================================================================
+VER 4.13 - 2026-11-01 - THE DUPLICATED DISCORD LINK
+================================================================================
+
+MAVO, reading the CO-0016 copy: "Won't repeating link in the same description be an
+issue?"
+
+Yes. He is right and it was my mistake.
+
+WHAT I WROTE
+    💬 Request the next one on Discord: https://discord.gg/ESGsGkN4j2
+    🚀 Boost the Discord to bring back discord.gg/mavomusic: https://discord.gg/ESGsGkN4j2
+The same URL, twice, six lines apart, in one description.
+
+WHY IT IS A REAL FAULT
+    1. It reads like a broken template. Someone sees the identical link twice and
+       concludes the page was assembled without anyone reading it back. That is the
+       opposite of the effect the whole copy rewrite is trying to have.
+    2. It spends a line of the CTA saying nothing. The block exists to give one clear
+       next step; two identical links give the same step twice.
+    3. Duplicated outbound links are the pattern YouTube's spam guidance is aimed at.
+       This is not a strike-level problem and I am not going to overstate it, but the
+       upside of repeating the link is zero and the downside is not.
+
+Not a policy violation on its own. Still wrong, and cheaper to fix than to argue about.
+
+THE FIX
+    💬 Request the next one, or boost the server to bring back discord.gg/mavomusic: https://discord.gg/ESGsGkN4j2
+    109 characters. One link. Both asks survive, because they were never two asks -
+    they were one invitation and one reason to take it.
+
+THE PART THAT MATTERS MORE THAN THE FIX
+My own guard should have caught this and did not. diversity_guard.py capped LF
+descriptions at 3 URLs and checked them against the allowlist, but it never looked for
+the same URL appearing twice. So my copy passed TIER 1, TIER 2, every cascade step, and
+I reported ALL GATES GREEN on a description containing an obvious duplicate.
+
+That is the third time in this project a gate has passed something wrong and a human
+has had to find it (the one-hour loop, the 382.3k attribution, now this).
+
+GUARD ADDED
+    diversity_guard.py now fails any LF description where the same URL appears more
+    than once, normalised for case and for a trailing slash. Verified against the exact
+    broken text above: it fails. Verified against the fixed text: it passes.
+
+RULE FOR THE RECORD
+    Two asks may share one link. A link is never printed twice.
+    The approved CTA tail is now fixed text and goes into the channel-wide template.
+
+================================================================================
