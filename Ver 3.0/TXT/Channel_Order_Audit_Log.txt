@@ -3255,3 +3255,47 @@ FINDINGS CARRIED INTO THE CONTEXT BLOCK
   5. Second earning mechanism identified: the SUPPLY VACUUM.
 
 ################################################################################
+
+################################################################################
+CO-0027 | Green Day - X-Kid [PERFORMANCE CUT] | 3:43 | DUPLICATE OF CO-0008
+################################################################################
+
+FOLDER   : _0001 Long Form / 0021 - 0030 / 0027 - Green Day - X-Kid (Long Form)
+CAPTURED : 11 screenshots, all readable.
+NOTE     : this is the SECOND upload of this song. CO-0008 is the play along cut,
+           uploaded 18-02-2024, 4:05, and it earned 407 views and +59 subs.
+           This one took 324 views and ZERO subscribers. Full comparison in
+           MR-0027 and in the DUPLICATE-SONG WATCH section below.
+
+OLD COPY
+  Title   : broken "[]" glyph, #rocksmith #bass #greenday.
+  Desc    : the 2022 shell.
+  Tags    : 10 at 82/500. Six channel identity, then **grinday and grenday -
+            two misspellings of the artist with the CORRECT spelling absent
+            entirely**. The misspelling instinct was right; leaving out
+            "green day" was the error. No song title, no album, no year.
+  Pin     : the "[IMPORTANT INFORMATION]" support wall.
+
+NEW COPY
+  Title   : 64 chars. Artist, song, and the thing that makes this cut different -
+            no chart on screen.
+  Desc    : 998 chars, and the whole point is DIFFERENTIATION. It opens by saying
+            there are two cuts of this song and which one this is, then covers
+            what you notice without the overlay and where the bass actually does
+            its work. Nothing shared with CO-0008's description.
+  Tags    : 16 at 173/500. Adds "green day" properly, x-kid, xkid, x kid, tre,
+            mike dirnt, billie joe armstrong, pop punk, punk rock, 2012. Keeps
+            grinday and grenday - they are plausible typos and cost nothing.
+  Pin     : 133 chars. Trilogies question. Different type from CO-0008's pin.
+  GENRES  : 7 labels. Pop punk primary. Carries an explicit filing note that the
+            two cuts must never share a playlist.
+
+DUPLICATE-SONG WATCH
+  CO-0008  play along   18-02-2024  4:05  407 views  +59 subs
+  CO-0027  performance  31-08-2025  3:43  324 views    0 subs
+  Same song, same badge (E4 + partial block), same GBP 0.00, opposite outcome.
+  New rule: ONE SONG, ONE UPLOAD. A second cut must be a different format with a
+  different job, must not share a playlist with the first, and should be expected
+  to gain nothing. Best answer is usually not to upload it.
+
+################################################################################
