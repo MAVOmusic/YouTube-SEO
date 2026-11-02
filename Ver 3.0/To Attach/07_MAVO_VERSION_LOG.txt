@@ -3845,3 +3845,81 @@ than once, normalised for case and trailing slash. Verified to fail on the broke
 and pass on the fixed text.
 
 **Rule: two asks may share one link. A link is never printed twice.**
+
+================================================================================
+[Ver 4.14] - 2026-11-01 - CO-0017: THE REWRITE DID SOMETHING MECHANICAL
+================================================================================
+
+## MAVO instruction
+*"Always make sure CTA is exciting, never repeats and all title, description and pinned
+are maximum SEO, minimal or no robotic samples people can catch as inauthentic."*
+
+Acted on directly - and the robot was not where I expected. See the footer note.
+
+## CO-0017 - My Chemical Romance, The Foundations Of Decay
+\`iN9k02kmfwK\`, 13-03-2025, 5:59, **3,140 views**, 21.2 h, **+19 subs**, GBP 0.00, **E4**.
+Premiered to a peak of **2** concurrent viewers.
+
+### The first mechanical evidence this project has produced
+"Content suggesting this video":
+- \`Underneath Cute Without the E, a Taking Back Sunday b...\` **66.7%**
+- \`The saddest System Of A Down song is also the...\` **33.3%**
+
+**Those are the NEW titles.** MAVO has applied the CO-0012 and CO-0016 copy, and those
+two videos are now feeding each other inside YouTube's own suggestion lane.
+
+Every previous suggestion panel in seventeen audits showed external videos,
+cold-curated neighbours, or untitled catalogue. This one shows **two of his videos,
+wearing this project's copy, as the recommendation source for a third.** Small - a 0.1%
+slice - but it is the only organic mechanic in the corpus responding to anything we
+have done. Track it.
+
+### The audience moved country
+**Indonesia 92.7%, and no India at all** - the first capture in the audit where India is
+absent. Every other 2025 upload was India-first (81.2 / 38.4 / 70.3 / 77.3).
+
+Also **female 38.6%** (highest in the corpus, others run 27-37%) and **35-44 at 27.4%**
+(highest of the 2025 set). Better targeting - which converted at **0.61%**, the lowest
+of the paid cohort anyway.
+
+**Paid cohort: 0.61 / 0.66 / 0.71 / 0.78 / 0.79.**
+
+### Where the robotic pattern actually was
+Not the sentences - those all differ. **The footer block:**
+\`\`\`
+**Genres:** ...
+**Format:** Full playthrough, on-screen bass tab, no overdubs, no cuts
+🎸 Played on the Thunderbird | 🎮 charted in Rocksmith 2014 Remastered (Steam)
+\`\`\`
+Same three lines, same order, same casing, same place, five uploads running. Far more
+catchable than any single sentence.
+
+**RETIRED.** Replaced with one ordinary sentence carrying the same keywords:
+> Alternative rock, emo, post-hardcore - played once through on the Epiphone
+> Thunderbird, charted in Rocksmith 2014 Remastered, no overdubs and no cuts.
+
+### Fresh CTA - two links, no duplicate, boost folded in
+\`\`\`
+🎸 Heard something in there you want slowed down? Name it below.
+🟣 Every request, every take, every late one - live on Twitch: <twitch>
+💬 Or throw your next request at the server - boost it and we get discord.gg/mavomusic back: <discord>
+\`\`\`
+
+### Pin changed shape
+Six pins in a row asked "which X next". This asks a different question:
+> They went quiet for nine years, came back at midnight, and led with a bassline.
+> What should I take apart next - the comeback, or the old stuff?
+
+### The rest
+- **46.4% from YouTube recommending** - highest of the 2025 set, despite being bought
+- AVD 0:24, **APV 6.8% - lowest percentage-viewed in the audit**
+- **Likes 97.6% vs 97.4%** - the only metric above par, highest like ratio of any 2025 upload
+- End screen 0.0%, bell 63 pushes / 1.6% / 1 view
+- Search 0.7%: \`rocksmith bass\` 13.6, \`rocksmith\` 9.1, **\`mcr acoustic\` 4.6** - someone expected an unplugged version; there is no acoustic content here
+- **Tags: 7 at 70/500** - emptiest box in seventeen audits, 430 characters unused. No full artist name, no song title, no "bass", no "mikey way". Sixth consecutive box naming the platform or a person, never the instrument
+
+### Delivered
+- **Title** (87/100): \`Nine years after MCR split, The Foundations Of Decay gave Mikey Way six minutes of bass\` - opener "Nine", never used in seventeen audits
+- **Desc** (1,728): the nine-year silence, the midnight release, the six-minute length, the bass, and the two kinds of reader
+- **Tags** (15 / 255): full artist name, full song title, \`mikey way\`, \`rocksmith bass\`, \`mcr bass\`, and "return of my chemical romance" for people searching the reunion
+- **Pin** (146): new shape

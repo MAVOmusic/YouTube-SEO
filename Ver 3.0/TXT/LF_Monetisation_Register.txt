@@ -1276,6 +1276,76 @@ DISCORD - MAVO CONFIRMED ESGsGkN4j2 WORKS, AND ASKED FOR A BOOST LINE
     Belongs in the channel-wide CTA template so it appears once, in a fixed place,
     rather than being re-written per video.
 
+--- MR-0017 | CO-0017 | My Chemical Romance - The Foundations Of Decay ---------
+Video ID           : iN9k02kmfwK
+Upload / date      : 13-03-2025 | 5:59 | 3,140 views | 21.2 watch hours | +19 subs
+                     | 3.1k unique viewers
+Premiere           : peak 2 concurrent viewers, average 1
+Notices badge      : E4 INELIGIBLE (flat)
+Revenue            : GBP 0.00 - all panels dashed
+Impressions / CTR  : 6.2k / 2.0% | **46.4% from YouTube recommending** - the highest
+                     of the four 2025 uploads | 124 engaged views | 0:40 imp-AVD
+Watch quality      : AVD 0:24 | **APV 6.8% - the LOWEST percentage-viewed in the
+                     audit** | 22% at 0:30 = typical | curve just under the band
+Likes              : **97.6% vs 97.4% channel** - the only metric at or above par, and
+                     the highest like ratio of any 2025 upload
+End screen CTR     : 0.0% | bell 63 pushes, 1.6% CTR, 1 view
+Devices            : mobile 96.1 / computer 3.4 / tablet 0.3 / TV 0.2
+Audience           : **Indonesia 92.7% - and NO India at all.** First capture in the
+                     corpus where India is absent from the top geographies; every
+                     other 2025 upload was India-first (81.2 / 38.4 / 70.3 / 77.3).
+                     The campaign was aimed somewhere else.
+                     | 25-34 49.3 / **35-44 27.4 - highest of the 2025 set** /
+                     18-24 18.2 / 45-54 5.0
+                     | **female 38.6 / male 61.4 - highest female share in the corpus**
+                     | 97.2% non-subscribed watch time
+CAUSE HYPOTHESIS   : E4-b CATALOGUE-CONTROLLED (2022 major-label single).
+
+*** FIRST TIME IN SEVENTEEN AUDITS: THE SUGGESTION PANEL IS HIS OWN RETITLED WORK ***
+Content suggesting this video (0.1% slice):
+    Underneath Cute Without the E, a Taking Back Sunday b... ... 66.7%
+    The saddest System Of A Down song is also the ... .......... 33.3%
+**Those are the NEW titles written in CO-0012 and CO-0016.** MAVO has applied the copy
+to the live channel, and those two videos are now feeding each other inside YouTube's
+own suggestion lane.
+First observed evidence that the rewrite has done something MECHANICAL rather than
+cosmetic. Every previous "suggested by" panel showed external videos, cold-curated
+neighbours or MAVO's untitled catalogue. This shows two of his videos, wearing this
+project's copy, as the recommendation source for a third. **Internal chaining works.**
+Track whether it grows - it is the only organic mechanic in the corpus that is
+responding to anything we have done.
+
+CONVERSION: +19 from 3,140 = **0.61%**, the lowest of the paid cohort.
+    Paid cohort now: 0.61 / 0.66 / 0.71 / 0.78 / 0.79 across five uploads.
+    Band widened slightly at the bottom; the central finding is unchanged - a bought
+    view converts well under 1%, organic search converts at 8.16%.
+
+SEARCH 0.7% slice: rocksmith bass 13.6 | rocksmith 9.1 | **mcr acoustic 4.6**
+    - "acoustic": someone arrived expecting an unplugged version. There is no acoustic
+      content on this channel. Small signal, real one, about how the thumbnail reads.
+PLAYLISTS 0.1%: Alternative Rock (Alt-Rock) Rocksmith 2014 50% / Punk Rock (Punk)
+    Rocksmith 2014 Bass 50%. Both curated, both on-genre, both cold.
+
+SURFACE FAULTS
+  Tags : **7 at 70/500 - the emptiest tag box in seventeen audits, 430 chars unused.**
+         mavomusic, mavomusicyt, mcr, kick, kickstreaming, kickcommunity, kickpartner.
+         No full artist name. No song title. No "bass". No "mikey way". No "rocksmith
+         bass". Sixth consecutive box that names the platform or a person and never the
+         instrument.
+  Desc : same boilerplate, same dead discord.gg/mavomusic link.
+  Pin  : **byte-identical for the FIFTH confirmed time.**
+  Title: Shorts format on a 5:59 long form, fifth in a row.
+
+MAVO INSTRUCTION (01-11-2026): CTA must be exciting and never repeat; title,
+description and pinned must be maximum SEO with minimal or no robotic samples that
+read as inauthentic.
+    ACTION: the three-line "Genres / Format / Played on the Thunderbird / charted in
+    Rocksmith" bullet footer - carried identically on five uploads - is **removed** and
+    replaced by one sentence carrying the same keywords. That block was the most
+    catchable robotic pattern in the template, because it repeated in the same place,
+    in the same casing, every time. New CTA wording delivered; boost ask folded into
+    the Discord line so the invite still appears once.
+
 THE PLAY ALONG SERIES - COMPLETE, 8 OF 8 AUDITED
 --------------------------------------------------------------------------------
   #  Video                      Views  Unique  Subs  Conv.  Shell  Priority
@@ -1317,14 +1387,14 @@ wave at 1/3 of the Shorts wave's total revenue on 1/3 of the views.
 ################################################################################
 ## ROLL-UP (updated every capture)
 ################################################################################
-Captures audited         : 16 single-video (CO-0001 to CO-0016) + 1 wave (CO-W01)
+Captures audited         : 17 single-video (CO-0001 to CO-0017) + 1 wave (CO-W01)
                            + 1 full-series screen (CO-0003-SERIES, 8 play alongs + 1 loop)
 E1 EARNING-NO-CLAIM      : 0        (still none - see E2)
 E2 EARNING-REV-SHARE     : 1        <-- FOUND 01-11-26: Chopin Nocturne FOUR-HOUR loop,
                                        4,887 views, GBP 0.54. MAVO was right that
                                        a few exist.
 E3 CLAIMED-NOT-EARNING   : 0
-E4 INELIGIBLE            : 26       (CO-0001 to CO-0010 + CO-0012 to CO-0016 + 12/12 of the Aug shipment)
+E4 INELIGIBLE            : 27       (CO-0001 to CO-0010 + CO-0012 to CO-0017 + 12/12 of the Aug shipment)
 E5 BLOCKED (partial)     : 1        <-- CO-0014 Queen, first E5 found. First
                                        confirmed mechanism for a partial block on
                                        an enforced catalogue. 4 of the Aug LFs are
