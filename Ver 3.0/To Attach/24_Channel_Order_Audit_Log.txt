@@ -2791,11 +2791,18 @@ COPY DELIVERED - WITH A CTA CHANGE MAVO ASKED FOR
     They went quiet for nine years, came back at midnight, and led with a bassline.
     What should I take apart next - the comeback, or the old stuff? 👇🎸
 
-  NEW CTA - exciting, no repeated wording, still two links, no duplicates:
-    🎸 Heard something in there you want slowed down? Name it below.
-    🟣 Every request, every take, every late one - live on Twitch: <twitch>
-    💬 Or throw your next request at the server - boost it and we get discord.gg/mavomusic back: <discord>
-  The boost ask is INSIDE the Discord line, not a separate line, so the invite appears
-  once. Different wording from CO-0016's CTA. Two URLs total, both allowlisted.
+  NEW CTA - exciting, no repeated wording, no duplicates:
+    🎸 Something in there you want taken apart slower? Say the word below.
+    🔴 Live most nights on Kick, requests open while I play: https://kick.com/mavomusic
+    🟣 Also multistreaming to Twitch: https://www.twitch.tv/mavomusic
+    💬 Requests land faster in the server - and boosts bring discord.gg/mavomusic back: https://discord.gg/ESGsGkN4j2
+
+  *** REVISED 01-11-2026 AFTER MAVO'S KICK CORRECTION ***
+  My first version led with Twitch and gave Kick no presence at all. MAVO: "Kick has
+  always higher priority over Twitch. I do multistream but Kick is my main revenue base
+  and where most people are. Twitch is just multistream tool for now."
+  Order is now Kick, then Twitch described honestly as a mirror, then Discord. Three
+  URLs, all allowlisted, none repeated. Boost ask stays inside the Discord line so the
+  invite still prints once.
 
 ################################################################################
