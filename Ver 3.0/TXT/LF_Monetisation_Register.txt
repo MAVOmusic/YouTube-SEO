@@ -2403,3 +2403,96 @@ INTERNAL NOTE
   remain the only proven routes - an unclaimed arrangement and an unclaimed bonus
   track. A platinum single is the exact opposite of that.
 --------------------------------------------------------------------------------
+
+--- MR-0032 | CO-0032 | System Of A Down - Roulette --------------------------
+Video ID           : 0E7scWG8JTM | 3:21 | 399 views | 2.8 watch hours
+                     | **+4 subscribers** | 395 unique viewers
+Published          : 31-08-2025 (window to 01-11-2026, 426 days)
+Notices badge      : **"Ineligible to earn / Partially blocked"** - E4 with a
+                     territory restriction. Identical two-line badge to CO-0027.
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : **4.8k - the highest impression count in the corpus** /
+                     1.5% CTR (second best, after CO-0031's 2.0%) /
+                     **91.0% from YouTube recommending - CORPUS HIGH**, against a
+                     band of 43-76% everywhere else | 70 engaged views |
+                     0:43 impression-AVD | 0.86 h from impressions
+Watch quality      : AVD 0:25 | APV 12.6% | 23% at 0:30 - typical
+Likes              : 80.0% - third lowest in the corpus after CO-0028/0030 (75.0%)
+End screen CTR     : 0.0% | bell: zero pushes, zero views | hype 0/0
+Devices            : mobile 80.3 / **computer 19.7 - NEW CORPUS HIGH** (CO-0031's
+                     15.9 was the previous) / TV 0.0
+Audience           : India 55.4 / Indonesia 9.0 / **United States 4.5 - the first
+                     time a Western country has appeared in the top three** |
+                     no demographic data at all | 96.0% of watch time from
+                     non-subscribers
+Traffic            : advertising 76.2 / **browse features 19.1 - CORPUS HIGH** /
+                     suggested videos 2.0 / direct 1.0 / search 0.8 / other 1.0
+External (0.3%)    : Creator Studio 100.0
+Content suggesting : 2.0% - **five distinct channels, none of them MAVO's own**:
+                     Can Max Portnoy... 12.5, Josh Dun Covers Metallica - Master Of
+                     Puppets 12.5, JUST PRETEND - Bad Omens (cover by Sophie B.)
+                     12.5, The 10 Easiest Guitar Riffs for Beginners 12.5, CKY - 96
+                     Quite Bitter Beings Cover 12.5
+Search terms (0.8%): rocksmith 33.3 - one term, nothing else
+Old title          : "System Of A Down - Roulette #rocksmith #bass #systemofadown"
+                     - 62 chars, and "systemofadown" is not a search string
+Old tags           : **7 tags / 71 chars. "roulette" absent. "system of a down"
+                     absent.** "soad" and six channel-identity tags were all that
+                     was in the box.
+Old pin            : the 4,000-character funding wall.
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN + TERRITORY BLOCK.** American Recordings /
+                     Rick Rubin's camp, a 2002 major-label record. Same badge as
+                     CO-0027, and the same lesson: the partial block is a property
+                     of the rights holder, not of the metadata.
+
+*** THE HIGHEST IMPRESSION COUNT AND THE STRONGEST ORGANIC RATIO IN THE CORPUS ***
+
+  4.8k impressions, and **91.0% of them came from YouTube recommending the video**.
+  Every other upload sits between 43% and 76%. This is the first time the
+  recommendation system has actively worked for the channel.
+
+  Why it probably happened: content suggesting names FIVE DIFFERENT CHANNELS - a
+  Portnoy drum video, a Metallica drum cover, a Bad Omens cover, a beginner guitar
+  riff lesson, a CKY cover. **None of them are MAVO's.** Every earlier upload was
+  suggested only beside MAVO's own videos. The algorithm worked out what the video
+  was and who else watches it.
+
+  And it is a quiet acoustic ballad at track fifteen of a 2002 outtakes album, in
+  standard tuning, on a channel that otherwise plays down-tuned metal on a bass.
+  **The thing that got recommended was the odd one out.**
+
+  Result: GBP 0.00, because the record is claimed and blocked in some territories.
+
+*** +4 SUBSCRIBERS FROM 399 VIEWS - 1.00%, THE BEST SINCE CO-0025 ***
+
+  The paid cohort has run 0.00% to 1.14%. This is at the top of the range, and it
+  is the only upload so far that both reached an audience through recommendation
+  AND converted it. Everything else was either bought traffic or a video the
+  algorithm ignored.
+
+  A 4-subscriber video earning nothing is the clearest illustration yet of what the
+  channel is actually sitting on: **demand for odd, quiet, out-of-place material,
+  and a catalogue that cannot be monetised when that material belongs to somebody
+  else.**
+
+WATCH QUALITY
+  AVD 0:25 on 3:21, APV 12.6%, 23% at 0:30, all ordinary to good. Likes 80.0% is
+  the third lowest in the corpus - one in five likes was a dislike. On this genre
+  of track that is a defensible split: half the comments on System Of A Down
+  ballads are people explaining that they hate System Of A Down ballads.
+
+DEVICE AND GEOGRAPHY SHIFT
+  Computer 19.7% is a new corpus high, on top of CO-0031's 15.9. Two uploads in a
+  row where desktop is nearly a fifth of watch time. The United States appearing at
+  4.5% is the first Western country in any top-three - India and Indonesia have
+  taken every other slot across 32 audits. **Western metal audiences watch on
+  desktop; the paid traffic watches on mobile.** That is a targeting fact, not a
+  copy fact.
+
+INTERNAL NOTE
+  Do not rebuild. Two System Of A Down songs, two E4s, one of them blocked in
+  territories. But DO record the format signal: the video that the recommendation
+  system pushed hardest was also the one furthest from the channel's normal output.
+  That belongs in the Phase 3 planning, not the copy.
+--------------------------------------------------------------------------------
