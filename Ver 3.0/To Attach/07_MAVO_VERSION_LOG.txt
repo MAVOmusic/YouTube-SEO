@@ -3715,3 +3715,98 @@ runtime** - best retention shape of the four 2025 uploads. Does not contradict Q
 - **Desc** (1,821): Sehnsucht (1997), the vow and the "nein", the Du hast / Du hasst homophone, Oliver Riedel treating the bass as machinery
 - **Tags**: 9 at 94/500 -> **15 at 213**, correct spelling present for the first time
 - **Pin** (114): no links, no money
+
+================================================================================
+[Ver 4.12] - 2026-11-01 - CO-0016 SOAD: THE 382.3k RESOLVED AT 99.6% PAID
+================================================================================
+
+## Discord settled
+MAVO: *"The following link works: discord.gg/ESGsGkN4j2"*. No more hedging.
+
+He also asked viewers be told they can **gift boosts to restore the official
+`discord.gg/mavomusic`**. Added as **ONE line** directly under the invite -
+not a new section. The last four descriptions became fundraising documents because
+every appeal got its own headed block:
+
+> Boost the Discord to bring back discord.gg/mavomusic: https://discord.gg/ESGsGkN4j2
+
+Belongs in the channel-wide CTA so it appears once, in a fixed place.
+
+## CO-0016 - System Of A Down, Lonely Day
+`WCJcAr5bJhk`, 12-02-2025, 2:49, **382,306 views**, 357.3k unique, 1.9k watch hours,
+**+3k subs**, GBP 0.00, **E4**.
+
+| Traffic | Share |
+| --- | --- |
+| **YouTube advertising** | **99.6%** |
+| Browse / Playlists / Channel pages | 0.1% each |
+| External | 0.0% |
+
+Highest paid share of any capture. Largest view count in the corpus, by 35x. **The
+number that has followed this project since CO-0012 is now fully evidenced.**
+
+### The free period is visible - most useful thing in the capture
+Curve flat and near zero for the **first ~100 days**, lifting sharply **late May to
+early September 2025**, then flat. Published February. **The campaign ran three to
+seven months after upload**, which means the unpaid performance is already measured:
+approximately nothing.
+
+**That kills the last version of a story I have been telling since CO-0012.** There was
+no "SOAD works on this channel". There was a campaign. The song did nothing on its own
+for a hundred days, in public. SSL map -> **v4**, SOAD removed as a demand signal.
+
+### The paid rate is now a constant
+| Video | Views | Subs | Rate |
+| --- | --- | --- | --- |
+| CO-0012 | 10,723 | +85 | 0.79% |
+| CO-0013 | 1,694 | +12 | 0.71% |
+| CO-0015 | 4,222 | +28 | 0.66% |
+| **CO-0016** | **382,306** | **+3k** | **0.78%** |
+
+226x spread in views, no movement in rate. **A bought view converts at 0.7-0.8%
+regardless of scale**, against **8.16%** for organic play along traffic.
+
+**And the other half: 3,000 subs is SEVEN TIMES the 423 the whole play along series
+produced.** A poor rate on an enormous number still moves the channel. Both true.
+
+### Retention did not matter
+AVD 0:17, APV 10.7%, **17% at 0:30 below typical**, 1.9k watch hours from 382,306
+views. **Second-worst retention in the audit on the biggest video.** Retention tells
+you whether an audience wants to stay; money tells you whether they arrive.
+
+### Buy signature
+mobile **99.7%**, India 77.3 + Indonesia 22.1 = **99.4%**, 25-34 51.6%, realtime
+**3 views in 48h**.
+
+### "34.8% of nothing"
+Search slice is **0%**. Inside it: `rocksmith bass` 34.8%. **A percentage without its
+base is worthless** - and I have been quoting percentages like that for sixteen audits.
+
+### Five of five "viewers also watch" are MAVO's own videos
+`What To Expect At kick.com` 280 views · `Aephanemer` 56 · `Emiliem/Stan` 28 ·
+`Blink-182` 9 · `009 Sound System Dreamscape` **11.0k**
+**The most expensive audience ever bought was handed a catalogue with 9, 28 and 56-view
+videos at the end. The spend worked and the destination did not.**
+Also surfaced **009 Sound System - Dreamscape at 11,000 views**, the second-largest
+figure in the project, recorded in no other file.
+
+### The tag pattern, five videos deep
+9 at 91/500: `mavomusic`, `mavomusicyt`, `soad`, four `kick` tags, **`serj`,
+`serj tankian`**. **The singer is named twice; the bassist never.** No "lonely day",
+no "system of a down", no "bass".
+
+| Video | What the tags named |
+| --- | --- |
+| CO-0013 | the GAME, 19 times |
+| CO-0014 | Freddie Mercury 4x (3 misspelled), Deacon never |
+| CO-0015 | three misspellings of the band, correct spelling never |
+| CO-0016 | the singer twice, the bassist never |
+
+**Every tag box names the frontman or the platform. Not one names the instrument the
+channel is about.** One habit, not five mistakes - and the easiest thing to fix.
+
+### Delivered
+- **Title** (79/100): `The saddest System Of A Down song is also the simplest bassline they ever wrote` - opener "The saddest", never used in sixteen audits
+- **Desc** (1,891): Hypnotize (2005), Malakian's one bad day, Odadjian's restraint in Drop C, and the two different lessons the same part teaches
+- **Tags**: 9 at 91/500 -> **15 at 217**
+- **Pin** (105): no links, no money

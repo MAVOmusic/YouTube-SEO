@@ -38,6 +38,14 @@ I cannot rank this library by viral probability, and neither can anything else.
 What I can do is tell you what the channel's own numbers say, because they say
 something unusual.
 
+*** RESOLVED 01-11-2026, CO-0016: THE 382.3k IS PAID, AND THE PANEL SAYS SO ***
+The full panel is now captured. `WCJcAr5bJhk`, 12-02-2025, 2:49, **382,306 views,
+99.6% YouTube advertising**, GBP 0.00, +3k subs. It is a long form, it is MAVO's
+biggest campaign, and it is the largest view count in the corpus by 35x.
+**Do not treat it as a demand signal. It is a purchase.**
+The videos MAVO actually owns a demand signal for are the ones with search traffic:
+CO-0014 Queen at 8.7% and the eight play alongs at 60-70%.
+
 *** CORRECTION 01-11-2026, MAVO: THE 382.3k IS NOT ORGANIC ***
 I wrote in v1 of this map that the SOAD figure was "ORGANIC, unexplained". MAVO
 corrected it: "That SOAD song is long form and my biggest ad campaign."
@@ -156,11 +164,14 @@ subscriber conversion (11-29%).
 BEST TRAFFIC TARGETS, BY EVIDENCE - NOTE THAT "EVIDENCE" HERE MEANS PROVEN
 ADJACENCY OR PROVEN SEARCH BEHAVIOUR ON THIS CHANNEL, NOT PROVEN VIEW COUNTS.
 Every view count above 1,700 in this project was bought or news-served:
-    SYSTEM OF A DOWN (62 in library, 3 packaged) - the 382.3k was a PAID campaign,
-        so it is not a demand signal. What it does show is that MAVO already believes
-        in this catalogue enough to spend on it, and that Chop Suey!, Aerials and
-        B.Y.O.B. have never been tried without money behind them. Worth one test
-        upload with no ad spend, to see what the song does on its own.
+    SYSTEM OF A DOWN (62 in library, 3 packaged) - **the 382.3k is now fully
+        captured and it is 99.6% paid.** Critically, the curve shows the video sat near
+        zero for its first ~100 days before the campaign started, which means the
+        unpaid performance of a SOAD long form is already measured: almost nothing.
+        So SOAD is NOT a proven demand signal, and recommending it as one was my
+        error twice over. What remains true: 59 SOAD songs are unused and 3,000 subs
+        arrived from one campaign, so it is the catalogue MAVO has already bet on.
+        Treat any further SOAD upload as a fresh test with no assumptions.
     TAKING BACK SUNDAY (13 in library, 0 packaged) - Make Damn Sure is their biggest
         song by a distance and it is sitting unused. You have just done Cute Without
         the E.
@@ -215,6 +226,9 @@ Third, and only then:
 ################################################################################
 CORRECTION LOG
     v1 (01-11-2026) - first pass, built from CO-0012's side panels.
+    v4 (01-11-2026) - CO-0016 captured. The 382.3k figure is RESOLVED: 99.6% paid,
+                      and the free period before the campaign is visible and close to
+                      zero. SOAD removed as a "demand signal" recommendation.
     v3 (01-11-2026) - MAVO confirmed _SSL is his OWN StreamerSonglist database, not a
                       third-party export. Ownership note corrected. No IP concern.
     v2 (01-11-2026) - MAVO corrected the SOAD 382.3k figure: it is his biggest AD
@@ -223,5 +237,5 @@ CORRECTION LOG
                       "a bet he already made", and the paid-vs-organic conversion
                       ratio added from CO-0013.
 ################################################################################
-END - SSL DEMAND MAP v3
+END - SSL DEMAND MAP v4
 ################################################################################
