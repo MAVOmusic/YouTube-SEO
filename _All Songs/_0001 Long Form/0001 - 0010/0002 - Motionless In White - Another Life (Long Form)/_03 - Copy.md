@@ -33,3 +33,15 @@ motionless in white, another life, motionless in white another life, graveyard s
 ```text
 This one gets asked for at every single stream and I have never once minded. What is the song you have requested most in your life?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Metalcore** | documented, primary | main metalcore lane |
+| Melodic metalcore | documented | melodic metalcore, pairs with Killswitch and A7X |
+| Gothic metalcore | documented - the scene term for this band | gothic metalcore lane |
+| Alternative metal | documented | alt-metal crossover lane |
+| Nu metal | elements only, late-album direction | use sparingly, do not file as nu metal |
+
+5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.

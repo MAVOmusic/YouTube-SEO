@@ -33,3 +33,15 @@ system of a down, lonely day, system of a down lonely day, hypnotize, shavo odad
 ```text
 This one is four notes and a countdown. If you had to pick a track that proves a bass player is not needed to be busy, what would it be?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Alternative metal** | documented, primary | alt-metal lane |
+| Nu metal | documented - the band's home genre | nu metal lane, pairs with the 2000s bands |
+| Acoustic rock | documented - this track is acoustic-led | acoustic and unplugged lane |
+| Hard rock ballad | documented - the format | power ballad and slow lane |
+| Armenian folk influence | artist context, audible in melody | optional |
+
+5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.

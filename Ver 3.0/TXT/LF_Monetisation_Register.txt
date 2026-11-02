@@ -1483,3 +1483,58 @@ independent sighting of internal chaining after CO-0017.
 "Viewers also watch" is also mostly his own catalogue: CO-0002 (1.1k), Iron Maiden
 Wasted Years, Dire Straits Sultans Of Swing, the 2010s pop bass Shorts, CO-0009.
 --------------------------------------------------------------------------------
+
+--- MR-0019 | CO-0019 | Rage Against The Machine - Take The Power Back -----------
+Video ID           : j2m1RY2P7-s | 5:37 | 333 views | 2.4 watch hours | +2 subs
+                     | 323 unique viewers
+Premiere           : peak 2 concurrent, average 1
+Notices badge      : **E4 INELIGIBLE + PARTIAL BLOCK** - second consecutive video
+                     with both badges. CO-0018 was the first. Two in a row means
+                     this is not a one-off; treat it as the normal state of the
+                     2025 paid uploads, not the exception.
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : 2.6k / 1.7% | 43.5% from YouTube recommending | 43 engaged
+                     views | 0:31 impression-AVD | 0.37 h watch time from impressions
+Watch quality      : AVD 0:26 | **APV 7.7% - second lowest in the corpus**, only
+                     CO-0017 (6.8%) is lower | **17% still present at 0:30, the
+                     first capture flagged "below typical"** - every other 2025
+                     upload sat in the typical band
+Likes              : **100.0% vs 97.4% channel - a perfect ratio.** Nobody who
+                     rated this video disliked it. This is the direct opposite of
+                     CO-0018 (79.4%) and it is the single cleanest sentiment read
+                     in the whole audit.
+End screen CTR     : 0.0% | bell 201 pushes, 1.0% CTR, 2 views
+Devices            : mobile 89.9 / computer 10.1 / TV 0 - no tablet share at all
+Audience           : India 73.6 / Indonesia 12.3 | **"not enough demographic data"
+                     on age, gender and watch behaviour - FIRST capture in the
+                     corpus too small to sample.** 333 views is below the
+                     threshold. Also the first "Viewers also watch: not enough
+                     eligible audience data".
+                     | 91.5% non-subscribed watch time | 100% no subtitles
+Traffic            : YouTube advertising 85.0 / **browse features 11.1 - the
+                     highest browse share in the corpus** / channel pages 0.9 /
+                     YouTube search 0.9 / external 0.6 / other 1.5
+                     Browse at 11.1% on 333 views is the only organic signal here
+                     that is not a rounding error.
+Search terms (0.9%): rocksmith bass 33.3 / **take the power back live 33.3**
+                     The second term is a mismatch: the searcher wants a live
+                     performance, the video is a bass chart. Nothing in the copy
+                     can convert that intent, and nothing should try.
+External (0.6%)    : com.google.android.youtube-o-ytm 50.0 - the YouTube Music app
+Content suggesting : Perennial Quest 100.0 (0.3%) - external, single neighbour
+CAUSE HYPOTHESIS   : E4-a CLAIM-DRIVEN, Epic / Sony catalogue. The 1992 debut is
+                     one of the most claimed records in existence and the audio
+                     will match on any territory's Content ID. Remake rule: this
+                     composition cannot be cleared, so do not re-record it.
+
+CONVERSION: +2 from 333 = **0.60% - the lowest of the paid cohort**, and the
+smallest view count of any 2025 upload by a factor of three.
+
+THE CONTRAST THAT MATTERS
+CO-0018: 4,862 views, 79.4% likes, 0.99% conversion.
+CO-0019:   333 views, 100.0% likes, 0.60% conversion.
+Fourteen times the traffic produced twenty points less approval. Views are being
+bought; approval is not. Every paid upload in this corpus is renting an audience
+that did not choose the video, which is why the conversion rate never moves
+between 0.60% and 0.99% no matter the song.
+--------------------------------------------------------------------------------

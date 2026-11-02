@@ -33,3 +33,15 @@ motionless in white, america, motionless in white america, infamous, drop d, dro
 ```text
 One string, four minutes, no room to improvise. What is the heaviest thing you play in Drop D?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Metalcore** | documented, primary | main metalcore lane |
+| Melodic metalcore | documented | melodic metalcore lane |
+| Gothic metalcore | documented | gothic metalcore lane |
+| Nu metal | elements in the groove | optional, use lightly |
+| Alternative metal | documented | alt-metal crossover |
+
+5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.

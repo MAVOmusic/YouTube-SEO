@@ -33,3 +33,16 @@ my chemical romance, foundations of decay, the foundations of decay, mcr, mcr ba
 ```text
 Midnight comeback, bass first. Name a band whose return single was better than anything on the record before it.
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Emo** | documented, primary | main emo lane |
+| Post-hardcore | documented | post-hardcore lane |
+| Alternative rock | documented | alt-rock lane |
+| Hard rock | documented - heavier than anything on the 2006 record | hard rock lane |
+| Emo revival | documented - the 2020s wave | emo revival lane |
+| Art rock / post-rock | structural, the six minute build | long-form and build lane |
+
+6 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.

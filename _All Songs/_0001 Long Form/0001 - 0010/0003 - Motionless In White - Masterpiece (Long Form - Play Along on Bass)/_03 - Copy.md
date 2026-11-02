@@ -33,3 +33,15 @@ motionless in white, masterpiece, motionless in white masterpiece, infamous, met
 ```text
 Half speed, then the real tempo. That order has never let me down. What song did you learn far too fast and have to unlearn?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Metalcore** | documented, primary | main metalcore lane |
+| Melodic metalcore | documented | melodic metalcore lane |
+| Gothic metalcore | documented | gothic metalcore lane |
+| Alternative metal | documented | alt-metal crossover |
+| Industrial metal | light elements only | optional |
+
+5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.

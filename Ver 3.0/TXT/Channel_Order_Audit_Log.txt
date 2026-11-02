@@ -2918,3 +2918,48 @@ NEW STANDING RULE - GENRE BLOCK (MAVO, 02-11-2026)
   labels, and names the single best playlist lane plus the best two-genre pair.
 
 ################################################################################
+
+################################################################################
+CO-0019 | Rage Against The Machine - Take The Power Back | 5:37
+################################################################################
+
+FOLDER   : _0001 Long Form / 0011 - 0020 / 0019 - Rage Against The Machine -
+           Take The Power Back (Long Form)
+CAPTURED : 11 screenshots, all readable.
+UPLOADED : 31 Aug 2025, premiered (peak 2 concurrent).
+
+OLD COPY - the 2022 shell again, unchanged from CO-0018
+  Title   : broken "[]" glyph, then "[B[]" bracket artefact, then
+            #rocksmith #bass #rageagainstthemachine. No song name in plain text
+            outside the artist-song dash, no bassist, no album.
+  Desc    : the full template - Super Thanks pitch, Kick subscribe link, "we are
+            officially a Kick Partner", dead invite discord.gg/mavomusic with the
+            "type mavomusic into the invite box" instruction, X, TikTok, Rumble,
+            Twitch, "Be part of our community (^-^)", "Much love", licence note.
+  Tags    : **7 tags at 71/500 - the emptiest tag box in the corpus so far.**
+            Six are channel identity (mavomusic, mavomusicyct, kick, kickpartner,
+            kickstreaming, kickcommunity). The seventh is "ratm". Not one of them
+            is a genre, an album, a bassist or a search phrase.
+  Pin     : the "[IMPORTANT INFORMATION]" support wall, identical to CO-0018's.
+
+NEW COPY
+  Title   : 80 chars. Names the band, the song, and the bassline. No hashtags.
+  Desc    : 919 chars. Opens on the November 1992 debut and track six, then the
+            Drop D weight and the behind-the-beat placement, then the four note
+            descent. Three CTA lines, one closing sentence.
+  Tags    : 16 tags at 212/500. Band, song, abbreviation, bassist, four genre
+            lanes, platform family, year and tuning.
+  Pin     : 149 chars, one question - what bassline would you use to explain funk
+            to a metal fan. Different question type from every prior pin.
+  GENRES  : 9 labels. Rap metal primary, funk metal as the best fit for the bass.
+
+GENRE BACKFILL COMPLETE
+  The Ver 4.18 rule has been applied backwards to CO-0001 through CO-0017. All
+  nineteen folders now carry a "## GENRES (playlist reference - do not paste)"
+  block listing every genre each song genuinely carries, with a status column and
+  a playlist lane per label. Totals ranged 3 to 9 labels per song. Two entries are
+  deliberately flagged as traps: CO-0001 is dark ambient and dungeon synth, NOT
+  black metal despite the artist; CO-0016 and CO-0002 are marked as nu metal
+  "elements" only, not as members of the wave.
+
+################################################################################

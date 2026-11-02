@@ -33,3 +33,14 @@ slayer, war ensemble, seasons in the abyss, thrash metal, thrash bass, tom araya
 ```text
 One voice, one bass, no room to breathe between them. Which Slayer record would you want done next?
 ```
+
+## GENRES (playlist reference - do not paste)
+
+| Genre | Status | Playlist lane |
+|---|---|---|
+| **Thrash metal** | documented, primary | main thrash lane |
+| Speed metal | documented - the exact tempo profile | speed metal lane |
+| Heavy metal | umbrella | heavy metal lane |
+| Extreme metal | umbrella | extreme metal lane |
+
+4 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
