@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.38 ACTIVE - 2026-11-02]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.39 ACTIVE - 2026-11-02]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -1464,3 +1464,38 @@ without polluting the list.
 Rammstein - Amerika. Neither has been panel-audited yet.
 
 **Next:** the full CO-0039 + CO-0040 audit pass, with the split genre block.
+
+################################################################################
+VER 4.39 STATUS ENTRY | 02-11-2026 | CO-0027 RE-CUT, THE FALSE FORMAT CLAIM
+################################################################################
+
+**MAVO CAUGHT A FABRICATION ACROSS THREE SURFACES.** CO-0027's title said "No chart,
+no overlay", and its description split the catalogue into a lesson cut (CO-0008) and
+a performance cut (CO-0027) that do not exist. Verbatim:
+
+  "It notes as play along and not chart and overlay. I literally play this song on
+   bass while overlay is on screen. Every video has overlay on screen. Redo this
+   for me"
+
+**He is right.** Studio's own description field for the video reads "played on
+Rocksmith 2014 Remastered game and recorded during a Live Stream on Kick". The chart
+runs for the full 3:43.
+
+**What actually separates the two cuts:** runtime and date. CO-0008 4:05, 18-02-2024,
+407 views, +59 subs. CO-0027 3:43, 31-08-2025, 324 views, 0 subs. Both chart on
+screen, both E4 + partially blocked, both GBP 0.00. The duplicate rule stands.
+
+**New ban, DS-B3 in the copy register:** no surface may describe the chart, the
+overlay or the tab as absent. Name what is on screen - it is on screen on every
+upload. Two title versions of CO-0027 were deleted for this, and the second one had
+already been sitting in the register as a good example.
+
+**Rewritten surfaces:** title 54 chars (object first, origin clause), description
+1409 chars opening on the chart running then the live-stream truth, tags 16 at 179
+including "rocksmith 2014" and "live stream", pin 126 chars live-take versus studio
+take. Sweep remains zero at 9/8/7/6 across 38 files.
+
+**Two blocks exist now, not one:** GENRE FINDINGS (internal, keeps the grey areas
+and the exclusions) and CORRECT GENRES (what MAVO reads). CO-0027's are in the file.
+
+**Next:** CO-0039 + CO-0040 audit pass.

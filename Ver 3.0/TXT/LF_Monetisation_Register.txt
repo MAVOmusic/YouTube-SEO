@@ -2890,3 +2890,35 @@ INTERNAL NOTE
   the fourth Warner-family GBP 0.00 in a row (CO-0026 through the Atlantic pair,
   now this). Nobody should be surprised.
 --------------------------------------------------------------------------------
+
+################################################################################
+## CORRECTION 2026-11-02 (VER 4.39) - MR-0027, THE FALSE FORMAT CLAIM
+################################################################################
+  MAVO, verbatim: "It notes as play along and not chart and overlay. I literally
+  play this song on bass while overlay is on screen. Every video has overlay on
+  screen."
+
+  He is right and the error ran through three surfaces plus this register. MR-0027
+  and the channel order log both described CO-0027 as a "performance cut" with no
+  chart on screen, sold against CO-0008 as the "lesson cut" with the chart. There
+  is no such split. The Studio panel for CO-0027 reads:
+
+    "Green Day - X-Kid played on Rocksmith 2014 Remastered game and recorded
+     during a Live Stream on Kick."
+
+  The chart is on screen for the entire 3:43, exactly as it is on CO-0008 and on
+  every other upload in this catalogue. The differentiation I built was fiction.
+
+  WHAT ACTUALLY SEPARATES THE TWO CUTS
+    CO-0008  4:05  18-02-2024  407 views  +59 subs
+    CO-0027  3:43  31-08-2025  324 views    0 subs
+  Runtime and date. Both are chart-on-screen play alongs, both E4 + partially
+  blocked, both GBP 0.00. Neither earns and the second one cost the first some of
+  its audience. The duplicate rule stands - one song, one upload - and nothing in
+  the copy can undo it.
+
+  NEW RULE FOR EVERY FUTURE DESCRIPTION
+    Never describe the absence of the chart, the overlay or the tab. Name what is
+    on screen. The format is the format on all 2,500+ uploads, so an absence claim
+    is both false and instantly checkable by any viewer.
+################################################################################

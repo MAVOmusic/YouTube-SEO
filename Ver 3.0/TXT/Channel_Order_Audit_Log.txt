@@ -3277,12 +3277,12 @@ OLD COPY
   Pin     : the "[IMPORTANT INFORMATION]" support wall.
 
 NEW COPY
-  Title   : 64 chars. Artist, song, and the thing that makes this cut different -
-            no chart on screen.
-  Desc    : 998 chars, and the whole point is DIFFERENTIATION. It opens by saying
-            there are two cuts of this song and which one this is, then covers
-            what you notice without the overlay and where the bass actually does
-            its work. Nothing shared with CO-0008's description.
+  Title   : 64 chars. CORRECTED in Ver 4.39 - the original said "no chart, no
+            overlay", which is FALSE. Every upload here has the chart on screen.
+  Desc    : 998 chars, DIFFERENTIATION - and wrong. It split the catalogue into a
+            "lesson" cut and a "performance" cut that do not exist. Superseded in
+            Ver 4.39 by a description that states the format plainly: the chart is
+            on screen and the take came off a live stream. Nothing shared with CO-0008's description.
   Tags    : 16 at 173/500. Adds "green day" properly, x-kid, xkid, x kid, tre,
             mike dirnt, billie joe armstrong, pop punk, punk rock, 2012. Keeps
             grinday and grenday - they are plausible typos and cost nothing.
@@ -4207,4 +4207,35 @@ DIVERSITY - ALL THREE VIDEOS
   drafts were discarded for shape reuse before they reached the sweep, and one
   5-gram echo in CO-0038 ("why the low end has") was reworded after the first pass
   collided with CO-0033.
+################################################################################
+
+################################################################################
+CO-0027 RE-CUT | Green Day - X-Kid | Ver 4.39 | 02-11-2026
+################################################################################
+  MAVO'S CORRECTION
+    "It notes as play along and not chart and overlay. I literally play this song
+    on bass while overlay is on screen. Every video has overlay on screen."
+
+  Both earlier versions of this title claimed the absence of the chart, and the
+  description built an entire lesson-cut versus performance-cut story around it.
+  Studio's own description field says the opposite: "played on Rocksmith 2014
+  Remastered game and recorded during a Live Stream on Kick."
+
+  NEW SURFACES
+    Title   : 54 chars - "The X-Kid take that came off a live stream in one pass".
+              Object first, origin clause second. New skeleton.
+    Desc    : 1409 chars - opens on the chart running, because it always runs,
+              then the actual differentiator (single live-stream attempt), then
+              what Dirnt does with the octave drop, then the honest note that a
+              score is not a feel.
+    Tags    : 16 at 179/500 - adds "rocksmith 2014" and "live stream", keeps the
+              two plausible misspellings, drops nothing that was working.
+    Pin     : 126 chars - live take versus studio take, an opinion fork rather
+              than a nomination. P-opinion-fork, first use on this song.
+  Genre block is now split: GENRE FINDINGS (internal) and CORRECT GENRES
+  (Pop punk / Punk rock / Alternative rock / Power pop / Pop rock / 2010s pop punk).
+
+  NEW BAN (DS-B3 in the copy register, TS row 0027 in the title register)
+    No surface may describe the chart, the overlay or the tab as ABSENT. It is on
+    screen on all 2,500+ uploads.
 ################################################################################
