@@ -140,6 +140,25 @@
   0038    single observation about the mix                P-craft-question
 
 ################################################################################
+# GENRE BLOCK - SPLIT INTO TWO ELEMENTS (VER 4.38, MAVO 02-11-2026)
+################################################################################
+  MAVO, verbatim: "From now on when you looking for genre, split into 2 elements.
+  1 is your findings and the other what you says ARE the correct genres... Listing
+  unnecessary genres into the block i look for things to add is not really good,
+  especially not noticing you say DO not add and add anyways because is in the
+  block i expect a list of genres to add."
+
+  GENRE FINDINGS  - internal. Audit log and copy file only. Research, grey areas,
+                    and every exclusion.
+  CORRECT GENRES  - the only block MAVO sees. Genres that genuinely apply, best
+                    first. No "elements only", no "NOT applicable", no themes, no
+                    umbrellas that add nothing beside a precise label.
+
+  Cleared output for the first forty audits: TXT/Genre_Canonical_0001_0040.txt.
+  From CO-0039 onward the per-song block in the copy file is CORRECT GENRES only,
+  and the reasoning moves to GENRE FINDINGS.
+
+################################################################################
 # BANNED / RESTRICTED
 ################################################################################
 
@@ -164,6 +183,10 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.38. Genre block split into FINDINGS and CORRECT GENRES on
+              MAVO's instruction - he was reading the exclusion rows as
+              recommendations. All 40 earlier blocks reworked into a single clean
+              list. No copy surface changed.
   2026-11-02  VER 4.37. Three rows added for CO-0036/37/38. First use of D23,
               D18 and D17, and first use of P17, P18 and P15 - all six were in the
               pool and none had been drawn. Opener check against the previous
