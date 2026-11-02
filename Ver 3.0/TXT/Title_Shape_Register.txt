@@ -171,6 +171,10 @@
           new skeleton - a fact about a second version carries the title and the
           song name appears only as a numeral
   0054    person + hid [superlative thing] in [position]         Mark Hoppus hid the lightest song on the album in track two
+  0055    [song] closes [band]'s album with [N minutes] of X     Chapter XIII closes +44's album with five minutes of revenge
+          new skeleton - the song as subject with a closing verb, possessive band
+          mid-sentence, a duration and an abstract noun at the tail. No naming
+          frame, so it does not echo 0053 despite both being lore titles.
           new skeleton - a named individual as the subject, a concealment verb, a
           track number at the tail instead of the song title
 
@@ -226,6 +230,12 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-02  VER 4.49. Row added for CO-0055. Third consecutive +44 title and it
+              shares nothing with 0053 or 0054 - 0053 names a fact about a demo, 0054
+              gives the front to a person, 0055 gives it to the song and a duration.
+              Checked against the previous eight: no possessive opener (the possessive
+              is mid-sentence), no "is" opener, no date opener, no question (last was
+              0036).
   2026-11-02  VER 4.48. Rows added for CO-0051 to CO-0054 - three consecutive pairs
               by one artist in this run (G)I-DLE, (Hed) P.E., +44, and no pair shares
               a skeleton. Checked against the previous eight: no possessive, no "is"

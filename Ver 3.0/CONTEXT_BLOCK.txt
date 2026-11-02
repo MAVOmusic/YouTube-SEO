@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.48 ACTIVE - 2026-11-02]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.49 ACTIVE - 2026-11-02]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -1984,3 +1984,50 @@ clauses. Title register repaired: the 0044/0046/0048 comment blocks had drifted 
 the end of the file during the 4.45 pass and are now back under their own rows.
 
 **Next:** CO-0055 + CO-0056. The 0051 - 0060 bucket is live.
+
+################################################################################
+VER 4.49 STATUS ENTRY | 02-11-2026 | CO-0055 - END SCREEN RECORD, STALE PANEL
+################################################################################
+
+**+44 (Plus 44) - Chapter XIII. Clean E4, GBP 0.00.** 55 audits, 6 earners,
+GBP 0.751, 49 of 55 at zero. Single audit this cycle; 0056 was not supplied.
+
+*** NEW RECORD: END SCREEN CTR 5.6% ***
+  Against a 1.1% channel average, overtaking CO-0043's 5.3%. It arrives on a video
+  with **the lowest APV in the batch (9.8%)** and a five minute unresolved outro -
+  the people who stayed clicked. Both of the channel's best end screen rates now sit
+  on long songs, which is the first plausible mechanism found for that panel.
+
+*** THE BEST-INTENT SEARCH TERM IN 55 AUDITS ***
+  **"chapter 13 plus 44" at 33.3%.** Numeral instead of roman, artist appended, no
+  format word, no "live". This is exactly what the tag rewrite is for: the old box
+  carried fourteen tags, none of them the song.
+
+*** CAPTURE DEFECT: STALE OVERVIEW PANEL ***
+  `_01 Overview 2` reads 4:26 / AVD 0:29 / APV 11.3% / 26% at 0:30 - and 4:26 is
+  CO-0046's runtime. Every other panel agrees on 4:50 / 0:28 / 9.8% / 21%. The
+  register uses the majority. **Second stale capture in the series after CO-0038.**
+  Rule for the five-at-a-time batches: check panel agreement before writing anything.
+
+*** TWO MORE SHIFTS ***
+  **Desktop 29.2%** is the highest in the register (CO-0046 held 22.0), and subscriber
+  watch time at 9.2% is the second-highest ever recorded behind the CO-0053 Premiere.
+  Both point the same way: the +44 uploads are reaching people who watch on a computer
+  and some of them are already subscribed, unlike the ad-driven India-heavy norm.
+
+*** THE SUBSCRIBER PANEL CAME BACK DASHED ***
+  No subscriber figure at all this time, after +5 on CO-0053 and +1 on CO-0054. Logged
+  as no data, not as zero.
+
+**Title:** 0055 "Chapter XIII closes +44's album with five minutes of revenge" (60) -
+the song as subject, possessive mid-sentence. Third consecutive +44 title sharing
+nothing with the other two.
+**Lengths:** desc 1538 / tags 16-208 / pin 139.
+**GENRES:** Pop punk, Alternative rock, Emo pop.
+**Gate:** n-gram sweep over 55 files clean at 8, 7, 6 and 5-grams after four rewording
+passes on the CTA block. verify.sh green.
+
+**Next:** MAVO moves to FIVE audits per cycle from CO-0056. Expect 0056 to 0060 next;
+the `0051 - 0060` bucket is live and `0061 - 0070` already exists for the overflow.
+When five land, read all five before writing any of them, and run the stale-panel
+agreement check on each.

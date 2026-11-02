@@ -5186,3 +5186,68 @@ THE REWRITE
   consecutive audit showing the rewritten titles being served, and the largest
   internal share recorded.
 ################################################################################
+################################################################################
+CO-0055 | +44 (Plus 44) - Chapter XIII | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : QbHGMYd8qDE | 4:50 | uploaded 04-09-2025 | 329 views | 2.6 h
+  Subs    : **panel dashed - no subscriber figure supplied at all**
+  Earning : **E4 INELIGIBLE, GBP 0.00. Single-line badge, no partial block.**
+  Bucket  : 0001 - 0100 / 0051 - 0060
+  Captured: 12 screenshots, 11 readable and 1 STALE - see below.
+
+THE SONG
+  Track twelve and the closer of When Your Heart Stops Beating, released 13 November
+  2006 on Interscope, produced by Jerry Finn with Hoppus and Barker, written by Hoppus
+  and Barker, 5:07 on the record. Named after chapter thirteen of Dante's Inferno.
+  Third +44 upload, over the two-upload cap.
+
+WHAT THE PANELS SAY
+  1.7k impressions at 1.6%, **76.0% recommended**, **26 engaged views**,
+  **impression-AVD 1:08 - the highest in the register**, 0.49 h. AVD 0:28, **APV 9.8%
+  - the lowest in the batch**, 21% at 0:30 "typical". Likes 100.0%. Hype 0/0.
+  **End screen CTR 5.6% - a new corpus record**, ahead of CO-0043's 5.3%.
+
+  Traffic **advertising 88.5** / browse 6.1 / suggested 3.3 / search 0.9 / direct 0.3
+  / other 0.9. External 0.3% is **Google Search 100.0%**. Search is **"chapter 13 plus
+  44" 33.3%**, the best-intent term in 55 audits.
+
+  Content suggesting, 3.3%, sends five entries at 9.1% each and **three are internal**:
+  our +44 Weatherman, our Sabaton The Lion From The North, and **our own CO-0016
+  title**, "Lonely Day proves System Of A Down can whisper...".
+
+  Devices mobile 70.8 / **computer 29.2 - the highest desktop share in the register**.
+  **Female 34.5 / Male 65.5**, 25-34 100%. India 66.6 / Indonesia 11.6. **90.8%
+  non-subscriber / 9.2% subscriber watch time - the second-highest subscriber share on
+  record**, behind only the CO-0053 Premiere. Bell notifications 0 views.
+
+THE OLD COPY (all four surfaces)
+  Title   : bracket emoji, band, song, hashtag tail of #rocksmith #bass #plus44.
+  Desc    : the funding wall, with the dead discord.gg/mavomusic invite.
+  Tags    : **14 at 160/500, the identical box to CO-0053 and CO-0054** - same
+            "fourty" misspellings, same blink182 tags, song absent from all three.
+  Comments: no pin, four MAVO funding comments, no viewer comments.
+
+THE REWRITE
+  Title   : 60 chars. "[Song] closes [band]'s album with [N minutes] of X". New
+            skeleton - the song is the subject and the possessive is mid-sentence.
+  Desc    : 1538 chars. Opens by denying what the title implies and supplying the real
+            source (D14, unused since 0028), then the shape of the track, then the
+            patience instruction for the outro.
+  Tags    : 16 at 208/500. Band in two spellings, song in both roman and numeral,
+            album, both members, producer, Dante, three genre lanes, year, label, both
+            formats.
+  Pin     : 139 chars, second-person challenge on the last ninety seconds. P24.
+  GENRES  : split block. CORRECT: Pop punk, Alternative rock, Emo pop.
+
+*** THE STALE PANEL ***
+  `_01 Overview 2` reports 4:26, AVD 0:29, APV 11.3%, 26% at 0:30. 4:26 is CO-0046's
+  runtime exactly, and no other panel on this video agrees with it. The player, Reach 1
+  and all three Engagement panels agree on 4:50 / 0:28 / 9.8% / 21%. Logged as a
+  capture defect; the register uses the majority reading. Second stale-panel incident
+  in the audit series after CO-0038's overlay.
+
+*** END SCREEN BEATS RETENTION ***
+  5.6% end screen CTR on the lowest APV in the batch. The viewers who stayed clicked.
+  Both of the channel's best end screen rates are five minute songs with unresolved
+  outros, which is the first plausible mechanism anyone has found for that panel.
+################################################################################
