@@ -3208,3 +3208,50 @@ REGISTER CORRECTED - TIER A
   counter-example.
 
 ################################################################################
+
+################################################################################
+CO-0026 | Alien Fucker - Arabic UFO Party | 1:22 | FIRST AGE-RESTRICTED EARNER
+################################################################################
+
+FOLDER   : _0001 Long Form / 0021 - 0030 / 0026 - Alien Fucker - Arabic UFO
+           Party (Long Form)
+CAPTURED : 10 screenshots, all readable.
+
+BADGE    : "Viewable by those aged 18+" / "Limited ad earnings". New type.
+           Content policy gate, not a rights gate. Logged as E6.
+REVENUE  : GBP 0.001. It earns while restricted - a discount, not a block.
+
+OLD COPY
+  Title   : broken "[]" glyph, #rocksmith #bass #alienfucker.
+  Desc    : the 2022 shell.
+  Tags    : 10 at 88/500. Six channel-identity, plus "alienfucker" and
+            "alienfcker" - the second being the word with the vowel removed,
+            which is how people type around a blocked term. Genuinely useful and
+            kept. No song title, no genre, no year.
+  Pin     : the "[IMPORTANT INFORMATION]" support wall.
+
+NEW COPY
+  Title   : 67 chars. Band, song, runtime, bass.
+  Desc    : 1109 chars. Track nine of a 2014 Israeli grind debut, 82 seconds,
+            no intro and no second verse, then what the bass does when everything
+            else is falling over. Closes with a plain note that the video is age
+            restricted because of the band name and nothing else.
+            The EP TITLE IS DELIBERATELY NOT PRINTED - it is explicit and would
+            only deepen the gate.
+  Tags    : 15 at 193/500. Keeps both spellings. Adds arabic ufo party, grindcore,
+            pornogrind, israeli metal, extreme metal, ufo, space metal, 2014.
+  Pin     : 126 chars. Shortest-song question. Not an artist pin - the band has
+            never commented.
+  GENRES  : 7 labels. Grindcore primary. Flags that this is the only track in the
+            corpus that fits a punk playlist, and the only one that fits a
+            space-themed novelty playlist.
+
+FINDINGS CARRIED INTO THE CONTEXT BLOCK
+  1. Age restriction is a third badge type: gated, discounted, still paid.
+  2. Search 84.6%, zero advertising. First video in the corpus with no paid
+     traffic at all.
+  3. CTR 3.6% and APV 59.1% - both corpus records by wide margins.
+  4. First long form with no geographic panel.
+  5. Second earning mechanism identified: the SUPPLY VACUUM.
+
+################################################################################
