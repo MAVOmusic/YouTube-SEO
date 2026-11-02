@@ -22,7 +22,7 @@
 #     3. Each song folder's "_03 - Copy.md" - paste-ready metadata.
 #
 # STATUS AT TIME OF WRITING
-#   Long forms audited ........ 23 (CO-0001 to CO-0023)
+#   Long forms audited ........ 24 (CO-0001 to CO-0024)
 #   Earning ................... 2
 #   Total earned .............. GBP 0.58
 #   E1 EARNING-NO-CLAIM ....... 1  (CO-0022)
@@ -164,12 +164,47 @@ RECREATE INSTRUCTION
            does every existing upload of it show ads and no "Ineligible"
            badge?  YES is good.
 
-  KNOWN COUNTER-EXAMPLE, IMPORTANT
+  TWO KNOWN COUNTER-EXAMPLES. BOTH FAILED. READ BOTH BEFORE BUILDING.
+
+  COUNTER-EXAMPLE 1 - the source being obscure protects nothing.
   CO-0023 Sabaton - Camouflage is a cover of an OBSCURE 1986 Stan Ridgway
   one-hit-wonder, and it is E4 INELIGIBLE. "The original is obscure" is NOT a
   shortcut. Nuclear Blast registered the Sabaton recording because Sabaton is a
   large act. Obscurity of the SOURCE means nothing if the PERFORMER is big.
-  The test that matters is on the recording you are covering, not the song.
+
+  COUNTER-EXAMPLE 2 - being a deep cut protects nothing either, and this one
+  directly damages the Tier B premise. Added 02-11-2026.
+  CO-0024 Sabaton - The Hammer Has Fallen is the textbook Tier B candidate:
+  never a single, never on a studio album proper, only ever released on a 2001
+  demo compilation and a 2007 reissue of the same recordings. By every rule in
+  the list above it should be unclaimed. It is E4 INELIGIBLE, GBP 0.00.
+  Nuclear Blast registered the Metalizer reissue as a unit, so the album track
+  inherited a claim it would never have earned on its own.
+
+  WHAT THIS MEANS FOR THE TEST
+  Registration is not predictable from fame, label size or obscurity. It is an
+  empirical fact about each individual recording, and the only way to know it in
+  advance is to look:
+
+      BEFORE BUILDING ANYTHING, open YouTube and find three existing uploads of
+      the exact same song. Then ask:
+        - Are the label's own uploads monetised and claimed?
+        - Do other people's covers of it show ads, or a claim notice?
+        - Does the song appear in Content ID claim lists at all?
+      If the answer to the first is yes and the second shows claims, DO NOT
+      BUILD. If uploads exist with no claim and no ads beyond the uploader's own,
+      you have a live candidate.
+
+  Scoring the seven points gives you a candidate. This check gives you a verdict.
+  Only the verdict counts.
+
+  BEST CURRENT HYPOTHESIS, UNPROVEN
+  Claim coverage follows REISSUE and PROMOTION, not catalogue size. A track that
+  was swept into a remaster or reissue gets registered with everything else on
+  it. A track nobody ever reissued or promoted can fall through the same label's
+  net - which is the CO-0022 shape. Under this hypothesis, the newest recordings
+  and the most recently reissued ones are the WORST candidates, and the quiet
+  30-year-old bonus tracks are the best.
 
 ################################################################################
 # WHAT TO CLONE, WHAT NEVER TO CLONE
@@ -202,6 +237,11 @@ RECREATE INSTRUCTION
   TIER B - deep cuts and bonus tracks from claimed artists.
     Same artist, same catalogue, wrong track to police. CO-0022 is the proof.
     Look for: deluxe/bonus/b-side, never a single, absent from greatest hits.
+    ** WARNING - THIS TIER ALREADY HAS ONE FAILURE. ** CO-0024 (Sabaton, The
+    Hammer Has Fallen) scored full marks on every stated criterion and came back
+    E4. Deep-cut status is necessary but NOT sufficient. Run the three-upload
+    check from the rights test on every Tier B candidate before recording.
+    Do not batch-build Tier B. Build one, wait, read the badge, then decide.
 
   TIER C - regional-only or soundtrack-only releases.
     Unverified as a tier. No corpus evidence yet. Test with one upload.
@@ -243,6 +283,32 @@ RECREATE INSTRUCTION
   Q3. Long forms are 89-96% paid advertising. Does a claimed video ever earn
       organic money, or is the paid traffic itself suppressing the outcome?
       No evidence either way. Noted, not answered.
+
+################################################################################
+# APPENDIX A - EVERY EARNING RESULT SO FAR, IN ONE PLACE
+################################################################################
+
+  MR      CO       SONG                              STATUS  REVENUE
+  ----    ------   --------------------------------  ------  ---------
+  MR-0004 CO-0011  Chopin - Nocturne Op.9 No.2       E2      GBP 0.54
+  MR-0022 CO-0022  Avril Lavigne - Together          E1      GBP 0.04
+                                                   TOTAL    GBP 0.58
+
+  Everything else audited is GBP 0.00. Twenty-two long forms, zero pence.
+
+  Failed candidates, recorded so they are never rebuilt:
+  MR-0023 CO-0023  Sabaton - Camouflage (obscure cover)     E4
+  MR-0024 CO-0024  Sabaton - The Hammer Has Fallen (demo)   E4
+
+################################################################################
+# APPENDIX B - CHANGE LOG
+################################################################################
+  2026-11-02  created, VER 4.23. Two earning rows, rights test, build queue.
+  2026-11-02  VER 4.24. Added counter-example 2 (CO-0024) after a textbook
+              Tier B candidate came back E4. Rights test rewritten: scoring the
+              seven points now only produces a candidate, and the three-upload
+              empirical check produces the verdict. Tier B marked do-not-batch.
+              Appendix A added so every earning result lives in one table.
 
 ################################################################################
 # END OF FILE

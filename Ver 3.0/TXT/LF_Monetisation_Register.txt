@@ -1825,3 +1825,70 @@ never to have been registered.
 
 CARRIED INTO Earning_Recreate_Register.txt AS THE COUNTER-EXAMPLE.
 --------------------------------------------------------------------------------
+
+--- MR-0024 | CO-0024 | Sabaton - The Hammer Has Fallen -------------------------
+Video ID           : EdtM8E1BL4Q | 4:54 | 364 views | 2.8 watch hours
+                     | **ZERO subscribers** | 361 unique viewers
+Premiere           : peak 1, average 1
+Notices badge      : **E4 INELIGIBLE only** - no partial block
+Revenue            : GBP 0.00 - every panel dashed
+Impressions / CTR  : 3.2k / 1.1% | 57.1% from YouTube recommending | 33 engaged
+                     views | 0:53 impression-AVD | 0.49 h from impressions
+Watch quality      : AVD 0:28 | APV 9.6% | 22% at 0:30 - typical band
+Likes              : **100.0%** - fourth perfect ratio in the corpus
+End screen CTR     : 0.0% | bell: zero pushes, zero views
+Devices            : mobile 86.8 / computer 12.5 / TV 0.7 / no tablet
+Audience           : **India 63.2 / Indonesia 14.0 - the LOWEST India share in
+                     the corpus** (previous low 59.7 on CO-0020) | female 25.0 /
+                     male 75.0 | age 25-34 100% | 97.4% non-subscribed
+Traffic            : advertising 84.6 / browse 9.9 / **YouTube search 4.1** /
+                     related Shorts 0.8 / other YouTube features 0.3 / other 0.3
+External (0.3%)    : Creator Studio 100.0 - second capture, MAVO's own clicks
+Search terms (4.1%): **react to sabaton 6.7** / sabaton 6.7 /
+                     **sabaton stormtroopers live 6.7** /
+                     **sabaton the hammer has fallen 6.7** / **sabton 6.7**
+Content suggesting : not enough traffic
+Viewers also watch : not enough eligible audience data
+
+CONVERSION: **0 from 364 = 0.00%. The first long form in the corpus to gain
+exactly zero subscribers.** Every other upload gained at least one, and the paid
+cohort has run 0.26% to 1.14%. This is the floor.
+
+*** THE MISSESPELLING RULE IS NOW PROVEN, NOT JUST ASSUMED ***
+"sabton" is 6.7% of the search slice - a real, live query, typed by real people.
+It exists in the tag box because somebody added it by instinct. This is the first
+time in twenty-four audits the corpus can point at a misspelling and show it
+converting. The native-script/misspelling rule in Ver 4.20 is no longer a
+hypothesis drawn from CO-0020's katakana tags; it now has a direct receipt.
+
+*** AND THE THIRD INTENT IN THIS SEARCH SLICE IS "LIVE" AGAIN ***
+"sabaton stormtroopers live" - fourth video in the corpus asking for a live
+performance. Plus a new intent nobody has logged before: **"react to sabaton"**,
+which is people looking for reaction content, not music. Two intents in one
+4.1% slice that this channel does not serve at all.
+
+*** THE IMPORTANT NEGATIVE RESULT - SECOND ONE IN TWO DAYS ***
+The Hammer Has Fallen is a textbook deep cut: never a single, never on a studio
+album proper, only released on a 2001 demo compilation (Fist for Fight) and the
+2007 Metalizer reissue of those same recordings. By every criterion in
+Earning_Recreate_Register Tier B it should be unclaimed.
+
+It is E4 INELIGIBLE. GBP 0.00.
+
+Nuclear Blast registered the Metalizer reissue as a unit, so an album track that
+had never earned a penny on its own inherited a claim anyway.
+
+THIS BREAKS THE TIER B PREMISE AND THE REGISTER HAS BEEN REWRITTEN BECAUSE OF IT.
+The rights test no longer produces a verdict by scoring - it produces a candidate.
+The verdict now comes from checking three existing uploads of the same song on
+YouTube and seeing whether they carry claims. See the register for the full
+procedure and the revised hypothesis (claim coverage follows reissue and
+promotion, not catalogue size, and never obscurity).
+
+SECONDARY OBSERVATION - TAG BOX CLONING
+CO-0023 and CO-0024 carry **byte-identical tag boxes**: same 8 tags, same 84
+characters, both with six channel-identity tags and no song title. Two consecutive
+uploads. That is exactly the pattern YouTube's repetition detectors look for, and
+the new copy deliberately breaks it - CO-0024's box is 16 tags at 230/500 with
+the song, the album, both writers, the misspelling and two years.
+--------------------------------------------------------------------------------
