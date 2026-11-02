@@ -4494,3 +4494,116 @@ FOLDER RESTRUCTURE v2 | 02-11-2026 | 100 / 10 / SONG, THREE LEVELS
   verify.sh and diversity_guard.py read `bands/` - both tiers green after the move.
 ################################################################################
 
+################################################################################
+CO-0043 | Muse - Supermassive Black Hole | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : bYHn2x8Pyng | 3:30 | uploaded 03-09-2025 | 347 views | 2.5 h
+  Earning : **E2 REVENUE SHARE, GBP 0.05 - SIXTH EARNER, 44 audits in.**
+  Badge   : "Sharing ad earnings / Shopping disabled".
+  Bucket  : 0001 - 0100 / 0041 - 0050
+  Captured: 10 screenshots, all readable. No Overview 2 in this folder.
+
+THE SONG
+  Black Holes and Revelations, 2006, first single, Helium 3 with Warner Bros, 3:30.
+  Written by Matt Bellamy, co-produced by the band with Rich Costey. The bass runs
+  through fuzz and an octave-up on a pick, which is why the track sits between rock
+  and dance. Later became the band's biggest streaming track off a film placement.
+
+WHAT THE PANELS SAY
+  3.5k impressions at 1.2%, **47.1% recommended - the second lowest of the batch**,
+  but **42 engaged views from impressions, the highest of the batch**, and
+  impression-AVD 0:36.
+
+  AVD 0:25, APV 12.3%, 25% at 0:30. Likes 100.0%, seventeenth perfect ratio.
+  **End screen CTR 5.3% against a 1.1% channel average** - five times better than
+  anything else audited. **260 Hype points and the only Hype in the batch.**
+
+  **Female 50.0 / Male 50.0 - the most even split on the channel.** 25-34 100%.
+  India 68.3 / Indonesia 8.4. Mobile 86.6. No captions 100%.
+
+  **Browse 12.4% - the highest of the batch** - against 85.3% advertising. Search
+  is one correct term: "supermassive black hole bass cover" 33.3%.
+
+THE MONEY
+  Watch page ads GBP 0.05 of 0.05, **CPM 0.54, RPM 0.14 - the highest RPM recorded**.
+  Display 62.7 / skippable 19.9 / non-skippable 9.3 / bumper 8.1.
+
+THE OLD COPY (all four surfaces)
+  Title   : band and song plus a Rocksmith hashtag tail.
+  Desc    : the funding wall.
+  Tags    : **9 at 76/500. Song title absent. Band present as "myuz" and "muze" -
+            two invented spellings and no correct one.** Worst artist tags yet.
+  Pin     : the funding wall.
+
+THE REWRITE
+  Title   : 65 chars. Universal negative subject, band mid-sentence, song at the
+            tail. New skeleton.
+  Desc    : 1414 chars. Opens on the instrument - nobody plays a normal bassline
+            here - which is D20, reused from CO-0039 and therefore logged as a
+            repeat under the eight-video rule. Then the fuzz and octave detail,
+            then the film placement.
+  Tags    : 16 at 243/500. Band, song, album, all three members, producer, five
+            genre lanes, label, year, both formats.
+  Pin     : 122 chars, genius or cheating - a binary verdict. New device.
+  GENRES  : split block. CORRECT: Alternative rock, Electronic rock, Dance rock,
+            Space rock, Indie rock.
+
+*** THE RULE THAT CHANGED ***
+  "Major-label rock is claimed and blocked" is now dead. Warner Bros shares on this
+  recording while Atlantic blocks on CO-0035 and CO-0041 - same family, opposite
+  behaviour. The label does not decide; the deal does. Muse becomes a Tier A
+  replication candidate, to be tested once more before it is trusted.
+
+################################################################################
+CO-0044 | Billy Talent - Viking Death March | BASS PLAYTHROUGH | audited 02-11-2026
+################################################################################
+  Video   : QwBBlhizRU | 4:04 | uploaded 03-09-2025 | 315 views | 2.2 h | +2 subs
+  Earning : **E4 INELIGIBLE, GBP 0.00.** Third Billy Talent upload.
+  Bucket  : 0001 - 0100 / 0041 - 0050
+  Captured: 10 screenshots, all readable. No Overview 2 in this folder.
+
+THE SONG
+  First single from Dead Silence, 25 May 2012, Warner Music Canada, 4:04, produced
+  by guitarist Ian D'Sa, written by all four members. Canadian rock chart 3. Video
+  is festival footage from Rock am Ring and the Melkweg.
+
+WHAT THE PANELS SAY
+  2.2k impressions at **1.6% - the best CTR of the batch** - 88.0% recommended,
+  **36 engaged views**, impression-AVD 0:44. AVD 0:24, APV 10.2%, 26% at 0:30.
+  Likes 100.0%, eighteenth perfect ratio. End screen 0.0%.
+
+  **Browse 14.3% - the highest browse share in the corpus.** Advertising 83.2%.
+  External 0.3%, entirely Google Search. No search-term panel.
+
+  **Content suggesting: our own CO-0039 at 100.0%**, under the house title "Sabaton
+  recorded this in two languages and the...". Second house title to appear in a
+  suggestion panel in two batches.
+
+THE OLD COPY (all four surfaces)
+  Title   : band and song plus a Rocksmith hashtag tail.
+  Desc    : the funding wall.
+  Tags    : **8 at 90/500. Song title absent, band only as "billytalent" twice,
+            run together** - the identical defect as CO-0035, two years apart.
+  Pin     : the funding wall.
+
+THE REWRITE
+  Title   : 61 chars. "The Billy Talent single that was written by the guy on
+            guitar" - noun-phrase subject with an inverting by-clause. New skeleton.
+  Desc    : 1396 chars. Opens on the producer being a member of the band - D09,
+            reused from CO-0040 and logged. Then the chart position, then why the
+            bass part has to be deliberately unambitious.
+  Tags    : 16 at 233/500. Band, song, album, all four members, three genre lanes,
+            Canadian scene, label, year, both formats.
+  Pin     : 122 chars, should a producer be in the band they produce - a
+            philosophical fork. New device.
+  GENRES  : split block. CORRECT: Punk rock, Post-hardcore, Alternative rock,
+            Canadian punk.
+
+BATCH FINDING - THE PAIR THAT PROVES THE THESIS
+  CO-0043 Muse: CTR 1.2%, 47.1% recommended, GBP 0.05.
+  CO-0044 Billy Talent: CTR 1.6%, 88.0% recommended, GBP 0.00.
+  The worse-clicking video on worse distribution earned money and the better one
+  earned nothing, because Warner Bros shares one master and Warner Music Canada
+  does not share the other. Reach has never predicted revenue here and this is the
+  sharpest demonstration yet.
+################################################################################
