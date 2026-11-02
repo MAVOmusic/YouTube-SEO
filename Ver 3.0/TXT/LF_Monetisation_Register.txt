@@ -1420,3 +1420,66 @@ view counts, revenue figures and monetisation states are UNCHANGED. MR-0001 to
 MR-0017 still read exactly as before. E4 count 27, E5 count 1, both unaffected.
 Copy lives in each song folder as "_03 - Copy.md".
 --------------------------------------------------------------------------------
+
+--- MR-0018 | CO-0018 | Eurobeat Brony - Discord (The Living Tombstone Remix) -----
+Video ID           : (see folder) | 3:14 | 4,862 views | 27.5 watch hours | +48 subs
+                     | 4.8k unique viewers
+Premiere           : peak 1 concurrent, average 1 (premiered, not a live stream)
+Notices badge      : **E4 INELIGIBLE + PARTIAL BLOCK - first capture in the corpus
+                     to carry TWO badges at once.** "Ineligible to earn" (red) and
+                     "Partially blocked" (red) on the same Details page.
+Revenue            : GBP 0.00 - every panel dashed, "nothing to show for these dates"
+Impressions / CTR  : 9k / 1.5% | 48.7% from YouTube recommending | 132 engaged
+                     views | 0:47 impression-AVD (the LONGEST impression-AVD so far)
+Watch quality      : AVD 0:20 | APV 10.5% | 20% still present at 0:30 - typical band
+Likes              : **79.4% vs 97.4% channel - the WORST like ratio in the entire
+                     corpus by a wide margin.** Previous low was 97.6% (CO-0017 was
+                     the best). This is the first genuinely negative sentiment read.
+End screen CTR     : 0.0% | bell 113 pushes, 0% CTR, 0 views - highest push count
+                     of any 2025 upload and the least effective.
+Devices            : mobile 93.7 / computer 5.4 / TV 0.7 / tablet 0.1
+Audience           : India 76.3 / Indonesia 19.6 | 25-34 44.4 / 18-24 19.5 /
+                     35-44 19.2 / 45-54 5.9 / 55-64 5.9 / 65+ 4.1 / 13-17 1.1
+                     | **female 33.1 / male 66.9 - second-highest female share**
+                     | 94.0% non-subscribed watch time | 100% no subtitles
+Traffic            : YouTube advertising 96.0 / channel pages 1.3 / YouTube search
+                     1.0 / browse 0.5 / suggested 0.4 / other 0.8
+                     | external 0.1%: man.com 50, Facebook 33.3
+Search terms (1.0%): rocksmith bass 6.4 / bass rocksmith 4.3 / discord odyssey
+                     eurobeat 2.1 / discord remix 2.1 / discord the living
+                     tombstones 2.1
+                     ** NOTE: "discord odyssey eurobeat" and "discord remix" are
+                     searches the old title could not answer. Odyssey is the artist
+                     alias and the album name; the old title buried "remix" inside
+                     a bracket.
+CAUSE HYPOTHESIS   : E4-a CLAIM-DRIVEN, and this one is a rights magnet rather than
+                     a label catalogue. The composition is a 2011 fan song that was
+                     remixed in 2012, and the remix is registered - the Eurobeat
+                     fandom wiki lists two Tunecode identifiers against the Living
+                     Tombstone Remix specifically (T-324.245.086-4 / T-929.499.325-2).
+                     A registered composition plus a registered remix is the exact
+                     profile that produces a claim AND a regional block.
+                     Do NOT queue a remake of this audio. Under the taxonomy rule 4
+                     the block follows the composition, and the composition is the
+                     only reason anyone searches for this video.
+REGIONAL BLOCK     : "Partially blocked" means suppressed in some territories, not
+                     everywhere - consistent with 76.3/19.6 in two countries and no
+                     third country in the panel. Treat any India/Indonesia paid view
+                     here as traffic that survived a partial block.
+
+CONVERSION: +48 from 4,862 = **0.99% - the HIGHEST conversion in the corpus**,
+beating every organic play-along figure (8.16% is a different denominator - that
+was subs per unique viewer on organic traffic).
+
+*** SECOND CONFIRMATION THAT THE VER 4.17 REWRITE IS CHAINING ***
+Content suggesting this video (0.4% slice):
+    The Living Tombstone, Ft. Eurobeat Brony - Discord ....... 9.5%
+    [Amv] Discord - Underverse ................................ 9.5%
+    "The famous line in I Want To Break Free is a synth" ..... 4.8%   <-- CO-0014
+    Hello again - Five Nights at Freddy's Security Breach .... 4.8%
+    KSI - Thick of it but it's an animated opening .......... 4.8%
+That third line is MAVO's own CO-0014 wearing the NEW Ver 4.17 title. Second
+independent sighting of internal chaining after CO-0017.
+"Viewers also watch" is also mostly his own catalogue: CO-0002 (1.1k), Iron Maiden
+Wasted Years, Dire Straits Sultans Of Swing, the 2010s pop bass Shorts, CO-0009.
+--------------------------------------------------------------------------------
