@@ -1616,3 +1616,73 @@ THE UNCOMFORTABLE TRADE
   CTR here is not a thumbnail failure so much as a sign the impressions were
   poorly aimed while the search arrivals were perfectly aimed.
 --------------------------------------------------------------------------------
+
+--- MR-0021 | CO-0021 | Elvis Presley - Jailhouse Rock --------------------------
+Video ID           : sMPkftA3M40 | 2:28 | 382 views | 2.0 watch hours | +1 sub
+                     | **382 unique viewers - unique equals views exactly.** Only
+                     capture in the corpus where nobody watched twice.
+Notices badge      : **E4 INELIGIBLE + PARTIAL BLOCK.** Double badge returns after
+                     CO-0020's single badge. Composition-driven, as established.
+Revenue            : GBP 0.00 - flat, nothing to show
+Impressions / CTR  : 1.3k / **2.0% - the BEST click-through in the corpus.** Tied
+                     with CO-0017 and above every other paid upload. | **72.9% from
+                     YouTube recommending - the highest recommendation share ever
+                     recorded here** | 25 engaged views | 0:42 impression-AVD |
+                     0.3 h from impressions
+Watch quality      : AVD 0:18 - **the LOWEST average view duration in the corpus.**
+                     APV 12.5% - **the HIGHEST percentage-viewed in the corpus.**
+                     Both numbers are true at once, because this is also the
+                     shortest long form at 2:28. Percentage flatters short videos.
+                     | 17% at 0:30 - "below typical", the second time in the corpus
+Likes              : **50.0% vs 97.4% channel - the WORST ratio in the corpus, and
+                     the only video below 79%.** Half the people who rated this
+                     disliked it. Small absolute sample (382 views, +1 sub, and a
+                     2:28 video will not collect many ratings) so do not build a
+                     thesis on the point value - but it is the only record in
+                     twenty-one audits where approval and disapproval are equal,
+                     and it arrives on the video YouTube recommended most.
+End screen CTR     : 0.0% | bell: zero pushes, zero views, for the second time
+Devices            : mobile 91.3 / computer 6.0 / TV 1.7 / tablet 1.0
+Audience           : India 71.5 / Indonesia 13.9 / **United States 2.9 - the first
+                     time the US appears in any top-geographies panel in the
+                     corpus.** | **male 100.0% - first single-bucket gender panel**
+                     | age 25-34 100.0% again | 98.4% non-subscribed watch time
+                     | 100% no subtitles
+Traffic            : YouTube advertising 90.1 / browse 7.3 / YouTube search 1.1 /
+                     channel pages 0.5 / external 0.5 / other 0.5
+External (0.5%)    : Google Search 50.0
+Search terms (1.1%): **elvis presley live jailhouse rock 25.0** / rocksmith bass 25.0
+Content suggesting : "Not enough traffic to show this report" - second capture flagged
+Viewers also watch : "Not enough eligible audience data" - second capture flagged
+Playlists          : not enough traffic
+
+CONVERSION: +1 from 382 = **0.26% - the lowest in the corpus by a factor of two.**
+Previous floor was CO-0019 at 0.60%.
+
+*** THE BIGGEST SINGLE READ IN THE AUDIT: BEST CTR, WORST APPROVAL, ON THE SAME VIDEO ***
+     CTR 2.0%          best of 21
+     Recommendation 72.9%   best of 21
+     Likes 50.0%       worst of 21
+     Conversion 0.26%  worst of 21
+YouTube pushed this 1957 record harder than anything else on the channel, into a
+general audience, and that audience clicked. Then half of the ones who rated it
+disliked it, and almost none subscribed. The signal is unambiguous: the traffic was
+real, the interest was not. This is what a mismatched recommendation looks like from
+the inside, and it is the cleanest example in the whole corpus.
+
+*** THIRD CONSECUTIVE VIDEO WHOSE TOP SEARCH TERM CONTAINS "LIVE" ***
+    CO-0019  "take the power back live"
+    CO-0020  "babymetal live"          13.5%
+    CO-0021  "elvis presley live jailhouse rock"   25%
+Three in a row, three different artists, three different decades. People are asking
+YouTube for a LIVE PERFORMANCE and being handed a static bass chart. This is no
+longer a quirk of one video - it is the strongest repeated unserved demand signal in
+the audit, and it is measurable. Nothing in the copy can convert that intent, and no
+rewrite will fix it. The only things that would answer it are a different format:
+a live take, a room recording, or a stream clip. Park it as a Phase 3 decision.
+
+TAGS: 7 at 79/500 again. "elvispresley" is the only music tag; the song name is
+absent from the box entirely, as are rock and roll, 1957 and the bassist. Contrast
+CO-0020's katakana lattice, which is why that video had 10.5% search and this one
+has 1.1%.
+--------------------------------------------------------------------------------
