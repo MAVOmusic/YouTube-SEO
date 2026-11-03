@@ -54,3 +54,6 @@ All copy surfaces must be reviewed together in subsequent fact-check batches.
 2026-11-03 - Added long-form accuracy and originality release gate, per-video
 review record schema, mandatory evidence and manual uniqueness checks. Existing
 bands verification does not verify long forms; gate records are not proof of truth.
+
+2026-11-03 - 0011-0020 review in progress; evidence and image mismatch recorded
+in first-70 fact-check ledger. No batch passed the release gate.
