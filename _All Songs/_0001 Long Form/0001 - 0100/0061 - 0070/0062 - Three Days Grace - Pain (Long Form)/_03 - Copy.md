@@ -34,7 +34,7 @@ Which song on One-X resonates most with you?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Subjective recommendations based on the cited song, artist or album classification; album-level evidence may not describe every track in isolation. See the review record.
+Album of the Year classifies the Pain single as post-grunge and alternative rock; this is release-level evidence, and genre labels are subjective.
 
 ## CORRECT GENRES
 

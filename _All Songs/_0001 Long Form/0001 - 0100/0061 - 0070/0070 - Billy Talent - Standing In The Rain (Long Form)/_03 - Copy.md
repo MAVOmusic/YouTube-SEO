@@ -34,7 +34,7 @@ Which three-song run on an album do you return to?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Subjective recommendations based on the cited song, artist or album classification; album-level evidence may not describe every track in isolation. See the review record.
+Rate Your Music lists alternative rock and pop punk for the self-titled Billy Talent album. These are album-level classifications, not proof that every track fits both.
 
 ## CORRECT GENRES
 

@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and proposed pin. Genre findings are internal.
 
-## TITLE (46 characters)
+## TITLE (67 characters)
 
 ```text
-Nirvana and Butch Vig produced Come As You Are
+Come As You Are bass cover: Nirvana and Butch Vig production credit
 ```
 
 ## DESCRIPTION (461 characters)
@@ -34,7 +34,7 @@ Which Nevermind track did you hear first?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Subjective recommendations based on the cited song, artist or album classification; album-level evidence may not describe every track in isolation. See the review record.
+Discogs classifies the 1992 European Come As You Are single as grunge and alternative rock. These are release-level classifications.
 
 ## CORRECT GENRES
 

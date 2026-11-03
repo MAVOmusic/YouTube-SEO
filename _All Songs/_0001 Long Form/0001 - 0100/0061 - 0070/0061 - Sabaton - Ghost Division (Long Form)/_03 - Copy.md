@@ -35,7 +35,7 @@ Which history-themed song sent you looking for more information?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Subjective recommendations based on the cited song, artist or album classification; album-level evidence may not describe every track in isolation. See the review record.
+Power metal is supported by the 2008 The Art of War album classification at Metal Kingdom; this is album-level evidence, not a definitive song-only classification.
 
 ## CORRECT GENRES
 

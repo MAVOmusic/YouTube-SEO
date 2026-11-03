@@ -35,7 +35,7 @@ Which early Billy Talent video would you revisit today?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Subjective recommendations based on the cited song, artist or album classification; album-level evidence may not describe every track in isolation. See the review record.
+AllMusic lists alternative/indie rock and pop punk among styles for the Try Honesty single. These are release-level classifications.
 
 ## CORRECT GENRES
 

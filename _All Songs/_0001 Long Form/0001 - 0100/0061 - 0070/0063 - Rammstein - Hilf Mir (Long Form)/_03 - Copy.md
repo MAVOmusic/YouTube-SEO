@@ -34,7 +34,7 @@ Which song introduced you to a story you had not read before?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Subjective recommendations based on the cited song, artist or album classification; album-level evidence may not describe every track in isolation. See the review record.
+Rate Your Music classifies Rosenrot as Neue Deutsche Haerte and industrial metal. These are album-level classifications, not definitive labels for each song.
 
 ## CORRECT GENRES
 
