@@ -1,0 +1,158 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "01da0ea2d968b79be739fd62b048afda599a101f51cb94145997fd98131eb838",
+    "description": "2fdca45b61c3aef8424cc11115296bb3748ad396f0f138b8b8a66897930975c7",
+    "tags": "1aa318ac578aa3dcc04b9b46e0865adfd3a310ba8a9be25a506f307241ac96a2",
+    "pinned comment": "7ada810153607210475f6214e45d7f4954b6429dadc955b14d1ad23fe02703a6",
+    "genres": "111082122048242d667f111dc4ba8e449a7c65fef0b1cfb6f67a3ef34c78cc09"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Inside Broke: (Hed) P.E. bring I Got You to bass",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "I Got You appears on Broke, the 2000 (Hed) P.E. album produced by Machine. The album credits Mawk on bass.",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke",
+      "assessment": "Claims reviewed against the referenced release or source; catalog/source limitations recorded below."
+    },
+    {
+      "surface": "description",
+      "claim": "This Rocksmith playthrough features my bass playing and the chart.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; user confirmation of bass playing with overlay",
+      "assessment": "Historical video identity and confirmed format, without unverifiable playing technique."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in requested order, no promised schedule or rewards."
+    },
+    {
+      "surface": "tags",
+      "claim": "hed pe",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 2.jpeg",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "(hed) p.e.",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "hed planet earth",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "i got you",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "hed pe i got you",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "broke",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "mawk",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "machine producer",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "nu metal",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rap rock",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rap metal",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "2000",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which track from Broke would you introduce someone to first?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Nu metal",
+      "source": "https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Rap rock",
+      "source": "https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Rap metal",
+      "source": "https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+    }
+  ],
+  "distinct_fact_and_source": "Broke producer and bassist credits ; https://www.discogs.com/release/626423-Hed-PE-Broke",
+  "uniqueness_assessment": "No five-word collision signals in the available corpus. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads.",
+  "uncertainties_and_removed_claims": "Removed unsupported breakthrough and live-performance superlatives; the bass credit is album-level. Historical screenshots are partial, not current status; genre is subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

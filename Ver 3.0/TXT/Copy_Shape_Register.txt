@@ -150,17 +150,16 @@
   0048    connected album artwork by Vartan Malakian            Which pair of album covers do you think works best together?
   0049    lyrics reference earlier songs                        Which earlier (G)I-DLE song reference did you spot first?
   0050    songwriting and composition credits                   Which production detail stands out to you in Tomboy?
-  0051    track position inside a self-released record       P-count-request
-  0052    track position, then the label that signed them    P-rating-scale
-  0053    the title explained, then the album around it      P-identification-test
-  0054    track position head to head, then the credits      P-diagnostic-fork
-  0055    the title denied, then the real source              P-second-person-challenge
-  0056    the construction history, told as a making-of      P-binary-verdict
-  0057    reviewer disagreement, quoted then granted          P-conditional
-  0058    imperative listening instruction                    P-inference-question
-  0059    runtime arithmetic, then the refusal                P-binary-comparison
-  0060    date plus album arrival, then the original version  P-two-way-disagreement
-
+  0051    official 2021 music video                            Which (Hed) P.E. album would you play for a first-time listener?
+  0052    Broke producer and bassist credits                   Which track from Broke would you introduce someone to first?
+  0053    acoustic counterpart 145                             How does the acoustic 145 compare with 155 for you?
+  0054    Baby Come On acoustic bonus track on European edition What bonus track has made an album edition worth seeking out?
+  0055    standard album closer, followed by bonuses on some editions What album closer makes you want to start the record again?
+  0056    Little Death as tentative album title                Which working album title do you wish a band had kept?
+  0057    Carol Heller and Mark Hoppus vocal duet              What duet deserves its own bass arrangement?
+  0058    Gustavus Adolphus and instrumental album introduction Which historical figure deserves a song of their own?
+  0059    Hoppus recalled dark-song conversation with Barker   Which song origin story has stayed with you?
+  0060    Russian original and English version                 Which language version did you hear first?
   0061    historical episode narrated forward, then the name it gave the song   P-history-door
   0062    the premise contradicted                                     P-context-value
   0063    source material retold, then what the band did to it          P-order-choice

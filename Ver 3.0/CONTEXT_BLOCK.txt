@@ -2328,3 +2328,12 @@ not asserted as live status. Korean names in original script and Latin where
 relevant. First-50 gate and metadata verification performed; program cannot
 prove facts or semantic originality. Next first-70 batch 0051-0060; no paste
 handoff through 0070. See first-70 fact-check ledger for limitations.
+
+2026-11-03 - Five-surface re-review 0051-0060: ten song MDs, sourced review
+records, genre and shape registers updated. All ten historical Revenue cards
+show a dash rather than a numeric amount; historical Details show ineligible,
+and 0052 also partially blocked. These are not current-state evidence. 0055
+Overview 2 needs rechecking. Album-title collisions are documented, not unique
+prose. First-60 gate cannot independently prove facts or semantic originality.
+Next: 0061-0070 fact and originality review, in order. No paste-ready handoff
+through 0070; user copies each song MD. After 0070 resume batches of five.

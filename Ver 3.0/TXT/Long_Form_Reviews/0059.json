@@ -1,0 +1,152 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "fcbf87f613d4213eac33ebc908c544de1eb97b04cc54ae7ba56302a05932349b",
+    "description": "5f2ef7a7cd8b15d1988e0f87aab9dd1bdc519ec7aaae9a4a0744f67caf6c5c99",
+    "tags": "2404afc7e861a1a38817ea0b6070ab798e205ac633d83bec48cf6b27fbf1ddac",
+    "pinned comment": "d3eb5afd5fe421fa138e92312f12d82eb43bea67cec178ad671e50ead2a11829",
+    "genres": "e39b35d77197353ee45d286888eb5a7da7b5729c4822d026e51761fb8e107674"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Weatherman traces an early +44 idea to a conversation",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Mark Hoppus recalled discussing a dark song with Travis Barker around the time blink-182 went on hiatus. That idea became +44's Weatherman, included in the album When Your Heart Stops Beating.",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics",
+      "assessment": "Claims reviewed against the referenced release or source; catalog/source limitations recorded below."
+    },
+    {
+      "surface": "description",
+      "claim": "Bass and the Rocksmith chart come together in my performance.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; user confirmation of bass playing with overlay",
+      "assessment": "Historical video identity and confirmed format, without unverifiable playing technique."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in requested order, no promised schedule or rewards."
+    },
+    {
+      "surface": "tags",
+      "claim": "+44",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "plus 44",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "weatherman",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "+44 weatherman",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "plus 44 weatherman",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "when your heart stops beating",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "mark hoppus",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "travis barker",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop punk",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative rock",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "2006",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 2.jpeg",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 2.jpeg",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which song origin story has stayed with you?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+    }
+  ],
+  "distinct_fact_and_source": "Hoppus recalled dark-song conversation with Barker ; https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics",
+  "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads.",
+  "uncertainties_and_removed_claims": "Hoppus recollection reproduced through secondary source; no unsourced assertion about chorus or intentions beyond his account. Historical screenshots are partial, not current status; genre is subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "816f401adee369d94329fa277dd9d4658467416b0750c3ab9c12c5c1a104a88e"
+}

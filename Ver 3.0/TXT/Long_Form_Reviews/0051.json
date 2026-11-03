@@ -1,0 +1,122 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "9dd377ed7972a33f3d9ec90e3d4372877d5cf28d59e333a80a6773d54dc1a048",
+    "description": "9da145d70d7b1d88e08b09211d3002a80662df2f91299255371eb06bb4588add",
+    "tags": "fd2874a12130ba403324c297e28e3fabbb5ca8c70908d8f11ef0cd3682c6abd2",
+    "pinned comment": "0c94de4631dfe6e60b7f47624769cc4e8b64913c7f9a05eee0dde97c1f776d4c",
+    "genres": "717b1f9463b3d73288c579210ac63567e38217418b0b1510dbad9ddb416e31f8"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "(Hed) P.E. gave Watch It Burn a music video in 2021",
+      "source": "https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020 ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "(Hed) P.E. released an official music video for Watch It Burn in 2021. The song appears on their 2020 album Class of 2020.",
+      "source": "https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020",
+      "assessment": "Claims reviewed against the referenced release or source; catalog/source limitations recorded below."
+    },
+    {
+      "surface": "description",
+      "claim": "My bass playing appears with a Rocksmith overlay.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_01 Description.jpeg ; user confirmation of bass playing with overlay",
+      "assessment": "Historical video identity and confirmed format, without unverifiable playing technique."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in requested order, no promised schedule or rewards."
+    },
+    {
+      "surface": "tags",
+      "claim": "hed pe",
+      "source": "https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020 ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/artist/_h%C9%99d-p_e ; https://metalnoise.net/2020/08/review-class-of-2020-by-hedp-e ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 2.jpeg",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "(hed) p.e.",
+      "source": "https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020 ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/artist/_h%C9%99d-p_e ; https://metalnoise.net/2020/08/review-class-of-2020-by-hedp-e",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "hed planet earth",
+      "source": "https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020 ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/artist/_h%C9%99d-p_e ; https://metalnoise.net/2020/08/review-class-of-2020-by-hedp-e",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "watch it burn",
+      "source": "https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020 ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/artist/_h%C9%99d-p_e ; https://metalnoise.net/2020/08/review-class-of-2020-by-hedp-e",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "hed pe watch it burn",
+      "source": "https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020 ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/artist/_h%C9%99d-p_e ; https://metalnoise.net/2020/08/review-class-of-2020-by-hedp-e",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "class of 2020",
+      "source": "https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020 ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/artist/_h%C9%99d-p_e ; https://metalnoise.net/2020/08/review-class-of-2020-by-hedp-e",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rap rock",
+      "source": "https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020 ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/artist/_h%C9%99d-p_e ; https://metalnoise.net/2020/08/review-class-of-2020-by-hedp-e",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "2020",
+      "source": "https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020 ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/artist/_h%C9%99d-p_e ; https://metalnoise.net/2020/08/review-class-of-2020-by-hedp-e",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020 ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/artist/_h%C9%99d-p_e ; https://metalnoise.net/2020/08/review-class-of-2020-by-hedp-e",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020 ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/artist/_h%C9%99d-p_e ; https://metalnoise.net/2020/08/review-class-of-2020-by-hedp-e",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which (Hed) P.E. album would you play for a first-time listener?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Rap rock",
+      "source": "https://rateyourmusic.com/artist/_h%C9%99d-p_e ; https://metalnoise.net/2020/08/review-class-of-2020-by-hedp-e",
+      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+    }
+  ],
+  "distinct_fact_and_source": "official 2021 music video ; https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020",
+  "uniqueness_assessment": "No five-word collision signals in the available corpus. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads.",
+  "uncertainties_and_removed_claims": "Removed claims about no guests, no label involvement and shortest track; prior sources do not support them. Historical screenshots are partial, not current status; genre is subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

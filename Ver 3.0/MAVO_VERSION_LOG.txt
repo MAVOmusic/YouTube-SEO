@@ -76,3 +76,7 @@ restoration and five-surface review 0031-0040 with fresh evidence records.
 
 2026-11-03 - First-50 release-gate review: ten researched long-form records,
 0041-0050 copy and search-tag corrections, sourced genre and shape registers.
+
+2026-11-03 - First-60 review: replaced ten full song copy blocks, researched
+facts, refreshed title/copy/genre registers and added individual evidence.
+Documented historical search, monetisation and screenshot limitations.

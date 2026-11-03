@@ -1,0 +1,152 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "12f52234386adfbe5ef0aba366326328efa71e53f125c63537e925abdaf9919a",
+    "description": "2d77e510ed6f0636e5e6370f32ca61a979d3459cff83f9d5e24ec30ddd1c55bf",
+    "tags": "104a553f12198f348f84c3fad45e370e9e98a709fd8bde3404e2ee8b14c3c9ca",
+    "pinned comment": "4769a9b600889cf6a10023606028bac796285fb4b4b0c93f34ca8ecd2cf9f936",
+    "genres": "e39b35d77197353ee45d286888eb5a7da7b5729c4822d026e51761fb8e107674"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "+44 gave 155 an acoustic counterpart called 145",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "+44 recorded an acoustic version of 155 under the title 145. Their 2006 record When Your Heart Stops Beating contains 155.",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv",
+      "assessment": "Claims reviewed against the referenced release or source; catalog/source limitations recorded below."
+    },
+    {
+      "surface": "description",
+      "claim": "The Rocksmith display sits beside my bass playing.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; user confirmation of bass playing with overlay",
+      "assessment": "Historical video identity and confirmed format, without unverifiable playing technique."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in requested order, no promised schedule or rewards."
+    },
+    {
+      "surface": "tags",
+      "claim": "+44",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 2.jpeg",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "plus 44",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "155",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "+44 155",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "plus 44 155",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "145 acoustic",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "when your heart stops beating",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "mark hoppus",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "travis barker",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop punk",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative rock",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "2006",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "How does the acoustic 145 compare with 155 for you?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+    }
+  ],
+  "distinct_fact_and_source": "acoustic counterpart 145 ; https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv",
+  "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads.",
+  "uncertainties_and_removed_claims": "145 is a separate acoustic version; no inference about acoustic arrangement in this video. Removed F-minor and absolute version claims. Historical screenshots are partial, not current status; genre is subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "9dd78b96e63e20d25b93862597a4f6afea961dc1a6cfa8162649d1fffeca6604"
+}
