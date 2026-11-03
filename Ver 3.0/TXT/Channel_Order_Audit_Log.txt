@@ -5535,3 +5535,374 @@ THE REWRITE
   rock uploads with better recommendation support on double the impression base. The
   gender figure is logged as a panel extreme, not as a planning fact.
 ################################################################################
+################################################################################
+CO-0061 | Sabaton - Ghost Division | BASS PLAYTHROUGH | audited 03-11-2026
+################################################################################
+PROFILE
+  Video ID EPWQFL_z_w8 | 3:31 | 439 views ("59 more than usual") | 3.9 watch hours |
+  +4 subscribers. Crop-verified.
+  Notices badge: **E4 INELIGIBLE**, single line, no partial block. Revenue dashed.
+  Nuclear Blast. **Sabaton 8 of 8 revisited.**
+
+REACH
+  10.5k impressions at **1.3% CTR** - the largest impression base in the batch and the
+  weakest click rate of the Sabaton uploads. **88.7% from YouTube recommending.**
+  **1.79 hours of watch time from impressions - a new register record**, against CO-0060's
+  0.69. Browse 26.9%, the highest browse share in ten audits, against 6.2% on CO-0059.
+
+QUALITY AND AUDIENCE
+  APV 14.0%, 24% at 0:30. Likes 85.7%. Mobile 77.4%. India-led geography, 100% no captions.
+
+THE OLD COPY (all four surfaces)
+  Title   : bracket emoji, band, song, hashtag tail.
+  Desc    : the 2022/24 funding wall - dead discord.gg/mavomusic, Ko-fi, Kick Partner
+            block, 3AM EST / 8AM BST schedule, X, TikTok, Twitch, emoticon sign-off.
+  Tags    : **8 tags / 84 chars.** "sabaton" twice, **song title absent**.
+  Comments: no pin, four canned MAVO comments - **and one genuine viewer comment, in
+            Russian, answered by MAVO.** The only real comment in the batch.
+
+THE REWRITE
+  Title   : 64 chars. "[Song] + outran + possessive object + and + band + noticing verb".
+            New skeleton - the band demoted to an observer in a second clause.
+  Desc    : 1311 chars. Opens on the campaign narrated forward, then the nickname, then
+            the machine instruction for the bass. Opener changed from date-first because
+            CO-0060 was date-first and DS-B1 forbids two in a row.
+  Tags    : 16 at 230/500. Band, song, album, the historical hook, both formats, lanes.
+  Pin     : 118 chars, the history-door question. P-history-door.
+  GENRES  : split block. CORRECT: Power metal, Heavy metal.
+
+*** THE THUMBNAIL IS THE BOTTLENECK ***
+  Shown 10.5k times, clicked 1.3%, and the people who clicked stayed longer than any
+  audience in 61 audits. Reach was never the problem on this upload.
+
+################################################################################
+CO-0062 | Three Days Grace - Pain | BASS PLAYTHROUGH | audited 03-11-2026
+################################################################################
+PROFILE
+  Video ID rCZo9m6wpnl | 3:20 | 305 views | 2.0 watch hours | +3 subscribers. Crop-verified,
+  final character a bare stroke logged as a known ambiguity.
+  Notices badge: **E4 INELIGIBLE**, single line, no partial block. Revenue dashed. Jive.
+  **First Three Days Grace upload in 62 audits. First Jive title since CO-0052.**
+
+REACH
+  3.6k impressions at **0.9% CTR** with **91.6% from YouTube recommending** - the exact
+  inverse of CO-0061. The algorithm pushed it and almost nobody clicked.
+
+QUALITY AND AUDIENCE
+  APV 11.8%. Likes **100.0%**. Female 39.3 / Male 60.7. India 59.3 / Indonesia 19.7.
+
+THE OLD COPY
+  Title   : bracket emoji, band, song, hashtag tail.
+  Desc    : funding wall, dead Discord invite included.
+  Tags    : **8 tags / 90 chars**, song title absent.
+  Comments: no pin, four canned MAVO comments, no viewer comments.
+
+THE REWRITE
+  Title   : 58 chars. "[song] + reached + band + through + place". New skeleton - the
+            song travelling toward the band, with a place as the route.
+  Desc    : 1206 chars. Opens by contradicting the premise (that pain is something to
+            escape), then the writing circumstances, then the bass instruction.
+  Tags    : 16 at 201/500. Band, song, album, the producer, the Toronto setting, lanes.
+  Pin     : 128 chars, whether knowing the context changes the song. P-context-value.
+  GENRES  : split block. CORRECT: Alternative rock, Post grunge, Hard rock.
+
+*** JIVE IS NOT CONSISTENT ***
+  CO-0052 came back E4 with a partial block on the same label; this one is clean. First
+  nuance recorded for Jive.
+
+################################################################################
+CO-0063 | Rammstein - Hilf Mir | BASS PLAYTHROUGH | audited 03-11-2026
+################################################################################
+PROFILE
+  Video ID ptLVqJ42LsO | 5:21 | 311 views | 2.3 watch hours | +3 subscribers. Crop-verified,
+  final character O or 0 and inseparable - logged.
+  Notices badge: **E4 INELIGIBLE**, single line, no partial block. Revenue dashed. Universal.
+  Third Rammstein upload.
+
+REACH AND QUALITY
+  **End screen CTR 14.3% - a new corpus record** (CO-0055 held 5.6%) set against
+  **APV 8.3%**, the second lowest in the batch. Almost nobody stayed and every person who
+  did clicked. Likes 100.0%. Mobile 78.6. India 66.2. No demographic report at all.
+
+THE OLD COPY
+  Title   : bracket emoji, band, song, hashtag tail.
+  Desc    : funding wall.
+  Tags    : **11 tags / 94 chars - "ramstein" three times, "rammstein" never.** The real
+            misspelling is a kept search term since Ver 4.20, but three copies of it and
+            no correct spelling fails at both jobs.
+  Comments: no pin, four canned MAVO comments.
+
+THE REWRITE
+  Title   : 62 chars. "band + set + [source material] + on fire + for + song". New
+            skeleton - the song is grammatically incidental to its own title.
+  Desc    : 1257 chars. Opens on Paulinchen and the picture book, retold, then what the
+            band did to it, then the bass placement instruction.
+  Tags    : 16 at 213/500. Band in both spellings, song, album, the book, producer, lanes.
+  Pin     : 125 chars, read the original before or after. P-order-choice.
+  GENRES  : split block. CORRECT: Neue Deutsche Harte (with the umlaut as Rammstein write it), Industrial metal.
+
+*** THIRD OF THE SLOW-SONG END SCREEN CASES ***
+  Three of the top four end screen rates on the channel now sit on slow, long, unresolved
+  songs. Logged as a mechanism to test, not a fact.
+
+################################################################################
+CO-0064 | Sabaton - Primo Victoria | BASS PLAYTHROUGH | audited 03-11-2026
+################################################################################
+PROFILE
+  Video ID Xkz3DbXvbwc | 4:10 | 322 views | 2.1 watch hours | +2 subscribers. Crop-verified.
+  Notices badge: **E4 INELIGIBLE**, single line, no partial block. Revenue dashed.
+  Nuclear Blast. **Sabaton 9 of 9.**
+
+REACH AND QUALITY
+  **"primo victoria" at 60.0% of a 1.6% search slice - the strongest song-title query
+  share in the register.** "sabaton" takes another 20.0%.
+  **Likes 50.0% - a new corpus floor** (CO-0052 held 66.7%). Mobile 96.4 / computer 2.9 /
+  no TV share at all. **Female 0.0 / Male 100.0**, second case after CO-0060. India 76.4.
+  Five of the suggested videos are our own uploads.
+
+THE OLD COPY
+  Title   : bracket emoji, band, song, hashtag tail.
+  Desc    : funding wall.
+  Tags    : band twice, **song title never** - while the search panel shows people typing
+            the title.
+  Comments: no pin, four canned MAVO comments.
+
+THE REWRITE
+  Title   : 62 chars. "verdict fragment + colon + band + opened + object + on + song".
+            First colon title in the register, first title opening on a judgement.
+  Desc    : 1179 chars. Opens on reverse chronology, "before" three times, then zero hour,
+            then the endurance instruction for the bass.
+  Tags    : 16 at 214/500. Band, song, album, the Normandy hook, producer, lanes, formats.
+  Pin     : 100 chars, whether any band opens a debut better. P-open-challenge.
+  GENRES  : split block. CORRECT: Power metal, Heavy metal.
+
+*** THE THING PEOPLE SEARCH FOR WAS NOT IN THE BOX ***
+  60.0% of a search slice is a person typing the song title. The tag box carried the band
+  twice and the song zero times. Cleanest single fix in the batch.
+
+################################################################################
+CO-0065 | Nirvana - Come As You Are | BASS PLAYTHROUGH | audited 03-11-2026
+################################################################################
+PROFILE
+  Video ID mum7kdpxGC8 | 3:38 | 363 views | 2.6 watch hours | **+7 subscribers**. Crop-verified.
+  Notices badge: **E4 INELIGIBLE**, single line, no partial block. Revenue dashed. DGC.
+
+REACH - WITH A CAPTURE DEFECT
+  **`_02 Reach 1` is scrolled past the impressions header.** Impressions and CTR are not in
+  the folder and are not inferred. Only the funnel totals and the traffic sources are
+  legible: search 3.6%, with "come as you are" a logged query at **23.1%**.
+
+QUALITY
+  APV 12.0%, 24% at 0:30. **+7 subscribers on 363 views is the highest subscriber gain in
+  65 audits** (CO-0053 held +5, and that was on a Premiere).
+
+THE OLD COPY
+  Title   : bracket emoji, band, song, hashtag tail.
+  Desc    : funding wall.
+  Tags    : **13 tags / 119 chars, four "kurtcobain" variants** - the spam-correction lane -
+            and no song title.
+  Comments: no pin, four canned MAVO comments.
+
+THE REWRITE
+  Title   : 63 chars. "definite-article superlative + noun + band + ever + verb + sits in
+            + song". New skeleton - nothing else in the register evaluates a part of a
+            song before naming it.
+  Desc    : 1234 chars. Opens on the technical facts - drop D, chorus pedal, clean amp -
+            then the arrangement, then the bass figure.
+  Tags    : 16 at 190/500. Band, song, album, producer, the tuning, the pedal, lanes.
+  Pin     : 119 chars, one riff and one bass figure doing the whole job. P-minimalism-
+            comparison.
+  GENRES  : split block. CORRECT: Grunge, Alternative rock.
+
+*** A FAMOUS NAME BRINGS PEOPLE WHO STAY ***
+  Best conversion to subscriber on the channel, on the smallest reach in the top half of
+  the batch. The reach panel needs re-capturing before this video is read again.
+
+################################################################################
+CO-0066 | Billy Talent - Try Honesty | BASS PLAYTHROUGH | audited 03-11-2026
+################################################################################
+PROFILE
+  Video ID 0_j6uGURWxI | 4:09 | 260 views ("30 less than usual") | 1.6 watch hours |
+  +1 subscriber. Crop-verified, final character a bare stroke logged.
+  Notices badge: **E4 INELIGIBLE**, single line, no partial block. Revenue dashed. Atlantic.
+
+REACH
+  **296 impressions, 0.7% CTR, 20.6% from YouTube recommending, 2 engaged views.** The
+  weakest distribution ever recorded here. **95.8% of the traffic that did arrive was
+  advertising.**
+
+QUALITY AND AUDIENCE
+  APV logged from the funnel only. Mobile 98.3. Sub-watch 4.9%. India 68.9 / Indonesia 22.7.
+
+THE OLD COPY
+  Title   : bracket emoji, band, song, hashtag tail.
+  Desc    : funding wall.
+  Tags    : **8 tags / 90 chars**, song title absent.
+  Comments: no pin, four canned MAVO comments - **and one genuine viewer comment,
+            @aminahmed2220, answered by MAVO.**
+
+THE REWRITE
+  Title   : 64 chars. "former name + became + band + and + song + was the first thing out".
+            New skeleton - the first name change in the register.
+  Desc    : 1346 chars. Opens on the record they had already made, then the rename, then
+            the bass instruction.
+  Tags    : 16 at 211/500. Both names, song, album, producer, the 1999 record, lanes.
+  Pin     : 122 chars, whether you found them as Pezz. P-two-era-memory.
+  GENRES  : split block. CORRECT: Punk rock, Post hardcore, Alternative rock.
+
+*** 296 IMPRESSIONS IS NOT A CONTENT RESULT ***
+  YouTube effectively did not push this and what arrived was paid for. Nothing about the
+  copy can be judged from this sample. Second genuine comment in the batch, still no pin.
+
+################################################################################
+CO-0067 | Linkin Park - One Step Closer | BASS PLAYTHROUGH | audited 03-11-2026
+################################################################################
+PROFILE
+  Video ID jvorLDTWc1c | 2:36 | 412 views ("42 more than usual" - that is the VIEW delta,
+  not subscribers) | 3.0 watch hours | **+2 subscribers**. Crop-verified.
+  Notices badge: **E4 INELIGIBLE**, single line, no partial block. Revenue dashed.
+  **First Warner Bros title in 67 audits.**
+
+REACH
+  1.7% CTR with **85 engaged views from impressions** and 0.95 hours from impressions.
+  Browse 25.5%.
+
+QUALITY AND AUDIENCE
+  **APV 16.8% - best in the batch** - 27% at 0:30. **Computer 33.5%, a new register high**
+  (CO-0055 held 29.2). **United States 2.9%, the first US entry in any geography panel.**
+  Female 36.7.
+
+THE OLD COPY
+  Title   : bracket emoji, band, song, hashtag tail.
+  Desc    : funding wall.
+  Tags    : **11 tags / 111 chars**, song title absent.
+  Comments: no pin, four canned MAVO comments.
+
+THE REWRITE
+  Title   : 59 chars. "song + broke + band + in + duration". New skeleton - the song as the
+            agent that divides the band, runtime as the limit.
+  Desc    : 1260 chars. Opens on the working title "Plaster", then the frustration that
+            finished it, then the shortest-thing-on-the-record point, then the bass.
+  Tags    : 14 at 192/500. Band, song, album, producer, the nu metal era, lanes.
+  Pin     : 110 chars, name a shorter song that carries more. P-length-nomination.
+  GENRES  : split block. CORRECT: Nu metal, Alternative rock.
+
+*** A SHORT SONG THAT FINISHES ITSELF ***
+  Best retention in the batch, highest desktop share in the register, and the first US
+  traffic recorded. Subscriber conversion stayed at +2, which is the gap the copy targets
+  rather than the reach.
+
+################################################################################
+CO-0068 | Fleetwood Mac - Go Your Own Way | BASS PLAYTHROUGH | audited 03-11-2026
+################################################################################
+PROFILE
+  Video ID bwWZGhrj7_A | 3:34 | 266 views ("4 less than usual") | 1.6 watch hours |
+  +1 subscriber. Crop-verified.
+  Notices badge: **E4 INELIGIBLE WITH A PARTIAL BLOCK** - the first partial block since
+  CO-0052 and the first on a Warner title. Revenue dashed.
+
+REACH
+  384 impressions at 1.0% CTR and **6.0% from YouTube recommending - a new corpus floor**
+  (CO-0066's 20.6% is the next worst). **97.7% of views came through advertising.** There is
+  no organic story in these numbers.
+
+QUALITY AND AUDIENCE
+  **Female 44.1% - a new corpus record** (CO-0058 held 43.3%). Mobile 98.3.
+
+THE OLD COPY
+  Title   : bracket emoji, band, song, hashtag tail.
+  Desc    : funding wall.
+  Tags    : **9 tags / 101 chars - "fetwoodmac", "fletwoodmac", "feetwoodmac" and no
+            correct spelling of the band anywhere**, no song title.
+  Comments: no pin, four canned MAVO comments.
+
+THE REWRITE
+  Title   : 64 chars. "indefinite subject + [song element] + cost + band + object". New
+            skeleton - a cost verb with an intangible as the price.
+  Desc    : 1255 chars. Opens on the line in the second verse and who it was aimed at,
+            then the album circumstances, then the plainest-bass-in-the-register point.
+  Tags    : 16 at 210/500. Band in three spellings plus the correct one, song, album,
+            producer, the 1977 single, lanes.
+  Pin     : 92 chars, would you have added more. P-craft-decision.
+  GENRES  : split block. CORRECT: Classic rock, Soft rock, Pop rock.
+
+*** THE BLOCK IS THE STORY ***
+  Warner came back clean on CO-0067 and on CO-0069 and blocked here. The label is not the
+  variable, the song's publishing is. Strongest evidence yet that the claim follows the
+  composition.
+
+################################################################################
+CO-0069 | R.E.M. - Losing My Religion | BASS PLAYTHROUGH | audited 03-11-2026
+################################################################################
+PROFILE
+  Video ID 5b9f5p1W5Cs | 4:26 | 298 views | 2.1 watch hours | +3 subscribers. Crop-verified.
+  Notices badge: **E4 INELIGIBLE**, single line, no partial block. Revenue dashed.
+  Warner Bros.
+
+REACH
+  **0.4% CTR - the lowest click rate in the register.** 9 engaged views from impressions,
+  impression-AVD 1:17. **94.6% of views arrived through advertising**, so the thumbnail was
+  never really tested against an interested audience.
+
+QUALITY AND AUDIENCE
+  **Likes 60.0% - third lowest ratio in 69 audits.** Mobile 87.8. India 76.5.
+  Female 38.2.
+
+THE OLD COPY
+  Title   : bracket emoji, band, song, hashtag tail.
+  Desc    : funding wall.
+  Tags    : **7 tags / 74 chars**, song title absent.
+  Comments: no pin, four canned MAVO comments.
+
+THE REWRITE
+  Title   : 58 chars. "band + found + song + inside + source". New skeleton - the band doing
+            the looking, the song already sitting there.
+  Desc    : 1266 chars. Opens on the band's own doubt, then the no-chorus problem, then the
+            mandolin, then the bass.
+  Tags    : 16 at 201/500. Band, song, album, producer, the mandolin, the era, lanes.
+  Pin     : 119 chars, what gets that wrong today. P-rule-test.
+  GENRES  : split block. CORRECT: Jangle pop, Alternative rock, College rock.
+
+*** THE THUMBNAIL NEVER GOT A CHANCE ***
+  A 0.4% CTR on a paid audience is not a verdict on the thumbnail. The title spent nothing
+  on a song name everybody knows, which is what the rewrite fixes.
+
+################################################################################
+CO-0070 | Billy Talent - Standing In The Rain | BASS PLAYTHROUGH | audited 03-11-2026
+################################################################################
+PROFILE
+  Video ID 9LmyTiqZzuw | 3:18 | 305 views | 1.7 watch hours | +2 subscribers. Crop-verified.
+  Notices badge: **E4 INELIGIBLE**, single line, no partial block. Every revenue figure
+  dashed, RPM dashed. Atlantic. Second Billy Talent upload in this batch.
+
+REACH
+  8 engaged views from impressions, 0.18 impression-AVD, 0.04 hours from impressions.
+  Content suggesting 3.0%. Search 1.3% with **"billy talent live" at 50.0%** - a format
+  query, not a song query - and the song absent again.
+
+QUALITY AND AUDIENCE
+  AVD 0:19, APV 10.0%, and **16% at 0:30 - the worst opening recorded in the register.**
+  **End screen CTR 7.7%, second highest in the register** behind CO-0063's 14.3%.
+  Likes 100.0%. Mobile 95.0 / TV 3.5 / computer 1.4 / tablet 0.1. 95.8% of watch time from
+  non-subscribers. India 71.2 / Indonesia 15.7. No demographic report, no captions.
+
+THE OLD COPY
+  Title   : bracket emoji, band, song, hashtag tail.
+  Desc    : funding wall.
+  Tags    : **8 tags / 90 chars**, song title absent, **no live or performance term** while
+            the audience arrives on a live query.
+  Comments: no pin, four canned MAVO comments, no viewer comments.
+
+THE REWRITE
+  Title   : 59 chars. "song + speaks for + indefinite person + relative clause with a
+            negation". New skeleton - the song as advocate.
+  Desc    : 1185 chars. Opens on the band's usual practice, then the exception this song
+            makes, then the character, then the bass.
+  Tags    : 15 at 214/500. Band, song, album, producer, the character, the live lane, formats.
+  Pin     : 117 chars, whether the song earns staying in character. P-craft-justification.
+  GENRES  : split block. CORRECT: Punk rock, Post hardcore, Alternative rock.
+
+*** LEAVES EARLY, CLICKS AT THE END ***
+  The fourth case of the same shape: a quiet, slow song that bleeds viewers in thirty
+  seconds and converts everyone who reaches the end. One more and it stops being
+  coincidence.

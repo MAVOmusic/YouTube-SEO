@@ -4110,3 +4110,253 @@ INTERNAL NOTE
   sample with a declared-age bucket of 100% at 25-34. Log it, watch the next pop-era
   upload, and do not build a decision on it.
 --------------------------------------------------------------------------------
+--- MR-0061 | CO-0061 | Sabaton - Ghost Division ----------------------------------
+Video ID           : EPWQFL_z_w8 | 3:31 | 439 views ("59 more than usual") | 3.9 watch
+                     hours | +4 subscribers | crop-verified
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00 - every revenue panel dashed
+Impressions / CTR  : 10.5k impressions at **1.3%** | 88.7% from YouTube recommending |
+                     **1.79 h of watch time from impressions - NEW REGISTER RECORD**
+                     (CO-0060 held 0.69 h)
+Watch quality      : APV 14.0% | 24% at 0:30
+Likes              : 85.7%
+Traffic            : browse 26.9 / search / suggested / external (rest of panel small)
+Search             : "sabaton" the only artist query of note; song title absent all batch
+Devices            : mobile 77.4
+Audience           : India-led panel, 100% no captions
+Old title          : "[guitar emoji] Sabaton - Ghost Division #rocksmith #bass ..."
+Old tags           : **8 tags / 84 chars**, "sabaton" twice, **song title absent**
+Old desc           : the 2022/24 funding wall, dead discord.gg/mavomusic, Ko-fi, Kick
+                     Partner block, 3AM EST / 8AM BST schedule, X, TikTok, Twitch
+Old pin            : **no pin.** Four canned MAVO comments
+Old comments       : **ONE REAL VIEWER COMMENT, in Russian, answered by MAVO**
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Nuclear Blast. Sabaton 8 of 8.
+
+*** THE BOTTLENECK IS THE THUMBNAIL, NOT THE CONTENT ***
+  Shown 10.5k times, clicked 1.3% of the time, and the minority who clicked stayed longer
+  than any audience in 61 audits. 26.9% browse against 6.2% on CO-0059 says the catalogue
+  audience is browsing rather than searching.
+
+INTERNAL NOTE
+  The comment is the only proof the channel is read at all in this batch. A pin has never
+  been used here and this is the video that most obviously wants one.
+
+--- MR-0062 | CO-0062 | Three Days Grace - Pain -------------------------------------
+Video ID           : rCZo9m6wpnl | 3:20 | 305 views | 2.0 watch hours | +3 subscribers
+                     | crop-verified
+                     (final character a bare stroke, logged as a known ambiguity)
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00
+Impressions / CTR  : 3.6k impressions at **0.9%** | **91.6% from YouTube recommending**
+Watch quality      : APV 11.8%
+Likes              : **100.0%**
+Devices            : mobile-dominant
+Audience           : Female 39.3 / Male 60.7 | India 59.3 / Indonesia 19.7
+Old title          : "[guitar emoji] Three Days Grace - Pain #rocksmith #bass ..."
+Old tags           : **8 tags / 90 chars**, song title absent
+Old desc           : funding wall, dead Discord invite included
+Old pin            : no pin. Four canned MAVO comments
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Jive. First Three Days Grace upload in
+                     62 audits, first Jive title since CO-0052.
+
+*** PUSHED HARD, CLICKED RARELY ***
+  91.6% recommendation and 0.9% CTR is the exact inverse of CO-0061. Jive behaved
+  differently here than it did on CO-0052 (no block), which is the first nuance the
+  register has on that label.
+
+--- MR-0063 | CO-0063 | Rammstein - Hilf Mir ---------------------------------------
+Video ID           : ptLVqJ42LsO | 5:21 | 311 views | 2.3 watch hours | +3 subscribers
+                     | crop-verified (final char O or 0, logged)
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00
+Watch quality      : **APV 8.3%** - second lowest in the batch
+End screen CTR     : **14.3% - NEW CORPUS RECORD** (CO-0055 held 5.6%)
+Likes              : **100.0%**
+Devices            : mobile 78.6
+Audience           : India 66.2 | demographic report absent
+Old title          : "[guitar emoji] Rammstein - Hilf Mir #rocksmith #bass ..."
+Old tags           : **11 tags / 94 chars**, "ramstein" three times, **"rammstein" absent**
+Old desc           : funding wall
+Old pin            : no pin. Four canned MAVO comments
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Universal. Third Rammstein upload.
+
+*** EVERYONE WHO STAYED TO THE END CLICKED SOMETHING ***
+  8.3% APV and 14.3% end screen CTR together say the audience left early and the residue
+  was fully engaged. Three of the top four end screen rates on the channel now sit on
+  slow, long, unresolved songs.
+
+--- MR-0064 | CO-0064 | Sabaton - Primo Victoria -----------------------------------
+Video ID           : Xkz3DbXvbwc | 4:10 | 322 views | 2.1 watch hours | +2 subscribers
+                     | crop-verified
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00
+Search             : 1.6% slice - **"primo victoria" 60.0%**, "sabaton" 20.0%. The strongest
+                     song-title query share in the register, on a tag box with no title
+Likes              : **50.0% - NEW CORPUS FLOOR** (CO-0052 held 66.7%)
+Devices            : mobile 96.4 / computer 2.9 / **no TV share**
+Audience           : **Female 0.0 / Male 100.0** | India 76.4
+Suggested          : five of the suggested videos are our own uploads
+Old title          : "[guitar emoji] Sabaton - Primo Victoria #rocksmith #bass ..."
+Old tags           : band name twice, **song title never**
+Old desc           : funding wall
+Old pin            : no pin. Four canned MAVO comments
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Nuclear Blast. Sabaton 9 of 9.
+
+*** THE SONG WAS SEARCHED FOR AND NOT IN THE BOX ***
+  60.0% of a search slice is a person typing the title. The tag box carried the band twice
+  and the song zero times. This is the cleanest single fix in the batch.
+
+--- MR-0065 | CO-0065 | Nirvana - Come As You Are --------------------------------
+Video ID           : mum7kdpxGC8 | 3:38 | 363 views ("about the same as usual") | 2.6 watch
+                     hours | **+7 subscribers** | crop-verified
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00
+Impressions / CTR  : **CAPTURE DEFECT** - `_02 Reach 1` is scrolled past the impressions
+                     header. Impressions and CTR are not in the folder and are NOT
+                     inferred. Only the funnel and traffic sources are legible
+Watch quality      : APV 12.0% | 24% at 0:30
+Traffic            : search 3.6%, "come as you are" a logged query at 23.1%
+Old title          : "[guitar emoji] Nirvana - Come As You Are #rocksmith #bass ..."
+Old tags           : **13 tags / 119 chars**, four "kurtcobain" variants, song title absent
+Old desc           : funding wall
+Old pin            : no pin. Four canned MAVO comments
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** DGC.
+
+*** HIGHEST SUBSCRIBER CONVERSION IN THE REGISTER ***
+  +7 on 363 views, against CO-0053's +5 on a Premiere. A famous song name brings people
+  who stay and subscribe, which no other lever in this register has managed.
+
+--- MR-0066 | CO-0066 | Billy Talent - Try Honesty --------------------------------
+Video ID           : 0_j6uGURWxI | 4:09 | 260 views ("30 less than usual") | 1.6 watch
+                     hours | +1 subscriber | crop-verified
+                     (final character a bare stroke, logged as a known ambiguity)
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00
+Impressions / CTR  : 296 impressions at **0.7%** - second lowest click rate in the register
+Recommendation     : **20.6% from YouTube recommending, 2 engaged views** - the weakest
+                     distribution ever recorded here
+Traffic            : **advertising 95.8**
+Audience           : sub-watch 4.9% | India 68.9 / Indonesia 22.7 | mobile 98.3
+Old title          : "[guitar emoji] Billy Talent - Try Honesty #rocksmith #bass ..."
+Old tags           : **8 tags / 90 chars**, song title absent
+Old desc           : funding wall
+Old pin            : no pin. Four canned MAVO comments
+Old comments       : **ONE REAL VIEWER COMMENT (@aminahmed2220), answered by MAVO**
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Atlantic. First Billy Talent in the walk.
+
+*** 296 IMPRESSIONS IS NOT A CONTENT RESULT ***
+  YouTube effectively did not push this and 95.8% of what arrived was paid. Nothing about
+  the copy can be judged from this sample.
+
+--- MR-0067 | CO-0067 | Linkin Park - One Step Closer -----------------------------
+Video ID           : jvorLDTWc1c | 2:36 | 3.0 watch hours | 412 views ("42 more than
+                     usual" - that is the VIEW delta, not subscribers) | **+2 subscribers**
+                     | crop-verified
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00
+Impressions / CTR  : 1.7% | **85 engaged views from impressions** | 0.95 h from impressions
+Watch quality      : **APV 16.8% - best in the batch** | 27% at 0:30
+Traffic            : browse 25.5 / advertising / search
+Devices            : **computer 33.5 - NEW REGISTER HIGH** (CO-0055 held 29.2)
+Audience           : **United States 2.9% - the first US entry in any geography panel**
+                     | Female 36.7
+Old title          : "[guitar emoji] Linkin Park - One Step Closer #rocksmith #bass ..."
+Old tags           : **11 tags / 111 chars**, song title absent
+Old desc           : funding wall
+Old pin            : no pin. Four canned MAVO comments
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Warner Bros. First Warner title in 67
+                     audits.
+
+*** A SHORT SONG THAT FINISHES ITSELF ***
+  2:36 flatters any percentage, but 27% at 0:30 is a genuine opening and 25.5% browse says
+  the algorithm was willing. Only +2 subscribers converted off 412 views, which is the
+  gap the copy has to close, not the reach.
+
+--- MR-0068 | CO-0068 | Fleetwood Mac - Go Your Own Way ---------------------------
+Video ID           : bwWZGhrj7_A | 3:34 | 266 views ("4 less than usual") | 1.6 watch
+                     hours | +1 subscriber | crop-verified
+Notices badge      : **E4 INELIGIBLE WITH A PARTIAL BLOCK** - the first partial block
+                     since CO-0052, and the first on a Warner title
+Revenue            : GBP 0.00
+Impressions / CTR  : 384 impressions at 1.0%
+Recommendation     : **6.0% - NEW CORPUS FLOOR** (CO-0066's 20.6% the next worst)
+Traffic            : **advertising 97.7**
+Audience           : **Female 44.1 - NEW CORPUS RECORD** (CO-0058 held 43.3%)
+Devices            : mobile 98.3
+Old title          : "[guitar emoji] Fleetwood Mac - Go Your Own Way #rocksmith #bass ..."
+Old tags           : **9 tags / 101 chars - "fetwoodmac", "fletwoodmac", "feetwoodmac"
+                     and no correct spelling of the band anywhere.** Song title absent
+Old desc           : funding wall
+Old pin            : no pin. Four canned MAVO comments
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN WITH PARTIAL BLOCK.** Warner Bros, publishing side.
+
+*** THE BLOCK IS THE STORY ***
+  Warner came back clean on CO-0067 and CO-0069 and blocked here. The label is not the
+  variable; the song's publishing is. Second-strongest evidence that the claim follows the
+  composition, after CO-0026.
+
+--- MR-0069 | CO-0069 | R.E.M. - Losing My Religion ------------------------------
+Video ID           : 5b9f5p1W5Cs | 4:26 | 298 views | 2.1 watch hours | +3 subscribers
+                     | crop-verified
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00
+Impressions / CTR  : **0.4% - the lowest click rate in the register**
+Engaged            : 9 engaged views from impressions | impression-AVD 1:17
+Traffic            : advertising-dominant, 94.6% of views
+Likes              : **60.0% - third lowest ratio in 69 audits**
+Devices            : mobile 87.8
+Audience           : India 76.5 | Female 38.2
+Old title          : "[guitar emoji] R.E.M. - Losing My Religion #rocksmith #bass ..."
+Old tags           : **7 tags / 74 chars**, song title absent
+Old desc           : funding wall
+Old pin            : no pin. Four canned MAVO comments
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Warner Bros.
+
+*** THUMBNAIL NEVER TESTED ***
+  A 0.4% CTR on a paid audience is not a verdict on the thumbnail; almost nobody was given
+  the chance to choose. The title, meanwhile, spent nothing on a song name everyone knows.
+
+--- MR-0070 | CO-0070 | Billy Talent - Standing In The Rain -----------------------
+Video ID           : 9LmyTiqZzuw | 3:18 | 305 views | 1.7 watch hours | +2 subscribers
+                     | crop-verified
+Notices badge      : **E4 INELIGIBLE** - single line, **no partial block**
+Revenue            : GBP 0.00 - every figure dashed, RPM dashed
+Impressions / CTR  : 8 engaged views from impressions | 0.18 impression-AVD | 0.04 h
+Watch quality      : AVD 0:19 | APV 10.0% | **16% at 0:30 - the worst opening recorded**
+End screen CTR     : **7.7% - second highest in the register** behind CO-0063
+Content suggesting : 3.0% share
+Search             : 1.3% slice - **"billy talent live" 50.0%**, song absent again
+Likes              : **100.0%**
+Devices            : mobile 95.0 / TV 3.5 / computer 1.4 / tablet 0.1
+Audience           : sub-watch 95.8% not subscribed | India 71.2 / Indonesia 15.7 |
+                     no demographic report | no captions
+Old title          : "[guitar emoji] Billy Talent - Standing In The Rain #rocksmith
+                     #bass ..."
+Old tags           : **8 tags / 90 chars**, song title absent, no live/performance term
+Old desc           : funding wall
+Old pin            : no pin. Four canned MAVO comments
+Old comments       : no viewer comments
+
+CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Atlantic. Second Billy Talent in the batch.
+
+*** LEAVES EARLY, CLICKS AT THE END ***
+  16% at 0:30 with 7.7% end screen CTR is the fourth case of the same shape. "billy talent
+  live" at 50.0% says the audience arriving wants a performance, and no tag box in this
+  batch carried a live or performance term.
+

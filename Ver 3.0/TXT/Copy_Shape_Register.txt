@@ -165,6 +165,17 @@
   0059    runtime arithmetic, then the refusal                P-binary-comparison
   0060    date plus album arrival, then the original version  P-two-way-disagreement
 
+  0061    historical episode narrated forward, then the name it gave the song   P-history-door
+  0062    the premise contradicted                                     P-context-value
+  0063    source material retold, then what the band did to it          P-order-choice
+  0064    reverse chronology, "before" repeated three times, then the zero hour  P-open-challenge
+  0065    technical facts stacked - tuning, pedal, amp - then the song  P-minimalism-comparison
+  0066    band history, the name change and the record it produced      P-two-era-memory
+  0067    working title, then the frustration that finished the song    P-length-nomination
+  0068    one line of lyric, then who it was aimed at                   P-craft-decision
+  0069    the band's own doubt, stated first                            P-rule-test
+  0070    the band's usual practice, then the exception                 P-craft-justification
+
 ################################################################################
 # GENRE BLOCK - SPLIT INTO TWO ELEMENTS (VER 4.38, MAVO 02-11-2026)
 ################################################################################
@@ -214,6 +225,22 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-03  VER 4.51. Ten rows added in one batch, CO-0061 to CO-0070, the largest
+              single addition to this file. Description openers: no two share a move.
+              0061 was rewritten because its opener was date-first and 0060 was
+              date-first too, which DS-B1 forbids back to back. 0067 is a working-title
+              story like 0056's construction history but told backwards - the name came
+              first and the writing came out of the frustration - so it is logged as a
+              distinct shape. 0068 takes one lyric line, which 0037 also did, but 0037
+              undercut the line and this one names who it was aimed at. Pins: three were
+              rewritten before logging because they collided as moves - 0062 asked "look
+              up" like 0061, 0067 asked "does any debut hit harder" like 0064, and 0068
+              asked "proves that less is better" like 0065's minimalism pin. Four new pin
+              labels in the batch (P-history-door, P-context-value, P-order-choice,
+              P-length-nomination, P-minimalism-comparison, P-two-era-memory,
+              P-craft-decision, P-rule-test, P-craft-justification, P-open-challenge) -
+              none of them repeats a label used on 0001-0060 except the generic craft
+              moves, and no label is used twice inside the batch.
   2026-11-02  VER 4.50. Five rows added in one batch, CO-0056 to CO-0060:
               0056 construction history / 0057 reviewer disagreement (first use in 60
               audits) / 0058 imperative listening instruction / 0059 runtime arithmetic
