@@ -64,3 +64,6 @@ Gate checks evidence records/hashes; it cannot independently certify truth.
 
 2026-11-03 - First-ten evidence/uniqueness recheck and file corrections; new
 user handoff instruction: only song MD until 0070, paste-ready from 0071 onward.
+
+2026-11-03 - Independent first-20 surface recheck, 0008 title correction,
+validation and initial 0021-0030 research with image mismatch and evidence gaps.

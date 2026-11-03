@@ -59,7 +59,7 @@
           was: America keeps one string busy for four minutes and never apologises
   0007    imperative keep up                             Keep up with Motionless In White on Immaculate Misconception
           was: Immaculate Misconception is four minutes of Motionless In White at full sprint
-  0008    music video motif behind band song              The cassette tape video behind Green Day's X-Kid
+  0008    song by band played on bass with format              X-Kid by Green Day, played on bass with Rocksmith
           was: X-Kid is Mike Dirnt playing a farewell song like it is a party
   0009    following band through song                     Following My Chemical Romance through Welcome To The Black Parade
           was: Welcome To The Black Parade is five minutes of Mikey Way never standing still

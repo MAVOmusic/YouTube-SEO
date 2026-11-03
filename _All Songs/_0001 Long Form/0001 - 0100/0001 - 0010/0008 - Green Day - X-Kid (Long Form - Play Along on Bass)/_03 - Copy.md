@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (48 characters)
+## TITLE (49 characters)
 
 ```text
-The cassette tape video behind Green Day's X-Kid
+X-Kid by Green Day, played on bass with Rocksmith
 ```
 
 ## DESCRIPTION (523 characters)

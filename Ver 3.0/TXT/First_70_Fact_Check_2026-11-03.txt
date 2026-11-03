@@ -417,3 +417,73 @@ The original 0033 includes a 2020 single assertion, whereas press announced it a
 a single with the video in December 2019 and sources date radio/single releases
 in 2020; do not conflate the stages. That file remains open for its own review.
 Next 0021-0030; 0021-0070 still open under the full fact-check.
+
+2026-11-03 - ADDITIONAL 0001-0020 SAFETY REVIEW
+At MAVO's request independently reread all 20 current title, description,
+tags, pin and correct-genre sections and their evidence records, checked the
+new first-ten historical screenshot mappings and previous second-ten findings,
+then reran the long-form record and phrase scan for all 20. The 0008 title was
+changed because 'cassette tape video behind' could wrongly imply the separate
+Green Day music video was included in this Rocksmith upload. The actual 2012
+cassette-video fact is still in its description, with source in the 0008 record.
+Corrected the title register and title hash in that record. Other content was
+retained. Checked surface lengths, headers, banned typography, and the three
+URLs in the user-required order for all 20; all passed. N-gram overlap involving
+0002/0004 is necessary shared artist/song wording, not a repeated fact angle.
+
+0011-0020 prior review records summarize groups of tag terms rather than
+listing every term separately; their contents were reread alongside the MD.
+No code proves accuracy or exhaustive semantic originality, and a historical
+image cannot confirm present YouTube copy or newly posted artist comments.
+Genres are source-based recommendations; 0001 dungeon synth and 0005/0007
+melodic metalcore use album-level evidence. Subjective titles are opinions.
+Under these limits 0001-0020 are ready for MAVO to review/edit from their MD files.
+
+2026-11-03 - STARTED 0021-0030, NOT FINISHED OR APPROVED
+Historical image Details files in folders 0021-0030 were read, along with
+0025's additional Official Comment image. Their contents are misfiled:
+folder 0021 -> Jailhouse Rock; 0022 -> Together; 0023 -> Hammer Has Fallen;
+0024 Details -> historical Aephanemer artist comment; 0025 Details -> X-Kid;
+0026 -> Old French Song; 0027 -> Archangel; 0028 -> Dreadnought;
+0029 -> Camouflage; 0030 -> the age-restricted track. The file named
+0025/Official Comment.jpeg actually shows Pendulum Tarantula Details. Identify
+by visible title, not folder names. A still is not evidence of exact playing.
+Prior records identify an artist comment for 0025; preserve it, do not replace
+it with the fallback pin. A comment screenshot alone does not show the current
+pin status. Do not print the explicit EP title or track title in 0026 copy;
+the band name remains unchanged, per MAVO's standing policy.
+
+Initial research, not full fact/genre/uniqueness review:
+- 0021 existing text asserts Bill Black played upright bass on Jailhouse Rock.
+  Rhino reports Black switched to electric bass at those sessions; other accounts
+  disagree. Remove the unsupported categorical upright claim rather than assume.
+  https://www.rhino.com/article/bill-black
+  https://www.elvis.com.au/presley/elvis-presley-leiber-and-stoller-and-jailhouse-rock.shtml
+  Original Leiber/Stoller song and recording history:
+  https://www.elvisthemusic.com/track/jailhouse-rock-stereo/
+- 0022 Together is the SECOND track on Under My Skin, and is 3:14 in standard
+  track listings; prior song Take Me Away is 2:57. Yet the old Details image
+  labels the uploaded video Together and displays 2:57. This is an unresolved
+  mismatch, NOT proof that MAVO uploaded the wrong song; do not assert a
+  recording length or song identity based on runtime alone. Need a reliable way
+  to identify the actual audio or ask MAVO if it remains necessary.
+  https://www.discogs.com/release/6620320-Avril-Lavigne-Under-My-Skin
+  https://rateyourmusic.com/song/avril-lavigne/together/
+- 0023 source for 1986 original and 2016 limited-edition cover:
+  https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song)
+  https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158
+- 0024 2001 Fist for Fight track position:
+  https://www.nuclearblast.com/pages/album/fist-for-fight
+- 0025 2021 Aephanemer album and Tchaikovsky cover:
+  https://metalnerd.net/aephanemer-announce-new-album-a-dream-of-wilderness/
+- 0026 verified artist identity and a 2014 release in online listings; the
+  explicit EP title is intentionally excluded from paste copy. Screenshot shows
+  age restriction but not its cause; remove claims that the band name caused it.
+- 0027 distinct from 0008 X-Kid; previous one-pass claim unverified.
+- 0028 https://sabaton.bandcamp.com/track/dreadnought?action=download
+- 0029 https://www.amaranthe.se/news/90-single-and-video-archangel-out-now
+- 0030 https://www.whosampled.com/Pendulum/Tarantula/
+
+Do not mark 0021-0030 complete or copy-ready on this preliminary research.
+Finish each claim, all five surfaces, genre, uniqueness, images/pins, record
+and gate; the prior source notes and old screenshots do not suffice.
