@@ -20,10 +20,10 @@ Watch the Rocksmith chart while I take the bass part through Sabaton's song.
 💬 Discuss songs inspired by history in Discord; optional boosts are appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (9 tags, 129/500 characters)
+## TAGS (10 tags, 141/500 characters)
 
 ```text
-sabaton, dreadnought, sabaton dreadnought, the war to end all wars, power metal, 2022, bass cover, rocksmith bass, rocksmith 2014
+sabaton, dreadnought, sabaton dreadnought, the war to end all wars, power metal, 2022, bass cover, rocksmith bass, rocksmith 2014, rock smith
 ```
 
 ## PINNED COMMENT (68 characters)

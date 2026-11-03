@@ -657,3 +657,5 @@ reviewed.
 These replacements remove the four inaccessible-interview origin claims; they do not prove every other source or subjective genre in the first 70 infallible.
 
 2026-11-03 - Four-claim correction validation: first-70 record gate, 3 unit tests, verify.sh, revised copy counts and typography, and git diff --check passed. Mechanical gates cannot establish truth or global originality.
+
+2026-11-03 - CO-0028: historical Reach 2 screenshot explicitly lists "rock smith" and "sabaton" in a 2.6% search-traffic slice. Restored the relevant observed misspelling rock smith to the tag set, updated its source record and refreshed the first-70 ZIP. This is a small historical observation, not proof tags caused the traffic or will improve discovery.
