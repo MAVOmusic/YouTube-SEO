@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (74 characters)
+## TITLE (65 characters)
 
 ```text
-Rock am Ring footage accompanies Billy Talent - Viking Death March on bass
+Billy Talent Viking Death March: two venues in the official video
 ```
 
 ## DESCRIPTION (494 characters)

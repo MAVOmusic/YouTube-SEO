@@ -2,7 +2,7 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "e5d6c4063023ecc3f44b8959c6dd237ad0ef057b58a0f7b5607dffcd2434736f",
+    "title": "c70e7222afd7f0478126325123a6fba928624c31268793c66a526b9597756b62",
     "description": "fa891e2729fb1dc1cf98638e0b82bed52da9cfbf681e2ecc9a56222a1aa39a61",
     "tags": "e15208b62daaf2b2ecfdeaadb3dcd5664c0fe83a889e5e2cd5a7d96766da2ede",
     "pinned comment": "736b12e1ef78b180e8b531aaa6c2455b9f368e81ea58bff6404dc67d459d3ea6",
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Rock am Ring footage accompanies Billy Talent - Viking Death March on bass",
-      "source": "https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0044 - Billy Talent - Viking Death March (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity and factual framing checked; performance and Rocksmith format based on historical image and user confirmation."
+      "claim": "Billy Talent Viking Death March: two venues in the official video",
+      "source": "https://thestar.com/entertainment/music/2013/04/15/juno_awards_nominee_preview_viking_death_march_by_billy_talent.html",
+      "assessment": "Rechecked title against cited source. The wording refers to the original recording or official video and does not imply the artist appears in this performance."
     },
     {
       "surface": "description",
@@ -115,7 +115,7 @@
   ],
   "distinct_fact_and_source": "official video performance footage ; https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/",
   "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 2026-11-03 targeted recheck replaced the complete title to remove a subjective or potentially misleading implication.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

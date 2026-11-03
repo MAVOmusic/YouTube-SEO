@@ -47,7 +47,7 @@
   ----    ---------------------------------------------  ------------------------------------------------------------
   0001    duration opener + refusal                      Autumn Leaves for an hour and Burzum in no hurry
           was: An hour of Burzum's Autumn Leaves with nothing added and nothing rushed
-  0002    why-question                                   Why Another Life by Motionless In White hurts more on bass
+  0002    fan feedback helped choose song by band as a single | Fan feedback helped choose Another Life by Motionless In White as a single
           was: Motionless In White made Another Life hurt on purpose, and the bass carries it
   0003    song finds band in a register                  Masterpiece finds Motionless In White in a quieter register
           was: Masterpiece is the Motionless In White song where the bass stops behaving
@@ -81,7 +81,7 @@
           was: Nine years after the split, Foundations Of Decay handed Mikey Way six minutes
   0018    revised song-specific angle                    Discord by Eurobeat Brony remixed by The Living Tombstone
           was: Eurobeat Brony's Discord, remixed by The Living Tombstone, on one bassline
-  0019    revised song-specific angle                    Where Rage Against The Machine put the speech in Take The Power Back
+  0019    band credit bassist on song | Rage Against The Machine credit Tim Commerford on Take The Power Back
           was: Rage Against The Machine put the argument in the bassline of Take The Power Back
   0020    revised song-specific angle                    A Japanese folk melody meets BABYMETAL in Megitsune
           was: Babymetal's Megitsune is a folk melody riding a bass that never rests
@@ -108,7 +108,7 @@
   0041    soundtrack roots of song - artists on format               Young, Wild & Free: Snoop Dogg, Wiz Khalifa and Bruno Mars on bass
   0042    from session to album: band revisit song on instrument     From Peace to Electric: The Cult revisit Love Removal Machine on bass
   0043    band bring place influence to song format                   Muse bring New York club influence to Supermassive Black Hole bass
-  0044    festival footage accompanies band - song on instrument     Rock am Ring footage accompanies Billy Talent - Viking Death March on bass
+  0044    band song: two venues in the official video | Billy Talent Viking Death March: two venues in the official video
   0045    band: song credits two writers - format                            Manowar: Kings Of Metal credits DeMaio and Ross the Boss - bass cover
   0046    band pair song with cover on medium                        Bullet For My Valentine pair Scream Aim Fire with a cover on vinyl
   0047    game added band song on platform                           Guitar Hero II added My Chemical Romance - Dead! on Xbox 360

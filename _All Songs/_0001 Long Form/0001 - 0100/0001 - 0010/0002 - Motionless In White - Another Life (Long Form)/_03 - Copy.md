@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (58 characters)
+## TITLE (74 characters)
 
 ```text
-Why Another Life by Motionless In White hurts more on bass
+Fan feedback helped choose Another Life by Motionless In White as a single
 ```
 
 ## DESCRIPTION (533 characters)

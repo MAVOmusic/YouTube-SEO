@@ -670,3 +670,16 @@ Artist video facts do not claim those videos appear in MAVO's performances.
 Common Discord-invitation five-word signals on 0065 and 0068 were examined;
 they are not shared factual angles. No automated gate can prove every fact or
 semantic uniqueness, and unseen or future uploads were not compared.
+
+2026-11-03 - USER-REQUESTED SECOND CHECK, IN PROGRESS
+Re-read the 0001-0070 public blocks and genre lists; independently spot-checked
+selected claims, including historical loop labels and a specialist Chopin
+edition. Corrected three complete title surfaces: 0002 removed an unsupported
+comparative emotional claim; 0019 replaced an unexplained speech premise with
+sourced bassist credit; 0044 now clearly identifies the footage as belonging
+to the official video, not this upload. First-70 gate and individual title
+hashes refreshed. This is not a completed independent claim-by-claim source
+verification of every description, tag, genre and pin: do not certify all 70
+as error-free or proceed to 0071 on the strength of this entry. Genres remain
+subjective, some release or album-level; image captures do not establish current
+comments, monetisation or exact audio arrangements. More evidence review needed.
