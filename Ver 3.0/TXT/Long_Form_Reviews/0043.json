@@ -1,0 +1,128 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "16f152070cc416ca231f047c901b5ad01cbfa10243dbf404fcf969722040dbd0",
+    "description": "961620e1f5361abfed7b2f653c1d0909d0b340bfd3870ac1cee8fa11112a7bd6",
+    "tags": "e68c34baa97163e075e029a5bb41a4e91f2cbdf3519fef65875bf13e1986112f",
+    "pinned comment": "f169e9fb555469b7dd1184fd12f1738fc6dd7c3137d4539dab7db29d21091b1d",
+    "genres": "652dcb9df957618d6017eceb9f82656822fddf5607dc7bcc78bcf4867863b63f"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Muse bring New York club influence to Supermassive Black Hole bass",
+      "source": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0043 - Muse - Supermassive Black Hole (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity and factual framing checked; performance and Rocksmith format based on historical image and user confirmation."
+    },
+    {
+      "surface": "description",
+      "claim": "Muse's Supermassive Black Hole draws on Matt Bellamy's time in New York clubs. It appeared on the 2006 album Black Holes and Revelations.",
+      "source": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations",
+      "assessment": "Specific song, release, credits or video facts checked against source; no implication that a separately mentioned music video or game appears in this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Follow my bass playing alongside the Rocksmith display.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0043 - Muse - Supermassive Black Hole (Long Form)/_01 - Main Info/Details.jpeg ; MAVO confirms bass playing alongside on-screen overlay",
+      "assessment": "Historical identity and user-confirmed performance format; no note-by-note or one-take claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Distinct Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations are in required order and make no schedule or reward guarantees."
+    },
+    {
+      "surface": "tags",
+      "claim": "muse",
+      "source": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations ; https://en-academic.com/dic.nsf/enwiki/2498115 ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0043 - Muse - Supermassive Black Hole (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "supermassive black hole",
+      "source": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations ; https://en-academic.com/dic.nsf/enwiki/2498115 ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0043 - Muse - Supermassive Black Hole (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "muse supermassive black hole",
+      "source": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations ; https://en-academic.com/dic.nsf/enwiki/2498115 ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0043 - Muse - Supermassive Black Hole (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "supermassive black hole bass cover",
+      "source": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations ; https://en-academic.com/dic.nsf/enwiki/2498115 ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0043 - Muse - Supermassive Black Hole (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0043 - Muse - Supermassive Black Hole (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "black holes and revelations",
+      "source": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations ; https://en-academic.com/dic.nsf/enwiki/2498115 ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0043 - Muse - Supermassive Black Hole (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative rock",
+      "source": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations ; https://en-academic.com/dic.nsf/enwiki/2498115 ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0043 - Muse - Supermassive Black Hole (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "dance punk",
+      "source": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations ; https://en-academic.com/dic.nsf/enwiki/2498115 ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0043 - Muse - Supermassive Black Hole (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "2006",
+      "source": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations ; https://en-academic.com/dic.nsf/enwiki/2498115 ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0043 - Muse - Supermassive Black Hole (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations ; https://en-academic.com/dic.nsf/enwiki/2498115 ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0043 - Muse - Supermassive Black Hole (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations ; https://en-academic.com/dic.nsf/enwiki/2498115 ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0043 - Muse - Supermassive Black Hole (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What song changed how you thought a rock band could sound?",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0043 - Muse - Supermassive Black Hole (Long Form)/_01 - Main Info/Pinned.jpeg",
+      "assessment": "Historical comments image inspected; no visible artist comment. This question is proposed copy, not proof of the live pin. Existing real viewer comments should be retained."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://en-academic.com/dic.nsf/enwiki/2498115",
+      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+    },
+    {
+      "surface": "genres",
+      "claim": "Dance-punk",
+      "source": "https://en-academic.com/dic.nsf/enwiki/2498115",
+      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+    }
+  ],
+  "distinct_fact_and_source": "New York club influence ; https://en.wikipedia.org/wiki/Black_Holes_and_Revelations",
+  "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. Historical 0043 revenue image shows estimated £0.05 and Details shows sharing ad earnings; not proof of current status.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

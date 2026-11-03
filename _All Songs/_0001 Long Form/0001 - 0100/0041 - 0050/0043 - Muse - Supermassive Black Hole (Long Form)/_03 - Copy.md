@@ -1,68 +1,43 @@
-# CO-0043 | Rewritten copy (Ver 4.43)
+# CO-0043 | Reviewed copy (2026-11-03)
 
-> Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
-> **THIS VIDEO EARNS. GBP 0.05, "Sharing ad earnings / Shopping disabled".** Sixth
-> earning long form in 44 audits and the biggest single payment yet after CO-0011.
-> GENRE FINDINGS is mine and internal. CORRECT GENRES is the playlist list.
+> Copy the title, description, tags and pinned comment. Genre findings are internal.
+> Historical revenue screenshot: estimated £0.05; Details showed ad earnings sharing. This does not establish current status.
 
-## TITLE (65 characters)
+## TITLE (66 characters)
 
 ```text
-Nobody in Muse plays a normal bassline on Supermassive Black Hole
+Muse bring New York club influence to Supermassive Black Hole bass
 ```
 
-## DESCRIPTION (1414 characters)
+## DESCRIPTION (461 characters)
 
 ```text
-Most rock songs give the bass the root note and let the guitar do the talking. This one gives the bass a fuzz pedal, a wah and a groove that would not be out of place on a dance record, and lets it carry the entire hook while the guitar plays single notes underneath like a synth.
+Muse's Supermassive Black Hole draws on Matt Bellamy's time in New York clubs. It appeared on the 2006 album Black Holes and Revelations.
 
-Chris Wolstenholme built the part around a repeating figure that sits high enough to be heard as melody rather than as low end, and the whole thing is played with a pick through an octave-up effect. That is why the song sounds like it could be in a nightclub and on a rock stage in the same four minutes. Matt Bellamy wrote it, Rich Costey co-produced it with the band, and it arrived in 2006 as the first single from Black Holes and Revelations, months before the album.
+Follow my bass playing alongside the Rocksmith display.
 
-Then it went somewhere no one expected: a baseball scene in a vampire film made it the band's biggest streaming track years after release. For a whole generation the intro now opens a baseball scene rather than an album, and it is still the same recording.
-
-🟢 Fuzz pedals and rock bands with a dance problem, every week: https://kick.com/mavomusic
-🟣 A second feed sits on Twitch for the other chat: https://www.twitch.tv/mavomusic
-💬 Is this Muse's best bassline or does Hysteria still win it? Settle it in Discord, and boosting the server is always a decent way to back it: https://discord.gg/ESGsGkN4j2
-
-Three minutes thirty, 2006, Helium 3 with Warner Bros.
+🟢 Send a genre-crossing request through Kick: https://kick.com/mavomusic
+🟣 Twitch offers a mirrored broadcast with its own chat: https://www.twitch.tv/mavomusic
+💬 Share a surprising rock crossover on Discord; thank you to our boosters: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (16 tags, 243/500 characters)
+## TAGS (10 tags, 188/500 characters)
 
 ```text
-muse, supermassive black hole, black holes and revelations, matt bellamy, chris wolstenholme, dominic howard, rich costey, alternative rock, electronic rock, dance rock, space rock, 2006, warner bros, bass cover, rocksmith bass, rocksmith 2014
+muse, supermassive black hole, muse supermassive black hole, supermassive black hole bass cover, black holes and revelations, alternative rock, dance punk, 2006, bass cover, rocksmith bass
 ```
 
-## PINNED COMMENT (122 characters)
+## PINNED COMMENT (58 characters)
 
 ```text
-Chris Wolstenholme plays this with fuzz and an octave pedal and it turns a rock band into a dance act. Genius or cheating?
+What song changed how you thought a rock band could sound?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-  Verified: 2006, first single from Black Holes and Revelations, Helium 3 with
-  Warner Bros, 3:30, written by Matt Bellamy, co-produced by the band with Rich
-  Costey, engineered and mixed by Costey. The bass runs through fuzz and an
-  octave-up, played with a pick, and that is the whole reason the track sits
-  between rock and dance. Alternative rock is the working label. Electronic rock
-  and dance rock are not scene labels here - they describe the arrangement
-  accurately. Dropped: "art rock" (the album, not this single) and "funk rock",
-  which the groove invites but the guitars refuse.
+Source-based suggestions; genre is subjective. Evidence includes a song-level classification and album context. See the review record for sources.
 
 ## CORRECT GENRES
 
-Alternative rock · Electronic rock · Dance rock · Space rock · Indie rock
-
-## EARNING NOTES - THE FIRST GBP 0.05
-
-  Badge: **"Sharing ad earnings / Shopping disabled"** - a revenue-share claim,
-  the second E2 in the corpus after CO-0030 Pendulum, and unlike every other
-  Modern major-label record audited so far, this one pays.
-  Revenue: **GBP 0.05** - more than CO-0029 (0.06)? No: less by one penny. Third
-  largest single payment on the channel behind CO-0029 0.06 and CO-0030 0.06.
-  How the money was made: watch page ads 0.05 of 0.05, CPM **GBP 0.54**, RPM
-  **GBP 0.14** (the highest RPM recorded). Ad type split: display 62.7, skippable
-  video 19.9, non-skippable 9.3, bumper 8.1.
-  Why this and not the others: Warner Bros claims it and allows a share. Atlantic
-  (CO-0041, CO-0035) claims and blocks. Same corporate family, different deal.
+- Alternative rock
+- Dance-punk

@@ -1,0 +1,140 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "8561cfaa2c1619e17639a790068d8ca5958147a565ccf472f056753fac9ca869",
+    "description": "c15d0cf28f53a86c6b4fe81fd38c1b385ae0fbf3e0da7ee96d0b433986c59b38",
+    "tags": "1125b36ea669808547e2fafdc47314f4b83db7fe2c344788e9369b044cbce784",
+    "pinned comment": "5b0083e61574280ab7827c689696e0b0e935fcd21ec29d191a609d4b38d3d904",
+    "genres": "fd2b61f372f685c26326f2108d0bc61abd06fce2bcad8f749639499bee854399"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "From Peace to Electric: The Cult revisit Love Removal Machine on bass",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity and factual framing checked; performance and Rocksmith format based on historical image and user confirmation."
+    },
+    {
+      "surface": "description",
+      "claim": "The Cult recorded Love Removal Machine for the abandoned Peace sessions, then re-recorded it for Electric. The 1987 single comes from the latter album.",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine",
+      "assessment": "Specific song, release, credits or video facts checked against source; no implication that a separately mentioned music video or game appears in this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "This Rocksmith playthrough shows the chart while I play bass.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg ; MAVO confirms bass playing alongside on-screen overlay",
+      "assessment": "Historical identity and user-confirmed performance format; no note-by-note or one-take claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Distinct Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations are in required order and make no schedule or reward guarantees."
+    },
+    {
+      "surface": "tags",
+      "claim": "the cult",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "love removal machine",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "love removal machine the cult",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "the cult love removal machine",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "electric",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "peace",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "hard rock",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "heavy metal",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "1987",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014 bass",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which version of Love Removal Machine do you return to: Peace or Electric?",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Pinned.jpeg",
+      "assessment": "Historical comments image inspected; no visible artist comment. This question is proposed copy, not proof of the live pin. Existing real viewer comments should be retained."
+    },
+    {
+      "surface": "genres",
+      "claim": "Hard rock",
+      "source": "https://en.wikipedia.org/wiki/Love_Removal_Machine",
+      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://en.wikipedia.org/wiki/Love_Removal_Machine",
+      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+    }
+  ],
+  "distinct_fact_and_source": "Peace sessions and re-recording ; https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine",
+  "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 0042 Peace version and Electric re-recording are distinct recordings; no claim that the uploaded performance uses the earlier version.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

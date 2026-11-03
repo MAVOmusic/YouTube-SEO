@@ -1,60 +1,42 @@
-# CO-0042 | Rewritten copy (Ver 4.41)
+# CO-0042 | Reviewed copy (2026-11-03)
 
-> Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
-> **E4 INELIGIBLE. GBP 0.00.** SECOND The Cult upload after CO-0038, second E4.
-> GENRE FINDINGS is mine and internal. CORRECT GENRES is the playlist list.
-> Editorial note: this is the same band as CO-0038 but a completely different genre -
-> do not file them together. The note at the bottom explains why.
+> Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (54 characters)
+## TITLE (69 characters)
 
 ```text
-Rick Rubin heard a goth song and made it a rock single
+From Peace to Electric: The Cult revisit Love Removal Machine on bass
 ```
 
-## DESCRIPTION (1425 characters)
+## DESCRIPTION (496 characters)
 
 ```text
-This song exists in three versions and the middle one is the reason it matters. The first was a radio session. The second was recorded for Peace, the album the band scrapped, and it sounded like the band that made Sanctuary - swirling, dark, patient. Then Rick Rubin arrived, the album was re-cut as Electric, and the same song came back as four minutes of straight hard rock with almost nothing left of the original.
+The Cult recorded Love Removal Machine for the abandoned Peace sessions, then re-recorded it for Electric. The 1987 single comes from the latter album.
 
-That is why it is worth playing it exactly as the 1987 single does. The riff is a car with the handbrake off, the drums are dry and loud, and the low end has exactly one job: hitting with the kick, every bar, nothing added. There is nothing clever in the part. There is no clever in the arrangement at all. The record is an argument that loud and simple beats complicated and interesting, and it wins.
+This Rocksmith playthrough shows the chart while I play bass.
 
-Released 16 February 1987 on Beggars Banquet, produced by Rubin, written by Ian Astbury and Billy Duffy. It charted at 18 in the UK and 15 on the US rock chart, and Guitar Hero World Tour put it back in front of a new generation.
-
-🟢 Hard rock and late 80s heaviness, streaming weekly: https://kick.com/mavomusic
-🟣 Twitch carries an identical feed, no extra commentary: https://www.twitch.tv/mavomusic
-💬 Have you heard the scrapped Peace version, and is the re-record actually better? Weigh in on Discord, a boost is a good way to back us: https://discord.gg/ESGsGkN4j2
-
-Four minutes seventeen, one take.
+🟢 Suggest another alternative recording in Kick chat: https://kick.com/mavomusic
+🟣 Follow the parallel stream on Twitch if that suits you: https://www.twitch.tv/mavomusic
+💬 Compare the two Cult sessions on Discord; your server boosts are appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (16 tags, 209/500 characters)
+## TAGS (12 tags, 188/500 characters)
 
 ```text
-the cult, love removal machine, electric, ian astbury, billy duffy, rick rubin, hard rock, gothic rock, garage rock, beggars banquet, 1987, 80s rock, bass cover, rocksmith bass, rocksmith 2014, bass play along
+the cult, love removal machine, love removal machine the cult, the cult love removal machine, electric, peace, hard rock, heavy metal, 1987, bass cover, rocksmith bass, rocksmith 2014 bass
 ```
 
-## PINNED COMMENT (144 characters)
+## PINNED COMMENT (74 characters)
 
 ```text
-Rubin stripped the goth out of this and it became their biggest riff. Which band got better when a producer told them to stop being interesting?
+Which version of Love Removal Machine do you return to: Peace or Electric?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-  Verified: single 16 February 1987, Beggars Banquet, recorded December 1986,
-  4:17, produced by Rick Rubin, written by Astbury and Duffy, UK 18 and US
-  Mainstream Rock 15. Hard rock is the label for the 1987 recording and it is
-  correct here in a way it was not for CO-0038, because this IS the Rubin record.
-  Gothic rock belongs only as the genre of the scrapped earlier version, so it
-  stays listed as a secondary label with that caveat, not as a primary. Dropped:
-  "heavy metal" (the band has never been one) and "80s rock" as a genre, though the
-  tag keeps it because people search the phrase.
-
-  FILING WARNING: this and CO-0038 are the same band and two different genres. Do
-  not put them in the same playlist - one is goth, one is garage-hard-rock, and
-  collecting them by artist will make a mess of both.
+Source-based suggestions; genre is subjective. Evidence is song or single-level. See the review record for sources.
 
 ## CORRECT GENRES
 
-Hard rock · Garage rock · Gothic rock · Alternative rock
+- Hard rock
+- Heavy metal

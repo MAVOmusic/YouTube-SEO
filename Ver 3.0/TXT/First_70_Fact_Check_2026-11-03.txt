@@ -572,3 +572,28 @@ bass are present. 0032 rocksmith and 0033 another life are broad but relevant;
 0035 had insufficient data. Excluded generic commanders, the unrelated warrock,
 and concert-intent all time low live. 0039/0040 genre labels are recommendations,
 not objective facts. Historical screenshots do not prove current pin or tags.
+
+2026-11-03 - 0041-0050 FIVE-SURFACE RECHECK
+Individually viewed the historical Details/Description, comments and Reach cards
+for each folder, with folder labels to avoid misattribution. Corrected unsupported
+note-by-note, intent, one-take and superlative claims. The ten MDs and per-video
+JSONs record distinct researched angles and conservative genres. 0042 distinguishes
+Peace sessions from Electric without asserting which recording plays in the video;
+0044 discusses the band's official video, not footage in MAVO's video; 0047
+separately identifies Guitar Hero II as a different game. 0048 album-art credits
+are distinct from the Lonely Day vocal/writing angle in 0016. 0049 highlights
+lyric references; 0050 focuses on songwriting credits. Korean artist/member
+names are represented in Latin and Hangul where relevant to the historical lineup.
+No speculative misspellings were inserted. Source and genre limitations are in
+individual records; only the available comparison corpus was checked.
+
+Visible search cards: 0041 rocksmith bass; 0042 the cult, love removal machine
+the cult, rocksmith 2014 bass; 0043 supermassive black hole bass cover; 0044
+insufficient data; 0045 man o war retained as a relevant observed variant,
+while the live-footage search was excluded; 0046 live-footage search excluded;
+0047 rocksmith; 0048 and 0049 insufficient data; 0050 rocksmith bass and tomboy
+song. These cards are partial historical reports, not proof that tags drove views
+or reflect current searches. No visible artist comments in reviewed screenshots;
+0046 and 0049 show genuine viewer conversations which should not be deleted.
+0043 historical Details and Revenue screenshots show ad earnings sharing and
+estimated £0.05, respectively; current monetisation cannot be inferred.

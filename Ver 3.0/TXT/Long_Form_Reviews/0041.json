@@ -1,0 +1,122 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "1d38f5169712f02ef5b2e5026d3d4d49d223e624a9bfd4bc3c2144ad159efadb",
+    "description": "2972850cc59f3e93d7b40766b4c6eb406a344adb6fbd9297c2c523d507cae1f2",
+    "tags": "904b875a0530727e30fab75bdb4920791075143ea5b201560bfb1ecdae4f705c",
+    "pinned comment": "932dce882ede2b4b41998ed41d724e501a55d193f1fb4449caf44cda4e757905",
+    "genres": "9cc9ed6f061284c9d6ebd5167b044ce748e9dbaea01e07011d9c23de1649a03a"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Young, Wild & Free: Snoop Dogg, Wiz Khalifa and Bruno Mars on bass",
+      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity and factual framing checked; performance and Rocksmith format based on historical image and user confirmation."
+    },
+    {
+      "surface": "description",
+      "claim": "Young, Wild & Free is the lead single from the Mac & Devin Go to High School soundtrack. Snoop Dogg and Wiz Khalifa share the track with featured vocalist Bruno Mars.",
+      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free",
+      "assessment": "Specific song, release, credits or video facts checked against source; no implication that a separately mentioned music video or game appears in this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "My bass performance uses an on-screen Rocksmith chart.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Details.jpeg ; MAVO confirms bass playing alongside on-screen overlay",
+      "assessment": "Historical identity and user-confirmed performance format; no note-by-note or one-take claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Distinct Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations are in required order and make no schedule or reward guarantees."
+    },
+    {
+      "surface": "tags",
+      "claim": "snoop dogg",
+      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "wiz khalifa",
+      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bruno mars",
+      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "young wild and free",
+      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "snoop dogg wiz khalifa young wild and free",
+      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "mac and devin go to high school",
+      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop rap",
+      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "2011",
+      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What soundtrack introduced you to a collaboration you still enjoy?",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Pinned.jpeg",
+      "assessment": "Historical comments image inspected; no visible artist comment. This question is proposed copy, not proof of the live pin. Existing real viewer comments should be retained."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop rap",
+      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free",
+      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+    }
+  ],
+  "distinct_fact_and_source": "soundtrack lead single ; https://en.wikipedia.org/wiki/Young,_Wild_%26_Free",
+  "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}
