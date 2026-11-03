@@ -144,9 +144,9 @@
     }
   ],
   "distinct_fact_and_source": "Hoppus recalled dark-song conversation with Barker ; https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics",
-  "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads.",
-  "uncertainties_and_removed_claims": "Hoppus recollection reproduced through secondary source; no unsourced assertion about chorus or intentions beyond his account. Historical screenshots are partial, not current status; genre is subjective.",
+  "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
+  "uncertainties_and_removed_claims": "Hoppus recollection reproduced through secondary source; no unsourced assertion about chorus or intentions beyond his account. Historical screenshots are partial, not current status; genre is subjective. Wikipedia attributes the recollection to Alternative Press issue 221 (December 2006), page 140; that print source was not independently accessed and Genius may repeat the same account.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
-  "collision_report_sha256": "816f401adee369d94329fa277dd9d4658467416b0750c3ab9c12c5c1a104a88e"
+  "collision_report_sha256": "9a31040bc21126920129f4fe00dc04df7030ca64cebca27b15bf82e6be9e982c"
 }

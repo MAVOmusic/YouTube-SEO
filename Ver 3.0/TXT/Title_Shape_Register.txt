@@ -116,11 +116,11 @@
   0049    band weave earlier titles into song - format               (G)I-DLE weave earlier titles into I'm The Trend - bass playthrough
   0050    writer and collaborators shaped band song - performance    Soyeon and collaborators shaped (G)I-DLE Tomboy - bass performance
   0051    band gave song a music video in year                    (Hed) P.E. gave Watch It Burn a music video in 2021
-  0052    inside album: band bring song to instrument                Inside Broke: (Hed) P.E. bring I Got You to bass
+  0052    song from album - my band instrument cover    I Got You from Broke - my (Hed) P.E. bass cover
   0053    band gave song acoustic counterpart called number          +44 gave 155 an acoustic counterpart called 145
-  0054    song by band and its bonus-track story                Baby Come On by +44 and its acoustic bonus-track story
-  0055    the standard band album closes with song on instrument     The standard +44 album closes with Chapter XIII on bass
-  0056    song was a working album title for band                    Little Death was a working album title for +44
+  0054    artist on why song by band mattered to him    Mark Hoppus on why Baby Come On by +44 mattered to him
+  0055    band close their standard album with song - instrument cover    +44 close their standard album with Chapter XIII - bass cover
+  0056    person mixed song by band    Jerry Finn mixed Little Death by +44
   0057    guest joins artist on band song                            Carol Heller joins Mark Hoppus on +44 Make You Smile
   0058    a historical figure inspires song - band format            A Swedish king inspires The Lion From The North - Sabaton bass
   0059    song traces an early band idea to conversation             Weatherman traces an early +44 idea to a conversation

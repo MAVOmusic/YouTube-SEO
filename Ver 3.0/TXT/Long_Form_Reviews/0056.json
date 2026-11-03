@@ -2,10 +2,10 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "22a706c59699f17e5daca898c121c5d57f8388f757b6ca567bd9244b6e1f6ccc",
-    "description": "2710b526cf95526a7ddde40d4a889e5b8dde99e1a036d2a33c281d34b2034482",
+    "title": "5b225f14eb1683e0514556479908a5e6821147f001adc4821a9c6397cbd001af",
+    "description": "f991b59be902b05b0fecc3142ffe70d4c1b40b9ea3fd52bd218db78705c58d78",
     "tags": "7517473dbb992ec353a88910fba82236e5bc64a6d72988f844342b19771617f4",
-    "pinned comment": "f72eea74833e217a323fd892c25456544bba78920ba928e06845fa61c30891d3",
+    "pinned comment": "0899b529dae74b56ad7fcec889a38bb9358cb8a7745af742db3b0973535e8f04",
     "genres": "e39b35d77197353ee45d286888eb5a7da7b5729c4822d026e51761fb8e107674"
   },
   "reviewed_surfaces": {
@@ -18,14 +18,14 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Little Death was a working album title for +44",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "claim": "Jerry Finn mixed Little Death by +44",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
     },
     {
       "surface": "description",
-      "claim": "Before release, +44 tentatively titled their album Little Death, before naming it When Your Heart Stops Beating. Little Death remains the name of one of its tracks.",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics",
+      "claim": "The 2006 European CD credits Jerry Finn with mixing Little Death, a track by +44 on When Your Heart Stops Beating.",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Claims reviewed against the referenced release or source; catalog/source limitations recorded below."
     },
     {
@@ -43,90 +43,90 @@
     {
       "surface": "tags",
       "claim": "+44",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
     },
     {
       "surface": "tags",
       "claim": "plus 44",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
     },
     {
       "surface": "tags",
       "claim": "little death",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
     },
     {
       "surface": "tags",
       "claim": "+44 little death",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
     },
     {
       "surface": "tags",
       "claim": "plus 44 little death",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
     },
     {
       "surface": "tags",
       "claim": "when your heart stops beating",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
     },
     {
       "surface": "tags",
       "claim": "mark hoppus",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
     },
     {
       "surface": "tags",
       "claim": "travis barker",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
     },
     {
       "surface": "tags",
       "claim": "pop punk",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
     },
     {
       "surface": "tags",
       "claim": "alternative rock",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
     },
     {
       "surface": "tags",
       "claim": "2006",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
     },
     {
       "surface": "tags",
       "claim": "bass cover",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
     },
     {
       "surface": "tags",
       "claim": "rocksmith",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 2.jpeg",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 2.jpeg ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
     },
     {
       "surface": "tags",
       "claim": "rocksmith bass",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
     },
     {
       "surface": "pinned comment",
-      "claim": "Which working album title do you wish a band had kept?",
+      "claim": "Which instrument stands out most to you in Little Death?",
       "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0056 - +44 (Plus 44) - Little Death (Long Form)/_01 - Main Info/_03 Comments.jpeg",
       "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
     },
@@ -143,9 +143,9 @@
       "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
     }
   ],
-  "distinct_fact_and_source": "Little Death as tentative album title ; https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-little-death-lyrics",
-  "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads.",
-  "uncertainties_and_removed_claims": "Working title supported by secondary sources; removed unsupported slowest/most-rebuilt assertions. Historical screenshots are partial, not current status; genre is subjective.",
+  "distinct_fact_and_source": "Jerry Finn credited with mixing Little Death on the 2006 European CD ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+  "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
+  "uncertainties_and_removed_claims": "Removed tentative album title claim: Wikipedia and a later fan account differ on whether the title was genuinely tentative or reported speculation, and the underlying contemporary source was not independently checked. Genre is album-level and subjective. Historical screenshots are not current state.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "064662432d6f0e7a3c08421141fbee245425e25e6c295bd2a0ca99f4c1ed112d"

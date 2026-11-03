@@ -3,7 +3,7 @@
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
     "title": "6eb97c8be46fee4f16faa593d5078746ae9ad3102cb76cd9bbc81c5c1524b8ed",
-    "description": "47fd91345c75e0d515ce3f92d4c764923f82d528da6bf197921054e822ff7b2a",
+    "description": "b9f3bced430ac9dc9eddc7703309c9f9773d762967ab00bbd0082ad681492e40",
     "tags": "161f399e770ff2a936fd67f7f94664486e22aca1ba3e23c0770f6de6eb1bf56f",
     "pinned comment": "819677a33b9627465da1cf23950b5807450e3d77cf92c4eefbc1b16cf8889e01",
     "genres": "e39b35d77197353ee45d286888eb5a7da7b5729c4822d026e51761fb8e107674"
@@ -24,7 +24,7 @@
     },
     {
       "surface": "description",
-      "claim": "Carol Heller sings alongside Mark Hoppus on Make You Smile. On the 2006 +44 album, the duet sits among the songs on When Your Heart Stops Beating.",
+      "claim": "Make You Smile appears on the 2006 +44 album When Your Heart Stops Beating and features Carol Heller singing alongside Mark Hoppus.",
       "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Claims reviewed against the referenced release or source; catalog/source limitations recorded below."
     },
@@ -144,9 +144,9 @@
     }
   ],
   "distinct_fact_and_source": "Carol Heller and Mark Hoppus vocal duet ; https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
-  "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads.",
+  "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
   "uncertainties_and_removed_claims": "Heller is credited here; removed the unsupported claim that this was her only appearance. Historical screenshots are partial, not current status; genre is subjective.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
-  "collision_report_sha256": "1e58442c769f4e79de3c2e7532762c8a7e8329ef8f2ad0fc8329c045eee26e6b"
+  "collision_report_sha256": "037657d5777d79f6c969a7788e1abf51c01ff9549924ec7c382d3b1c86d73225"
 }

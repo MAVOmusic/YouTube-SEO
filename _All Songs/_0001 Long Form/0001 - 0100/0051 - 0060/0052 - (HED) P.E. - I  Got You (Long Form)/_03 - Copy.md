@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (48 characters)
+## TITLE (47 characters)
 
 ```text
-Inside Broke: (Hed) P.E. bring I Got You to bass
+I Got You from Broke - my (Hed) P.E. bass cover
 ```
 
 ## DESCRIPTION (437 characters)

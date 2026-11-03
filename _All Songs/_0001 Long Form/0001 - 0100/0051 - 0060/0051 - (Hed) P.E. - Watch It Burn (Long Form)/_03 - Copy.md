@@ -26,10 +26,10 @@ My bass playing appears with a Rocksmith overlay.
 hed pe, (hed) p.e., hed planet earth, watch it burn, hed pe watch it burn, class of 2020, rap rock, 2020, bass cover, rocksmith bass
 ```
 
-## PINNED COMMENT (64 characters)
+## PINNED COMMENT (58 characters)
 
 ```text
-Which (Hed) P.E. album would you play for a first-time listener?
+What does Watch It Burn bring to your (Hed) P.E. playlist?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)

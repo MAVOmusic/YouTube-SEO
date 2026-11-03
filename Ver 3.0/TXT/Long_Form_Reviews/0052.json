@@ -2,7 +2,7 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "01da0ea2d968b79be739fd62b048afda599a101f51cb94145997fd98131eb838",
+    "title": "201f0b0619e0adaa04416f80a855a5a5e94a713703edd9f5ae9abcd22ef91df1",
     "description": "2fdca45b61c3aef8424cc11115296bb3748ad396f0f138b8b8a66897930975c7",
     "tags": "1aa318ac578aa3dcc04b9b46e0865adfd3a310ba8a9be25a506f307241ac96a2",
     "pinned comment": "7ada810153607210475f6214e45d7f4954b6429dadc955b14d1ad23fe02703a6",
@@ -18,7 +18,7 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Inside Broke: (Hed) P.E. bring I Got You to bass",
+      "claim": "I Got You from Broke - my (Hed) P.E. bass cover",
       "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg",
       "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
     },
@@ -133,24 +133,24 @@
     {
       "surface": "genres",
       "claim": "Nu metal",
-      "source": "https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "source": "https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/ ; https://www.albumoftheyear.org/album/113998-hed-pe-broke.php ; https://www.allmusic.com/album/broke-mw0000089405",
       "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
     },
     {
       "surface": "genres",
       "claim": "Rap rock",
-      "source": "https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "source": "https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/ ; https://www.albumoftheyear.org/album/113998-hed-pe-broke.php ; https://www.allmusic.com/album/broke-mw0000089405",
       "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
     },
     {
       "surface": "genres",
       "claim": "Rap metal",
-      "source": "https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/",
+      "source": "https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/ ; https://www.albumoftheyear.org/album/113998-hed-pe-broke.php ; https://www.allmusic.com/album/broke-mw0000089405",
       "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
     }
   ],
   "distinct_fact_and_source": "Broke producer and bassist credits ; https://www.discogs.com/release/626423-Hed-PE-Broke",
-  "uniqueness_assessment": "No five-word collision signals in the available corpus. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads.",
+  "uniqueness_assessment": "No five-word collision signals in the available corpus. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
   "uncertainties_and_removed_claims": "Removed unsupported breakthrough and live-performance superlatives; the bass credit is album-level. Historical screenshots are partial, not current status; genre is subjective.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,

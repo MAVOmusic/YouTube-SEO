@@ -5,19 +5,19 @@
 ## TITLE (54 characters)
 
 ```text
-Baby Come On by +44 and its acoustic bonus-track story
+Mark Hoppus on why Baby Come On by +44 mattered to him
 ```
 
-## DESCRIPTION (461 characters)
+## DESCRIPTION (506 characters)
 
 ```text
-A 2006 European edition of When Your Heart Stops Beating includes an acoustic Baby Come On as a bonus track. The album is by +44.
+Mark Hoppus told BBC Radio 1 that Baby Come On was one of his favourites and reflected a transitional period in his life. +44 included it on their record When Your Heart Stops Beating.
 
-My bass playing accompanies the game chart in this video.
+In this video, my bass playing accompanies the game chart.
 
-🟢 Name a memorable bonus track during a Kick session: https://kick.com/mavomusic
-🟣 You can also watch on Twitch in its separate chat: https://www.twitch.tv/mavomusic
-💬 Share a bonus-track discovery with Discord; a boost is a welcome gesture: https://discord.gg/ESGsGkN4j2
+🟢 During Kick, tell me which song has personal meaning to you: https://kick.com/mavomusic
+🟣 Watch the same broadcast with Twitch chat: https://www.twitch.tv/mavomusic
+💬 Tell Discord about a meaningful track; thank you to boosters: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (13 tags, 187/500 characters)
@@ -26,10 +26,10 @@ My bass playing accompanies the game chart in this video.
 +44, plus 44, baby come on, +44 baby come on, plus 44 baby come on, when your heart stops beating, mark hoppus, travis barker, pop punk, alternative rock, 2006, bass cover, rocksmith bass
 ```
 
-## PINNED COMMENT (61 characters)
+## PINNED COMMENT (46 characters)
 
 ```text
-What bonus track has made an album edition worth seeking out?
+Which +44 song means the most to you, and why?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)
