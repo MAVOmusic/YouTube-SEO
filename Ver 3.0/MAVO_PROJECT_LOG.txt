@@ -587,3 +587,9 @@ handoff until 0071 onward. Rechecked 0001-0010 with source/claim review,
 corrected statements, tags, titles and duplicate fact angles, recorded historical
 image cross-filing and evidence in the audit ledger and per-video JSON. Gate
 passed on 0001-0020; subject to stated source/live/semantic limits. Next 0021-0030.
+
+2026-11-03 - Extra safety review of 0001-0020 at MAVO's request: reread all
+current surfaces and evidence, corrected 0008 title, rechecked metadata and gate.
+Recorded limits in the fact-check ledger; ready for user review from MD. Began
+0021-0030 research and image remapping; batch remains incomplete with 0022 audio
+identity/runtime mismatch and 0021 instrument claim flagged.

@@ -2288,3 +2288,13 @@ records, along with 0011-0020. Detailed sources, exact historical image mismatch
 and uncertainties are in TXT/First_70_Fact_Check_2026-11-03.txt. Existing
 screenshots and repository copy do not establish current YouTube metadata. Next
 0021-0030; then batches of ten through 0070. Record gate pass is not proof of truth.
+
+2026-11-03: Additional first-20 review completed at MAVO's request. 0008 title
+corrected to avoid implying the original cassette video appears in this upload;
+0001-0020 MD files ready for MAVO's review/edit subject to documented genre,
+source and historical/live-image limits. See fact-check ledger. Started
+0021-0030 but NOT finished; many images there are cross-filed. 0022 historical
+video shows 2:57, while standard Together original is 3:14 and preceding album
+track is 2:57: this is a mismatch, not proof of wrong audio. 0021 old upright
+bass claim conflicts with reliable sources. Preserve 0025's artist comment.
+Continue actual 0021-0030 corrections/review and gate, not research alone.
