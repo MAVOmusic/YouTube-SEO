@@ -15,10 +15,10 @@
 #   X-Kid", "Avril Lavigne's Together" - and the nine newest titles had collapsed
 #   into two skeletons: "[Band]'s [Song] ..." and "[Song] is [Band] ...".
 #
-#   A title shape is not a template you can reuse. YouTube indexes the pattern as
-#   well as the words, and a human reader sees the pattern long before they see
-#   the words: the same file name with a different noun in it. Ver 3.5 banned
-#   fixed shapes; this register enforces the ban with a written rule and a log.
+#   A title shape is not a template you can reuse under MAVO's instruction.
+#   Similar phrasing can feel repetitive to viewers, but there is no evidence
+#   here that YouTube indexes syntactic title patterns as a ranking factor.
+#   The register enforces the requested ban on repeated structures.
 #
 # THE RULE
 #   1. EVERY TITLE USES A DIFFERENT SYNTACTIC SKELETON. Not different words -
@@ -36,8 +36,8 @@
 #      but their POSITION moves: sometimes song first, sometimes band first,
 #      sometimes both mid-sentence, sometimes a player's name carries the front
 #      and the song lands at the back.
-#   6. LENGTH: 48 to 69 characters as of Ver 4.29. Long enough for the search
-#      terms, short enough that mobile does not cut the hook off.
+#   6. LENGTH: 48 to 69 characters as a historical working target, not proof
+#      of mobile display or click performance; display varies by device.
 #   7. BEFORE WRITING A NEW TITLE, READ THIS FILE. The new skeleton goes in the
 #      log below at the same time the copy is written. No row, no title.
 #
