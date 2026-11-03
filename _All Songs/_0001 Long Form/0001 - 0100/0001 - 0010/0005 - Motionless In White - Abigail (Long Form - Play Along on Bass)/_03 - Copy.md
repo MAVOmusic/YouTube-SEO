@@ -20,10 +20,10 @@ Follow the bass chart on screen and listen to how the part fits against the rest
 💬 Tell Discord which early Motionless In White track to revisit; community boosts are appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 203/500 characters)
+## TAGS (14 tags, 195/500 characters)
 
 ```text
-motionless in white, abigail, motionless in white abigail, creatures, metalcore, horror metal, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2010, bass guitar, drop c, play along
+motionless in white, abigail, motionless in white abigail, creatures, metalcore, horror metal, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2010, bass guitar, play along
 ```
 
 ## PINNED COMMENT (91 characters)
@@ -32,14 +32,11 @@ motionless in white, abigail, motionless in white abigail, creatures, metalcore,
 Does the early Motionless In White sound pull you in, or do you prefer their later records?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Metalcore** | documented, primary | main metalcore lane |
-| Gothic metalcore | documented - the horror half of the debut era | gothic metalcore lane |
-| Melodic metalcore | documented | melodic metalcore lane |
-| Alternative metal | documented | alt-metal crossover |
-| Horror-themed metal | scene label, fits the song's subject matter | Halloween and horror playlist lane - strongest fit for this one |
+Creatures is documented as metalcore and melodic metalcore at album level, and the song is described in a metalcore context. Gothic and horror are aesthetic/theme descriptors; song-level independent genre support is not strong enough to require more playlists. Drop C for this chart is unverified.
 
-5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
+## CORRECT GENRES (playlist reference)
+
+- Metalcore
+- Melodic metalcore

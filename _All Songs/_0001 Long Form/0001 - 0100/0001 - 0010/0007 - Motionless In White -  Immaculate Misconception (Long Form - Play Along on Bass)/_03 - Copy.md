@@ -32,13 +32,11 @@ motionless in white, immaculate misconception, immaculate misconception bass, cr
 Which part of Immaculate Misconception would you break down first when learning it?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Metalcore** | documented, primary | main metalcore lane |
-| Gothic metalcore | documented | gothic metalcore lane |
-| Melodic metalcore | documented | melodic metalcore lane |
-| Alternative metal | documented | alt-metal crossover |
+Song and parent album are documented in metalcore context; melodic metalcore is an album-level classification. Gothic is an aesthetic/album influence, rather than separately verified as a required track genre.
 
-4 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
+## CORRECT GENRES (playlist reference)
+
+- Metalcore
+- Melodic metalcore

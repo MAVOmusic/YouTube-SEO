@@ -2245,3 +2245,9 @@ Titles/descriptions/pins checked; sources, edits and unknowable video details ar
 recorded in TXT/First_70_Fact_Check_2026-11-03.txt. Existing screenshots show
 older copy, not proof of current live YouTube edits. Present each changed surface
 as one complete paste-only code block in chat. 0011-0070 remain unreviewed fully.
+
+2026-11-03: User requires tags and genres checked alongside titles, descriptions
+and pins, without needing a separate request. First ten tags/genres now checked;
+changed tag boxes 0001-0006; genre findings and recommended lists separated in
+all ten; Genre_Canonical_0001_0040 rows 0001-0010 updated. Evidence and
+uncertainties in TXT/First_70_Fact_Check_2026-11-03.txt. The rest remain open.

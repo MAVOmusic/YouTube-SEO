@@ -32,14 +32,11 @@ Listen to how the low end sits alongside the guitars and vocal, then follow the 
 What makes a bass part stand out to you in Southern rock?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Southern rock** | documented, primary | main southern rock lane |
-| Hard rock | documented | hard rock lane |
-| AOR / album-oriented rock | documented - exact period fit | AOR and 80s radio lane |
-| Classic rock | umbrella | classic rock lane |
-| Pop rock | documented | soft rock and pop rock lane |
+1983 single sources classify it as Southern rock and AOR. Classic rock is a programming umbrella; hard rock and pop rock were not confirmed sufficiently as song-level categories.
 
-5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
+## CORRECT GENRES (playlist reference)
+
+- Southern rock
+- AOR

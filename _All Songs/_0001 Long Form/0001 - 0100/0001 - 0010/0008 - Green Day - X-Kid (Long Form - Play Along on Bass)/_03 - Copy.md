@@ -32,14 +32,12 @@ green day, x-kid, x kid, tre, mike dirnt, punk rock, pop punk, bass cover, bass 
 Does knowing the story behind X-Kid change how you hear it, or did the music reach you first?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Punk rock** | documented, primary | punk lane |
-| Pop punk | documented - strongest playlist fit | pop punk lane |
-| Alternative rock | documented | alt-rock lane |
-| Power pop | documented - the melody does the work | power pop and singalong lane |
-| Rock opera | light element, the trilogy structure | optional |
+Song sources describe pop punk and power pop, and one also describes punk rock. The trilogy does not by itself make this song a rock opera; broad alternative rock is excluded from the short confident list.
 
-5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
+## CORRECT GENRES (playlist reference)
+
+- Pop punk
+- Power pop
+- Punk rock
