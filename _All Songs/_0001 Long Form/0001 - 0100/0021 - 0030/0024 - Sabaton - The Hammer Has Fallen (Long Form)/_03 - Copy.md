@@ -1,52 +1,41 @@
-# CO-0024 | Rewritten copy (Ver 4.24)
+# CO-0024 | Reviewed copy (2026-11-03)
 
-> Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
-> The GENRES block at the bottom is reference only - it is not part of the description.
+> Copy the title, description and tags. Genre findings are for playlist decisions only.
 
-## TITLE (58 characters)
-
-```text
-The Hammer Has Fallen survived a 2001 demo and still lands
-```
-
-## DESCRIPTION (1102 characters)
+## TITLE (60 characters)
 
 ```text
-This one has never been a single and never appeared on a studio album proper. It surfaced on Fist for Fight in 2001, a collection of demos, and then sat there until Metalizer was issued in 2007 with the same recordings on it. Broden wrote the music, Sundstrom wrote the words, and nobody has ever promoted it.
-
-Which is a shame, because it is the slowest and heaviest thing in the early catalogue. The bass is asked to carry the weight rather than the tune - long sustained notes under the verses, a descending figure into each chorus, and then a run at the end that is the only fast thing in five minutes. Four minutes fifty four here, and it is the least forgiving tempo in the whole set because there is nowhere to hide behind a beat.
-
-🟢 Sami and power metal nights run on Kick through the week: https://kick.com/mavomusic
-🟣 The stream mirrors to Twitch for people who watch there: https://www.twitch.tv/mavomusic
-💬 Request another deep cut in the server, and a boost helps our alias come back: https://discord.gg/ESGsGkN4j2
-
-Demo-era power metal from 2001, four minutes fifty four, one single pass.
+From Fist for Fight to bass: Sabaton's The Hammer Has Fallen
 ```
 
-## TAGS (16 tags, 230/500 characters)
+## DESCRIPTION (486 characters)
 
 ```text
-sabaton, the hammer has fallen, hammer has fallen, sabaton the hammer has fallen, fist for fight, metalizer, joakim broden, par sundstrom, power metal, swedish metal, sabton, 2001, 2007, bass cover, bass play along, rocksmith bass
+The Hammer Has Fallen appears on Sabaton's Fist for Fight, a 2001 release. The track is listed sixth on the release.
+
+I picked up my bass for this early Sabaton track, with the game chart visible.
+
+🟢 Explore early Sabaton material together in Kick chat: https://kick.com/mavomusic
+🟣 Over on Twitch, the same feed reaches another chat: https://www.twitch.tv/mavomusic
+💬 Exchange early-era metal discoveries on Discord; optional boosts support the community: https://discord.gg/ESGsGkN4j2
 ```
 
-## PINNED COMMENT (132 characters)
+## TAGS (9 tags, 140/500 characters)
 
 ```text
-No single, no studio album, just a demo collection from 2001. Which track do you think a band buried that deserved the full release?
+sabaton, the hammer has fallen, sabaton the hammer has fallen, fist for fight, power metal, 2001, bass cover, rocksmith bass, rocksmith 2014
 ```
 
-## GENRES (playlist reference - do not paste)
+## PINNED COMMENT (83 characters)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Power metal** | documented, primary - the band's genre, though this track sits at its slowest | main power metal lane |
-| Heavy metal | documented | heavy metal lane |
-| Epic / cinematic metal | elements - the build and the subject matter | epic metal and soundtrack-style lane |
-| Doom metal | elements only - the tempo, not the scene | do not file as doom; use only for slow-metal playlists |
-| Swedish metal | scene label | Swedish metal and Nordic metal lane |
-| 2000s metal | umbrella for the decade | 2000s metal nostalgia lane |
-| Demo / compilation track | factual - never a single, never on a studio album | deep cuts and rarities lane |
+```text
+What early Sabaton track would you recommend to someone who knows the later albums?
+```
 
-Seven labels, three formal classifications. One word: **Power metal**. Two: **Power metal + Heavy metal**.
+## GENRE FINDINGS (internal - not for playlists)
 
-Filing note: this is the band's slowest early track, so it works in a "slow power metal" or "metal ballads" playlist where the fast Sabaton tracks would not fit.
+Source-supported playlist suggestions, not an objective or exhaustive classification. These are album-level labels, not proof that every track has every characteristic. See the review record for source and limitations.
+
+## CORRECT GENRES
+
+- Power metal

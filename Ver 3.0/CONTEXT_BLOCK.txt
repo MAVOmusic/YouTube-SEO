@@ -2298,3 +2298,13 @@ video shows 2:57, while standard Together original is 3:14 and preceding album
 track is 2:57: this is a mismatch, not proof of wrong audio. 0021 old upright
 bass claim conflicts with reliable sources. Preserve 0025's artist comment.
 Continue actual 0021-0030 corrections/review and gate, not research alone.
+
+2026-11-03: MAVO confirmed 0022 audio is Together; suggested trimming as a
+possible explanation for runtime difference, not as a verified fact. Completed
+0021-0030 five-surface corrections and genre recommendations in MDs, with
+individual source records and mapped historical images. Preserve the 0025
+artist comment - no replacement text. 0026 keeps its original band name and
+non-explicit song title, not the explicit album title. Gate --check 0001-0030,
+metadata checks and preserved-pin tests pass, with documented limits. User may
+edit 0021-0030 from MDs; next first-70 batch is 0031-0040. No paste handoff
+through 0070. See First_70_Fact_Check_2026-11-03.txt for detail.

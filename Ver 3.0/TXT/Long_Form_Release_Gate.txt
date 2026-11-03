@@ -71,3 +71,10 @@ semantic uniqueness or the user's current YouTube copy automatically. A green
 result only says the specified records and hashes exist and agree; an agent must
 independently assess facts and review all material. The existing verify.sh covers
 bands/ packages only and must never be cited as approval of long-form files.
+
+Preserved artist comments: where MAVO elects to keep a real artist's comment,
+write an explicit PINNED COMMENT heading saying preserve / do not replace and a
+single blockquote line beginning `> PRESERVED ARTIST COMMENT: ` followed by the
+observed author and comment. The gate hashes that line as the pin surface;
+it is not a paste block and must not be posted as the creator's own comment.
+This marker does not establish present pin status or prove who authored it.

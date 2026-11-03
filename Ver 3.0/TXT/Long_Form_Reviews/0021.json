@@ -1,0 +1,140 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "fb91f1552a8cb44478d89b1b0e8c34e85b2a3ccc4fc1eccaaddd6eeb667582cd",
+    "description": "59e105aa477dfb49c50012e2464ed4a31f5f28cd5074f0cb31b5d28c1c2899d0",
+    "tags": "14181e63a1a52772a67a49542f28f54cf757cd0d7309c1a88ac1a7d9afc0786d",
+    "pinned comment": "0d62c1daf0fef164c43110abd11b9d94539c1642b4c4d3aa1df2b77c72c44eab",
+    "genres": "a4d66c5be0b10a4ad189d7c1b49c54c198c5415830a6d0431295a96303e87484"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Bring Jailhouse Rock by Elvis Presley to the bass",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0021 - Elvis Presley - Jailhouse Rock (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Title identities and release angle checked; bass format based on screenshot and MAVO confirmation, not note-by-note footage."
+    },
+    {
+      "surface": "description",
+      "claim": "Elvis Presley recorded Jailhouse Rock for the 1957 film of the same name.",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/",
+      "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
+    },
+    {
+      "surface": "description",
+      "claim": "Jerry Leiber and Mike Stoller wrote the song; the session took place at Radio Recorders in Hollywood.",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/",
+      "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
+    },
+    {
+      "surface": "description",
+      "claim": "My bass run brings this film-era song into Rocksmith.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0021 - Elvis Presley - Jailhouse Rock (Long Form)/_01 - Main Info/Details.jpeg; MAVO instruction: all uploads show the overlay while playing bass",
+      "assessment": "Historical video identity/format and MAVO confirmation; no detailed transcription implied."
+    },
+    {
+      "surface": "description",
+      "claim": "The three distinct invitations and optional boost ask.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Kick primary, Twitch mirror, Discord last. Invitations make no promise about schedule, rewards or delivery."
+    },
+    {
+      "surface": "tags",
+      "claim": "elvis presley",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; https://www.allmusic.com/song/jailhouse-rock-mt0011859960; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0021 - Elvis Presley - Jailhouse Rock (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "jailhouse rock",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; https://www.allmusic.com/song/jailhouse-rock-mt0011859960; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0021 - Elvis Presley - Jailhouse Rock (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "elvis jailhouse rock",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; https://www.allmusic.com/song/jailhouse-rock-mt0011859960; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0021 - Elvis Presley - Jailhouse Rock (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "leiber and stoller",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; https://www.allmusic.com/song/jailhouse-rock-mt0011859960; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0021 - Elvis Presley - Jailhouse Rock (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bill black",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; https://www.allmusic.com/song/jailhouse-rock-mt0011859960; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0021 - Elvis Presley - Jailhouse Rock (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rock and roll",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; https://www.allmusic.com/song/jailhouse-rock-mt0011859960; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0021 - Elvis Presley - Jailhouse Rock (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rockabilly",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; https://www.allmusic.com/song/jailhouse-rock-mt0011859960; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0021 - Elvis Presley - Jailhouse Rock (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "1957",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; https://www.allmusic.com/song/jailhouse-rock-mt0011859960; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0021 - Elvis Presley - Jailhouse Rock (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; https://www.allmusic.com/song/jailhouse-rock-mt0011859960; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0021 - Elvis Presley - Jailhouse Rock (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; https://www.allmusic.com/song/jailhouse-rock-mt0011859960; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0021 - Elvis Presley - Jailhouse Rock (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; https://www.allmusic.com/song/jailhouse-rock-mt0011859960; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0021 - Elvis Presley - Jailhouse Rock (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Name a film song that belongs in a bass player's setlist.",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; historical Pinned.jpeg files in batch",
+      "assessment": "Invitation reviewed for false premises. The old comment screenshot does not prove current pin or absence of a later artist comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Rock and roll",
+      "source": "https://www.allmusic.com/song/jailhouse-rock-mt0011859960",
+      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+    },
+    {
+      "surface": "genres",
+      "claim": "Rockabilly",
+      "source": "https://www.allmusic.com/song/jailhouse-rock-mt0011859960",
+      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+    }
+  ],
+  "distinct_fact_and_source": "A film song written by Leiber and Stoller and recorded at Radio Recorders. https://www.elvisthemusic.com/track/jailhouse-rock-stereo/",
+  "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
+  "uncertainties_and_removed_claims": "Removed disputed upright bass, alleged room bleed, one-take and scheduling claims. Source accounts conflict on bass instrument; no claim made.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

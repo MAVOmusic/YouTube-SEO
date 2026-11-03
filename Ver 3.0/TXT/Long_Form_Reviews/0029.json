@@ -1,0 +1,146 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "8e2d241925155f290886c3755d92fe225090b293db5dfd5a01a819572ce9b240",
+    "description": "2247184ada4e9ad6f41282c1601de0d1dbedd014d3358e75ec716bf327f6aa36",
+    "tags": "807a46b7fd35e74031968f26f47f0bb377661f51749022630b387cd1e1aff9ec",
+    "pinned comment": "0441c8301b8ce27e9d73006084bb58cb21fa59b044e66e2857313f02892daa7e",
+    "genres": "a1a98d8c1d07cb6cf2c8a0aa92d0893fe0a2a9b0c7f57c15d8a7b6ea1bc77d72"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Archangel and Paradise Lost: Amaranthe on Rocksmith bass",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Title identities and release angle checked; bass format based on screenshot and MAVO confirmation, not note-by-note footage."
+    },
+    {
+      "surface": "description",
+      "claim": "Amaranthe released Archangel as a single ahead of their 2020 album Manifest.",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/",
+      "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
+    },
+    {
+      "surface": "description",
+      "claim": "The band connected its story to John Milton's Paradise Lost.",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/",
+      "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
+    },
+    {
+      "surface": "description",
+      "claim": "My bass performance follows Amaranthe into that literary subject, with the game chart on screen.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg; MAVO instruction: all uploads show the overlay while playing bass",
+      "assessment": "Historical video identity/format and MAVO confirmation; no detailed transcription implied."
+    },
+    {
+      "surface": "description",
+      "claim": "The three distinct invitations and optional boost ask.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Kick primary, Twitch mirror, Discord last. Invitations make no promise about schedule, rewards or delivery."
+    },
+    {
+      "surface": "tags",
+      "claim": "amaranthe",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; https://rateyourmusic.com/release/album/amaranthe/manifest/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "archangel",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; https://rateyourmusic.com/release/album/amaranthe/manifest/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "amaranthe archangel",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; https://rateyourmusic.com/release/album/amaranthe/manifest/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "manifest",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; https://rateyourmusic.com/release/album/amaranthe/manifest/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "paradise lost",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; https://rateyourmusic.com/release/album/amaranthe/manifest/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "john milton",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; https://rateyourmusic.com/release/album/amaranthe/manifest/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "trance metal",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; https://rateyourmusic.com/release/album/amaranthe/manifest/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "melodic metalcore",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; https://rateyourmusic.com/release/album/amaranthe/manifest/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "2020",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; https://rateyourmusic.com/release/album/amaranthe/manifest/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; https://rateyourmusic.com/release/album/amaranthe/manifest/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; https://rateyourmusic.com/release/album/amaranthe/manifest/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; https://rateyourmusic.com/release/album/amaranthe/manifest/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What other metal song led you to a book or a poem?",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; historical Pinned.jpeg files in batch",
+      "assessment": "Invitation reviewed for false premises. The old comment screenshot does not prove current pin or absence of a later artist comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Trance metal",
+      "source": "https://rateyourmusic.com/release/album/amaranthe/manifest/",
+      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+    },
+    {
+      "surface": "genres",
+      "claim": "Melodic metalcore",
+      "source": "https://rateyourmusic.com/release/album/amaranthe/manifest/",
+      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+    }
+  ],
+  "distinct_fact_and_source": "Band describes the Paradise Lost inspiration behind the song. https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/",
+  "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
+  "uncertainties_and_removed_claims": "Removed watch-the-hands invitation, unsupported mix and instrument-specific performance analysis, and album-duration assertion.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

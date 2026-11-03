@@ -593,3 +593,9 @@ current surfaces and evidence, corrected 0008 title, rechecked metadata and gate
 Recorded limits in the fact-check ledger; ready for user review from MD. Began
 0021-0030 research and image remapping; batch remains incomplete with 0022 audio
 identity/runtime mismatch and 0021 instrument claim flagged.
+
+2026-11-03 - MAVO confirmed 0022 Together audio. Completed fact and five-surface
+review 0021-0030; corrected unsupported claims, retained 0025 artist pin,
+updated genre/title/copy registers and ten sourced records. Validated gate for
+0001-0030 and metadata/preserved-pin tests. Screenshots are historical, genre
+labels partly album-level and the automated gate cannot prove factual truth.

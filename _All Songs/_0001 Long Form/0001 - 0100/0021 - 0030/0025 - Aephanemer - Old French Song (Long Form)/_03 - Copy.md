@@ -1,62 +1,41 @@
-# CO-0025 | Rewritten copy (Ver 4.26)
+# CO-0025 | Reviewed copy (2026-11-03)
 
-> **PIN STATUS: the band's comment is pinned. Do not replace it.**
+> Copy the title, description and tags. Genre findings are for playlist decisions only.
 
-> Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
-> The GENRES block at the bottom is reference only - it is not part of the description.
-
-## TITLE (55 characters)
+## TITLE (52 characters)
 
 ```text
-Aephanemer take Old French Song and plug Tchaikovsky in
+Tchaikovsky meets Aephanemer on Old French Song bass
 ```
 
-## DESCRIPTION (1275 characters)
+## DESCRIPTION (492 characters)
 
 ```text
-Tchaikovsky wrote this in 1878 as a piano miniature for children, one of the twenty four pieces in Album for the Young. A French symphonic death metal band from Toulouse picked it up nearly a century and a half later and put it on the end of their third record as a bonus track. Two minutes and seventeen seconds of Tchaikovsky on the album, two minutes twenty five here.
+Aephanemer included Old French Song as a Tchaikovsky cover and bonus track on A Dream of Wilderness. The band released that album in 2021.
 
-What makes it work as a cover is that nobody tried to stretch it. The melody is left exactly where Tchaikovsky put it and the band simply turns the accompaniment into a rhythm section - double kick under a piano line that was never meant to have a drummer. On bass it is mostly a case of following a melody written for two hands and finding the notes that can be dropped without anyone noticing.
+I play the band's arrangement on bass with the Rocksmith overlay visible.
 
-The band themselves found this video and left a comment on it, which is still the strangest and best thing to happen on this channel.
-
-🟢 Classical metal nights are a Kick fixture now: https://kick.com/mavomusic
-🟣 A Twitch window runs alongside for the second screen crowd: https://www.twitch.tv/mavomusic
-💬 Choose the next classical piece to metalise, in the server, boost us if you can: https://discord.gg/ESGsGkN4j2
-
-Symphonic melodic death metal from 2021, a Tchaikovsky cover, two minutes twenty five.
+🟢 Request a classical-to-metal crossover in Kick chat: https://kick.com/mavomusic
+🟣 For viewers on Twitch, the mirror carries this stream: https://www.twitch.tv/mavomusic
+💬 In Discord, nominate a composer for a metal cover; a boost is appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (16 tags, 241/500 characters)
+## TAGS (11 tags, 179/500 characters)
 
 ```text
-aephanemer, old french song, tchaikovsky, a dream of wilderness, napalm records, melodic death metal, symphonic metal, neoclassical metal, french metal, classical metal, ephanemer, aepanemer, 2021, bass cover, bass play along, rocksmith bass
+aephanemer, old french song, aephanemer old french song, tchaikovsky, a dream of wilderness, melodic death metal, symphonic metal, 2021, bass cover, rocksmith bass, rocksmith 2014
 ```
 
-## PINNED COMMENT (148 characters) - SUPERSEDED, DO NOT USE
+## PINNED COMMENT - PRESERVE ARTIST COMMENT, DO NOT REPLACE
 
-> **MAVO pinned the band's own comment instead (02-11-2026).** The pin slot on
-> this video is already taken by @AephanemerOfficial saying "Fantastic job!
-> Congrats!!" and leaving it there is the better call - it thanks the band in
-> public, it is verified, and it converts better than any question could.
-> The question below is kept only so the wording is not lost if the pin frees up.
+> MAVO chose to keep the artist comment pinned. Do not paste a replacement.
+> PRESERVED ARTIST COMMENT: @AephanemerOfficial: "Fantastic job! Congrats!!"
 
-```text
-A piano miniature written for children in 1878, played by a death metal band from Toulouse. Which classical piece deserves the metal treatment next?
-```
+## GENRE FINDINGS (internal - not for playlists)
 
-## GENRES (playlist reference - do not paste)
+Source-supported playlist suggestions, not an objective or exhaustive classification. These are album-level labels, not proof that every track has every characteristic. See the review record for source and limitations.
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Melodic death metal** | documented, primary | main melodeath lane, pairs with Dark Tranquillity and Insomnium |
-| **Symphonic metal** | documented - the band is billed as symphonic melodeath | symphonic metal lane |
-| Symphonic melodic death metal | documented - the exact scene term for this band | scene lane |
-| **Neoclassical metal** | documented here specifically - it is a Tchaikovsky piece | classical-metal crossover lane, the strongest fit for this track |
-| Classical crossover | documented - 19th century piano repertoire played by a metal band | classical crossover and "metal does classical" lane |
-| French metal | scene label | French and European metal lane |
-| Cover song | factual - Tchaikovsky's Op. 39 No. 16 | covers lane, and it belongs in Tchaikovsky playlists too |
+## CORRECT GENRES
 
-Seven labels, five formal classifications. One word: **Melodic death metal**. Two: **Melodic death metal + Neoclassical metal**.
-
-Filing note: this is the only track in the corpus that legitimately belongs in a CLASSICAL playlist as well as a metal one. Tchaikovsky listeners searching for Op. 39 No. 16 are a large, unserved audience and this video never reaches them.
+- Melodic death metal
+- Symphonic metal
