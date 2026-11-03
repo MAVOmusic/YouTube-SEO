@@ -3,16 +3,16 @@
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 > Historical revenue screenshot: estimated £0.05; Details showed ad earnings sharing. This does not establish current status.
 
-## TITLE (66 characters)
+## TITLE (63 characters)
 
 ```text
-Muse bring New York club influence to Supermassive Black Hole bass
+Supermassive Black Hole by Muse - let the bass line pull you in
 ```
 
-## DESCRIPTION (461 characters)
+## DESCRIPTION (476 characters)
 
 ```text
-Muse's Supermassive Black Hole draws on Matt Bellamy's time in New York clubs. It appeared on the 2006 album Black Holes and Revelations.
+Supermassive Black Hole was the lead single from Muse's 2006 album Black Holes and Revelations. A 2006 seven-inch single has Crying Shame on its B-side.
 
 Follow my bass playing alongside the Rocksmith display.
 
@@ -21,10 +21,10 @@ Follow my bass playing alongside the Rocksmith display.
 💬 Share a surprising rock crossover on Discord; thank you to our boosters: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (10 tags, 188/500 characters)
+## TAGS (14 tags, 255/500 characters)
 
 ```text
-muse, supermassive black hole, muse supermassive black hole, supermassive black hole bass cover, black holes and revelations, alternative rock, dance punk, 2006, bass cover, rocksmith bass
+muse, supermassive black hole, muse supermassive black hole, supermassive black hole bass cover, black holes and revelations, alternative rock, dance punk, 2006, bass cover, rocksmith bass, matt bellamy, matthew bellamy, chris wolstenholme, dominic howard
 ```
 
 ## PINNED COMMENT (58 characters)
@@ -35,9 +35,13 @@ What song changed how you thought a rock band could sound?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based suggestions; genre is subjective. Evidence includes a song-level classification and album context. See the review record for sources.
+Artist-level genres are sourced from https://www.wikiwand.com/en/Muse_(band); labels describe the artist across their catalogue, not necessarily this track. See Band Info/Muse/Register.md.
 
 ## CORRECT GENRES
 
 - Alternative rock
-- Dance-punk
+- Progressive rock
+- Space rock
+- Hard rock
+- Art rock
+- Electronic rock

@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (74 characters)
+## TITLE (69 characters)
 
 ```text
-Hypnotize on bass, with artwork connections across System Of A Down albums
+Hypnotize: System Of A Down's double-album connection, played on bass
 ```
 
 ## DESCRIPTION (460 characters)
@@ -20,10 +20,10 @@ My bass performance includes the Rocksmith overlay.
 💬 Swap album-art favourites in Discord; our boosters have my thanks: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (10 tags, 142/500 characters)
+## TAGS (14 tags, 206/500 characters)
 
 ```text
-system of a down, hypnotize, system of a down hypnotize, soad, mezmerize, vartan malakian, alternative metal, 2005, bass cover, rocksmith bass
+system of a down, hypnotize, system of a down hypnotize, soad, mezmerize, vartan malakian, alternative metal, 2005, bass cover, rocksmith bass, daron malakian, serj tankian, shavo odadjian, system of a dowm
 ```
 
 ## PINNED COMMENT (60 characters)
@@ -34,7 +34,7 @@ Which pair of album covers do you think works best together?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Artist-level classifications from https://www.metalkingdom.net/band/system-of-a-down-24308; these do not establish that every genre describes this recording. See Band Info/System Of A Down/Register.md.
+Artist-level genres are sourced from https://www.metalkingdom.net/band/system-of-a-down-24308; labels describe the artist across their catalogue, not necessarily this track. See Band Info/System Of A Down/Register.md.
 
 ## CORRECT GENRES
 

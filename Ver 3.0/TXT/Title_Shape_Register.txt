@@ -114,16 +114,16 @@
   0038    hear low end of song by band | Hear the low end of She Sells Sanctuary by The Cult | bass guitar
   0039    song: artist language view of historical experience | En Livstid I Krig: Sabaton's Swedish view of a lifetime at war - bass performance
   0040    what happens when artist song meets instrument? | What happens when Rammstein's Amerika meets a bass guitar?
-  0041    soundtrack lead single song - artists format             Soundtrack lead single Young, Wild & Free - Snoop Dogg and Wiz bass
-  0042    from session to album: band revisit song on instrument     From Peace to Electric: The Cult revisit Love Removal Machine on bass
-  0043    band bring place influence to song format                   Muse bring New York club influence to Supermassive Black Hole bass
-  0044    band song: two venues in the official video | Billy Talent Viking Death March: two venues in the official video
-  0045    band: song credits two writers - format                            Manowar: Kings Of Metal credits DeMaio and Ross the Boss - bass cover
-  0046    band pair song with cover on medium                        Bullet For My Valentine pair Scream Aim Fire with a cover on vinyl
-  0047    game added band song on platform                           Guitar Hero II added My Chemical Romance - Dead! on Xbox 360
-  0048    song on instrument with artwork connections across band albums Hypnotize on bass, with artwork connections across System Of A Down albums
-  0049    band weave earlier titles into song - format               (G)I-DLE weave earlier titles into I'm The Trend - bass playthrough
-  0050    writer and collaborators shaped band song - performance    Soyeon and collaborators shaped (G)I-DLE Tomboy - bass performance
+  0041    format: song - three credited artists | Bass cover: Young, Wild & Free - Snoop Dogg, Wiz Khalifa, Bruno Mars
+  0042    song: artist album-era sound on instrument | Love Removal Machine: The Cult's Electric-era sound on bass
+  0043    song by artist - imperative bass-line invitation | Supermassive Black Hole by Muse - let the bass line pull you in
+  0044    song hits hard - artist on platform instrument | Viking Death March hits hard - Billy Talent on Rocksmith bass
+  0045    song meets instrument: artist cover | Kings Of Metal meets a bass guitar: Manowar cover
+  0046    song: artist genre assault on instrument | Scream Aim Fire: Bullet For My Valentine's metal assault on bass
+  0047    song by artist: from game to platform instrument | Dead! by My Chemical Romance: from Guitar Hero to Rocksmith bass
+  0048    song: band double-album connection, played on instrument | Hypnotize: System Of A Down's double-album connection, played on bass
+  0049    artist weave previous titles into song - instrument playthrough | (G)I-DLE weave earlier titles into I'm The Trend - bass playthrough
+  0050    song hits with attitude - artist instrument performance | Tomboy hits with attitude - (G)I-DLE bass performance
   0051    band gave song a music video in year                    (Hed) P.E. gave Watch It Burn a music video in 2021
   0052    song from album - my band instrument cover    I Got You from Broke - my (Hed) P.E. bass cover
   0053    band gave song acoustic counterpart called number          +44 gave 155 an acoustic counterpart called 145

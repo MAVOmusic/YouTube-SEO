@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "6c00dc50e42fa9d1b8535bbbfc2d97d1956cab419a6f72cc3456b422c8b2dd0d",
+    "title": "f1ab73acd7cbbfbde62f2f95ad265bb45ba45835edc38d02b8dadb3ab773adbc",
     "description": "d9b41e5682e34c6263ac756002b5bd163a4908b740c7142179842f5d595fe328",
-    "tags": "44e43549be88f0f5f44578880d3d2158aebcf56e9576c49aa6a0bc6a147996ee",
+    "tags": "8a01b3da2e47474a78777f3d2052c81d19e6617f2795876ace443b518d6e9078",
     "pinned comment": "c4196aeaaedc774140857d1c1bf5b3331bc1044ea89b44c3059c9799b6d37f78",
-    "genres": "f141ecc8f8fa68d4222d4a157a58f8a03c2d39fcdd458077f072259f956fea6c"
+    "genres": "d807cef3016f416aa883e716174bb81bc07754a92cec20f0aee569579bc04b36"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Soyeon and collaborators shaped (G)I-DLE Tomboy - bass performance",
-      "source": "https://en.wikipedia.org/wiki/Tomboy_((G)I-dle_song) ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0050 - (G)I-DLE - Tomboy (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.soompi.com/article/1514402wpp/gi-dle-reveals-comeback-date-and-teaser-for-1st-full-length-album-i-never-die",
-      "assessment": "Identity and factual framing checked; performance and Rocksmith format based on historical image and user confirmation."
+      "claim": "Tomboy hits with attitude - (G)I-DLE bass performance",
+      "source": "https://en.wikipedia.org/wiki/Tomboy_((G)I-dle_song) ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0050 - (G)I-DLE - Tomboy (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.soompi.com/article/1514402wpp/gi-dle-reveals-comeback-date-and-teaser-for-1st-full-length-album-i-never-die ; https://en.wikipedia.org/wiki/I-dle ; user-confirmed bass performance",
+      "assessment": "Song identity and credited artist checked; subjective editorial wording is not a measurable CTR claim. People mentioned do not appear in this creator performance."
     },
     {
       "surface": "description",
@@ -203,21 +203,57 @@
       "assessment": "Historical comments image inspected; no visible artist comment. This question is proposed copy, not proof of the live pin. Existing real viewer comments should be retained."
     },
     {
-      "surface": "genres",
-      "claim": "Alternative rock",
-      "source": "https://en.wikipedia.org/wiki/Tomboy_((G)I-dle_song)",
-      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+      "surface": "tags",
+      "claim": "i-dle",
+      "source": "https://en.wikipedia.org/wiki/I-dle",
+      "assessment": "Relevant band member, creator, credited collaborator or documented alias; no claim about appearances in MAVO video or search frequency."
+    },
+    {
+      "surface": "tags",
+      "claim": "jeon soyeon",
+      "source": "https://www.soompi.com/article/1519266wpp/gi-dles-tomboy-enters-at-no-1-soompis-k-pop-music-chart-2022-march-week-4",
+      "assessment": "Relevant band member, creator, credited collaborator or documented alias; no claim about appearances in MAVO video or search frequency."
+    },
+    {
+      "surface": "tags",
+      "claim": "톰보이",
+      "source": "https://dbkpop.com/mv/gi-dle-tomboy/",
+      "assessment": "Relevant band member, creator, credited collaborator or documented alias; no claim about appearances in MAVO video or search frequency."
     },
     {
       "surface": "genres",
-      "claim": "Pop punk",
-      "source": "https://en.wikipedia.org/wiki/Tomboy_((G)I-dle_song)",
-      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+      "claim": "K-pop",
+      "source": "https://en.wikipedia.org/wiki/I-dle",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop",
+      "source": "https://en.wikipedia.org/wiki/I-dle",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Trap",
+      "source": "https://en.wikipedia.org/wiki/I-dle",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Hip hop",
+      "source": "https://en.wikipedia.org/wiki/I-dle",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "EDM",
+      "source": "https://en.wikipedia.org/wiki/I-dle",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
     }
   ],
   "distinct_fact_and_source": "songwriting and composition credits ; https://en.wikipedia.org/wiki/Tomboy_((G)I-dle_song)",
   "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 2026-11-03: Artist-level genres and relevant person tags do not prove individual recording credits or YouTube search demand. CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

@@ -2,9 +2,9 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "8561cfaa2c1619e17639a790068d8ca5958147a565ccf472f056753fac9ca869",
+    "title": "b768c3cc3d908d2c81de5099c5657075d1746d76ee2c765abb4852dc1ada1032",
     "description": "c15d0cf28f53a86c6b4fe81fd38c1b385ae0fbf3e0da7ee96d0b433986c59b38",
-    "tags": "1125b36ea669808547e2fafdc47314f4b83db7fe2c344788e9369b044cbce784",
+    "tags": "a0f3db9210f091e30e83ffcd056c86f575e60d7446f2bed019bac8597f415ca6",
     "pinned comment": "5b0083e61574280ab7827c689696e0b0e935fcd21ec29d191a609d4b38d3d904",
     "genres": "a1eb2b94fbfc5d67669fae9ed572d0fbbd951eda577483c4ad17e6c891b242a7"
   },
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "From Peace to Electric: The Cult revisit Love Removal Machine on bass",
-      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity and factual framing checked; performance and Rocksmith format based on historical image and user confirmation."
+      "claim": "Love Removal Machine: The Cult's Electric-era sound on bass",
+      "source": "https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0042 - The Cult - Love Removal Machine (Long Form)/_01 - Main Info/Details.jpeg ; https://en.wikipedia.org/wiki/The_Cult ; user-confirmed bass performance",
+      "assessment": "Song identity and credited artist checked; subjective editorial wording is not a measurable CTR claim. People mentioned do not appear in this creator performance."
     },
     {
       "surface": "description",
@@ -119,39 +119,63 @@
       "assessment": "Historical comments image inspected; no visible artist comment. This question is proposed copy, not proof of the live pin. Existing real viewer comments should be retained."
     },
     {
+      "surface": "tags",
+      "claim": "ian astbury",
+      "source": "https://en.wikipedia.org/wiki/The_Cult",
+      "assessment": "Relevant band member, creator, credited collaborator or documented alias; no claim about appearances in MAVO video or search frequency."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy duffy",
+      "source": "https://en.wikipedia.org/wiki/The_Cult",
+      "assessment": "Relevant band member, creator, credited collaborator or documented alias; no claim about appearances in MAVO video or search frequency."
+    },
+    {
+      "surface": "tags",
+      "claim": "jamie stewart",
+      "source": "https://www.allmusic.com/album/electric-mw0000189571",
+      "assessment": "Relevant band member, creator, credited collaborator or documented alias; no claim about appearances in MAVO video or search frequency."
+    },
+    {
+      "surface": "tags",
+      "claim": "rick rubin",
+      "source": "https://www.billyduffy.com/news/group/the-cult/page/4/",
+      "assessment": "Relevant band member, creator, credited collaborator or documented alias; no claim about appearances in MAVO video or search frequency."
+    },
+    {
       "surface": "genres",
       "claim": "Hard rock",
       "source": "https://en.wikipedia.org/wiki/The_Cult",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
     },
     {
       "surface": "genres",
       "claim": "Gothic rock",
       "source": "https://en.wikipedia.org/wiki/The_Cult",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
     },
     {
       "surface": "genres",
       "claim": "Alternative rock",
       "source": "https://en.wikipedia.org/wiki/The_Cult",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
     },
     {
       "surface": "genres",
       "claim": "Heavy metal",
       "source": "https://en.wikipedia.org/wiki/The_Cult",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
     },
     {
       "surface": "genres",
       "claim": "Post-punk",
       "source": "https://en.wikipedia.org/wiki/The_Cult",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
     }
   ],
   "distinct_fact_and_source": "Peace sessions and re-recording ; https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine",
   "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 0042 Peace version and Electric re-recording are distinct recordings; no claim that the uploaded performance uses the earlier version. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 0042 Peace version and Electric re-recording are distinct recordings; no claim that the uploaded performance uses the earlier version. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass. 2026-11-03: Artist-level genres and relevant person tags do not prove individual recording credits or YouTube search demand. CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

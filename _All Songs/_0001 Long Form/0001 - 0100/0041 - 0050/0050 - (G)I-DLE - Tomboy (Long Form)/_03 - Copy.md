@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (66 characters)
+## TITLE (53 characters)
 
 ```text
-Soyeon and collaborators shaped (G)I-DLE Tomboy - bass performance
+Tomboy hits with attitude - (G)I-DLE bass performance
 ```
 
 ## DESCRIPTION (457 characters)
@@ -20,10 +20,10 @@ I play bass here while the Rocksmith chart accompanies the song.
 💬 Discuss genre blends in Discord; thanks for considering a boost: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (26 tags, 221/500 characters)
+## TAGS (29 tags, 246/500 characters)
 
 ```text
-(g)i-dle, gidle, (여자)아이들, 여자아이들, 아이들, tomboy, tomboy song, gidle tomboy, i never die, soyeon, 소연, miyeon, 미연, minnie, 민니, yuqi, 우기, shuhua, 슈화, pop time, jenci, alternative rock, pop punk, 2022, bass cover, rocksmith bass
+(g)i-dle, gidle, (여자)아이들, 여자아이들, 아이들, tomboy, tomboy song, gidle tomboy, i never die, soyeon, 소연, miyeon, 미연, minnie, 민니, yuqi, 우기, shuhua, 슈화, pop time, jenci, alternative rock, pop punk, 2022, bass cover, rocksmith bass, i-dle, jeon soyeon, 톰보이
 ```
 
 ## PINNED COMMENT (52 characters)
@@ -34,9 +34,12 @@ Which production detail stands out to you in Tomboy?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based suggestions; genre is subjective. Evidence is song or single-level. See the review record for sources.
+Artist-level genres are sourced from https://en.wikipedia.org/wiki/I-dle; labels describe the artist across their catalogue, not necessarily this track. See Band Info/I-DLE/Register.md.
 
 ## CORRECT GENRES
 
-- Alternative rock
-- Pop punk
+- K-pop
+- Pop
+- Trap
+- Hip hop
+- EDM

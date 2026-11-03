@@ -4,9 +4,9 @@
   "surface_sha256": {
     "title": "2a7901ecf58033431dc07c1fc57aae85473059d4f316c38986dd64c610fb624f",
     "description": "bd462ea3e930212eee59ee055e6c7238486cbd328f355107aec96bfd84206852",
-    "tags": "4b963fdd47a84c32ce104e8b5d67a79534398ba9dd7c2ca3736c26059402e06a",
+    "tags": "471c2bd525ab9dc985c813b067772b14b4f6f33d846939e4cce4e2bf7f520669",
     "pinned comment": "82dd41bdc83933e95123c2ef82ae8166c7ce76b8854f16487c4c43bfb174fbee",
-    "genres": "9bd187cc9e32f0b407efb2509225d9ea0e68a7dee9cee20cd94ebc539f4f0260"
+    "genres": "d807cef3016f416aa883e716174bb81bc07754a92cec20f0aee569579bc04b36"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -19,8 +19,8 @@
     {
       "surface": "title",
       "claim": "(G)I-DLE weave earlier titles into I'm The Trend - bass playthrough",
-      "source": "https://www.shazam.com/en-us/song/1520355364/im-the-trend ; https://rateyourmusic.com/release/single/_g_i-dle/im-the-trend/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0049 - (G)I-DLE - I'm The Trend (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://genius.com/Gi-dle-im-the-trend-lyrics",
-      "assessment": "Identity and factual framing checked; performance and Rocksmith format based on historical image and user confirmation."
+      "source": "https://www.shazam.com/en-us/song/1520355364/im-the-trend ; https://rateyourmusic.com/release/single/_g_i-dle/im-the-trend/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0049 - (G)I-DLE - I'm The Trend (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://genius.com/Gi-dle-im-the-trend-lyrics ; https://en.wikipedia.org/wiki/I-dle ; user-confirmed bass performance",
+      "assessment": "Song identity and credited artist checked; subjective editorial wording is not a measurable CTR claim. People mentioned do not appear in this creator performance."
     },
     {
       "surface": "description",
@@ -191,21 +191,57 @@
       "assessment": "Historical comments image inspected; no visible artist comment. This question is proposed copy, not proof of the live pin. Existing real viewer comments should be retained."
     },
     {
-      "surface": "genres",
-      "claim": "K-pop",
-      "source": "https://rateyourmusic.com/release/single/_g_i-dle/im-the-trend/",
-      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+      "surface": "tags",
+      "claim": "i-dle",
+      "source": "https://en.wikipedia.org/wiki/I-dle",
+      "assessment": "Relevant band member, creator, credited collaborator or documented alias; no claim about appearances in MAVO video or search frequency."
+    },
+    {
+      "surface": "tags",
+      "claim": "jeon soyeon",
+      "source": "https://en.wikipedia.org/wiki/I-dle",
+      "assessment": "Relevant band member, creator, credited collaborator or documented alias; no claim about appearances in MAVO video or search frequency."
+    },
+    {
+      "surface": "tags",
+      "claim": "yuto",
+      "source": "https://en.wikipedia.org/wiki/I%27m_the_Trend",
+      "assessment": "Relevant band member, creator, credited collaborator or documented alias; no claim about appearances in MAVO video or search frequency."
     },
     {
       "surface": "genres",
-      "claim": "Dance-pop",
-      "source": "https://rateyourmusic.com/release/single/_g_i-dle/im-the-trend/",
-      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+      "claim": "K-pop",
+      "source": "https://en.wikipedia.org/wiki/I-dle",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop",
+      "source": "https://en.wikipedia.org/wiki/I-dle",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Trap",
+      "source": "https://en.wikipedia.org/wiki/I-dle",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Hip hop",
+      "source": "https://en.wikipedia.org/wiki/I-dle",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "EDM",
+      "source": "https://en.wikipedia.org/wiki/I-dle",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
     }
   ],
   "distinct_fact_and_source": "lyrics reference earlier songs ; https://www.shazam.com/en-us/song/1520355364/im-the-trend ; https://rateyourmusic.com/release/single/_g_i-dle/im-the-trend/ ; https://genius.com/Gi-dle-im-the-trend-lyrics",
   "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 0049 historical viewer comment was supportive; do not claim it was an artist comment or pin it automatically.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 0049 historical viewer comment was supportive; do not claim it was an artist comment or pin it automatically. 2026-11-03: Artist-level genres and relevant person tags do not prove individual recording credits or YouTube search demand. CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

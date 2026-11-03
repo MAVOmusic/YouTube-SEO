@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (69 characters)
+## TITLE (59 characters)
 
 ```text
-From Peace to Electric: The Cult revisit Love Removal Machine on bass
+Love Removal Machine: The Cult's Electric-era sound on bass
 ```
 
 ## DESCRIPTION (496 characters)
@@ -20,10 +20,10 @@ This Rocksmith playthrough shows the chart while I play bass.
 💬 Compare the two Cult sessions on Discord; your server boosts are appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (12 tags, 188/500 characters)
+## TAGS (16 tags, 241/500 characters)
 
 ```text
-the cult, love removal machine, love removal machine the cult, the cult love removal machine, electric, peace, hard rock, heavy metal, 1987, bass cover, rocksmith bass, rocksmith 2014 bass
+the cult, love removal machine, love removal machine the cult, the cult love removal machine, electric, peace, hard rock, heavy metal, 1987, bass cover, rocksmith bass, rocksmith 2014 bass, ian astbury, billy duffy, jamie stewart, rick rubin
 ```
 
 ## PINNED COMMENT (74 characters)
@@ -34,7 +34,7 @@ Which version of Love Removal Machine do you return to: Peace or Electric?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Artist-level classifications from https://en.wikipedia.org/wiki/The_Cult; these do not establish that every genre describes this recording. See Band Info/The Cult/Register.md.
+Artist-level genres are sourced from https://en.wikipedia.org/wiki/The_Cult; labels describe the artist across their catalogue, not necessarily this track. See Band Info/The Cult/Register.md.
 
 ## CORRECT GENRES
 

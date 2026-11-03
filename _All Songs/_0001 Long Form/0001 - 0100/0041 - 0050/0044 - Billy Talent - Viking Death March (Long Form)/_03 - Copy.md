@@ -2,16 +2,16 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (65 characters)
+## TITLE (61 characters)
 
 ```text
-Billy Talent Viking Death March: two venues in the official video
+Viking Death March hits hard - Billy Talent on Rocksmith bass
 ```
 
-## DESCRIPTION (494 characters)
+## DESCRIPTION (475 characters)
 
 ```text
-Billy Talent's official Viking Death March video uses performance footage from Rock am Ring and Amsterdam's Melkweg. The song was the first single from Dead Silence.
+Viking Death March was the first single from Billy Talent's 2012 album Dead Silence. The band shared the song before announcing the album details.
 
 Watch my bass performance alongside the Rocksmith display.
 
@@ -20,10 +20,10 @@ Watch my bass performance alongside the Rocksmith display.
 💬 Discuss concert memories on Discord; server boosts are always optional: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (9 tags, 139/500 characters)
+## TAGS (13 tags, 195/500 characters)
 
 ```text
-billy talent, viking death march, billy talent viking death march, dead silence, punk rock, post hardcore, 2012, bass cover, rocksmith bass
+billy talent, viking death march, billy talent viking death march, dead silence, punk rock, post hardcore, 2012, bass cover, rocksmith bass, ben kowalewicz, ian dsa, jon gallant, jonathan gallant
 ```
 
 ## PINNED COMMENT (52 characters)
@@ -34,7 +34,7 @@ Which festival performance belongs in a music video?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Artist-level classifications from https://en.wikipedia.org/wiki/Billy_Talent; these do not establish that every genre describes this recording. See Band Info/Billy Talent/Register.md.
+Artist-level genres are sourced from https://en.wikipedia.org/wiki/Billy_Talent; labels describe the artist across their catalogue, not necessarily this track. See Band Info/Billy Talent/Register.md.
 
 ## CORRECT GENRES
 
