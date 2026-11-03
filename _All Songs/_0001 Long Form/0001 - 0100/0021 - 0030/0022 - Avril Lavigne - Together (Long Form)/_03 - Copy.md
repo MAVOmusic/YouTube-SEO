@@ -4,16 +4,16 @@
 > Discord line carries a unique catch line in every file, per MAVO 02-11-2026.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (63 characters)
+## TITLE (56 characters)
 
 ```text
-Together never made an Avril Lavigne album and still has a hook
+Together brings tension to Avril Lavigne's Under My Skin
 ```
 
-## DESCRIPTION (1077 characters)
+## DESCRIPTION (860 characters)
 
 ```text
-Together was written with Chantal Kreviazuk during the Under My Skin sessions and then filed away as a bonus track. It was never a single, it never got a video, and most people who call themselves fans could not hum it on request. Two minutes fifty seven, and it holds up better than several songs that did get released.
+Together is the second track on Avril Lavigne's 2004 album Under My Skin, written with Chantal Kreviazuk. Here is a bass playthrough with the chart on screen.
 
 The bass here is not asked to be clever. It sits on the root through the verses so the guitars can stay wide, then takes a short walk up into each chorus and drops back out again. That walk is the only place the line draws attention to itself and it happens four times in the whole song. The rest is discipline, which is a duller skill to practise and a much harder one to fake.
 
@@ -21,7 +21,7 @@ The bass here is not asked to be clever. It sits on the root through the verses 
 🟣 The Twitch window stays open all night for the night owls: https://www.twitch.tv/mavomusic
 💬 Call out a buried track in the server, a boost keeps our vanity link alive: https://discord.gg/ESGsGkN4j2
 
-Pop rock from 2004, two minutes fifty seven, played through once and left alone.
+From Under My Skin, 2004.
 ```
 
 ## TAGS (15 tags, 223/500 characters)
@@ -30,10 +30,10 @@ Pop rock from 2004, two minutes fifty seven, played through once and left alone.
 avril lavigne, together, avril lavigne together, together avril lavigne, under my skin, chantal kreviazuk, pop rock, pop punk, 2004, female fronted rock, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab
 ```
 
-## PINNED COMMENT (142 characters)
+## PINNED COMMENT (64 characters)
 
 ```text
-A bonus track that never got a single and still outlived half the album. What is the best song your favourite band buried on a deluxe edition?
+Which album track from Under My Skin would you put on a setlist?
 ```
 
 ## GENRES (playlist reference - do not paste)

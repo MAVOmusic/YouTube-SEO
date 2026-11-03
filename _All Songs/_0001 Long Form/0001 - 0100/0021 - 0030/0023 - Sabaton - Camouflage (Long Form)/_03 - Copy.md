@@ -3,16 +3,16 @@
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (62 characters)
+## TITLE (59 characters)
 
 ```text
-Camouflage was a 1986 fluke and Sabaton turned it into a march
+Sabaton bring Stan Ridgway's Camouflage to a metal audience
 ```
 
-## DESCRIPTION (1094 characters)
+## DESCRIPTION (942 characters)
 
 ```text
-Camouflage was not written by Sabaton. Stan Ridgway had it in 1986, a spoken-word story about a marine in Vietnam who never comes home, and it was the closest thing he had to a hit. Sabaton covered it decades later and played it completely straight, which is why most people who know the song now have no idea it is a cover at all.
+Camouflage was not written by Sabaton. Stan Ridgway released it in 1986, telling the story of a young marine and a mysterious rescuer in Vietnam. Sabaton covered it as a bonus track on The Last Stand in 2016.
 
 Par Sundstrom holds the low end down and the job is closer to marching than to shredding. The line marks time under the spoken sections, then opens up for the chorus where the guitars double it an octave above. Three minutes thirty three, and the whole thing works because nobody in the band is trying to be clever about a song that was already strange to begin with.
 
@@ -20,7 +20,7 @@ Par Sundstrom holds the low end down and the job is closer to marching than to s
 🟣 Concurrent on Twitch, in case you hover in that window instead: https://www.twitch.tv/mavomusic
 💬 Tell me which cover beats its original, in the server, boosting helps our alias return: https://discord.gg/ESGsGkN4j2
 
-Power metal from 2016, a Stan Ridgway cover, three minutes thirty three, one take.
+A 2016 Sabaton cover of Stan Ridgway, played on bass.
 ```
 
 ## TAGS (15 tags, 191/500 characters)
@@ -29,10 +29,10 @@ Power metal from 2016, a Stan Ridgway cover, three minutes thirty three, one tak
 sabaton, camouflage, sabaton camouflage, stan ridgway, cover song, power metal, swedish metal, par sundstrom, 1986, 2016, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab
 ```
 
-## PINNED COMMENT (155 characters)
+## PINNED COMMENT (133 characters)
 
 ```text
-This is a story song about a soldier who does not come home, wrapped in a marching beat. What other song tells a war story better than a history book does?
+A marine in Vietnam meets a mysterious rescuer in this story song. What other song tells a war story better than a history book does?
 ```
 
 ## GENRES (playlist reference - do not paste)

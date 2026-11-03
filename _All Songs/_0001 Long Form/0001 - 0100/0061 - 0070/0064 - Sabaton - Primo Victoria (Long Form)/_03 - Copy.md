@@ -15,7 +15,7 @@
 Not bad for a debut: Sabaton opened a career on Primo Victoria
 ```
 
-## DESCRIPTION (1179 characters)
+## DESCRIPTION (1161 characters)
 
 ```text
 Before the tanks, before the empires, before any of it, there was a beach in Normandy and a band from Falun with nothing to lose. Primo Victoria is track one on the debut and it explains the entire project in four minutes: pick an operation, tell it straight, put a choir on the chorus.
@@ -24,19 +24,19 @@ What makes it work is that Brodén does not mythologise the landing. The verses 
 
 Playing this is endurance work disguised as something easy. The line is root-driven and relentless, and the whole arrangement leans on it staying exactly as boring as it is. Add a run and the march stops being a march.
 
-Two thousand and five, Nuclear Blast, four minutes ten on the record.
+Two thousand and five, Black Lodge, four minutes ten on the record.
 
 🟢 Set lists are built live out of chat: https://kick.com/mavomusic
 🟣 Catch the same session here instead: https://www.twitch.tv/mavomusic
-💬 Which debut beats this one? Put your case in the server. Boosting gets it read on air: https://discord.gg/ESGsGkN4j2
+💬 Compare debut albums in Discord; a server boost is welcome: https://discord.gg/ESGsGkN4j2
 
-Track one, first thing they ever released.
+The opening track of the first released studio album.
 ```
 
-## TAGS (16 tags, 214/500 characters)
+## TAGS (16 tags, 212/500 characters)
 
 ```text
-sabaton, primo victoria, d-day, normandy landings, joakim broden, par sundstrom, power metal, heavy metal, nuclear blast, 2005, debut album, history metal, swedish metal, bass cover, rocksmith bass, bass play along
+sabaton, primo victoria, d-day, normandy landings, joakim broden, par sundstrom, power metal, heavy metal, black lodge, 2005, debut album, history metal, swedish metal, bass cover, rocksmith bass, bass play along
 ```
 
 ## PINNED COMMENT (100 characters)

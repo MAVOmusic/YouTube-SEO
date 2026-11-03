@@ -7,16 +7,16 @@
 > (`_01 Description`, `_02 Tags`, `_03 Comments`) rather than the usual
 > Details/Tags/Pinned. Content is complete, so nothing was skipped.
 
-## TITLE (68 characters)
+## TITLE (57 characters)
 
 ```text
-Bullet For My Valentine wrote this while their singer could not sing
+Scream Aim Fire sends Bullet For My Valentine into battle
 ```
 
-## DESCRIPTION (1526 characters)
+## DESCRIPTION (1326 characters)
 
 ```text
-The story of this song is a throat. Matt Tuck had an emergency tonsillectomy in the summer of 2007, months before the band flew to El Paso to record the album, and the schedule had already been carved in stone. He arrived able to write and not able to perform. What came out is the angriest, fastest, most straightforward thing the band has ever put their name to, which is an odd result from a record made under medical duress.
+Scream Aim Fire is the title track of Bullet For My Valentine's 2008 album. Matt Tuck described its lyrics as imagining life on a battlefield. The album sessions were interrupted by his vocal problems and tonsil surgery in 2007.
 
 Musically it is a thrash song wearing a metalcore jacket. The verses are a chug pattern at full sprint, the chorus opens up because it has to, and the solo is the one place the album allows itself a breath. The bass part is not a melody and is not trying to be: it doubles the rhythm, sits under the guitars on the low string and holds the tempo together while everything above it panics. That is a job, and doing it properly is the reason the take feels tight rather than merely fast.
 
@@ -35,10 +35,10 @@ Four minutes twenty six here, four twenty eight on the record.
 bullet for my valentine, scream aim fire, matt tuck, michael paget, jason james, moose, colin richardson, metalcore, thrash metal, melodic metalcore, heavy metal, 2008, sony bmg, bass cover, rocksmith bass, rocksmith 2014
 ```
 
-## PINNED COMMENT (139 characters)
+## PINNED COMMENT (77 characters)
 
 ```text
-Recorded while their singer could barely use his voice, and it came out faster than anything they had done before. What does that tell you?
+What Bullet For My Valentine song would you pick for a fast bass playthrough?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)

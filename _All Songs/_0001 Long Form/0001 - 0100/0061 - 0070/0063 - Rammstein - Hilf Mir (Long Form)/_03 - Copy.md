@@ -15,7 +15,7 @@
 Rammstein set a Victorian children's book on fire for Hilf Mir
 ```
 
-## DESCRIPTION (1257 characters)
+## DESCRIPTION (1250 characters)
 
 ```text
 Paulinchen is a girl in a German picture book from 1845 who is told not to play with matches, plays with them anyway, and burns to death while the cats watch. Heinrich Hoffmann wrote it to frighten children, and it worked for generations. Rammstein read it as an adult and got this.
@@ -28,7 +28,7 @@ Twenty eight October 2005, Universal, four minutes forty four on Rosenrot.
 
 🟢 Slow and heavy requests get honoured, over on: https://kick.com/mavomusic
 🟣 The alternate viewing window is: https://www.twitch.tv/mavomusic
-💬 Got a worse story than this one? The server is open, and boosters get called out by name: https://discord.gg/ESGsGkN4j2
+💬 Know another song inspired by a book? Share it in Discord; boosts are appreciated: https://discord.gg/ESGsGkN4j2
 
 Track eight on Rosenrot.
 ```

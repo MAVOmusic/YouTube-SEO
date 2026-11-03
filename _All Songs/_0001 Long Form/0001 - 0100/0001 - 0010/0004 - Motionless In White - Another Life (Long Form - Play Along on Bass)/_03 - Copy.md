@@ -8,7 +8,7 @@
 A second Another Life from Motionless In White, tuner in frame
 ```
 
-## DESCRIPTION (786 characters)
+## DESCRIPTION (764 characters)
 
 ```text
 This is the same song as the other Another Life upload and a completely different watch. That one is there to be listened to. This one is there to be played against.
@@ -19,13 +19,13 @@ If you are learning this from scratch, the tempo is the whole exercise. Start ar
 🟣 It also runs on Twitch, use whichever loads quicker for you: https://www.twitch.tv/mavomusic
 💬 If a part is not clicking, say so in Discord and I will slow it down: https://discord.gg/ESGsGkN4j2
 
-Play along build of a 2017 ballad, with a visible tuner and no scoring of any kind.
+Play along with Another Life from Disguise, released in 2019.
 ```
 
-## TAGS (15 tags, 218/500 characters)
+## TAGS (15 tags, 211/500 characters)
 
 ```text
-another life, motionless in white, motionless in white another life, bass play along, play along bass, bass tab, rocksmith bass, graveyard shift, metalcore bass, learn bass, bass cover, drop c, 2017, bass guitar, tuner
+another life, motionless in white, motionless in white another life, bass play along, play along bass, bass tab, rocksmith bass, disguise, metalcore bass, learn bass, bass cover, drop c, 2019, bass guitar, tuner
 ```
 
 ## PINNED COMMENT (133 characters)

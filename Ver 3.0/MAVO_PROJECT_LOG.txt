@@ -544,3 +544,8 @@ MAVO's first paste failed on his end, so the whole set is re-sent. The CTA is re
 Three URLs, all allowlisted, none repeated, zero 9-gram collisions against the corpus.
 The title, description body, tags and pin are unchanged from Ver 4.14 because none of
 them contained a Twitch-first error.
+
+2026-11-03 - First 70 accuracy/rules review IN PROGRESS. User prioritises
+truthfulness of all facts, questions and CTAs; next channel-order batches are five.
+Initial read and targeted source-backed fixes logged in
+TXT/First_70_Fact_Check_2026-11-03.txt. Full review remains open.

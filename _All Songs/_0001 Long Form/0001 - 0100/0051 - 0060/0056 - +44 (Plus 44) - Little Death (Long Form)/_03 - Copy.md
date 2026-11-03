@@ -33,7 +33,7 @@ Thirteen November 2006, Interscope, four minutes five on the record and four min
 🟣 Twitch mirrors it whenever the schedule allows: https://www.twitch.tv/mavomusic
 💬 Four minutes of murk with no chorus to rescue it. Does this one work, or is it the album's skip? Bring the argument to Discord, where a boost gets you a mention: https://discord.gg/ESGsGkN4j2
 
-Track four, the comedown after 155.
+Track four, immediately before 155.
 ```
 
 ## TAGS (16 tags, 214/500 characters)

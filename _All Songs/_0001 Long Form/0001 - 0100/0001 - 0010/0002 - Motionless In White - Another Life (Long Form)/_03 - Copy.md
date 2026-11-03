@@ -8,30 +8,30 @@
 Why Another Life by Motionless In White hurts more on bass
 ```
 
-## DESCRIPTION (886 characters)
+## DESCRIPTION (752 characters)
 
 ```text
-Graveyard Shift arrived in 2017 and gave Motionless In White the song that still closes their sets. Another Life is not the heaviest thing on the record. It is the one that gets requested at weddings by people who own three hoodies.
+Another Life appears on Motionless In White's 2019 album Disguise. Its melody gives this bass playthrough a chance to explore a quieter side of the band.
 
 The part never announces itself. It sits under the clean verse, doubles the guitars when the chorus opens, then drops away for the last line so the vocal has nothing but air around it. Getting the silence right matters more than getting the notes right.
 
-🔴 This is regular request material on Kick, ask and I will play it: https://kick.com/mavomusic
+🔴 Catch the live bass performances on Kick: https://kick.com/mavomusic
 🟣 Second window on Twitch, identical audio, pick whichever chat you like: https://www.twitch.tv/mavomusic
-💬 Drop the next one in the server, boosting brings the old invite back: https://discord.gg/ESGsGkN4j2
+💬 Suggest another track in Discord; server boosts are appreciated: https://discord.gg/ESGsGkN4j2
 
-Metalcore from Graveyard Shift, 2017. One take, no overdubs, Epiphone Thunderbird throughout.
+From Disguise, 2019. Follow the bass part with the on-screen chart.
 ```
 
-## TAGS (15 tags, 246/500 characters)
+## TAGS (15 tags, 239/500 characters)
 
 ```text
-motionless in white, another life, motionless in white another life, graveyard shift, metalcore, metalcore bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, drop c bass, 2017 metalcore, bass tab, bass guitar, epiphone thunderbird
+motionless in white, another life, motionless in white another life, disguise, metalcore, metalcore bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, drop c bass, 2019 metalcore, bass tab, bass guitar, epiphone thunderbird
 ```
 
-## PINNED COMMENT (131 characters)
+## PINNED COMMENT (67 characters)
 
 ```text
-This one gets asked for at every single stream and I have never once minded. What is the song you have requested most in your life?
+Which Motionless In White song would you like to hear on bass next?
 ```
 
 ## GENRES (playlist reference - do not paste)

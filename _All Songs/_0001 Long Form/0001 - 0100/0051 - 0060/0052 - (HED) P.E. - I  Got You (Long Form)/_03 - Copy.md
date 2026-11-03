@@ -13,12 +13,12 @@
 (Hed) P.E. turned I Got You into a chant and never let go
 ```
 
-## DESCRIPTION (1398 characters)
+## DESCRIPTION (1410 characters)
 
 ```text
 Track seven on Broke, and the reason the album broke the band in the first place. Jive put this record out on the twenty second of August 2000 with Bartender as the single, and the song that actually did the work in a room full of people was this one. That is what a chant does. It does not chart, it gets shouted.
 
-Going back to this album now is an odd experience. Signed to a major, produced by Gene Freeman, built out of rap metal, punk and reggae in the same forty minutes, with Serj Tankian turning up on Feel Good two years before his own band went global. (Hed) P.E. had the same tools as everyone else in that wave and one thing nobody else had: an actual hardcore punk rhythm section underneath the rap.
+Going back to this album now is an odd experience. Signed to a major, produced by Gene Freeman, built out of rap metal, punk and reggae in the same forty minutes, with Serj Tankian turning up on Feel Good before this album's release was a year old. (Hed) P.E. had the same tools as everyone else in that wave and one thing nobody else had: an actual hardcore punk rhythm section underneath the rap.
 
 Which is the whole bass lesson. The chorus is four words repeated, and it only lands because the low end stays planted while everything above it moves. Do not decorate it. Do not walk it. Play it like a punk record and let the vocal carry the size.
 
@@ -28,7 +28,7 @@ Twenty two August 2000, Jive Records, three minutes forty four.
 🟣 Twitch is where the second chat lives: https://www.twitch.tv/mavomusic
 💬 A chant or a hook - which one actually survives a decade? Have your say in Discord, where boosting us earns a nod: https://discord.gg/ESGsGkN4j2
 
-Featuring Serj Tankian on the same album, two years before Toxicity.
+Featuring Serj Tankian on the same album, before Toxicity was released in 2001.
 ```
 
 ## TAGS (16 tags, 191/500 characters)

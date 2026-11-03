@@ -15,12 +15,12 @@
 What Another Life sounds like when Motionless In White stop shouting
 ```
 
-## DESCRIPTION (1399 characters)
+## DESCRIPTION (1428 characters)
 
 ```text
 Break it into four pieces and the trick is obvious. The intro is one clean guitar figure, repeated until you trust it. The first verse keeps everything under the vocal. Then the pre-chorus starts climbing, and the chorus opens the ceiling - which is the only reason that chorus feels as big as it does.
 
-Another Life was the fourth single off Disguise, June 2019, written by Chris Motionless with Drew Fulk and Josh Strock. Ricky Olson plays the bass on this record and sings behind the lead at the same time, which is why the low end here has a vocal shape rather than a rhythmic one. It follows the melody instead of pushing it.
+Another Life was a track from Disguise, released in 2019 and issued as a single in 2020, written by Chris Motionless with Drew Fulk and Josh Strock. Ricky Olson plays the bass on this record and sings behind the lead at the same time, which is why the low end here has a vocal shape rather than a rhythmic one. It follows the melody instead of pushing it.
 
 Nothing heroic is happening in the bass part. Root notes, mostly, sitting in the pocket, one slide into the chorus that survives even when the guitars are at full width. The skill is staying level: this song gets loud twice and the bass has to rise by exactly the same amount both times, or the whole mix tilts and the chorus stops landing.
 

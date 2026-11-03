@@ -12,7 +12,7 @@ Where Rage Against The Machine put the speech in Take The Power Back
 ## DESCRIPTION (919 characters)
 
 ```text
-The debut landed in November 1992 and the sixth track is the one where the shouting stops for a second and the groove starts doing the talking. Five and a half minutes with no chorus to speak of, just a figure that keeps returning while the vocal circles round it.
+The debut landed in November 1992 and the third track is the one where the shouting stops for a second and the groove starts doing the talking. Five and a half minutes with no chorus to speak of, just a figure that keeps returning while the vocal circles round it.
 
 Drop D, with most of the weight resting on that loose bottom string. Commerford sits behind the beat on purpose, so the guitar and the rap both sound slightly early against him, which is the whole trick. The four note descent at the top is the part everyone learns first and the part most people rush.
 

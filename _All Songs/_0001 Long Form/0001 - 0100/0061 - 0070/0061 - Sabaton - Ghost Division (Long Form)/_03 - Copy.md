@@ -15,7 +15,7 @@
 Ghost Division outran its own radio contact, and Sabaton noticed
 ```
 
-## DESCRIPTION (1311 characters)
+## DESCRIPTION (1276 characters)
 
 ```text
 An armoured division is moving through France faster than anyone can report on it, and it is only May 1940. The high command loses track of where it is more than once, the enemy starts calling it a ghost, and the nickname outlives the campaign. Sabaton took that name and built a song around a radio signal nobody can answer.
@@ -28,7 +28,7 @@ Two thousand and eight, Nuclear Blast, three minutes fifty one on the record.
 
 🟢 Anything you want played goes in the chat while I am on: https://kick.com/mavomusic
 🟣 Same broadcast, a second place to watch it: https://www.twitch.tv/mavomusic
-💬 Bring a better answer to the server and I will read it out live. Boosts keep the place running: https://discord.gg/ESGsGkN4j2
+💬 Share your answer in Discord; server boosts are appreciated: https://discord.gg/ESGsGkN4j2
 
 Track one, the one that opens the album.
 ```

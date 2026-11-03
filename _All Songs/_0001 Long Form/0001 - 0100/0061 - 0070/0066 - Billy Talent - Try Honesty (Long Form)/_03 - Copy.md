@@ -16,7 +16,7 @@
 Pezz became Billy Talent and Try Honesty was the first thing out
 ```
 
-## DESCRIPTION (1346 characters)
+## DESCRIPTION (1311 characters)
 
 ```text
 They had already made a record by this point. Watoosh! came out in 1999 under the name Pezz, and by the second album the name was gone, the label was Atlantic, and the first single was a song about being lied to by somebody you trusted.
@@ -28,8 +28,8 @@ The bass line is busier than the genre usually allows, which is where Billy Tale
 Two thousand and three, Atlantic, four minutes thirteen on the record.
 
 🟢 Punk gets played as readily as anything else: https://kick.com/mavomusic
-🟣 Second place to watch, when I am off Kick: https://www.twitch.tv/mavomusic
-💬 Name a band that improved after a rename. Best one goes up on the board, and boosters get first pick: https://discord.gg/ESGsGkN4j2
+🟣 Watch the mirrored stream on Twitch: https://www.twitch.tv/mavomusic
+💬 Name a band that changed its name in Discord; server boosts are welcome: https://discord.gg/ESGsGkN4j2
 
 Third track on the debut.
 

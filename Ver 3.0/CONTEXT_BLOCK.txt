@@ -2220,3 +2220,16 @@ no banned typography, no label inside any fence.
 
 **Next:** CO-0071 to CO-0080. Read all ten first, re-run the fixed sweep as a regression
 check over the whole 70 before writing anything new.
+
+################################################################################
+# FIRST 70 FACT CHECK - IN PROGRESS, 2026-11-03
+################################################################################
+User requested a complete accuracy and rule review of the first 70, including
+questions and CTAs, then a return to FIVE videos at a time. Do not start CO-0071
+until the review is complete. The initial pass read all 70 and corrected a number
+of verified errors, but independent verification of all claims remains OPEN.
+See TXT/First_70_Fact_Check_2026-11-03.txt for sources, fixes and remaining work.
+Do not repeat past claims that all 70 have passed a complete accuracy check.
+A preliminary independent five-word cross-file sweep found 60 shared sequences;
+not all are violations (some are unavoidable factual vocabulary), but the prior
+blanket zero-collision claim cannot be relied upon. Classification remains open.

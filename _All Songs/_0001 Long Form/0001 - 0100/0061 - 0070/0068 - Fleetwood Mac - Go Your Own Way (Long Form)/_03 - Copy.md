@@ -8,18 +8,18 @@
 > Video ID `bwWZGhrj7_A` (crop-verified).
 > GENRE FINDINGS is mine and internal. CORRECT GENRES is the playlist list.
 
-## TITLE (64 characters)
+## TITLE (57 characters)
 
 ```text
-A single line in Go Your Own Way cost Fleetwood Mac a friendship
+Fleetwood Mac: Nicks wanted a line out of Go Your Own Way
 ```
 
-## DESCRIPTION (1255 characters)
+## DESCRIPTION (1212 characters)
 
 ```text
 There is a line in the second verse that Stevie Nicks has never let go of. Buckingham wrote it about the end of their relationship, put it on the biggest album of 1977, and then had to sing it next to her every night for the next forty years. She said later that she resented being told what she wanted.
 
-That is the trick of Rumours: none of it is metaphor. The album was assembled over months across three studios, one instrument at a time, by five people who were all breaking up with each other. Go Your Own Way is the most direct of those songs and the one that turned the mess into their first American top ten.
+That is the trick of Rumours: none of it is metaphor. The album was assembled over months across three studios, one instrument at a time, during the breakups of two couples in the band. Go Your Own Way is the most direct of those songs and the one that turned the mess into their first American top ten.
 
 The bass is the plainest thing on the record. John McVie plays almost nothing, holds the root while the verse runs, and lets the acoustic guitar and the vocal do the arguing. It is a masterclass in disappearing on purpose. Play it as written and resist every urge to fill.
 
@@ -27,7 +27,7 @@ Nineteen seventy seven, Warner Bros, three minutes thirty four on the record.
 
 🟢 Seventies rock is never turned down: https://kick.com/mavomusic
 🟣 Backup viewing, when needed: https://www.twitch.tv/mavomusic
-💬 Another band that tore itself apart and made a classic anyway? Post it there. Boosters get pinned: https://discord.gg/ESGsGkN4j2
+💬 Bring another album story to Discord; a server boost is welcome: https://discord.gg/ESGsGkN4j2
 
 Track five on Rumours.
 ```
@@ -38,10 +38,10 @@ Track five on Rumours.
 fleetwood mac, go your own way, rumours, lindsey buckingham, stevie nicks, john mcvie, mick fleetwood, 1977, warner bros, classic rock, soft rock, pop rock, bass cover, rocksmith bass, bass play along, 70s rock
 ```
 
-## PINNED COMMENT (92 characters)
+## PINNED COMMENT (55 characters)
 
 ```text
-John McVie plays almost nothing on this and it is the right call. Would you have added more?
+What is your favourite John McVie bass part on Rumours?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)

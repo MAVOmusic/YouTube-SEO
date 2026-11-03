@@ -1,0 +1,89 @@
+FIRST 70 COPY FACT CHECK - IN PROGRESS - 2026-11-03
+
+User request: check all facts, questions, CTAs and rules in CO-0001 through
+CO-0070; no invented claims. Subsequent channel-order batches return to FIVE.
+Do not start CO-0071 until this review is completed. DO NOT call the 70 copy
+packages fact-checked or ready: reading them and automated checks are not proof.
+
+STATUS: All 70 paste surfaces read for an initial triage. Structural checks found
+70 files, all four paste surfaces, three unique URLs in Kick/Twitch/Discord order,
+no disallowed curly typography or platform-length overflow. These checks do not
+prove claims, individual video details, shapes or genre accuracy. A targeted
+correction pass has been made; a full independent source-by-source fact check,
+including every pin, CTA, tag, genre and video-specific playing/editing claim,
+remains OPEN. There are substantial unsupported assertions throughout; avoid
+using the current copy as verified until it has been reviewed. Initial review
+also found early genre sections do not necessarily match the two-element format.
+
+VERIFIED CORRECTIONS (facts checked against sources below; other claims in these
+files are NOT thereby verified):
+- 0002/0004 Another Life is from Disguise (2019), not Graveyard Shift (2017).
+- 0003 Masterpiece is from Scoring the End of the World (2022), not Infamous
+  (2012); removed an unsupported claimed tuning shift and intent.
+- 0019 Take the Power Back is third, not sixth, on the album.
+- 0020 removed disputed ordinal for Megitsune; major-label vs overall counts differ.
+- 0022 Together is track two of Under My Skin, not an unreleased bonus track;
+  2:57 was the preceding track's length in one source, not Together's.
+- 0023 Ridgway's story distinguishes the young marine from his rescuer; removed
+  the unsupported claim the narrator never comes home and the 'fluke' assertion.
+- 0033 Another Life was on Disguise in 2019; its single release was in 2020.
+- 0036 Man of War is a bonus track on certain Heroes editions, and Sabaton's
+  bassist is Par Sundstrom, not Peter. Removed 'entire lyric sheet' claim.
+- 0046 surgery chronology reversed: available sources say music was recorded in
+  early 2007 before surgery that summer; replaced unsupported title and pin.
+- 0048 removed the claim the single charted during a band hiatus.
+- 0049 removed the claim boosting costs nothing.
+- 0052 Toxicity followed Broke in 2001, not two years later.
+- 0056 Little Death precedes 155, not the reverse.
+- 0062 Pain was the second single, not the first.
+- 0064 original 2005 Primo Victoria label was Black Lodge; it was the first
+  released studio album, not the band's first release.
+- 0065 removed disputed drop-D tuning; evidence describes D standard for the
+  original recording and does not establish this specific chart's tuning.
+- 0068 removed unsupported friendship-loss claim and unsupported pin on bass;
+  two couples, not all five bandmates, were breaking up.
+- 0069 corrected mutually contradictory chorus statements, removed unsupported
+  assertion that the entire band rejected it as a single.
+- 0070 removed unsupported claim that the band never met the subject, and
+  reframed interpretation of the narrator as interpretation.
+- 0058/0066: Twitch mirror language corrected; 0061-0070: removed unverified
+  promises of specific treatment or rewards for Discord boosters.
+
+SOURCE LINKS (consulted on 2026-11-03; details apply only as noted above):
+https://en.wikipedia.org/wiki/Motionless_in_White_discography
+https://www.wikiwand.com/en/Another_Life_(Motionless_in_White_song)
+https://www.discogs.com/release/367339-Rage-Against-The-Machine-Rage-Against-The-Machine
+https://en.wikipedia.org/wiki/Babymetal_(album)
+https://www.discogs.com/release/3852809-Avril-Lavigne-Under-My-Skin
+https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song)
+https://en.wikipedia.org/wiki/The_Last_Stand_(Sabaton_album)
+https://www.discogs.com/release/5695439-Sabaton-Heroes
+https://www.songfacts.com/facts/bullet-for-my-valentine/scream-aim-fire
+https://genius.com/albums/Hed-pe/Broke
+https://www.discogs.com/release/850653-44-When-Your-Heart-Stops-Beating
+https://www.wikiwand.com/en/Pain_(Three_Days_Grace_song)
+https://www.nuclearblast.com/pages/album/primo-victoria
+https://www.saboteurs.de/bandgeschichte
+https://learn.truefire.com/comes-as-you-are-chords
+https://en.wikipedia.org/wiki/Go_Your_Own_Way
+https://rock-reflections.com/blogs/videos-lyrics-facts/r-e-m-losing-my-religion
+https://songmeanings.com/songs/view/3530822107858488568/ (lyrics and fan
+interpretations only; not evidence of authorial intent or a real person)
+
+NEXT: research and record support for every remaining substantive statement,
+including specific instrument, performance, production, timing and streaming
+claims; remove or mark as subjective if support is missing. Review the earlier
+boost and scheduling claims in particular. Check titles and pinned questions for
+false premises, genre split, and diversity across the complete corpus. Fix all
+headers/registers and run a real whole-corpus text sweep. Obtain user confirmation
+for any channel-practice claims that cannot be established from evidence.
+
+WHOLE-CORPUS REPETITION TRIAGE: a separate preliminary word-normalised check
+(title, description, pin; URLs removed; tags excluded) found 60 distinct
+cross-file five-word sequences. This check includes ordinary shared phrases,
+artist names and album references; these are not all necessarily violations.
+Examples include repeated boost and Twitch language and a duplicated playing
+claim in 0008/0027. It contradicts a blanket zero-collision assertion, but uses
+its own tokenisation and scope; manually classify and resolve genuinely repeated
+shapes after factual edits, then record a reproducible final test. The earlier
+scratch scripts are not present in this environment.

@@ -13,7 +13,7 @@
 A thank you note to the fandom became the third (G)I-DLE single
 ```
 
-## DESCRIPTION (1503 characters)
+## DESCRIPTION (1501 characters)
 
 ```text
 Third digital single, and the only one of them that was premiered at a concert before it existed as a record. I'm The Trend was played for the first time at the group's online show in July 2020 as the encore, and two days later it was on streaming. It is not a title track, it is not a comeback, it is a fan letter with a beat, and it is the only thing in the catalogue written specifically to be sung back at them.
@@ -26,7 +26,7 @@ Seven July 2020, Cube Entertainment, three minutes twenty five. This play along 
 
 🟢 K-pop nights and request hours, live on Kick: https://kick.com/mavomusic
 🟣 Second stream, same set, running on Twitch: https://www.twitch.tv/mavomusic
-💬 Name the song that sent you down a rabbit hole. Put it in Discord, boosting us there costs nothing: https://discord.gg/ESGsGkN4j2
+💬 Name the song that sent you down a rabbit hole. Put it in Discord, server boosts are appreciated: https://discord.gg/ESGsGkN4j2
 
 Filmed from the on-screen chart in a single take.
 ```
