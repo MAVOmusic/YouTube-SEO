@@ -51,11 +51,11 @@
           was: Motionless In White made Another Life hurt on purpose, and the bass carries it
   0003    song finds band in a register                  Masterpiece finds Motionless In White in a quieter register
           was: Masterpiece is the Motionless In White song where the bass stops behaving
-  0004    second cut of the same song                    A second Another Life from Motionless In White, tuner in frame
+  0004    song returns as artist meets chart             Another Life returns as Motionless In White meets the bass chart
           was: Another Life on bass with the tuner in frame and no game in the way
   0005    song turns band into noun                      Abigail turns Motionless In White back into a horror band
           was: Abigail lets Motionless In White be a horror band, and the bass leads it
-  0006    count triplet + band does not blink            One string, four minutes, and Motionless In White does not blink
+  0006    band bring song to note highway                Motionless In White bring America to the bass note highway
           was: America keeps one string busy for four minutes and never apologises
   0007    imperative keep up                             Keep up with Motionless In White on Immaculate Misconception
           was: Immaculate Misconception is four minutes of Motionless In White at full sprint
@@ -388,3 +388,5 @@
 ################################################################################
 # END OF FILE
 ################################################################################
+
+2026-11-03 - Fact-check 0001-0010: 0004 and 0006 titles replaced to remove unverified visual and single-string claims.

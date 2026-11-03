@@ -8,18 +8,16 @@
 Mikey Way and My Chemical Romance, five minutes of Black Parade
 ```
 
-## DESCRIPTION (893 characters)
+## DESCRIPTION (545 characters)
 
 ```text
-The Black Parade arrived in 2006 and immediately became the record that defined a decade of British school discos. Its opening track has been analysed to death, usually in terms of its key change and its Queen debt, and hardly ever in terms of what the bass is doing underneath.
+Welcome To The Black Parade is the fifth track on My Chemical Romance's 2006 album The Black Parade, following The Sharpest Lives.
 
-Five minutes with no comfortable place to rest. The part moves constantly, doubling the piano in the intro, then straightening out for the march. Mikey Way almost never plays the root twice in a row and that is what stops it sounding like a march.
+The song moves through several sections over its five-minute album recording. Use the visible bass play along chart to follow as the arrangement changes.
 
-🟢 Emo and alt-rock blocks run on Kick, this is the anthem of them: https://kick.com/mavomusic
-🟣 Mirror feed on Twitch if that is where you sit: https://www.twitch.tv/mavomusic
-💬 Queue your request through Discord, boosts bring the old link back: https://discord.gg/ESGsGkN4j2
-
-My Chemical Romance, 2006, official chart rather than a transcription, nothing skipped.
+🟢 Catch the bass performances on Kick: https://kick.com/mavomusic
+🟣 Watch the same show through Twitch: https://www.twitch.tv/mavomusic
+💬 Compare Black Parade tracks with the Discord community; every server boost is appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (15 tags, 201/500 characters)
@@ -28,10 +26,10 @@ My Chemical Romance, 2006, official chart rather than a transcription, nothing s
 my chemical romance, welcome to the black parade, black parade, mcr, mikey way, emo, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2006, bass guitar, the black parade
 ```
 
-## PINNED COMMENT (110 characters)
+## PINNED COMMENT (53 characters)
 
 ```text
-Five minutes, five different jobs, and no riff to lean on. Which section of this song catches people out most?
+Where did you first hear Welcome To The Black Parade?
 ```
 
 ## GENRES (playlist reference - do not paste)

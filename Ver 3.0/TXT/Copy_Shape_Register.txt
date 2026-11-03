@@ -319,3 +319,12 @@
 ################################################################################
 # END OF FILE
 ################################################################################
+
+2026-11-03 - Fact-check 0001-0010: all ten descriptions and pins 0001, 0003,
+0005-0010 revised. Opening devices: 0001 piece/format; 0002 album inclusion;
+0003 band and later album; 0004 repeat-upload comparison; 0005 debut context;
+0006 song/album; 0007 track-order; 0008 trilogy context; 0009 track-neighbour;
+0010 record opener. Pins: listening preference / existing request / practice
+method / existing practice question / eras / single comparison / learning section /
+meaning question / first encounter / bass quality. Review guard across 70 remains
+open; common artist names and song names can legitimately recur.

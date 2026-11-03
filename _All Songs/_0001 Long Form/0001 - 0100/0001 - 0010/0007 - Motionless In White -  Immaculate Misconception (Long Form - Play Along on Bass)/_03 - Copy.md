@@ -8,18 +8,16 @@
 Keep up with Motionless In White on Immaculate Misconception
 ```
 
-## DESCRIPTION (663 characters)
+## DESCRIPTION (561 characters)
 
 ```text
-Creatures, 2010, track two, and the first proper look at what this band could do when they stopped being polite about it.
+Immaculate Misconception opens Creatures, Motionless In White's 2010 debut album. It is the first track in a record that also includes Abigail.
 
-This is a sprint with no recovery section. The line repeats a short descending figure and each repetition is slightly louder than the last, so the build comes from volume and commitment rather than from new notes.
+The chart remains visible in this Rocksmith bass video so you can follow the song as it goes. Take it section by section if you are learning the part.
 
-🟢 Fast songs get attempted on Kick, occasionally well: https://kick.com/mavomusic
-🟣 The identical feed runs on Twitch alongside: https://www.twitch.tv/mavomusic
-💬 Pick what I learn next inside Discord, a boost helps: https://discord.gg/ESGsGkN4j2
-
-Creatures, 2010, at full tempo in one pass with the tab on screen throughout.
+🟢 Drop into a live performance on Kick: https://kick.com/mavomusic
+🟣 Watch the mirrored broadcast on Twitch: https://www.twitch.tv/mavomusic
+💬 Tell the Discord community which Creatures track you would choose next; boosts are welcome: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (15 tags, 218/500 characters)
@@ -28,10 +26,10 @@ Creatures, 2010, at full tempo in one pass with the tab on screen throughout.
 motionless in white, immaculate misconception, immaculate misconception bass, creatures, metalcore, fast bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2010, speed, bass guitar, play along
 ```
 
-## PINNED COMMENT (135 characters)
+## PINNED COMMENT (83 characters)
 
 ```text
-Three-quarter speed for a week, then never look back. Which song did you avoid for years before finding it was easier than you thought?
+Which part of Immaculate Misconception would you break down first when learning it?
 ```
 
 ## GENRES (playlist reference - do not paste)

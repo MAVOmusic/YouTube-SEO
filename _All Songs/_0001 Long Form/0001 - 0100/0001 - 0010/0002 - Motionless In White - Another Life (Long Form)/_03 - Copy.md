@@ -8,18 +8,16 @@
 Why Another Life by Motionless In White hurts more on bass
 ```
 
-## DESCRIPTION (752 characters)
+## DESCRIPTION (511 characters)
 
 ```text
-Another Life appears on Motionless In White's 2019 album Disguise. Its melody gives this bass playthrough a chance to explore a quieter side of the band.
+Disguise, released in 2019, includes Another Life by Motionless In White. Its quieter mood offers a different side of the band to explore on bass.
 
-The part never announces itself. It sits under the clean verse, doubles the guitars when the chorus opens, then drops away for the last line so the vocal has nothing but air around it. Getting the silence right matters more than getting the notes right.
+Follow along with the on-screen chart and listen to the way the vocal and instruments come together across the song.
 
-🔴 Catch the live bass performances on Kick: https://kick.com/mavomusic
-🟣 Second window on Twitch, identical audio, pick whichever chat you like: https://www.twitch.tv/mavomusic
-💬 Suggest another track in Discord; server boosts are appreciated: https://discord.gg/ESGsGkN4j2
-
-From Disguise, 2019. Follow the bass part with the on-screen chart.
+🔴 Drop by Kick for live music and bass: https://kick.com/mavomusic
+🟣 The stream is mirrored on Twitch: https://www.twitch.tv/mavomusic
+💬 Bring a track suggestion to Discord; thanks to everyone who boosts the server: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (15 tags, 239/500 characters)

@@ -8,18 +8,16 @@
 Mike Dirnt plays X-Kid like Green Day already know the ending
 ```
 
-## DESCRIPTION (686 characters)
+## DESCRIPTION (551 characters)
 
 ```text
-Tre, the third of the 2012 trilogy, is the Green Day record people skip. X-Kid is the reason they should not.
+X-Kid appears on Green Day's 2012 album Tre, the third record in the Uno, Dos and Tre trilogy. Billie Joe Armstrong has spoken about the loss of a friend behind the song.
 
-Dirnt plays this like a party record when the lyric is anything but. The bass stays high on the neck through the verse and drops low for the lift, which is why the song feels like it is bouncing even at its saddest moment.
+This bass play along shows the Rocksmith chart. Follow the part and listen to the contrast between the music and the subject of the lyrics.
 
-🔴 Punk nights are a Kick fixture, requests open all night: https://kick.com/mavomusic
-🟣 Simultaneous on Twitch, for chat habits built around that app: https://www.twitch.tv/mavomusic
-💬 Want a deep cut? Name it in Discord, boosting is always welcome: https://discord.gg/ESGsGkN4j2
-
-Green Day, 2012, charted from the official release rather than by ear.
+🔴 Visit Kick for live bass music: https://kick.com/mavomusic
+🟣 You can also watch its Twitch mirror: https://www.twitch.tv/mavomusic
+💬 Post a Green Day request in Discord; thank you if you choose to boost us: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (15 tags, 162/500 characters)
@@ -28,10 +26,10 @@ Green Day, 2012, charted from the official release rather than by ear.
 green day, x-kid, x kid, tre, mike dirnt, punk rock, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2012, bass guitar, punk bass
 ```
 
-## PINNED COMMENT (113 characters)
+## PINNED COMMENT (93 characters)
 
 ```text
-The most cheerful song ever written about someone not making it. What is your favourite bass part on a sad lyric?
+Does knowing the story behind X-Kid change how you hear it, or did the music reach you first?
 ```
 
 ## GENRES (playlist reference - do not paste)

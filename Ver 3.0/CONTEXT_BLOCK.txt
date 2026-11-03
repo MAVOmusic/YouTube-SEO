@@ -2239,3 +2239,9 @@ complete fact-check before further full replacement blocks, so they do not have
 to edit the same copy repeatedly. Additional sourced errors and evidence gaps
 are in TXT/First_70_Fact_Check_2026-11-03.txt. All 70 remain in scope, including
 the edited first 22. No new paste-ready output until the review is finished.
+
+2026-11-03: MAVO restarted the fact-check in ten-video slices, beginning 0001-0010.
+Titles/descriptions/pins checked; sources, edits and unknowable video details are
+recorded in TXT/First_70_Fact_Check_2026-11-03.txt. Existing screenshots show
+older copy, not proof of current live YouTube edits. Present each changed surface
+as one complete paste-only code block in chat. 0011-0070 remain unreviewed fully.

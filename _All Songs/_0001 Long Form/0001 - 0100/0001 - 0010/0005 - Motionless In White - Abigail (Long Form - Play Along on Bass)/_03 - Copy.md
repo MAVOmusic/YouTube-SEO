@@ -8,18 +8,16 @@
 Abigail turns Motionless In White back into a horror band
 ```
 
-## DESCRIPTION (716 characters)
+## DESCRIPTION (573 characters)
 
 ```text
-Creatures was the 2010 debut, made before anyone knew what this band would become, and Abigail is the track that shows where the theatrical streak started.
+Abigail is on Creatures, the 2010 debut album by Motionless In White. The band's theatrical style is already present in this early release.
 
-Horror is a rhythm decision before it is a note choice. The bass drags behind the kick by a hair on purpose, which is why the verse feels like it is walking toward you rather than sitting still. Copying that lag is the actual lesson.
+Follow the bass chart on screen and listen to how the part fits against the rest of the arrangement. You can pause and work through the sections at your own pace.
 
-🟢 Horror nights belong on Kick, and so does this one: https://kick.com/mavomusic
-🟣 Twitch carries the mirror of that stream: https://www.twitch.tv/mavomusic
-💬 Name the next horror track in Discord, every boost counts: https://discord.gg/ESGsGkN4j2
-
-Debut-era metalcore, 2010. Played through once, nothing cut out afterwards.
+🟢 Find the live music sessions on Kick: https://kick.com/mavomusic
+🟣 Twitch carries a mirror of the stream: https://www.twitch.tv/mavomusic
+💬 Tell Discord which early Motionless In White track to revisit; community boosts are appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (15 tags, 203/500 characters)
@@ -28,10 +26,10 @@ Debut-era metalcore, 2010. Played through once, nothing cut out afterwards.
 motionless in white, abigail, motionless in white abigail, creatures, metalcore, horror metal, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2010, bass guitar, drop c, play along
 ```
 
-## PINNED COMMENT (126 characters)
+## PINNED COMMENT (91 characters)
 
 ```text
-This one is about the weight on the front of each note, not the notes themselves. Do you play behind the beat or on top of it?
+Does the early Motionless In White sound pull you in, or do you prefer their later records?
 ```
 
 ## GENRES (playlist reference - do not paste)

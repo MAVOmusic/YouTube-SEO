@@ -2,24 +2,22 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (64 characters)
+## TITLE (58 characters)
 
 ```text
-One string, four minutes, and Motionless In White does not blink
+Motionless In White bring America to the bass note highway
 ```
 
-## DESCRIPTION (830 characters)
+## DESCRIPTION (541 characters)
 
 ```text
-Drop D from the first bar to the last. If you have spent any time in this tuning you will recognise what Motionless In White are doing here within about eight seconds, and the rest of the song is them refusing to leave it alone.
+A-M-E-R-I-C-A is a track from Motionless In White's 2012 album Infamous. Here is the song on bass with the Rocksmith notes visible.
 
-One string, four minutes, then the fretting hand barely has to move. The difficulty is entirely in the right hand, which has to keep the same attack through a song that keeps threatening to speed up. Any tension in the wrist shows up in the recording immediately.
+Watch the note highway as the track moves through its sections. If you are learning it, slow the video down as needed and build up at your own pace.
 
-🔴 Drop D evenings happen on Kick and they get loud: https://kick.com/mavomusic
-🟣 Twitch is the fallback feed on the nights you need a second one: https://www.twitch.tv/mavomusic
-💬 Wishes pile up in Discord, boosts help them land: https://discord.gg/ESGsGkN4j2
-
-Infamous, 2012, tuned to Drop D and played start to finish from the chart.
+🔴 More live bass is on Kick: https://kick.com/mavomusic
+🟣 Prefer Twitch? The same stream is mirrored there: https://www.twitch.tv/mavomusic
+💬 Trade practice ideas with our Discord community; thanks to anyone boosting the server: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (15 tags, 206/500 characters)
@@ -28,10 +26,10 @@ Infamous, 2012, tuned to Drop D and played start to finish from the chart.
 motionless in white, america, motionless in white america, infamous, drop d, drop d bass, metalcore bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2012, bass guitar, heavy bass
 ```
 
-## PINNED COMMENT (116 characters)
+## PINNED COMMENT (76 characters)
 
 ```text
-One string for four minutes, and nowhere to hide an improvising hand. What is the heaviest thing you play in Drop D?
+How does A-M-E-R-I-C-A compare with the other singles from Infamous for you?
 ```
 
 ## GENRES (playlist reference - do not paste)
