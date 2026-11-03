@@ -3,7 +3,7 @@
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
     "title": "45b3a8fca9d971dd7b4af11cd7b90fec33469891b6021b828d5093a7b52c2bb4",
-    "description": "e7c08bfab80208f40be8aad2cf695cae00d30f5ad6e5ba4f529cb9b5a2909cad",
+    "description": "a85e31e1f5a5265bd763376f05fd16a79a170c825fca55e20ad2d0f858e0f847",
     "tags": "ea3a66e9db1167ef163ceb5c035a378885e9335a3d724d7a1d687df88dea740c",
     "pinned comment": "df2b43ad073e7f94659c27f8b84ad82f49517d4c1de26e8bbe06d3509bf18667",
     "genres": "a602b68506134d6482e1ec7b8b06d5f87f2d933943acb200dd20cfc25446bf6c"
@@ -18,13 +18,13 @@
   "claims": [
     {
       "surface": "description",
-      "claim": "Chopin Nocturne Op. 9 No. 2 was first published in 1832 and is piano music of the Romantic period.",
-      "source": "https://www.fabermusic.com/shop/nocturne-in-e-flat-major-op-9-no-2-p462289",
-      "assessment": "Song-level facts checked; genre classification reflects source, not exclusive objective truth."
+      "claim": "Chopin Nocturne Op. 9 No. 2 is a piano work from the Romantic period.",
+      "source": "https://www.alfred.com/nocturne-in-e-flat-major-op-9-no-2/p/98-EP73577A/",
+      "assessment": "Original piano scoring supported; disputed first-publication year omitted."
     },
     {
       "surface": "description",
-      "claim": "First publication and original piano scoring, contrasted with this four-hour bass loop.",
+      "claim": "Original piano scoring, contrasted with this four-hour bass loop.",
       "source": "https://www.allmusic.com/composition/nocturne-for-piano-no-2-in-e-flat-major-op-9-2-ct-109-mc0002426096",
       "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
     },
@@ -67,7 +67,7 @@
   ],
   "distinct_fact_and_source": "First publication and original piano scoring, contrasted with this four-hour bass loop. https://www.allmusic.com/composition/nocturne-for-piano-no-2-in-e-flat-major-op-9-2-ct-109-mc0002426096",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Unverified high strings, thumb part, unedited drift, interruptions, phone calls, and no-fade claim removed. Historical Details and pin screenshots are not proof of current live metadata.",
+  "uncertainties_and_removed_claims": "Unverified high strings, thumb part, unedited drift, interruptions, phone calls, and no-fade claim removed. Historical Details and pin screenshots are not proof of current live metadata. 2026-11-03 recheck: removed first-publication year; Edition Peters says 1832 (https://www.alfred.com/nocturne-in-e-flat-major-op-9-no-2/p/98-EP73577A/) while another source says 1833 (https://m.musescore.com/classicman/scores/53288).",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
