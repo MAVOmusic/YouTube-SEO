@@ -70,3 +70,6 @@ validation and initial 0021-0030 research with image mismatch and evidence gaps.
 
 2026-11-03 - Reviewed 0021-0030, added per-video evidence and safe preserved
 artist-comment parsing with tests; refreshed registers and fact-check ledger.
+
+2026-11-03 - First-40 evidence-path correction, relevant historical query-tag
+restoration and five-surface review 0031-0040 with fresh evidence records.

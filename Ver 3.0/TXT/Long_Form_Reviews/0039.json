@@ -1,0 +1,128 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "d0d3583792a26fcc5f69f7f8d3912772ff155ac13c888e20e3a397ef53bf4276",
+    "description": "771a06edc57d49513792ad966bf34a9bfa99e7483383a32fc1ddf5c60861f37a",
+    "tags": "422b4dd9b3b85f628c38e6e9b4f2afc52f3749319f6471a32ad358519342cb75",
+    "pinned comment": "2c9cdef6d825f3b467dc7936f8fd69634f91d05970fdf18b827ce3f592da077e",
+    "genres": "5c9e82a0433cabf6359d74600a9248f24218698ed1c3060fb475cdb330c3a8a2"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Hear Sabaton in Swedish: En Livstid I Krig on bass",
+      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
+    },
+    {
+      "surface": "description",
+      "claim": "En Livstid I Krig appears on the Swedish edition of Sabaton's Carolus Rex. The band also released an English-language version called A Lifetime of War.",
+      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album)",
+      "assessment": "Release, song or music-video facts checked against the cited sources; no claim that the official video appears in this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "I play along on bass with the Swedish track and Rocksmith overlay.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg ; MAVO confirmation: plays bass while the overlay is displayed",
+      "assessment": "Format based on historical Details screenshot and user confirmation, not a note-by-note transcription."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Kick first, Twitch mirror, Discord last; boost request is optional and makes no reward or schedule promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton",
+      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; https://rateyourmusic.com/release/album/sabaton/carolus-rex/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "en livstid i krig",
+      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; https://rateyourmusic.com/release/album/sabaton/carolus-rex/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton en livstid i krig",
+      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; https://rateyourmusic.com/release/album/sabaton/carolus-rex/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "a lifetime of war",
+      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; https://rateyourmusic.com/release/album/sabaton/carolus-rex/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "carolus rex",
+      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; https://rateyourmusic.com/release/album/sabaton/carolus-rex/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "swedish version",
+      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; https://rateyourmusic.com/release/album/sabaton/carolus-rex/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "power metal",
+      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; https://rateyourmusic.com/release/album/sabaton/carolus-rex/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "2012",
+      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; https://rateyourmusic.com/release/album/sabaton/carolus-rex/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; https://rateyourmusic.com/release/album/sabaton/carolus-rex/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; https://rateyourmusic.com/release/album/sabaton/carolus-rex/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014",
+      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; https://rateyourmusic.com/release/album/sabaton/carolus-rex/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Do you prefer the Swedish or English version, and what makes it stand out to you?",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Pinned.jpeg",
+      "assessment": "Historical comments screenshot checked for an artist comment; this is a new opinion question, not a verified current pin. Screenshot may not show every comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power metal",
+      "source": "https://rateyourmusic.com/release/album/sabaton/carolus-rex/",
+      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+    }
+  ],
+  "distinct_fact_and_source": "En Livstid I Krig appears on the Swedish edition of Sabaton's Carolus Rex. The band also released an English-language version called A Lifetime of War. https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album)",
+  "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

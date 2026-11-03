@@ -20,10 +20,10 @@ Pick a passage to practise while my bass performance and the Rocksmith display r
 💬 Compare Slayer albums in Discord, where you can also support us with a boost: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (13 tags, 172/500 characters)
+## TAGS (14 tags, 188/500 characters)
 
 ```text
-slayer, war ensemble, seasons in the abyss, thrash metal, thrash bass, tom araya, bass cover, bass play along, rocksmith bass, rocksmith 2014, 1990, bass guitar, metal bass
+slayer, war ensemble, seasons in the abyss, thrash metal, thrash bass, tom araya, bass cover, bass play along, rocksmith bass, rocksmith 2014, 1990, bass guitar, metal bass, bass rocksmith
 ```
 
 ## PINNED COMMENT (72 characters)

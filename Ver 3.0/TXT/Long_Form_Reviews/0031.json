@@ -1,0 +1,152 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "389d1f8341242e1f40892642306f4d0d3fb50e99faabc9a6621793c1b25d4546",
+    "description": "ae2a13040e7daffd30693bec861b8a82667d5982792a0923bfc598800c02650c",
+    "tags": "5ef8bc6ec827096ae649a1937a63bd0bc94276e06f2329d47e3430cd3132b47f",
+    "pinned comment": "a447c2d72c1bdd695d6ac04031a3db7f1b98d91afd856e608e612109d3a57f8b",
+    "genres": "007dfb7c8a692c0b913a4df81da1ff8649c8c336ace4153c0b0b8cc2c55ca9fe"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Track six becomes a bass playthrough: Dear Maria by All Time Low",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Dear Maria, Count Me In appears sixth on All Time Low's 2007 album So Wrong, It's Right. It was later released as a single on Hopeless Records.",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/",
+      "assessment": "Release, song or music-video facts checked against the cited sources; no claim that the official video appears in this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "My bass performance follows the Rocksmith chart on screen.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg ; MAVO confirmation: plays bass while the overlay is displayed",
+      "assessment": "Format based on historical Details screenshot and user confirmation, not a note-by-note transcription."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Kick first, Twitch mirror, Discord last; boost request is optional and makes no reward or schedule promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "all time low",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "dear maria count me in",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "all time low dear maria count me in",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "dear maria count me in bass",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "so wrong its right",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop punk",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "power pop",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "emo pop",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "2007",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "2008",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014 bass",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What album track would you choose as an introduction to All Time Low?",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Pinned.jpeg",
+      "assessment": "Historical comments screenshot checked for an artist comment; this is a new opinion question, not a verified current pin. Screenshot may not show every comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/",
+      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power pop",
+      "source": "https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/",
+      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Emo pop",
+      "source": "https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/",
+      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+    }
+  ],
+  "distinct_fact_and_source": "Dear Maria, Count Me In appears sixth on All Time Low's 2007 album So Wrong, It's Right. It was later released as a single on Hopeless Records. https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/",
+  "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

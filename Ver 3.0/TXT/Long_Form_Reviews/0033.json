@@ -1,0 +1,146 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "788e66fb4ae22a1fdc916403d00fd2c9e2d983c6b88021f982e0451bceecb891",
+    "description": "2797ba202244f9a09fc683a79731e539d21b2cc992ed0a484351ee3eae876c13",
+    "tags": "ef95f2f03618456740be097d6dd91b74989b14ed77f3895c625806387ed1308f",
+    "pinned comment": "6b8d8fad39b5b48e5e38d749724c190ef34f99ce5011dd4b11b2b4035b8f3a5d",
+    "genres": "8982e9226cfac559a9066a79b11ab1c77b6842a44af2ddfa3868d47039c36ac2"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Three writers behind Another Life, played on Motionless In White bass",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Another Life credits Chris Cerulli, Drew Fulk and Josh Strock as songwriters. Motionless In White included it on Disguise in 2019.",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/",
+      "assessment": "Release, song or music-video facts checked against the cited sources; no claim that the official video appears in this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Here is another performance of the song on bass, with the game overlay visible.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg ; MAVO confirmation: plays bass while the overlay is displayed",
+      "assessment": "Format based on historical Details screenshot and user confirmation, not a note-by-note transcription."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Kick first, Twitch mirror, Discord last; boost request is optional and makes no reward or schedule promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "motionless in white",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "another life",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "motionless in white another life",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "disguise",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris motionless",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "drew fulk",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "josh strock",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "post grunge",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative metal",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "2019",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014",
+      "source": "https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What draws you back to Another Life when you revisit Disguise?",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_01 - Main Info/Pinned.jpeg",
+      "assessment": "Historical comments screenshot checked for an artist comment; this is a new opinion question, not a verified current pin. Screenshot may not show every comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Post-grunge",
+      "source": "https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/",
+      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative metal",
+      "source": "https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song) ; https://rateyourmusic.com/release/single/motionless-in-white/another-life/",
+      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+    }
+  ],
+  "distinct_fact_and_source": "Another Life credits Chris Cerulli, Drew Fulk and Josh Strock as songwriters. Motionless In White included it on Disguise in 2019. https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/",
+  "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Another Life angles in 0002 and 0004 concern fan feedback and the official video director; this upload uses songwriting credits. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

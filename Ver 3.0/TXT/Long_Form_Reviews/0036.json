@@ -1,0 +1,122 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "b0363e906c9740f01d5bba30798ba104e23189df5f5198d50434aff52f3e1b21",
+    "description": "9ba2ba3226e562fbbbb4a86cb81d12d2c3268365cf0c354fe8f7236ee964ab09",
+    "tags": "cd0d637ed60ff1fd51d9faf4d5db65472493285fbb5d5eb5261a65ebf09380ae",
+    "pinned comment": "04373d25c2e57beed810d58ffcdf99e951633ec0a8cb5e7dbfc95a39aaa619e2",
+    "genres": "5c9e82a0433cabf6359d74600a9248f24218698ed1c3060fb475cdb330c3a8a2"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Sabaton salute Manowar with Man of War on Rocksmith bass",
+      "source": "https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Man of War is a Sabaton bonus track on editions of the 2014 album Heroes. The song references Manowar's catalogue as a tribute to the band.",
+      "source": "https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics",
+      "assessment": "Release, song or music-video facts checked against the cited sources; no claim that the official video appears in this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "The Rocksmith overlay accompanies my bass playthrough of the tribute.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Details.jpeg ; MAVO confirmation: plays bass while the overlay is displayed",
+      "assessment": "Format based on historical Details screenshot and user confirmation, not a note-by-note transcription."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Kick first, Twitch mirror, Discord last; boost request is optional and makes no reward or schedule promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton",
+      "source": "https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics ; https://rateyourmusic.com/release/album/sabaton/heroes/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "man of war",
+      "source": "https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics ; https://rateyourmusic.com/release/album/sabaton/heroes/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton man of war",
+      "source": "https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics ; https://rateyourmusic.com/release/album/sabaton/heroes/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "manowar",
+      "source": "https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics ; https://rateyourmusic.com/release/album/sabaton/heroes/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "heroes",
+      "source": "https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics ; https://rateyourmusic.com/release/album/sabaton/heroes/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "power metal",
+      "source": "https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics ; https://rateyourmusic.com/release/album/sabaton/heroes/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "2014",
+      "source": "https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics ; https://rateyourmusic.com/release/album/sabaton/heroes/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics ; https://rateyourmusic.com/release/album/sabaton/heroes/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics ; https://rateyourmusic.com/release/album/sabaton/heroes/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014",
+      "source": "https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics ; https://rateyourmusic.com/release/album/sabaton/heroes/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which tribute song sent you to the artist being honoured?",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Pinned.jpeg",
+      "assessment": "Historical comments screenshot checked for an artist comment; this is a new opinion question, not a verified current pin. Screenshot may not show every comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power metal",
+      "source": "https://rateyourmusic.com/release/album/sabaton/heroes/",
+      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+    }
+  ],
+  "distinct_fact_and_source": "Man of War is a Sabaton bonus track on editions of the 2014 album Heroes. The song references Manowar's catalogue as a tribute to the band. https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics",
+  "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

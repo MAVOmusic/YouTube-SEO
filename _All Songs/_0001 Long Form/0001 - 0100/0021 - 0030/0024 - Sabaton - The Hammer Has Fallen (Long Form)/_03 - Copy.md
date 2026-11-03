@@ -20,10 +20,10 @@ I picked up my bass for this early Sabaton track, with the game chart visible.
 💬 Exchange early-era metal discoveries on Discord; optional boosts support the community: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (9 tags, 140/500 characters)
+## TAGS (10 tags, 148/500 characters)
 
 ```text
-sabaton, the hammer has fallen, sabaton the hammer has fallen, fist for fight, power metal, 2001, bass cover, rocksmith bass, rocksmith 2014
+sabaton, the hammer has fallen, sabaton the hammer has fallen, fist for fight, power metal, 2001, bass cover, rocksmith bass, rocksmith 2014, sabton
 ```
 
 ## PINNED COMMENT (83 characters)

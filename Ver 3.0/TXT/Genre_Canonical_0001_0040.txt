@@ -65,40 +65,20 @@
   0028  Sabaton - Dreadnought  Power metal
   0029  Amaranthe - Archangel  Trance metal / Melodic metalcore
   0030  Pendulum - Tarantula  Drum and bass / Dancefloor drum and bass / Jump-up / Ragga jungle
-  0031  All Time Low - Dear Maria              Pop punk / Emo pop / Neon pop punk /
-                                               Alternative rock / Pop rock / Power pop
-  0032  System Of A Down - Roulette            Alternative metal / Acoustic rock / Art rock /
-                                               Hard rock / Metal
-  0033  Motionless In White - Another Life 3   Metalcore / Melodic metalcore / Gothic metalcore /
-                                               Gothic metal / Alternative metal / Post-hardcore
-  0034  Sabaton - Steel Commanders             Power metal / Heavy metal / Swedish metal /
-                                               Metal / Soundtrack and game music
-  0035  Billy Talent - Red Flag                Punk rock / Post-hardcore / Alternative rock /
-                                               Canadian punk
-  0036  Sabaton - Man Of War                   Power metal / Heavy metal / Swedish metal / Metal
-  0037  All Time Low - Weightless              Pop punk / Emo pop / Neon pop punk /
-                                               Alternative rock / Pop rock / Power pop
-  0038  The Cult - She Sells Sanctuary         Gothic rock / Post-punk / Alternative rock /
-                                               Psychedelic rock / Hard rock
-  0039  Sabaton - En Livstid I Krig            Power metal / Heavy metal / Symphonic power metal /
-     (pending panel pass)                      Swedish metal / Metal
-  0040  Rammstein - Amerika                    Industrial metal / Neue Deutsche Haerte /
-                                               Industrial rock / Alternative metal / Heavy metal
-# ============================================================================
-# WHAT WAS REMOVED FROM THE OLD BLOCKS (kept here, invisible to playlist work)
-# ============================================================================
-#   Dropped from 40 blocks: "elements only" labels (nu metal on MIW, folk metal on
-#   BABYMETAL, symphonic on Sabaton CO-0028/0034, metalcore on Amaranthe, pop punk
-#   and hardcore punk on Billy Talent, electro-industrial on Rammstein, new wave on
-#   The Cult), all "NOT applicable" rows (black metal on Burzum, symphonic power on
-#   Dreadnought, emo on All Time Low, progressive metal on Roulette, rock on
-#   Pendulum), every theme label (war/military, UFO, horror was KEPT for Abigail
-#   because horror metal is a real scene and playlist term), every non-genre
-#   factual label (cover song, demo, remix was KEPT for CO-0018, bonus track, play
-#   along format, rock trio, four hour loop) and pure umbrellas that add nothing
-#   beside a more precise label already listed (Metal, Rock, Electronic).
-# ============================================================================
+  0031  All Time Low - Dear Maria, Count Me In  Pop punk / Power pop / Emo pop
+  0032  System Of A Down - Roulette  Acoustic rock
+  0033  Motionless In White - Another Life  Post-grunge / Alternative metal
+  0034  Sabaton - Steel Commanders  Power metal / Heavy metal
+  0035  Billy Talent - Red Flag  Pop punk / Alternative rock / Punk rock
+  0036  Sabaton - Man Of War  Power metal
+  0037  All Time Low - Weightless  Pop punk
+  0038  The Cult - She Sells Sanctuary  Post-punk / Alternative rock / Gothic rock
+  0039  Sabaton - En Livstid I Krig  Power metal
+  0040  Rammstein - Amerika  Neue Deutsche Haerte
+
 
 2026-11-03: Rows 0001-0010 replaced after genre/source review; genre classifications are judgments, with album-level evidence noted in each copy file. Rows 0011-0040 are not yet rechecked.
 
 2026-11-03: Rows 0011-0020 revised during fact check; see individual findings and sources. Later rows remain unreviewed.
+
+2026-11-03: Rows 0021-0040 subsequently reviewed; older progress notes above are historical. Genre classifications remain source-based judgments, sometimes at album or artist level.

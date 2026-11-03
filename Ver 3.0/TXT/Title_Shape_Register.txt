@@ -95,28 +95,16 @@
   0028    song inspires band: bass run through subject  Dreadnought inspires Sabaton: a bass run through naval history
   0029    song and book: band on format bass            Archangel and Paradise Lost: Amaranthe on Rocksmith bass
   0030    two artists join forces on song bass          Pendulum and DJ Fresh join forces on Tarantula bass
-  0031    song subject + since-date tail                  Dear Maria, Count Me In has ended All Time Low shows since 2008
-          new skeleton - song first, band as the object, year LAST not first
-  0032    universal claim with an exception            Every System Of A Down song is a wall except Roulette
-          new skeleton - article-free "every X is Y except Z", band name mid-sentence
-  0033    "what X sounds like when Y"                     What Another Life sounds like when Motionless In White stop shouting
-          new skeleton - interrogative frame, song first, band after the verb
-  0034    article subject + commissioned + infinitive        A tank game commissioned Sabaton to write Steel Commanders
-  0035    band + concealed-noun verb phrase                 Billy Talent hid a protest in the three minutes of Red Flag
-          both new - no possessive, no "is", no date, no question
-  0036    which-question, band smuggles noun into song        Which Manowar songs did Sabaton smuggle into Man of War?
-          new skeleton - interrogative, but "which" + verb of concealment, not
-          the why/what/where frames already used at 0002, 0019 and 0033
-  0037    element + song + sounds like A and says B          The Weightless chorus sounds like hope and says the opposite
-          new skeleton - starts on the arrangement, not the band, and carries two
-          opposed verbs in one line
-  0038    band + left + element + state + on purpose          The Cult left the riff of She Sells Sanctuary unresolved on purpose
-          new skeleton - deliberate-act framing, song buried mid-sentence
-  0039    band + recorded it twice + verdict                  Sabaton recorded this in two languages and the Swedish one wins
-          new skeleton - two-version framing with a judgement at the end, band
-          first but the song is implied rather than named in the title slot
-  0040    element + band + wrote in X to mock X                The chorus Rammstein wrote in English to mock English
-          new skeleton - object first, band mid-sentence, chiasmus in the tail
+  0031    track ordinal becomes format: song by band             Track six becomes a bass playthrough: Dear Maria by All Time Low
+  0032    song takes band into style on instrument               Roulette takes System Of A Down into acoustic territory on bass
+  0033    number of writers behind song, played on band instrument Three writers behind Another Life, played on Motionless In White bass
+  0034    game and instrument: band on song format               World of Tanks and a cello: Sabaton on Steel Commanders bass
+  0035    before album, song reached games - format              Before Billy Talent II, Red Flag reached games - bass cover
+  0036    band salute band with song on format                   Sabaton salute Manowar with Man of War on Rocksmith bass
+  0037    song gets bass run after band album                    Weightless gets a bass run after All Time Low hit Nothing Personal
+  0038    producer produced song - band on instrument            Steve Brown produced She Sells Sanctuary - The Cult on bass
+  0039    hear band in language: song on instrument              Hear Sabaton in Swedish: En Livstid I Krig on bass
+  0040    band put language count on song release - format       Rammstein put two languages on the Amerika single - bass cover
   0041    two artists + built X out of Y                       Snoop and Wiz built a hit out of a demo nobody wanted
           new skeleton - two-name subject, transitive build-verb, negation at the tail
   0042    producer + heard X and made Y                        Rick Rubin heard a goth song and made it a rock single

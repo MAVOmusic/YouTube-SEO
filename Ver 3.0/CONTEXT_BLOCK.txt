@@ -2308,3 +2308,14 @@ non-explicit song title, not the explicit album title. Gate --check 0001-0030,
 metadata checks and preserved-pin tests pass, with documented limits. User may
 edit 0021-0030 from MDs; next first-70 batch is 0031-0040. No paste handoff
 through 0070. See First_70_Fact_Check_2026-11-03.txt for detail.
+
+2026-11-03 - CORRECTION: prior assertions that 0011-0030 Details images were
+cross-filed were an image-result association error. Their own-folder screenshots
+match; evidence paths corrected, including 0025 Official Comment.jpeg. Earlier
+log entries remain historical and are superseded by this correction. 0040 audio
+confirmed by MAVO as Rammstein Amerika despite the old source filename.
+0031-0040 five-surface MD review, researched facts, search-card review and
+registers completed; 0001-0030 relevant visible historical search phrases
+restored where previously omitted. Search cards are partial historical evidence,
+not a current YouTube state or a guarantee of search ranking. Next 0041-0050.
+Do not paste handoffs through 0070; gate cannot prove factual or semantic truth.

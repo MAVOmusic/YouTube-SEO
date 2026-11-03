@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "e82ea6373985aafad97fd03885d164888ac0a9ee523e365e3f0054e24c430a66",
     "description": "69ce690dac535323f2ec9503ab3d4020a57be74d1a93b8d5c44f17b6a91da387",
-    "tags": "42d516f5692bd66f22b4a3d0e62dbae48a5df7b425ac772ac56c0724864b5b11",
+    "tags": "beb542beaeabf0d821cd5c418d03b53098c72ff9b0e3f57dfc18996e79182d98",
     "pinned comment": "10145f676c79ea13495c304adc9f5f3079322ded4d1a1da5e0af28fb61c404d6",
     "genres": "13020ac924410280561287bad8fa1e2db2c7511b8022e728d53c345cc4832a6b"
   },
@@ -63,11 +63,17 @@
       "claim": "- Alternative metal",
       "source": "https://soad.fandom.com/wiki/Lonely_Day; https://www.discogs.com/release/4297962-System-Of-A-Down-Lonely-Day",
       "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass system of a down",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0016 - System Of A Down - Lonely Day (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
     }
   ],
   "distinct_fact_and_source": "Malakian writing and lead vocal on a System Of A Down track. https://www.discogs.com/release/4297962-System-Of-A-Down-Lonely-Day",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Removed quietest-ever, four notes, no overdubs, Drop C, streaming and promised boost consequences. Track bass credit is inconsistent: Discogs lists Shavo but Soadpedia claims Daron played bass on Lonely Day; removed Shavo tag rather than assert. Historical Details and pin screenshots are not proof of current live metadata.",
+  "uncertainties_and_removed_claims": "Removed quietest-ever, four notes, no overdubs, Drop C, streaming and promised boost consequences. Track bass credit is inconsistent: Discogs lists Shavo but Soadpedia claims Daron played bass on Lonely Day; removed Shavo tag rather than assert. Historical Details and pin screenshots are not proof of current live metadata. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "e1ec034cdcd960892e2a1eaf94dd38c6f52a67d87d9c38625c22990b31c6b605",
     "description": "e7aa2a4c8d74869f51922a3dbee9ac20521c656b25966ceede94c812b74bedf0",
-    "tags": "1ba4cb5ab8bf482e3b16a9b4cd95e28da87e924a42de3e2d0807fadaff8ce12d",
+    "tags": "1211ccf9be7bfecd28a0b86f447cefee2462d2bcc8a9b12f75221a474ec8529f",
     "pinned comment": "83784bfa0359ce70cfde915fb8383e0f2fdb470ce9cbeeb4a8646ff148bf50d6",
     "genres": "23e8d446afde987fa9f78fff4113a77b98ec08c5a72633c1c499bed910afa7ba"
   },
@@ -63,11 +63,17 @@
       "claim": "- Pop rock\n- Synth-pop",
       "source": "https://en.wikipedia.org/wiki/I_Want_to_Break_Free; https://rateyourmusic.com/release/musicvideo/queen/i-want-to-break-free.p/",
       "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+    },
+    {
+      "surface": "tags",
+      "claim": "queen songs",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0014 - Queen - I Want To Break Free (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
     }
   ],
   "distinct_fact_and_source": "Deacon songwriting and Mandel synth solo; track is pop rock/synth-pop. https://rateyourmusic.com/release/musicvideo/queen/i-want-to-break-free.p/",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Removed unverified synth bass and two bassists premise, band relationship story, bass-part assertions and no-edit claim. Historical Details and pin screenshots are not proof of current live metadata.",
+  "uncertainties_and_removed_claims": "Removed unverified synth bass and two bassists premise, band relationship story, bass-part assertions and no-edit claim. Historical Details and pin screenshots are not proof of current live metadata. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
