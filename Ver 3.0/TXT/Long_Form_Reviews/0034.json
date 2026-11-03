@@ -132,9 +132,9 @@
     }
   ],
   "distinct_fact_and_source": "Sabaton worked with World of Tanks developer Wargaming on the Steel Commanders music video, which features cellist Tina Guo. Its release year was 2021. https://blabbermouth.net/news/sabaton-collaborates-with-wargaming-game-developer-on-steel-commanders-music-video",
-  "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
+  "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads. Rechecked after 0061-0070; signals are common invitation words or necessary names, not a reused fact angle.",
   "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence is artist-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  "collision_report_sha256": "13e518e3bb0d189e8e0dd13f860f77b1df225406fcbfc2b7cc910d326f32bcec"
 }

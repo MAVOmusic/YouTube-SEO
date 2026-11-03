@@ -160,16 +160,17 @@
   0058    Gustavus Adolphus and instrumental album introduction Which historical figure deserves a song of their own?
   0059    Hoppus recalled dark-song conversation with Barker   Which song origin story has stayed with you?
   0060    Russian original and English version                 Which language version did you hear first?
-  0061    historical episode narrated forward, then the name it gave the song   P-history-door
-  0062    the premise contradicted                                     P-context-value
-  0063    source material retold, then what the band did to it          P-order-choice
-  0064    reverse chronology, "before" repeated three times, then the zero hour  P-open-challenge
-  0065    technical facts stacked - tuning, pedal, amp - then the song  P-minimalism-comparison
-  0066    band history, the name change and the record it produced      P-two-era-memory
-  0067    working title, then the frustration that finished the song    P-length-nomination
-  0068    one line of lyric, then who it was aimed at                   P-craft-decision
-  0069    the band's own doubt, stated first                            P-rule-test
-  0070    the band's usual practice, then the exception                 P-craft-justification
+  0061    official account of the 7th Panzer Division | Which history-themed song sent you looking for more information?
+  0062    Gontier account of emotional numbness | Which song on One-X resonates most with you?
+  0063    reviewer links song to Pauline story | Which song introduced you to a story you had not read before?
+  0064    band describes film inspiration for D-Day song | Which film led you to discover a song or artist?
+  0065    Nirvana and Butch Vig production credit | Which Nevermind track did you hear first?
+  0066    Try Honesty video director | Which early Billy Talent video would you revisit today?
+  0067    Joe Hahn video concept credit | Which Linkin Park visual concept do you remember most?
+  0068    Silver Springs B-side and separate writers | What B-side belongs in your favourite singles collection?
+  0069    Peter Buck mandolin practice origin | What instrument would you like to learn next?
+  0070    album sequence around Standing in the Rain | Which three-song run on an album do you return to?
+
 
 ################################################################################
 # GENRE BLOCK - SPLIT INTO TWO ELEMENTS (VER 4.38, MAVO 02-11-2026)

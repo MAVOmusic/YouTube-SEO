@@ -1,0 +1,140 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "1b275c3721b127c824a8bea51264835a29580ae77d8bc4aa19ba86250dcce9c6",
+    "description": "523eee3eba28f8b902cab23c560d287b7c1db477abd1ac3ce2208131b5da1c06",
+    "tags": "1eae90cb7333b58c25d045505811fea8375fdaa8138a4fb790d0a802e4b6b9c4",
+    "pinned comment": "a49c64cec08eb447a6054d1ad94361d7b4be46ad5237e1655674ffdbc7b26d6e",
+    "genres": "2103a82652c6a8ef3d0c1a4c798b66571e9718e5809c5e9305cb310323e7f090"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Nirvana and Butch Vig produced Come As You Are",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Fact and upload identity checked against historical details and cited source."
+    },
+    {
+      "surface": "description",
+      "claim": "Butch Vig and Nirvana are credited as producers of Come As You Are on a 1992 European single. The song also appears on their 1991 album Nevermind.",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are",
+      "assessment": "Specific factual angle checked; director credits refer to artist videos, not this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "The Rocksmith display is visible beside my bass playing.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay is on screen",
+      "assessment": "User-confirmed playing format; no note-level, take-count or continuous-overlay claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, mirrored Twitch, Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in required order; no schedule or reward promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "nirvana",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; https://rateyourmusic.com/release/musicvideo/nirvana/come-as-you-are/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "come as you are",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; https://rateyourmusic.com/release/musicvideo/nirvana/come-as-you-are/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 1.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "nirvana come as you are",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; https://rateyourmusic.com/release/musicvideo/nirvana/come-as-you-are/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "nevermind",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; https://rateyourmusic.com/release/musicvideo/nirvana/come-as-you-are/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "kurt cobain",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; https://rateyourmusic.com/release/musicvideo/nirvana/come-as-you-are/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "krist novoselic",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; https://rateyourmusic.com/release/musicvideo/nirvana/come-as-you-are/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "grunge",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; https://rateyourmusic.com/release/musicvideo/nirvana/come-as-you-are/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative rock",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; https://rateyourmusic.com/release/musicvideo/nirvana/come-as-you-are/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "1991",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; https://rateyourmusic.com/release/musicvideo/nirvana/come-as-you-are/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; https://rateyourmusic.com/release/musicvideo/nirvana/come-as-you-are/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; https://rateyourmusic.com/release/musicvideo/nirvana/come-as-you-are/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 1.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; https://rateyourmusic.com/release/musicvideo/nirvana/come-as-you-are/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 1.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which Nevermind track did you hear first?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
+    },
+    {
+      "surface": "genres",
+      "claim": "Grunge",
+      "source": "https://rateyourmusic.com/release/musicvideo/nirvana/come-as-you-are/",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://rateyourmusic.com/release/musicvideo/nirvana/come-as-you-are/",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    }
+  ],
+  "distinct_fact_and_source": "Nirvana and Butch Vig production credit ; https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are",
+  "uniqueness_assessment": "Reviewed 1 shared phrase signal(s): ordinary Discord invitation language, not factual angle reuse. Distinct angles, questions and titles reviewed against available songs; unseen and future videos cannot be certified.",
+  "uncertainties_and_removed_claims": "Production credit is from a specific European single, not a claim about every version. Screenshots are historical and incomplete; genre recommendations remain subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "9b81bf8607c21b30cb8038e292af26697e784cc905c8cbadc71bc52a73d6d777"
+}

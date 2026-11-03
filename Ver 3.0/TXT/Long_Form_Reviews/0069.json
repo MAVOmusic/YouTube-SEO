@@ -1,0 +1,152 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "df6d932be4f396cbdf15107baf273b056382f7a9c8414cfaf35ddf421b2d6e97",
+    "description": "2f7531c1561ecff13df3bbd670adb4d8a8c4387d3e9c3ecac986ca4a1faba1c1",
+    "tags": "008ac3e3595a2a0c3d8880f0a35a9731301abd716efa07b688ba33bf7bb8a849",
+    "pinned comment": "de2009ece929628b1a0f57b6f29735321041e6e58e2ae92f1f0af8e7d90d98c3",
+    "genres": "350430e5240bc86f576cbca70affb7d0640482560336579e1ef0b3bda7a92044"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Peter Buck found Losing My Religion while learning mandolin",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Fact and upload identity checked against historical details and cited source."
+    },
+    {
+      "surface": "description",
+      "claim": "Peter Buck has described discovering the idea for R.E.M.'s Losing My Religion while learning mandolin. Their 1991 album Out of Time includes the song.",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion",
+      "assessment": "Specific factual angle checked; director credits refer to artist videos, not this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Bass and the game display appear together in my performance.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay is on screen",
+      "assessment": "User-confirmed playing format; no note-level, take-count or continuous-overlay claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, mirrored Twitch, Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in required order; no schedule or reward promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "rem",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "r.e.m.",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "losing my religion",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rem losing my religion",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "out of time",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "peter buck",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "mike mills",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "michael stipe",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "mandolin",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative rock",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "folk rock",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "1991",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What instrument would you like to learn next?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://en.wikipedia.org/wiki/Losing_My_Religion",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    },
+    {
+      "surface": "genres",
+      "claim": "Folk rock",
+      "source": "https://en.wikipedia.org/wiki/Losing_My_Religion",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    }
+  ],
+  "distinct_fact_and_source": "Peter Buck mandolin practice origin ; https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion",
+  "uniqueness_assessment": "No five-word collision signals in the available corpus. Distinct angles, questions and titles reviewed against available songs; unseen and future videos cannot be certified.",
+  "uncertainties_and_removed_claims": "Mandolin origin is attributed to Buck as reported by a secondary source, not an exclusive reading of the lyrics. Screenshots are historical and incomplete; genre recommendations remain subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

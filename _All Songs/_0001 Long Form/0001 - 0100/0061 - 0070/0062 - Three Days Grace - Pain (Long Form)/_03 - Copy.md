@@ -1,77 +1,42 @@
-# CO-0062 | Rewritten copy (Ver 4.51)
+# CO-0062 | Reviewed copy (2026-11-03)
 
-> Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
-> **E4 INELIGIBLE, single line, GBP 0.00. Jive.** First Three Days Grace upload in 62
-> audits, and the first Jive title since CO-0052 - a label that has claimed and blocked
-> before.
-> **CTR 0.9% on 3.6k impressions, with 91.6% of them from YouTube recommending.**
-> Video ID `rCZo9m6wpnl` (crop-verified; the final character is a bare stroke and could
-> be a capital I - logged as a known ambiguity).
-> GENRE FINDINGS is mine and internal. CORRECT GENRES is the playlist list.
+> Copy the title, description, tags and proposed pin. Genre findings are internal.
 
-## TITLE (58 characters)
+## TITLE (57 characters)
 
 ```text
-Pain reached Three Days Grace through a Toronto rehab ward
+Adam Gontier on the numbness behind Three Days Grace Pain
 ```
 
-## DESCRIPTION (1185 characters)
+## DESCRIPTION (449 characters)
 
 ```text
-Most bands write about pain as something to escape. This one argues the opposite for three minutes: that numbness is the worse outcome, that feeling the damage is proof you are still in the room. It is a strange, bleak idea to hang a rock single on, and it worked.
+Adam Gontier described Pain as being about feeling numb and being tired of that feeling. The Three Days Grace song appears on One-X, released in 2006.
 
-The record behind it is why. Much of One-X was written while Adam Gontier was in a treatment centre in Toronto for an addiction to prescription painkillers, and Pain is the song that states the case most plainly. Howard Benson produced it, and he keeps the arrangement tight enough that the sentiment never turns into a ballad.
+My bass part is performed beside the game display.
 
-The bass part is a metronome with attitude. Root notes, even eighths, one shape most of the way through, and absolutely no reason to decorate it. The guitars and vocal carry the drama. You are there to make the chorus feel like it has a floor.
-
-Nineteen September 2006, Jive, three minutes twenty two on the record.
-
-🟢 Rock nights and requests, most evenings, right here: https://kick.com/mavomusic
-🟣 If Kick is playing up, the backup is: https://www.twitch.tv/mavomusic
-💬 Discuss your take in Discord; boosting the server is welcome: https://discord.gg/ESGsGkN4j2
-
-Second single off One-X.
+🟢 Bring a favourite One-X track over to Kick: https://kick.com/mavomusic
+🟣 Catch the mirrored stream via Twitch: https://www.twitch.tv/mavomusic
+💬 Compare One-X tracks via Discord; server boosts are a helpful extra: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (16 tags, 201/500 characters)
+## TAGS (12 tags, 150/500 characters)
 
 ```text
-three days grace, pain, one-x, adam gontier, howard benson, jive records, post grunge, alternative rock, nu metal, hard rock, 2006, canadian rock, oxycontin, bass cover, rocksmith bass, bass play along
+three days grace, pain, three days grace pain, one x, one-x, adam gontier, brad walst, post grunge, alternative rock, 2006, bass cover, rocksmith bass
 ```
 
-## PINNED COMMENT (128 characters)
+## PINNED COMMENT (44 characters)
 
 ```text
-Written inside a treatment centre and it still reads as a rock single. Does knowing that change the song, or does it not matter?
+Which song on One-X resonates most with you?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-  Verified: single from One-X, released 19 September 2006 on Jive, produced by
-  Howard Benson, written by Gontier, Stock, Walst, Sanderson and Brown, 3:22, with
-  much of the album written while Gontier was in treatment in Toronto for an
-  OxyContin addiction. Alternative rock is the accurate lane. Post grunge is the
-  scene it belongs to and where the playlist audience lives. Hard rock is the wider
-  honest umbrella. Dropped: "nu metal", which this song does not touch, and "emo",
-  which would misfile a band that never wore the clothes.
+Subjective recommendations based on the cited song, artist or album classification; album-level evidence may not describe every track in isolation. See the review record.
 
 ## CORRECT GENRES
 
-Alternative rock · Post grunge · Hard rock
-
-## THREE THINGS TO CARRY FORWARD
-
-  **Jive claims and blocks.** CO-0052, I Got You, is the only Jive entry in the
-  register and it came back E4 with a partial block. This one is E4 with no block, so
-  the label's behaviour is not identical across its catalogue, which is the first
-  nuance recorded for Jive.
-
-  **91.6% recommendation and 0.9% CTR.** The algorithm pushed this hard and almost
-  nobody clicked. That is the opposite of CO-0061, which was pushed and clicked
-  rarely but held everyone who arrived. Both are thumbnail problems with different
-  shapes, and only one of them can be fixed by a title.
-
-  **A new catalogue, and a new genre lane.** Post grunge has not appeared in 62
-  audits. Three Days Grace, Linkin Park and (Hed) P.E. are the only acts here from
-  that late-90s and 2000s rock radio world, and they are the only uploads in the
-  batch with search demand for the band name rather than the game.
+- Post-grunge
+- Alternative rock

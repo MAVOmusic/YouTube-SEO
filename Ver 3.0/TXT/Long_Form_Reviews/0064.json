@@ -1,0 +1,122 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "76172de13f6db729e74339d0759e7746e770607eafa79764644f9b639da21e30",
+    "description": "f0475a351072ebd293c288d6994376275058a61026204c9465e116cb1ccde88f",
+    "tags": "45b32abe08f4ce719525888c9672aeb29f4c614efa1f9c57520cfb7286a4e062",
+    "pinned comment": "f26d3e20815483172bd07abe3229c0e945d16918b7d390fc587ca79404ebaf46",
+    "genres": "5c9e82a0433cabf6359d74600a9248f24218698ed1c3060fb475cdb330c3a8a2"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Saving Private Ryan helped inspire Sabaton Primo Victoria",
+      "source": "https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Fact and upload identity checked against historical details and cited source."
+    },
+    {
+      "surface": "description",
+      "claim": "Sabaton say they wrote Primo Victoria after watching Saving Private Ryan. Their song concerns the 1944 D-Day landings and features on the album Primo Victoria, released in 2005.",
+      "source": "https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/",
+      "assessment": "Specific factual angle checked; director credits refer to artist videos, not this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "The screen shows my bass performance with the game chart.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay is on screen",
+      "assessment": "User-confirmed playing format; no note-level, take-count or continuous-overlay claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, mirrored Twitch, Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in required order; no schedule or reward promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton",
+      "source": "https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/ ; https://www.sabaton.net/discography/primo-victoria/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_01 - Main Info/_01 Description.jpeg ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 1.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "primo victoria",
+      "source": "https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/ ; https://www.sabaton.net/discography/primo-victoria/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_01 - Main Info/_01 Description.jpeg ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 1.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton primo victoria",
+      "source": "https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/ ; https://www.sabaton.net/discography/primo-victoria/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "d day",
+      "source": "https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/ ; https://www.sabaton.net/discography/primo-victoria/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "normandy landings",
+      "source": "https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/ ; https://www.sabaton.net/discography/primo-victoria/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "saving private ryan",
+      "source": "https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/ ; https://www.sabaton.net/discography/primo-victoria/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "power metal",
+      "source": "https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/ ; https://www.sabaton.net/discography/primo-victoria/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "2005",
+      "source": "https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/ ; https://www.sabaton.net/discography/primo-victoria/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/ ; https://www.sabaton.net/discography/primo-victoria/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/ ; https://www.sabaton.net/discography/primo-victoria/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which film led you to discover a song or artist?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0064 - Sabaton - Primo Victoria (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power metal",
+      "source": "https://www.sabaton.net/discography/primo-victoria/",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    }
+  ],
+  "distinct_fact_and_source": "band describes film inspiration for D-Day song ; https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/",
+  "uniqueness_assessment": "No five-word collision signals in the available corpus. Distinct angles, questions and titles reviewed against available songs; unseen and future videos cannot be certified.",
+  "uncertainties_and_removed_claims": "Band explicitly states film influence. No claim that the film itself is included in this performance. Screenshots are historical and incomplete; genre recommendations remain subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

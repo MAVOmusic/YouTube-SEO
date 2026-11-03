@@ -1,0 +1,152 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "e83563f0f8a378bffe271388bc86a68e664ca36c3c1bba0863ade5401955bf02",
+    "description": "7ff6e5c9fd52c22c132055552f562c836f9bdb960ac03e2e9e75d44f7016c911",
+    "tags": "e0ea7db833921df4be2a450c6eb8e4cfb1f6bffe8a2af3eb549167083325485c",
+    "pinned comment": "df26397e2f7ff59acc693d993856a11b68a8b28ebdda569e70cb8ff1bfca2654",
+    "genres": "0e21297a49e5b5fb6b78eaa58064a587d30b5a28e8cf8d98a844e9248423398a"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Rammstein Hilf Mir and the story of Pauline",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Fact and upload identity checked against historical details and cited source."
+    },
+    {
+      "surface": "description",
+      "claim": "A review of Rammstein's 2005 album Rosenrot connects the lyrics of Hilf Mir to the Pauline story in Heinrich Hoffmann's Struwwelpeter. The title means \"Help me\" in English.",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics",
+      "assessment": "Specific factual angle checked; director credits refer to artist videos, not this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "I play bass here alongside a visible Rocksmith chart.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay is on screen",
+      "assessment": "User-confirmed playing format; no note-level, take-count or continuous-overlay claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, mirrored Twitch, Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in required order; no schedule or reward promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "rammstein",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; https://rateyourmusic.com/release/album/rammstein/rosenrot-21/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "ramstein",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; https://rateyourmusic.com/release/album/rammstein/rosenrot-21/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "hilf mir",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; https://rateyourmusic.com/release/album/rammstein/rosenrot-21/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rammstein hilf mir",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; https://rateyourmusic.com/release/album/rammstein/rosenrot-21/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rosenrot",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; https://rateyourmusic.com/release/album/rammstein/rosenrot-21/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "struwwelpeter",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; https://rateyourmusic.com/release/album/rammstein/rosenrot-21/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "heinrich hoffmann",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; https://rateyourmusic.com/release/album/rammstein/rosenrot-21/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "pauline",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; https://rateyourmusic.com/release/album/rammstein/rosenrot-21/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "neue deutsche härte",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; https://rateyourmusic.com/release/album/rammstein/rosenrot-21/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "neue deutsche haerte",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; https://rateyourmusic.com/release/album/rammstein/rosenrot-21/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "industrial metal",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; https://rateyourmusic.com/release/album/rammstein/rosenrot-21/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "2005",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; https://rateyourmusic.com/release/album/rammstein/rosenrot-21/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; https://rateyourmusic.com/release/album/rammstein/rosenrot-21/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; https://rateyourmusic.com/release/album/rammstein/rosenrot-21/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 1.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which song introduced you to a story you had not read before?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
+    },
+    {
+      "surface": "genres",
+      "claim": "Neue Deutsche Härte",
+      "source": "https://rateyourmusic.com/release/album/rammstein/rosenrot-21/",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    },
+    {
+      "surface": "genres",
+      "claim": "Industrial metal",
+      "source": "https://rateyourmusic.com/release/album/rammstein/rosenrot-21/",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    }
+  ],
+  "distinct_fact_and_source": "reviewer links song to Pauline story ; https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics",
+  "uniqueness_assessment": "No five-word collision signals in the available corpus. Distinct angles, questions and titles reviewed against available songs; unseen and future videos cannot be certified.",
+  "uncertainties_and_removed_claims": "Link to Pauline is attributed to a contemporary review; do not assert a direct interview with the band. Screenshots are historical and incomplete; genre recommendations remain subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

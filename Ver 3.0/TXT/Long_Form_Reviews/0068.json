@@ -1,0 +1,140 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "1addc4d4324c19f2ada04a31a573df88607917e5c725f6c066ae63c70bb2972a",
+    "description": "ebea42a5906e33be0a7a442b7418e57539d8031cc74004df5c43dd860c73b287",
+    "tags": "3f8fbc0aa3e0f75b5d2859595c6d43cac611ab876c41d198fbda67a567d5e940",
+    "pinned comment": "0855e9f8b3187c2d8391805eee484419847c7a1ce8a7f7432df7da8c09ab909d",
+    "genres": "35309d3c81978aee477e82721a30f5235e61f56e314aaf708adfd4e317fd880c"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "The Silver Springs B-side to Fleetwood Mac Go Your Own Way",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Fact and upload identity checked against historical details and cited source."
+    },
+    {
+      "surface": "description",
+      "claim": "Fleetwood Mac paired Go Your Own Way with Silver Springs on a 1976 single. Lindsey Buckingham wrote the A-side, while Stevie Nicks wrote the B-side.",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song)",
+      "assessment": "Specific factual angle checked; director credits refer to artist videos, not this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "The visible game display sits alongside my bass playing.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay is on screen",
+      "assessment": "User-confirmed playing format; no note-level, take-count or continuous-overlay claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, mirrored Twitch, Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in required order; no schedule or reward promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "fleetwood mac",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "fleetwood",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 1.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "go your own way",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "fleetwood mac go your own way",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rumours",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "silver springs",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "lindsey buckingham",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "stevie nicks",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "john mcvie",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop rock",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "1976",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What B-side belongs in your favourite singles collection?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop rock",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    }
+  ],
+  "distinct_fact_and_source": "Silver Springs B-side and separate writers ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song)",
+  "uniqueness_assessment": "Reviewed 2 shared phrase signal(s): ordinary Discord invitation language, not factual angle reuse. Distinct angles, questions and titles reviewed against available songs; unseen and future videos cannot be certified.",
+  "uncertainties_and_removed_claims": "B-side applies to a specific 1976 single; historical partial block does not establish current restrictions. Screenshots are historical and incomplete; genre recommendations remain subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "14c925da5c55fef9ed38d8012f0da3921daf6636a0fc18478a9384d88e8575ff"
+}

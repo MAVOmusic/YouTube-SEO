@@ -1,0 +1,134 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "7d076a029d3bcc4ac199c8f2fb9b7c51ae9d974712b0bfdcb92a759b9d8bf049",
+    "description": "146403aaffbeb9e3f88ca588d9e6195e10a9fa5718ac0ae2ffbda07d151b60df",
+    "tags": "476ec863a3e54c2b40c584c758cd35d419c0bdfb29d2ee079406cfbca0cc99a0",
+    "pinned comment": "022e84323271bb0cca77937c6307f1129aefb9ef5a62825193ac91397399473b",
+    "genres": "f141ecc8f8fa68d4222d4a157a58f8a03c2d39fcdd458077f072259f956fea6c"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Billy Talent Standing in the Rain between two album tracks",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Fact and upload identity checked against historical details and cited source."
+    },
+    {
+      "surface": "description",
+      "claim": "Standing in the Rain sits between River Below and Cut the Curtains on the 2003 self-titled Billy Talent album.",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/",
+      "assessment": "Specific factual angle checked; director credits refer to artist videos, not this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Bass playing and the Rocksmith chart share the screen in this take.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay is on screen",
+      "assessment": "User-confirmed playing format; no note-level, take-count or continuous-overlay claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, mirrored Twitch, Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in required order; no schedule or reward promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy talent",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "standing in the rain",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy talent standing in the rain",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy talent i",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "jon gallant",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "benjamin kowalewicz",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative rock",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop punk",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "2003",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which three-song run on an album do you return to?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    }
+  ],
+  "distinct_fact_and_source": "album sequence around Standing in the Rain ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/",
+  "uniqueness_assessment": "No five-word collision signals in the available corpus. Distinct angles, questions and titles reviewed against available songs; unseen and future videos cannot be certified.",
+  "uncertainties_and_removed_claims": "Track sequence from a specific standard album listing; no invented narrator details or musical technique. Screenshots are historical and incomplete; genre recommendations remain subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

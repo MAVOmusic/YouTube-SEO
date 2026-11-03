@@ -125,50 +125,17 @@
   0058    a historical figure inspires song - band format            A Swedish king inspires The Lion From The North - Sabaton bass
   0059    song traces an early band idea to conversation             Weatherman traces an early +44 idea to a conversation
   0060    from language to language: artist and song                 From Russian to English: t.A.T.u. and All The Things She Said
-  0061    [song] + outran + possessive object + and + band + noticing verb
-          Ghost Division outran its own radio contact, and Sabaton noticed
-          new skeleton - song as the thing escaping, the band demoted to an observer in
-          a second clause with a verb of noticing rather than an act of writing. No
-          title in the register has put the band in that position before
-  0062    [song] + reached + band + through + place
-          Pain reached Three Days Grace through a Toronto rehab ward
-          new skeleton - the song travelling toward the band, with a place as the route
-          rather than the setting. 0058 sent the reader to a place; this one sends the
-          song out of one
-  0063    band + set + [source material] + on fire + for + song
-          Rammstein set a Victorian children's book on fire for Hilf Mir
-          new skeleton - the band as the actor committing an act on borrowed material,
-          the song named at the tail as the beneficiary of it. First title in the
-          register where the song is grammatically incidental to its own title
-  0064    verdict fragment + colon + band + opened + object + on + song
-          Not bad for a debut: Sabaton opened a career on Primo Victoria
-          new skeleton - the first colon title in the register, and the first that
-          opens on a judgement rather than a fact. The song arrives last, as the thing
-          a career was opened on
-  0065    definite-article superlative + noun + band + ever + verb + sits in + song
-          The friendliest riff Nirvana ever wrote sits in Come As You Are
-          new skeleton - a superlative with an article, "ever" as an intensifier
-          mid-title, and the song buried in a prepositional tail. Nothing else in the
-          register evaluates a part of a song before naming it
-  0066    former name + became + band + and + song + was the first thing out
-          Pezz became Billy Talent and Try Honesty was the first thing out
-          new skeleton - a two-clause identity change, then the song as the subject of
-          the second clause with a "was" that is mid-title, not an opener (TS-B2 is
-          about the opener only). No previous title carries a name change at all
-  0067    song + broke + band + in + duration
-          One Step Closer broke Linkin Park in two and a half minutes
-          new skeleton - the song as the agent that divides the band, with a runtime as
-          the adverbial limit. 0056 measured effort against other songs; this one
-          measures damage against the clock
-  0068    band name: person wanted line out of song
-          Fleetwood Mac: Nicks wanted a line out of Go Your Own Way
-  0069    band + found + song + inside + source
-          R.E.M. found Losing My Religion inside a mandolin exercise
-          new skeleton - a find-verb, the song as the object discovered inside a
-          technique. 0062 has the song moving; here the band is the one doing the
-          looking and the song is already sitting there
-  0070    band paint a subject in song
-          Billy Talent paint a troubled life in Standing In The Rain
+  0061    song and unit: band history in song | Ghost Division and the 7th Panzer: Sabaton's history in song
+  0062    vocalist on feeling behind band song | Adam Gontier on the numbness behind Three Days Grace Pain
+  0063    band song and story of character | Rammstein Hilf Mir and the story of Pauline
+  0064    film helped inspire band song | Saving Private Ryan helped inspire Sabaton Primo Victoria
+  0065    band and producer produced song | Nirvana and Butch Vig produced Come As You Are
+  0066    song: director directs band | Try Honesty: Sean Michael Turrell directs Billy Talent
+  0067    member conceived song video for band | Joe Hahn conceived the One Step Closer video for Linkin Park
+  0068    B-side to band song | The Silver Springs B-side to Fleetwood Mac Go Your Own Way
+  0069    artist found song while learning instrument | Peter Buck found Losing My Religion while learning mandolin
+  0070    band song between two album tracks | Billy Talent Standing in the Rain between two album tracks
+
 
 ################################################################################
 # BANNED SHAPES - the evidence

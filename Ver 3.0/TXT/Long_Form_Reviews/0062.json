@@ -1,0 +1,140 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "83eee777a027193886ec4af2ba54c24643b5aaf91a686b0eee9d22edb2427a60",
+    "description": "826dac6e66635b744c263b2bcce8c0f3d1a5c7aa5ce014a8694964bc2dd10b86",
+    "tags": "bb018edebe857ac4fd2240e7e2ad496e30279bd6445bfd96ea5ddd0d0415b17c",
+    "pinned comment": "ae148f464003e87fa9b610b828edb9db36394530ca1fb63ea1b5f2175c399d1a",
+    "genres": "ef9b7234d7e3618bd4443d9e7db75e158849c925054367b17d97e7c2a1f2cbd7"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Adam Gontier on the numbness behind Three Days Grace Pain",
+      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Fact and upload identity checked against historical details and cited source."
+    },
+    {
+      "surface": "description",
+      "claim": "Adam Gontier described Pain as being about feeling numb and being tired of that feeling. The Three Days Grace song appears on One-X, released in 2006.",
+      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song)",
+      "assessment": "Specific factual angle checked; director credits refer to artist videos, not this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "My bass part is performed beside the game display.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay is on screen",
+      "assessment": "User-confirmed playing format; no note-level, take-count or continuous-overlay claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, mirrored Twitch, Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in required order; no schedule or reward promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "three days grace",
+      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://rateyourmusic.com/release/album/three-days-grace/one-x/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "pain",
+      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://rateyourmusic.com/release/album/three-days-grace/one-x/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "three days grace pain",
+      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://rateyourmusic.com/release/album/three-days-grace/one-x/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "one x",
+      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://rateyourmusic.com/release/album/three-days-grace/one-x/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "one-x",
+      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://rateyourmusic.com/release/album/three-days-grace/one-x/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "adam gontier",
+      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://rateyourmusic.com/release/album/three-days-grace/one-x/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "brad walst",
+      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://rateyourmusic.com/release/album/three-days-grace/one-x/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "post grunge",
+      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://rateyourmusic.com/release/album/three-days-grace/one-x/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative rock",
+      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://rateyourmusic.com/release/album/three-days-grace/one-x/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "2006",
+      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://rateyourmusic.com/release/album/three-days-grace/one-x/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://rateyourmusic.com/release/album/three-days-grace/one-x/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://rateyourmusic.com/release/album/three-days-grace/one-x/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which song on One-X resonates most with you?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
+    },
+    {
+      "surface": "genres",
+      "claim": "Post-grunge",
+      "source": "https://rateyourmusic.com/release/album/three-days-grace/one-x/",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://rateyourmusic.com/release/album/three-days-grace/one-x/",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    }
+  ],
+  "distinct_fact_and_source": "Gontier account of emotional numbness ; https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song)",
+  "uniqueness_assessment": "No five-word collision signals in the available corpus. Distinct angles, questions and titles reviewed against available songs; unseen and future videos cannot be certified.",
+  "uncertainties_and_removed_claims": "Singer interpretation is attributed to him through a secondary report, not asserted as an exclusive reading. Screenshots are historical and incomplete; genre recommendations remain subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}
