@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "01f2a17689e94ba0b702bc9b0167135b06d856d7876f3324542811a378a286eb",
     "description": "97969d9114eb14c0c01cf41755d30a0c0ab6c12b6ef8068212614ce29985a7ee",
-    "tags": "b70e30a695512cb0134ced950e808936b50c91a1a1394ae72444726fb0a37235",
+    "tags": "11c0b802f1bc1c08c5df45eae177a10b53cdf7a296e27038db082f8afb0efcec",
     "pinned comment": "abe8f84853c0d24fa239d71a2c29ff66f199bbc1d2e462f198cf656bc01783bf",
     "genres": "b979af642a00669e99e3cd6b8809b44ad7f28634c201f8a3778fa5d58002227e"
   },
@@ -75,6 +75,12 @@
       "claim": "ramstein",
       "source": "https://www.last.fm/music/Ramstein",
       "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "till lindemann",
+      "source": "https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Lyrics use wording resembling German wedding vows. https://rammstein.fandom.com/wiki/Du_hast_(song)",

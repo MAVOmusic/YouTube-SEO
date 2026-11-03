@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "1f201ae7bab6ef867c2004f62a222769facadf2f8168f49ccbdc1825c4b33792",
     "description": "6a6d8d5cb54e8e3d0de6473e71453bc59aee7d727b7b931695a21e4c87527e39",
-    "tags": "f3895fbc87803c1d0cfb85588f96a3f0d40ebb3d1cba2a33f9f5d5e9ad8cf6ee",
+    "tags": "b88ae290e2fe06e66cd3f3602816764f2f04f8cc329720a823f22ebdbf8ffe23",
     "pinned comment": "e0d0301b48dc8396acba11551b873f25ee4a065d026dbafc6340363f43013b99",
     "genres": "a1574812ea508ba8196a8f9f9082b04ad4d2a0771f4dfcdfd25fd5f82ac38629"
   },
@@ -117,6 +117,18 @@
       "claim": "taking back sundy",
       "source": "https://www.billboard.com/pro/yellowcard-taking-back-sunday-headline-four-chord-music-festival/",
       "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "adam lazzara",
+      "source": "https://en.wikipedia.org/wiki/Taking_Back_Sunday",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "shaun cooper",
+      "source": "https://en.wikipedia.org/wiki/Taking_Back_Sunday",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Music video homage to Fight Club; source describes scene reenactments. https://www.songfacts.com/facts/taking-back-sunday/cute-without-the-e-cut-from-the-team",

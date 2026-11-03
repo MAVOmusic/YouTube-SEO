@@ -34,3 +34,10 @@ Existing per-song description claims, linked to their source and CO number. Chec
 - Music video homage to Fight Club; source describes scene reenactments.
   - Source: https://www.songfacts.com/facts/taking-back-sunday/cute-without-the-e-cut-from-the-team
 
+
+## People tags and usage - 2026-11-03
+
+Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
+
+- adam lazzara - https://en.wikipedia.org/wiki/Taking_Back_Sunday
+- shaun cooper - https://en.wikipedia.org/wiki/Taking_Back_Sunday

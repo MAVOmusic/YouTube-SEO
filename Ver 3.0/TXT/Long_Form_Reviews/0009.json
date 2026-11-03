@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "4e484095004e75644c482b929aa8c6326bb4ebb6cbdbb0eecdd519e52cc57399",
     "description": "f90d0e2c1cacd73ce0ead6c5b57ba6080a8e37eae4f5f2e5929d2514cbf99bc7",
-    "tags": "f6b44e80dc27bc7002d5e41ec3af59afb03dcc18497dacf60e821308bbd94993",
+    "tags": "1f8f0c855e5df3622d260b087eac7d76239c7aa6af1cf1dba64c98191420be3a",
     "pinned comment": "2dbd75eca3bd84eb0958f6c703c341a80843ce007a2f2e889365a0f2310f2941",
     "genres": "5edab9b53d36472e0d9ef065b325313cf6c627159215ee30220e49086c721888"
   },
@@ -183,6 +183,12 @@
       "claim": "my chemical romace",
       "source": "https://jhmoviecollection.fandom.com/wiki/My_Chemical_Romance ; https://soundcloud.com/doddsys-devils/sets/my-chemical-romace",
       "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "gerard way",
+      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Album track position and predecessor, distinct from other MCR uploads. https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/",

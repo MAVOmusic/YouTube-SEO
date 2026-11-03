@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "0c442b5009a24fb0df82bda2673c7c5bf9b178c245a63f285394336b4939a15a",
     "description": "efc70405d3d142f6a733f17123c02b9af2718727886aaf3bdb0a65b3134a32e0",
-    "tags": "c4c385e4602c6f5c89e48e9572427f8dddca0a9fc9c60d81a43500d16791a596",
+    "tags": "54dda0afed3344c7d9c880da7195f61bbddcad3568e61839c622108ba8f2a90d",
     "pinned comment": "a289d71404476d658620dd97821f63cc66669433d9ca4568b07f1b0dca934ca0",
     "genres": "83bc46a716bf9760d0654bdd4332cdd6282cbe5fc5d814b52e2df41927600480"
   },
@@ -183,6 +183,12 @@
       "claim": "greenday",
       "source": "http://technologytrins.weebly.com/greenday.html",
       "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "billie joe armstrong",
+      "source": "https://en.wikipedia.org/wiki/Green_Day",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "The cassette video and the song inspiration, rather than the trilogy facts used in 0027. https://en.wikipedia.org/wiki/X-Kid",

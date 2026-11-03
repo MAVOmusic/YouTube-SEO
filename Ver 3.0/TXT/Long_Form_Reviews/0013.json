@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "92dc9c7a3d1da616dee5c17c8464d3b9b77ed7467bf8a2afc89e3799d45e19a4",
     "description": "ccdb4ed2d30fd538d53b604cdeba827188a685ee6ca7441c86f40e5243f592cb",
-    "tags": "95831d4bfb2ba5ef43a18cb3192dcb7f576008a351faefa0ad6577721d58ef77",
+    "tags": "4227ddeeb73a6d73450b240d0f42bff2aec090f1c4eac7ceceed97ae5ec789c0",
     "pinned comment": "edaf09f02fce00e03f32dac3ad01f6800d672b0371815d422e3582f8393f99f1",
     "genres": "b4ea4039e2510171c90c05a0287d92576a819d46f35e1825a2867e0e2beb6a0f"
   },
@@ -69,6 +69,12 @@
       "claim": "Thrash metal",
       "source": "https://en.wikipedia.org/wiki/Slayer",
       "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "tags",
+      "claim": "kerry king",
+      "source": "https://en.wikipedia.org/wiki/Slayer",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Album opener and first video attempt at Wembley Arena in October 1990. https://www.kerrang.com/slayer-the-stories-behind-20-of-their-biggest-songs",

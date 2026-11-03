@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "204539937a10b6fb816491efd67c27711b2d793b40c51abb8e7f351eee7ca166",
     "description": "075974b7effee6056a7f37363350c036714e57d2c5f6c7798f94bcb2ac9ee91f",
-    "tags": "440b0531dc50ed44fef2272df014816eeecd42d78b0ad71816b402a5227fe7cf",
+    "tags": "c96dc506f2a358621e48133345041c60b6dd633032f4fe241896499926e537f2",
     "pinned comment": "bb688b90a8012bfde32b2aa172a2906a7e62750e8d3459af7ab6fc258c8e857c",
     "genres": "dbc46644a49799d4353d9809c27aa9779580d287930057ea2df331e86811cd03"
   },
@@ -93,6 +93,18 @@
       "claim": "rage against the mashine",
       "source": "https://m.soundcloud.com/vladislav-tsaregorodtsev/sets/rage-against-the-mashine",
       "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "zack de la rocha",
+      "source": "https://en.wikipedia.org/wiki/Rage_Against_the_Machine",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "tom morello",
+      "source": "https://en.wikipedia.org/wiki/Rage_Against_the_Machine",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Third track and Tim Commerford bass credit, as distinct from other Rage recordings. https://www.shazam.com/song/191450956/take-the-power-back",

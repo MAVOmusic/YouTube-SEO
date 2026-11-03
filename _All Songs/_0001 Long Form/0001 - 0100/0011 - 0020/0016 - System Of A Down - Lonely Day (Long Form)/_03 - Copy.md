@@ -20,10 +20,10 @@ Listen for how the low end fits around the vocal and guitar, with my bass playin
 💬 Discuss your go-to ballad with our Discord crowd; a boost means a lot: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (13 tags, 216/500 characters)
+## TAGS (16 tags, 262/500 characters)
 
 ```text
-system of a down, lonely day, system of a down lonely day, hypnotize, alternative metal, soad, soad bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, rocksmith bass system of a down, system of a dowm
+system of a down, lonely day, system of a down lonely day, hypnotize, alternative metal, soad, soad bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, rocksmith bass system of a down, system of a dowm, daron malakian, serj tankian, shavo odadjian
 ```
 
 ## PINNED COMMENT (63 characters)

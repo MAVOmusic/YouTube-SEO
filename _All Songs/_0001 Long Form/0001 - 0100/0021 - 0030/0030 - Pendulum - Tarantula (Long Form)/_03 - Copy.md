@@ -2,10 +2,10 @@
 
 > Copy the title, description and tags. Genre findings are for playlist decisions only.
 
-## TITLE (51 characters)
+## TITLE (66 characters)
 
 ```text
-Pendulum and DJ Fresh join forces on Tarantula bass
+Tarantula brings Pendulum and DJ Fresh together - bass playthrough
 ```
 
 ## DESCRIPTION (471 characters)
@@ -20,10 +20,10 @@ I bring the low end to this collaboration on Rocksmith bass.
 💬 Head to Discord with a DnB collaboration you rate; optional boosts help the community: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 210/500 characters)
+## TAGS (17 tags, 239/500 characters)
 
 ```text
-pendulum, tarantula, pendulum tarantula, dj fresh, spyda, tenor fly, hold your colour, drum and bass, dancefloor drum and bass, ragga jungle, 2005, bass cover, rocksmith bass, rocksmith 2014, tarantula pendulum
+pendulum, tarantula, pendulum tarantula, dj fresh, spyda, tenor fly, hold your colour, drum and bass, dancefloor drum and bass, ragga jungle, 2005, bass cover, rocksmith bass, rocksmith 2014, tarantula pendulum, rob swire, gareth mcgrillen
 ```
 
 ## PINNED COMMENT (56 characters)
@@ -34,11 +34,11 @@ Pick a drum and bass track for a bass-guitar adaptation.
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-supported playlist suggestions, not an objective or exhaustive classification. These are release-level classifications. See the review record for source and limitations.
+Artist-level genres from https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band); the consistent artist list is not a claim that this particular recording fits every genre. See Band Info/Pendulum/Register.md.
 
 ## CORRECT GENRES
 
 - Drum and bass
-- Dancefloor drum and bass
-- Jump-up
-- Ragga jungle
+- Electronic rock
+- Industrial rock
+- Dance-rock

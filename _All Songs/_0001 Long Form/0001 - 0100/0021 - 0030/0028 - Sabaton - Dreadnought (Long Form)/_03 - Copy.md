@@ -2,10 +2,10 @@
 
 > Copy the title, description and tags. Genre findings are for playlist decisions only.
 
-## TITLE (62 characters)
+## TITLE (58 characters)
 
 ```text
-Dreadnought inspires Sabaton: a bass run through naval history
+How heavy can Dreadnought feel? A Sabaton bass playthrough
 ```
 
 ## DESCRIPTION (511 characters)
@@ -20,10 +20,10 @@ Watch the Rocksmith chart while I take the bass part through Sabaton's song.
 💬 Discuss songs inspired by history in Discord; optional boosts are appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (10 tags, 141/500 characters)
+## TAGS (13 tags, 179/500 characters)
 
 ```text
-sabaton, dreadnought, sabaton dreadnought, the war to end all wars, power metal, 2022, bass cover, rocksmith bass, rocksmith 2014, rock smith
+sabaton, dreadnought, sabaton dreadnought, the war to end all wars, power metal, 2022, bass cover, rocksmith bass, rocksmith 2014, rock smith, joakim broden, par sundstrom, sabton
 ```
 
 ## PINNED COMMENT (68 characters)
@@ -34,8 +34,9 @@ Which historical subject would you like Sabaton to write about next?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-supported playlist suggestions, not an objective or exhaustive classification. These are album-level labels, not proof that every track has every characteristic. See the review record for source and limitations.
+Artist-level genres from https://www.pressure-magazine.de/bandprofil/sabaton-266680/; the consistent artist list is not a claim that this particular recording fits every genre. See Band Info/Sabaton/Register.md.
 
 ## CORRECT GENRES
 
 - Power metal
+- Heavy metal

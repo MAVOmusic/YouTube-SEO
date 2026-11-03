@@ -44,3 +44,9 @@ Existing per-song description claims, linked to their source and CO number. Chec
 
 - Du Hast lyrics use wording from German wedding vows.
 - Source: https://rammstein.fandom.com/wiki/Du_hast_(song)
+
+## People tags and usage - 2026-11-03
+
+Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
+
+- till lindemann - https://www.wikiwand.com/en/Rammstein

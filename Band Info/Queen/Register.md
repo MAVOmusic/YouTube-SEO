@@ -40,3 +40,9 @@ Existing per-song description claims, linked to their source and CO number. Chec
 
 - I Want To Break Free was written by Queen bassist John Deacon.
 - Source: https://en.wikipedia.org/wiki/I_Want_to_Break_Free
+
+## People tags and usage - 2026-11-03
+
+Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
+
+- brian may - https://en.wikipedia.org/wiki/Queen_(band)

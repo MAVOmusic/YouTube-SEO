@@ -2,10 +2,10 @@
 
 > Copy the title, description and tags. Genre findings are for playlist decisions only.
 
-## TITLE (56 characters)
+## TITLE (57 characters)
 
 ```text
-Archangel and Paradise Lost: Amaranthe on Rocksmith bass
+Paradise Lost inspires Archangel - Amaranthe in Rocksmith
 ```
 
 ## DESCRIPTION (511 characters)
@@ -20,10 +20,10 @@ My bass performance follows Amaranthe into that literary subject, with the game 
 💬 Recommend a song with a literary connection in Discord; feel free to boost the server: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (12 tags, 162/500 characters)
+## TAGS (14 tags, 191/500 characters)
 
 ```text
-amaranthe, archangel, amaranthe archangel, manifest, paradise lost, john milton, trance metal, melodic metalcore, 2020, bass cover, rocksmith bass, rocksmith 2014
+amaranthe, archangel, amaranthe archangel, manifest, paradise lost, john milton, trance metal, melodic metalcore, 2020, bass cover, rocksmith bass, rocksmith 2014, elize ryd, johan andreassen
 ```
 
 ## PINNED COMMENT (50 characters)
@@ -34,9 +34,13 @@ What other metal song led you to a book or a poem?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-supported playlist suggestions, not an objective or exhaustive classification. These are album-level labels, not proof that every track has every characteristic. See the review record for source and limitations.
+Artist-level genres from https://en.wikipedia.org/wiki/Amaranthe; the consistent artist list is not a claim that this particular recording fits every genre. See Band Info/Amaranthe/Register.md.
 
 ## CORRECT GENRES
 
 - Trance metal
-- Melodic metalcore
+- Metalcore
+- Melodic death metal
+- Power metal
+- Symphonic metal
+- Pop metal

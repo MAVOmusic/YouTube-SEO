@@ -20,10 +20,10 @@ Follow the bass chart on screen and listen to how the part fits against the rest
 💬 Tell Discord which early Motionless In White track to revisit; community boosts are appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (17 tags, 278/500 characters)
+## TAGS (20 tags, 324/500 characters)
 
 ```text
-motionless in white, abigail, motionless in white abigail, creatures, metalcore, horror metal, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2010, bass guitar, play along, motionless in white bass cover, rocksmith bass motionless in white, miw, motionles in white
+motionless in white, abigail, motionless in white abigail, creatures, metalcore, horror metal, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2010, bass guitar, play along, motionless in white bass cover, rocksmith bass motionless in white, miw, motionles in white, chris motionless, chris cerulli, ricky olson
 ```
 
 ## PINNED COMMENT (91 characters)

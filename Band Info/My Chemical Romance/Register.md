@@ -52,3 +52,9 @@ Imported from the existing per-song reviews for this artist. CO numbers indicate
 
 - The Foundations Of Decay was their first single since Fake Your Death in 2014, released in 2022; the band reunited in 2019.
 - Source: https://en.wikipedia.org/wiki/The_Foundations_of_Decay
+
+## People tags and usage - 2026-11-03
+
+Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
+
+- gerard way - https://en.wikipedia.org/wiki/My_Chemical_Romance

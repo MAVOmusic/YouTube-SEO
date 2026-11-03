@@ -72,3 +72,13 @@ Imported from the existing per-song reviews for this artist. CO numbers indicate
 - Another Life credits Chris Cerulli, Drew Fulk and Josh Strock as songwriters. Motionless In White included it on Disguise in 2019.
   - Source: https://www.lyricsondemand.com/motionless_in_white/another_life ; https://loudwire.com/motionless-in-white-new-songs-disguise-album/ ; https://genius.com/Motionless-in-white-another-life-lyrics
 
+
+## People tags and usage - 2026-11-03
+
+Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
+
+- chris motionless - https://www.songfacts.com/facts/motionless-in-white
+- chris cerulli - https://www.songfacts.com/facts/motionless-in-white
+- justin morrow - https://www.songfacts.com/facts/motionless-in-white
+- ricky olson - https://www.songfacts.com/facts/motionless-in-white
+- devin sola - https://www.songfacts.com/facts/motionless-in-white

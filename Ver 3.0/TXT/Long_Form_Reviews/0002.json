@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "404401573a2143b148509d1b60d51895265e98eb7848ce3ef3337bf61bd0c72d",
     "description": "0283959343f5feaf3a14deb86a20420d2577481f8863a4b11e0886036771e218",
-    "tags": "2926733597f447eca3c3167842a7f56895e6cf6849b26bead48c8178b81943c1",
+    "tags": "cdeb68288bac76836c6c066a52ab768eb95a01d02b127ea2bee3124310c69d93",
     "pinned comment": "41e5094b3198a6e1799bdc8e4379c814ea341ae59d0bc6a3f060b923500cff08",
     "genres": "95ac3ff9537bfdc77b6c20d19ab840c5aeeaae280caf43f6b64a3206bd91be82"
   },
@@ -177,6 +177,24 @@
       "claim": "motionles in white",
       "source": "https://www.metalkingdom.net/band/motionless-in-white-13548 ; https://www.teepublic.com/long-sleeve-t-shirt/68020707-motionlesss-in-white-band",
       "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris motionless",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris cerulli",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "justin morrow",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Audience feedback informed the selection of the single, distinct from the director angle on 0004. https://www.altpress.com/motionless-in-white-another-life-music-video/",

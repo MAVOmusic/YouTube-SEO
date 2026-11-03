@@ -2,10 +2,10 @@
 
 > Copy the title, description and tags. Genre findings are for playlist decisions only.
 
-## TITLE (60 characters)
+## TITLE (63 characters)
 
 ```text
-From Fist for Fight to bass: Sabaton's The Hammer Has Fallen
+Early Sabaton revisited: The Hammer Has Fallen bass playthrough
 ```
 
 ## DESCRIPTION (486 characters)
@@ -20,10 +20,10 @@ I picked up my bass for this early Sabaton track, with the game chart visible.
 💬 Exchange early-era metal discoveries on Discord; optional boosts support the community: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (10 tags, 148/500 characters)
+## TAGS (12 tags, 178/500 characters)
 
 ```text
-sabaton, the hammer has fallen, sabaton the hammer has fallen, fist for fight, power metal, 2001, bass cover, rocksmith bass, rocksmith 2014, sabton
+sabaton, the hammer has fallen, sabaton the hammer has fallen, fist for fight, power metal, 2001, bass cover, rocksmith bass, rocksmith 2014, sabton, joakim broden, par sundstrom
 ```
 
 ## PINNED COMMENT (83 characters)
@@ -34,8 +34,9 @@ What early Sabaton track would you recommend to someone who knows the later albu
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-supported playlist suggestions, not an objective or exhaustive classification. These are album-level labels, not proof that every track has every characteristic. See the review record for source and limitations.
+Artist-level genres from https://www.pressure-magazine.de/bandprofil/sabaton-266680/; the consistent artist list is not a claim that this particular recording fits every genre. See Band Info/Sabaton/Register.md.
 
 ## CORRECT GENRES
 
 - Power metal
+- Heavy metal

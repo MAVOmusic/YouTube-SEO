@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "b67178f1336c8c336d12be8251bf38c042a7250c5a6777d7156954c5f98a66c4",
     "description": "849a4ac2ec7da7530d56987a2d20802bfcabb0d2b330ebae53684e9dfd39d070",
-    "tags": "0ed5f9dff317a742fe6820284d2e2a3cc71f1628191f7f31061b848f56a68f6d",
+    "tags": "c66995f2e855010ff1512be296a9399ecb14010856293c6ecfd730483369d579",
     "pinned comment": "ca9a5ea82bdacc28285ae4de12d42b10fdcf850a810e53702ff7e6d2ec5b826d",
     "genres": "9a9f3faf7ac89f75f77220c9203dfcc4d1cdf98b31edd8903eea6c096c58651e"
   },
@@ -165,6 +165,18 @@
       "claim": "burzam",
       "source": "https://www.last.fm/music/burzam",
       "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "varg",
+      "source": "https://rateyourmusic.com/artist/burzum",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "varg vikernes",
+      "source": "https://rateyourmusic.com/artist/burzum",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Album-level ambient/dungeon synth classification; 2014 album placement and a long loop. https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb",

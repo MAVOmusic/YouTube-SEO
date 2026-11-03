@@ -20,10 +20,10 @@ Follow the chart on screen and take the sections at a pace that works for you. W
 💬 Ask your practice questions in Discord; thank you to the people who boost our server: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (16 tags, 263/500 characters)
+## TAGS (19 tags, 311/500 characters)
 
 ```text
-another life, motionless in white, motionless in white another life, bass play along, play along bass, rocksmith bass, disguise, post grunge, alternative metal, learn bass, bass cover, 2019, bass guitar, rocksmith bass motionless in white, miw, motionles in white
+another life, motionless in white, motionless in white another life, bass play along, play along bass, rocksmith bass, disguise, post grunge, alternative metal, learn bass, bass cover, 2019, bass guitar, rocksmith bass motionless in white, miw, motionles in white, chris motionless, chris cerulli, justin morrow
 ```
 
 ## PINNED COMMENT (65 characters)

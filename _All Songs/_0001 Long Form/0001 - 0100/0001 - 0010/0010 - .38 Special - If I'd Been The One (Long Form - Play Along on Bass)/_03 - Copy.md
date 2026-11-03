@@ -20,10 +20,10 @@ Listen to how the low end sits alongside the guitars and vocal, then follow the 
 💬 Talk classic rock with us in Discord; thanks to our server boosters: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 215/500 characters)
+## TAGS (17 tags, 243/500 characters)
 
 ```text
-38 special, if id been the one, southern rock, classic rock, tour de force, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass guitar, 80s rock, rock bass, play along, thirty eight special, 38 speical
+38 special, if id been the one, southern rock, classic rock, tour de force, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass guitar, 80s rock, rock bass, play along, thirty eight special, 38 speical, don barnes, larry junstrom
 ```
 
 ## PINNED COMMENT (57 characters)

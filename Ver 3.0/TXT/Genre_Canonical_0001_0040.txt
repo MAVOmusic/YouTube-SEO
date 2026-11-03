@@ -18,7 +18,7 @@
 #   He reads the block as a shopping list, so anything printed in it gets added -
 #   including the rows that said DO NOT ADD. The block was self-defeating.
 #
-# HISTORICAL RULE (superseded for 0001-0020 on 2026-11-03; see note below)
+# HISTORICAL RULE (superseded for 0001-0030 on 2026-11-03; see note below)
 #   GENRE FINDINGS   - internal only. Lives in the audit log and the copy file.
 #                      Holds the research, the grey areas and the exclusions.
 #   CORRECT GENRES   - the only thing MAVO sees. Genres that genuinely apply to
@@ -33,10 +33,10 @@
 # best two-word answer.
 # ============================================================================
 
-  NOTE: 0001-0020 now use consistent artist-level lists; they are not song-level classifications.
-  Rows 0021-0040 retain the earlier song-level approach until individually revised.
+  NOTE: 0001-0030 now use consistent artist-level lists; they are not song-level classifications.
+  Rows 0031-0040 retain the earlier song-level approach until individually revised.
 
-  CO    SONG                                   GENRES (artist-level for 0001-0020)
+  CO    SONG                                   GENRES (artist-level for 0001-0030)
   ----  -------------------------------------  ----------------------------------------------
   0001  Burzum - Autumn Leaves                 Ambient / Dungeon synth / Black metal / Atmospheric black metal / Dark ambient
   0002  Motionless In White - Another Life     Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
@@ -58,16 +58,16 @@
   0018  Discord (Living Tombstone Remix)       Eurobeat / Electronic dance music
   0019  Rage Against The Machine - Take Power  Rap metal / Rap rock / Funk metal / Alternative metal
   0020  BABYMETAL - Megitsune                  Kawaii metal / J-pop / Power metal / Alternative metal
-  0021  Elvis Presley - Jailhouse Rock  Rock and roll / Rockabilly
-  0022  Avril Lavigne - Together  Post-grunge / Pop rock
-  0023  Sabaton - Camouflage  Power metal
-  0024  Sabaton - The Hammer Has Fallen  Power metal
+  0021  Elvis Presley - Jailhouse Rock  Rock and roll / Rockabilly / Pop / Country / Gospel / R&B
+  0022  Avril Lavigne - Together  Pop punk / Alternative rock / Pop rock / Pop
+  0023  Sabaton - Camouflage  Power metal / Heavy metal
+  0024  Sabaton - The Hammer Has Fallen  Power metal / Heavy metal
   0025  Aephanemer - Old French Song  Melodic death metal / Symphonic metal
-  0026  Alien Fucker - Arabic UFO Party  Grindcore / Pornogrind / Cybergrind
-  0027  Green Day - X-Kid  Pop punk / Power pop / Punk rock
-  0028  Sabaton - Dreadnought  Power metal
-  0029  Amaranthe - Archangel  Trance metal / Melodic metalcore
-  0030  Pendulum - Tarantula  Drum and bass / Dancefloor drum and bass / Jump-up / Ragga jungle
+  0026  Alien Fucker - Arabic UFO Party  Grindcore / Cybergrind / Pornogrind / Black metal / Death metal / Goregrind / Deathgrind
+  0027  Green Day - X-Kid  Punk rock / Pop punk / Alternative rock / Skate punk / Power pop
+  0028  Sabaton - Dreadnought  Power metal / Heavy metal
+  0029  Amaranthe - Archangel  Trance metal / Metalcore / Melodic death metal / Power metal / Symphonic metal / Pop metal
+  0030  Pendulum - Tarantula  Drum and bass / Electronic rock / Industrial rock / Dance-rock
   0031  All Time Low - Dear Maria, Count Me In  Pop punk / Power pop / Emo pop
   0032  System Of A Down - Roulette  Acoustic rock
   0033  Motionless In White - Another Life  Post-grunge / Alternative metal

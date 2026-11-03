@@ -31,3 +31,10 @@ Imported from the existing per-song reviews for this artist. CO numbers indicate
 - Autumn Leaves appears on The Ways of Yore, released in 2014.
   - Source: https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb
 
+
+## People tags and usage - 2026-11-03
+
+Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
+
+- varg - https://rateyourmusic.com/artist/burzum
+- varg vikernes - https://rateyourmusic.com/artist/burzum

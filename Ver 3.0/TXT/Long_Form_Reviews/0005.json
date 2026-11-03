@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "1feea1bd80f34a33347c95e49f0ce99567549f6b0c2b3a3325f243cbea85cb1c",
     "description": "1e6d6b8a362d0415e7875c43b592774ba4afb3ed818d033aed39a1ae71d5c67f",
-    "tags": "6e2017a5b605368fbd09b491e32b41641ec7ecf01579c8fcbfc098212a99bff7",
+    "tags": "48f50a9e6c56aed9ca17d87f2ce5e9f3d0eadbe804e2f9f2ed92cad2b221c73f",
     "pinned comment": "5a95d5f4c0fc93c6fc2a9897a8f78bba44c2afe05a8c2d9dc89e8002f9c479dd",
     "genres": "95ac3ff9537bfdc77b6c20d19ab840c5aeeaae280caf43f6b64a3206bd91be82"
   },
@@ -183,6 +183,24 @@
       "claim": "motionles in white",
       "source": "https://www.metalkingdom.net/band/motionless-in-white-13548 ; https://www.teepublic.com/long-sleeve-t-shirt/68020707-motionlesss-in-white-band",
       "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris motionless",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris cerulli",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "ricky olson",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Salem witch-trial subject according to artist interview, different from the Dee Snider cameo on 0007. http://mousertime.blogspot.com/2011/02/motionless-in-white-interview-with.html",

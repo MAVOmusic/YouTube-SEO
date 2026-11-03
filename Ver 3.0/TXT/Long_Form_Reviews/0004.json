@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "08d20129646394a3a6e4a740ded08dbf9ec6ff09cc6a80d411309eb0aad2621b",
     "description": "25845a27997ff15f316a28b1b138fb01c8e494c69a161bad7edbc1e4ba49a9a8",
-    "tags": "888c6aefa8a8e48aed18978d1d5c20eedc578bce0539f087109e921cd48cf273",
+    "tags": "42fa4c41460b067bbd8d3895acbebf963ab15374edefa88aa627da50bc263763",
     "pinned comment": "15e9ada911bbe1974bdf61aea040555835ae6c039f56dc4adabc2d9098963e35",
     "genres": "95ac3ff9537bfdc77b6c20d19ab840c5aeeaae280caf43f6b64a3206bd91be82"
   },
@@ -177,6 +177,24 @@
       "claim": "motionles in white",
       "source": "https://www.metalkingdom.net/band/motionless-in-white-13548 ; https://www.teepublic.com/long-sleeve-t-shirt/68020707-motionlesss-in-white-band",
       "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris motionless",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris cerulli",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "justin morrow",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Director credit, different from fan-selection angle in 0002; 0033 remains subject to independent review. https://imvdb.com/video/motionless-in-white/another-life",

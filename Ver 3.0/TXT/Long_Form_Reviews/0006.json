@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "21d436501b720c7439266e0f56f2309a70e2a9fd514ea935b857fd27922cd83e",
     "description": "780f08c6b94f90f16f8b15d3ceeab531a1918a2473f5046c64c6c806af50504e",
-    "tags": "1a0b66f09fa80e64180c4d2b6ee300da53fa934e86e934ec8a85e5a678e3087f",
+    "tags": "cdbac9785ee5a2a22bbcd59d6dab239c950e91a081e3c8bdea8bae0fa0bc6ba9",
     "pinned comment": "a0a2adb1beb84e4b97dd1cc8f372c23cc2442fdbb4c87378d4a5899eac4966a7",
     "genres": "95ac3ff9537bfdc77b6c20d19ab840c5aeeaae280caf43f6b64a3206bd91be82"
   },
@@ -183,6 +183,24 @@
       "claim": "motionles in white",
       "source": "https://www.metalkingdom.net/band/motionless-in-white-13548 ; https://www.teepublic.com/long-sleeve-t-shirt/68020707-motionlesss-in-white-band",
       "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris motionless",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris cerulli",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "devin sola",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Shawn Crahan music-video director credit for America. https://imvdb.com/video/motionless-in-white/america",

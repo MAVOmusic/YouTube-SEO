@@ -20,10 +20,10 @@ Use the chart as a guide and decide which section of this bass performance you w
 💬 Bring your Rammstein picks to Discord; support through a boost is appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 191/500 characters)
+## TAGS (15 tags, 207/500 characters)
 
 ```text
-rammstein, du hast, rammstein du hast, sehnsucht, industrial metal, oliver riedel, ramstein, bass cover, bass play along, rocksmith bass, rocksmith 2014, 1997, neue deutsche harte, metal bass
+rammstein, du hast, rammstein du hast, sehnsucht, industrial metal, oliver riedel, ramstein, bass cover, bass play along, rocksmith bass, rocksmith 2014, 1997, neue deutsche harte, metal bass, till lindemann
 ```
 
 ## PINNED COMMENT (81 characters)

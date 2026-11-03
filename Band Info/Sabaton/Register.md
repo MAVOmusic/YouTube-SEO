@@ -1,0 +1,73 @@
+# Sabaton - artist info
+
+## Band-level genres (playlist reference)
+
+- Power metal
+- Heavy metal
+
+Source: https://www.pressure-magazine.de/bandprofil/sabaton-266680/
+Artist-level classification is subjective and does not prove that every track has each style.
+
+## People, names and aliases
+
+- joakim broden - https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m
+- par sundstrom - https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m
+- sabton - https://www.reddit.com/r/sabaton/comments/pxrhnu/just_getting_into_sabton_i_need_some_suggestions/
+
+Artist associations are not evidence that a person played on a particular recording; verify recording credits and dates before attributing them. Spelling observations do not establish search frequency.
+
+## Song fact and usage index
+
+Previously reviewed claims and sources; check sources and current copy before reuse. CO numbers identify prior usage or research.
+
+### CO-0023 - 0023 - Sabaton - Camouflage (Long Form)
+
+- Stan Ridgway released Camouflage in 1986.
+  - Source: https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; https://www.sabaton.net/discography/the-last-stand/
+- Sabaton later covered it on special editions of the 2016 album The Last Stand as a bonus.
+  - Source: https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; https://www.sabaton.net/discography/the-last-stand/
+
+### CO-0024 - 0024 - Sabaton - The Hammer Has Fallen (Long Form)
+
+- The Hammer Has Fallen appears on Sabaton's Fist for Fight, a 2001 release.
+  - Source: https://www.nuclearblast.com/pages/album/fist-for-fight; https://genius.com/Sabaton-the-hammer-has-fallen-lyrics
+- The track is listed sixth on the release.
+  - Source: https://www.nuclearblast.com/pages/album/fist-for-fight; https://genius.com/Sabaton-the-hammer-has-fallen-lyrics
+
+### CO-0028 - 0028 - Sabaton - Dreadnought (Long Form)
+
+- Sabaton say Dreadnought grew from music that reminded them of a heavy ship at sea.
+  - Source: https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://sabaton.bandcamp.com/track/dreadnought; https://www.sabaton.net/news/store/merch-drop-premium-dreadnought-collection-now-available/
+- The song appears on The War To End All Wars, released in 2022.
+  - Source: https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://sabaton.bandcamp.com/track/dreadnought; https://www.sabaton.net/news/store/merch-drop-premium-dreadnought-collection-now-available/
+
+### CO-0034 - 0034 - Sabaton - Steel Commanders (Long Form)
+
+- Sabaton worked with World of Tanks developer Wargaming on the Steel Commanders music video, which features cellist Tina Guo. Its release year was 2021.
+  - Source: https://blabbermouth.net/news/sabaton-collaborates-with-wargaming-game-developer-on-steel-commanders-music-video ; https://sabaton.bandcamp.com/track/steel-commanders
+
+### CO-0036 - 0036 - Sabaton - Man Of War (Long Form)
+
+- Man of War is a Sabaton bonus track on editions of the 2014 album Heroes. The song references Manowar's catalogue as a tribute to the band.
+  - Source: https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics ; https://www.teethofthedivine.com/reviews/sabaton-heroes/
+
+### CO-0039 - 0039 - Sabaton - En Livstid I Krig (Long Form)
+
+- En Livstid I Krig appears on the Swedish edition of Sabaton's Carolus Rex. The band also released an English-language version called A Lifetime of War.
+  - Source: https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; https://www.sabaton.net/news/music/carolus-rex-available-with-both-swedish-and-english-lyrics/
+
+### CO-0058 - 0058 - Sabaton - The Lion From The North (Long Form)
+
+- Sabaton say the story of Swedish king Gustavus Adolphus inspired The Lion From The North. It follows the instrumental Dominium Maris Baltici on their 2012 album Carolus Rex.
+  - Source: https://www.sabaton.net/historical-facts/gustavus-adolphus-crowned/ ; https://www.sabaton.net/discography/carolus-rex/
+
+### CO-0061 - 0061 - Sabaton - Ghost Division (Long Form)
+
+- Sabaton describe Ghost Division as a song about the German 7th Panzer Division and its 1940 campaign in Belgium and France. It appears on The Art of War, released in 2008.
+  - Source: https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/
+
+### CO-0064 - 0064 - Sabaton - Primo Victoria (Long Form)
+
+- Sabaton say they wrote Primo Victoria after watching Saving Private Ryan. Their song concerns the 1944 D-Day landings and features on the album Primo Victoria, released in 2005.
+  - Source: https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/
+

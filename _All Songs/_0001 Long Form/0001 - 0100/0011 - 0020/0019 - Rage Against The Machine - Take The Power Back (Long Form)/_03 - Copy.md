@@ -21,10 +21,10 @@ There is a Rocksmith guide on screen if you want to work through the bass part w
 💬 Compare basslines with the Discord community; a boost is appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 215/500 characters)
+## TAGS (17 tags, 246/500 characters)
 
 ```text
-rage against the machine, take the power back, ratm, ratm bass, tim commerford, funk metal, rap metal, rap rock, funk rock, bass cover, bass play along, rocksmith bass, rocksmith 2014, 1992, rage against the mashine
+rage against the machine, take the power back, ratm, ratm bass, tim commerford, funk metal, rap metal, rap rock, funk rock, bass cover, bass play along, rocksmith bass, rocksmith 2014, 1992, rage against the mashine, zack de la rocha, tom morello
 ```
 
 ## PINNED COMMENT (62 characters)

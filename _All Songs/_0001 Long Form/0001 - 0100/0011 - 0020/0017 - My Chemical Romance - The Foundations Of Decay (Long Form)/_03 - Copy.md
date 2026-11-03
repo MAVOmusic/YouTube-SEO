@@ -20,10 +20,10 @@ Hear how this later single sits beside the earlier catalogue while following my 
 💬 Suggest an MCR song in Discord, with thanks to anyone who chooses to boost: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (16 tags, 274/500 characters)
+## TAGS (17 tags, 286/500 characters)
 
 ```text
-my chemical romance, foundations of decay, the foundations of decay, mcr, mcr bass, foundations of decay bass, mikey way, emo bass, return of my chemical romance, bass cover, bass play along, rocksmith bass, rocksmith 2014, alternative rock bass, my chem, my chemical romace
+my chemical romance, foundations of decay, the foundations of decay, mcr, mcr bass, foundations of decay bass, mikey way, emo bass, return of my chemical romance, bass cover, bass play along, rocksmith bass, rocksmith 2014, alternative rock bass, my chem, my chemical romace, gerard way
 ```
 
 ## PINNED COMMENT (68 characters)
