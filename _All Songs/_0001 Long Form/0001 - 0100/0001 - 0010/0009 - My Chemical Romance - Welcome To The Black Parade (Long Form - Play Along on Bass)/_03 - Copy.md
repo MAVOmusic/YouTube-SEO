@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (63 characters)
+## TITLE (65 characters)
 
 ```text
-Mikey Way and My Chemical Romance, five minutes of Black Parade
+Following My Chemical Romance through Welcome To The Black Parade
 ```
 
 ## DESCRIPTION (545 characters)
@@ -20,10 +20,10 @@ The song moves through several sections over its five-minute album recording. Us
 💬 Compare Black Parade tracks with the Discord community; every server boost is appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 201/500 characters)
+## TAGS (14 tags, 191/500 characters)
 
 ```text
-my chemical romance, welcome to the black parade, black parade, mcr, mikey way, emo, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2006, bass guitar, the black parade
+my chemical romance, welcome to the black parade, black parade, mcr, mikey way, emo, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2006, bass guitar, the black parade
 ```
 
 ## PINNED COMMENT (53 characters)

@@ -20,10 +20,10 @@ Use the visible Rocksmith chart to follow the arrangement, and listen for the ch
 💬 Discuss the song in Discord; a community boost is always appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 227/500 characters)
+## TAGS (13 tags, 217/500 characters)
 
 ```text
-motionless in white, masterpiece, motionless in white masterpiece, scoring the end of the world, alternative metal, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2022, bass guitar, play along
+motionless in white, masterpiece, motionless in white masterpiece, scoring the end of the world, alternative metal, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2022, bass guitar, play along
 ```
 
 ## PINNED COMMENT (106 characters)

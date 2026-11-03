@@ -356,3 +356,64 @@ Release record checks passed, meaning records/hashes and attestations exist, NOT
 that software verifies truth. The remaining 0021-0070 still require the same
 review, and 0001-0010 do not yet have the new full evidence records. User wants
 full handoff after all 70, so do not ask for interim live edits.
+
+2026-11-03 - 0001-0010 FULL EVIDENCE/UNIQUENESS RECHECK
+User explicitly requests corrections directly in song MD files, NO paste-ready
+handoff for 0001-0070; paste-ready handoff resumes at 0071 when review is done.
+Do not assert that correcting files changes the user's current live metadata.
+
+Each of ten historical Details/title screenshots and ten historical pin images
+was visually inspected. IMPORTANT CORRECTION to the earlier image note: Details
+images are widely misfiled, not simply 0002/0004 swapped. Folder -> actual song:
+0001->0001, 0002->0002, 0003->0004, 0004->0009, 0005->0008,
+0006->0005, 0007->0006, 0008->0010, 0009->0007, 0010->0003.
+Match by visible title/video ID, not the filename. Pinned screenshots show old
+creator messages; they do not demonstrate what is currently pinned or whether
+an artist comment is present now. User confirmation that they play bass over the
+overlay takes precedence over old descriptions saying otherwise. Screenshot
+still cannot establish entire-video playing details, instrument or tuning.
+
+Corrected 0001-0010 file surfaces and evidence recorded individually under
+TXT/Long_Form_Reviews/0001.json to 0010.json. Replaced 0005 title implying the
+2010 debut somehow turned a pre-existing band 'back into' a horror band, 0008
+and 0009 titles implying original bassists performed on MAVO's upload, 0004's
+absolute pin about the only honest way to learn slowly, and 0010's unsupported
+claim about not adding notes. Removed 'bass tab' tags: Rocksmith's on-screen
+note highway is not shown to be conventional written tablature. Removed broad
+'speed' and 'fast bass' tags for 0007. These removals do not establish that
+those terms or statements are necessarily false; they were unsupported or
+potentially misleading in this video. Existing genre lists remain conservative:
+for 0001 dungeon synth, 0005/0007 melodic metalcore, supporting classification is
+album-level; genre classification is a judgment. User may already have changed
+YouTube, and the historical screenshots do not prove its current content.
+
+Uniqueness: 0002 and 0004 previously repeated the album/year as their sole fact.
+0002 now uses Chris Motionless's account of fan feedback influencing the single
+choice, while 0004 uses the official video director Max Moore. Source:
+https://www.altpress.com/motionless-in-white-another-life-music-video/
+https://imvdb.com/video/motionless-in-white/another-life
+Distinct angles added: 0005 Salem subject per Chris Motionless interview;
+0006 Shawn Crahan's America video direction; 0007 Dee Snider video cameo;
+0008 cassette video rather than the album trilogy already used in 0027.
+https://mousertime.blogspot.com/2011/02/motionless-in-white-interview-with.html
+https://imvdb.com/video/motionless-in-white/america
+https://mediakits.concord.com/p/creatures/press-release.html
+https://en.wikipedia.org/wiki/X-Kid
+The 0008 loss-of-friend context is retained based on Guitar World interview:
+https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre
+Genre sources include the two song-level alternative metal/post-grunge labels:
+https://www.albumoftheyear.org/album/630951-motionless-in-white-another-life.php
+Album-level metalcore and melodic metalcore for Creatures:
+https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php
+
+The only remaining five-word overlaps involving these ten are two shared
+song-and-artist name sequences between the separate 0002/0004 uploads; their
+facts, questions and CTAs differ. Manual related-song and CTA/title inspection
+performed against available files/registers, not a guarantee for future or
+inaccessible live content. Long-form record/hash gate passed for 0001-0020;
+software does not verify truth, source quality or all semantic duplication.
+0011-0020 records were checked for stale collision reports after these edits.
+The original 0033 includes a 2020 single assertion, whereas press announced it as
+a single with the video in December 2019 and sources date radio/single releases
+in 2020; do not conflate the stages. That file remains open for its own review.
+Next 0021-0030; 0021-0070 still open under the full fact-check.

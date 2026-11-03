@@ -8,10 +8,10 @@
 Keep up with Motionless In White on Immaculate Misconception
 ```
 
-## DESCRIPTION (561 characters)
+## DESCRIPTION (562 characters)
 
 ```text
-Immaculate Misconception opens Creatures, Motionless In White's 2010 debut album. It is the first track in a record that also includes Abigail.
+Immaculate Misconception opens Motionless In White's debut album Creatures. Twisted Sister's Dee Snider makes a cameo in the song's music video.
 
 The chart remains visible in this Rocksmith bass video so you can follow the song as it goes. Take it section by section if you are learning the part.
 
@@ -20,10 +20,10 @@ The chart remains visible in this Rocksmith bass video so you can follow the son
 💬 Tell the Discord community which Creatures track you would choose next; boosts are welcome: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 218/500 characters)
+## TAGS (12 tags, 190/500 characters)
 
 ```text
-motionless in white, immaculate misconception, immaculate misconception bass, creatures, metalcore, fast bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2010, speed, bass guitar, play along
+motionless in white, immaculate misconception, immaculate misconception bass, creatures, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2010, bass guitar, play along
 ```
 
 ## PINNED COMMENT (83 characters)

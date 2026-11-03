@@ -1,0 +1,146 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "d5d921f5bcdc3bf27ff896f36e51a76b9a7f2f05905ca7bdbd102f3ae62a1768",
+    "description": "b82fc7f6bd2275044f8c78b508f5c34ddef5dd5398af21697a35c2017165ea6f",
+    "tags": "ad363d96fb0e7a0e1da2c55574d7c4e3ff3584fc098cfa1d9395c928efc0a36c",
+    "pinned comment": "24a888863c61de09c70888878afac8399f5e925d75ff08ca0de6f6cb7942d418",
+    "genres": "02ecadba4aa98e95ba4d7226314c8d355e5c3418be2a85c64121839ac5116039"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "description",
+      "claim": "Immaculate Misconception opens Motionless In White debut Creatures.",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html",
+      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+    },
+    {
+      "surface": "description",
+      "claim": "Dee Snider of Twisted Sister appears in the song music video.",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html",
+      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+    },
+    {
+      "surface": "title",
+      "claim": "Keep up with Motionless In White on Immaculate Misconception",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
+      "assessment": "Title identity and sourced musical angle checked; figurative language is opinion, not a literal assertion about artist appearing in the upload."
+    },
+    {
+      "surface": "description",
+      "claim": "MAVO plays bass while the Rocksmith note chart is on screen.",
+      "source": "User explicit instruction in conversation; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
+      "assessment": "User confirms performance; image is historical and can establish identity/format only, not whole-video gear, playing or continuous tuning."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick first, Twitch mirror and Discord invitation.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Channel routing requested by user; no promise about schedule or boost rewards."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which part of Immaculate Misconception would you break down first when learning it?",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; historical screenshot of creator pin in folder",
+      "assessment": "Opinion or question; checked for unsupported premise. Screenshot does not show current YouTube comments or establish the absence of an artist comment."
+    },
+    {
+      "surface": "tags",
+      "claim": "motionless in white",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "immaculate misconception",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "immaculate misconception bass",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "creatures",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "metalcore",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass play along",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "2010",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass guitar",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "play along",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "genres",
+      "claim": "Metalcore",
+      "source": "https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php",
+      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Melodic metalcore",
+      "source": "https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php",
+      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
+    }
+  ],
+  "distinct_fact_and_source": "Dee Snider cameo, distinct from 0005 Salem angle. https://mediakits.concord.com/p/creatures/press-release.html",
+  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
+  "uncertainties_and_removed_claims": "Removed broad speed tags and earlier unverified performance tuning; melodic metalcore is album-level support. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

@@ -53,15 +53,15 @@
           was: Masterpiece is the Motionless In White song where the bass stops behaving
   0004    song returns as artist meets chart             Another Life returns as Motionless In White meets the bass chart
           was: Another Life on bass with the tuner in frame and no game in the way
-  0005    song turns band into noun                      Abigail turns Motionless In White back into a horror band
+  0005    song takes band to place on bass                Abigail takes Motionless In White to Salem on bass
           was: Abigail lets Motionless In White be a horror band, and the bass leads it
   0006    band bring song to note highway                Motionless In White bring America to the bass note highway
           was: America keeps one string busy for four minutes and never apologises
   0007    imperative keep up                             Keep up with Motionless In White on Immaculate Misconception
           was: Immaculate Misconception is four minutes of Motionless In White at full sprint
-  0008    player-name first                              Mike Dirnt plays X-Kid like Green Day already know the ending
+  0008    music video motif behind band song              The cassette tape video behind Green Day's X-Kid
           was: X-Kid is Mike Dirnt playing a farewell song like it is a party
-  0009    two names appositive + duration                Mikey Way and My Chemical Romance, five minutes of Black Parade
+  0009    following band through song                     Following My Chemical Romance through Welcome To The Black Parade
           was: Welcome To The Black Parade is five minutes of Mikey Way never standing still
   0010    if-clause + but                                If I'd Been The One, but .38 Special lets the low end argue
           was: If I'd Been The One is Southern rock where the low end does the arguing

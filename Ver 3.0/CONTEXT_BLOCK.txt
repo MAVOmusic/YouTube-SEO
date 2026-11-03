@@ -2278,3 +2278,13 @@ zero for these ten against the available long-form corpus; neither proves
 truth or semantic uniqueness. Next 0021-0030, then tens to 0070; also return
 to 0001-0010 to complete the newer evidence/uniqueness gate before declaring
 all 70 finished. Withhold paste-ready replacements until all 70 are checked.
+
+2026-11-03 USER HANDOFF OVERRIDE: For 0001-0070, edit the per-song MD files;
+MAVO will copy from them and does not need paste-ready blocks in chat. Resume
+paste-ready handoff starting with 0071, after the full 70 recheck. Continue to
+report concise findings and correct genre lists separately in chat.
+0001-0010 have now undergone evidence and uniqueness recheck, including per-video
+records, along with 0011-0020. Detailed sources, exact historical image mismatches
+and uncertainties are in TXT/First_70_Fact_Check_2026-11-03.txt. Existing
+screenshots and repository copy do not establish current YouTube metadata. Next
+0021-0030; then batches of ten through 0070. Record gate pass is not proof of truth.

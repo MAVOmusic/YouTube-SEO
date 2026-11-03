@@ -8,10 +8,10 @@
 Another Life returns as Motionless In White meets the bass chart
 ```
 
-## DESCRIPTION (507 characters)
+## DESCRIPTION (513 characters)
 
 ```text
-Another Life returns to the channel in a separate Rocksmith bass video. Motionless In White included the song on their 2019 album Disguise.
+Max Moore directed the official music video for Another Life by Motionless In White. This is a separate Rocksmith bass play along on the channel.
 
 Follow the chart on screen and take the sections at a pace that works for you. Which part would you practise first?
 
@@ -20,16 +20,16 @@ Follow the chart on screen and take the sections at a pace that works for you. W
 💬 Ask your practice questions in Discord; thank you to the people who boost our server: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 212/500 characters)
+## TAGS (13 tags, 202/500 characters)
 
 ```text
-another life, motionless in white, motionless in white another life, bass play along, play along bass, bass tab, rocksmith bass, disguise, post grunge, alternative metal, learn bass, bass cover, 2019, bass guitar
+another life, motionless in white, motionless in white another life, bass play along, play along bass, rocksmith bass, disguise, post grunge, alternative metal, learn bass, bass cover, 2019, bass guitar
 ```
 
-## PINNED COMMENT (133 characters)
+## PINNED COMMENT (65 characters)
 
 ```text
-The pause button is not cheating. It is the only honest way to learn something this slow. What part took you longest to stop rushing?
+Which Motionless In White music video stands out to you visually?
 ```
 
 ## GENRE FINDINGS (internal)

@@ -8,10 +8,10 @@
 Why Another Life by Motionless In White hurts more on bass
 ```
 
-## DESCRIPTION (511 characters)
+## DESCRIPTION (533 characters)
 
 ```text
-Disguise, released in 2019, includes Another Life by Motionless In White. Its quieter mood offers a different side of the band to explore on bass.
+Chris Motionless said fan feedback helped the band choose Another Life as their next single from Disguise. Here is my bass performance of the Motionless In White track.
 
 Follow along with the on-screen chart and listen to the way the vocal and instruments come together across the song.
 
@@ -20,10 +20,10 @@ Follow along with the on-screen chart and listen to the way the vocal and instru
 💬 Bring a track suggestion to Discord; thanks to everyone who boosts the server: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 210/500 characters)
+## TAGS (13 tags, 200/500 characters)
 
 ```text
-motionless in white, another life, motionless in white another life, disguise, post grunge, alternative metal, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2019, bass tab, bass guitar
+motionless in white, another life, motionless in white another life, disguise, post grunge, alternative metal, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2019, bass guitar
 ```
 
 ## PINNED COMMENT (67 characters)

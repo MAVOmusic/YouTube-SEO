@@ -2,16 +2,16 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (57 characters)
+## TITLE (50 characters)
 
 ```text
-Abigail turns Motionless In White back into a horror band
+Abigail takes Motionless In White to Salem on bass
 ```
 
-## DESCRIPTION (573 characters)
+## DESCRIPTION (606 characters)
 
 ```text
-Abigail is on Creatures, the 2010 debut album by Motionless In White. The band's theatrical style is already present in this early release.
+Motionless In White frontman Chris Motionless has said Abigail and its music video are about the Salem witch trials. The track appears on Creatures, their 2010 debut album.
 
 Follow the bass chart on screen and listen to how the part fits against the rest of the arrangement. You can pause and work through the sections at your own pace.
 
@@ -20,10 +20,10 @@ Follow the bass chart on screen and listen to how the part fits against the rest
 💬 Tell Discord which early Motionless In White track to revisit; community boosts are appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 195/500 characters)
+## TAGS (13 tags, 185/500 characters)
 
 ```text
-motionless in white, abigail, motionless in white abigail, creatures, metalcore, horror metal, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2010, bass guitar, play along
+motionless in white, abigail, motionless in white abigail, creatures, metalcore, horror metal, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2010, bass guitar, play along
 ```
 
 ## PINNED COMMENT (91 characters)
