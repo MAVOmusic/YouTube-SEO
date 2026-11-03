@@ -20,10 +20,10 @@ Follow the chart on screen and take the sections at a pace that works for you. W
 💬 Ask your practice questions in Discord; thank you to the people who boost our server: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 211/500 characters)
+## TAGS (14 tags, 212/500 characters)
 
 ```text
-another life, motionless in white, motionless in white another life, bass play along, play along bass, bass tab, rocksmith bass, disguise, metalcore bass, learn bass, bass cover, drop c, 2019, bass guitar, tuner
+another life, motionless in white, motionless in white another life, bass play along, play along bass, bass tab, rocksmith bass, disguise, post grunge, alternative metal, learn bass, bass cover, 2019, bass guitar
 ```
 
 ## PINNED COMMENT (133 characters)
@@ -32,14 +32,11 @@ another life, motionless in white, motionless in white another life, bass play a
 The pause button is not cheating. It is the only honest way to learn something this slow. What part took you longest to stop rushing?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Metalcore** | documented, primary - same song as CO-0002 | main metalcore lane |
-| Melodic metalcore | documented | melodic metalcore lane |
-| Gothic metalcore | documented | gothic metalcore lane |
-| Alternative metal | documented | alt-metal crossover |
-| Play along / tutorial format | factual - this is the same song as a teaching video | lesson lane, keep separate from performance playlists |
+Same song as 0002. Track sources support post-grunge and alternative metal. Play along is a format, not a genre. Drop C and tuner visibility throughout were not independently verified.
 
-5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
+## CORRECT GENRES (playlist reference)
+
+- Post-grunge
+- Alternative metal

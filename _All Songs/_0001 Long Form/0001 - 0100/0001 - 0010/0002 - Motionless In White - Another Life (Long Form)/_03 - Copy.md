@@ -20,10 +20,10 @@ Follow along with the on-screen chart and listen to the way the vocal and instru
 💬 Bring a track suggestion to Discord; thanks to everyone who boosts the server: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 239/500 characters)
+## TAGS (14 tags, 210/500 characters)
 
 ```text
-motionless in white, another life, motionless in white another life, disguise, metalcore, metalcore bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, drop c bass, 2019 metalcore, bass tab, bass guitar, epiphone thunderbird
+motionless in white, another life, motionless in white another life, disguise, post grunge, alternative metal, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2019, bass tab, bass guitar
 ```
 
 ## PINNED COMMENT (67 characters)
@@ -32,14 +32,11 @@ motionless in white, another life, motionless in white another life, disguise, m
 Which Motionless In White song would you like to hear on bass next?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Metalcore** | documented, primary | main metalcore lane |
-| Melodic metalcore | documented | melodic metalcore, pairs with Killswitch and A7X |
-| Gothic metalcore | documented - the scene term for this band | gothic metalcore lane |
-| Alternative metal | documented | alt-metal crossover lane |
-| Nu metal | elements only, late-album direction | use sparingly, do not file as nu metal |
+Track-level sources classify this song as post-grunge and alternative metal. Album and artist metalcore identity does not establish melodic or gothic metalcore as the main genre of this specific track. Drop C and instrument model not independently confirmed.
 
-5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
+## CORRECT GENRES (playlist reference)
+
+- Post-grunge
+- Alternative metal

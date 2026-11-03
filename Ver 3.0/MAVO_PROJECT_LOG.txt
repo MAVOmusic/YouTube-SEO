@@ -558,3 +558,8 @@ TXT/First_70_Fact_Check_2026-11-03.txt. Review remains IN PROGRESS.
 2026-11-03 - Restarted fact-check at CO-0001-0010. Existing song copy updated;
 source findings and unresolved screenshot/performance limits in
 TXT/First_70_Fact_Check_2026-11-03.txt. 0011-0070 remains open.
+
+2026-11-03 - User correction: tags and genres must be reviewed in the same pass
+as other surfaces. First ten checked; tags 0001-0006 revised, genre findings and
+recommended lists separated for 0001-0010, canonical list corrected. Sources and
+uncertainties in TXT/First_70_Fact_Check_2026-11-03.txt.

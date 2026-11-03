@@ -20,10 +20,10 @@ Watch the note highway as the track moves through its sections. If you are learn
 💬 Trade practice ideas with our Discord community; thanks to anyone boosting the server: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 206/500 characters)
+## TAGS (15 tags, 220/500 characters)
 
 ```text
-motionless in white, america, motionless in white america, infamous, drop d, drop d bass, metalcore bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2012, bass guitar, heavy bass
+motionless in white, america, a-m-e-r-i-c-a, motionless in white america, infamous, industrial metal, alternative metal, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2012, bass guitar
 ```
 
 ## PINNED COMMENT (76 characters)
@@ -32,14 +32,11 @@ motionless in white, america, motionless in white america, infamous, drop d, dro
 How does A-M-E-R-I-C-A compare with the other singles from Infamous for you?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Metalcore** | documented, primary | main metalcore lane |
-| Melodic metalcore | documented | melodic metalcore lane |
-| Gothic metalcore | documented | gothic metalcore lane |
-| Nu metal | elements in the groove | optional, use lightly |
-| Alternative metal | documented | alt-metal crossover |
+Song-level source describes industrial metal and alternative metal; Infamous as an album is also described as metalcore. The screenshot indicates a modified tuning but does not reliably support plain Drop D; no exact tuning claimed.
 
-5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
+## CORRECT GENRES (playlist reference)
+
+- Industrial metal
+- Alternative metal

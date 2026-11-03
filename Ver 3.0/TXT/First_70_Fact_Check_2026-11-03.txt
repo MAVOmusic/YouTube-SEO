@@ -195,3 +195,40 @@ confirmed CTA ordering and invite, no promises about specific benefits.
 First-ten scope: factual check and conservative rewriting, not a proof that every
 subjective musical impression is objectively true. Remaining 0011-0070 is NOT
 completed. Do not start 0071 until this broader task is closed.
+
+2026-11-03 FOLLOW-UP: User asked why tags and genres were omitted; inspect the
+whole package together in future. Completed first-ten tag and genre review.
+Removed unverified tuning and equipment tags on 0002-0006, tuner tag on 0004,
+and misleading atmospheric black metal/dark ambient tags for the 0001 recording.
+Tags 0007-0010 unchanged after review. Tags include search terms such as bass
+cover, artist, album, format and time period; they are not themselves a genre list.
+Each copy now separates internal genre findings from correct genres. Canonical
+rows 0001-0010 replaced with the conservative playlist recommendations; rows
+0011-0040 remain unverified from this audit.
+
+Genre evidence:
+0001 parent album ambient / dungeon synth:
+https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/
+0002/0004 song post-grunge / alternative metal:
+https://www.albumoftheyear.org/album/630951-motionless-in-white-another-life.php
+0003 alternative metal, other sources use other labels:
+https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/
+0005/0007 parent album metalcore / melodic metalcore:
+https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php
+0006 song alternative metal / industrial metal:
+https://genius.com/Motionless-in-white-america-lyrics
+0008 pop punk, power pop, punk rock:
+https://en.wikipedia.org/wiki/X-Kid
+https://musictrajectory.com/tag/green-day/
+0009 emo, pop punk:
+https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade
+0010 Southern rock / AOR:
+https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/
+https://www.discogs.com/release/6573651-38-Special-If-Id-Been-The-One
+
+Limits: Genre is a categorisation, not a provable exclusive fact; 0001 dungeon
+synth and 0005/0007 melodic metalcore are supported at album level, not isolated
+track-level sources. Tags do not prove live edits, exact playing or equipment.
+The accessible screenshot is a still, so exact tuning and bass model are not
+verified; removing those tags does NOT establish that those claims are false.
+The precise audience, ranking and effectiveness of tags cannot be established.

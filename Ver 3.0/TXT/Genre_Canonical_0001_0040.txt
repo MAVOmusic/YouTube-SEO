@@ -35,25 +35,16 @@
 
   CO    SONG                                   CORRECT GENRES (best fit first)
   ----  -------------------------------------  ----------------------------------------------
-  0001  Burzum - Autumn Leaves                 Dark ambient / Dungeon synth / Ambient /
-                                               Neoclassical darkwave
-  0002  Motionless In White - Another Life     Metalcore / Melodic metalcore / Gothic metalcore /
-                                               Alternative metal
-  0003  Motionless In White - Masterpiece      Metalcore / Melodic metalcore / Gothic metalcore /
-                                               Alternative metal
-  0004  Motionless In White - Another Life PA  Metalcore / Melodic metalcore / Gothic metalcore /
-                                               Alternative metal
-  0005  Motionless In White - Abigail          Metalcore / Gothic metalcore / Melodic metalcore /
-                                               Alternative metal / Horror metal
-  0006  Motionless In White - America          Metalcore / Melodic metalcore / Gothic metalcore /
-                                               Alternative metal
-  0007  Motionless In White - Immaculate Mis.  Metalcore / Gothic metalcore / Melodic metalcore /
-                                               Alternative metal
-  0008  Green Day - X-Kid                      Punk rock / Pop punk / Alternative rock / Power pop
-  0009  My Chemical Romance - Black Parade     Emo / Pop punk / Emo pop / Alternative rock /
-                                               Rock opera / Arena rock / Glam rock
-  0010  .38 Special - If I'd Been The One      Southern rock / Hard rock / AOR / Classic rock /
-                                               Pop rock
+  0001  Burzum - Autumn Leaves                 Ambient / Dungeon synth
+  0002  Motionless In White - Another Life     Post-grunge / Alternative metal
+  0003  Motionless In White - Masterpiece      Alternative metal
+  0004  Motionless In White - Another Life PA  Post-grunge / Alternative metal
+  0005  Motionless In White - Abigail          Metalcore / Melodic metalcore
+  0006  Motionless In White - America          Industrial metal / Alternative metal
+  0007  Motionless In White - Immaculate Mis.  Metalcore / Melodic metalcore
+  0008  Green Day - X-Kid                      Pop punk / Power pop / Punk rock
+  0009  My Chemical Romance - Black Parade     Emo / Pop punk
+  0010  .38 Special - If I'd Been The One      Southern rock / AOR
   0011  Chopin - Nocturne Op. 9 No. 2          Classical / Romantic era / Solo piano / Nocturne /
                                                Classical crossover
   0012  Taking Back Sunday - Cute Without E    Emo / Post-hardcore / Emo pop / Pop punk /
@@ -126,3 +117,5 @@
 #   along format, rock trio, four hour loop) and pure umbrellas that add nothing
 #   beside a more precise label already listed (Metal, Rock, Electronic).
 # ============================================================================
+
+2026-11-03: Rows 0001-0010 replaced after genre/source review; genre classifications are judgments, with album-level evidence noted in each copy file. Rows 0011-0040 are not yet rechecked.

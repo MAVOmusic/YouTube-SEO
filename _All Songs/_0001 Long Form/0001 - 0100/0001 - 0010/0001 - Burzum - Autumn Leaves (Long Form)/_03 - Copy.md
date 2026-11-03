@@ -20,10 +20,10 @@ A longer listen gives the atmosphere room to settle. Follow the on-screen chart,
 💬 Swap ambient recommendations in Discord; thank you for supporting the community with a boost: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 224/500 characters)
+## TAGS (13 tags, 185/500 characters)
 
 ```text
-burzum, autumn leaves, burzum autumn leaves, the ways of yore, dungeon synth, ambient, dark ambient, 1 hour loop, hour loop, atmospheric black metal, study music, background music, burzum bass, rocksmith bass, long form loop
+burzum, autumn leaves, burzum autumn leaves, the ways of yore, dungeon synth, ambient, 1 hour loop, hour loop, study music, background music, burzum bass, rocksmith bass, long form loop
 ```
 
 ## PINNED COMMENT (94 characters)
@@ -32,14 +32,11 @@ burzum, autumn leaves, burzum autumn leaves, the ways of yore, dungeon synth, am
 Does a long loop help you focus, or do you prefer listening to an album from beginning to end?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Dark ambient** | documented, primary | ambient and drone lane |
-| Dungeon synth | documented - the tag this record actually carries | dungeon synth and lo-fi fantasy lane |
-| Ambient | umbrella | the broad ambient bucket |
-| Neoclassical darkwave | adjacent, same era and scene | dark neoclassical lane |
-| Black metal | artist context only, NOT this track | keep out of any metal playlist - it would be wrong |
+Album classifications support ambient and dungeon synth. Dark ambient is an interpretive mood label, not independently confirmed for this track; neoclassical darkwave and atmospheric black metal are not established for this recording.
 
-5 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
+## CORRECT GENRES (playlist reference)
+
+- Ambient
+- Dungeon synth
