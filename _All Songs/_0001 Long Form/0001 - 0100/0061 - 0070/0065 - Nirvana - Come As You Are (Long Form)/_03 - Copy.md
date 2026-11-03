@@ -15,10 +15,10 @@
 The friendliest riff Nirvana ever wrote sits in Come As You Are
 ```
 
-## DESCRIPTION (1234 characters)
+## DESCRIPTION (1195 characters)
 
 ```text
-It is in drop D, it is played with a chorus pedal and a clean amp, and it is the softest thing on a record that made everybody angry. Come As You Are opens with a riff that could sit on a lullaby and then spends three verses telling you to arrive exactly as you are, which Cobain later described as being about what people are expected to act like.
+Its guitar riff has a chorus effect, and it is the softest thing on a record that made everybody angry. Come As You Are opens with a riff that could sit on a lullaby and then spends three verses telling you to arrive exactly as you are, which Cobain later described as being about what people are expected to act like.
 
 Butch Vig recorded it at Sound City in May 1991 and kept the whole thing almost uncomfortably clean. Nothing is buried. The guitar, the bass and the drums are all audible as separate objects, which is why it still sounds strange next to the rest of Nevermind.
 
@@ -28,15 +28,15 @@ Nineteen ninety one, DGC, three minutes thirty eight on the record.
 
 🟢 Anything from the nineties is fair game on: https://kick.com/mavomusic
 🟣 Mirror feed, same night: https://www.twitch.tv/mavomusic
-💬 One song only, which do you keep? Vote over there and a boost doubles your say: https://discord.gg/ESGsGkN4j2
+💬 Share your favourite Nirvana track in Discord; boosts are appreciated: https://discord.gg/ESGsGkN4j2
 
 Track three on Nevermind.
 ```
 
-## TAGS (16 tags, 190/500 characters)
+## TAGS (15 tags, 182/500 characters)
 
 ```text
-nirvana, come as you are, nevermind, kurt cobain, kurtcobain, dave grohl, krist novoselic, butch vig, grunge, alternative rock, drop d, 1991, dgc, bass cover, rocksmith bass, bass play along
+nirvana, come as you are, nevermind, kurt cobain, kurtcobain, dave grohl, krist novoselic, butch vig, grunge, alternative rock, 1991, dgc, bass cover, rocksmith bass, bass play along
 ```
 
 ## PINNED COMMENT (119 characters)

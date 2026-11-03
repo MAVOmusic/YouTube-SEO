@@ -13,12 +13,12 @@
 Hypnotize spent three minutes refusing to explode
 ```
 
-## DESCRIPTION (1585 characters)
+## DESCRIPTION (1522 characters)
 
 ```text
 This is the quiet one, and it is quiet on purpose. Hypnotize opens on a clean figure in Drop C, sits at a tempo that never resolves into a sprint, and holds that restraint for the entire three minutes while the lyric gets progressively more unhinged. Any other band in 2005 would have opened the chorus up. System Of A Down kept it coiled and let the tension do the shouting.
 
-It came out in November 2005 as the title track of the second half of the Mezmerize and Hypnotize pair - two full albums in six months, which is still one of the strangest release decisions any major label agreed to. Both records were produced by Rick Rubin with Daron Malakian. The single charted without the band playing a single show, because they were on hiatus by the time it landed.
+It came out in November 2005 as the title track of the second half of the Mezmerize and Hypnotize pair - two full albums in six months, which is still one of the strangest release decisions any major label agreed to. Both records were produced by Rick Rubin with Daron Malakian. The title track was also released as a single.
 
 For a bass player this is a tuning job as much as a playing job. Drop C puts the low string somewhere that makes even a simple root note sound enormous, and the whole arrangement relies on that weight sitting under a guitar part that is deliberately thin. Play it clean, let the low end carry the size, and resist filling the space the song has left open.
 

@@ -14,16 +14,16 @@
 Which Manowar songs did Sabaton smuggle into Man of War?
 ```
 
-## DESCRIPTION (1513 characters)
+## DESCRIPTION (1409 characters)
 
 ```text
 Clever. That is the one-word review, and everything after it is why.
 
-Man of War is Sabaton writing a song whose entire lyric sheet is made of another band's song titles. Not a tribute in spirit - a crossword. Track twelve on Heroes, 2014, the closing track before the bonus material, and the only Sabaton song that is a joke told with a completely straight face. Joakim Broden wrote it with drummer Hannes van Dahl, and Peter Tagtgren produced the record.
+Man of War is Sabaton's tribute to Manowar, referencing songs from their catalogue. A bonus track on editions of Heroes, 2014, and the only Sabaton song that is a joke told with a completely straight face. Joakim Broden wrote it with drummer Hannes van Dahl, and Peter Tagtgren produced the record.
 
 It works because the music refuses to wink. If the band had played it as a pastiche the whole thing would collapse into a novelty, but the riff is a proper Sabaton riff and the arrangement is a proper Sabaton arrangement, so the joke lands in the lyrics only. That takes more discipline than writing a funny song.
 
-The bass is Peter's problem here in the best way. There is a gallop in the verse that has to survive the guitar doubling it, and the chorus drops to straight eighths, so the part keeps changing gear while the tempo never does. It is the most physical of the four Sabaton songs on this channel and the least serious.
+The bass carries the rhythm here. There is a gallop in the verse that has to survive the guitar doubling it, and the chorus drops to straight eighths, so the part keeps changing gear while the tempo never does. It is the most physical of the four Sabaton songs on this channel and the least serious.
 
 🟢 Power metal, requests, and the whole back catalogue run on Kick: https://kick.com/mavomusic
 🟣 Twitch duplicates the room for the second-screen crowd: https://www.twitch.tv/mavomusic

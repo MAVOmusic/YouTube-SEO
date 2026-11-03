@@ -15,7 +15,7 @@
 Pain reached Three Days Grace through a Toronto rehab ward
 ```
 
-## DESCRIPTION (1206 characters)
+## DESCRIPTION (1185 characters)
 
 ```text
 Most bands write about pain as something to escape. This one argues the opposite for three minutes: that numbness is the worse outcome, that feeling the damage is proof you are still in the room. It is a strange, bleak idea to hang a rock single on, and it worked.
@@ -28,9 +28,9 @@ Nineteen September 2006, Jive, three minutes twenty two on the record.
 
 🟢 Rock nights and requests, most evenings, right here: https://kick.com/mavomusic
 🟣 If Kick is playing up, the backup is: https://www.twitch.tv/mavomusic
-💬 Say which side you are on in the server. One boost and your name goes up on stream: https://discord.gg/ESGsGkN4j2
+💬 Discuss your take in Discord; boosting the server is welcome: https://discord.gg/ESGsGkN4j2
 
-First single off One-X.
+Second single off One-X.
 ```
 
 ## TAGS (16 tags, 201/500 characters)

@@ -9,10 +9,10 @@
 Babymetal stack a folk melody on a bass that never rests in Megitsune
 ```
 
-## DESCRIPTION (1028 characters)
+## DESCRIPTION (1020 characters)
 
 ```text
-Megitsune came out in June 2013 as the third single, and it is the one that stopped people calling Babymetal a novelty. The title means fox, the whole song borrows from Japanese festival music, and underneath all of that somebody has to hold down a metal rhythm section for four minutes without a break.
+Megitsune came out in June 2013 as a single, and it is the one that stopped people calling Babymetal a novelty. The title means fox, the whole song borrows from Japanese festival music, and underneath all of that somebody has to hold down a metal rhythm section for four minutes without a break.
 
 That job belongs to the low end. The verse keeps a running pulse going under the folk melody so the drums can afford to be busy, then the breakdown strips everything back and the bass is suddenly the only thing carrying the bottom of the song. There is no gap in it anywhere. Four minutes five, and the chart never gives the player a rest bar.
 

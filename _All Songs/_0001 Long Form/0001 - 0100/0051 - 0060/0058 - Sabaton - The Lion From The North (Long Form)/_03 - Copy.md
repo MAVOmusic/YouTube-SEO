@@ -13,7 +13,7 @@
 Follow Sabaton's Lion From The North back to 1632
 ```
 
-## DESCRIPTION (1599 characters)
+## DESCRIPTION (1581 characters)
 
 ```text
 Play this one loud enough and the choir does the rest. The Lion From The North is the second track on Carolus Rex, four and a half minutes of march tempo, massed voices and a hook that is Latin rather than English, recorded at The Abyss in Sweden with Peter Tägtgren and mixed so the room is part of the arrangement.
@@ -27,7 +27,7 @@ It has stayed in the live set for more than a decade, which tells you what the b
 Twenty five May 2012, Nuclear Blast, four minutes forty two on the record.
 
 🟢 March tempo and a full request queue on Kick: https://kick.com/mavomusic
-🟣 Twitch carries the same show when I am not on Kick: https://www.twitch.tv/mavomusic
+🟣 Twitch carries the mirrored show: https://www.twitch.tv/mavomusic
 💬 How many Sabaton songs are really about one king? Add the ones I have missed in Discord, where a boost earns you a shout: https://discord.gg/ESGsGkN4j2
 
 Track two, straight after the title theme.

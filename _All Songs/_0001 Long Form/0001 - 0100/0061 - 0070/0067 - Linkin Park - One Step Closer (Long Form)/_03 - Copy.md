@@ -16,7 +16,7 @@
 One Step Closer broke Linkin Park in two and a half minutes
 ```
 
-## DESCRIPTION (1260 characters)
+## DESCRIPTION (1208 characters)
 
 ```text
 It was called Plaster before it was finished. The band were stuck on another song, the producer kept sending them back to rewrite, and what came out of that frustration was the shortest track on the record and the thing that got them signed to a radio format nobody had a slot for.
@@ -29,7 +29,7 @@ Two thousand, Warner Bros, two minutes thirty five on the record.
 
 🟢 Requests, nu metal included, taken live: https://kick.com/mavomusic
 🟣 Other window, same stream: https://www.twitch.tv/mavomusic
-💬 Two and a half minutes is the whole song. Add a short one to the pile, and boosters get theirs played first: https://discord.gg/ESGsGkN4j2
+💬 Suggest a short song in Discord; boosts are appreciated: https://discord.gg/ESGsGkN4j2
 
 Track two on Hybrid Theory.
 ```

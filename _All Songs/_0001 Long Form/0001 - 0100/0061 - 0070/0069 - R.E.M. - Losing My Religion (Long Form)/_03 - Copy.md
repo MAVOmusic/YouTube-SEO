@@ -15,20 +15,20 @@
 R.E.M. found Losing My Religion inside a mandolin exercise
 ```
 
-## DESCRIPTION (1266 characters)
+## DESCRIPTION (1158 characters)
 
 ```text
-Nobody in the band thought it was a single. It takes four minutes and change, it has no chorus, and the lead instrument is a mandolin that Peter Buck had been teaching himself to play badly. The label picked it anyway, and it became the biggest song R.E.M. ever had.
+Peter Buck had just bought a mandolin and was recording himself learning to play it when he came up with the idea for Losing My Religion. The track became R.E.M.'s biggest US hit.
 
 The title is not about God. Losing my religion is an old Southern phrase for reaching the end of your patience with somebody, and the song is about obsession: the reaching forward, the pulling back, the not knowing whether the person even knows you exist. Stipe has said he was chasing the feeling of Every Breath You Take, which he called the most beautiful and creepy song he knew.
 
-The bass is a slow walk and a lesson in restraint. Mike Mills plays fewer notes than the arrangement seems to be asking for, sits under the mandolin, and lets the chorus open without ever getting louder. Copy that instinct before you copy the notes.
+The bass is a slow walk and a lesson in restraint. Mike Mills plays fewer notes than the arrangement seems to be asking for, sits under the mandolin, and supports the vocal as the arrangement opens up. Copy that instinct before you copy the notes.
 
 Nineteen ninety one, Warner Bros, four minutes twenty six on the record.
 
 🟢 Jangle and mandolin both welcome: https://kick.com/mavomusic
 🟣 The other feed, same set: https://www.twitch.tv/mavomusic
-💬 No chorus, still a hit. Would that chart now? Have the argument there, and boosters get the last word: https://discord.gg/ESGsGkN4j2
+💬 Talk unexpected hits in Discord; supporting the server with a boost is appreciated: https://discord.gg/ESGsGkN4j2
 
 First single off Out of Time.
 ```
@@ -39,10 +39,10 @@ First single off Out of Time.
 r.e.m., rem, losing my religion, out of time, michael stipe, peter buck, mike mills, mandolin, jangle pop, alternative rock, college rock, 1991, warner bros, bass cover, rocksmith bass, bass play along
 ```
 
-## PINNED COMMENT (119 characters)
+## PINNED COMMENT (91 characters)
 
 ```text
-No chorus, no plan, mandolin on top. Everyone said no and it turned into their biggest hit. What gets that wrong today?
+A mandolin idea turned into an R.E.M. hit. What unexpected instrument makes a song for you?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)

@@ -9,18 +9,18 @@
 > Video ID `9LmyTiqZzuw` (crop-verified).
 > GENRE FINDINGS is mine and internal. CORRECT GENRES is the playlist list.
 
-## TITLE (59 characters)
+## TITLE (58 characters)
 
 ```text
-Standing In The Rain speaks for somebody the band never met
+Billy Talent paint a troubled life in Standing In The Rain
 ```
 
-## DESCRIPTION (1185 characters)
+## DESCRIPTION (1040 characters)
 
 ```text
-Billy Talent do not usually write in character. This one does, and it is the reason the song is still talked about twenty years later: the narrator is a woman on a roadside, and the band never once break the frame to explain her or apologise for her.
+Standing In The Rain tells a difficult story in the first person. Its images leave room for listeners to interpret the narrator's circumstances.
 
-Track eight, and it arrives after a run of faster songs, so it lands harder than it should. The chorus is a list of images rather than a hook - a milk carton, a photograph, twenty years - and the last line is a woman addressing her mother. It is a strange, humane thing to find on a punk record from 2003.
+Track eight, and it arrives after a run of faster songs, so it lands harder than it should. The chorus is a list of images rather than a hook - a milk carton, a photograph, twenty years - and the narrator addresses their mother. It is a strange, humane thing to find on a punk record from 2003.
 
 The bass is the quiet engine of it. It holds a simple figure under the verses so the vocal stays exposed, then widens out for the chorus, and the whole arrangement depends on that patience. Play the verse softer than you want to and the chorus will do the rest for you.
 
@@ -28,7 +28,7 @@ September 2003, Atlantic, three minutes twenty on the record.
 
 🟢 Character studies and story songs both get time: https://kick.com/mavomusic
 🟣 Watch from the other side: https://www.twitch.tv/mavomusic
-💬 Whose story is it to tell? Take that argument public and a boost gets your reply on screen: https://discord.gg/ESGsGkN4j2
+💬 Discuss the story in Discord; boosts to the server are welcome: https://discord.gg/ESGsGkN4j2
 
 Track eight on Billy Talent.
 ```

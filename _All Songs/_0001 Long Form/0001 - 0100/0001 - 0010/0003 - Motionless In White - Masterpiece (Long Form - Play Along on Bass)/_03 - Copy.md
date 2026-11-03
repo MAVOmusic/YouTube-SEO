@@ -2,30 +2,30 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (65 characters)
+## TITLE (59 characters)
 
 ```text
-Motionless In White wrote Masterpiece so the bass could misbehave
+Masterpiece finds Motionless In White in a quieter register
 ```
 
-## DESCRIPTION (867 characters)
+## DESCRIPTION (609 characters)
 
 ```text
-Infamous came out in 2012 and it is the record where Motionless In White worked out how much theatre a metalcore band could get away with. Masterpiece is the clearest example: a gothic, almost vaudevillian thing that still hits hard when it needs to.
+Masterpiece appears on Motionless In White's 2022 album Scoring the End of the World. Its quieter passages and larger chorus make it an interesting song to follow on bass.
 
-What makes this one awkward is the tuning shift between sections. The bass walks during the verse and then locks into a straight eighth pattern for the chorus, so the hand has to change gear twice inside four bars without losing the pocket.
+Follow the on-screen chart through the changes and listen for how the bass supports the vocal.
 
-🟢 Charted on a Kick stream and never left rotation since: https://kick.com/mavomusic
+🟢 Join the live bass sessions on Kick: https://kick.com/mavomusic
 🟣 Twitch mirrors the session, nothing different except who is talking: https://www.twitch.tv/mavomusic
 💬 Ask about it in Discord, and a boost gets us the short link again: https://discord.gg/ESGsGkN4j2
 
-Gothic metalcore from Infamous, 2012. Full playthrough, chart visible the entire way.
+From Scoring the End of the World, 2022, with the bass chart on screen.
 ```
 
-## TAGS (15 tags, 220/500 characters)
+## TAGS (15 tags, 240/500 characters)
 
 ```text
-motionless in white, masterpiece, motionless in white masterpiece, infamous, metalcore, gothic metal, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, drop c, 2012 metalcore, bass guitar, play along
+motionless in white, masterpiece, motionless in white masterpiece, scoring the end of the world, metalcore, gothic metal, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, drop c, 2022 metalcore, bass guitar, play along
 ```
 
 ## PINNED COMMENT (124 characters)
