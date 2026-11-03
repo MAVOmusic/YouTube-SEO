@@ -1,0 +1,74 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "e1ec034cdcd960892e2a1eaf94dd38c6f52a67d87d9c38625c22990b31c6b605",
+    "description": "e7aa2a4c8d74869f51922a3dbee9ac20521c656b25966ceede94c812b74bedf0",
+    "tags": "1ba4cb5ab8bf482e3b16a9b4cd95e28da87e924a42de3e2d0807fadaff8ce12d",
+    "pinned comment": "83784bfa0359ce70cfde915fb8383e0f2fdb470ce9cbeeb4a8646ff148bf50d6",
+    "genres": "23e8d446afde987fa9f78fff4113a77b98ec08c5a72633c1c499bed910afa7ba"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "description",
+      "claim": "Queen I Want to Break Free was written by bassist John Deacon, appears on The Works and was released in 1984; Fred Mandel played the synth solo.",
+      "source": "https://en.wikipedia.org/wiki/I_Want_to_Break_Free",
+      "assessment": "Song-level facts checked; genre classification reflects source, not exclusive objective truth."
+    },
+    {
+      "surface": "description",
+      "claim": "Deacon songwriting and Mandel synth solo; track is pop rock/synth-pop.",
+      "source": "https://rateyourmusic.com/release/musicvideo/queen/i-want-to-break-free.p/",
+      "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
+    },
+    {
+      "surface": "title",
+      "claim": "John Deacon wrote Queen's I Want To Break Free",
+      "source": "https://rateyourmusic.com/release/musicvideo/queen/i-want-to-break-free.p/",
+      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
+    },
+    {
+      "surface": "description",
+      "claim": "MAVO performs bass while Rocksmith chart is on screen.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0014 - Queen - I Want To Break Free (Long Form)/_01 - Main Info/Details.jpeg; user instruction in conversation",
+      "assessment": "Historical screenshot identifies video and format; explicit user confirms playing while overlay is on screen. Still does not establish equipment or note-by-note details."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick primary, Twitch mirror and Discord community links.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Requested channel routing and invitation; no exact schedule, guaranteed service, reward or current live state asserted."
+    },
+    {
+      "surface": "tags",
+      "claim": "queen, i want to break free, i want to break free bass, john deacon, the works, pop rock, synth pop, 80s bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, freddie mercury, queen bass",
+      "source": "https://en.wikipedia.org/wiki/I_Want_to_Break_Free; https://rateyourmusic.com/release/musicvideo/queen/i-want-to-break-free.p/; _All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0014 - Queen - I Want To Break Free (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Search identity, song/artist/album terms, genre labels, years and bass/Rocksmith format checked; broad search intent is not a guarantee. Conventional tablature and uncertain tuning/equipment tags removed."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Pick a John Deacon composition for the next bass performance.",
+      "source": "https://en.wikipedia.org/wiki/I_Want_to_Break_Free; https://rateyourmusic.com/release/musicvideo/queen/i-want-to-break-free.p/",
+      "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
+    },
+    {
+      "surface": "genres",
+      "claim": "- Pop rock\n- Synth-pop",
+      "source": "https://en.wikipedia.org/wiki/I_Want_to_Break_Free; https://rateyourmusic.com/release/musicvideo/queen/i-want-to-break-free.p/",
+      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+    }
+  ],
+  "distinct_fact_and_source": "Deacon songwriting and Mandel synth solo; track is pop rock/synth-pop. https://rateyourmusic.com/release/musicvideo/queen/i-want-to-break-free.p/",
+  "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
+  "uncertainties_and_removed_claims": "Removed unverified synth bass and two bassists premise, band relationship story, bass-part assertions and no-edit claim. Historical Details and pin screenshots are not proof of current live metadata.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

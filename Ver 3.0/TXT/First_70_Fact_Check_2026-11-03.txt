@@ -293,3 +293,66 @@ shape registers. Then update all five surfaces/genres and canonical/registers,
 perform evidence record and long-form gate for each, validate and merge the
 batch. Neither earlier 0001-0010 reviews nor this research constitute complete
 release-gate certification. No 0021-0070 review completed in this pass.
+
+2026-11-03 - 0011-0020 claim-by-claim correction pass (10 files)
+MAVO correctly objected that research without corrections did not satisfy the
+request. Titles, descriptions, tags, pins and playlist lists were inspected;
+all descriptions and pins revised, questionable titles and tags changed, and all
+ten genre tables split into findings and recommendations. Review records in
+TXT/Long_Form_Reviews/0011.json through 0020.json hold retained claims and
+sources. They do not prove inaccessible live YouTube metadata. Old Details
+screenshots and pin screenshots were read; pinned screenshots showed old creator
+comments, not a verified artist comment. Current comments cannot be established.
+
+Claim-by-claim correction summary (unverified does not mean known false):
+0011: publication 1832 and original piano scoring supported by Faber; 4:00:33
+is the historical upload length. Removed assertions about widespread recognition,
+adverts/films/calls, left hand on specific bass strings, thumbs, unedited drift,
+no fade, missing chapters and lack of interruptions. Retained classical and
+Romantic classical rather than calling the bass video solo piano.
+0012: album/debut/year and Fight Club video homage supported by Concord and
+Hyped on Melancholy. Removed assumed intent of title joke, imagined octave and
+string parts, Thunderbird gear, flat setting and specific late-night practice.
+0013: album opener/year supported by WhoSampled/Kerrang; Wembley video attempt
+supported by Kerrang. Removed performance-vs-original Araya ambiguity, asserted
+note values and unchanged speed, no punch-ins and loudest-stream hyperbole.
+0014: Deacon wrote the song; Mandel played synth solo, per song source. Removed
+unverified synth-bass hook and two-bass-player claim, band relations, bassline
+movements and editing claim. Tags changed synth bass to synth pop.
+0015: second single, 1997 album and wedding-vow wording supported. Removed
+biggest-band superlative, one-note/400-hit counts, player hand and tuning, and
+unsupported stream frequency. Retained real misspelling ramstein as a search tag.
+0016: 2005 album and Malakian writing/lead vocals supported. Removed quietest-ever,
+four notes, Drop C and no overdubs. Shavo bass tag removed because the Discogs
+single credits and Soadpedia disagree about who actually played this track's
+bass; neither generic band credits nor original recording prove MAVO's gear.
+https://www.discogs.com/release/4297962-System-Of-A-Down-Lonely-Day
+https://soad.fandom.com/wiki/Lonely_Day
+0017: first single since 2014 and 2019 reunion verified. Removed nine-years-off,
+2013 no-farewell/no-explanation, midnight release, no chorus, isolated bass
+opening, non-repeated bass phrases, gear and fabricated Discord benefit.
+0018: 2011 original and 2012 remix verified; remix electropop/glitch hop per
+track sources. Removed unsupported universal prominence, chord progression
+throughout, root-note assertions, swing rationale, no-vocals claim and view-count
+comparison. Genre list no longer treats Eurobeat as primary for this remix.
+0019: third album track and 1992 verified; original bass credit from Shazam.
+Removed no chorus, Drop D for this performance, intent, note pattern and claims
+about learners. Genre labels supported by song-level Genius tags.
+0020: 2013 release, vixen translation, shrine video and Japanese folk melody
+supported; removed never-rests, music-industry reaction, four-minute non-stop
+rhythm and specific breakdown/rest bars, comment statistics and BOH tag. MOMOMETAL
+is a current member but not the original 2013 lineup; removed that tag to avoid
+implying a 2013 contribution, and used YUIMETAL. The video duration 4:05 in
+historical screenshot is not the 4:09 commercial single runtime.
+
+All ten descriptions have three links in Kick, Twitch mirror, Discord order;
+boosts are optional, no promised rewards. On-screen bass play is based on MAVO's
+explicit instruction; historical screenshots are not video-wide verification.
+Different source-supported angles, questions, CTAs and titles were reviewed
+against available long-form copies and shape registers. Five-word cross-surface
+scan over the current copy corpus reports zero signals for 0011-0020 after
+edits; it cannot establish semantic uniqueness or cover future/live-only copy.
+Release record checks passed, meaning records/hashes and attestations exist, NOT
+that software verifies truth. The remaining 0021-0070 still require the same
+review, and 0001-0010 do not yet have the new full evidence records. User wants
+full handoff after all 70, so do not ask for interim live edits.

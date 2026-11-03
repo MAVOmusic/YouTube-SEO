@@ -8,18 +8,16 @@
 Chopin on bass for four hours, Nocturne Op. 9 No. 2 on repeat
 ```
 
-## DESCRIPTION (877 characters)
+## DESCRIPTION (504 characters)
 
 ```text
-The Nocturne in E flat major is the piece almost everybody already knows without being able to name it. It turns up in adverts, in films, in the background of a hundred phone calls. This is four hours of it, looped, played through on bass, and left alone.
+Chopin's Nocturne in E flat major, Op. 9 No. 2 was first published in 1832 as a work for piano. The bass loop here runs for a little over four hours.
 
-The left hand melody sits where a bass normally does not go, high on the D and G strings, while the thumb keeps a slow pulse underneath. Four hours of that is a test of patience more than technique, and the loop is unedited so the small drifts stay in.
+Use the on-screen chart to follow the bass, or settle in for an extended listen.
 
-🟢 Long ambient blocks fill evenings, all streamed from Kick: https://kick.com/mavomusic
-🟣 That feed is mirrored to Twitch as well: https://www.twitch.tv/mavomusic
-💬 Suggest which piece deserves four hours in Discord, boosting appreciated: https://discord.gg/ESGsGkN4j2
-
-Romantic era piano, 1832, transcribed for four strings and looped for four hours without a fade.
+🟢 Bring a classical request to Kick when I am live: https://kick.com/mavomusic
+🟣 Twitch carries the mirror for a different place to watch: https://www.twitch.tv/mavomusic
+💬 Suggest a nocturne in Discord; every community boost is appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (15 tags, 233/500 characters)
@@ -28,21 +26,17 @@ Romantic era piano, 1832, transcribed for four strings and looped for four hours
 chopin, nocturne op 9 no 2, chopin nocturne, classical music for studying, classical music, study music, four hour loop, 4 hour loop, sleep music, piano, classical bass, frederic chopin, relaxing music, rocksmith bass, long form loop
 ```
 
-## PINNED COMMENT (99 characters)
+## PINNED COMMENT (66 characters)
 
 ```text
-Four hours, no chapter markers, no interruptions. What should be the next piece stretched this far?
+Which other classical piece would you choose for a long bass loop?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Classical** | documented, primary | classical lane |
-| Romantic era | documented - 1832 | Romantic period lane |
-| Nocturne | documented form | solo piano form lane |
-| Solo piano | factual - transcribed here for bass | piano and study music lane |
-| Study / focus / sleep music | functional label - this is a four hour loop | the strongest playlist lane for this video, by far |
-| Classical crossover / arrangement | factual | crossover lane |
+The composition is classical music from the Romantic era. Solo piano describes the original scoring, not this bass performance; nocturne is a form. Classical crossover was not independently established for this arrangement.
 
-6 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
+## CORRECT GENRES (playlist reference)
+
+- Classical
+- Romantic classical

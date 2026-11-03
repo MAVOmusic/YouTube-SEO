@@ -3,49 +3,41 @@
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (58 characters)
+## TITLE (57 characters)
 
 ```text
-The Living Tombstone remix of Discord runs on one bassline
+Discord by Eurobeat Brony remixed by The Living Tombstone
 ```
 
-## DESCRIPTION (974 characters)
+## DESCRIPTION (491 characters)
 
 ```text
-A pony fan song went up on Bandcamp in August 2011 as track four of Super Ponybeat Vol. 2. Five months later a remixer from the same scene posted his own take at three minutes fourteen, and that version is now the one people mean when they say the word Discord.
+The Living Tombstone remixed Eurobeat Brony's Discord in 2012; the original appeared in 2011. The remix is classified as electropop and glitch hop by one song database.
 
-Four chords carry the whole thing: G sharp minor, F sharp, C sharp minor, back to B. The synth runs the melody and the bass is left holding the floor, so almost every note is a root. What makes it awkward is the swing - the groove sits deliberately off-centre, and the note you want to hit lands a fraction after the beat rather than on it.
+Grab your bass and use the Rocksmith display as you listen to the remix.
 
-🟢 Kick first, where the odd requests actually get played: https://kick.com/mavomusic
-🟣 There is a Twitch mirror running for anyone in that habit: https://www.twitch.tv/mavomusic
-💬 Brony and meme requests go straight into the server, boosts welcome: https://discord.gg/ESGsGkN4j2
-
-Electronic remix from 2012, transcribed for bass, no vocal track, three minutes fourteen.
+🟢 Find more unexpected requests on Kick: https://kick.com/mavomusic
+🟣 Choose Twitch for the mirrored broadcast: https://www.twitch.tv/mavomusic
+💬 Swap remix discoveries in Discord, and consider boosting the community: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 230/500 characters)
+## TAGS (14 tags, 220/500 characters)
 
 ```text
-eurobeat brony, discord, the living tombstone, discord remix, discord eurobeat brony, eurobeat, brony music, my little pony fan music, glitch hop, electropop, remix bass, bass cover, bass play along, rocksmith bass, rocksmith 2014
+eurobeat brony, discord, the living tombstone, discord remix, discord eurobeat brony, brony music, my little pony fan music, glitch hop, electropop, remix bass, bass cover, bass play along, rocksmith bass, rocksmith 2014
 ```
 
-## PINNED COMMENT (100 characters)
+## PINNED COMMENT (66 characters)
 
 ```text
-This remix has more views than the song it remixes. What other remix completely buried the original?
+What remix introduced you to an original song you had never heard?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Eurobeat** | primary, documented - the composer wrote it as a eurobeat track | Main eurobeat lane. Pairs with Super Eurobeat and Initial D material |
-| **Electropop** | documented (Rate Your Music, WhoSampled) | 2010s electronic pop lane |
-| **Glitch hop (EDM)** | documented - the specific tag RYM and Chordify give this remix | Bass-heavy electronic lane, sits next to dubstep and complextro |
-| **Chiptune** | documented (RYM, third tag) | Video game and retro electronic lane |
-| **Electronic / dance (umbrella)** | documented | The broad EDM bucket if you only want one |
-| **Brony / My Little Pony fan music** | scene label, and the reason the song exists | Fandom lane, very high engagement, very low crossover |
-| **Internet meme music** | documented as a WhoSampled tag | Nostalgia and meme lane |
-| **Remix** | factual - this is a remix of a 2011 original | Remix and cover lane |
+Track-specific sources classify the remix as electropop and glitch hop. Eurobeat describes the original artist/other version, not the primary classification of this remix. Fandom and remix are not genres.
 
-Nine labels, four of them formal genre classifications. If you need one tag for a playlist it is **Eurobeat**. If you need two, **Eurobeat + Glitch Hop**.
+## CORRECT GENRES (playlist reference)
+
+- Electropop
+- Glitch hop

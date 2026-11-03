@@ -1,0 +1,74 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "030ab66f738f4c8b3dffc1194269775c424a0e61f23cc47cfa355531adae85fa",
+    "description": "7c597e538747da26dff8e7114a18e687c100bbbb9ebcd7af3d93c45800cd69be",
+    "tags": "d7052e415be5ba7f78902c7f3281612d075e3154e77c2c04996053bb01f750bf",
+    "pinned comment": "f631a3df96c9e0b2ce6cbfae6528fe5e294fc5c951e7c4419fd7b1cf0e593e3c",
+    "genres": "e081b0d50076804f07ec017c2912cfb120e1253634a9da2f26af3725844f5ebd"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "description",
+      "claim": "MCR released Foundations of Decay in 2022, first single since Fake Your Death (2014); song sources describe post-hardcore, progressive and gothic rock.",
+      "source": "https://en.wikipedia.org/wiki/The_Foundations_of_Decay",
+      "assessment": "Song-level facts checked; genre classification reflects source, not exclusive objective truth."
+    },
+    {
+      "surface": "description",
+      "claim": "Band reunion in 2019 versus new single in 2022; https://rateyourmusic.com/release/single/my-chemical-romance/the-foundations-of-decay/ supports alternative rock and Mikey Way bass credit.",
+      "source": "https://genius.com/My-chemical-romance-the-foundations-of-decay-lyrics",
+      "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
+    },
+    {
+      "surface": "title",
+      "claim": "My Chemical Romance return with The Foundations Of Decay",
+      "source": "https://genius.com/My-chemical-romance-the-foundations-of-decay-lyrics",
+      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
+    },
+    {
+      "surface": "description",
+      "claim": "MAVO performs bass while Rocksmith chart is on screen.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0018 - Eurobeat Brony - Discord (The Living Tombstone Remix) (Long Form)/_01 - Main Info/Details.jpeg; user instruction in conversation",
+      "assessment": "Historical screenshot identifies video and format; explicit user confirms playing while overlay is on screen. Still does not establish equipment or note-by-note details."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick primary, Twitch mirror and Discord community links.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Requested channel routing and invitation; no exact schedule, guaranteed service, reward or current live state asserted."
+    },
+    {
+      "surface": "tags",
+      "claim": "my chemical romance, foundations of decay, the foundations of decay, mcr, mcr bass, foundations of decay bass, mikey way, emo bass, return of my chemical romance, bass cover, bass play along, rocksmith bass, rocksmith 2014, alternative rock bass",
+      "source": "https://en.wikipedia.org/wiki/The_Foundations_of_Decay; https://genius.com/My-chemical-romance-the-foundations-of-decay-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0018 - Eurobeat Brony - Discord (The Living Tombstone Remix) (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Search identity, song/artist/album terms, genre labels, years and bass/Rocksmith format checked; broad search intent is not a guarantee. Conventional tablature and uncertain tuning/equipment tags removed."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "How does this single compare with the MCR song you first discovered?",
+      "source": "https://en.wikipedia.org/wiki/The_Foundations_of_Decay; https://genius.com/My-chemical-romance-the-foundations-of-decay-lyrics",
+      "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
+    },
+    {
+      "surface": "genres",
+      "claim": "- Post-hardcore\n- Alternative rock\n- Progressive rock\n- Gothic rock",
+      "source": "https://en.wikipedia.org/wiki/The_Foundations_of_Decay; https://genius.com/My-chemical-romance-the-foundations-of-decay-lyrics",
+      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+    }
+  ],
+  "distinct_fact_and_source": "Band reunion in 2019 versus new single in 2022; https://rateyourmusic.com/release/single/my-chemical-romance/the-foundations-of-decay/ supports alternative rock and Mikey Way bass credit. https://genius.com/My-chemical-romance-the-foundations-of-decay-lyrics",
+  "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
+  "uncertainties_and_removed_claims": "Removed nine-years-off claim, midnight claim, bass-only opening, no chorus, non-repeated phrases, unverified gear and boost promise. Historical Details and pin screenshots are not proof of current live metadata.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

@@ -1,0 +1,74 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "5b8e3d1dd49c55a4d59339ff6426d2f01956eb52312340093f03b2633088a4de",
+    "description": "6a6d8d5cb54e8e3d0de6473e71453bc59aee7d727b7b931695a21e4c87527e39",
+    "tags": "fd07e6fb47f50e38c460162cee88b33631ca476ddd4859a00e1a7d3e65677650",
+    "pinned comment": "e0d0301b48dc8396acba11551b873f25ee4a065d026dbafc6340363f43013b99",
+    "genres": "b01db6d633e6ccc79886775d8df092ac4358b90794ed5d52704e219312392a5c"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "description",
+      "claim": "Cute Without The E appears on Taking Back Sunday debut Tell All Your Friends, released 2002; emo and post-hardcore.",
+      "source": "https://concord.com/concord-albums/tell-all-your-friends/",
+      "assessment": "Song-level facts checked; genre classification reflects source, not exclusive objective truth."
+    },
+    {
+      "surface": "description",
+      "claim": "Music video homage to Fight Club; source describes scene reenactments.",
+      "source": "https://www.hypedonmelancholy.com/david",
+      "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
+    },
+    {
+      "surface": "title",
+      "claim": "Taking Back Sunday meet Fight Club in Cute Without The E",
+      "source": "https://www.hypedonmelancholy.com/david",
+      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
+    },
+    {
+      "surface": "description",
+      "claim": "MAVO performs bass while Rocksmith chart is on screen.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0012 - Taking Back Sunday - Cute Without The 'E' (Long Form)/_01 - Main Info/0012 - Taking Back Sunday - Cute Without The 'E' (Long Form) - Details.jpeg; user instruction in conversation",
+      "assessment": "Historical screenshot identifies video and format; explicit user confirms playing while overlay is on screen. Still does not establish equipment or note-by-note details."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick primary, Twitch mirror and Discord community links.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Requested channel routing and invitation; no exact schedule, guaranteed service, reward or current live state asserted."
+    },
+    {
+      "surface": "tags",
+      "claim": "taking back sunday, cute without the e, cute without the e bass, tell all your friends, emo, emo bass, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2000s emo, long island emo",
+      "source": "https://concord.com/concord-albums/tell-all-your-friends/; https://www.hypedonmelancholy.com/david; _All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0012 - Taking Back Sunday - Cute Without The 'E' (Long Form)/_01 - Main Info/0012 - Taking Back Sunday - Cute Without The 'E' (Long Form) - Details.jpeg",
+      "assessment": "Search identity, song/artist/album terms, genre labels, years and bass/Rocksmith format checked; broad search intent is not a guarantee. Conventional tablature and uncertain tuning/equipment tags removed."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which song from Tell All Your Friends would you put beside this one?",
+      "source": "https://concord.com/concord-albums/tell-all-your-friends/; https://www.hypedonmelancholy.com/david",
+      "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
+    },
+    {
+      "surface": "genres",
+      "claim": "- Emo\n- Post-hardcore\n- Pop punk",
+      "source": "https://concord.com/concord-albums/tell-all-your-friends/; https://www.hypedonmelancholy.com/david",
+      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+    }
+  ],
+  "distinct_fact_and_source": "Music video homage to Fight Club; source describes scene reenactments. https://www.hypedonmelancholy.com/david",
+  "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
+  "uncertainties_and_removed_claims": "Removed asserted authorial intention, unverified octave jump, equipment, and schedule. Historical Details and pin screenshots are not proof of current live metadata.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

@@ -1,0 +1,74 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "e82ea6373985aafad97fd03885d164888ac0a9ee523e365e3f0054e24c430a66",
+    "description": "69ce690dac535323f2ec9503ab3d4020a57be74d1a93b8d5c44f17b6a91da387",
+    "tags": "42d516f5692bd66f22b4a3d0e62dbae48a5df7b425ac772ac56c0724864b5b11",
+    "pinned comment": "10145f676c79ea13495c304adc9f5f3079322ded4d1a1da5e0af28fb61c404d6",
+    "genres": "13020ac924410280561287bad8fa1e2db2c7511b8022e728d53c345cc4832a6b"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "description",
+      "claim": "Lonely Day appears on Hypnotize (2005), is alternative metal, written and sung by Daron Malakian.",
+      "source": "https://soad.fandom.com/wiki/Lonely_Day",
+      "assessment": "Song-level facts checked; genre classification reflects source, not exclusive objective truth."
+    },
+    {
+      "surface": "description",
+      "claim": "Malakian writing and lead vocal on a System Of A Down track.",
+      "source": "https://www.discogs.com/release/4297962-System-Of-A-Down-Lonely-Day",
+      "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
+    },
+    {
+      "surface": "title",
+      "claim": "Lonely Day proves System Of A Down can whisper and still land",
+      "source": "https://soad.fandom.com/wiki/Lonely_Day",
+      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
+    },
+    {
+      "surface": "description",
+      "claim": "MAVO performs bass while Rocksmith chart is on screen.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0016 - System Of A Down - Lonely Day (Long Form)/_01 - Main Info/Details.jpeg; user instruction in conversation",
+      "assessment": "Historical screenshot identifies video and format; explicit user confirms playing while overlay is on screen. Still does not establish equipment or note-by-note details."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick primary, Twitch mirror and Discord community links.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Requested channel routing and invitation; no exact schedule, guaranteed service, reward or current live state asserted."
+    },
+    {
+      "surface": "tags",
+      "claim": "system of a down, lonely day, system of a down lonely day, hypnotize, alternative metal, soad, soad bass, bass cover, bass play along, rocksmith bass, rocksmith 2014",
+      "source": "https://soad.fandom.com/wiki/Lonely_Day; https://www.discogs.com/release/4297962-System-Of-A-Down-Lonely-Day; _All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0016 - System Of A Down - Lonely Day (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Search identity, song/artist/album terms, genre labels, years and bass/Rocksmith format checked; broad search intent is not a guarantee. Conventional tablature and uncertain tuning/equipment tags removed."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What quieter song by a heavy band stays with you after it ends?",
+      "source": "https://soad.fandom.com/wiki/Lonely_Day; https://www.discogs.com/release/4297962-System-Of-A-Down-Lonely-Day",
+      "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
+    },
+    {
+      "surface": "genres",
+      "claim": "- Alternative metal",
+      "source": "https://soad.fandom.com/wiki/Lonely_Day; https://www.discogs.com/release/4297962-System-Of-A-Down-Lonely-Day",
+      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+    }
+  ],
+  "distinct_fact_and_source": "Malakian writing and lead vocal on a System Of A Down track. https://www.discogs.com/release/4297962-System-Of-A-Down-Lonely-Day",
+  "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
+  "uncertainties_and_removed_claims": "Removed quietest-ever, four notes, no overdubs, Drop C, streaming and promised boost consequences. Track bass credit is inconsistent: Discogs lists Shavo but Soadpedia claims Daron played bass on Lonely Day; removed Shavo tag rather than assert. Historical Details and pin screenshots are not proof of current live metadata.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

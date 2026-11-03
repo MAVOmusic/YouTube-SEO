@@ -65,25 +65,25 @@
           was: Welcome To The Black Parade is five minutes of Mikey Way never standing still
   0010    if-clause + but                                If I'd Been The One, but .38 Special lets the low end argue
           was: If I'd Been The One is Southern rock where the low end does the arguing
-  0011    composer + duration + work on repeat           Chopin on bass for four hours, Nocturne Op. 9 No. 2 on repeat
+  0011    revised song-specific angle                    Chopin on bass for four hours, Nocturne Op. 9 No. 2 on repeat
           was: Four hours of Chopin's Nocturne Op. 9 No. 2, on bass, for working through
-  0012    song: band hid noun                            Cute Without The E: Taking Back Sunday hid a joke in the title
+  0012    revised song-specific angle                    Taking Back Sunday meet Fight Club in Cute Without The E
           was: Cute Without the E hides a bassline under a title that is a joke
-  0013    player sings and plays                         Tom Araya sings and plays War Ensemble for Slayer at full speed
+  0013    revised song-specific angle                    Slayer open Seasons in the Abyss with War Ensemble
           was: War Ensemble is Slayer at full sprint with one man doing two jobs
-  0014    band built the hook on instrument              Queen built the hook of I Want To Break Free on a synth
+  0014    revised song-specific angle                    John Deacon wrote Queen's I Want To Break Free
           was: The famous line in I Want To Break Free is a synth, not a bass
-  0015    band ask and answer                            Rammstein ask a wedding question and answer it with one note
+  0015    revised song-specific angle                    A wedding vow meets Rammstein in Du Hast
           was: Du Hast answers a wedding vow with one word, and Riedel repeats one note
-  0016    song proves band can verb                      Lonely Day proves System Of A Down can whisper and still land
+  0016    revised song-specific angle                    Lonely Day proves System Of A Down can whisper and still land
           was: Lonely Day is the quietest thing System Of A Down ever wrote, and the bass proves it
-  0017    duration off then band and song                Nine years off, then My Chemical Romance and Foundations Of Decay
+  0017    revised song-specific angle                    My Chemical Romance return with The Foundations Of Decay
           was: Nine years after the split, Foundations Of Decay handed Mikey Way six minutes
-  0018    remixer + remix of song                        The Living Tombstone remix of Discord runs on one bassline
+  0018    revised song-specific angle                    Discord by Eurobeat Brony remixed by The Living Tombstone
           was: Eurobeat Brony's Discord, remixed by The Living Tombstone, on one bassline
-  0019    where band put noun                            Where Rage Against The Machine put the speech in Take The Power Back
+  0019    revised song-specific angle                    Where Rage Against The Machine put the speech in Take The Power Back
           was: Rage Against The Machine put the argument in the bassline of Take The Power Back
-  0020    band stack noun on noun in song                Babymetal stack a folk melody on a bass that never rests in Megitsune
+  0020    revised song-specific angle                    A Japanese folk melody meets BABYMETAL in Megitsune
           was: Babymetal's Megitsune is a folk melody riding a bass that never rests
   0021    player swings and other player keeps up        Bill Black swings Jailhouse Rock and Elvis Presley keeps up
           was: Elvis Presley's Jailhouse Rock swings on Bill Black's upright bass
