@@ -34,7 +34,7 @@ What draws you back to Another Life when you revisit Disguise?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based playlist suggestions, not an objective or exhaustive classification. Album-level evidence applies to this recommendation, not proof of every characteristic on this track. See the review record for sources and limitations.
+Source-based playlist suggestions, not an objective or exhaustive classification. The single listing classifies this release; genre labels are recommendations rather than proof of every characteristic. See the review record for sources and limitations.
 
 ## CORRECT GENRES
 

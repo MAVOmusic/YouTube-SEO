@@ -101,7 +101,7 @@
   0034    game and instrument: band on song format               World of Tanks and a cello: Sabaton on Steel Commanders bass
   0035    before album, song reached games - format              Before Billy Talent II, Red Flag reached games - bass cover
   0036    band salute band with song on format                   Sabaton salute Manowar with Man of War on Rocksmith bass
-  0037    song gets bass run after band album                    Weightless gets a bass run after All Time Low hit Nothing Personal
+  0037    band sent song ahead of album - format                 All Time Low sent Weightless ahead of Nothing Personal - bass
   0038    producer produced song - band on instrument            Steve Brown produced She Sells Sanctuary - The Cult on bass
   0039    hear band in language: song on instrument              Hear Sabaton in Swedish: En Livstid I Krig on bass
   0040    band put language count on song release - format       Rammstein put two languages on the Amerika single - bass cover

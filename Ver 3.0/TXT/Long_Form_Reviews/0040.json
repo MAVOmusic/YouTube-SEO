@@ -3,7 +3,7 @@
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
     "title": "55f8c49138d9377a73397db56e0ffd9202ac44d49b019e090a37469775dab37b",
-    "description": "5924a0623e90ea1199016d7807108ff0b19288832a95ffefb70f10c9f27a417a",
+    "description": "f3b2962784fc8e518b0e3208c7b0016c6386069485c0362c953402919ea04677",
     "tags": "4838cd1e26d40968caf86a3992f69914f58c8f8a3e24f64126ee2f0fd67ba08b",
     "pinned comment": "0d83ec95f4bd0ba3454e78128c5f6d19bb47bc0838a9fcf4f318a3114c3d5f9b",
     "genres": "7081570a3c06f0a982007c069d6ce7a193b3451f903d39c1ebab73b3928d112c"
@@ -19,13 +19,13 @@
     {
       "surface": "title",
       "claim": "Rammstein put two languages on the Amerika single - bass cover",
-      "source": "https://rateyourmusic.com/release/single/rammstein/amerika/ ; https://rammstein.fandom.com/wiki/Amerika_(song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0040 - Rammstein - Amerika (Long Form)/_01 - Main Info/Details.jpeg",
+      "source": "https://rateyourmusic.com/release/single/rammstein/amerika/ ; https://rammstein.fandom.com/wiki/Amerika_(song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0040 - Rammstein - Amerika (Long Form)/_01 - Main Info/Details.jpeg ; https://www.discogs.com/release/899138-Rammstein-Amerika",
       "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
     },
     {
       "surface": "description",
-      "claim": "Rammstein's 2004 Amerika single includes the song and an English version. The track is on Reise, Reise as well.",
-      "source": "https://rateyourmusic.com/release/single/rammstein/amerika/ ; https://rammstein.fandom.com/wiki/Amerika_(song)",
+      "claim": "A 2004 edition of Rammstein's Amerika single includes the song and an English version. The track is on Reise, Reise as well.",
+      "source": "https://rateyourmusic.com/release/single/rammstein/amerika/ ; https://rammstein.fandom.com/wiki/Amerika_(song) ; https://www.discogs.com/release/899138-Rammstein-Amerika",
       "assessment": "Release, song or music-video facts checked against the cited sources; no claim that the official video appears in this performance."
     },
     {
@@ -113,9 +113,9 @@
       "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
     }
   ],
-  "distinct_fact_and_source": "Rammstein's 2004 Amerika single includes the song and an English version. The track is on Reise, Reise as well. https://rateyourmusic.com/release/single/rammstein/amerika/ ; https://rammstein.fandom.com/wiki/Amerika_(song)",
+  "distinct_fact_and_source": "A 2004 edition of Rammstein's Amerika single includes the song and an English version. The track is on Reise, Reise as well. https://rateyourmusic.com/release/single/rammstein/amerika/ ; https://rammstein.fandom.com/wiki/Amerika_(song) ; https://www.discogs.com/release/899138-Rammstein-Amerika",
   "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
-  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. MAVO confirmed the audio is Amerika despite the historical source filename naming a different song. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. MAVO confirmed the audio is Amerika despite the historical source filename naming a different song. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded. The English version appears on the cited German maxi-single; other 2004 editions do not necessarily include it.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

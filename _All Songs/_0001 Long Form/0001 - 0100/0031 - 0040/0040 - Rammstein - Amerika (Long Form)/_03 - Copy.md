@@ -8,10 +8,10 @@
 Rammstein put two languages on the Amerika single - bass cover
 ```
 
-## DESCRIPTION (462 characters)
+## DESCRIPTION (475 characters)
 
 ```text
-Rammstein's 2004 Amerika single includes the song and an English version. The track is on Reise, Reise as well.
+A 2004 edition of Rammstein's Amerika single includes the song and an English version. The track is on Reise, Reise as well.
 
 My Amerika bass performance includes the on-screen Rocksmith chart.
 

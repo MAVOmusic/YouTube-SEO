@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre sections are for playlist decisions only.
 
-## TITLE (66 characters)
+## TITLE (61 characters)
 
 ```text
-Weightless gets a bass run after All Time Low hit Nothing Personal
+All Time Low sent Weightless ahead of Nothing Personal - bass
 ```
 
 ## DESCRIPTION (480 characters)
