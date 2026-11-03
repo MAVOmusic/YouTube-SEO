@@ -34,7 +34,7 @@ Which game deserves its own metal collaboration?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based playlist suggestions, not an objective or exhaustive classification. Artist-level evidence applies rather than song-level classification. See the review record for sources and limitations.
+Source-based playlist suggestions, not an objective or exhaustive classification. The track page carries these genre tags; they are classification, not objective fact. See the review record for sources and limitations.
 
 ## CORRECT GENRES
 

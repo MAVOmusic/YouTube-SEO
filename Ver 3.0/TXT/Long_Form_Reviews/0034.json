@@ -19,13 +19,13 @@
     {
       "surface": "title",
       "claim": "World of Tanks and a cello: Sabaton on Steel Commanders bass",
-      "source": "https://blabbermouth.net/news/sabaton-collaborates-with-wargaming-game-developer-on-steel-commanders-music-video ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0034 - Sabaton - Steel Commanders (Long Form)/_01 - Main Info/Details.jpeg",
+      "source": "https://blabbermouth.net/news/sabaton-collaborates-with-wargaming-game-developer-on-steel-commanders-music-video ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0034 - Sabaton - Steel Commanders (Long Form)/_01 - Main Info/Details.jpeg ; https://sabaton.bandcamp.com/track/steel-commanders",
       "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
     },
     {
       "surface": "description",
       "claim": "Sabaton worked with World of Tanks developer Wargaming on the Steel Commanders music video, which features cellist Tina Guo. Its release year was 2021.",
-      "source": "https://blabbermouth.net/news/sabaton-collaborates-with-wargaming-game-developer-on-steel-commanders-music-video",
+      "source": "https://blabbermouth.net/news/sabaton-collaborates-with-wargaming-game-developer-on-steel-commanders-music-video ; https://sabaton.bandcamp.com/track/steel-commanders",
       "assessment": "Release, song or music-video facts checked against the cited sources; no claim that the official video appears in this performance."
     },
     {
@@ -121,13 +121,13 @@
     {
       "surface": "genres",
       "claim": "Power metal",
-      "source": "https://fr.rateyourmusic.com/artist/sabaton",
+      "source": "https://fr.rateyourmusic.com/artist/sabaton ; https://sabaton.bandcamp.com/track/steel-commanders",
       "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
     },
     {
       "surface": "genres",
       "claim": "Heavy metal",
-      "source": "https://fr.rateyourmusic.com/artist/sabaton",
+      "source": "https://fr.rateyourmusic.com/artist/sabaton ; https://sabaton.bandcamp.com/track/steel-commanders",
       "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
     }
   ],
