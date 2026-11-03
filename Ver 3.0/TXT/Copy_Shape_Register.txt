@@ -130,16 +130,16 @@
   0028    Band describes musical idea preceding warship subject Which historical subject would you like Sabaton to write about next?
   0029    Band describes the Paradise Lost inspiration behind t What other metal song led you to a book or a poem?
   0030    Pendulum and DJ Fresh release featuring Spyda and Ten Pick a drum and bass track for a bass-guitar adaptation.
-  0031    runtime arithmetic                           P-anecdote
-  0032    band-reputation reversal                       P-rating-scale
-  0033    section-by-section walkthrough                   P-channel-history
-  0034    the thing that is missing                       P-prediction
-  0035    a question the song refuses to answer           P-second-person-challenge
-  0036    one-word verdict then the reason                P-binary-comparison
-  0037    quote a lyric line then undercut it             P-confession-then-ask
-  0038    single observation about the mix                P-craft-question
-  0039    instrument-first, what the part refuses to do   P-correction-invite
-  0040    writing history, dated, with the studio         P-diagnostic-fork
+  0031    Dear Maria, Count Me In appears sixth on All Time Low What album track would you choose as an introduction to All Time Low?
+  0032    Roulette is track fifteen on System Of A Down's 2002  Which heavy band has made your favourite acoustic track?
+  0033    Another Life credits Chris Cerulli, Drew Fulk and Jos What draws you back to Another Life when you revisit Disguise?
+  0034    Sabaton worked with World of Tanks developer Wargamin Which game deserves its own metal collaboration?
+  0035    A demo of Red Flag appeared in games including Burnou Which game soundtrack first pointed you towards a band?
+  0036    Man of War is a Sabaton bonus track on editions of th Which tribute song sent you to the artist being honoured?
+  0037    Weightless was the lead single from All Time Low's 20 Name a music-video cameo that surprised you.
+  0038    The Cult released She Sells Sanctuary as a single in  Which 1980s single made you curious enough to explore the full album?
+  0039    En Livstid I Krig appears on the Swedish edition of S Do you prefer the Swedish or English version, and what makes it stand out to you?
+  0040    Rammstein's 2004 Amerika single includes the song and What other song would you enjoy hearing in a different language?
   0041    the origin story, third person                  P-absurd-contrast
   0042    the same song in three versions                 P-craft-fork
   0043    instrument-first, what nobody else does         P-binary-verdict

@@ -20,10 +20,10 @@ Want to follow the low end? The Rocksmith display accompanies my bass take.
 💬 Share a Queen deep cut in Discord and consider a boost if you wish: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 199/500 characters)
+## TAGS (15 tags, 212/500 characters)
 
 ```text
-queen, i want to break free, i want to break free bass, john deacon, the works, pop rock, synth pop, 80s bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, freddie mercury, queen bass
+queen, i want to break free, i want to break free bass, john deacon, the works, pop rock, synth pop, 80s bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, freddie mercury, queen bass, queen songs
 ```
 
 ## PINNED COMMENT (61 characters)

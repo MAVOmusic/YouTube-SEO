@@ -1,0 +1,146 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "09d0ef90017fedf5ac338427a5971f838da5849a4e02f0bfbebe8df540bfe368",
+    "description": "d2c9d0b25b5aff2099fee73e7b517df0fa74a19c6cf0ba464ab9f5bc91bb64d5",
+    "tags": "7748ed7d82d23d77aedb2fc1413453af9b28c6fc5c632feb2af16870b77b1ec1",
+    "pinned comment": "0ba1b01f32861e4be645bc1f84cb5a958fb8b456f336121e33f97edb8ee8b7d7",
+    "genres": "485b2b25cd99bd93993ca67ea2c0c19b76af57518477f4f7379e7db3ca3eb722"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Before Billy Talent II, Red Flag reached games - bass cover",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
+    },
+    {
+      "surface": "description",
+      "claim": "A demo of Red Flag appeared in games including Burnout Revenge before Billy Talent II came out in 2006. The album includes Billy Talent's finished track.",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II",
+      "assessment": "Release, song or music-video facts checked against the cited sources; no claim that the official video appears in this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "For this performance I play bass while the game chart runs on screen.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg ; MAVO confirmation: plays bass while the overlay is displayed",
+      "assessment": "Format based on historical Details screenshot and user confirmation, not a note-by-note transcription."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Kick first, Twitch mirror, Discord last; boost request is optional and makes no reward or schedule promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy talent",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; https://rateyourmusic.com/release/single/billy-talent/red-flag/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "red flag",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; https://rateyourmusic.com/release/single/billy-talent/red-flag/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy talent red flag",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; https://rateyourmusic.com/release/single/billy-talent/red-flag/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy talent ii",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; https://rateyourmusic.com/release/single/billy-talent/red-flag/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "burnout revenge",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; https://rateyourmusic.com/release/single/billy-talent/red-flag/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop punk",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; https://rateyourmusic.com/release/single/billy-talent/red-flag/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "punk rock",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; https://rateyourmusic.com/release/single/billy-talent/red-flag/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative rock",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; https://rateyourmusic.com/release/single/billy-talent/red-flag/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "2006",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; https://rateyourmusic.com/release/single/billy-talent/red-flag/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; https://rateyourmusic.com/release/single/billy-talent/red-flag/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; https://rateyourmusic.com/release/single/billy-talent/red-flag/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; https://rateyourmusic.com/release/single/billy-talent/red-flag/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which game soundtrack first pointed you towards a band?",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Pinned.jpeg",
+      "assessment": "Historical comments screenshot checked for an artist comment; this is a new opinion question, not a verified current pin. Screenshot may not show every comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://rateyourmusic.com/release/single/billy-talent/red-flag/",
+      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://rateyourmusic.com/release/single/billy-talent/red-flag/",
+      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Punk rock",
+      "source": "https://rateyourmusic.com/release/single/billy-talent/red-flag/",
+      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+    }
+  ],
+  "distinct_fact_and_source": "A demo of Red Flag appeared in games including Burnout Revenge before Billy Talent II came out in 2006. The album includes Billy Talent's finished track. https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II",
+  "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Search panel shows insufficient traffic data; no query-specific tags attributed to it.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

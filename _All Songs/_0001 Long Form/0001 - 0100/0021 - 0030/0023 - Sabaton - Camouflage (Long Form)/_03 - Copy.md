@@ -20,10 +20,10 @@ Here I play bass along to Sabaton's version in Rocksmith.
 💬 Compare the two versions in Discord; boosts are always optional: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (10 tags, 132/500 characters)
+## TAGS (11 tags, 152/500 characters)
 
 ```text
-sabaton, camouflage, sabaton camouflage, stan ridgway, the last stand, power metal, 2016, bass cover, rocksmith bass, rocksmith 2014
+sabaton, camouflage, sabaton camouflage, stan ridgway, the last stand, power metal, 2016, bass cover, rocksmith bass, rocksmith 2014, camouflage sabaton
 ```
 
 ## PINNED COMMENT (68 characters)

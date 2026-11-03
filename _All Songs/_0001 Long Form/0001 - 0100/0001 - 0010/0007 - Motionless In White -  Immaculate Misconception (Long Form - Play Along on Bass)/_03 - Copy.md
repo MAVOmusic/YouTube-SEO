@@ -20,10 +20,10 @@ The chart remains visible in this Rocksmith bass video so you can follow the son
 💬 Tell the Discord community which Creatures track you would choose next; boosts are welcome: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (12 tags, 190/500 characters)
+## TAGS (14 tags, 272/500 characters)
 
 ```text
-motionless in white, immaculate misconception, immaculate misconception bass, creatures, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2010, bass guitar, play along
+motionless in white, immaculate misconception, immaculate misconception bass, creatures, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2010, bass guitar, play along, rocksmith bass motionless in white, motionless in white immaculate misconception
 ```
 
 ## PINNED COMMENT (83 characters)

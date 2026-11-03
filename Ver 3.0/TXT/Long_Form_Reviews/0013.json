@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "620a037bca2904aba8c1cee0492dea34a909b754f713017d39a26406901b8a9e",
     "description": "ccdb4ed2d30fd538d53b604cdeba827188a685ee6ca7441c86f40e5243f592cb",
-    "tags": "58b94981e8bd887c5eb8170d7c22e5acf7f3682155d2f7d887e64a45e349a566",
+    "tags": "95831d4bfb2ba5ef43a18cb3192dcb7f576008a351faefa0ad6577721d58ef77",
     "pinned comment": "edaf09f02fce00e03f32dac3ad01f6800d672b0371815d422e3582f8393f99f1",
     "genres": "b4ea4039e2510171c90c05a0287d92576a819d46f35e1825a2867e0e2beb6a0f"
   },
@@ -63,11 +63,17 @@
       "claim": "- Thrash metal",
       "source": "https://www.whosampled.com/Slayer/War-Ensemble/; https://www.kerrang.com/slayer-the-stories-behind-20-of-their-biggest-songs",
       "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass rocksmith",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0013 - Slayer - War Ensemble (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
     }
   ],
   "distinct_fact_and_source": "Album opener and first video attempt at Wembley Arena in October 1990. https://www.kerrang.com/slayer-the-stories-behind-20-of-their-biggest-songs",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Removed claims of live singing by Araya in this video, eighth-note analysis, constant speed and no punch-ins. Historical Details and pin screenshots are not proof of current live metadata.",
+  "uncertainties_and_removed_claims": "Removed claims of live singing by Araya in this video, eighth-note analysis, constant speed and no punch-ins. Historical Details and pin screenshots are not proof of current live metadata. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

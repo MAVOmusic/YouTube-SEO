@@ -525,3 +525,50 @@ limits, typography, artist-comment handling and git diff --check passed.
 The preserved-pin gate parser received regression tests; it hashes the observed
 comment, not instructions, and never certifies the live pin. Bands verify.sh also
 passes but has no bearing on this long-form factual review.
+
+2026-11-03 - CORRECTION TO EARLIER SCREENSHOT MAPPING
+The earlier conclusions that Details images for parts of 0011-0030 were
+cross-filed were wrong. Parallel image results had been associated with the
+wrong paths. Labeled sequential contact sheets and direct checks show Details
+screenshots in 0011-0030 match their song folders; 0002, 0004-0010 also match,
+and 0003 Description matches Masterpiece. Per-video JSON image references have
+been corrected to each song's own image. The 0025 artist comment is in that
+song's Official Comment.jpeg, not 0024 Details; it reads @AephanemerOfficial:
+Fantastic job! Congrats!! The screenshot is historical and does not prove the
+comment is currently pinned. Historical log entries are retained as history;
+this entry supersedes their incorrect screenshot-misfiling conclusions.
+
+SEARCH-TERM RECHECK 0001-0030
+Relevant visible terms omitted from the copy tags were restored where space
+allowed: 0002 rocksmith 2014 bass; 0003 motionless in white masterpiece cover,
+rocksmith bass metal; 0004 rocksmith bass motionless in white; 0005 that term
+and motionless in white bass cover; 0006 rocksmith bass motionless in white;
+0007 that term and motionless in white immaculate misconception; 0008 green day
+rocksmith; 0009 welcome to the black parade bass; 0012 bass rocksmith and cute
+without the e cover; 0013 bass rocksmith; 0014 queen songs; 0016 rocksmith bass
+system of a down; 0018 bass rocksmith, discord the living tombstone and discord
+odyssey eurobeat; 0023 camouflage sabaton; 0024 sabton; 0030 tarantula pendulum.
+The exact source screenshot is recorded per added tag. Odyssey Eurobeat is the
+original artist Eurobeat Brony: https://en.wikipedia.org/wiki/The_Living_Tombstone
+and https://x.com/odysseyeb. These are observed historical search phrases, not
+proof that a tag caused a view or will improve discovery. Existing equivalent
+terms were retained; unrelated songs, artists, films, reaction/live-footage
+queries, broad unrelated noise and unverified tuning terms were not added.
+Visible cards are partial historical reports, not complete live search queries.
+
+0031-0040 - FACT, COPY AND HISTORICAL SEARCH REVIEW
+Each Details and available comment screenshot inspected; user confirms 0040 is
+Rammstein Amerika despite old source filename. Per-video records contain facts,
+genre citations and uncertainties. 0033 uses songwriting credits, distinct from
+the fan-feedback and video-director angles of 0002 and 0004. The 0035 game
+soundtrack refers to the demo, not necessarily the album recording. The 0036
+Manowar tribute is an edition-dependent Heroes bonus track. 0039 names Swedish
+and English counterparts without claiming line-by-line translation. 0040 single
+has an English version; do not infer which exact arrangement this video uses.
+0031 historical relevant visible queries were retained including artist/title,
+bass and rocksmith 2014 bass; 0034 Sabaton and Sabaton cover, 0037-0038
+rocksmith bass, 0039 song/artist, 0040 Rammstein, Rammstein cover and rocksmith
+bass are present. 0032 rocksmith and 0033 another life are broad but relevant;
+0035 had insufficient data. Excluded generic commanders, the unrelated warrock,
+and concert-intent all time low live. 0039/0040 genre labels are recommendations,
+not objective facts. Historical screenshots do not prove current pin or tags.

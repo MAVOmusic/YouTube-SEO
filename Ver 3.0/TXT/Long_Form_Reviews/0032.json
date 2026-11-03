@@ -1,0 +1,122 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "2c1eb77654361685ba6512e10205d06f44fd214155fbadd45987fa3b959e4e9c",
+    "description": "98165c47299e239cc9e6b01b4a063e8257ec65f02cb60bcf46a1634a4e181af3",
+    "tags": "34673acbd61e154171268ba0e8cbd0fb710a12abe0f08f084e61461e74dcd880",
+    "pinned comment": "02bd57dc777d5304f6e890643bc85c01e68d29abdbef27117e788236d913a411",
+    "genres": "93e7735b6f0ee1a31f08b5beb843526c432a7ca8ff2bd9a677e682a6fd24561a"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Roulette takes System Of A Down into acoustic territory on bass",
+      "source": "https://rateyourmusic.com/song/system-of-a-down/roulette/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0032 - System Of A Down - Roulette (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Roulette is track fifteen on System Of A Down's 2002 album Steal This Album! Rate Your Music classifies the song as acoustic rock.",
+      "source": "https://rateyourmusic.com/song/system-of-a-down/roulette/",
+      "assessment": "Release, song or music-video facts checked against the cited sources; no claim that the official video appears in this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "This is my Rocksmith bass playthrough, with the chart alongside the song.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0032 - System Of A Down - Roulette (Long Form)/_01 - Main Info/Details.jpeg ; MAVO confirmation: plays bass while the overlay is displayed",
+      "assessment": "Format based on historical Details screenshot and user confirmation, not a note-by-note transcription."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Kick first, Twitch mirror, Discord last; boost request is optional and makes no reward or schedule promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "system of a down",
+      "source": "https://rateyourmusic.com/song/system-of-a-down/roulette/ ; https://rateyourmusic.com/song/system-of-a-down/roulette/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0032 - System Of A Down - Roulette (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "roulette",
+      "source": "https://rateyourmusic.com/song/system-of-a-down/roulette/ ; https://rateyourmusic.com/song/system-of-a-down/roulette/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0032 - System Of A Down - Roulette (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "system of a down roulette",
+      "source": "https://rateyourmusic.com/song/system-of-a-down/roulette/ ; https://rateyourmusic.com/song/system-of-a-down/roulette/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0032 - System Of A Down - Roulette (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "soad",
+      "source": "https://rateyourmusic.com/song/system-of-a-down/roulette/ ; https://rateyourmusic.com/song/system-of-a-down/roulette/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0032 - System Of A Down - Roulette (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "steal this album",
+      "source": "https://rateyourmusic.com/song/system-of-a-down/roulette/ ; https://rateyourmusic.com/song/system-of-a-down/roulette/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0032 - System Of A Down - Roulette (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "acoustic rock",
+      "source": "https://rateyourmusic.com/song/system-of-a-down/roulette/ ; https://rateyourmusic.com/song/system-of-a-down/roulette/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0032 - System Of A Down - Roulette (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "2002",
+      "source": "https://rateyourmusic.com/song/system-of-a-down/roulette/ ; https://rateyourmusic.com/song/system-of-a-down/roulette/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0032 - System Of A Down - Roulette (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://rateyourmusic.com/song/system-of-a-down/roulette/ ; https://rateyourmusic.com/song/system-of-a-down/roulette/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0032 - System Of A Down - Roulette (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://rateyourmusic.com/song/system-of-a-down/roulette/ ; https://rateyourmusic.com/song/system-of-a-down/roulette/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0032 - System Of A Down - Roulette (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014",
+      "source": "https://rateyourmusic.com/song/system-of-a-down/roulette/ ; https://rateyourmusic.com/song/system-of-a-down/roulette/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0032 - System Of A Down - Roulette (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which heavy band has made your favourite acoustic track?",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0032 - System Of A Down - Roulette (Long Form)/_01 - Main Info/Pinned.jpeg",
+      "assessment": "Historical comments screenshot checked for an artist comment; this is a new opinion question, not a verified current pin. Screenshot may not show every comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Acoustic rock",
+      "source": "https://rateyourmusic.com/song/system-of-a-down/roulette/",
+      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+    }
+  ],
+  "distinct_fact_and_source": "Roulette is track fifteen on System Of A Down's 2002 album Steal This Album! Rate Your Music classifies the song as acoustic rock. https://rateyourmusic.com/song/system-of-a-down/roulette/",
+  "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

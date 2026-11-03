@@ -20,10 +20,10 @@ Learning this bass part? See the Rocksmith notes as a visual guide to my playing
 💬 Recommend a Taking Back Sunday track in Discord, and thank you for any boost: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (13 tags, 200/500 characters)
+## TAGS (15 tags, 242/500 characters)
 
 ```text
-taking back sunday, cute without the e, cute without the e bass, tell all your friends, emo, emo bass, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2000s emo, long island emo
+taking back sunday, cute without the e, cute without the e bass, tell all your friends, emo, emo bass, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2000s emo, long island emo, bass rocksmith, cute without the e cover
 ```
 
 ## PINNED COMMENT (68 characters)

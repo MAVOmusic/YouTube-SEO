@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "f4eec2ce138e0e176071d1949a89be4f98536407944617d184ffd5f95ae7cf48",
     "description": "0283959343f5feaf3a14deb86a20420d2577481f8863a4b11e0886036771e218",
-    "tags": "1f15f86ebab845a3454950aadc013f2dbc76ace74aa4c5637e1203880ad201b1",
+    "tags": "e177c7be6acf8a34676c72c156b88e1e6309861277ee0d5da8365ee2e5dd4939",
     "pinned comment": "41e5094b3198a6e1799bdc8e4379c814ea341ae59d0bc6a3f060b923500cff08",
     "genres": "8982e9226cfac559a9066a79b11ab1c77b6842a44af2ddfa3868d47039c36ac2"
   },
@@ -141,11 +141,17 @@
       "claim": "Alternative metal",
       "source": "https://www.albumoftheyear.org/album/630951-motionless-in-white-another-life.php",
       "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014 bass",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0002 - Motionless In White - Another Life (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
     }
   ],
   "distinct_fact_and_source": "Audience feedback informed the selection of the single, distinct from the director angle on 0004. https://www.altpress.com/motionless-in-white-another-life-music-video/",
   "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 2 five-word matches. Both signals are required song and artist identity shared with the separate Another Life upload. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
-  "uncertainties_and_removed_claims": "Removed unverified Drop C and model tags previously; single-date sources differ between December 2019 and January 2020, so no precise single date is asserted. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown.",
+  "uncertainties_and_removed_claims": "Removed unverified Drop C and model tags previously; single-date sources differ between December 2019 and January 2020, so no precise single date is asserted. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness.",
   "collision_report_sha256": "9a0a50052eb2bc3b911e7d1207b6e88f2eb715547ab5b9044b3d2d202e248ea5",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

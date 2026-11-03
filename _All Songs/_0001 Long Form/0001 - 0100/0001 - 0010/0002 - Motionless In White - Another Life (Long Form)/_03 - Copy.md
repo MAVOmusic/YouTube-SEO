@@ -20,10 +20,10 @@ Follow along with the on-screen chart and listen to the way the vocal and instru
 💬 Bring a track suggestion to Discord; thanks to everyone who boosts the server: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (13 tags, 200/500 characters)
+## TAGS (14 tags, 221/500 characters)
 
 ```text
-motionless in white, another life, motionless in white another life, disguise, post grunge, alternative metal, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2019, bass guitar
+motionless in white, another life, motionless in white another life, disguise, post grunge, alternative metal, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2019, bass guitar, rocksmith 2014 bass
 ```
 
 ## PINNED COMMENT (67 characters)

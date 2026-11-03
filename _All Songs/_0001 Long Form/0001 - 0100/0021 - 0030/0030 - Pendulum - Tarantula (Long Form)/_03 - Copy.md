@@ -20,10 +20,10 @@ I bring the low end to this collaboration on Rocksmith bass.
 💬 Head to Discord with a DnB collaboration you rate; optional boosts help the community: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 190/500 characters)
+## TAGS (15 tags, 210/500 characters)
 
 ```text
-pendulum, tarantula, pendulum tarantula, dj fresh, spyda, tenor fly, hold your colour, drum and bass, dancefloor drum and bass, ragga jungle, 2005, bass cover, rocksmith bass, rocksmith 2014
+pendulum, tarantula, pendulum tarantula, dj fresh, spyda, tenor fly, hold your colour, drum and bass, dancefloor drum and bass, ragga jungle, 2005, bass cover, rocksmith bass, rocksmith 2014, tarantula pendulum
 ```
 
 ## PINNED COMMENT (56 characters)

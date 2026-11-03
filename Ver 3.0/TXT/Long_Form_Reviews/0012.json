@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "5b8e3d1dd49c55a4d59339ff6426d2f01956eb52312340093f03b2633088a4de",
     "description": "6a6d8d5cb54e8e3d0de6473e71453bc59aee7d727b7b931695a21e4c87527e39",
-    "tags": "fd07e6fb47f50e38c460162cee88b33631ca476ddd4859a00e1a7d3e65677650",
+    "tags": "d841dabe88259ffa88748f396643a111d3acd438a460716fbec93163855dadef",
     "pinned comment": "e0d0301b48dc8396acba11551b873f25ee4a065d026dbafc6340363f43013b99",
     "genres": "b01db6d633e6ccc79886775d8df092ac4358b90794ed5d52704e219312392a5c"
   },
@@ -63,11 +63,23 @@
       "claim": "- Emo\n- Post-hardcore\n- Pop punk",
       "source": "https://concord.com/concord-albums/tell-all-your-friends/; https://www.hypedonmelancholy.com/david",
       "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass rocksmith",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0012 - Taking Back Sunday - Cute Without The 'E' (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
+    },
+    {
+      "surface": "tags",
+      "claim": "cute without the e cover",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0012 - Taking Back Sunday - Cute Without The 'E' (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
     }
   ],
   "distinct_fact_and_source": "Music video homage to Fight Club; source describes scene reenactments. https://www.hypedonmelancholy.com/david",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Removed asserted authorial intention, unverified octave jump, equipment, and schedule. Historical Details and pin screenshots are not proof of current live metadata.",
+  "uncertainties_and_removed_claims": "Removed asserted authorial intention, unverified octave jump, equipment, and schedule. Historical Details and pin screenshots are not proof of current live metadata. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

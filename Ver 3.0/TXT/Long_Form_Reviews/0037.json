@@ -1,0 +1,128 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "db0480fad52c372a65838503afdcf21cf3624d4a166ed6742019eeacc1573c33",
+    "description": "112327fd33c184163e613034237b6d8cfa50b5688b71dd52f9b36cf94475e049",
+    "tags": "fd63d4305e5353c9439f4949f51d3b1eb1333af9d2a44aacb1b99d31b55023e2",
+    "pinned comment": "439be84bf1859587fdb6fcd471f4a12048a8aeb53decc7331cfc6f46dca1e538",
+    "genres": "4af9a0826ebc8c527f1e8af29e9684c1089d7b6664ed1766296f81705e1f0cad"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Weightless gets a bass run after All Time Low hit Nothing Personal",
+      "source": "https://www.altpress.com/all-time-low-weightless-lyrics-quiz/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Weightless was the lead single from All Time Low's 2009 album Nothing Personal. The official music video features cameos from Mark Hoppus and Pete Wentz.",
+      "source": "https://www.altpress.com/all-time-low-weightless-lyrics-quiz/",
+      "assessment": "Release, song or music-video facts checked against the cited sources; no claim that the official video appears in this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Here I bring Weightless to Rocksmith and play the bass part.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_01 - Main Info/Details.jpeg ; MAVO confirmation: plays bass while the overlay is displayed",
+      "assessment": "Format based on historical Details screenshot and user confirmation, not a note-by-note transcription."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Kick first, Twitch mirror, Discord last; boost request is optional and makes no reward or schedule promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "all time low",
+      "source": "https://www.altpress.com/all-time-low-weightless-lyrics-quiz/ ; https://en.wikipedia.org/wiki/Weightless_(All_Time_Low_song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "weightless",
+      "source": "https://www.altpress.com/all-time-low-weightless-lyrics-quiz/ ; https://en.wikipedia.org/wiki/Weightless_(All_Time_Low_song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "all time low weightless",
+      "source": "https://www.altpress.com/all-time-low-weightless-lyrics-quiz/ ; https://en.wikipedia.org/wiki/Weightless_(All_Time_Low_song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "nothing personal",
+      "source": "https://www.altpress.com/all-time-low-weightless-lyrics-quiz/ ; https://en.wikipedia.org/wiki/Weightless_(All_Time_Low_song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "mark hoppus",
+      "source": "https://www.altpress.com/all-time-low-weightless-lyrics-quiz/ ; https://en.wikipedia.org/wiki/Weightless_(All_Time_Low_song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "pete wentz",
+      "source": "https://www.altpress.com/all-time-low-weightless-lyrics-quiz/ ; https://en.wikipedia.org/wiki/Weightless_(All_Time_Low_song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop punk",
+      "source": "https://www.altpress.com/all-time-low-weightless-lyrics-quiz/ ; https://en.wikipedia.org/wiki/Weightless_(All_Time_Low_song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "2009",
+      "source": "https://www.altpress.com/all-time-low-weightless-lyrics-quiz/ ; https://en.wikipedia.org/wiki/Weightless_(All_Time_Low_song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.altpress.com/all-time-low-weightless-lyrics-quiz/ ; https://en.wikipedia.org/wiki/Weightless_(All_Time_Low_song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.altpress.com/all-time-low-weightless-lyrics-quiz/ ; https://en.wikipedia.org/wiki/Weightless_(All_Time_Low_song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014",
+      "source": "https://www.altpress.com/all-time-low-weightless-lyrics-quiz/ ; https://en.wikipedia.org/wiki/Weightless_(All_Time_Low_song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, release, genre or format tag. Historical visible search-term match included where cited; otherwise a recommendation, not an observed-query claim."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Name a music-video cameo that surprised you.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0037 - All Time Low - Weightless (Long Form)/_01 - Main Info/Pinned.jpeg",
+      "assessment": "Historical comments screenshot checked for an artist comment; this is a new opinion question, not a verified current pin. Screenshot may not show every comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://en.wikipedia.org/wiki/Weightless_(All_Time_Low_song)",
+      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+    }
+  ],
+  "distinct_fact_and_source": "Weightless was the lead single from All Time Low's 2009 album Nothing Personal. The official music video features cameos from Mark Hoppus and Pete Wentz. https://www.altpress.com/all-time-low-weightless-lyrics-quiz/",
+  "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}
