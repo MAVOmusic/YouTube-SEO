@@ -3,8 +3,8 @@
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
     "title": "8f42a0d0064d141386808ce408342a31df1949179aab2e2c26ea55b4da06fd5a",
-    "description": "79e19d0cddef7cd36756ecd3ae6551f048edc10b1e01b52e3262a6749197b6d5",
-    "tags": "f42197f818dee188f4d3cd361be5c91b539c117da70aba202b10cb571d944fe6",
+    "description": "7324b313310864eebe09578f1dde5c5170c9b299066d9e01b1172c29109f5833",
+    "tags": "6ac27e3ece4600cec855d9ed881616d0ab73a65dc9eb538c0211ec4ddd7e31dc",
     "pinned comment": "d9538bd297148190909b253c3df66c7b04fc56fe03cd520cdf70d1e950b069a2",
     "genres": "6f2157d015ccec6ce54d0ae4f3d2e2298008b0297888aa33e381ecd97d6c1b9f"
   },
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "description",
-      "claim": "If I'd Been The One opens .38 Special album Tour de Force, released 1983.",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album)",
-      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+      "claim": "If I'd Been The One opens .38 Special's album Tour De Force.",
+      "source": "https://www.deezer.com/en/album/1564941 ; https://open.spotify.com/track/5hs4eTxxeQA3PiSU77ytew",
+      "assessment": "Track order confirmed; release year omitted because 1983 and 1984 are both listed by streaming sources."
     },
     {
       "surface": "description",
@@ -108,12 +108,6 @@
     },
     {
       "surface": "tags",
-      "claim": "1983",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
       "claim": "bass guitar",
       "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
       "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
@@ -151,7 +145,7 @@
   ],
   "distinct_fact_and_source": "1983 album opener and Southern rock / AOR context. https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album)",
   "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
-  "uncertainties_and_removed_claims": "Removed unverified claim that no extra notes were added. Genre source labels are interpretations. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown.",
+  "uncertainties_and_removed_claims": "Removed unverified claim that no extra notes were added. Genre source labels are interpretations. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. 2026-11-03 recheck: album year removed from description and year tag removed due to conflicting 1983 and 1984 listings; song appears in a November 1983 chart (https://top40weekly.com/2013/10/19/us-top-40-singles-for-the-week-ending-november-12-1983/).",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

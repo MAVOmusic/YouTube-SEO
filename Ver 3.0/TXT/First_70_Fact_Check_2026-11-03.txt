@@ -683,3 +683,9 @@ verification of every description, tag, genre and pin: do not certify all 70
 as error-free or proceed to 0071 on the strength of this entry. Genres remain
 subjective, some release or album-level; image captures do not establish current
 comments, monetisation or exact audio arrangements. More evidence review needed.
+
+2026-11-03 - INCOMPLETE independent recheck, immediate corrections:
+CO-0010: conflicting album date listings (Deezer 1983, Spotify 1984); removed year from description and tags, retained album track position. Song was already on a November 1983 chart; 1 January 1984 on Spotify/Deezer is not proof of original release on that day. Sources: https://www.deezer.com/en/album/1564941 ; https://open.spotify.com/track/5hs4eTxxeQA3PiSU77ytew ; https://top40weekly.com/2013/10/19/us-top-40-singles-for-the-week-ending-november-12-1983/ .
+CO-0011: removed contested first-publication year; piano scoring retained, https://www.alfred.com/nocturne-in-e-flat-major-op-9-no-2/p/98-EP73577A/ .
+CO-0067: Chester Bennington credits Joe Hahn for the concept and Gregory Dark as director: https://www.fuse.tv/videos/2014/02/linkin-park-backatcha ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ . A different source mentions joint concept work; none of this proves sole authorship. Existing copy does not say exclusive credit; kept it, documented uncertainty in the review record.
+These corrections do not complete a source-by-source recheck of all 70 or authorize posting; batching and verification remain outstanding.

@@ -8,10 +8,10 @@
 If I'd Been The One, but .38 Special lets the low end argue
 ```
 
-## DESCRIPTION (486 characters)
+## DESCRIPTION (481 characters)
 
 ```text
-If I'd Been The One opens .38 Special's 1983 album Tour De Force. The bass play along brings the Southern rock track to the on-screen chart.
+If I'd Been The One opens .38 Special's album Tour De Force. The bass play along brings the Southern rock track to the on-screen chart.
 
 Listen to how the low end sits alongside the guitars and vocal, then follow the part through the song.
 
@@ -20,10 +20,10 @@ Listen to how the low end sits alongside the guitars and vocal, then follow the 
 💬 Talk classic rock with us in Discord; thanks to our server boosters: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 187/500 characters)
+## TAGS (13 tags, 181/500 characters)
 
 ```text
-38 special, if id been the one, southern rock, classic rock, tour de force, bass cover, bass play along, rocksmith bass, rocksmith 2014, 1983, bass guitar, 80s rock, rock bass, play along
+38 special, if id been the one, southern rock, classic rock, tour de force, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass guitar, 80s rock, rock bass, play along
 ```
 
 ## PINNED COMMENT (57 characters)

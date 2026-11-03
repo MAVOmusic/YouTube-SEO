@@ -626,3 +626,5 @@ complete. Replaced titles 0002, 0019 and 0044 after detecting subjective or
 misleading wording; rechecked source and gate. Do not certify the full corpus
 until remaining factual claims and genre limitations have been independently
 reviewed.
+
+2026-11-03 - Incomplete first-70 recheck: corrected 0010 conflicting album-year wording and 0011 disputed publication year; added direct interview evidence and sole-credit caveat for 0067. See TXT/First_70_Fact_Check_2026-11-03.txt. No first-70 readiness certification; source-by-source review and batch completion remain outstanding.

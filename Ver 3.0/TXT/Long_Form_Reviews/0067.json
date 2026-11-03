@@ -19,14 +19,14 @@
     {
       "surface": "title",
       "claim": "Joe Hahn conceived the One Step Closer video for Linkin Park",
-      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Fact and upload identity checked against historical details and cited source."
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.fuse.tv/videos/2014/02/linkin-park-backatcha",
+      "assessment": "Fact and upload identity checked against historical details and cited source. Chester Bennington said Hahn came up with the concept and Dark directed; this does not establish that no one else contributed."
     },
     {
       "surface": "description",
       "claim": "The music video for Linkin Park's One Step Closer credits Joe Hahn with its concept and Gregory Dark as director. This bass performance is separate from that video.",
-      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/",
-      "assessment": "Specific factual angle checked; director credits refer to artist videos, not this performance."
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; https://www.fuse.tv/videos/2014/02/linkin-park-backatcha",
+      "assessment": "Specific factual angle checked; director credits refer to artist videos, not this performance. Chester Bennington said Hahn came up with the concept and Dark directed; this does not establish that no one else contributed."
     },
     {
       "surface": "description",
@@ -121,7 +121,7 @@
   ],
   "distinct_fact_and_source": "Joe Hahn video concept credit ; https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/",
   "uniqueness_assessment": "No five-word collision signals in the available corpus. Distinct angles, questions and titles reviewed against available songs; unseen and future videos cannot be certified.",
-  "uncertainties_and_removed_claims": "Hahn is credited for concept; director credit also names Gregory Dark. Do not imply this upload contains the official video. Screenshots are historical and incomplete; genre recommendations remain subjective.",
+  "uncertainties_and_removed_claims": "Hahn is credited for concept; director credit also names Gregory Dark. Do not imply this upload contains the official video. Screenshots are historical and incomplete; genre recommendations remain subjective. Recheck: a source describes joint conceptual work; the band interview credits Hahn with the concept and Dark as director, but does not rule out contributions by others.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

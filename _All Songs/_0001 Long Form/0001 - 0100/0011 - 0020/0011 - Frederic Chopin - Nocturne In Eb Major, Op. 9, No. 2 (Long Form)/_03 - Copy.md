@@ -8,10 +8,10 @@
 Chopin on bass for four hours, Nocturne Op. 9 No. 2 on repeat
 ```
 
-## DESCRIPTION (504 characters)
+## DESCRIPTION (478 characters)
 
 ```text
-Chopin's Nocturne in E flat major, Op. 9 No. 2 was first published in 1832 as a work for piano. The bass loop here runs for a little over four hours.
+Chopin's Nocturne in E flat major, Op. 9 No. 2 was written for piano. The bass loop here runs for a little over four hours.
 
 Use the on-screen chart to follow the bass, or settle in for an extended listen.
 
