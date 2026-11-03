@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "8e2d241925155f290886c3755d92fe225090b293db5dfd5a01a819572ce9b240",
+    "title": "c960d73caa604a5a4aba6e5c0a045de26e658e6bf6b700499f0fff59835e7a33",
     "description": "2247184ada4e9ad6f41282c1601de0d1dbedd014d3358e75ec716bf327f6aa36",
-    "tags": "807a46b7fd35e74031968f26f47f0bb377661f51749022630b387cd1e1aff9ec",
+    "tags": "6f992b544c7eeb9ae52d8585e5a97a9d12fcb435684ee7b6abad2c3c1f9c38de",
     "pinned comment": "0441c8301b8ce27e9d73006084bb58cb21fa59b044e66e2857313f02892daa7e",
-    "genres": "a1a98d8c1d07cb6cf2c8a0aa92d0893fe0a2a9b0c7f57c15d8a7b6ea1bc77d72"
+    "genres": "b8d18f173f52e330c7d3e469420f810e6b4e38cd7e65e92e1bf039b69c13da06"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -16,12 +16,6 @@
     "genres": true
   },
   "claims": [
-    {
-      "surface": "title",
-      "claim": "Archangel and Paradise Lost: Amaranthe on Rocksmith bass",
-      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0029 - Amaranthe - Archangel (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Title identities and release angle checked; bass format based on screenshot and MAVO confirmation, not note-by-note footage."
-    },
     {
       "surface": "description",
       "claim": "Amaranthe released Archangel as a single ahead of their 2020 album Manifest.",
@@ -125,21 +119,63 @@
       "assessment": "Invitation reviewed for false premises. The old comment screenshot does not prove current pin or absence of a later artist comment."
     },
     {
-      "surface": "genres",
-      "claim": "Trance metal",
-      "source": "https://rateyourmusic.com/release/album/amaranthe/manifest/; https://www.amaranthe.se/news/90-single-and-video-archangel-out-now",
-      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+      "surface": "tags",
+      "claim": "elize ryd",
+      "source": "https://en.wikipedia.org/wiki/Amaranthe",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "johan andreassen",
+      "source": "https://en.wikipedia.org/wiki/Amaranthe",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "title",
+      "claim": "Paradise Lost inspires Archangel - Amaranthe in Rocksmith",
+      "source": "https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0029 - Amaranthe - Archangel (Long Form)/_01 - Main Info/Details.jpeg; user-confirmed bass performance",
+      "assessment": "Song identity and factual angle supported by cited records; descriptive hook is editorial, not proof of click performance or the artist appearing in this video."
     },
     {
       "surface": "genres",
-      "claim": "Melodic metalcore",
-      "source": "https://rateyourmusic.com/release/album/amaranthe/manifest/; https://www.amaranthe.se/news/90-single-and-video-archangel-out-now",
-      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+      "claim": "Metalcore",
+      "source": "https://en.wikipedia.org/wiki/Amaranthe",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Melodic death metal",
+      "source": "https://en.wikipedia.org/wiki/Amaranthe",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power metal",
+      "source": "https://en.wikipedia.org/wiki/Amaranthe",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Symphonic metal",
+      "source": "https://en.wikipedia.org/wiki/Amaranthe",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop metal",
+      "source": "https://en.wikipedia.org/wiki/Amaranthe",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Trance metal",
+      "source": "https://equipboard.com/band/amaranthe",
+      "assessment": "Artist-level genre; not an assertion of song-specific genre."
     }
   ],
   "distinct_fact_and_source": "Band describes the Paradise Lost inspiration behind the song. https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/",
   "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
-  "uncertainties_and_removed_claims": "Removed watch-the-hands invitation, unsupported mix and instrument-specific performance analysis, and album-duration assertion.",
+  "uncertainties_and_removed_claims": "Removed watch-the-hands invitation, unsupported mix and instrument-specific performance analysis, and album-duration assertion. 2026-11-03: genre list describes the artist, not necessarily the recording; name tags reflect artist associations, not the presence of a performer in this cover. Click and query frequency not tested.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

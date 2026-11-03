@@ -34,3 +34,10 @@ Imported from the existing per-song reviews for this artist. CO numbers indicate
 - Southern rock and AOR are classifications of the single.
   - Source: https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/
 
+
+## People tags and usage - 2026-11-03
+
+Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
+
+- don barnes - https://folioweekly.com/2025/03/26/38-special-a-southern-rock-tradition/
+- larry junstrom - https://en.wikipedia.org/wiki/38_Special_(band)

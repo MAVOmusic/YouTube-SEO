@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "19b4f48e19f49ac19b6d17ef30ab57c76836c8d332ea05372acbbf394b89d1eb",
+    "title": "aa56b4e5edacfbdf58b019325001156058002f79a7c5b04fef8ba69989156ea7",
     "description": "f62ef595ab1692f7e2d0c60567395928fffc3f992664f75ce2d0d119a84dc1da",
-    "tags": "a627ce8af249ffea6719b3b4cc5ce30406a71d30c207d9ee7edce57f632277f4",
+    "tags": "7d4e58561ac9957c888dc49aab4abc78d754dd18f6468ae4791c3ef0d3cd94f1",
     "pinned comment": "261f9dfc8dbf2c7c31c032c1037cca306c81952431bbb1c0aaf4ef86ba8fbb3f",
-    "genres": "897ee07f4058119bec97e691cc37a879f62c34a0974ba5f50a53792592b9b163"
+    "genres": "9025f1cdced34ead2e6e8b15b4356ec7aab4418609fb8c5483eac5e5107d8950"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -16,12 +16,6 @@
     "genres": true
   },
   "claims": [
-    {
-      "surface": "title",
-      "claim": "Pendulum and DJ Fresh join forces on Tarantula bass",
-      "source": "https://rateyourmusic.com/release/single/pendulum/tarantula-fasten-your-seatbelt/ ; https://rateyourmusic.com/release/album/pendulum/hold-your-colour/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0030 - Pendulum - Tarantula (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Title identities and release angle checked; bass format based on screenshot and MAVO confirmation, not note-by-note footage."
-    },
     {
       "surface": "description",
       "claim": "Tarantula credits Pendulum and DJ Fresh, with vocals from Spyda and Tenor Fly.",
@@ -137,39 +131,57 @@
       "assessment": "Invitation reviewed for false premises. The old comment screenshot does not prove current pin or absence of a later artist comment."
     },
     {
-      "surface": "genres",
-      "claim": "Drum and bass",
-      "source": "https://rateyourmusic.com/release/single/pendulum/tarantula-fasten-your-seatbelt/; https://www.whosampled.com/Pendulum/Tarantula/",
-      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation. RYM labels apply to the two-sided single release; WhoSampled provides track-level drum and bass only."
-    },
-    {
-      "surface": "genres",
-      "claim": "Dancefloor drum and bass",
-      "source": "https://rateyourmusic.com/release/single/pendulum/tarantula-fasten-your-seatbelt/; https://www.whosampled.com/Pendulum/Tarantula/",
-      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation. RYM labels apply to the two-sided single release; WhoSampled provides track-level drum and bass only."
-    },
-    {
-      "surface": "genres",
-      "claim": "Jump-up",
-      "source": "https://rateyourmusic.com/release/single/pendulum/tarantula-fasten-your-seatbelt/; https://www.whosampled.com/Pendulum/Tarantula/",
-      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation. RYM labels apply to the two-sided single release; WhoSampled provides track-level drum and bass only."
-    },
-    {
-      "surface": "genres",
-      "claim": "Ragga jungle",
-      "source": "https://rateyourmusic.com/release/single/pendulum/tarantula-fasten-your-seatbelt/; https://www.whosampled.com/Pendulum/Tarantula/",
-      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation. RYM labels apply to the two-sided single release; WhoSampled provides track-level drum and bass only."
-    },
-    {
       "surface": "tags",
       "claim": "tarantula pendulum",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0030 - Pendulum - Tarantula (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
       "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
+    },
+    {
+      "surface": "tags",
+      "claim": "rob swire",
+      "source": "https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "gareth mcgrillen",
+      "source": "https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "title",
+      "claim": "Tarantula brings Pendulum and DJ Fresh together - bass playthrough",
+      "source": "https://rateyourmusic.com/release/single/pendulum/tarantula-fasten-your-seatbelt/ ; https://rateyourmusic.com/release/album/pendulum/hold-your-colour/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0030 - Pendulum - Tarantula (Long Form)/_01 - Main Info/Details.jpeg; user-confirmed bass performance",
+      "assessment": "Song identity and factual angle supported by cited records; descriptive hook is editorial, not proof of click performance or the artist appearing in this video."
+    },
+    {
+      "surface": "genres",
+      "claim": "Drum and bass",
+      "source": "https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Electronic rock",
+      "source": "https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Industrial rock",
+      "source": "https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Dance-rock",
+      "source": "https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
     }
   ],
   "distinct_fact_and_source": "Pendulum and DJ Fresh release featuring Spyda and Tenor Fly, on Hold Your Colour. https://rateyourmusic.com/release/single/pendulum/tarantula-fasten-your-seatbelt/ ; https://rateyourmusic.com/release/album/pendulum/hold-your-colour/",
   "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
-  "uncertainties_and_removed_claims": "Removed speculative title origin, sales figure, duration comparison and alleged sample/stem provenance; collaboration facts use release listings. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. Subgenre evidence is for the double-sided single release, not necessarily Tarantula alone.",
+  "uncertainties_and_removed_claims": "Removed speculative title origin, sales figure, duration comparison and alleged sample/stem provenance; collaboration facts use release listings. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. Subgenre evidence is for the double-sided single release, not necessarily Tarantula alone. 2026-11-03: genre list describes the artist, not necessarily the recording; name tags reflect artist associations, not the presence of a performer in this cover. Click and query frequency not tested.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

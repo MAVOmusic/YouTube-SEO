@@ -20,10 +20,10 @@ Watch the note highway as the track moves through its sections. If you are learn
 💬 Trade practice ideas with our Discord community; thanks to anyone boosting the server: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (17 tags, 271/500 characters)
+## TAGS (20 tags, 316/500 characters)
 
 ```text
-motionless in white, america, a-m-e-r-i-c-a, motionless in white america, infamous, industrial metal, alternative metal, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2012, bass guitar, rocksmith bass motionless in white, miw, motionles in white
+motionless in white, america, a-m-e-r-i-c-a, motionless in white america, infamous, industrial metal, alternative metal, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2012, bass guitar, rocksmith bass motionless in white, miw, motionles in white, chris motionless, chris cerulli, devin sola
 ```
 
 ## PINNED COMMENT (76 characters)

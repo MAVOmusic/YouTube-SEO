@@ -20,10 +20,10 @@ This bass play along shows the Rocksmith chart. Follow the part and listen to th
 💬 Post a Green Day request in Discord; thank you if you choose to boost us: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (16 tags, 183/500 characters)
+## TAGS (17 tags, 205/500 characters)
 
 ```text
-green day, x-kid, x kid, tre, mike dirnt, punk rock, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2012, bass guitar, punk bass, green day rocksmith, greenday
+green day, x-kid, x kid, tre, mike dirnt, punk rock, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2012, bass guitar, punk bass, green day rocksmith, greenday, billie joe armstrong
 ```
 
 ## PINNED COMMENT (93 characters)

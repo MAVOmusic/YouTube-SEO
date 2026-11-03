@@ -2,10 +2,10 @@
 
 > Copy the title, description and tags. Genre findings are for playlist decisions only.
 
-## TITLE (59 characters)
+## TITLE (60 characters)
 
 ```text
-Sabaton Camouflage on bass - revisiting Stan Ridgway's song
+A bass cover tracing Camouflage from Stan Ridgway to Sabaton
 ```
 
 ## DESCRIPTION (443 characters)
@@ -20,10 +20,10 @@ Here I play bass along to Sabaton's version in Rocksmith.
 💬 Compare the two versions in Discord; boosts are always optional: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (11 tags, 152/500 characters)
+## TAGS (14 tags, 190/500 characters)
 
 ```text
-sabaton, camouflage, sabaton camouflage, stan ridgway, the last stand, power metal, 2016, bass cover, rocksmith bass, rocksmith 2014, camouflage sabaton
+sabaton, camouflage, sabaton camouflage, stan ridgway, the last stand, power metal, 2016, bass cover, rocksmith bass, rocksmith 2014, camouflage sabaton, joakim broden, par sundstrom, sabton
 ```
 
 ## PINNED COMMENT (68 characters)
@@ -34,8 +34,9 @@ Which cover introduced you to a songwriter you had not heard before?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-supported playlist suggestions, not an objective or exhaustive classification. These are album-level labels, not proof that every track has every characteristic. See the review record for source and limitations.
+Artist-level genres from https://www.pressure-magazine.de/bandprofil/sabaton-266680/; the consistent artist list is not a claim that this particular recording fits every genre. See Band Info/Sabaton/Register.md.
 
 ## CORRECT GENRES
 
 - Power metal
+- Heavy metal

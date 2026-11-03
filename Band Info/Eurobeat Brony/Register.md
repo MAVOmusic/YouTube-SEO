@@ -33,3 +33,9 @@ Existing per-song description claims, linked to their source and CO number. Chec
 
 - Discord was remixed by The Living Tombstone; the bass performance uses that remix.
 - Source: https://www.whosampled.com/Eurobeat-Brony/Discord-(The-Living-Tombstone-Remix)/; user confirmed video identity
+
+## People tags and usage - 2026-11-03
+
+Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
+
+- jessa stebbins - https://eurobeat.fandom.com/wiki/Jessa_Stebbins

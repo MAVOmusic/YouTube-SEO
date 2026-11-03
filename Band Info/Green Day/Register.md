@@ -41,3 +41,9 @@ Imported from the existing per-song reviews for this artist. CO numbers indicate
 - X-Kid sits fifth on Green Day's Tre, the final album in their 2012 Uno, Dos and Tre trilogy.
   - Source: https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!
 
+
+## People tags and usage - 2026-11-03
+
+Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
+
+- billie joe armstrong - https://en.wikipedia.org/wiki/Green_Day

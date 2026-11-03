@@ -20,10 +20,10 @@ Follow the Rocksmith notes while I play bass. Take it section by section if you 
 💬 Tell the Discord community which Creatures track you would choose next; boosts are welcome: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (16 tags, 297/500 characters)
+## TAGS (19 tags, 343/500 characters)
 
 ```text
-motionless in white, immaculate misconception, immaculate misconception bass, creatures, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2010, bass guitar, play along, rocksmith bass motionless in white, motionless in white immaculate misconception, miw, motionles in white
+motionless in white, immaculate misconception, immaculate misconception bass, creatures, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2010, bass guitar, play along, rocksmith bass motionless in white, motionless in white immaculate misconception, miw, motionles in white, chris motionless, chris cerulli, ricky olson
 ```
 
 ## PINNED COMMENT (83 characters)

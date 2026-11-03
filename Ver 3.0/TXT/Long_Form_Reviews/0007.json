@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "23111ab914b3b68fb57aa53e5579569fc2a40541434d577139d6b16bcbcf5e0c",
     "description": "a8c9dd639727236374ee308fd218d0523c8f0b6e9a37c70e39cf8eb5f28397b1",
-    "tags": "27334c222c62a8ea7bbd038cb5d814e7d21b86e81040e04ef6340cc646622ba0",
+    "tags": "f0d32861e0408d6bccb4eecae6bc5014bb625c792889ef53cb8316ff2e103321",
     "pinned comment": "24a888863c61de09c70888878afac8399f5e925d75ff08ca0de6f6cb7942d418",
     "genres": "95ac3ff9537bfdc77b6c20d19ab840c5aeeaae280caf43f6b64a3206bd91be82"
   },
@@ -177,6 +177,24 @@
       "claim": "motionles in white",
       "source": "https://www.metalkingdom.net/band/motionless-in-white-13548 ; https://www.teepublic.com/long-sleeve-t-shirt/68020707-motionlesss-in-white-band",
       "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris motionless",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris cerulli",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "ricky olson",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Dee Snider cameo, distinct from 0005 Salem angle. https://mediakits.concord.com/p/creatures/press-release.html",

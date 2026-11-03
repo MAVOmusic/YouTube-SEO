@@ -32,3 +32,10 @@ Existing per-song description claims, linked to their source and CO number. Chec
 - Third track and Tim Commerford bass credit, as distinct from other Rage recordings.
   - Source: https://www.shazam.com/song/191450956/take-the-power-back
 
+
+## People tags and usage - 2026-11-03
+
+Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
+
+- zack de la rocha - https://en.wikipedia.org/wiki/Rage_Against_the_Machine
+- tom morello - https://en.wikipedia.org/wiki/Rage_Against_the_Machine

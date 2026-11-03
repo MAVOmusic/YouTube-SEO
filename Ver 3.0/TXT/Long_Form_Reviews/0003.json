@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "779ebbc55b9d3b66e2ed0662e7c08e1a7527a3153b13dbb1b06bf99310b99a63",
     "description": "c82ee749d293f6ed088b12010a1958b10dee0bc17e3e613b73816d13c77d0029",
-    "tags": "a50a4f70e87e115dba0f6ecc570feda1449d3412945300e5aa9874d9037ff6a1",
+    "tags": "377167da830f0c559a0095dbe23a4717e7d041cfd059ac3c3c01c1a548506f3a",
     "pinned comment": "feb1255bc1fbbc328e1a48c3b96006a5bb76e1a34c1607259054c94502690905",
     "genres": "95ac3ff9537bfdc77b6c20d19ab840c5aeeaae280caf43f6b64a3206bd91be82"
   },
@@ -183,6 +183,24 @@
       "claim": "motionles in white",
       "source": "https://www.metalkingdom.net/band/motionless-in-white-13548 ; https://www.teepublic.com/long-sleeve-t-shirt/68020707-motionlesss-in-white-band",
       "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris motionless",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris cerulli",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "justin morrow",
+      "source": "https://www.songfacts.com/facts/motionless-in-white",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "2022 Masterpiece album identification and contrast between song sections. https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/",

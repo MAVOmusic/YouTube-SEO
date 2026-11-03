@@ -40,3 +40,11 @@ Existing per-song description claims, linked to their source and CO number. Chec
 - Hypnotize is the title track of the band's 2005 album. Artist Vartan Malakian created the artwork for the connected Hypnotize and Mezmerize releases.
   - Source: https://www.nme.com/news/music/system-of-a-down-26-1303978 ; https://www.allmusic.com/artist/vartan-malakian-mn0002031736
 
+
+## People tags and usage - 2026-11-03
+
+Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
+
+- daron malakian - https://www.metalkingdom.net/band/system-of-a-down-24308
+- serj tankian - https://www.metalkingdom.net/band/system-of-a-down-24308
+- shavo odadjian - https://www.metalkingdom.net/band/system-of-a-down-24308

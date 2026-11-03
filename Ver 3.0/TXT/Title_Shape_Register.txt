@@ -94,16 +94,16 @@
           was: Rage Against The Machine put the argument in the bassline of Take The Power Back
   0020    folk melody inside band song | instrument cover | The folk melody inside BABYMETAL's Megitsune | bass cover
           was: Babymetal's Megitsune is a folk melody riding a bass that never rests
-  0021    imperative bring song by artist to instrument            Bring Jailhouse Rock by Elvis Presley to the bass
-  0022    song on bass: artist album cut                Together on bass: an Avril Lavigne album cut
-  0023    band song on bass - revisiting original creator song | Sabaton Camouflage on bass - revisiting Stan Ridgway's song
-  0024    from album to instrument: band song       From Fist for Fight to bass: Sabaton's The Hammer Has Fallen
-  0025    composer meets band on song bass              Tchaikovsky meets Aephanemer on Old French Song bass
-  0026    band bring song to format bass                Alien Fucker bring Arabic UFO Party to Rocksmith bass
-  0027    band trilogy ordinal: song with instrument and setting      Green Day trilogy track five: X-Kid with bass on screen
-  0028    song inspires band: bass run through subject  Dreadnought inspires Sabaton: a bass run through naval history
-  0029    song and book: band on format bass            Archangel and Paradise Lost: Amaranthe on Rocksmith bass
-  0030    two artists join forces on song bass          Pendulum and DJ Fresh join forces on Tarantula bass
+  0021    song gets instrument shake-up - artist | Jailhouse Rock gets a bass shake-up - Elvis Presley
+  0022    imperative rediscover song, artist album deep cut | Rediscover Together, Avril Lavigne's Under My Skin deep cut
+  0023    instrument cover traces song from original artist to band | A bass cover tracing Camouflage from Stan Ridgway to Sabaton
+  0024    early band revisited: song instrument performance | Early Sabaton revisited: The Hammer Has Fallen bass playthrough
+  0025    composer goes genre: band song on instrument | Tchaikovsky goes metal: Aephanemer's Old French Song on bass
+  0026    how does song sound on instrument? an artist cover | How does Arabic UFO Party sound on bass? An Alien Fucker cover
+  0027    take instrument through song, artist trilogy track | Take the bass through X-Kid, a Green Day trilogy track
+  0028    how heavy can song feel? a band instrument playthrough | How heavy can Dreadnought feel? A Sabaton bass playthrough
+  0029    book inspires song - band in platform | Paradise Lost inspires Archangel - Amaranthe in Rocksmith
+  0030    song brings credited artists together - instrument performance | Tarantula brings Pendulum and DJ Fresh together - bass playthrough
   0031    full song on bass - artist in game | Dear Maria, Count Me In on bass - All Time Low in Rocksmith
   0032    song takes band into style on instrument               Roulette takes System Of A Down into acoustic territory on bass
   0033    number of writers behind song, played on band instrument Three writers behind Another Life, played on Motionless In White bass

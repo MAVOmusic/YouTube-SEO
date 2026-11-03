@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "e9ffff44f8ac233965d5e3fa3dad263b9dc41a66ab10eddb657515e6dd16840e",
     "description": "d878ed9c73238c640c93fe2e7c8ea4c3f6c0b6e34ff28408fc116a616ba7c785",
-    "tags": "fd3e4a6e75465e16653a172f42bc02cfd2db3cacb0eb01c8774d0371c9ee7083",
+    "tags": "8205a6c3fe68769eb019dcb77b64d31b2412b46daafc656ae137cb3de70bf3cd",
     "pinned comment": "50d49356a32e0379f4721652e91ce30dcb94c674a12d64063220b7aeab70b765",
     "genres": "ebed48c048e851dc6bbb051809862d59db111d83f2f7f29e815310b13c2fcd0c"
   },
@@ -105,6 +105,18 @@
       "claim": "the living tombsone",
       "source": "https://www.youtube.com/watch?v=H0K-S0hJ8qU",
       "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "yoav landau",
+      "source": "https://en.wikipedia.org/wiki/The_Living_Tombstone",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "jessa stebbins",
+      "source": "https://eurobeat.fandom.com/wiki/Jessa_Stebbins",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Difference between original and 2012 remix; remix classified electropop/glitch hop. https://rateyourmusic.com/release/single/eurobeat-brony/discord-the-living-tombstones-remix/",

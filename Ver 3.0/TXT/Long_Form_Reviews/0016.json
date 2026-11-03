@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "5fcb5c6d77afca747ed6026e5a6d53f888b85717e114fe79e1758ff1def79625",
     "description": "69ce690dac535323f2ec9503ab3d4020a57be74d1a93b8d5c44f17b6a91da387",
-    "tags": "6b468e7023efd513326b3660ce19c32d67d2f36b8b7b8d8984c9dc708cab21b3",
+    "tags": "5104b3ec47565daa1df01dbfb807229617fe6582fa1c144253b7f011eb157158",
     "pinned comment": "10145f676c79ea13495c304adc9f5f3079322ded4d1a1da5e0af28fb61c404d6",
     "genres": "c35a592e9446fe3c53f3849b736f190be198ca0314118bc3d7641240bbabb6e0"
   },
@@ -87,6 +87,24 @@
       "claim": "system of a dowm",
       "source": "https://www.kboing.com.br/playlists/548247/",
       "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "daron malakian",
+      "source": "https://www.metalkingdom.net/band/system-of-a-down-24308",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "serj tankian",
+      "source": "https://www.metalkingdom.net/band/system-of-a-down-24308",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "shavo odadjian",
+      "source": "https://www.metalkingdom.net/band/system-of-a-down-24308",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Malakian writing and lead vocal on a System Of A Down track. https://www.discogs.com/release/4297962-System-Of-A-Down-Lonely-Day",

@@ -33,3 +33,9 @@ Existing per-song description claims, linked to their source and CO number. Chec
 
 - War Ensemble is the opening track of Seasons in the Abyss.
 - Source: https://www.kerrang.com/slayer-the-stories-behind-20-of-their-biggest-songs
+
+## People tags and usage - 2026-11-03
+
+Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
+
+- kerry king - https://en.wikipedia.org/wiki/Slayer

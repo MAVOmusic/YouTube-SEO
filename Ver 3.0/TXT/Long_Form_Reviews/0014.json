@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "5b771ea70e76921393f84abada055461b1c57e61c3c30efa22069d39e406bab2",
     "description": "e7aa2a4c8d74869f51922a3dbee9ac20521c656b25966ceede94c812b74bedf0",
-    "tags": "a1d198fdb94464db9256300f646257b22d0ab22d602d5f90d6be8bd09011142e",
+    "tags": "9ecd7bfdc35dbf415089140bcbb578e6da28e1abb7805b40af89a568e21680f5",
     "pinned comment": "83784bfa0359ce70cfde915fb8383e0f2fdb470ce9cbeeb4a8646ff148bf50d6",
     "genres": "1b6401362fa0439f40bbd50260fbaf2ab9811b14872fbb55ae729234f90e691f"
   },
@@ -117,6 +117,12 @@
       "claim": "queeen",
       "source": "https://www.pinterest.com/naivetyikes/queeen/",
       "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "brian may",
+      "source": "https://en.wikipedia.org/wiki/Queen_(band)",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Deacon songwriting and Mandel synth solo; track is pop rock/synth-pop. https://rateyourmusic.com/release/musicvideo/queen/i-want-to-break-free.p/",

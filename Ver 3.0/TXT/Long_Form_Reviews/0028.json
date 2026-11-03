@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "d8785b47fdf90e40eb3e8336857e044da339418037e2df00d7c84f9042d94b2b",
+    "title": "09173d26291c07485b55aab77d2cfc2fda68ff2b3c478eb136dea1de1e188490",
     "description": "0c0b8007d9204f18786bf82c6bf3362a7f283d9a0b3984b2500adfcbde03178b",
-    "tags": "e72f66ca6ec423163ae2a6eb331a17bda0ee0798ac1e8ba0517ec3d46103c7bc",
+    "tags": "3e2bfcf6a8237c60d9c85b7992706d8d7d61720d96aed9bb2ae6f4761039aee4",
     "pinned comment": "b18f4e2bd9404e3805b6ae16bbf53675528855dc58ada903a66bfeb6128b31b1",
-    "genres": "5c9e82a0433cabf6359d74600a9248f24218698ed1c3060fb475cdb330c3a8a2"
+    "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -16,12 +16,6 @@
     "genres": true
   },
   "claims": [
-    {
-      "surface": "title",
-      "claim": "Dreadnought inspires Sabaton: a bass run through naval history",
-      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://sabaton.bandcamp.com/track/dreadnought; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0028 - Sabaton - Dreadnought (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Title identities and release angle checked; bass format based on screenshot and MAVO confirmation, not note-by-note footage."
-    },
     {
       "surface": "description",
       "claim": "Sabaton say Dreadnought grew from music that reminded them of a heavy ship at sea.",
@@ -107,21 +101,51 @@
       "assessment": "Invitation reviewed for false premises. The old comment screenshot does not prove current pin or absence of a later artist comment."
     },
     {
-      "surface": "genres",
-      "claim": "Power metal",
-      "source": "https://rateyourmusic.com/release/album/sabaton/the-war-to-end-all-wars/; https://www.sabaton.net/news/store/merch-drop-premium-dreadnought-collection-now-available/",
-      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
-    },
-    {
       "surface": "tags",
       "claim": "rock smith",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0028 - Sabaton - Dreadnought (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
       "assessment": "Historically observed search query relevant to Rocksmith format; a small historical query sample does not establish tag causation or future traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "joakim broden",
+      "source": "https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "par sundstrom",
+      "source": "https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabton",
+      "source": "https://www.reddit.com/r/sabaton/comments/pxrhnu/just_getting_into_sabton_i_need_some_suggestions/",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "title",
+      "claim": "How heavy can Dreadnought feel? A Sabaton bass playthrough",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://sabaton.bandcamp.com/track/dreadnought; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0028 - Sabaton - Dreadnought (Long Form)/_01 - Main Info/Details.jpeg; user-confirmed bass performance",
+      "assessment": "Song identity and factual angle supported by cited records; descriptive hook is editorial, not proof of click performance or the artist appearing in this video."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power metal",
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
     }
   ],
   "distinct_fact_and_source": "Band describes musical idea preceding warship subject. https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://sabaton.bandcamp.com/track/dreadnought",
   "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
-  "uncertainties_and_removed_claims": "Removed false only-battle assertion, unverified playing details, refit/kill narrative and guaranteed request handling. Recheck 2026-11-03: restored rock smith, an actual Reach 2 query, previously omitted; historical query does not prove tag impact.",
+  "uncertainties_and_removed_claims": "Removed false only-battle assertion, unverified playing details, refit/kill narrative and guaranteed request handling. Recheck 2026-11-03: restored rock smith, an actual Reach 2 query, previously omitted; historical query does not prove tag impact. 2026-11-03: genre list describes the artist, not necessarily the recording; name tags reflect artist associations, not the presence of a performer in this cover. Click and query frequency not tested.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

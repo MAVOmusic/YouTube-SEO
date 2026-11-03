@@ -2,10 +2,10 @@
 
 > Copy the title, description and tags. Genre findings are for playlist decisions only.
 
-## TITLE (44 characters)
+## TITLE (59 characters)
 
 ```text
-Together on bass: an Avril Lavigne album cut
+Rediscover Together, Avril Lavigne's Under My Skin deep cut
 ```
 
 ## DESCRIPTION (482 characters)
@@ -20,10 +20,10 @@ For this playthrough, I play Together on bass alongside the Rocksmith chart.
 💬 Post an album-cut recommendation in Discord; if you fancy it, boosting supports the community: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (11 tags, 154/500 characters)
+## TAGS (13 tags, 175/500 characters)
 
 ```text
-avril lavigne, together, avril lavigne together, under my skin, chantal kreviazuk, post grunge, pop rock, 2004, bass cover, rocksmith bass, rocksmith 2014
+avril lavigne, together, avril lavigne together, under my skin, chantal kreviazuk, post grunge, pop rock, 2004, bass cover, rocksmith bass, rocksmith 2014, avril, avril lavine
 ```
 
 ## PINNED COMMENT (56 characters)
@@ -34,9 +34,11 @@ Which non-single from Under My Skin has stayed with you?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-supported playlist suggestions, not an objective or exhaustive classification. Pop rock is album-level; post-grunge is song-level. See the review record for source and limitations.
+Artist-level genres from https://kids.kiddle.co/Avril_Lavigne; the consistent artist list is not a claim that this particular recording fits every genre. See Band Info/Avril Lavigne/Register.md.
 
 ## CORRECT GENRES
 
-- Post-grunge
+- Pop punk
+- Alternative rock
 - Pop rock
+- Pop

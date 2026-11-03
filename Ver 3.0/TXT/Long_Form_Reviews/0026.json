@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "f17fb669ac3efa964cb99e80d27b9044e5ffcca9a1c762b7713c0d1b29239ab8",
+    "title": "6ff9c3b66fca7bcf3f8bc55e56e436dd3268fd6d45d18bc61382009c0a514cf1",
     "description": "81c5ae09eecbf07a9371925dc32531d392c0fc96efdcd56d009b5043c37149b5",
-    "tags": "e3c4dbd8cdb2c2a10da54889138758a003d2e76c5ecc45d1d2446a3bc63b6ddd",
+    "tags": "9f28b141ed4ab9ab12bb6cdc8d802eafa301b4b0886f6ba629c792118852b1d8",
     "pinned comment": "f0bc6805c0999ccdbd3d7bb113af5b3b74ad4b23fa0356d39b48bab1597dbbee",
-    "genres": "b2bc18bc315b3d7a9cb736f15331aa88b7f56fae65294b8e2c1e054b983c6835"
+    "genres": "7f896c00e5c0883a86f8ba53ec227d468c442f9cb88acbe53cd8fd770007a3cc"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -16,12 +16,6 @@
     "genres": true
   },
   "claims": [
-    {
-      "surface": "title",
-      "claim": "Alien Fucker bring Arabic UFO Party to Rocksmith bass",
-      "source": "https://open.spotify.com/album/6mNflEOyKrCAMBNChest7A ; https://www.discogs.com/Alien-Fucker-The-First-Rape-In-Space/release/15624971; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Title identities and release angle checked; bass format based on screenshot and MAVO confirmation, not note-by-note footage."
-    },
     {
       "surface": "description",
       "claim": "Arabic UFO Party is the ninth track on a 2014 Alien Fucker release.",
@@ -113,27 +107,63 @@
       "assessment": "Invitation reviewed for false premises. The old comment screenshot does not prove current pin or absence of a later artist comment."
     },
     {
-      "surface": "genres",
-      "claim": "Grindcore",
-      "source": "https://www.discogs.com/Alien-Fucker-The-First-Rape-In-Space/release/15624971 ; https://rateyourmusic.com/release/album/alien-fucker/the-first-rape-in-space/; https://alienfucker.bandcamp.com/album/the-first-rape-in-space",
-      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+      "surface": "tags",
+      "claim": "david amiramov",
+      "source": "https://rateyourmusic.com/artist/alien_fucker",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     },
     {
-      "surface": "genres",
-      "claim": "Pornogrind",
-      "source": "https://www.discogs.com/Alien-Fucker-The-First-Rape-In-Space/release/15624971 ; https://rateyourmusic.com/release/album/alien-fucker/the-first-rape-in-space/; https://alienfucker.bandcamp.com/album/the-first-rape-in-space",
-      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+      "surface": "title",
+      "claim": "How does Arabic UFO Party sound on bass? An Alien Fucker cover",
+      "source": "https://open.spotify.com/album/6mNflEOyKrCAMBNChest7A ; https://www.discogs.com/Alien-Fucker-The-First-Rape-In-Space/release/15624971; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg; user-confirmed bass performance",
+      "assessment": "Song identity and factual angle supported by cited records; descriptive hook is editorial, not proof of click performance or the artist appearing in this video."
     },
     {
       "surface": "genres",
       "claim": "Cybergrind",
-      "source": "https://www.discogs.com/Alien-Fucker-The-First-Rape-In-Space/release/15624971 ; https://rateyourmusic.com/release/album/alien-fucker/the-first-rape-in-space/; https://alienfucker.bandcamp.com/album/the-first-rape-in-space",
-      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+      "source": "https://rateyourmusic.com/artist/alien_fucker",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pornogrind",
+      "source": "https://rateyourmusic.com/artist/alien_fucker",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Black metal",
+      "source": "https://rateyourmusic.com/artist/alien_fucker",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Death metal",
+      "source": "https://rateyourmusic.com/artist/alien_fucker",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Goregrind",
+      "source": "https://rateyourmusic.com/artist/alien_fucker",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Deathgrind",
+      "source": "https://rateyourmusic.com/artist/alien_fucker",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Grindcore",
+      "source": "https://www.viberate.com/artist/alien-fucker/",
+      "assessment": "Artist-level genre; not an assertion of song-specific genre."
     }
   ],
   "distinct_fact_and_source": "Ninth track on a 2014 nine-track release; listed 1:22. https://open.spotify.com/album/6mNflEOyKrCAMBNChest7A ; https://www.discogs.com/Alien-Fucker-The-First-Rape-In-Space/release/15624971",
   "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
-  "uncertainties_and_removed_claims": "Removed alleged cause of historical age restriction, note-specific claims, one-take claims and explicit album name. The non-explicit song title remains; band name unaltered.",
+  "uncertainties_and_removed_claims": "Removed alleged cause of historical age restriction, note-specific claims, one-take claims and explicit album name. The non-explicit song title remains; band name unaltered. 2026-11-03: genre list describes the artist, not necessarily the recording; name tags reflect artist associations, not the presence of a performer in this cover. Click and query frequency not tested.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

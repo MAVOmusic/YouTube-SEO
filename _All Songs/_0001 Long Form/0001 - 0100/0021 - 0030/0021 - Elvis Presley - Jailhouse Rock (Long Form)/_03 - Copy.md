@@ -2,10 +2,10 @@
 
 > Copy the title, description and tags. Genre findings are for playlist decisions only.
 
-## TITLE (49 characters)
+## TITLE (51 characters)
 
 ```text
-Bring Jailhouse Rock by Elvis Presley to the bass
+Jailhouse Rock gets a bass shake-up - Elvis Presley
 ```
 
 ## DESCRIPTION (528 characters)
@@ -20,10 +20,10 @@ My bass run brings this film-era song into Rocksmith.
 💬 Tell Discord about a film soundtrack you enjoy; an optional boost helps support the server: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (11 tags, 160/500 characters)
+## TAGS (13 tags, 181/500 characters)
 
 ```text
-elvis presley, jailhouse rock, elvis jailhouse rock, leiber and stoller, bill black, rock and roll, rockabilly, 1957, bass cover, rocksmith bass, rocksmith 2014
+elvis presley, jailhouse rock, elvis jailhouse rock, leiber and stoller, bill black, rock and roll, rockabilly, 1957, bass cover, rocksmith bass, rocksmith 2014, elvis, scotty moore
 ```
 
 ## PINNED COMMENT (57 characters)
@@ -34,9 +34,13 @@ Name a film song that belongs in a bass player's setlist.
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-supported playlist suggestions, not an objective or exhaustive classification. See the review record for source and limitations.
+Artist-level genres from https://sungenre.com/artist/elvis-presley/; the consistent artist list is not a claim that this particular recording fits every genre. See Band Info/Elvis Presley/Register.md.
 
 ## CORRECT GENRES
 
 - Rock and roll
 - Rockabilly
+- Pop
+- Country
+- Gospel
+- R&B

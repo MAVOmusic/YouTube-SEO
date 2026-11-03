@@ -2,9 +2,9 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "38c1ade6e1316583c2ad611e4b502786d52226275ef7982ba0ad2031b0830da7",
+    "title": "62dc23208c70799fcd795d07e2b8b5a3dd28c0c8f93e3104a01a5cf5faaef56a",
     "description": "399d9f4cc1fc96455a53379a7da7dec6a0ff720b7893d27f9c761d6742b3c0c1",
-    "tags": "3698c62b4a6717777966d65e2ff3da58f50ab3b0c4c82af7204b9d1826a4fd5c",
+    "tags": "4cb8a4e891439883d53ce440c0ca92492f36f90ee1ffbde6a94a6838290c936b",
     "pinned comment": "cb4f0cd4fed2ad13e08fd0c2d255cb63ca3faf91f07178a928a6c4aa0e1eab9d",
     "genres": "abc937e37d202d5edceece8e3ac4d59daab918672653702cdbade99ae4126442"
   },
@@ -16,12 +16,6 @@
     "genres": true
   },
   "claims": [
-    {
-      "surface": "title",
-      "claim": "Tchaikovsky meets Aephanemer on Old French Song bass",
-      "source": "https://metalnerd.net/aephanemer-announce-new-album-a-dream-of-wilderness/ ; https://aephanemer.com/?cat=2; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0025 - Aephanemer - Old French Song (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Title identities and release angle checked; bass format based on screenshot and MAVO confirmation, not note-by-note footage."
-    },
     {
       "surface": "description",
       "claim": "Aephanemer included Old French Song as a Tchaikovsky cover and bonus track on A Dream of Wilderness.",
@@ -119,21 +113,51 @@
       "assessment": "Historical artist comment observed; user instructed preservation. Screenshot alone cannot prove current pin status."
     },
     {
+      "surface": "tags",
+      "claim": "marion bascoul",
+      "source": "https://tuonelamagazine.com/symphonic-death-metal-powerhouse-aephanemer-release-stunning-new-video-from-upcoming-album-a-dream-of-wilderness/",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "martin hamiche",
+      "source": "https://www.metalkingdom.net/band/aephanemer-21398",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "lucie woaye hune",
+      "source": "https://tuonelamagazine.com/symphonic-death-metal-powerhouse-aephanemer-release-stunning-new-video-from-upcoming-album-a-dream-of-wilderness/",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "aephanamer",
+      "source": "https://giornalemetal.it/aephanamer-a-dream-of-wilderness/",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "title",
+      "claim": "Tchaikovsky goes metal: Aephanemer's Old French Song on bass",
+      "source": "https://metalnerd.net/aephanemer-announce-new-album-a-dream-of-wilderness/ ; https://aephanemer.com/?cat=2; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0025 - Aephanemer - Old French Song (Long Form)/_01 - Main Info/Details.jpeg; user-confirmed bass performance",
+      "assessment": "Song identity and factual angle supported by cited records; descriptive hook is editorial, not proof of click performance or the artist appearing in this video."
+    },
+    {
       "surface": "genres",
       "claim": "Melodic death metal",
-      "source": "https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php; https://metalnerd.net/aephanemer-announce-new-album-a-dream-of-wilderness/",
-      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+      "source": "https://www.metalkingdom.net/band/aephanemer-21398",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
     },
     {
       "surface": "genres",
       "claim": "Symphonic metal",
-      "source": "https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php; https://metalnerd.net/aephanemer-announce-new-album-a-dream-of-wilderness/",
-      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+      "source": "https://www.metalkingdom.net/band/aephanemer-21398",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
     }
   ],
   "distinct_fact_and_source": "Tchaikovsky cover as a bonus track on Aephanemer album. https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2",
   "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
-  "uncertainties_and_removed_claims": "Preserve artist comment as requested by MAVO; old screenshot does not show current pin status. Removed unsupported arrangement, note omissions, viewer response and comparative superlatives. The formerly cited store product redirects to a product-not-found page; replaced with the 2021 press announcement. The historical artist comment is visible, but its current pin status is not.",
+  "uncertainties_and_removed_claims": "Preserve artist comment as requested by MAVO; old screenshot does not show current pin status. Removed unsupported arrangement, note omissions, viewer response and comparative superlatives. The formerly cited store product redirects to a product-not-found page; replaced with the 2021 press announcement. The historical artist comment is visible, but its current pin status is not. 2026-11-03: genre list describes the artist, not necessarily the recording; name tags reflect artist associations, not the presence of a performer in this cover. Click and query frequency not tested.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

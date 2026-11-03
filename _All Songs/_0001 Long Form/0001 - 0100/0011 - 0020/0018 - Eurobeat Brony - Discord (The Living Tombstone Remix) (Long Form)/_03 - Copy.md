@@ -21,10 +21,10 @@ Grab your bass and use the Rocksmith display as you listen to the remix.
 💬 Swap remix discoveries in Discord, and consider boosting the community: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (20 tags, 336/500 characters)
+## TAGS (22 tags, 365/500 characters)
 
 ```text
-eurobeat brony, discord, the living tombstone, discord remix, discord eurobeat brony, brony music, my little pony fan music, glitch hop, electropop, remix bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass rocksmith, discord odyssey eurobeat, discord the living tombstone, odyssey eurobeat, tlt, the living tombsone
+eurobeat brony, discord, the living tombstone, discord remix, discord eurobeat brony, brony music, my little pony fan music, glitch hop, electropop, remix bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass rocksmith, discord odyssey eurobeat, discord the living tombstone, odyssey eurobeat, tlt, the living tombsone, yoav landau, jessa stebbins
 ```
 
 ## PINNED COMMENT (66 characters)

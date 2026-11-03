@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "d61ec1571c8c222f703e5b96a5725c8897276cead086e64dbac7d0ad29d84a3f",
     "description": "7c597e538747da26dff8e7114a18e687c100bbbb9ebcd7af3d93c45800cd69be",
-    "tags": "a476c4453292642d7926e788e5a4989eb96b8645d09def5baa9a2373a38c76c2",
+    "tags": "1105494368379541f3ef7a04dd851a1ecfd02a0a25b5c2a34600e756870f0e38",
     "pinned comment": "f631a3df96c9e0b2ce6cbfae6528fe5e294fc5c951e7c4419fd7b1cf0e593e3c",
     "genres": "5edab9b53d36472e0d9ef065b325313cf6c627159215ee30220e49086c721888"
   },
@@ -99,6 +99,12 @@
       "claim": "my chemical romace",
       "source": "https://soundcloud.com/doddsys-devils/sets/my-chemical-romace",
       "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "gerard way",
+      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
     }
   ],
   "distinct_fact_and_source": "Band reunion in 2019 versus new single in 2022; https://rateyourmusic.com/release/single/my-chemical-romance/the-foundations-of-decay/ supports alternative rock and Mikey Way bass credit. https://genius.com/My-chemical-romance-the-foundations-of-decay-lyrics",

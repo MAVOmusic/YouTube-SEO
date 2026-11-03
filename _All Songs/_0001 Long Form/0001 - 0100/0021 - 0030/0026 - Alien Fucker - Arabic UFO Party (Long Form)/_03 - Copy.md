@@ -3,10 +3,10 @@
 > Copy the title, description and tags. Genre findings are for playlist decisions only.
 > Historical video is age restricted; the reason is not established.
 
-## TITLE (53 characters)
+## TITLE (62 characters)
 
 ```text
-Alien Fucker bring Arabic UFO Party to Rocksmith bass
+How does Arabic UFO Party sound on bass? An Alien Fucker cover
 ```
 
 ## DESCRIPTION (459 characters)
@@ -21,10 +21,10 @@ This Rocksmith bass playthrough takes on the closing track of that release.
 💬 Swap short-track recommendations in Discord; a boost is appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (10 tags, 146/500 characters)
+## TAGS (11 tags, 162/500 characters)
 
 ```text
-alien fucker, arabic ufo party, alien fucker arabic ufo party, grindcore, pornogrind, cybergrind, 2014, bass cover, rocksmith bass, rocksmith 2014
+alien fucker, arabic ufo party, alien fucker arabic ufo party, grindcore, pornogrind, cybergrind, 2014, bass cover, rocksmith bass, rocksmith 2014, david amiramov
 ```
 
 ## PINNED COMMENT (54 characters)
@@ -35,10 +35,14 @@ What short song would you add to a grindcore playlist?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-supported playlist suggestions, not an objective or exhaustive classification. These are release-level classifications. See the review record for source and limitations.
+Artist-level genres from https://rateyourmusic.com/artist/alien_fucker; the consistent artist list is not a claim that this particular recording fits every genre. See Band Info/Alien Fucker/Register.md.
 
 ## CORRECT GENRES
 
 - Grindcore
-- Pornogrind
 - Cybergrind
+- Pornogrind
+- Black metal
+- Death metal
+- Goregrind
+- Deathgrind

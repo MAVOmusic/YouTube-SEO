@@ -20,10 +20,10 @@ The song moves through several sections over its five-minute album recording. Us
 💬 Compare Black Parade tracks with the Discord community; every server boost is appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (17 tags, 254/500 characters)
+## TAGS (18 tags, 266/500 characters)
 
 ```text
-my chemical romance, welcome to the black parade, black parade, mcr, mikey way, emo, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2006, bass guitar, the black parade, welcome to the black parade bass, my chem, my chemical romace
+my chemical romance, welcome to the black parade, black parade, mcr, mikey way, emo, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2006, bass guitar, the black parade, welcome to the black parade bass, my chem, my chemical romace, gerard way
 ```
 
 ## PINNED COMMENT (53 characters)

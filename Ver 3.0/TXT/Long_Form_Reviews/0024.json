@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "a6e036eb45bd34919b7a962e1fd8f60df4497d3edffc41863e5cea12c52be20e",
+    "title": "813c0b8dfe950d3cc00ff943e995f13c8a745cef21ccf12413db3da6fd5e1c18",
     "description": "b84e3ebec7d85f3f2eb580452db8d245556047b48e553d50ec543a70c99ae078",
-    "tags": "92f09d5ff3436d99341fd516f2cb6bf6180e0b8186beb0fc0057f88cb8fc877d",
+    "tags": "192dd9e3117b033ed0863a6a07c3746b0f04ad54bbb7b2c5a8cafcf945749feb",
     "pinned comment": "64fc492d9fd88176853018758d88cbfc768d17d30474a29921a53e0fa28d9194",
-    "genres": "5c9e82a0433cabf6359d74600a9248f24218698ed1c3060fb475cdb330c3a8a2"
+    "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -16,12 +16,6 @@
     "genres": true
   },
   "claims": [
-    {
-      "surface": "title",
-      "claim": "From Fist for Fight to bass: Sabaton's The Hammer Has Fallen",
-      "source": "https://www.nuclearblast.com/pages/album/fist-for-fight; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0024 - Sabaton - The Hammer Has Fallen (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Title identities and release angle checked; bass format based on screenshot and MAVO confirmation, not note-by-note footage."
-    },
     {
       "surface": "description",
       "claim": "The Hammer Has Fallen appears on Sabaton's Fist for Fight, a 2001 release.",
@@ -107,21 +101,45 @@
       "assessment": "Invitation reviewed for false premises. The old comment screenshot does not prove current pin or absence of a later artist comment."
     },
     {
-      "surface": "genres",
-      "claim": "Power metal",
-      "source": "https://rateyourmusic.com/release/album/sabaton/fist-for-fight-1/; https://genius.com/Sabaton-the-hammer-has-fallen-lyrics",
-      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
-    },
-    {
       "surface": "tags",
       "claim": "sabton",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0024 - Sabaton - The Hammer Has Fallen (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
       "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
+    },
+    {
+      "surface": "tags",
+      "claim": "joakim broden",
+      "source": "https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "par sundstrom",
+      "source": "https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m",
+      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+    },
+    {
+      "surface": "title",
+      "claim": "Early Sabaton revisited: The Hammer Has Fallen bass playthrough",
+      "source": "https://www.nuclearblast.com/pages/album/fist-for-fight; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0024 - Sabaton - The Hammer Has Fallen (Long Form)/_01 - Main Info/Details.jpeg; user-confirmed bass performance",
+      "assessment": "Song identity and factual angle supported by cited records; descriptive hook is editorial, not proof of click performance or the artist appearing in this video."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power metal",
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
     }
   ],
   "distinct_fact_and_source": "Early Sabaton collection and sixth track position. https://www.nuclearblast.com/pages/album/fist-for-fight",
   "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
-  "uncertainties_and_removed_claims": "Removed alleged absence of promotion/studio album, slowest claim, exact bass arrangement and guaranteed stream promises. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. The sabton spelling is retained because the historical Reach 2 image actually lists it as a search query; this is not proof of future search traffic or tag causation.",
+  "uncertainties_and_removed_claims": "Removed alleged absence of promotion/studio album, slowest claim, exact bass arrangement and guaranteed stream promises. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. The sabton spelling is retained because the historical Reach 2 image actually lists it as a search query; this is not proof of future search traffic or tag causation. 2026-11-03: genre list describes the artist, not necessarily the recording; name tags reflect artist associations, not the presence of a performer in this cover. Click and query frequency not tested.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

@@ -20,10 +20,10 @@ A longer listen gives the atmosphere room to settle. Follow the on-screen chart,
 💬 Swap ambient recommendations in Discord; thank you for supporting the community with a boost: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 193/500 characters)
+## TAGS (16 tags, 214/500 characters)
 
 ```text
-burzum, autumn leaves, burzum autumn leaves, the ways of yore, dungeon synth, ambient, 1 hour loop, hour loop, study music, background music, burzum bass, rocksmith bass, long form loop, burzam
+burzum, autumn leaves, burzum autumn leaves, the ways of yore, dungeon synth, ambient, 1 hour loop, hour loop, study music, background music, burzum bass, rocksmith bass, long form loop, burzam, varg, varg vikernes
 ```
 
 ## PINNED COMMENT (94 characters)
