@@ -8,7 +8,7 @@
 The Silver Springs B-side to Fleetwood Mac Go Your Own Way
 ```
 
-## DESCRIPTION (461 characters)
+## DESCRIPTION (488 characters)
 
 ```text
 Fleetwood Mac paired Go Your Own Way with Silver Springs on a 1976 single. Lindsey Buckingham wrote the A-side, while Stevie Nicks wrote the B-side.
@@ -17,7 +17,7 @@ The visible game display sits alongside my bass playing.
 
 🟢 Recommend a memorable B-side in Kick chat: https://kick.com/mavomusic
 🟣 The Twitch mirror provides another place to watch: https://www.twitch.tv/mavomusic
-💬 Trade single-side favourites via Discord; thanks for any boosts: https://discord.gg/ESGsGkN4j2
+💬 Bring your single-side finds to our Discord community; thank you for boosting when you can: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (13 tags, 187/500 characters)
@@ -34,7 +34,7 @@ What B-side belongs in your favourite singles collection?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Subjective recommendations based on the cited song, artist or album classification; album-level evidence may not describe every track in isolation. See the review record.
+Discogs classifies the 1976 Canadian Go Your Own Way / Silver Springs single as pop rock. The classification applies to the release, not only its A-side.
 
 ## CORRECT GENRES
 

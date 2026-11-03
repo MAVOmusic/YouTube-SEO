@@ -34,7 +34,7 @@ What instrument would you like to learn next?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Subjective recommendations based on the cited song, artist or album classification; album-level evidence may not describe every track in isolation. See the review record.
+The Losing My Religion song page classifies it as alternative rock and folk rock; these are subjective song-level recommendations.
 
 ## CORRECT GENRES
 

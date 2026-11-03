@@ -34,7 +34,7 @@ Which film led you to discover a song or artist?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Subjective recommendations based on the cited song, artist or album classification; album-level evidence may not describe every track in isolation. See the review record.
+Metal-Rules describes the Primo Victoria album as power metal. This is album-level evidence; the recommendation is a subjective fit for the title track.
 
 ## CORRECT GENRES
 
