@@ -127,13 +127,13 @@
     {
       "surface": "genres",
       "claim": "Trance metal",
-      "source": "https://rateyourmusic.com/release/album/amaranthe/manifest/",
+      "source": "https://rateyourmusic.com/release/album/amaranthe/manifest/; https://www.amaranthe.se/news/90-single-and-video-archangel-out-now",
       "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
     },
     {
       "surface": "genres",
       "claim": "Melodic metalcore",
-      "source": "https://rateyourmusic.com/release/album/amaranthe/manifest/",
+      "source": "https://rateyourmusic.com/release/album/amaranthe/manifest/; https://www.amaranthe.se/news/90-single-and-video-archangel-out-now",
       "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
     }
   ],

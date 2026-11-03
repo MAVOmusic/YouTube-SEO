@@ -25,13 +25,13 @@
     {
       "surface": "description",
       "claim": "Sabaton say Dreadnought grew from music that reminded them of a heavy ship at sea.",
-      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://sabaton.bandcamp.com/track/dreadnought",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://sabaton.bandcamp.com/track/dreadnought; https://www.sabaton.net/news/store/merch-drop-premium-dreadnought-collection-now-available/",
       "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
     },
     {
       "surface": "description",
       "claim": "The song appears on The War To End All Wars, released in 2022.",
-      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://sabaton.bandcamp.com/track/dreadnought",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://sabaton.bandcamp.com/track/dreadnought; https://www.sabaton.net/news/store/merch-drop-premium-dreadnought-collection-now-available/",
       "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
     },
     {
@@ -109,7 +109,7 @@
     {
       "surface": "genres",
       "claim": "Power metal",
-      "source": "https://rateyourmusic.com/release/album/sabaton/the-war-to-end-all-wars/",
+      "source": "https://rateyourmusic.com/release/album/sabaton/the-war-to-end-all-wars/; https://www.sabaton.net/news/store/merch-drop-premium-dreadnought-collection-now-available/",
       "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
     }
   ],

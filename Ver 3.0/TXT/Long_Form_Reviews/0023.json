@@ -25,13 +25,13 @@
     {
       "surface": "description",
       "claim": "Stan Ridgway released Camouflage in 1986.",
-      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; https://www.sabaton.net/discography/the-last-stand/",
       "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
     },
     {
       "surface": "description",
       "claim": "Sabaton later covered it on special editions of the 2016 album The Last Stand as a bonus.",
-      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; https://www.sabaton.net/discography/the-last-stand/",
       "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
     },
     {
@@ -115,7 +115,7 @@
     {
       "surface": "genres",
       "claim": "Power metal",
-      "source": "https://rateyourmusic.com/release/album/sabaton/the-last-stand-1/",
+      "source": "https://rateyourmusic.com/release/album/sabaton/the-last-stand-1/; https://www.sabaton.net/discography/the-last-stand/",
       "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
     },
     {

@@ -8,12 +8,12 @@
 Together on bass: an Avril Lavigne album cut
 ```
 
-## DESCRIPTION (471 characters)
+## DESCRIPTION (482 characters)
 
 ```text
 Together sits at track two on Avril Lavigne's 2004 album Under My Skin. Lavigne wrote it with Chantal Kreviazuk.
 
-For this playthrough, I put the album cut on the Rocksmith chart.
+For this playthrough, I play Together on bass alongside the Rocksmith chart.
 
 🟢 Suggest an Avril deep cut in the Kick chat: https://kick.com/mavomusic
 🟣 Catch the mirror on Twitch if you prefer watching there: https://www.twitch.tv/mavomusic
