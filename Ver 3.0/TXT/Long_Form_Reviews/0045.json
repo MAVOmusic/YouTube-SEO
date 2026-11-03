@@ -19,13 +19,13 @@
     {
       "surface": "title",
       "claim": "Manowar: Kings Of Metal credits DeMaio and Ross the Boss - bass cover",
-      "source": "https://genius.com/Manowar-kings-of-metal-lyrics ; https://en.wikipedia.org/wiki/Kings_of_Metal ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0045 - Manowar - Kings Of Metal (Long Form)/_01 - Main Info/Details.jpeg",
+      "source": "https://genius.com/Manowar-kings-of-metal-lyrics ; https://en.wikipedia.org/wiki/Kings_of_Metal ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0045 - Manowar - Kings Of Metal (Long Form)/_01 - Main Info/Details.jpeg ; https://www.discogs.com/release/3802430-Manowar-Kings-Of-Metal",
       "assessment": "Identity and factual framing checked; performance and Rocksmith format based on historical image and user confirmation."
     },
     {
       "surface": "description",
       "claim": "Joey DeMaio and Ross the Boss are credited as writers of Kings Of Metal. The Manowar song appears on the 1988 album of the same name.",
-      "source": "https://genius.com/Manowar-kings-of-metal-lyrics ; https://en.wikipedia.org/wiki/Kings_of_Metal",
+      "source": "https://genius.com/Manowar-kings-of-metal-lyrics ; https://en.wikipedia.org/wiki/Kings_of_Metal ; https://www.discogs.com/release/3802430-Manowar-Kings-Of-Metal",
       "assessment": "Specific song, release, credits or video facts checked against source; no implication that a separately mentioned music video or game appears in this performance."
     },
     {
@@ -49,7 +49,7 @@
     {
       "surface": "tags",
       "claim": "man o war",
-      "source": "https://genius.com/Manowar-kings-of-metal-lyrics ; https://en.wikipedia.org/wiki/Kings_of_Metal ; https://rateyourmusic.com/release/single/manowar/kings-of-metal-herz-aus-stahl/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0045 - Manowar - Kings Of Metal (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0045 - Manowar - Kings Of Metal (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "source": "https://genius.com/Manowar-kings-of-metal-lyrics ; https://en.wikipedia.org/wiki/Kings_of_Metal ; https://rateyourmusic.com/release/single/manowar/kings-of-metal-herz-aus-stahl/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0045 - Manowar - Kings Of Metal (Long Form)/_01 - Main Info/Details.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0045 - Manowar - Kings Of Metal (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg ; https://www.discogs.com/artist/253699-Manowar",
       "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
     },
     {
@@ -127,7 +127,7 @@
   ],
   "distinct_fact_and_source": "songwriting credits ; https://genius.com/Manowar-kings-of-metal-lyrics ; https://en.wikipedia.org/wiki/Kings_of_Metal",
   "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. man o war is visible as a historical search query; Discogs lists Man-O-War as a name variation. No tag causation inferred.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
