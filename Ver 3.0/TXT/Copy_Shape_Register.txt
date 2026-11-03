@@ -120,20 +120,16 @@
   0018    sourced song-specific fact                      What remix introduced you to an original song you had never heard?
   0019    sourced song-specific fact                      Which bassline would you use to introduce a metal fan to funk?
   0020    sourced song-specific fact                      Which BABYMETAL song would you choose to introduce the band to a new listener?
-  0021    session history, dated                       What is the oldest riff you still recognise instantly?
-  0022    writing history                              What is the best song a band left off an album?
-  0023    authorship negation                          What other cover beats the original?
-  0024    catalogue position                           Which track do you think a band buried on purpose?
-  0025    composer history                             Which piece should a metal band borrow next?
-  0026    track position + band origin                 What is the shortest track in your library that still works?
-  0027    the format, stated plainly, then the song     P-opinion-fork
-          REVISED Ver 4.39 - the first version opened on "there are two cuts of
-          this song", which described a lesson cut and a performance cut that do
-          not exist. The description now opens on the chart being on screen,
-          because it always is.
-  0028    negation-correction                          Which vessel in history has the worst timing?
-  0029    imperative listening instruction             Can you actually hear it on your speakers, or does it vanish?
-  0030    second-person scenario                        Club record or band record, which is it?
+  0021    A film song written by Leiber and Stoller and recorde Name a film song that belongs in a bass player's setlist.
+  0022    Track two on Under My Skin, co-written with Chantal K Which non-single from Under My Skin has stayed with you?
+  0023    Stan Ridgway original and Sabaton cover on editions o Which cover introduced you to a songwriter you had not heard before?
+  0024    Early Sabaton collection and sixth track position.    What early Sabaton track would you recommend to someone who knows the later albums?
+  0025    Tchaikovsky cover as a bonus track on Aephanemer albu PRESERVE artist comment - no replacement
+  0026    Ninth track on a 2014 nine-track release; listed 1:22 What short song would you add to a grindcore playlist?
+  0027    Fifth track on the final album in the 2012 trilogy; d Which song from the Uno, Dos and Tre trilogy would you put on a playlist first?
+  0028    Band describes musical idea preceding warship subject Which historical subject would you like Sabaton to write about next?
+  0029    Band describes the Paradise Lost inspiration behind t What other metal song led you to a book or a poem?
+  0030    Pendulum and DJ Fresh release featuring Spyda and Ten Pick a drum and bass track for a bass-guitar adaptation.
   0031    runtime arithmetic                           P-anecdote
   0032    band-reputation reversal                       P-rating-scale
   0033    section-by-section walkthrough                   P-channel-history

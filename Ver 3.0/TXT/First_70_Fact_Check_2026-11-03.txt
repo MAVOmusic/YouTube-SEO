@@ -487,3 +487,41 @@ Initial research, not full fact/genre/uniqueness review:
 Do not mark 0021-0030 complete or copy-ready on this preliminary research.
 Finish each claim, all five surfaces, genre, uniqueness, images/pins, record
 and gate; the prior source notes and old screenshots do not suffice.
+
+2026-11-03 - 0021-0030 REVIEWED; 0022 IDENTITY CONFIRMED BY MAVO
+MAVO confirmed the video really is Together. He suggested silence might have
+been trimmed, but this is a possibility, not an established editing history;
+the copy does not claim why the upload and original lengths differ. All ten
+Details and Pinned images were visually reread. Historical comment-edit images
+show creator text and cannot establish today's comments. In 0025, preserve the
+artist comment per MAVO's earlier decision: Aephanemer comment screenshot is
+in folder 0024/Details.jpeg; it does not itself show the current pin marker.
+The Details image map from the preliminary entry still applies.
+
+All ten title, description, tag, pin and split genre surfaces were rewritten
+in their song MD files. Correct genres and title/copy shape registers updated.
+Evidence records 0021-0030 list individual factual claims, each tag, genre,
+format, CTA, pin and source; 0025 preserves the artist comment rather than
+presenting a new question as a paste block. Source-level caveats are in each
+record. Explicit album title remains out of 0026 paste content, while the
+non-explicit track name and unaltered band name are retained. Its historical
+age restriction is recorded internally but no cause is asserted.
+
+Distinct factual angles: 0021 film/session; 0022 second track and co-writer;
+0023 Ridgway original and bonus cover; 0024 sixth track of Fist for Fight;
+0025 Tchaikovsky cover and artist comment; 0026 track position and duration;
+0027 fifth track and trilogy (not 0008's cassette video/loss); 0028 band's
+music-first origin of song; 0029 Milton as named by band; 0030 collaboration
+credits. Removed unsupported performance minutiae, imaginary schedules/boost
+benefits and absolute claims. Source examples and limitations are in each JSON.
+Genre 0022 post-grunge is track-level while pop rock is album-level; 0023-25,
+0028-29 genres use album-level evidence. 0026 and 0030 use release-level
+classifications. None imply objective or exhaustive genre classifications.
+
+Long-form --check 0001-0030 passed; 0021-0030 each had zero five-word collision
+signals against available MD corpus after CTA rewrites. This cannot prove
+semantic or future-catalogue uniqueness or live YouTube state. Counts, URLs,
+limits, typography, artist-comment handling and git diff --check passed.
+The preserved-pin gate parser received regression tests; it hashes the observed
+comment, not instructions, and never certifies the live pin. Bands verify.sh also
+passes but has no bearing on this long-form factual review.

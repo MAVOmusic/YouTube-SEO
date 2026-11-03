@@ -1,63 +1,43 @@
-# CO-0027 | Rewritten copy (Ver 4.39)
+# CO-0027 | Reviewed copy (2026-11-03)
 
-> Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
-> **DUPLICATE SONG WARNING: CO-0008 is the earlier cut of this same track.**
-> Both cuts have the chart on screen - MAVO confirmed every upload does. The old
-> "no chart, no overlay" angle was WRONG and is deleted from all four surfaces.
-> The only honest separations left are the live-stream take and the runtime.
-> The GENRES block at the bottom is reference only - it is not part of the description.
+> Copy the title, description and tags. Genre findings are for playlist decisions only.
 
-## TITLE (54 characters)
+## TITLE (55 characters)
 
 ```text
-The X-Kid take that came off a live stream in one pass
+Green Day trilogy track five: X-Kid with bass on screen
 ```
 
-## DESCRIPTION (1409 characters)
+## DESCRIPTION (453 characters)
 
 ```text
-The game is running the whole time. Notes scroll, the score climbs, and whether the take lands is decided while chat is watching - which is the deal with every one of these. This run came out of a live stream, so there was one attempt and no second one hiding behind it.
+X-Kid sits fifth on Green Day's Tre, the final album in their 2012 Uno, Dos and Tre trilogy.
 
-Green Day released three records in three months in 2012 and Tre was the one that got filed away fastest. X-Kid is the track that outlives the filing. Mike Dirnt keeps the line up near the dusty end of the neck through the verse, then drops an octave when the chorus lifts, and that single move is what stops a song about somebody who is not coming back from turning into a dirge.
+Here is another X-Kid playthrough, with the bass part and game overlay together.
 
-Rocksmith does not hear any of that. It counts notes, judges timing and hands out a number, and the feel is not in the score. Playing it for the score and playing it for the song are two different jobs, and the fun of a live take is that you have to do both at once with no safety net.
-
-🟢 Punk and pop punk nights run weekly on Kick, requests open in chat: https://kick.com/mavomusic
-🟣 Twitch carries the same stream for people who live there: https://www.twitch.tv/mavomusic
-💬 Nothing here was re-recorded, what you see is what happened. Drop your own worst live-take story in Discord, and a server boost is always decent of you: https://discord.gg/ESGsGkN4j2
-
-Green Day, 2012, three minutes forty three, one continuous take on Rocksmith 2014 Remastered.
+🟢 Bring a trilogy-era Green Day pick to Kick: https://kick.com/mavomusic
+🟣 Twitch has the mirrored stream for the other chat: https://www.twitch.tv/mavomusic
+💬 Rank those trilogy albums over on Discord; consider boosting if you want to support us: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (16 tags, 179/500 characters)
+## TAGS (13 tags, 139/500 characters)
 
 ```text
-green day, x-kid, xkid, x kid, tre, mike dirnt, billie joe armstrong, tre cool, pop punk, punk rock, 2012, rocksmith 2014, bass cover, bass play along, rocksmith bass, live stream
+green day, x-kid, x kid, green day x kid, tre, mike dirnt, pop punk, power pop, punk rock, 2012, bass cover, rocksmith bass, rocksmith 2014
 ```
 
-## PINNED COMMENT (126 characters)
+## PINNED COMMENT (79 characters)
 
 ```text
-Everything here went out live, one pass, no second chances. Do you prefer a run that could fall apart, or a clean studio take?
+Which song from the Uno, Dos and Tre trilogy would you put on a playlist first?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-  Verified against the release, not guessed. Tre, the third of the 2012 trilogy,
-  released 4 December 2012 on Reprise. Pop punk is the working label; punk rock
-  and power pop are true but secondary. "2010s pop punk" is a scene label for the
-  era and holds up. Dropped from the old table: "rock trio / three piece", which
-  describes the arrangement and is not a genre.
+Source-supported playlist suggestions, not an objective or exhaustive classification. See the review record for source and limitations.
 
 ## CORRECT GENRES
 
-Pop punk · Punk rock · Alternative rock · Power pop · Pop rock · 2010s pop punk
-
-## FIX LOG
-
-  Old title ("No chart, no overlay, just X-Kid and Green Day in one take") stated
-  something false about the video and about every other upload on the channel.
-  Old description made the same claim twice and split the catalogue into a
-  "lesson" cut and a "performance" cut that do not exist. Both are gone. The new
-  angle is the one thing the video's own Studio description confirms: it was
-  recorded during a live stream.
+- Pop punk
+- Power pop
+- Punk rock

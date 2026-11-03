@@ -1,0 +1,140 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "38c1ade6e1316583c2ad611e4b502786d52226275ef7982ba0ad2031b0830da7",
+    "description": "399d9f4cc1fc96455a53379a7da7dec6a0ff720b7893d27f9c761d6742b3c0c1",
+    "tags": "3698c62b4a6717777966d65e2ff3da58f50ab3b0c4c82af7204b9d1826a4fd5c",
+    "pinned comment": "cb4f0cd4fed2ad13e08fd0c2d255cb63ca3faf91f07178a928a6c4aa0e1eab9d",
+    "genres": "abc937e37d202d5edceece8e3ac4d59daab918672653702cdbade99ae4126442"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Tchaikovsky meets Aephanemer on Old French Song bass",
+      "source": "https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Title identities and release angle checked; bass format based on screenshot and MAVO confirmation, not note-by-note footage."
+    },
+    {
+      "surface": "description",
+      "claim": "Aephanemer included Old French Song as a Tchaikovsky cover and bonus track on A Dream of Wilderness.",
+      "source": "https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2",
+      "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
+    },
+    {
+      "surface": "description",
+      "claim": "The band released that album in 2021.",
+      "source": "https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2",
+      "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
+    },
+    {
+      "surface": "description",
+      "claim": "I play the band's arrangement on bass with the Rocksmith overlay visible.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg; MAVO instruction: all uploads show the overlay while playing bass",
+      "assessment": "Historical video identity/format and MAVO confirmation; no detailed transcription implied."
+    },
+    {
+      "surface": "description",
+      "claim": "The three distinct invitations and optional boost ask.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Kick primary, Twitch mirror, Discord last. Invitations make no promise about schedule, rewards or delivery."
+    },
+    {
+      "surface": "tags",
+      "claim": "aephanemer",
+      "source": "https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2; https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "old french song",
+      "source": "https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2; https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "aephanemer old french song",
+      "source": "https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2; https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "tchaikovsky",
+      "source": "https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2; https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "a dream of wilderness",
+      "source": "https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2; https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "melodic death metal",
+      "source": "https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2; https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "symphonic metal",
+      "source": "https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2; https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "2021",
+      "source": "https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2; https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2; https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2; https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014",
+      "source": "https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2; https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker - Arabic UFO Party (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "@AephanemerOfficial: \"Fantastic job! Congrats!!\"",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0024 - Sabaton - The Hammer Has Fallen (Long Form)/_01 - Main Info/Details.jpeg; MAVO decision recorded in Ver 3.0/CONTEXT_BLOCK.txt",
+      "assessment": "Historical artist comment observed; user instructed preservation. Screenshot alone cannot prove current pin status."
+    },
+    {
+      "surface": "genres",
+      "claim": "Melodic death metal",
+      "source": "https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php",
+      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+    },
+    {
+      "surface": "genres",
+      "claim": "Symphonic metal",
+      "source": "https://www.albumoftheyear.org/album/414803-aephanemer-a-dream-of-wilderness.php",
+      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+    }
+  ],
+  "distinct_fact_and_source": "Tchaikovsky cover as a bonus track on Aephanemer album. https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2",
+  "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
+  "uncertainties_and_removed_claims": "Preserve artist comment as requested by MAVO; old screenshot does not show current pin status. Removed unsupported arrangement, note omissions, viewer response and comparative superlatives.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

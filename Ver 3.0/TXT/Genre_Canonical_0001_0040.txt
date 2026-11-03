@@ -55,25 +55,16 @@
   0018  Discord (Living Tombstone Remix)       Electropop / Glitch hop
   0019  Rage Against The Machine - Take Power  Funk metal / Rap metal / Rap rock / Funk rock
   0020  BABYMETAL - Megitsune                  Kawaii metal / Metalcore / Speed metal
-  0021  Elvis Presley - Jailhouse Rock         Rock and roll / Rockabilly / Rhythm and blues /
-                                               1950s pop / Rock
-  0022  Avril Lavigne - Together               Pop rock / Pop punk / Power pop /
-                                               Alternative rock / 2000s pop
-  0023  Sabaton - Camouflage                   Power metal / Heavy metal / Hard rock
-  0024  Sabaton - The Hammer Has Fallen        Power metal / Heavy metal / Swedish metal
-  0025  Aephanemer - Old French Song           Melodic death metal / Symphonic melodeath /
-                                               Symphonic metal / Neoclassical metal /
-                                               Classical crossover / French metal
-  0026  Alien Fucker - Arabic UFO Party        Grindcore / Pornogrind / Extreme metal /
-                                               Punk rock / Israeli metal
-  0027  Green Day - X-Kid (play along)         Pop punk / Punk rock / Alternative rock /
-                                               Power pop / Pop rock / 2010s pop punk
-  0028  Sabaton - Dreadnought                  Power metal / Heavy metal / Swedish metal /
-                                               Metal / Hard rock
-  0029  Amaranthe - Archangel                  Melodic metal / Power metal / Electronic metal /
-                                               Swedish metal / Hard rock
-  0030  Pendulum - Tarantula                   Drum and bass / Jungle / Ragga jungle /
-                                               Breakbeat / Dancefloor DnB / Electronic dance
+  0021  Elvis Presley - Jailhouse Rock  Rock and roll / Rockabilly
+  0022  Avril Lavigne - Together  Post-grunge / Pop rock
+  0023  Sabaton - Camouflage  Power metal
+  0024  Sabaton - The Hammer Has Fallen  Power metal
+  0025  Aephanemer - Old French Song  Melodic death metal / Symphonic metal
+  0026  Alien Fucker - Arabic UFO Party  Grindcore / Pornogrind / Cybergrind
+  0027  Green Day - X-Kid  Pop punk / Power pop / Punk rock
+  0028  Sabaton - Dreadnought  Power metal
+  0029  Amaranthe - Archangel  Trance metal / Melodic metalcore
+  0030  Pendulum - Tarantula  Drum and bass / Dancefloor drum and bass / Jump-up / Ragga jungle
   0031  All Time Low - Dear Maria              Pop punk / Emo pop / Neon pop punk /
                                                Alternative rock / Pop rock / Power pop
   0032  System Of A Down - Roulette            Alternative metal / Acoustic rock / Art rock /

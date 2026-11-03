@@ -27,8 +27,12 @@ def extract(path):
     fields = {}
     for name in SURFACES[:-1]:
         match = re.search(r'^## ' + re.escape(name) + r'\b[^\n]*\n(?:(?!^## ).)*?```(?:text)?\s*\n(.*?)\n```', text, re.I | re.M | re.S)
+        if not match and name == 'pinned comment':
+            # An existing artist comment is not creator paste copy. Hash its
+            # explicitly marked historical text without prompting replacement.
+            match = re.search(r'^## PINNED COMMENT\b[^\n]*\n(?:(?!^## ).)*?^> PRESERVED ARTIST COMMENT: ([^\n]+)$', text, re.I | re.M | re.S)
         if not match:
-            raise ValueError(f'{path}: missing {name} fenced block')
+            raise ValueError(f'{path}: missing {name} fenced block or preserved artist comment')
         fields[name] = match.group(1)
     match = re.search(r'^## CORRECT GENRES\b[^\n]*\n(.*?)(?=^## |\Z)', text, re.I | re.M | re.S)
     if not match or not re.search(r'^\s*-\s+\S', match.group(1), re.M):

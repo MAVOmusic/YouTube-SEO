@@ -1,0 +1,128 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "0b46f8a3b0ce760dbb05911f2dc3d328a9807110117c5de8d18b12229fcc8cf7",
+    "description": "eb7e2650eea74ce777f738d5ec73cd6822367c4660a760fb4ce9953c1aa5f1ad",
+    "tags": "fc5d2681a179e1fabbce6fe16d6ac0af9b4c8495466ca639aa7d36c04c6cd85f",
+    "pinned comment": "dbc749156e4322d4613f5730a11353862c8a02c9c3207ca7fe1099e469cb29e0",
+    "genres": "5c9e82a0433cabf6359d74600a9248f24218698ed1c3060fb475cdb330c3a8a2"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "A Stan Ridgway story retold by Sabaton on bass",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0029 - Amaranthe - Archangel (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Title identities and release angle checked; bass format based on screenshot and MAVO confirmation, not note-by-note footage."
+    },
+    {
+      "surface": "description",
+      "claim": "Stan Ridgway released Camouflage in 1986.",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158",
+      "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
+    },
+    {
+      "surface": "description",
+      "claim": "Sabaton later covered it on special editions of the 2016 album The Last Stand as a bonus.",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158",
+      "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
+    },
+    {
+      "surface": "description",
+      "claim": "Here I play bass along to Sabaton's version in Rocksmith.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0029 - Amaranthe - Archangel (Long Form)/_01 - Main Info/Details.jpeg; MAVO instruction: all uploads show the overlay while playing bass",
+      "assessment": "Historical video identity/format and MAVO confirmation; no detailed transcription implied."
+    },
+    {
+      "surface": "description",
+      "claim": "The three distinct invitations and optional boost ask.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Kick primary, Twitch mirror, Discord last. Invitations make no promise about schedule, rewards or delivery."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; https://rateyourmusic.com/release/album/sabaton/the-last-stand-1/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0029 - Amaranthe - Archangel (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "camouflage",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; https://rateyourmusic.com/release/album/sabaton/the-last-stand-1/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0029 - Amaranthe - Archangel (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton camouflage",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; https://rateyourmusic.com/release/album/sabaton/the-last-stand-1/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0029 - Amaranthe - Archangel (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "stan ridgway",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; https://rateyourmusic.com/release/album/sabaton/the-last-stand-1/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0029 - Amaranthe - Archangel (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "the last stand",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; https://rateyourmusic.com/release/album/sabaton/the-last-stand-1/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0029 - Amaranthe - Archangel (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "power metal",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; https://rateyourmusic.com/release/album/sabaton/the-last-stand-1/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0029 - Amaranthe - Archangel (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "2016",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; https://rateyourmusic.com/release/album/sabaton/the-last-stand-1/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0029 - Amaranthe - Archangel (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; https://rateyourmusic.com/release/album/sabaton/the-last-stand-1/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0029 - Amaranthe - Archangel (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; https://rateyourmusic.com/release/album/sabaton/the-last-stand-1/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0029 - Amaranthe - Archangel (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; https://rateyourmusic.com/release/album/sabaton/the-last-stand-1/; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0029 - Amaranthe - Archangel (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which cover introduced you to a songwriter you had not heard before?",
+      "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; historical Pinned.jpeg files in batch",
+      "assessment": "Invitation reviewed for false premises. The old comment screenshot does not prove current pin or absence of a later artist comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power metal",
+      "source": "https://rateyourmusic.com/release/album/sabaton/the-last-stand-1/",
+      "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+    }
+  ],
+  "distinct_fact_and_source": "Stan Ridgway original and Sabaton cover on editions of The Last Stand. https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158",
+  "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
+  "uncertainties_and_removed_claims": "Removed incorrect 3:33 runtime and unverified playing and claims that covers exceed originals. Screenshot shows 3:53; album edition lists 3:56.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

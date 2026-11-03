@@ -67,3 +67,6 @@ user handoff instruction: only song MD until 0070, paste-ready from 0071 onward.
 
 2026-11-03 - Independent first-20 surface recheck, 0008 title correction,
 validation and initial 0021-0030 research with image mismatch and evidence gaps.
+
+2026-11-03 - Reviewed 0021-0030, added per-video evidence and safe preserved
+artist-comment parsing with tests; refreshed registers and fact-check ledger.
