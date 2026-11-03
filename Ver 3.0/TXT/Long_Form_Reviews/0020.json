@@ -1,0 +1,74 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "150787fcac73041cc15189f644f5abd3bfebe527d72d5dcb4ff22f6eed389f58",
+    "description": "a724df19c548555138e8b71a715b7abdaac351e522c7b383469389929dfdfea7",
+    "tags": "27a624352c07dd35e651e51a7dfee0325dbe1bd768698219fdbb242ed0583a05",
+    "pinned comment": "47b68cacb445b4d60f6bf6c0edb0d9a37cd278a034fef91fd55230671050980e",
+    "genres": "96ee69d0f470da4f01a04ffd4210eb39821a8a47a300ebb01149b50aad09c233"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "description",
+      "claim": "BABYMETAL Megitsune 2013 single; vixen translation; video filmed at Asagaya Shinmei Shrine; source classifies kawaii metal, metalcore and speed metal.",
+      "source": "https://en.wikipedia.org/wiki/Megitsune",
+      "assessment": "Song-level facts checked; genre classification reflects source, not exclusive objective truth."
+    },
+    {
+      "surface": "description",
+      "claim": "Music video shrine and Sakura Sakura folk melody; https://en.wikipedia.org/wiki/Babymetal supports original SU-METAL, MOAMETAL, YUIMETAL lineup.",
+      "source": "https://www.afterglowatx.com/blog/2018/11/6/from-the-erhu-to-the-electric-guitar-3-east-asian-artists-who-keep-culture-alive-in-modern-music",
+      "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
+    },
+    {
+      "surface": "title",
+      "claim": "A Japanese folk melody meets BABYMETAL in Megitsune",
+      "source": "https://www.afterglowatx.com/blog/2018/11/6/from-the-erhu-to-the-electric-guitar-3-east-asian-artists-who-keep-culture-alive-in-modern-music",
+      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
+    },
+    {
+      "surface": "description",
+      "claim": "MAVO performs bass while Rocksmith chart is on screen.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0017 - My Chemical Romance - The Foundations Of Decay (Long Form)/_01 - Main Info/Details.jpeg; user instruction in conversation",
+      "assessment": "Historical screenshot identifies video and format; explicit user confirms playing while overlay is on screen. Still does not establish equipment or note-by-note details."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick primary, Twitch mirror and Discord community links.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Requested channel routing and invitation; no exact schedule, guaranteed service, reward or current live state asserted."
+    },
+    {
+      "surface": "tags",
+      "claim": "babymetal, megitsune, メギツネ, ベビーメタル, babymetal megitsune, megitsune bass, kawaii metal, japanese metal, su-metal, moametal, yuimetal, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2013",
+      "source": "https://en.wikipedia.org/wiki/Megitsune; https://www.afterglowatx.com/blog/2018/11/6/from-the-erhu-to-the-electric-guitar-3-east-asian-artists-who-keep-culture-alive-in-modern-music; _All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0017 - My Chemical Romance - The Foundations Of Decay (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Search identity, song/artist/album terms, genre labels, years and bass/Rocksmith format checked; broad search intent is not a guarantee. Conventional tablature and uncertain tuning/equipment tags removed."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which BABYMETAL song would you choose to introduce the band to a new listener?",
+      "source": "https://en.wikipedia.org/wiki/Megitsune; https://www.afterglowatx.com/blog/2018/11/6/from-the-erhu-to-the-electric-guitar-3-east-asian-artists-who-keep-culture-alive-in-modern-music",
+      "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
+    },
+    {
+      "surface": "genres",
+      "claim": "- Kawaii metal\n- Metalcore\n- Speed metal",
+      "source": "https://en.wikipedia.org/wiki/Megitsune; https://www.afterglowatx.com/blog/2018/11/6/from-the-erhu-to-the-electric-guitar-3-east-asian-artists-who-keep-culture-alive-in-modern-music",
+      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+    }
+  ],
+  "distinct_fact_and_source": "Music video shrine and Sakura Sakura folk melody; https://en.wikipedia.org/wiki/Babymetal supports original SU-METAL, MOAMETAL, YUIMETAL lineup. https://www.afterglowatx.com/blog/2018/11/6/from-the-erhu-to-the-electric-guitar-3-east-asian-artists-who-keep-culture-alive-in-modern-music",
+  "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
+  "uncertainties_and_removed_claims": "Removed MOMOMETAL and BOH tags to avoid misleading original recording attribution; unsupported nonstop playing, audience claims, breakdown description and rest-bar claims removed. Historical Details and pin screenshots are not proof of current live metadata.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

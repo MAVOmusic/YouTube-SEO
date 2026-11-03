@@ -110,16 +110,16 @@
   0008    date + album + verdict                       What is your favourite bass part in this band?
   0009    date + album arrival                         Which section of this song catches people out?
   0010    date + album                                 What is the most underrated bassline you know?
-  0011    piece-first identification                   What should be the next piece stretched this far?
-  0012    date + band + wordplay                       Which 2002 record should get this treatment?
-  0013    album-first, opener track                    Which Slayer record would you want done next?
-  0014    date + album                                 Did you know the hook was a synth?
-  0015    date + album + band rise                     What is the one track you can play forever?
-  0016    date + album                                 If you had to pick a track that proves a bass player is good?
-  0017    band history / hiatus                        Name a band whose return single beat the old material
-  0018    origin story, dated                          What other remix buried the original?
-  0019    date + album + track position                What bassline would you use to prove a point?
-  0020    date + single position                       Do you learn the words phonetically?
+  0011    sourced song-specific fact                      Which other classical piece would you choose for a long bass loop?
+  0012    sourced song-specific fact                      Which song from Tell All Your Friends would you put beside this one?
+  0013    sourced song-specific fact                      Which Slayer album opener makes you want to hear the rest of the record?
+  0014    sourced song-specific fact                      Pick a John Deacon composition for the next bass performance.
+  0015    sourced song-specific fact                      Which Rammstein song would you choose for someone learning their first bass part?
+  0016    sourced song-specific fact                      What quieter song by a heavy band stays with you after it ends?
+  0017    sourced song-specific fact                      How does this single compare with the MCR song you first discovered?
+  0018    sourced song-specific fact                      What remix introduced you to an original song you had never heard?
+  0019    sourced song-specific fact                      Which bassline would you use to introduce a metal fan to funk?
+  0020    sourced song-specific fact                      Which BABYMETAL song would you choose to introduce the band to a new listener?
   0021    session history, dated                       What is the oldest riff you still recognise instantly?
   0022    writing history                              What is the best song a band left off an album?
   0023    authorship negation                          What other cover beats the original?

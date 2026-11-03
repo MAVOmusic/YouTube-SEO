@@ -2269,3 +2269,12 @@ and historical Details vision started but NOT complete. Four Details screenshots
 ledger. No reviews passed the new release gate yet. Continue 0011-0020: all
 surfaces, correct genre split, pinned image, source each claim, distinct angles
 and CTA; no unverified final copy. Then subsequent ten-video batches until 70.
+
+2026-11-03: Per MAVO's correction, 0011-0020 copy was actually edited and
+reviewed across all five surfaces. Claim sources, removals and limits in the
+fact-check ledger and per-video JSON review records; genre canonical rows and
+shape registers updated. Record/hashes gate passed and five-word scan reports
+zero for these ten against the available long-form corpus; neither proves
+truth or semantic uniqueness. Next 0021-0030, then tens to 0070; also return
+to 0001-0010 to complete the newer evidence/uniqueness gate before declaring
+all 70 finished. Withhold paste-ready replacements until all 70 are checked.

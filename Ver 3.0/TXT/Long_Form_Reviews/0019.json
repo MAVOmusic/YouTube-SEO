@@ -1,0 +1,74 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "aa6ffe84239a7073ba46d61e567f33d3b87637d1e738cab6d76d264d04f65194",
+    "description": "075974b7effee6056a7f37363350c036714e57d2c5f6c7798f94bcb2ac9ee91f",
+    "tags": "d8acd08a583266132e3003bf5a3dbe5c5855cd9e9d7774df2c94be9c6554b7ca",
+    "pinned comment": "bb688b90a8012bfde32b2aa172a2906a7e62750e8d3459af7ab6fc258c8e857c",
+    "genres": "7bf362c3adf766bf92f35fceeb99701a96f068fb95d61bc0fcab873a893f0dcf"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "description",
+      "claim": "Take the Power Back is third on Rage Against The Machine debut in 1992; source tags include funk metal, rap metal, rap rock and funk rock.",
+      "source": "https://genius.com/Rage-against-the-machine-take-the-power-back-lyrics",
+      "assessment": "Song-level facts checked; genre classification reflects source, not exclusive objective truth."
+    },
+    {
+      "surface": "description",
+      "claim": "Third track and Tim Commerford bass credit, as distinct from other Rage recordings.",
+      "source": "https://www.shazam.com/song/191450956/take-the-power-back",
+      "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
+    },
+    {
+      "surface": "title",
+      "claim": "Where Rage Against The Machine put the speech in Take The Power Back",
+      "source": "https://genius.com/Rage-against-the-machine-take-the-power-back-lyrics",
+      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
+    },
+    {
+      "surface": "description",
+      "claim": "MAVO performs bass while Rocksmith chart is on screen.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0020 - BABYMETAL - Megitsune (Long Form)/_01 - Main Info/Details.jpeg; user instruction in conversation",
+      "assessment": "Historical screenshot identifies video and format; explicit user confirms playing while overlay is on screen. Still does not establish equipment or note-by-note details."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick primary, Twitch mirror and Discord community links.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Requested channel routing and invitation; no exact schedule, guaranteed service, reward or current live state asserted."
+    },
+    {
+      "surface": "tags",
+      "claim": "rage against the machine, take the power back, ratm, ratm bass, tim commerford, funk metal, rap metal, rap rock, funk rock, bass cover, bass play along, rocksmith bass, rocksmith 2014, 1992",
+      "source": "https://genius.com/Rage-against-the-machine-take-the-power-back-lyrics; https://www.shazam.com/song/191450956/take-the-power-back; _All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0020 - BABYMETAL - Megitsune (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Search identity, song/artist/album terms, genre labels, years and bass/Rocksmith format checked; broad search intent is not a guarantee. Conventional tablature and uncertain tuning/equipment tags removed."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which bassline would you use to introduce a metal fan to funk?",
+      "source": "https://genius.com/Rage-against-the-machine-take-the-power-back-lyrics; https://www.shazam.com/song/191450956/take-the-power-back",
+      "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
+    },
+    {
+      "surface": "genres",
+      "claim": "- Funk metal\n- Rap metal\n- Rap rock\n- Funk rock",
+      "source": "https://genius.com/Rage-against-the-machine-take-the-power-back-lyrics; https://www.shazam.com/song/191450956/take-the-power-back",
+      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+    }
+  ],
+  "distinct_fact_and_source": "Third track and Tim Commerford bass credit, as distinct from other Rage recordings. https://www.shazam.com/song/191450956/take-the-power-back",
+  "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
+  "uncertainties_and_removed_claims": "Removed unverified Drop D in this performance, no-chorus assertion, player intent, note pattern, universal learner claims and boost reward. Historical Details and pin screenshots are not proof of current live metadata.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

@@ -57,3 +57,7 @@ bands verification does not verify long forms; gate records are not proof of tru
 
 2026-11-03 - 0011-0020 review in progress; evidence and image mismatch recorded
 in first-70 fact-check ledger. No batch passed the release gate.
+
+2026-11-03 - 0011-0020 correction pass across all surfaces, genre split,
+per-video evidence review records, uniqueness signals and register updates.
+Gate checks evidence records/hashes; it cannot independently certify truth.

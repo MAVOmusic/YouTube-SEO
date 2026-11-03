@@ -2,48 +2,41 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (55 characters)
+## TITLE (46 characters)
 
 ```text
-Queen built the hook of I Want To Break Free on a synth
+John Deacon wrote Queen's I Want To Break Free
 ```
 
-## DESCRIPTION (711 characters)
+## DESCRIPTION (486 characters)
 
 ```text
-Queen released this in 1984 on The Works, an album made by four men who were barely on speaking terms and who somehow agreed on this one.
+Queen's I Want To Break Free was written by bassist John Deacon and appeared on The Works in 1984. Fred Mandel played the song's synthesizer solo.
 
-The famous hook people hum is a synth, and the bass spends most of the song underneath it rather than playing it. Deacon keeps the low end walking through the verses and only takes the melody himself at the very end, which is the part worth studying.
+Want to follow the low end? The Rocksmith display accompanies my bass take.
 
-🔴 Queen requests come up on Kick more than you would expect: https://kick.com/mavomusic
-🟣 Also running on Twitch as part of the multistream: https://www.twitch.tv/mavomusic
-💬 Both of those get an answer over in the server: https://discord.gg/ESGsGkN4j2
-
-Classic rock, 1984, played once through and not tidied afterwards.
+🟢 Catch me on Kick for more bass-led listening: https://kick.com/mavomusic
+🟣 The Twitch mirror is there if that suits your setup: https://www.twitch.tv/mavomusic
+💬 Share a Queen deep cut in Discord and consider a boost if you wish: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 214/500 characters)
+## TAGS (14 tags, 199/500 characters)
 
 ```text
-queen, i want to break free, i want to break free bass, john deacon, the works, classic rock, 80s bass, synth bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, freddie mercury, queen bass
+queen, i want to break free, i want to break free bass, john deacon, the works, pop rock, synth pop, 80s bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, freddie mercury, queen bass
 ```
 
-## PINNED COMMENT (106 characters)
+## PINNED COMMENT (61 characters)
 
 ```text
-Two bass players on one record, and only one of them is holding a bass. Did you know the hook was a synth?
+Pick a John Deacon composition for the next bass performance.
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Pop rock** | documented, primary | pop rock lane |
-| Synth-pop | documented - the hook is a synth | synth-pop and 80s lane |
-| New wave | documented | new wave lane |
-| Funk rock | documented, the bass groove is funk | funk lane - the best fit for this bass part |
-| Arena rock | documented | stadium lane |
-| Classic rock | umbrella | classic rock lane |
-| Glam rock | artist context | optional |
+Song-level classifications support pop rock and synth-pop. Fred Mandel played synthesizers and Deacon bass; that does not prove the prior synth-bass and two-bass-player assertions.
 
-7 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
+## CORRECT GENRES (playlist reference)
+
+- Pop rock
+- Synth-pop

@@ -575,3 +575,9 @@ are not retroactively certified. See TXT/Long_Form_Release_Gate.txt.
 images, found four cyclically misfiled 0017-0020 images, researched sources and
 logged issues. Batch remains OPEN; no copy surfaces released or certified.
 User wants a full checked handoff only once all 70 are completed.
+
+2026-11-03 - Completed corrections pass for 0011-0020: examined all copy
+surfaces, historical pin screenshots and genre findings; removed unsupported
+assertions, revised ten copy files and first-40 canonical/shape rows, recorded
+sources per video and ran long-form records/overlap gate. Remaining review and
+limits are in TXT/First_70_Fact_Check_2026-11-03.txt; no live handoff yet.

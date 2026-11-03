@@ -2,48 +2,42 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (62 characters)
+## TITLE (56 characters)
 
 ```text
-Cute Without The E: Taking Back Sunday hid a joke in the title
+Taking Back Sunday meet Fight Club in Cute Without The E
 ```
 
-## DESCRIPTION (793 characters)
+## DESCRIPTION (492 characters)
 
 ```text
-In 2002 a band from Long Island released a song whose name requires arithmetic. Remove the E from Cute and the bracket explains itself: cut from the team. Two words, one pun, and an entire scene's sense of humour in a single title.
+Taking Back Sunday's Cute Without The 'E' appears on their 2002 debut Tell All Your Friends. Its music video pays homage to Fight Club.
 
-The title is the joke and the bass is the straight man. It runs a steady moving line under the verse, then jumps an octave for the chorus so the whole song lifts without any change in tempo. The Thunderbird is set flat for this one.
+Learning this bass part? See the Rocksmith notes as a visual guide to my playing.
 
-🔴 Emo requests get answered on Kick, usually late at night: https://kick.com/mavomusic
-🟣 It is on Twitch too, one room two windows: https://www.twitch.tv/mavomusic
-💬 Put your next request through Discord, boosts are welcome: https://discord.gg/ESGsGkN4j2
-
-Long Island emo, 2002, Epiphone Thunderbird, chart running underneath.
+🟢 Visit Kick and bring an emo-era favourite to the chat: https://kick.com/mavomusic
+🟣 Prefer Twitch? The stream is mirrored there: https://www.twitch.tv/mavomusic
+💬 Recommend a Taking Back Sunday track in Discord, and thank you for any boost: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 224/500 characters)
+## TAGS (13 tags, 200/500 characters)
 
 ```text
-taking back sunday, cute without the e, cute without the e bass, tell all your friends, emo, emo bass, pop punk, shaun cooper, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 2000s emo, long island emo
+taking back sunday, cute without the e, cute without the e bass, tell all your friends, emo, emo bass, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2000s emo, long island emo
 ```
 
-## PINNED COMMENT (118 characters)
+## PINNED COMMENT (68 characters)
 
 ```text
-The pun only works one way round. Take the E out and it still lands. Which 2002 record should get this treatment next?
+Which song from Tell All Your Friends would you put beside this one?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Emo** | documented, primary | main emo lane |
-| Post-hardcore | documented | post-hardcore lane |
-| Emo pop | documented | emo pop lane |
-| Pop punk | documented | pop punk lane |
-| Screamo | elements in the vocal only | optional |
-| Alternative rock | umbrella | alt-rock lane |
-| Long Island emo | scene label - the exact regional scene | scene and regional emo lane |
+Label source describes this track in an emo and post-hardcore context. Pop punk appears in classification of the music video and the parent album; classifications overlap.
 
-7 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
+## CORRECT GENRES (playlist reference)
+
+- Emo
+- Post-hardcore
+- Pop punk

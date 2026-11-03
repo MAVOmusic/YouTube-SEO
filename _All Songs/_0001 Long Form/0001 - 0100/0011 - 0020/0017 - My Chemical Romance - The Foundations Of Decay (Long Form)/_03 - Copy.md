@@ -2,47 +2,43 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (65 characters)
+## TITLE (56 characters)
 
 ```text
-Nine years off, then My Chemical Romance and Foundations Of Decay
+My Chemical Romance return with The Foundations Of Decay
 ```
 
-## DESCRIPTION (724 characters)
+## DESCRIPTION (540 characters)
 
 ```text
-My Chemical Romance stopped in 2013 with no tour, no farewell and no explanation. Then in 2022 they posted a song at midnight with no warning at all.
+The Foundations Of Decay arrived in 2022 as My Chemical Romance's first single since Fake Your Death in 2014. The band had already reunited in 2019.
 
-Six minutes and no chorus in the usual sense, so the bass has to carry the structure. It opens alone, adds the guitars one at a time, then holds the low end through the long outro without ever repeating a phrase exactly the same way twice.
+Hear how this later single sits beside the earlier catalogue while following my bass performance on the Rocksmith display.
 
-🔴 Comeback songs get played on Kick the night they land: https://kick.com/mavomusic
-🟣 Find the identical thing on Twitch, mirrored live: https://www.twitch.tv/mavomusic
-💬 Yours land fastest through Discord, boosting gets the name back: https://discord.gg/ESGsGkN4j2
-
-Emo and post-hardcore, 2022, Epiphone Thunderbird, chart in view.
+🟢 Come over to Kick for more alternative rock on bass: https://kick.com/mavomusic
+🟣 Watch the mirrored feed on Twitch instead: https://www.twitch.tv/mavomusic
+💬 Suggest an MCR song in Discord, with thanks to anyone who chooses to boost: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 255/500 characters)
+## TAGS (14 tags, 245/500 characters)
 
 ```text
-my chemical romance, foundations of decay, the foundations of decay, mcr, mcr bass, foundations of decay bass, mikey way, emo bass, return of my chemical romance, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, alternative rock bass
+my chemical romance, foundations of decay, the foundations of decay, mcr, mcr bass, foundations of decay bass, mikey way, emo bass, return of my chemical romance, bass cover, bass play along, rocksmith bass, rocksmith 2014, alternative rock bass
 ```
 
-## PINNED COMMENT (112 characters)
+## PINNED COMMENT (68 characters)
 
 ```text
-Midnight comeback, bass first. Name a band whose return single was better than anything on the record before it.
+How does this single compare with the MCR song you first discovered?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Emo** | documented, primary | main emo lane |
-| Post-hardcore | documented | post-hardcore lane |
-| Alternative rock | documented | alt-rock lane |
-| Hard rock | documented - heavier than anything on the 2006 record | hard rock lane |
-| Emo revival | documented - the 2020s wave | emo revival lane |
-| Art rock / post-rock | structural, the six minute build | long-form and build lane |
+RYM classifies the single post-hardcore and alternative rock; other song-specific coverage describes progressive rock and gothic rock. Emo and art rock also appear as secondary classifications, but are not essential to this conservative list.
 
-6 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
+## CORRECT GENRES (playlist reference)
+
+- Post-hardcore
+- Alternative rock
+- Progressive rock
+- Gothic rock

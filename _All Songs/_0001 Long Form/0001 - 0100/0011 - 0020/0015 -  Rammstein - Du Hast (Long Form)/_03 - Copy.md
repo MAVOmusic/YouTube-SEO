@@ -2,47 +2,41 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (60 characters)
+## TITLE (40 characters)
 
 ```text
-Rammstein ask a wedding question and answer it with one note
+A wedding vow meets Rammstein in Du Hast
 ```
 
-## DESCRIPTION (742 characters)
+## DESCRIPTION (487 characters)
 
 ```text
-Sehnsucht arrived in 1997 and turned Rammstein into the biggest German-language band on the planet, which is a strange outcome for a song that replies to a marriage vow with a refusal.
+Du Hast was the second single from Rammstein's 1997 album Sehnsucht. Its lyrics draw on the wording of a wedding vow.
 
-One note, repeated until it stops being a note and becomes a machine. Riedel barely moves his fretting hand for most of this, and the Drop C tuning lets that single note sit low enough to feel like pressure rather than pitch.
+Use the chart as a guide and decide which section of this bass performance you would tackle first.
 
-🔴 Industrial sets run on Kick, this always gets played twice: https://kick.com/mavomusic
-🟣 Twitch runs the overflow once the chat fills up: https://www.twitch.tv/mavomusic
-💬 Stick a request in Discord, or send a boost if you prefer: https://discord.gg/ESGsGkN4j2
-
-Industrial metal, 1997, Drop C, single pass with the tab visible.
+🟢 Tune in on Kick for a dose of industrial metal: https://kick.com/mavomusic
+🟣 Twitch mirrors the broadcast for its own chat: https://www.twitch.tv/mavomusic
+💬 Bring your Rammstein picks to Discord; support through a boost is appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 201/500 characters)
+## TAGS (14 tags, 191/500 characters)
 
 ```text
-rammstein, du hast, rammstein du hast, sehnsucht, industrial metal, oliver riedel, ramstein, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 1997, neue deutsche harte, metal bass
+rammstein, du hast, rammstein du hast, sehnsucht, industrial metal, oliver riedel, ramstein, bass cover, bass play along, rocksmith bass, rocksmith 2014, 1997, neue deutsche harte, metal bass
 ```
 
-## PINNED COMMENT (129 characters)
+## PINNED COMMENT (81 characters)
 
 ```text
-Four hundred identical hits and the room still moves. What is the one track you can play for an hour without getting bored of it?
+Which Rammstein song would you choose for someone learning their first bass part?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Industrial metal** | documented, primary | main industrial metal lane |
-| Neue Deutsche Härte | documented - the exact German scene term | NDH lane, pairs with Oomph and Eisbrecher |
-| Industrial rock | documented | industrial rock lane |
-| Alternative metal | documented | alt-metal lane |
-| Electro-industrial | elements | electronic-metal crossover |
-| Heavy metal | umbrella | heavy metal lane |
+Track sources identify industrial metal and Neue Deutsche Haerte. Exact tuning, repetition counts and claims about the player on this video cannot be established from the still.
 
-6 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
+## CORRECT GENRES (playlist reference)
+
+- Industrial metal
+- Neue Deutsche Haerte

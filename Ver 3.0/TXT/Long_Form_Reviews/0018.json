@@ -1,0 +1,74 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "436dee207e6d3bc161f0e483bca7c4e39dca403ebfb85cf9c00f2b6525287323",
+    "description": "d878ed9c73238c640c93fe2e7c8ea4c3f6c0b6e34ff28408fc116a616ba7c785",
+    "tags": "aefb755fb0e4c2cd9c26e9a9fdc91ce98d7ffa459464bb9a2acc8f4b00010487",
+    "pinned comment": "50d49356a32e0379f4721652e91ce30dcb94c674a12d64063220b7aeab70b765",
+    "genres": "3e5d7ac1f6e99359ce8d3e633595fbd32bc13eb973dfd1efbffb0017fe907849"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "description",
+      "claim": "Eurobeat Brony original Discord dates to 2011; the Living Tombstone remix is from 2012 and is electropop.",
+      "source": "https://www.whosampled.com/Eurobeat-Brony/Discord-(The-Living-Tombstone-Remix)/",
+      "assessment": "Song-level facts checked; genre classification reflects source, not exclusive objective truth."
+    },
+    {
+      "surface": "description",
+      "claim": "Difference between original and 2012 remix; remix classified electropop/glitch hop.",
+      "source": "https://rateyourmusic.com/release/single/eurobeat-brony/discord-the-living-tombstones-remix/",
+      "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
+    },
+    {
+      "surface": "title",
+      "claim": "Discord by Eurobeat Brony remixed by The Living Tombstone",
+      "source": "https://rateyourmusic.com/release/single/eurobeat-brony/discord-the-living-tombstones-remix/",
+      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
+    },
+    {
+      "surface": "description",
+      "claim": "MAVO performs bass while Rocksmith chart is on screen.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0019 - Rage Against The Machine - Take The Power Back (Long Form)/_01 - Main Info/Details.jpeg; user instruction in conversation",
+      "assessment": "Historical screenshot identifies video and format; explicit user confirms playing while overlay is on screen. Still does not establish equipment or note-by-note details."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick primary, Twitch mirror and Discord community links.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Requested channel routing and invitation; no exact schedule, guaranteed service, reward or current live state asserted."
+    },
+    {
+      "surface": "tags",
+      "claim": "eurobeat brony, discord, the living tombstone, discord remix, discord eurobeat brony, brony music, my little pony fan music, glitch hop, electropop, remix bass, bass cover, bass play along, rocksmith bass, rocksmith 2014",
+      "source": "https://www.whosampled.com/Eurobeat-Brony/Discord-(The-Living-Tombstone-Remix)/; https://rateyourmusic.com/release/single/eurobeat-brony/discord-the-living-tombstones-remix/; _All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0019 - Rage Against The Machine - Take The Power Back (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Search identity, song/artist/album terms, genre labels, years and bass/Rocksmith format checked; broad search intent is not a guarantee. Conventional tablature and uncertain tuning/equipment tags removed."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What remix introduced you to an original song you had never heard?",
+      "source": "https://www.whosampled.com/Eurobeat-Brony/Discord-(The-Living-Tombstone-Remix)/; https://rateyourmusic.com/release/single/eurobeat-brony/discord-the-living-tombstones-remix/",
+      "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
+    },
+    {
+      "surface": "genres",
+      "claim": "- Electropop\n- Glitch hop",
+      "source": "https://www.whosampled.com/Eurobeat-Brony/Discord-(The-Living-Tombstone-Remix)/; https://rateyourmusic.com/release/single/eurobeat-brony/discord-the-living-tombstones-remix/",
+      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+    }
+  ],
+  "distinct_fact_and_source": "Difference between original and 2012 remix; remix classified electropop/glitch hop. https://rateyourmusic.com/release/single/eurobeat-brony/discord-the-living-tombstones-remix/",
+  "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
+  "uncertainties_and_removed_claims": "Removed assertions about release months, universality, four chords throughout, root-only bass, swing, no vocals and relative view counts; Eurobeat not a primary genre of the remix. Historical Details and pin screenshots are not proof of current live metadata.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

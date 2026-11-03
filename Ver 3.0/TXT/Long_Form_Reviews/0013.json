@@ -1,0 +1,74 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "620a037bca2904aba8c1cee0492dea34a909b754f713017d39a26406901b8a9e",
+    "description": "ccdb4ed2d30fd538d53b604cdeba827188a685ee6ca7441c86f40e5243f592cb",
+    "tags": "58b94981e8bd887c5eb8170d7c22e5acf7f3682155d2f7d887e64a45e349a566",
+    "pinned comment": "edaf09f02fce00e03f32dac3ad01f6800d672b0371815d422e3582f8393f99f1",
+    "genres": "b4ea4039e2510171c90c05a0287d92576a819d46f35e1825a2867e0e2beb6a0f"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "description",
+      "claim": "War Ensemble appears on Slayer Seasons in the Abyss (1990), thrash metal.",
+      "source": "https://www.whosampled.com/Slayer/War-Ensemble/",
+      "assessment": "Song-level facts checked; genre classification reflects source, not exclusive objective truth."
+    },
+    {
+      "surface": "description",
+      "claim": "Album opener and first video attempt at Wembley Arena in October 1990.",
+      "source": "https://www.kerrang.com/slayer-the-stories-behind-20-of-their-biggest-songs",
+      "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
+    },
+    {
+      "surface": "title",
+      "claim": "Slayer open Seasons in the Abyss with War Ensemble",
+      "source": "https://www.kerrang.com/slayer-the-stories-behind-20-of-their-biggest-songs",
+      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
+    },
+    {
+      "surface": "description",
+      "claim": "MAVO performs bass while Rocksmith chart is on screen.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0013 - Slayer - War Ensemble (Long Form)/_01 - Main Info/Details.jpeg; user instruction in conversation",
+      "assessment": "Historical screenshot identifies video and format; explicit user confirms playing while overlay is on screen. Still does not establish equipment or note-by-note details."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick primary, Twitch mirror and Discord community links.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Requested channel routing and invitation; no exact schedule, guaranteed service, reward or current live state asserted."
+    },
+    {
+      "surface": "tags",
+      "claim": "slayer, war ensemble, seasons in the abyss, thrash metal, thrash bass, tom araya, bass cover, bass play along, rocksmith bass, rocksmith 2014, 1990, bass guitar, metal bass",
+      "source": "https://www.whosampled.com/Slayer/War-Ensemble/; https://www.kerrang.com/slayer-the-stories-behind-20-of-their-biggest-songs; _All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0013 - Slayer - War Ensemble (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Search identity, song/artist/album terms, genre labels, years and bass/Rocksmith format checked; broad search intent is not a guarantee. Conventional tablature and uncertain tuning/equipment tags removed."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which Slayer album opener makes you want to hear the rest of the record?",
+      "source": "https://www.whosampled.com/Slayer/War-Ensemble/; https://www.kerrang.com/slayer-the-stories-behind-20-of-their-biggest-songs",
+      "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
+    },
+    {
+      "surface": "genres",
+      "claim": "- Thrash metal",
+      "source": "https://www.whosampled.com/Slayer/War-Ensemble/; https://www.kerrang.com/slayer-the-stories-behind-20-of-their-biggest-songs",
+      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+    }
+  ],
+  "distinct_fact_and_source": "Album opener and first video attempt at Wembley Arena in October 1990. https://www.kerrang.com/slayer-the-stories-behind-20-of-their-biggest-songs",
+  "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
+  "uncertainties_and_removed_claims": "Removed claims of live singing by Araya in this video, eighth-note analysis, constant speed and no punch-ins. Historical Details and pin screenshots are not proof of current live metadata.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

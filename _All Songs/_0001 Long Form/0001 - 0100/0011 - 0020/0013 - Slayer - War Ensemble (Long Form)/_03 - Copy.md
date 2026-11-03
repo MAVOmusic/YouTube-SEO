@@ -2,45 +2,40 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (63 characters)
+## TITLE (50 characters)
 
 ```text
-Tom Araya sings and plays War Ensemble for Slayer at full speed
+Slayer open Seasons in the Abyss with War Ensemble
 ```
 
-## DESCRIPTION (785 characters)
+## DESCRIPTION (485 characters)
 
 ```text
-Seasons in the Abyss opens with this and gives away nothing. No intro, no build, no courtesy. War Ensemble begins at the tempo it intends to keep and holds it for four minutes and fifty-two seconds.
+War Ensemble opens Slayer's 1990 album Seasons in the Abyss. The band attempted to film its first music video at Wembley Arena that October.
 
-Araya sings and plays at the same time here, which is why the bass line looks simpler than it sounds. The notes are mostly straight eighths but the vocal phrasing pulls against them, and holding your own time through that is the entire challenge.
+Pick a passage to practise while my bass performance and the Rocksmith display run together.
 
-🟢 Thrash nights on Kick get very loud, this is the loudest: https://kick.com/mavomusic
-🟣 Mirrored on Twitch for the people already sitting in that window: https://www.twitch.tv/mavomusic
-💬 Which Slayer record should I pull apart? Answer in Discord: https://discord.gg/ESGsGkN4j2
-
-Thrash metal, 1990, one pass at full tempo, no punch-ins.
+🟢 Find the next heavy selection on Kick: https://kick.com/mavomusic
+🟣 You can also watch the Twitch mirror: https://www.twitch.tv/mavomusic
+💬 Compare Slayer albums in Discord, where you can also support us with a boost: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 195/500 characters)
+## TAGS (13 tags, 172/500 characters)
 
 ```text
-slayer, war ensemble, seasons in the abyss, thrash metal, thrash bass, tom araya, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 1990, speed metal, bass guitar, metal bass
+slayer, war ensemble, seasons in the abyss, thrash metal, thrash bass, tom araya, bass cover, bass play along, rocksmith bass, rocksmith 2014, 1990, bass guitar, metal bass
 ```
 
-## PINNED COMMENT (99 characters)
+## PINNED COMMENT (72 characters)
 
 ```text
-One voice, one bass, no room to breathe between them. Which Slayer record would you want done next?
+Which Slayer album opener makes you want to hear the rest of the record?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Thrash metal** | documented, primary | main thrash lane |
-| Speed metal | documented - the exact tempo profile | speed metal lane |
-| Heavy metal | umbrella | heavy metal lane |
-| Extreme metal | umbrella | extreme metal lane |
+War Ensemble is identified as thrash metal by a song-level source. Heavy metal is a broad umbrella; speed and extreme metal are not needed as separate confident track-level recommendations.
 
-4 labels recorded. Backfilled under the Ver 4.18 rule so every song 1 to 19 carries one.
+## CORRECT GENRES (playlist reference)
+
+- Thrash metal

@@ -9,44 +9,37 @@
 Where Rage Against The Machine put the speech in Take The Power Back
 ```
 
-## DESCRIPTION (919 characters)
+## DESCRIPTION (480 characters)
 
 ```text
-The debut landed in November 1992 and the third track is the one where the shouting stops for a second and the groove starts doing the talking. Five and a half minutes with no chorus to speak of, just a figure that keeps returning while the vocal circles round it.
+Take The Power Back is the third track on Rage Against The Machine's self-titled 1992 debut. Tim Commerford is credited on bass.
 
-Drop D, with most of the weight resting on that loose bottom string. Commerford sits behind the beat on purpose, so the guitar and the rap both sound slightly early against him, which is the whole trick. The four note descent at the top is the part everyone learns first and the part most people rush.
+There is a Rocksmith guide on screen if you want to work through the bass part with me.
 
-🟢 Funk rock and rap metal both get played on Kick, ask for either: https://kick.com/mavomusic
-🟣 The same night also runs over on Twitch: https://www.twitch.tv/mavomusic
-💬 Anything you want heard goes in the server, a boost helps the vanity link: https://discord.gg/ESGsGkN4j2
-
-Rap metal and funk rock, 1992, Drop D, one pass with the chart on screen.
+🟢 Bring a funk-metal pick to the Kick stream: https://kick.com/mavomusic
+🟣 A Twitch mirror is available for the same broadcast: https://www.twitch.tv/mavomusic
+💬 Compare basslines with the Discord community; a boost is appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (16 tags, 212/500 characters)
+## TAGS (14 tags, 189/500 characters)
 
 ```text
-rage against the machine, take the power back, ratm, ratm bass, tim commerford, funk metal, rap metal, rap rock, funk rock, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, drop d bass, 1992
+rage against the machine, take the power back, ratm, ratm bass, tim commerford, funk metal, rap metal, rap rock, funk rock, bass cover, bass play along, rocksmith bass, rocksmith 2014, 1992
 ```
 
-## PINNED COMMENT (149 characters)
+## PINNED COMMENT (62 characters)
 
 ```text
-Drop D, one figure repeated for five minutes, no chorus to hide in. What bassline would you use to explain funk to someone who only listens to metal?
+Which bassline would you use to introduce a metal fan to funk?
 ```
 
-## GENRES (playlist reference - do not paste)
+## GENRE FINDINGS (internal)
 
-| Genre | Status | Playlist lane |
-|---|---|---|
-| **Rap metal** | documented, primary - the genre this band is credited with creating | main rap metal lane, sits with early 90s crossover |
-| Rap rock | documented | rap rock lane |
-| **Funk metal** | documented - the bass is funk first, metal second | best fit for this bass part, pairs with Primus and Faith No More |
-| Funk rock | documented | funk lane |
-| Alternative metal | documented | alt-metal lane |
-| Hard rock | documented | hard rock lane |
-| Nu metal | documented as a progenitor influence, NOT a member of the wave | use only in "before nu metal" style lists |
-| Political hip hop | lyric and delivery, not the music | conscious and political lane |
-| Groove metal | adjacent, the rhythmic approach | optional |
+Track-specific classifications include funk metal, rap metal, rap rock and funk rock. Prior claims about exact tuning, player intent and the absence of a chorus are not established for this performance.
 
-Nine labels, five formal classifications. One word: **Rap metal**. Two: **Rap metal + Funk metal**.
+## CORRECT GENRES (playlist reference)
+
+- Funk metal
+- Rap metal
+- Rap rock
+- Funk rock
