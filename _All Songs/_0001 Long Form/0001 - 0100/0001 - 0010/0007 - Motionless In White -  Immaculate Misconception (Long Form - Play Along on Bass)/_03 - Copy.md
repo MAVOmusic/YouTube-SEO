@@ -8,12 +8,12 @@
 Keep up with Motionless In White on Immaculate Misconception
 ```
 
-## DESCRIPTION (562 characters)
+## DESCRIPTION (514 characters)
 
 ```text
 Immaculate Misconception opens Motionless In White's debut album Creatures. Twisted Sister's Dee Snider makes a cameo in the song's music video.
 
-The chart remains visible in this Rocksmith bass video so you can follow the song as it goes. Take it section by section if you are learning the part.
+Follow the Rocksmith notes while I play bass. Take it section by section if you are learning the part.
 
 🟢 Drop into a live performance on Kick: https://kick.com/mavomusic
 🟣 Watch the mirrored broadcast on Twitch: https://www.twitch.tv/mavomusic

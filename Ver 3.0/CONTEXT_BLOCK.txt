@@ -2356,3 +2356,5 @@ pins and genre scope; disclose unresolved issues before approval. Do not begin
 0071 until user receives a reliable assessment and chooses to proceed.
 
 2026-11-03 - Incomplete first-70 recheck: corrected 0010 conflicting album-year wording and 0011 disputed publication year; added direct interview evidence and sole-credit caveat for 0067. See TXT/First_70_Fact_Check_2026-11-03.txt. No first-70 readiness certification; source-by-source review and batch completion remain outstanding.
+
+2026-11-03 - Continuing first-70 recheck: corrected unsupported continuous chart claim in CO-0007; record and source ledger updated. Independent recheck remains unfinished.
