@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (67 characters)
+## TITLE (68 characters)
 
 ```text
-Soundtrack lead single Young, Wild & Free - Snoop Dogg and Wiz bass
+Bass cover: Young, Wild & Free - Snoop Dogg, Wiz Khalifa, Bruno Mars
 ```
 
 ## DESCRIPTION (465 characters)
@@ -20,10 +20,10 @@ My bass performance uses an on-screen Rocksmith chart.
 💬 Bring a soundtrack discovery to Discord; thank you to those boosting: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (10 tags, 176/500 characters)
+## TAGS (14 tags, 224/500 characters)
 
 ```text
-snoop dogg, wiz khalifa, bruno mars, young wild and free, snoop dogg wiz khalifa young wild and free, mac and devin go to high school, pop rap, 2011, bass cover, rocksmith bass
+snoop dogg, wiz khalifa, bruno mars, young wild and free, snoop dogg wiz khalifa young wild and free, mac and devin go to high school, pop rap, 2011, bass cover, rocksmith bass, snoop, snoop doggy dogg, wiz, the smeezingtons
 ```
 
 ## PINNED COMMENT (66 characters)
@@ -34,8 +34,15 @@ What soundtrack introduced you to a collaboration you still enjoy?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based suggestions; genre is subjective. Evidence is song or single-level. See the review record for sources.
+Collaboration: this is the deduplicated union of artist-level genres for the two lead artists and featured artist, not a classification of this specific song. See the separate Snoop Dogg, Wiz Khalifa and Bruno Mars registers. Sources: https://en.wikipedia.org/wiki/Snoop_Dogg ; https://en.wikipedia.org/wiki/Wiz_Khalifa ; https://en.wikipedia.org/wiki/Bruno_Mars.
 
 ## CORRECT GENRES
 
+- West Coast hip-hop
+- G-funk
+- Gangsta rap
 - Pop rap
+- Pop
+- R&B
+- Funk
+- Soul

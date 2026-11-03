@@ -58,3 +58,14 @@ Imported from the existing per-song reviews for this artist. CO numbers indicate
 Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
 
 - gerard way - https://en.wikipedia.org/wiki/My_Chemical_Romance
+
+## CO-0047 - strategy pass, 2026-11-03
+
+- The Xbox 360 version of Guitar Hero II added My Chemical Romance's own recording of Dead! The track is on their album The Black Parade, released in 2006.
+  - Source: https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/
+- Artist or contributor tag: mcr - https://en.wikipedia.org/wiki/My_Chemical_Romance
+- Artist or contributor tag: my chem - https://jhmoviecollection.fandom.com/wiki/My_Chemical_Romance
+- Artist or contributor tag: gerard way - https://en.wikipedia.org/wiki/My_Chemical_Romance
+- Artist or contributor tag: mikey way - https://en.wikipedia.org/wiki/My_Chemical_Romance
+- Artist or contributor tag: frank iero - https://en.wikipedia.org/wiki/My_Chemical_Romance
+- Artist or contributor tag: ray toro - https://en.wikipedia.org/wiki/My_Chemical_Romance

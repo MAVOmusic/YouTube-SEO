@@ -36,7 +36,7 @@ Previously researched description claims; verify against sources and current cop
 
 ### CO-0044 - 0044 - Billy Talent - Viking Death March (Long Form)
 
-- Billy Talent's official Viking Death March video uses performance footage from Rock am Ring and Amsterdam's Melkweg. The song was the first single from Dead Silence.
+- Viking Death March was the first single from Billy Talent's 2012 album Dead Silence. The band shared the song before announcing the album details.
   - Source: https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/ ; https://www.thestar.com/entertainment/music/juno-single-of-the-year-story-behind-billy-talents-viking-death-march/article_a9ed1410-1895-556f-8b3d-2045042bfa45.html
 
 ### CO-0066 - 0066 - Billy Talent - Try Honesty (Long Form)
@@ -54,3 +54,12 @@ Previously researched description claims; verify against sources and current cop
 
 - CO-0035: A cleaned-up demo was used in Burnout Revenge before the album release. Used in description and alluded to in the title; do not claim this cover uses the demo.
   - Source: https://billytalent.wiki/Red_Flag
+
+## CO-0044 - strategy pass, 2026-11-03
+
+- Viking Death March was the first single from Billy Talent's 2012 album Dead Silence. The band shared the song before announcing the album details.
+  - Source: https://www.wikiwand.com/en/Viking_Death_March ; https://exclaim.ca/music/article/billy_talent-viking_death_march
+- Artist or contributor tag: ben kowalewicz - https://en.wikipedia.org/wiki/Billy_Talent
+- Artist or contributor tag: ian dsa - https://en.wikipedia.org/wiki/Billy_Talent
+- Artist or contributor tag: jon gallant - https://kids.kiddle.co/Billy_Talent
+- Artist or contributor tag: jonathan gallant - https://en.wikipedia.org/wiki/Billy_Talent

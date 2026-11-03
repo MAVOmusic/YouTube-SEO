@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (66 characters)
+## TITLE (64 characters)
 
 ```text
-Bullet For My Valentine pair Scream Aim Fire with a cover on vinyl
+Scream Aim Fire: Bullet For My Valentine's metal assault on bass
 ```
 
 ## DESCRIPTION (457 characters)
@@ -20,10 +20,10 @@ Here I play bass with a Rocksmith overlay.
 💬 Trade B-side finds on Discord; boosts are an optional extra: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (10 tags, 167/500 characters)
+## TAGS (15 tags, 231/500 characters)
 
 ```text
-bullet for my valentine, scream aim fire, bullet for my valentine scream aim fire, bfmv, melodic metalcore, thrash metal, 2008, crazy train, bass cover, rocksmith bass
+bullet for my valentine, scream aim fire, bullet for my valentine scream aim fire, bfmv, melodic metalcore, thrash metal, 2008, crazy train, bass cover, rocksmith bass, matt tuck, matthew tuck, jay james, jason james, ozzy osbourne
 ```
 
 ## PINNED COMMENT (58 characters)
@@ -34,9 +34,11 @@ What B-side cover made you look up the original recording?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based suggestions; genre is subjective. Evidence is song or single-level. See the review record for sources.
+Artist-level genres are sourced from https://en.wikipedia.org/wiki/Bullet_for_My_Valentine; labels describe the artist across their catalogue, not necessarily this track. See Band Info/Bullet For My Valentine/Register.md.
 
 ## CORRECT GENRES
 
 - Melodic metalcore
+- Heavy metal
 - Thrash metal
+- Hard rock

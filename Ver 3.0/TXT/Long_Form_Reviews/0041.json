@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "c3787351c764351836c77a1540732fc6311bc2799e2a132948e13a74047aa67f",
+    "title": "eb9a96460250fc89219dadfaf224023ac2daa03ac8a4b7d67b71442b2cf4555a",
     "description": "2972850cc59f3e93d7b40766b4c6eb406a344adb6fbd9297c2c523d507cae1f2",
-    "tags": "904b875a0530727e30fab75bdb4920791075143ea5b201560bfb1ecdae4f705c",
+    "tags": "ff631e0e9c32f8c988005efeb08a76e35af9f7fb56cd3471149777404cd46307",
     "pinned comment": "932dce882ede2b4b41998ed41d724e501a55d193f1fb4449caf44cda4e757905",
-    "genres": "9cc9ed6f061284c9d6ebd5167b044ce748e9dbaea01e07011d9c23de1649a03a"
+    "genres": "338434e5af66cd0916cfecb327078d8ebcd65a2538fe8e918580fa11677c1374"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Soundtrack lead single Young, Wild & Free - Snoop Dogg and Wiz bass",
-      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity and factual framing checked; performance and Rocksmith format based on historical image and user confirmation."
+      "claim": "Bass cover: Young, Wild & Free - Snoop Dogg, Wiz Khalifa, Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form)/_01 - Main Info/Details.jpeg ; https://en.wikipedia.org/wiki/Snoop_Dogg ; https://en.wikipedia.org/wiki/Wiz_Khalifa ; https://en.wikipedia.org/wiki/Bruno_Mars ; user-confirmed bass performance",
+      "assessment": "Song identity and credited artist checked; subjective editorial wording is not a measurable CTR claim. People mentioned do not appear in this creator performance."
     },
     {
       "surface": "description",
@@ -107,15 +107,81 @@
       "assessment": "Historical comments image inspected; no visible artist comment. This question is proposed copy, not proof of the live pin. Existing real viewer comments should be retained."
     },
     {
+      "surface": "tags",
+      "claim": "snoop",
+      "source": "https://en.wikipedia.org/wiki/Snoop_Dogg",
+      "assessment": "Relevant band member, creator, credited collaborator or documented alias; no claim about appearances in MAVO video or search frequency."
+    },
+    {
+      "surface": "tags",
+      "claim": "snoop doggy dogg",
+      "source": "https://en.wikipedia.org/wiki/Snoop_Dogg",
+      "assessment": "Relevant band member, creator, credited collaborator or documented alias; no claim about appearances in MAVO video or search frequency."
+    },
+    {
+      "surface": "tags",
+      "claim": "wiz",
+      "source": "https://en.wikipedia.org/wiki/Wiz_Khalifa",
+      "assessment": "Relevant band member, creator, credited collaborator or documented alias; no claim about appearances in MAVO video or search frequency."
+    },
+    {
+      "surface": "tags",
+      "claim": "the smeezingtons",
+      "source": "https://www.billboard.com/music/music-news/track-review-snoop-dogg-wiz-khalifa-feat-bruno-mars-young-wild-free-1067541/",
+      "assessment": "Relevant band member, creator, credited collaborator or documented alias; no claim about appearances in MAVO video or search frequency."
+    },
+    {
+      "surface": "genres",
+      "claim": "West Coast hip-hop",
+      "source": "https://en.wikipedia.org/wiki/Snoop_Dogg ; https://en.wikipedia.org/wiki/Wiz_Khalifa ; https://en.wikipedia.org/wiki/Bruno_Mars",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "G-funk",
+      "source": "https://en.wikipedia.org/wiki/Snoop_Dogg ; https://en.wikipedia.org/wiki/Wiz_Khalifa ; https://en.wikipedia.org/wiki/Bruno_Mars",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Gangsta rap",
+      "source": "https://en.wikipedia.org/wiki/Snoop_Dogg ; https://en.wikipedia.org/wiki/Wiz_Khalifa ; https://en.wikipedia.org/wiki/Bruno_Mars",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
       "surface": "genres",
       "claim": "Pop rap",
-      "source": "https://en.wikipedia.org/wiki/Young,_Wild_%26_Free",
-      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+      "source": "https://en.wikipedia.org/wiki/Snoop_Dogg ; https://en.wikipedia.org/wiki/Wiz_Khalifa ; https://en.wikipedia.org/wiki/Bruno_Mars",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop",
+      "source": "https://en.wikipedia.org/wiki/Snoop_Dogg ; https://en.wikipedia.org/wiki/Wiz_Khalifa ; https://en.wikipedia.org/wiki/Bruno_Mars",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "R&B",
+      "source": "https://en.wikipedia.org/wiki/Snoop_Dogg ; https://en.wikipedia.org/wiki/Wiz_Khalifa ; https://en.wikipedia.org/wiki/Bruno_Mars",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Funk",
+      "source": "https://en.wikipedia.org/wiki/Snoop_Dogg ; https://en.wikipedia.org/wiki/Wiz_Khalifa ; https://en.wikipedia.org/wiki/Bruno_Mars",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Soul",
+      "source": "https://en.wikipedia.org/wiki/Snoop_Dogg ; https://en.wikipedia.org/wiki/Wiz_Khalifa ; https://en.wikipedia.org/wiki/Bruno_Mars",
+      "assessment": "Artist-level classification; not an assertion each genre describes this recording."
     }
   ],
   "distinct_fact_and_source": "soundtrack lead single ; https://en.wikipedia.org/wiki/Young,_Wild_%26_Free",
   "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. Reworded title to avoid suggesting the credited artists themselves play bass in this upload; Bruno Mars remains credited in the description.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. Reworded title to avoid suggesting the credited artists themselves play bass in this upload; Bruno Mars remains credited in the description. 2026-11-03: Artist-level genres and relevant person tags do not prove individual recording credits or YouTube search demand. CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

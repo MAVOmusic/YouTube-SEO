@@ -1,12 +1,28 @@
-2026-11-03 - Source-based genre suggestions; see each individual review record.
+# Artist-level genres - CO-0041 to CO-0050
+# Labels describe credited artists across their catalogues, not necessarily each song.
+# CO-0041 is the union for Snoop Dogg, Wiz Khalifa and featured Bruno Mars; this is not a song-level classification.
 
-0041  Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free  Pop rap
-0042  The Cult - Love Removal Machine  Hard rock / Heavy metal
-0043  Muse - Supermassive Black Hole  Alternative rock / Dance-punk
-0044  Billy Talent - Viking Death March  Punk rock / Post-hardcore
-0045  Manowar - Kings Of Metal  Heavy metal / Power metal
-0046  Bullet For My Valentine - Scream Aim Fire  Melodic metalcore / Thrash metal
-0047  My Chemical Romance - Dead!  Pop punk
-0048  System Of A Down - Hypnotize  Alternative metal
-0049  (G)I-DLE - I'm The Trend  K-pop / Dance-pop
-0050  (G)I-DLE - Tomboy  Alternative rock / Pop punk
+0041 | 0041 - Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free (Long Form) | West Coast hip-hop / G-funk / Gangsta rap / Pop rap / Pop / R&B / Funk / Soul
+0042 | 0042 - The Cult - Love Removal Machine (Long Form) | Hard rock / Gothic rock / Alternative rock / Heavy metal / Post-punk
+0043 | 0043 - Muse - Supermassive Black Hole (Long Form) | Alternative rock / Progressive rock / Space rock / Hard rock / Art rock / Electronic rock
+0044 | 0044 - Billy Talent - Viking Death March (Long Form) | Alternative rock / Punk rock / Post-hardcore / Pop punk / Emo
+0045 | 0045 - Manowar - Kings Of Metal (Long Form) | Heavy metal / Power metal
+0046 | 0046 - Bullet For My Valentine - Scream Aim Fire (Long Form) | Melodic metalcore / Heavy metal / Thrash metal / Hard rock
+0047 | 0047 - My Chemical Romance - Dead! (Long Form) | Alternative rock / Emo / Pop punk / Post-hardcore
+0048 | 0048 - System Of A Down - Hypnotize (Long Form) | Alternative metal / Nu metal
+0049 | 0049 - (G)I-DLE - I'm The Trend (Long Form) | K-pop / Pop / Trap / Hip hop / EDM
+0050 | 0050 - (G)I-DLE - Tomboy (Long Form) | K-pop / Pop / Trap / Hip hop / EDM
+
+# Historical earlier song-level suggestions (superseded):
+# 2026-11-03 - Source-based genre suggestions; see each individual review record.
+#
+# 0041  Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free  Pop rap
+# 0042  The Cult - Love Removal Machine  Hard rock / Heavy metal
+# 0043  Muse - Supermassive Black Hole  Alternative rock / Dance-punk
+# 0044  Billy Talent - Viking Death March  Punk rock / Post-hardcore
+# 0045  Manowar - Kings Of Metal  Heavy metal / Power metal
+# 0046  Bullet For My Valentine - Scream Aim Fire  Melodic metalcore / Thrash metal
+# 0047  My Chemical Romance - Dead!  Pop punk
+# 0048  System Of A Down - Hypnotize  Alternative metal
+# 0049  (G)I-DLE - I'm The Trend  K-pop / Dance-pop
+# 0050  (G)I-DLE - Tomboy  Alternative rock / Pop punk

@@ -162,9 +162,9 @@
     }
   ],
   "distinct_fact_and_source": "Weightless was the lead single from All Time Low's 2009 album Nothing Personal. The official music video features cameos from Mark Hoppus and Pete Wentz. https://www.altpress.com/all-time-low-weightless-lyrics-quiz/",
-  "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
+  "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads. 2026-11-03: collision signals refreshed after CO-0041-0050 pass; shared named entities are not by themselves semantic repetition.",
   "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded. Former title could imply the single followed the album; the single preceded the July 2009 album. 2026-11-03: genre list is artist-level. People tags signify band or song associations, not original recording credit or appearance in MAVO video. Spelling observations do not prove YouTube search frequency. Title effectiveness untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  "collision_report_sha256": "f21e22c97e24701874c58558d0f632174ed966dbd999dbbd8548ffbad77af814"
 }

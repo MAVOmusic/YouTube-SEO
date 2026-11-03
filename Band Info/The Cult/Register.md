@@ -43,3 +43,12 @@ Previously researched description claims; verify against sources and current cop
 
 - CO-0038: She Sells Sanctuary appears on the 1985 album Love; the group moved from gothic/post-punk towards hard rock across its career.
   - Source: https://www.allmusic.com/artist/mn0000139908
+
+## CO-0042 - strategy pass, 2026-11-03
+
+- The Cult recorded Love Removal Machine for the abandoned Peace sessions, then re-recorded it for Electric. The 1987 single comes from the latter album.
+  - Source: https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine
+- Artist or contributor tag: ian astbury - https://en.wikipedia.org/wiki/The_Cult
+- Artist or contributor tag: billy duffy - https://en.wikipedia.org/wiki/The_Cult
+- Artist or contributor tag: jamie stewart - https://www.allmusic.com/album/electric-mw0000189571
+- Artist or contributor tag: rick rubin - https://www.billyduffy.com/news/group/the-cult/page/4/
