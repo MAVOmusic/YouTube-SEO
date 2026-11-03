@@ -130,8 +130,9 @@ G3  THE NEWEST UPLOAD PROVES THE KEYWORD LOSS.
     "That dark, fuzz-drenched Do I Wanna Know? riff is peak 2010s indie!" contains the
     song but NOT the artist ("Arctic Monkeys"), and it carries no platform token.
     90 views in 16 h against a 790-1,100 typical band = ~90% under-performance, at
-    CTR 1.2%. A bespoke-only title cannot be matched to an "arctic monkeys bass" or
-    "rocksmith bass" query. This is the title contract fix in CONTEXT §32.
+    CTR 1.2%. The earlier assertion that a title omitting an artist or platform
+    cannot be matched to those queries is unsupported: YouTube can use other
+    signals. This snapshot does not establish why the upload performed as it did.
 
 G4  WE ARE OPTIMISING THE WRONG SONGS.
     8 of the top 10 traffic earners have NO package (009 Dreamscape, Chicago, 9mm
@@ -306,10 +307,12 @@ G-G  PROCESS NOTE - LOG EVERY TASK. MAVO (02-11-2026): "Make sure to always upda
 
 
 ################################################################################
-## CA-2026-11-03 | capture time unknown | REALTIME PERFORMANCE by filter
+## CA-2026-11-03 | initial partial screenshots, superseded by update below
 ################################################################################
-Source: _All Songs/0000 - Channel Analytics/Channel Analytics - 2026-11-03/
-IMPORTANT: filenames are reversed relative to the Studio filters on the images.
+Historical source: commit f28566a755881cb03d6a850e73f5d8e94de97fdb, folder
+_All Songs/0000 - Channel Analytics/Channel Analytics - 2026-11-03/; those two
+files were subsequently replaced. The new four screenshots are named correctly.
+IMPORTANT: the initial filenames were reversed relative to the Studio filters.
   Long Form.jpeg  -> Shorts filter (Shorts rows below)
   Short Form.jpeg -> Videos filter (Videos rows below)
 Images are historical live snapshots, possibly taken at different times. Both show
@@ -403,4 +406,62 @@ channel total or the capture time. All visible 60-minute column values are zero.
   claims of complete audit coverage were also unverified and are corrected.
   Comparison between visible sums on different
   dates is not a channel delta; coverage and snapshot times differ.
+################################################################################
+
+################################################################################
+## CA-2026-11-03 UPDATE | full format totals + expanded visible rows
+################################################################################
+Source: _All Songs/0000 - Channel Analytics/Channel Analytics - 2026-11-03/
+  Long Form 1.jpeg, Long Form 2.jpeg - Studio filter Videos
+  Short Form 1.jpeg, Short Form 2.jpeg - Studio filter Shorts
+The user replaced the two earlier screenshots; current filenames match filters.
+Exact capture time and whether the four images were simultaneous are unknown.
+Second images overlap the first; overlapping rows must not be counted twice.
+Totals are per-filter Studio charts, not an unfiltered all-content channel total.
+
+                                Last 48 hours       Last 60 minutes
+Shorts (chart total)                  707                   29
+Videos (chart total)                   39                    4
+Sum of those two filtered totals      746                   33
+
+Because the format snapshots may be asynchronous and other content types are not
+shown, 746 and 33 are an approximate sum of two snapshots, NOT a confirmed
+channel-wide total. Of the two-format 48h sum, Shorts account for 94.8% and
+Videos 5.2%; the ratio is 18.1:1. This is a momentary view count, not revenue,
+profitability, unique viewers, causal impact, or a durable trend. Analogously,
+33 against the 1,000 views/hour aspiration is 3.3% of the target for these two
+format snapshots, not a definitive channel-wide target result or forecast.
+
+Expanded visible rows - new entries not present in the initial partial view:
+  Filter   48h  60m  Published   Visible truncated title
+  Shorts   102    6  05-06-2024  009 Sound System - Dreamscape (Bass)
+  Shorts    14    0  16-06-2026  Restless Good Charlotte bass on 'A New Beginning'...
+  Shorts    13    0  31-05-2026  Rocksmith Bass - 26 Or 6 To 4 (Chicago) | Full Co...
+  Shorts     8    0  10-03-2024  Primus - South Park Theme
+  Shorts     6    0  11-04-2025  Carnivore - Race War
+  Videos     4    4  18-10-2025  Scars On Broadway - Exploding/Reloading
+All previously transcribed 25 rows in each format are also visible in the updated
+images, with the same values. Deduplicated total: 30 Shorts rows = 245 views in
+48h and 9 in 60m; 26 Videos rows = 39 in 48h and 4 in 60m. The Videos row sum
+matches that chart total; this is not independent proof of a complete list. The
+Shorts visible rows account for 245 of 707 48h views and 9 of 29 last-hour views;
+the other 462 and 20 respectively are not attributed in the visible rows. Neither
+image shows those remaining titles, and timestamps could differ slightly.
+
+Interpretation and action:
+- Dreamscape is the leading visible Short, at 102 of 707 Shorts views (14.4%)
+  over 48h and 6 of 29 (20.7%) in the last hour. Good Charlotte and Chicago
+  follow at 14 and 13. These are short rolling observations, not proof of why
+  a video performed or how it will perform next.
+- Scars On Broadway leads visible Videos at 4/39 over 48h; its four are the four
+  shown in that format's last-hour chart. One small burst is not a lasting trend.
+- Comparing the two-format 746 to the earlier 01-11 all-channel 869 would mix
+  unknown capture times and possibly different format coverage; it is not a
+  valid channel delta. Request contemporaneous unfiltered totals for comparison.
+- The earlier partial-only proportions and missing totals are superseded by this
+  block; the earlier visible-row transcription remains as a historical snapshot.
+- No CTR, impressions, traffic sources, retention, subscriber, revenue, rights or
+  28-day totals are supplied in this update. Keep the chronological five-song
+  review from 0071. Seek comparable full 28-day reports for strategy decisions;
+  no changes to publishing priority or claims of title causality from this alone.
 ################################################################################
