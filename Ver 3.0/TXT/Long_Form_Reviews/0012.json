@@ -25,13 +25,13 @@
     {
       "surface": "description",
       "claim": "Music video homage to Fight Club; source describes scene reenactments.",
-      "source": "https://www.hypedonmelancholy.com/david",
+      "source": "https://www.songfacts.com/facts/taking-back-sunday/cute-without-the-e-cut-from-the-team",
       "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
     },
     {
       "surface": "title",
       "claim": "Taking Back Sunday meet Fight Club in Cute Without The E",
-      "source": "https://www.hypedonmelancholy.com/david",
+      "source": "https://www.songfacts.com/facts/taking-back-sunday/cute-without-the-e-cut-from-the-team",
       "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
     },
     {
@@ -49,19 +49,19 @@
     {
       "surface": "tags",
       "claim": "taking back sunday, cute without the e, cute without the e bass, tell all your friends, emo, emo bass, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2000s emo, long island emo",
-      "source": "https://concord.com/concord-albums/tell-all-your-friends/; https://www.hypedonmelancholy.com/david; _All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0012 - Taking Back Sunday - Cute Without The 'E' (Long Form)/_01 - Main Info/0012 - Taking Back Sunday - Cute Without The 'E' (Long Form) - Details.jpeg",
+      "source": "https://concord.com/concord-albums/tell-all-your-friends/; https://www.songfacts.com/facts/taking-back-sunday/cute-without-the-e-cut-from-the-team; _All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0012 - Taking Back Sunday - Cute Without The 'E' (Long Form)/_01 - Main Info/0012 - Taking Back Sunday - Cute Without The 'E' (Long Form) - Details.jpeg",
       "assessment": "Search identity, song/artist/album terms, genre labels, years and bass/Rocksmith format checked; broad search intent is not a guarantee. Conventional tablature and uncertain tuning/equipment tags removed."
     },
     {
       "surface": "pinned comment",
       "claim": "Which song from Tell All Your Friends would you put beside this one?",
-      "source": "https://concord.com/concord-albums/tell-all-your-friends/; https://www.hypedonmelancholy.com/david",
+      "source": "https://concord.com/concord-albums/tell-all-your-friends/; https://www.songfacts.com/facts/taking-back-sunday/cute-without-the-e-cut-from-the-team",
       "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
     },
     {
       "surface": "genres",
       "claim": "- Emo\n- Post-hardcore\n- Pop punk",
-      "source": "https://concord.com/concord-albums/tell-all-your-friends/; https://www.hypedonmelancholy.com/david",
+      "source": "https://concord.com/concord-albums/tell-all-your-friends/; https://www.songfacts.com/facts/taking-back-sunday/cute-without-the-e-cut-from-the-team; https://www.albumoftheyear.org/album/862563-taking-back-sunday-cute-without-the-e.php",
       "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
     },
     {
@@ -77,9 +77,9 @@
       "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
     }
   ],
-  "distinct_fact_and_source": "Music video homage to Fight Club; source describes scene reenactments. https://www.hypedonmelancholy.com/david",
+  "distinct_fact_and_source": "Music video homage to Fight Club; source describes scene reenactments. https://www.songfacts.com/facts/taking-back-sunday/cute-without-the-e-cut-from-the-team",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Removed asserted authorial intention, unverified octave jump, equipment, and schedule. Historical Details and pin screenshots are not proof of current live metadata. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness.",
+  "uncertainties_and_removed_claims": "Removed asserted authorial intention, unverified octave jump, equipment, and schedule. Historical Details and pin screenshots are not proof of current live metadata. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. Recheck: original video-homage source returned 404; replaced with accessible Songfacts corroboration, plus band interview https://chorus.fm/features/interviews/taking-back-sunday-2/.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
