@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (48 characters)
+## TITLE (57 characters)
 
 ```text
-The bittersweet side of Green Day: X-Kid on bass
+A bittersweet Green Day track meets Rocksmith bass: X-Kid
 ```
 
 ## DESCRIPTION (523 characters)

@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (60 characters)
+## TITLE (65 characters)
 
 ```text
-A-M-E-R-I-C-A: Motionless In White's industrial side on bass
+A-M-E-R-I-C-A by Motionless In White: industrial metal bass cover
 ```
 
 ## DESCRIPTION (539 characters)

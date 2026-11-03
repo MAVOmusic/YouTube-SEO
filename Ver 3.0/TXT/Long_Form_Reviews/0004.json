@@ -180,9 +180,9 @@
     }
   ],
   "distinct_fact_and_source": "Director credit, different from fan-selection angle in 0002; 0033 remains subject to independent review. https://imvdb.com/video/motionless-in-white/another-life",
-  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 2 five-word matches. Both signals are required song and artist identity shared with the separate Another Life upload. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
+  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 2 five-word matches. Both signals are required song and artist identity shared with the separate Another Life upload. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality. 2026-11-03: collision signals refreshed after first-ten closer revisions; shared names and phrases require human interpretation.",
   "uncertainties_and_removed_claims": "Removed inaccurate absolute about the pause button and unverified tuning; overlap with 0002 is song/artist name. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03: genre list now refers to artist classifications, not a song-level guarantee. Typo examples are observed, not verified common search terms; title effectiveness untested.",
-  "collision_report_sha256": "c950a5e67c3cd19d3b5d694e4807b27c67443bc72f18c7fef40b7a975e0096ff",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
 }

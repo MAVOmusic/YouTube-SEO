@@ -2,7 +2,7 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "7c2811bb39ad6b8f649490880d31111b1c1f2c75839c796719d6de01117bd7c5",
+    "title": "779ebbc55b9d3b66e2ed0662e7c08e1a7527a3153b13dbb1b06bf99310b99a63",
     "description": "c82ee749d293f6ed088b12010a1958b10dee0bc17e3e613b73816d13c77d0029",
     "tags": "a50a4f70e87e115dba0f6ecc570feda1449d3412945300e5aa9874d9037ff6a1",
     "pinned comment": "feb1255bc1fbbc328e1a48c3b96006a5bb76e1a34c1607259054c94502690905",
@@ -138,9 +138,9 @@
     },
     {
       "surface": "title",
-      "claim": "Hear the quieter side of Motionless In White's Masterpiece on bass",
+      "claim": "Hear the quieter side of Masterpiece in this Motionless In White cover",
       "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; user-confirmed bass performance",
-      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload."
+      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload. Revised wording varies a repeated closer; no spam threshold or measured CTR claim."
     },
     {
       "surface": "genres",

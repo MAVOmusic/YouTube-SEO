@@ -20,6 +20,15 @@
 #   here that YouTube indexes syntactic title patterns as a ranking factor.
 #   The register enforces the requested ban on repeated structures.
 #
+# POLICY NOTE (2026-11-03): YouTube has not published a rule that a repeated
+#   accurate phrase such as "on bass" alone is spam, nor a safe/dangerous count.
+#   Do not claim its classifiers work that way or guarantee no false flags.
+#   Vary closers for MAVO's editorial uniqueness rule, not to evade detection;
+#   keep metadata truthful and representative. Policy: https://support.google.com/youtube/answer/2801973
+#   Review process: https://support.google.com/youtube/answer/13304829
+#   Monetisation is a separate channel-level review of content and metadata:
+#   https://support.google.com/youtube/answer/1311392
+#
 # THE RULE
 #   1. EVERY TITLE USES A DIFFERENT SYNTACTIC SKELETON. Not different words -
 #      a different skeleton. If the previous title was a question, the next one
@@ -45,25 +54,25 @@
 
   CO      SHAPE                                          CURRENT TITLE
   ----    ---------------------------------------------  ------------------------------------------------------------
-  0001    duration of song by artist, played on instrument | An hour of Autumn Leaves by Burzum, played on bass
+  0001    duration of artist song with instrument in mix | An hour of Burzum's Autumn Leaves with bass in the mix
           was: An hour of Burzum's Autumn Leaves with nothing added and nothing rushed
-  0002    song by artist hits differently on instrument | Another Life by Motionless In White hits differently on bass
+  0002    song hits differently with instrument - artist | Another Life hits differently with bass - Motionless In White
           was: Motionless In White made Another Life hurt on purpose, and the bass carries it
-  0003    hear quieter side of band song on instrument | Hear the quieter side of Motionless In White's Masterpiece on bass
+  0003    hear quieter side of song in artist cover | Hear the quieter side of Masterpiece in this Motionless In White cover
           was: Masterpiece is the Motionless In White song where the bass stops behaving
   0004    can you follow song? artist instrument format | Can you follow Another Life? Motionless In White bass play along
           was: Another Life on bass with the tuner in frame and no game in the way
-  0005    place shadow in song - artist on instrument | Salem's shadow in Abigail - Motionless In White on bass
+  0005    place shadow in song - artist instrument playthrough | Salem's shadow in Abigail - Motionless In White bass playthrough
           was: Abigail lets Motionless In White be a horror band, and the bass leads it
-  0006    song: artist industrial side on instrument | A-M-E-R-I-C-A: Motionless In White's industrial side on bass
+  0006    song by artist: genre instrument cover | A-M-E-R-I-C-A by Motionless In White: industrial metal bass cover
           was: America keeps one string busy for four minutes and never apologises
   0007    song kicks off album - acronym instrument | Immaculate Misconception kicks off Creatures - MIW bass
           was: Immaculate Misconception is four minutes of Motionless In White at full sprint
-  0008    bittersweet side of band: song on instrument | The bittersweet side of Green Day: X-Kid on bass
+  0008    bittersweet artist track meets platform instrument: song | A bittersweet Green Day track meets Rocksmith bass: X-Kid
           was: X-Kid is Mike Dirnt playing a farewell song like it is a party
   0009    song builds on instrument - artist | Welcome To The Black Parade builds on bass - My Chemical Romance
           was: Welcome To The Black Parade is five minutes of Mikey Way never standing still
-  0010    that genre groove: artist song on instrument | That Southern rock groove: .38 Special's If I'd Been The One on bass
+  0010    genre instrument meets artist song | Southern rock bass meets .38 Special's If I'd Been The One
           was: If I'd Been The One is Southern rock where the low end does the arguing
   0011    revised song-specific angle                    Chopin on bass for four hours, Nocturne Op. 9 No. 2 on repeat
           was: Four hours of Chopin's Nocturne Op. 9 No. 2, on bass, for working through

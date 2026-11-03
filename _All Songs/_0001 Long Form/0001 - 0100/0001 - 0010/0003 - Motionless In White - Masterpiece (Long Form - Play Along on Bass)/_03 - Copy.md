@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (66 characters)
+## TITLE (70 characters)
 
 ```text
-Hear the quieter side of Motionless In White's Masterpiece on bass
+Hear the quieter side of Masterpiece in this Motionless In White cover
 ```
 
 ## DESCRIPTION (534 characters)

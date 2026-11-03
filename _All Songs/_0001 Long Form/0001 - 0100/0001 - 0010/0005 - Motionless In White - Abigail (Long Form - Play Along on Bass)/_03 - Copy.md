@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (55 characters)
+## TITLE (64 characters)
 
 ```text
-Salem's shadow in Abigail - Motionless In White on bass
+Salem's shadow in Abigail - Motionless In White bass playthrough
 ```
 
 ## DESCRIPTION (606 characters)
