@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (65 characters)
+## TITLE (64 characters)
 
 ```text
-Following My Chemical Romance through Welcome To The Black Parade
+Welcome To The Black Parade builds on bass - My Chemical Romance
 ```
 
 ## DESCRIPTION (545 characters)
@@ -20,10 +20,10 @@ The song moves through several sections over its five-minute album recording. Us
 💬 Compare Black Parade tracks with the Discord community; every server boost is appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 225/500 characters)
+## TAGS (17 tags, 254/500 characters)
 
 ```text
-my chemical romance, welcome to the black parade, black parade, mcr, mikey way, emo, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2006, bass guitar, the black parade, welcome to the black parade bass
+my chemical romance, welcome to the black parade, black parade, mcr, mikey way, emo, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2006, bass guitar, the black parade, welcome to the black parade bass, my chem, my chemical romace
 ```
 
 ## PINNED COMMENT (53 characters)
@@ -34,9 +34,11 @@ Where did you first hear Welcome To The Black Parade?
 
 ## GENRE FINDINGS (internal)
 
-Song-level source identifies emo and pop punk. Rock opera refers to the parent album concept, while glam and arena rock are influences or contextual descriptions rather than established necessary genres for this track.
+Artist-level genres from https://en.wikipedia.org/wiki/My_Chemical_Romance. The same artist list is used for all this artist's uploads as requested; it is not a claim that this specific recording sounds like every listed genre. See Band Info/My Chemical Romance/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
+- Alternative rock
 - Emo
 - Pop punk
+- Post-hardcore

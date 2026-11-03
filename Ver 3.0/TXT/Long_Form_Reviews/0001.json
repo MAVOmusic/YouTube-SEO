@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "22eb50acb610ea8163b66c878947364ef71a857ba6d4ca75eab710cc1bcefa00",
+    "title": "2cb7352b2cc54c6e050d320f14d6beefc6672f3547bf1a7f2bec4e82d869db93",
     "description": "849a4ac2ec7da7530d56987a2d20802bfcabb0d2b330ebae53684e9dfd39d070",
-    "tags": "55ef83fde866031abfa70ee418b313bb49f00a0e2e370f2ec098994ec92e738a",
+    "tags": "0ed5f9dff317a742fe6820284d2e2a3cc71f1628191f7f31061b848f56a68f6d",
     "pinned comment": "ca9a5ea82bdacc28285ae4de12d42b10fdcf850a810e53702ff7e6d2ec5b826d",
-    "genres": "9dbd2ef687234e72bfc96d0e92f5e016157367f0534a7835328a4602ab6371a7"
+    "genres": "9a9f3faf7ac89f75f77220c9203dfcc4d1cdf98b31edd8903eea6c096c58651e"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -27,12 +27,6 @@
       "claim": "A historical upload is a just-over-an-hour loop, 1:02:24.",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
       "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
-    },
-    {
-      "surface": "title",
-      "claim": "Autumn Leaves for an hour and Burzum in no hurry",
-      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
-      "assessment": "Title identity and sourced musical angle checked; figurative language is opinion, not a literal assertion about artist appearing in the upload."
     },
     {
       "surface": "description",
@@ -131,21 +125,51 @@
       "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
     },
     {
+      "surface": "title",
+      "claim": "An hour of Autumn Leaves by Burzum, played on bass",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; user-confirmed bass performance",
+      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload."
+    },
+    {
       "surface": "genres",
       "claim": "Ambient",
-      "source": "https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/",
-      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
+      "source": "https://rateyourmusic.com/artist/burzum",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
     },
     {
       "surface": "genres",
       "claim": "Dungeon synth",
-      "source": "https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/",
-      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
+      "source": "https://rateyourmusic.com/artist/burzum",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Black metal",
+      "source": "https://rateyourmusic.com/artist/burzum",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Atmospheric black metal",
+      "source": "https://rateyourmusic.com/artist/burzum",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Dark ambient",
+      "source": "https://rateyourmusic.com/artist/burzum",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "tags",
+      "claim": "burzam",
+      "source": "https://www.last.fm/music/burzam",
+      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
     }
   ],
   "distinct_fact_and_source": "Album-level ambient/dungeon synth classification; 2014 album placement and a long loop. https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb",
   "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
-  "uncertainties_and_removed_claims": "Removed atmospheric black metal and unverified tuning/instrument assertions in earlier passes; exact edits and live settings remain unavailable. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown.",
+  "uncertainties_and_removed_claims": "Removed atmospheric black metal and unverified tuning/instrument assertions in earlier passes; exact edits and live settings remain unavailable. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. 2026-11-03: genre list now refers to artist classifications, not a song-level guarantee. Typo examples are observed, not verified common search terms; title effectiveness untested.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (74 characters)
+## TITLE (60 characters)
 
 ```text
-Fan feedback helped choose Another Life by Motionless In White as a single
+Another Life by Motionless In White hits differently on bass
 ```
 
 ## DESCRIPTION (533 characters)
@@ -20,10 +20,10 @@ Follow along with the on-screen chart and listen to the way the vocal and instru
 💬 Bring a track suggestion to Discord; thanks to everyone who boosts the server: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 221/500 characters)
+## TAGS (16 tags, 246/500 characters)
 
 ```text
-motionless in white, another life, motionless in white another life, disguise, post grunge, alternative metal, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2019, bass guitar, rocksmith 2014 bass
+motionless in white, another life, motionless in white another life, disguise, post grunge, alternative metal, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2019, bass guitar, rocksmith 2014 bass, miw, motionles in white
 ```
 
 ## PINNED COMMENT (67 characters)
@@ -34,9 +34,12 @@ Which Motionless In White song would you like to hear on bass next?
 
 ## GENRE FINDINGS (internal)
 
-Track-level sources classify this song as post-grunge and alternative metal. Album and artist metalcore identity does not establish melodic or gothic metalcore as the main genre of this specific track. Drop C and instrument model not independently confirmed.
+Artist-level genres from https://en.wikipedia.org/wiki/Motionless_in_White. The same artist list is used for all this artist's uploads as requested; it is not a claim that this specific recording sounds like every listed genre. See Band Info/Motionless In White/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
-- Post-grunge
-- Alternative metal
+- Metalcore
+- Gothic metal
+- Industrial metal
+- Nu metal
+- Hard rock

@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (59 characters)
+## TITLE (68 characters)
 
 ```text
-If I'd Been The One, but .38 Special lets the low end argue
+That Southern rock groove: .38 Special's If I'd Been The One on bass
 ```
 
 ## DESCRIPTION (481 characters)
@@ -20,10 +20,10 @@ Listen to how the low end sits alongside the guitars and vocal, then follow the 
 💬 Talk classic rock with us in Discord; thanks to our server boosters: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (13 tags, 181/500 characters)
+## TAGS (15 tags, 215/500 characters)
 
 ```text
-38 special, if id been the one, southern rock, classic rock, tour de force, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass guitar, 80s rock, rock bass, play along
+38 special, if id been the one, southern rock, classic rock, tour de force, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass guitar, 80s rock, rock bass, play along, thirty eight special, 38 speical
 ```
 
 ## PINNED COMMENT (57 characters)
@@ -34,9 +34,12 @@ What makes a bass part stand out to you in Southern rock?
 
 ## GENRE FINDINGS (internal)
 
-1983 single sources classify it as Southern rock and AOR. Classic rock is a programming umbrella; hard rock and pop rock were not confirmed sufficiently as song-level categories.
+Artist-level genres from https://en.wikipedia.org/wiki/38_Special_(band). The same artist list is used for all this artist's uploads as requested; it is not a claim that this specific recording sounds like every listed genre. See Band Info/38 Special/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
 - Southern rock
 - AOR
+- Hard rock
+- Power pop
+- Boogie rock

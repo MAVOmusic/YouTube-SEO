@@ -18,7 +18,7 @@
 #   He reads the block as a shopping list, so anything printed in it gets added -
 #   including the rows that said DO NOT ADD. The block was self-defeating.
 #
-# THE NEW RULE (applies from CO-0039 onward, and to every block already written)
+# HISTORICAL RULE (superseded for 0001-0010 on 2026-11-03; see note below)
 #   GENRE FINDINGS   - internal only. Lives in the audit log and the copy file.
 #                      Holds the research, the grey areas and the exclusions.
 #   CORRECT GENRES   - the only thing MAVO sees. Genres that genuinely apply to
@@ -33,18 +33,21 @@
 # best two-word answer.
 # ============================================================================
 
+  NOTE: 0001-0010 now use consistent artist-level lists; they are not song-level classifications.
+  Rows 0011-0040 retain the earlier song-level approach until individually revised.
+
   CO    SONG                                   CORRECT GENRES (best fit first)
   ----  -------------------------------------  ----------------------------------------------
-  0001  Burzum - Autumn Leaves                 Ambient / Dungeon synth
-  0002  Motionless In White - Another Life     Post-grunge / Alternative metal
-  0003  Motionless In White - Masterpiece      Alternative metal
-  0004  Motionless In White - Another Life PA  Post-grunge / Alternative metal
-  0005  Motionless In White - Abigail          Metalcore / Melodic metalcore
-  0006  Motionless In White - America          Industrial metal / Alternative metal
-  0007  Motionless In White - Immaculate Mis.  Metalcore / Melodic metalcore
-  0008  Green Day - X-Kid                      Pop punk / Power pop / Punk rock
-  0009  My Chemical Romance - Black Parade     Emo / Pop punk
-  0010  .38 Special - If I'd Been The One      Southern rock / AOR
+  0001  Burzum - Autumn Leaves                 Ambient / Dungeon synth / Black metal / Atmospheric black metal / Dark ambient
+  0002  Motionless In White - Another Life     Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
+  0003  Motionless In White - Masterpiece      Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
+  0004  Motionless In White - Another Life PA  Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
+  0005  Motionless In White - Abigail          Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
+  0006  Motionless In White - America          Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
+  0007  Motionless In White - Immaculate Mis.  Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
+  0008  Green Day - X-Kid                      Punk rock / Pop punk / Alternative rock / Skate punk / Power pop
+  0009  My Chemical Romance - Black Parade     Alternative rock / Emo / Pop punk / Post-hardcore
+  0010  .38 Special - If I'd Been The One      Southern rock / AOR / Hard rock / Power pop / Boogie rock
   0011  Chopin - Nocturne Op. 9 No. 2          Classical / Romantic classical
   0012  Taking Back Sunday - Cute Without E    Emo / Post-hardcore / Pop punk
   0013  Slayer - War Ensemble                  Thrash metal

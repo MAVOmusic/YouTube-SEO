@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "dfcd03ce24127eb82577846c14e6561448ab5a0854c291eff3dfb197d6a13c13",
+    "title": "f107aef44ea0ad42dbd3fb6485c500f3f59b4170ae5fb47226c81d4d45a68524",
     "description": "efc70405d3d142f6a733f17123c02b9af2718727886aaf3bdb0a65b3134a32e0",
-    "tags": "2ed88ab59c6c5f0584ff1d8f8a8bcd64d22755112df21f1c6e12946fd99d0313",
+    "tags": "c4c385e4602c6f5c89e48e9572427f8dddca0a9fc9c60d81a43500d16791a596",
     "pinned comment": "a289d71404476d658620dd97821f63cc66669433d9ca4568b07f1b0dca934ca0",
-    "genres": "889152df24b10cdb203979ea899eae69f2ece15e484051423847949cb06c3c05"
+    "genres": "83bc46a716bf9760d0654bdd4332cdd6282cbe5fc5d814b52e2df41927600480"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -33,12 +33,6 @@
       "claim": "The song relates to the loss of a friend.",
       "source": "https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre ; https://www.rollingstone.com/music/music-features/billie-joe-armstrong-the-rolling-stone-interview-94267/5/",
       "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
-    },
-    {
-      "surface": "title",
-      "claim": "X-Kid by Green Day, played on bass with Rocksmith",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identifies the cover and Rocksmith format, supported by the user instruction and historical screenshot; does not imply that the cassette video appears in this upload."
     },
     {
       "surface": "description",
@@ -143,33 +137,57 @@
       "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
     },
     {
-      "surface": "genres",
-      "claim": "Pop punk",
-      "source": "https://en.wikipedia.org/wiki/X-Kid ; https://musictrajectory.com/green-day-x-kid-the-song-of-the-week-for-1212013/",
-      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
-    },
-    {
-      "surface": "genres",
-      "claim": "Power pop",
-      "source": "https://en.wikipedia.org/wiki/X-Kid ; https://musictrajectory.com/green-day-x-kid-the-song-of-the-week-for-1212013/",
-      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
-    },
-    {
-      "surface": "genres",
-      "claim": "Punk rock",
-      "source": "https://en.wikipedia.org/wiki/X-Kid ; https://musictrajectory.com/green-day-x-kid-the-song-of-the-week-for-1212013/",
-      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
-    },
-    {
       "surface": "tags",
       "claim": "green day rocksmith",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
       "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
+    },
+    {
+      "surface": "title",
+      "claim": "The bittersweet side of Green Day: X-Kid on bass",
+      "source": "https://en.wikipedia.org/wiki/X-Kid; user-confirmed bass performance",
+      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload."
+    },
+    {
+      "surface": "genres",
+      "claim": "Punk rock",
+      "source": "https://en.wikipedia.org/wiki/Green_Day",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://en.wikipedia.org/wiki/Green_Day",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://en.wikipedia.org/wiki/Green_Day",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Skate punk",
+      "source": "https://en.wikipedia.org/wiki/Green_Day",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power pop",
+      "source": "https://en.wikipedia.org/wiki/Green_Day",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "tags",
+      "claim": "greenday",
+      "source": "http://technologytrins.weebly.com/greenday.html",
+      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
     }
   ],
   "distinct_fact_and_source": "The cassette video and the song inspiration, rather than the trilogy facts used in 0027. https://en.wikipedia.org/wiki/X-Kid",
   "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
-  "uncertainties_and_removed_claims": "Replaced title that could imply the original bassist appeared in this upload. Details images were cross-filed; see matched screenshot. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Independent final check replaced the title that could imply the separate cassette video appears in this upload. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness.",
+  "uncertainties_and_removed_claims": "Replaced title that could imply the original bassist appeared in this upload. Details images were cross-filed; see matched screenshot. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Independent final check replaced the title that could imply the separate cassette video appears in this upload. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03: genre list now refers to artist classifications, not a song-level guarantee. Typo examples are observed, not verified common search terms; title effectiveness untested.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

@@ -45,25 +45,25 @@
 
   CO      SHAPE                                          CURRENT TITLE
   ----    ---------------------------------------------  ------------------------------------------------------------
-  0001    duration opener + refusal                      Autumn Leaves for an hour and Burzum in no hurry
+  0001    duration of song by artist, played on instrument | An hour of Autumn Leaves by Burzum, played on bass
           was: An hour of Burzum's Autumn Leaves with nothing added and nothing rushed
-  0002    fan feedback helped choose song by band as a single | Fan feedback helped choose Another Life by Motionless In White as a single
+  0002    song by artist hits differently on instrument | Another Life by Motionless In White hits differently on bass
           was: Motionless In White made Another Life hurt on purpose, and the bass carries it
-  0003    song finds band in a register                  Masterpiece finds Motionless In White in a quieter register
+  0003    hear quieter side of band song on instrument | Hear the quieter side of Motionless In White's Masterpiece on bass
           was: Masterpiece is the Motionless In White song where the bass stops behaving
-  0004    song returns as artist meets chart             Another Life returns as Motionless In White meets the bass chart
+  0004    can you follow song? artist instrument format | Can you follow Another Life? Motionless In White bass play along
           was: Another Life on bass with the tuner in frame and no game in the way
-  0005    song takes band to place on bass                Abigail takes Motionless In White to Salem on bass
+  0005    place shadow in song - artist on instrument | Salem's shadow in Abigail - Motionless In White on bass
           was: Abigail lets Motionless In White be a horror band, and the bass leads it
-  0006    band bring song to note highway                Motionless In White bring America to the bass note highway
+  0006    song: artist industrial side on instrument | A-M-E-R-I-C-A: Motionless In White's industrial side on bass
           was: America keeps one string busy for four minutes and never apologises
-  0007    imperative keep up                             Keep up with Motionless In White on Immaculate Misconception
+  0007    song kicks off album - acronym instrument | Immaculate Misconception kicks off Creatures - MIW bass
           was: Immaculate Misconception is four minutes of Motionless In White at full sprint
-  0008    song by band played on bass with format              X-Kid by Green Day, played on bass with Rocksmith
+  0008    bittersweet side of band: song on instrument | The bittersweet side of Green Day: X-Kid on bass
           was: X-Kid is Mike Dirnt playing a farewell song like it is a party
-  0009    following band through song                     Following My Chemical Romance through Welcome To The Black Parade
+  0009    song builds on instrument - artist | Welcome To The Black Parade builds on bass - My Chemical Romance
           was: Welcome To The Black Parade is five minutes of Mikey Way never standing still
-  0010    if-clause + but                                If I'd Been The One, but .38 Special lets the low end argue
+  0010    that genre groove: artist song on instrument | That Southern rock groove: .38 Special's If I'd Been The One on bass
           was: If I'd Been The One is Southern rock where the low end does the arguing
   0011    revised song-specific angle                    Chopin on bass for four hours, Nocturne Op. 9 No. 2 on repeat
           was: Four hours of Chopin's Nocturne Op. 9 No. 2, on bass, for working through

@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "6bb7ccbc83846652552cb008b45729016106eef9e31c920f8e90b6395e455faa",
+    "title": "7c2811bb39ad6b8f649490880d31111b1c1f2c75839c796719d6de01117bd7c5",
     "description": "c82ee749d293f6ed088b12010a1958b10dee0bc17e3e613b73816d13c77d0029",
-    "tags": "4eb812cc2ac16950eb673a0e96e166a9a6293cfb2525255c4c840f528eb702f1",
+    "tags": "a50a4f70e87e115dba0f6ecc570feda1449d3412945300e5aa9874d9037ff6a1",
     "pinned comment": "feb1255bc1fbbc328e1a48c3b96006a5bb76e1a34c1607259054c94502690905",
-    "genres": "13020ac924410280561287bad8fa1e2db2c7511b8022e728d53c345cc4832a6b"
+    "genres": "95ac3ff9537bfdc77b6c20d19ab840c5aeeaae280caf43f6b64a3206bd91be82"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -27,12 +27,6 @@
       "claim": "Quieter passages and larger chorus are listening judgments, not exact measurements.",
       "source": "https://en.wikipedia.org/wiki/Masterpiece_(Motionless_in_White_song) ; https://wallofsoundau.com/2022/06/05/motionless-in-white-scoring-the-end-of-the-world-album-review/",
       "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
-    },
-    {
-      "surface": "title",
-      "claim": "Masterpiece finds Motionless In White in a quieter register",
-      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
-      "assessment": "Title identity and sourced musical angle checked; figurative language is opinion, not a literal assertion about artist appearing in the upload."
     },
     {
       "surface": "description",
@@ -131,12 +125,6 @@
       "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
     },
     {
-      "surface": "genres",
-      "claim": "Alternative metal",
-      "source": "https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/",
-      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
-    },
-    {
       "surface": "tags",
       "claim": "motionless in white masterpiece cover",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
@@ -147,11 +135,59 @@
       "claim": "rocksmith bass metal",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
       "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
+    },
+    {
+      "surface": "title",
+      "claim": "Hear the quieter side of Motionless In White's Masterpiece on bass",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; user-confirmed bass performance",
+      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload."
+    },
+    {
+      "surface": "genres",
+      "claim": "Metalcore",
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Gothic metal",
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Industrial metal",
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Nu metal",
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Hard rock",
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "tags",
+      "claim": "miw",
+      "source": "https://www.metalkingdom.net/band/motionless-in-white-13548 ; https://www.teepublic.com/long-sleeve-t-shirt/68020707-motionlesss-in-white-band",
+      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "motionles in white",
+      "source": "https://www.metalkingdom.net/band/motionless-in-white-13548 ; https://www.teepublic.com/long-sleeve-t-shirt/68020707-motionlesss-in-white-band",
+      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
     }
   ],
   "distinct_fact_and_source": "2022 Masterpiece album identification and contrast between song sections. https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/",
   "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
-  "uncertainties_and_removed_claims": "Removed unverified tuning and gear claims previously; quiet/larger are subjective descriptions. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness.",
+  "uncertainties_and_removed_claims": "Removed unverified tuning and gear claims previously; quiet/larger are subjective descriptions. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03: genre list now refers to artist classifications, not a song-level guarantee. Typo examples are observed, not verified common search terms; title effectiveness untested.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
