@@ -100,3 +100,5 @@ independent 70-video fact certification.
 2026-11-03 - Independent source recheck 0021-0030: corrected 0022 description wording, replaced dead 0025 source, strengthened citations and recorded limits in Ver 3.0/TXT/First_70_Fact_Check_2026-11-03.txt. Historical 0024 search screenshot supports sabton; 0025 artist comment must be preserved, current pin unknown. Independent recheck 0031-0070 remains. Genre and footage limitations apply.
 
 2026-11-03 - Independent recheck 0031-0040: corrected 0037 title chronology and 0040 single-edition description, updated genre findings, sources, registers and fact-check ledger. User confirms 0040 audio is Amerika despite historical filename. 0041-0070 remain for independent recheck; historical images and genre sources have documented limits.
+
+2026-11-03 - Independent recheck 0041-0050: rewrote 0041 title to distinguish creator bass from artist credits and 0046 description to remove unsupported continuous visibility; strengthened citations and logged genre, audio-edition and screenshot limits in the first-70 fact-check ledger. Independent recheck 0051-0070 remains.

@@ -8,12 +8,12 @@
 Bullet For My Valentine pair Scream Aim Fire with a cover on vinyl
 ```
 
-## DESCRIPTION (468 characters)
+## DESCRIPTION (457 characters)
 
 ```text
 One 2008 vinyl edition pairs Bullet For My Valentine's Scream Aim Fire with a cover of Ozzy Osbourne's Crazy Train. The title track also opens their 2008 album.
 
-The chart stays visible as I play this track on bass.
+Here I play bass with a Rocksmith overlay.
 
 🟢 Bring a B-side cover suggestion into Kick chat: https://kick.com/mavomusic
 🟣 You can find the simultaneous mirror on Twitch: https://www.twitch.tv/mavomusic

@@ -19,13 +19,13 @@
     {
       "surface": "title",
       "claim": "Hypnotize on bass, with artwork connections across System Of A Down albums",
-      "source": "https://www.nme.com/news/music/system-of-a-down-26-1303978 ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0048 - System Of A Down - Hypnotize (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "source": "https://www.nme.com/news/music/system-of-a-down-26-1303978 ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0048 - System Of A Down - Hypnotize (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.allmusic.com/artist/vartan-malakian-mn0002031736",
       "assessment": "Identity and factual framing checked; performance and Rocksmith format based on historical image and user confirmation."
     },
     {
       "surface": "description",
       "claim": "Hypnotize is the title track of the band's 2005 album. Artist Vartan Malakian created the artwork for the connected Hypnotize and Mezmerize releases.",
-      "source": "https://www.nme.com/news/music/system-of-a-down-26-1303978",
+      "source": "https://www.nme.com/news/music/system-of-a-down-26-1303978 ; https://www.allmusic.com/artist/vartan-malakian-mn0002031736",
       "assessment": "Specific song, release, credits or video facts checked against source; no implication that a separately mentioned music video or game appears in this performance."
     },
     {

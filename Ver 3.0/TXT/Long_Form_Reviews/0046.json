@@ -3,7 +3,7 @@
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
     "title": "c8f56f9239068b07b969fb18f5f074fe5ee666b6754aeff78cc2585d2b6e3838",
-    "description": "2e4cb7f28751f7e2ac4a9ca6dbaefebc7082cbe304c66f591621d75b30c0f9b2",
+    "description": "4a2bca64f0c8a4fc5669639a54d6082f82a1e89ad8e82e40923b3cb2ff96b8f0",
     "tags": "83067e98559d0d7e78a10a72cbfce942326ebbb7e8325f0c79d029995b660a9f",
     "pinned comment": "b5794ed9428a52898e542664b578b8681e7105b2877729f975b1414faa967406",
     "genres": "f364015d511ba9c33ccbfd13c1255f9305a15525145011ef9d875c0f59e349f5"
@@ -19,18 +19,18 @@
     {
       "surface": "title",
       "claim": "Bullet For My Valentine pair Scream Aim Fire with a cover on vinyl",
-      "source": "https://rateyourmusic.com/release/single/bullet_for_my_valentine/scream_aim_fire___crazy_train/ ; https://rateyourmusic.com/release/album/bullet-for-my-valentine/scream-aim-fire-1/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0046 - Bullet For My Valentine - Scream Aim Fire (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "source": "https://rateyourmusic.com/release/single/bullet_for_my_valentine/scream_aim_fire___crazy_train/ ; https://rateyourmusic.com/release/album/bullet-for-my-valentine/scream-aim-fire-1/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0046 - Bullet For My Valentine - Scream Aim Fire (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://waxvinylrecords.co.uk/shop/7-vinyl-record/rock-pop-7-vinyl-record/bullet-for-my-valentine-scream-aim-fire-7-inch-white-vinyl-record/",
       "assessment": "Identity and factual framing checked; performance and Rocksmith format based on historical image and user confirmation."
     },
     {
       "surface": "description",
       "claim": "One 2008 vinyl edition pairs Bullet For My Valentine's Scream Aim Fire with a cover of Ozzy Osbourne's Crazy Train. The title track also opens their 2008 album.",
-      "source": "https://rateyourmusic.com/release/single/bullet_for_my_valentine/scream_aim_fire___crazy_train/ ; https://rateyourmusic.com/release/album/bullet-for-my-valentine/scream-aim-fire-1/",
+      "source": "https://rateyourmusic.com/release/single/bullet_for_my_valentine/scream_aim_fire___crazy_train/ ; https://rateyourmusic.com/release/album/bullet-for-my-valentine/scream-aim-fire-1/ ; https://waxvinylrecords.co.uk/shop/7-vinyl-record/rock-pop-7-vinyl-record/bullet-for-my-valentine-scream-aim-fire-7-inch-white-vinyl-record/",
       "assessment": "Specific song, release, credits or video facts checked against source; no implication that a separately mentioned music video or game appears in this performance."
     },
     {
       "surface": "description",
-      "claim": "The chart stays visible as I play this track on bass.",
+      "claim": "Here I play bass with a Rocksmith overlay.",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0046 - Bullet For My Valentine - Scream Aim Fire (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing alongside on-screen overlay",
       "assessment": "Historical identity and user-confirmed performance format; no note-by-note or one-take claim."
     },
@@ -121,7 +121,7 @@
   ],
   "distinct_fact_and_source": "vinyl B-side cover ; https://rateyourmusic.com/release/single/bullet_for_my_valentine/scream_aim_fire___crazy_train/ ; https://rateyourmusic.com/release/album/bullet-for-my-valentine/scream-aim-fire-1/",
   "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 0046 historical viewer asks about joining a band; retain existing conversation.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 0046 historical viewer asks about joining a band; retain existing conversation. Removed continuous chart visibility wording: historic still and MAVO confirmation do not independently establish uninterrupted visibility.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

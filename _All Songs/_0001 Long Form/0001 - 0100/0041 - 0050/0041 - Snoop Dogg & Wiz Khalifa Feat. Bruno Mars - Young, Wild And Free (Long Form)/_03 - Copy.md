@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (66 characters)
+## TITLE (67 characters)
 
 ```text
-Young, Wild & Free: Snoop Dogg, Wiz Khalifa and Bruno Mars on bass
+Soundtrack lead single Young, Wild & Free - Snoop Dogg and Wiz bass
 ```
 
 ## DESCRIPTION (465 characters)

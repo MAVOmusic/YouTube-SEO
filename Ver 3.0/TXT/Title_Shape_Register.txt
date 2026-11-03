@@ -105,7 +105,7 @@
   0038    producer produced song - band on instrument            Steve Brown produced She Sells Sanctuary - The Cult on bass
   0039    hear band in language: song on instrument              Hear Sabaton in Swedish: En Livstid I Krig on bass
   0040    band put language count on song release - format       Rammstein put two languages on the Amerika single - bass cover
-  0041    soundtrack roots of song - artists on format               Young, Wild & Free: Snoop Dogg, Wiz Khalifa and Bruno Mars on bass
+  0041    soundtrack lead single song - artists format             Soundtrack lead single Young, Wild & Free - Snoop Dogg and Wiz bass
   0042    from session to album: band revisit song on instrument     From Peace to Electric: The Cult revisit Love Removal Machine on bass
   0043    band bring place influence to song format                   Muse bring New York club influence to Supermassive Black Hole bass
   0044    band song: two venues in the official video | Billy Talent Viking Death March: two venues in the official video
