@@ -605,3 +605,8 @@ paths, restored relevant visible historical search terms in 0001-0030, completed
 0031-0040 copy, genre and source records after MAVO confirmed 0040 audio. Gate
 and metadata checks cover the first forty, subject to historical-image and
 human-judgment limits; do not treat observed searches as proof of tag impact.
+
+2026-11-03 - Reviewed 0041-0050 historical images, search cards and all copy
+surfaces, documented evidence, corrected factual overclaims, refreshed shape and
+genre registers. Retained 0043's historical revenue evidence and documented
+0046/0049 real viewer conversations. Historical analytics are not live status.

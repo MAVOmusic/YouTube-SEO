@@ -2319,3 +2319,12 @@ registers completed; 0001-0030 relevant visible historical search phrases
 restored where previously omitted. Search cards are partial historical evidence,
 not a current YouTube state or a guarantee of search ranking. Next 0041-0050.
 Do not paste handoffs through 0070; gate cannot prove factual or semantic truth.
+
+2026-11-03 - Reviewed 0041-0050 in sequence: own-folder Details, comments and
+Reach screenshots, five replacement surfaces and sourced evidence records.
+Retained relevant visible historical search phrases and genuine viewer
+conversations; 0043's historical £0.05 and ad-sharing notice remain documented,
+not asserted as live status. Korean names in original script and Latin where
+relevant. First-50 gate and metadata verification performed; program cannot
+prove facts or semantic originality. Next first-70 batch 0051-0060; no paste
+handoff through 0070. See first-70 fact-check ledger for limitations.

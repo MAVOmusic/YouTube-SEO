@@ -1,0 +1,122 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "e5d6c4063023ecc3f44b8959c6dd237ad0ef057b58a0f7b5607dffcd2434736f",
+    "description": "fa891e2729fb1dc1cf98638e0b82bed52da9cfbf681e2ecc9a56222a1aa39a61",
+    "tags": "e15208b62daaf2b2ecfdeaadb3dcd5664c0fe83a889e5e2cd5a7d96766da2ede",
+    "pinned comment": "736b12e1ef78b180e8b531aaa6c2455b9f368e81ea58bff6404dc67d459d3ea6",
+    "genres": "76c000a70fba7d5c37016509a059363bc12617931d42c6413147e2e7123e7940"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Rock am Ring footage accompanies Billy Talent - Viking Death March on bass",
+      "source": "https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0044 - Billy Talent - Viking Death March (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Identity and factual framing checked; performance and Rocksmith format based on historical image and user confirmation."
+    },
+    {
+      "surface": "description",
+      "claim": "Billy Talent's official Viking Death March video uses performance footage from Rock am Ring and Amsterdam's Melkweg. The song was the first single from Dead Silence.",
+      "source": "https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/",
+      "assessment": "Specific song, release, credits or video facts checked against source; no implication that a separately mentioned music video or game appears in this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Watch my bass performance alongside the Rocksmith display.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0044 - Billy Talent - Viking Death March (Long Form)/_01 - Main Info/Details.jpeg ; MAVO confirms bass playing alongside on-screen overlay",
+      "assessment": "Historical identity and user-confirmed performance format; no note-by-note or one-take claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Distinct Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations are in required order and make no schedule or reward guarantees."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy talent",
+      "source": "https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/ ; https://en.wikipedia.org/wiki/Viking_Death_March ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0044 - Billy Talent - Viking Death March (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "viking death march",
+      "source": "https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/ ; https://en.wikipedia.org/wiki/Viking_Death_March ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0044 - Billy Talent - Viking Death March (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy talent viking death march",
+      "source": "https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/ ; https://en.wikipedia.org/wiki/Viking_Death_March ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0044 - Billy Talent - Viking Death March (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "dead silence",
+      "source": "https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/ ; https://en.wikipedia.org/wiki/Viking_Death_March ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0044 - Billy Talent - Viking Death March (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "punk rock",
+      "source": "https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/ ; https://en.wikipedia.org/wiki/Viking_Death_March ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0044 - Billy Talent - Viking Death March (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "post hardcore",
+      "source": "https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/ ; https://en.wikipedia.org/wiki/Viking_Death_March ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0044 - Billy Talent - Viking Death March (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "2012",
+      "source": "https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/ ; https://en.wikipedia.org/wiki/Viking_Death_March ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0044 - Billy Talent - Viking Death March (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/ ; https://en.wikipedia.org/wiki/Viking_Death_March ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0044 - Billy Talent - Viking Death March (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/ ; https://en.wikipedia.org/wiki/Viking_Death_March ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0044 - Billy Talent - Viking Death March (Long Form)/_01 - Main Info/Details.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which festival performance belongs in a music video?",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0044 - Billy Talent - Viking Death March (Long Form)/_01 - Main Info/Pinned.jpeg",
+      "assessment": "Historical comments image inspected; no visible artist comment. This question is proposed copy, not proof of the live pin. Existing real viewer comments should be retained."
+    },
+    {
+      "surface": "genres",
+      "claim": "Punk rock",
+      "source": "https://en.wikipedia.org/wiki/Viking_Death_March",
+      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+    },
+    {
+      "surface": "genres",
+      "claim": "Post-hardcore",
+      "source": "https://en.wikipedia.org/wiki/Viking_Death_March",
+      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+    }
+  ],
+  "distinct_fact_and_source": "official video performance footage ; https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/",
+  "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

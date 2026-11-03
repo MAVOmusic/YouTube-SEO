@@ -140,16 +140,16 @@
   0038    The Cult released She Sells Sanctuary as a single in  Which 1980s single made you curious enough to explore the full album?
   0039    En Livstid I Krig appears on the Swedish edition of S Do you prefer the Swedish or English version, and what makes it stand out to you?
   0040    Rammstein's 2004 Amerika single includes the song and What other song would you enjoy hearing in a different language?
-  0041    the origin story, third person                  P-absurd-contrast
-  0042    the same song in three versions                 P-craft-fork
-  0043    instrument-first, what nobody else does         P-binary-verdict
-  0044    the producer was a band member                  P-philosophical-fork
-  0045    the songwriter as a stylist                     P-binary-verdict
-  0046    the recording circumstances, then the song      P-inference-question
-  0047    the one line the arrangement saves for the end   P-two-way-disagreement
-  0048    one-word verdict, then the reason                P-correction-invite
-  0049    catalogue position, third single, no title status  P-anecdote-prompt
-  0050    band history, the year the member left            P-fact-quiz
+  0041    soundtrack lead single                                What soundtrack introduced you to a collaboration you still enjoy?
+  0042    Peace sessions and re-recording                       Which version of Love Removal Machine do you return to: Peace or Electric?
+  0043    New York club influence                               What song changed how you thought a rock band could sound?
+  0044    official video performance footage                    Which festival performance belongs in a music video?
+  0045    songwriting credits                                   Which Manowar album would you recommend to a new listener?
+  0046    vinyl B-side cover                                    What B-side cover made you look up the original recording?
+  0047    Xbox 360 Guitar Hero II master recording              Which rhythm-game track did you discover before hearing its album?
+  0048    connected album artwork by Vartan Malakian            Which pair of album covers do you think works best together?
+  0049    lyrics reference earlier songs                        Which earlier (G)I-DLE song reference did you spot first?
+  0050    songwriting and composition credits                   Which production detail stands out to you in Tomboy?
   0051    track position inside a self-released record       P-count-request
   0052    track position, then the label that signed them    P-rating-scale
   0053    the title explained, then the album around it      P-identification-test

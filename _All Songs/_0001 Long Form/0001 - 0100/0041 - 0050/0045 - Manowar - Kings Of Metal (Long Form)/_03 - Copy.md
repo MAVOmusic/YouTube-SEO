@@ -1,61 +1,42 @@
-# CO-0045 | Rewritten copy (Ver 4.44)
+# CO-0045 | Reviewed copy (2026-11-03)
 
-> Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
-> **E4 INELIGIBLE + PARTIALLY BLOCKED. GBP 0.00.** First Manowar upload on the
-> channel, and the first song here that is a reply to another band - CO-0036 was
-> Sabaton's tribute to Manowar, so the pair now runs in both directions.
-> GENRE FINDINGS is mine and internal. CORRECT GENRES is the playlist list.
+> Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (54 characters)
+## TITLE (69 characters)
 
 ```text
-Manowar wrote a two word rulebook and meant every word
+Manowar: Kings Of Metal credits DeMaio and Ross the Boss - bass cover
 ```
 
-## DESCRIPTION (1401 characters)
+## DESCRIPTION (461 characters)
 
 ```text
-Joey DeMaio does not write lyrics so much as declarations, and this one is the clearest he ever put down: other bands play, Manowar kill. That is not a metaphor and it is not ironic. It is a marketing strategy built out of conviction, and it worked, because thirty eight years later people still argue about whether it is ridiculous or the truest thing heavy metal ever said.
+Joey DeMaio and Ross the Boss are credited as writers of Kings Of Metal. The Manowar song appears on the 1988 album of the same name.
 
-Ross the Boss plays the riff like a hammer and Eric Adams sings it like a sermon, over a march beat that never hurries. On bass there is almost nothing decorative happening - DeMaio locks to the kick and stays there, and the entire weight of the song comes from that refusal to move. It is the opposite of a busy part. It is a foundation.
+I play the song on bass alongside the on-screen chart.
 
-Worth knowing before you press play: this is the song Sabaton turned into Man of War in 2014, in the other direction - that one is made entirely of Manowar titles. Filing them apart is wrong. They are a conversation, twenty six years apart.
-
-🟢 Epic heavy metal and the loudest records ever made, every Tuesday: https://kick.com/mavomusic
-🟣 A parallel feed sits on Twitch, second chat, no delay: https://www.twitch.tv/mavomusic
-💬 Manowar or Sabaton - who actually earns the crown? Bring your verdict to Discord, and a boost for the server is always welcome: https://discord.gg/ESGsGkN4j2
-
-Kings of Metal, 18 November 1988, Atlantic, recorded in Chicago. Three minutes twenty four here.
+🟢 Put a classic metal album on the Kick conversation list: https://kick.com/mavomusic
+🟣 The stream is also mirrored over to Twitch: https://www.twitch.tv/mavomusic
+💬 Tell Discord about your Manowar starting point; cheers to those who boost: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (16 tags, 206/500 characters)
+## TAGS (11 tags, 146/500 characters)
 
 ```text
-manowar, kings of metal, joey demaio, eric adams, ross the boss, scott columbus, heavy metal, power metal, true metal, epic metal, atlantic, 1988, 80s heavy metal, bass cover, rocksmith bass, rocksmith 2014
+manowar, man o war, kings of metal, manowar kings of metal, joey demaio, ross the boss, heavy metal, power metal, 1988, bass cover, rocksmith bass
 ```
 
-## PINNED COMMENT (113 characters)
+## PINNED COMMENT (58 characters)
 
 ```text
-Other bands play, Manowar kill. Forty years on, is that the most confident thing in metal or the most ridiculous?
+Which Manowar album would you recommend to a new listener?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-  Verified: title track of Kings of Metal, 18 November 1988, Atlantic, recorded at
-  Universal Recording in Chicago, produced by Manowar with Jason Flom, 3:43,
-  written by Ross Friedman and Joey DeMaio. The documented genres are heavy metal
-  and power metal. "True metal" is Manowar's own coinage for what they do and it has
-  stuck as a real scene label - keep it. "Epic metal" describes the register rather
-  than a scene and is thin, so it stays in the tags only. Dropped: "speed metal"
-  (wrong for this tempo) and "symphonic" (there is no orchestra).
+Source-based suggestions; genre is subjective. Evidence is album-level, not necessarily a track-specific classification. See the review record for sources.
 
 ## CORRECT GENRES
 
-Heavy metal · Power metal · True metal
-
-## CROSS-REFERENCE - THE PAIR WITH CO-0036
-
-  CO-0036 Sabaton - Man of War (2014) is built entirely from Manowar song and album
-  titles. This is the band it is about. File them as a two-way pair, never apart -
-  it is the only reciprocal reference in the catalogue.
+- Heavy metal
+- Power metal

@@ -1,0 +1,12 @@
+2026-11-03 - Source-based genre suggestions; see each individual review record.
+
+0041  Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free  Pop rap
+0042  The Cult - Love Removal Machine  Hard rock / Heavy metal
+0043  Muse - Supermassive Black Hole  Alternative rock / Dance-punk
+0044  Billy Talent - Viking Death March  Punk rock / Post-hardcore
+0045  Manowar - Kings Of Metal  Heavy metal / Power metal
+0046  Bullet For My Valentine - Scream Aim Fire  Melodic metalcore / Thrash metal
+0047  My Chemical Romance - Dead!  Pop punk
+0048  System Of A Down - Hypnotize  Alternative metal
+0049  (G)I-DLE - I'm The Trend  K-pop / Dance-pop
+0050  (G)I-DLE - Tomboy  Alternative rock / Pop punk

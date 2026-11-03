@@ -1,0 +1,134 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "da4081ec2aa1fd36f8c1c8ab5979421d41eca4ff0ef20dae8dff8e97170fc4bb",
+    "description": "f2211e1c4d5d35a2bfe229e076138342379351e3845259909696dd2814d1b02b",
+    "tags": "854c8a64e5873cbe7bd1fb10d72e0844877cceaa5165359d8590cf32df3921fb",
+    "pinned comment": "e1c1287b91d04df46c2af43fee0fad61156c3830be84e8f141ef573c8aac7e31",
+    "genres": "4af9a0826ebc8c527f1e8af29e9684c1089d7b6664ed1766296f81705e1f0cad"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Guitar Hero II added My Chemical Romance - Dead! on Xbox 360",
+      "source": "https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Identity and factual framing checked; performance and Rocksmith format based on historical image and user confirmation."
+    },
+    {
+      "surface": "description",
+      "claim": "The Xbox 360 version of Guitar Hero II added My Chemical Romance's own recording of Dead! The track is on their album The Black Parade, released in 2006.",
+      "source": "https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/",
+      "assessment": "Specific song, release, credits or video facts checked against source; no implication that a separately mentioned music video or game appears in this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Watch me play bass alongside the Rocksmith display.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing alongside on-screen overlay",
+      "assessment": "Historical identity and user-confirmed performance format; no note-by-note or one-take claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Distinct Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations are in required order and make no schedule or reward guarantees."
+    },
+    {
+      "surface": "tags",
+      "claim": "my chemical romance",
+      "source": "https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "dead",
+      "source": "https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "my chemical romance dead",
+      "source": "https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "the black parade",
+      "source": "https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "guitar hero ii",
+      "source": "https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "guitar hero 2",
+      "source": "https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "xbox 360",
+      "source": "https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop punk",
+      "source": "https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "2006",
+      "source": "https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith",
+      "source": "https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_01 Description.jpeg ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 2.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/ ; _All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, format, member, release or genre; observed query identified only where the Reach image is cited. No assumption that tags caused traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which rhythm-game track did you discover before hearing its album?",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0041 - 0050/0047 - My Chemical Romance - Dead! (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Historical comments image inspected; no visible artist comment. This question is proposed copy, not proof of the live pin. Existing real viewer comments should be retained."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://rateyourmusic.com/song/my-chemical-romance/dead/",
+      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+    }
+  ],
+  "distinct_fact_and_source": "Xbox 360 Guitar Hero II master recording ; https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/",
+  "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

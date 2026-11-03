@@ -105,35 +105,16 @@
   0038    producer produced song - band on instrument            Steve Brown produced She Sells Sanctuary - The Cult on bass
   0039    hear band in language: song on instrument              Hear Sabaton in Swedish: En Livstid I Krig on bass
   0040    band put language count on song release - format       Rammstein put two languages on the Amerika single - bass cover
-  0041    two artists + built X out of Y                       Snoop and Wiz built a hit out of a demo nobody wanted
-          new skeleton - two-name subject, transitive build-verb, negation at the tail
-  0042    producer + heard X and made Y                        Rick Rubin heard a goth song and made it a rock single
-          new skeleton - a person who is not in the band carries the front of the
-          title, two-clause contrast, no band name until the description
-  0043    nobody in band + does normal thing                   Nobody in Muse plays a normal bassline on Supermassive Black Hole
-          new skeleton - universal negative subject, band mid-sentence, song at
-          the tail. Second title on the channel with a negation as its engine
-          (0027 was the first, and that one was withdrawn for being false)
-  0044    the band single that was written by the guy on X   The Billy Talent single that was written by the guy on guitar
-          new skeleton - "the [band] single" noun-phrase subject with a
-          by-clause that inverts who normally writes a punk record
-  0045    band + wrote a N rulebook + meant it               Manowar wrote a two word rulebook and meant every word
-          new skeleton - number-as-adjective, double affirmation at the tail
-  0046    song sends band into setting                    Scream Aim Fire sends Bullet For My Valentine into battle
-  0047    the [timed fact] hidden in a [band] [section]    The two week death sentence hidden in a My Chemical Romance chorus
-          new skeleton - band mid-sentence, fact named from the lyric rather than
-          the release, no verb in the subject slot. Deliberately breaks the two
-          previous band-writes openers.
-  0048    [song] + spent [duration] + refusing to X           Hypnotize spent three minutes refusing to explode
-          new skeleton - song title alone as the subject, money-shot verb "spent",
-          negated infinitive at the tail. First title in the register where the
-          subject is the song doing something with time.
-  0049    a [thing] became the [ordinal] [band] [format]      A thank you note to the fandom became the third (G)I-DLE single
-          new skeleton - indefinite article subject, band at the tail, the ordinal
-          does the search work instead of the band name
-  0050    band + returned [state] + refused to [verb]          (G)I-DLE returned a member short and refused to lower the volume
-          new skeleton - band-first again, but the verb frame is a return plus a
-          refusal, not a writing frame. No "wrote" anywhere in the title.
+  0041    soundtrack roots of song - artists on format               Young, Wild & Free: Snoop Dogg, Wiz Khalifa and Bruno Mars on bass
+  0042    from session to album: band revisit song on instrument     From Peace to Electric: The Cult revisit Love Removal Machine on bass
+  0043    band bring place influence to song format                   Muse bring New York club influence to Supermassive Black Hole bass
+  0044    festival footage accompanies band - song on instrument     Rock am Ring footage accompanies Billy Talent - Viking Death March on bass
+  0045    band: song credits two writers - format                            Manowar: Kings Of Metal credits DeMaio and Ross the Boss - bass cover
+  0046    band pair song with cover on medium                        Bullet For My Valentine pair Scream Aim Fire with a cover on vinyl
+  0047    game added band song on platform                           Guitar Hero II added My Chemical Romance - Dead! on Xbox 360
+  0048    song on instrument with artwork connections across band albums Hypnotize on bass, with artwork connections across System Of A Down albums
+  0049    band weave earlier titles into song - format               (G)I-DLE weave earlier titles into I'm The Trend - bass playthrough
+  0050    writer and collaborators shaped band song - performance    Soyeon and collaborators shaped (G)I-DLE Tomboy - bass performance
   0051    time preface + band + made [song] a [thing]            Two decades in, (Hed) P.E. made Watch It Burn a warning
           new skeleton - a time phrase opens, band mid-sentence, the song arrives
           third and the noun at the tail reclassifies it
