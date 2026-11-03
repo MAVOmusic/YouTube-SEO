@@ -63,3 +63,18 @@ Previously researched description claims; verify against sources and current cop
 - Artist or contributor tag: ian dsa - https://en.wikipedia.org/wiki/Billy_Talent
 - Artist or contributor tag: jon gallant - https://kids.kiddle.co/Billy_Talent
 - Artist or contributor tag: jonathan gallant - https://en.wikipedia.org/wiki/Billy_Talent
+
+## 2026-11-03 strategy pass
+
+- CO-0066 title: Try Honesty brings early Billy Talent to Rocksmith bass
+  - Sean Michael Turrell directed Billy Talent's Try Honesty music video in 2003. Try Honesty features on the self-titled album; the band video is separate from this upload.
+    - Source: https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/
+  - Name/variant: ben kowalewicz - https://en.wikipedia.org/wiki/Billy_Talent
+  - Name/variant: jonathan gallant - https://en.wikipedia.org/wiki/Billy_Talent
+  - Name/variant: ian dsa - https://en.wikipedia.org/wiki/Billy_Talent
+- CO-0070 title: Standing In The Rain | early Billy Talent on bass
+  - Standing in the Rain sits between River Below and Cut the Curtains on the 2003 self-titled Billy Talent album.
+    - Source: https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/
+  - Name/variant: ben kowalewicz - https://en.wikipedia.org/wiki/Billy_Talent
+  - Name/variant: jonathan gallant - https://en.wikipedia.org/wiki/Billy_Talent
+  - Name/variant: ian dsa - https://en.wikipedia.org/wiki/Billy_Talent

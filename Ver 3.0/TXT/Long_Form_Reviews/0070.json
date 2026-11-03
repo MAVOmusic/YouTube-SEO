@@ -2,9 +2,9 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "7d076a029d3bcc4ac199c8f2fb9b7c51ae9d974712b0bfdcb92a759b9d8bf049",
+    "title": "89dc7039790729c1a9152b84dff261e2193e9284cf79499723c567f061c2a1d9",
     "description": "146403aaffbeb9e3f88ca588d9e6195e10a9fa5718ac0ae2ffbda07d151b60df",
-    "tags": "476ec863a3e54c2b40c584c758cd35d419c0bdfb29d2ee079406cfbca0cc99a0",
+    "tags": "d83feaf14ed88e2112f361e0f74349aa895ec6fa24584396c257f664c9df1287",
     "pinned comment": "022e84323271bb0cca77937c6307f1129aefb9ef5a62825193ac91397399473b",
     "genres": "7248d64a601360c3a7254b87447806181634cb0489c7e57ae8745c6dc67ba9cf"
   },
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Billy Talent Standing in the Rain between two album tracks",
-      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Fact and upload identity checked against historical details and cited source."
+      "claim": "Standing In The Rain | early Billy Talent on bass",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0070 - Billy Talent - Standing In The Rain (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Billy_Talent ; user confirms bass performance with overlay",
+      "assessment": "Song, artist, historical context and creator performance checked; editorial language is not a claim of artist appearance in MAVO video or measured CTR."
     },
     {
       "surface": "description",
@@ -113,39 +113,57 @@
       "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
     },
     {
+      "surface": "tags",
+      "claim": "ben kowalewicz",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "jonathan gallant",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "ian dsa",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
       "surface": "genres",
       "claim": "Alternative rock",
       "source": "https://en.wikipedia.org/wiki/Billy_Talent",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     },
     {
       "surface": "genres",
       "claim": "Punk rock",
       "source": "https://en.wikipedia.org/wiki/Billy_Talent",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     },
     {
       "surface": "genres",
       "claim": "Post-hardcore",
       "source": "https://en.wikipedia.org/wiki/Billy_Talent",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     },
     {
       "surface": "genres",
       "claim": "Pop punk",
       "source": "https://en.wikipedia.org/wiki/Billy_Talent",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     },
     {
       "surface": "genres",
       "claim": "Emo",
       "source": "https://en.wikipedia.org/wiki/Billy_Talent",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     }
   ],
   "distinct_fact_and_source": "Album sequence River Below / Standing in the Rain / Cut the Curtains ; https://wmc.shop/products/billy-talent-cd ; https://en.wikipedia.org/wiki/Billy_Talent_(album)",
   "uniqueness_assessment": "Independent recheck of title, description, tags, proposed pin and CTA against available first-70 copy. No five-word collision remains for this song. Semantic uniqueness beyond the available corpus and future uploads cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Track sequence from a specific standard album listing; no invented narrator details or musical technique. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass.",
+  "uncertainties_and_removed_claims": "Track sequence from a specific standard album listing; no invented narrator details or musical technique. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass. 2026-11-03: Artist-level classifications are subjective; name tags are associations, not proof of performance credits or an appearance in MAVO video. Search demand and CTR are unmeasured.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

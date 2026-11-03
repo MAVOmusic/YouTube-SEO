@@ -1,12 +1,27 @@
-2026-11-03 - Subjective recommendations; see individual source records.
+# 2026-11-03 - Artist-level genre canon, CO-0061-0070
+# Catalogue-level labels are subjective and do not establish every genre applies to each track.
 
-0061  Power metal
-0062  Post-grunge / Alternative rock
-0063  Neue Deutsche Härte / Industrial metal
-0064  Power metal
-0065  Grunge / Alternative rock
-0066  Alternative rock / Pop punk
-0067  Nu metal
-0068  Pop rock
-0069  Alternative rock / Folk rock
-0070  Alternative rock / Pop punk
+0061  0061 - Sabaton - Ghost Division (Long Form)  Power metal / Heavy metal
+0062  0062 - Three Days Grace - Pain (Long Form)  Post-grunge / Hard rock / Alternative rock / Alternative metal
+0063  0063 - Rammstein - Hilf Mir (Long Form)  Neue Deutsche Haerte / Industrial metal
+0064  0064 - Sabaton - Primo Victoria (Long Form)  Power metal / Heavy metal
+0065  0065 - Nirvana - Come As You Are (Long Form)  Grunge / Alternative rock / Punk rock
+0066  0066 - Billy Talent - Try Honesty (Long Form)  Alternative rock / Punk rock / Post-hardcore / Pop punk / Emo
+0067  0067 - Linkin Park - One Step Closer (Long Form)  Alternative rock / Nu metal / Rap rock / Alternative metal / Electronic rock / Pop rock
+0068  0068 - Fleetwood Mac - Go Your Own Way (Long Form)  Pop rock / Soft rock / Folk rock / Blues rock
+0069  0069 - R.E.M. - Losing My Religion (Long Form)  College rock / Folk rock / Alternative rock / Jangle pop / Post-punk / New wave
+0070  0070 - Billy Talent - Standing In The Rain (Long Form)  Alternative rock / Punk rock / Post-hardcore / Pop punk / Emo
+
+# Earlier song-level recommendations, superseded:
+# 2026-11-03 - Subjective recommendations; see individual source records.
+#
+# 0061  Power metal
+# 0062  Post-grunge / Alternative rock
+# 0063  Neue Deutsche Härte / Industrial metal
+# 0064  Power metal
+# 0065  Grunge / Alternative rock
+# 0066  Alternative rock / Pop punk
+# 0067  Nu metal
+# 0068  Pop rock
+# 0069  Alternative rock / Folk rock
+# 0070  Alternative rock / Pop punk

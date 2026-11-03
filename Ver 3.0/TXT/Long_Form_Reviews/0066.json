@@ -2,9 +2,9 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "a45e222538e04383c53f0c65e5026fa460c868a2c6c0e95a81752f148449d995",
+    "title": "2394c98f13fa74393885943047ba34d80a596abc64decb6c07c463e4c6f8231d",
     "description": "33aab001c288aa77cdd9f3230960b349e57ce5dc4495e3b0470a1ee97d64ab9d",
-    "tags": "34071cd7726e0754fa411d48b33ee549c31d46bf73f614d9b5942a0bf0d038a1",
+    "tags": "f82d861631ee38a2d7fc4d8b32885bc5fdab463b1dd05e13b580b3bffbaf5327",
     "pinned comment": "d3ecf48d895dabc50c5d92eb54a374e67ec0b0aba9d6a062f43df742a592a44c",
     "genres": "7248d64a601360c3a7254b87447806181634cb0489c7e57ae8745c6dc67ba9cf"
   },
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Try Honesty: Sean Michael Turrell directs Billy Talent",
-      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Fact and upload identity checked against historical details and cited source."
+      "claim": "Try Honesty brings early Billy Talent to Rocksmith bass",
+      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Billy_Talent ; user confirms bass performance with overlay",
+      "assessment": "Song, artist, historical context and creator performance checked; editorial language is not a claim of artist appearance in MAVO video or measured CTR."
     },
     {
       "surface": "description",
@@ -113,39 +113,57 @@
       "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. Retain visible real viewer conversation."
     },
     {
+      "surface": "tags",
+      "claim": "ben kowalewicz",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "jonathan gallant",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "ian dsa",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
       "surface": "genres",
       "claim": "Alternative rock",
       "source": "https://en.wikipedia.org/wiki/Billy_Talent",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     },
     {
       "surface": "genres",
       "claim": "Punk rock",
       "source": "https://en.wikipedia.org/wiki/Billy_Talent",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     },
     {
       "surface": "genres",
       "claim": "Post-hardcore",
       "source": "https://en.wikipedia.org/wiki/Billy_Talent",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     },
     {
       "surface": "genres",
       "claim": "Pop punk",
       "source": "https://en.wikipedia.org/wiki/Billy_Talent",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     },
     {
       "surface": "genres",
       "claim": "Emo",
       "source": "https://en.wikipedia.org/wiki/Billy_Talent",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     }
   ],
   "distinct_fact_and_source": "Try Honesty video director ; https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/",
   "uniqueness_assessment": "Independent recheck of title, description, tags, proposed pin and CTA against available first-70 copy. No five-word collision remains for this song. Semantic uniqueness beyond the available corpus and future uploads cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Artist music video is a separate production. Retain the viewer conversation shown in the historical image. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass.",
+  "uncertainties_and_removed_claims": "Artist music video is a separate production. Retain the viewer conversation shown in the historical image. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass. 2026-11-03: Artist-level classifications are subjective; name tags are associations, not proof of performance credits or an appearance in MAVO video. Search demand and CTR are unmeasured.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

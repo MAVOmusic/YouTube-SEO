@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "b02172f431be79f8fda3130fa345d6863f38491221601c1f61ff7259d839b8ef",
+    "title": "28bbe1588727bae6cea81028400045ed44d79b87b157209324b8baf38797c379",
     "description": "ca20c1d9310ffd8e950a5d068b1ecffc2d173b596308277a360994921540484a",
-    "tags": "008ac3e3595a2a0c3d8880f0a35a9731301abd716efa07b688ba33bf7bb8a849",
+    "tags": "5a407f61909e461ea0d189b3da09862a330a13327601a309a08b15e51b6c701f",
     "pinned comment": "eafc2db0d459bcd8eee7873615f674085e6bde4721933670a25881f58d3d7ff2",
-    "genres": "350430e5240bc86f576cbca70affb7d0640482560336579e1ef0b3bda7a92044"
+    "genres": "ac86bba2910ef4324a292d7ec9378e5bd965b6d2b97d274eeb72ff7bc1e4d866"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "R.E.M. Losing My Religion won a 1992 performance Grammy",
-      "source": "https://www.grammy.com/artists/rem/16369/",
-      "assessment": "Recording Academy winner listing concerns the original R.E.M. performance, not this bass cover."
+      "claim": "Losing My Religion on bass: R.E.M. and a 1992 Grammy",
+      "source": "https://www.grammy.com/artists/rem/16369/ ; https://en.wikipedia.org/wiki/R.E.M. ; user confirms bass performance with overlay",
+      "assessment": "Song, artist, historical context and creator performance checked; editorial language is not a claim of artist appearance in MAVO video or measured CTR."
     },
     {
       "surface": "description",
@@ -131,21 +131,63 @@
       "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
     },
     {
+      "surface": "tags",
+      "claim": "michael",
+      "source": "https://en.wikipedia.org/wiki/R.E.M.",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "mike",
+      "source": "https://en.wikipedia.org/wiki/R.E.M.",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "bill berry",
+      "source": "https://en.wikipedia.org/wiki/R.E.M.",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
       "surface": "genres",
-      "claim": "Alternative rock",
-      "source": "https://en.wikipedia.org/wiki/Losing_My_Religion",
-      "assessment": "The Losing My Religion song page classifies it as alternative rock and folk rock; these are subjective song-level recommendations."
+      "claim": "College rock",
+      "source": "https://en.wikipedia.org/wiki/R.E.M.",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     },
     {
       "surface": "genres",
       "claim": "Folk rock",
-      "source": "https://en.wikipedia.org/wiki/Losing_My_Religion",
-      "assessment": "The Losing My Religion song page classifies it as alternative rock and folk rock; these are subjective song-level recommendations."
+      "source": "https://en.wikipedia.org/wiki/R.E.M.",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://en.wikipedia.org/wiki/R.E.M.",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Jangle pop",
+      "source": "https://en.wikipedia.org/wiki/R.E.M.",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Post-punk",
+      "source": "https://en.wikipedia.org/wiki/R.E.M.",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
+      "surface": "genres",
+      "claim": "New wave",
+      "source": "https://en.wikipedia.org/wiki/R.E.M.",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     }
   ],
   "distinct_fact_and_source": "Recording Academy 1992 performance award ; https://www.grammy.com/artists/rem/16369/",
   "uniqueness_assessment": "Reviewed against available first-70 corpus. No five-word collision signals. No guarantee can be made for unseen or future uploads.",
-  "uncertainties_and_removed_claims": "Replaced the prior account relying on an inaccessible original interview or blog. Recording Academy winner listing concerns the original R.E.M. performance, not this bass cover. Genre labels are subjective. Historical screenshots do not verify current pins, restrictions, earnings or continuous video visibility.",
+  "uncertainties_and_removed_claims": "Replaced the prior account relying on an inaccessible original interview or blog. Recording Academy winner listing concerns the original R.E.M. performance, not this bass cover. Genre labels are subjective. Historical screenshots do not verify current pins, restrictions, earnings or continuous video visibility. 2026-11-03: Artist-level classifications are subjective; name tags are associations, not proof of performance credits or an appearance in MAVO video. Search demand and CTR are unmeasured.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

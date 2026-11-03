@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "9d257536c0c65e62ca272555a3f0cdc6845e697ea27c915a80e5ae65dda20dee",
+    "title": "aae2333ec45ac8f239d871bcb2a7f123c2a41c72ef59f5e68e2da486efd2892b",
     "description": "3ac6e7f1b0c1013347875261e44d41c822f53a9248a1e967efd6e5515f6db66b",
-    "tags": "3dee964e06a6a53829dd8b97b87852dd4139c65bf364b3f98c89fcce4ebb601f",
+    "tags": "29a50684b142281bb5a49675972eba8aa978f8101aa045c5214238f1148518c6",
     "pinned comment": "b349101f765e0183b41f7065ddd789d7913d9b532fe917060574209774625f36",
-    "genres": "fad5b4028167cd6c184cebeb86fa8ebde18a0cdd00b3769ada75e9cacbf76d0c"
+    "genres": "b14ae96118d225eaff16d1148ad51b49e3c0f1a910e7ec7257bafd21e32e3373"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Jonathan Davis guests on a Linkin Park One Step Closer remix",
-      "source": "https://www.discogs.com/release/5196875-Linkin-Park-Reanimation ; https://www.whosampled.com/remix/46815/Linkin-Park-Jonathan-Davis-1stp-Klosr-Linkin-Park-One-Step-Closer/",
-      "assessment": "Jonathan Davis features on a separate remix of the song, not on this bass cover."
+      "claim": "One Step Closer: hear Linkin Park's debut era on bass",
+      "source": "https://www.discogs.com/release/5196875-Linkin-Park-Reanimation ; https://www.whosampled.com/remix/46815/Linkin-Park-Jonathan-Davis-1stp-Klosr-Linkin-Park-One-Step-Closer/ ; https://en.wikipedia.org/wiki/Linkin_Park ; user confirms bass performance with overlay",
+      "assessment": "Song, artist, historical context and creator performance checked; editorial language is not a claim of artist appearance in MAVO video or measured CTR."
     },
     {
       "surface": "description",
@@ -113,15 +113,69 @@
       "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
     },
     {
+      "surface": "tags",
+      "claim": "chester",
+      "source": "https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "mike",
+      "source": "https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "brad delson",
+      "source": "https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "rob bourdon",
+      "source": "https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
       "surface": "genres",
       "claim": "Nu metal",
-      "source": "https://en.wikipedia.org/wiki/One_Step_Closer_(Linkin_Park_song)",
-      "assessment": "The One Step Closer song page classifies the track as nu metal; this is a subjective song-level recommendation."
+      "source": "https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Rap rock",
+      "source": "https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative metal",
+      "source": "https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Electronic rock",
+      "source": "https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop rock",
+      "source": "https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     }
   ],
   "distinct_fact_and_source": "Jonathan Davis guest appearance on One Step Closer remix ; https://www.discogs.com/release/5196875-Linkin-Park-Reanimation ; https://www.whosampled.com/remix/46815/Linkin-Park-Jonathan-Davis-1stp-Klosr-Linkin-Park-One-Step-Closer/",
   "uniqueness_assessment": "Reviewed against available first-70 corpus. No five-word collision signals. Unlike 0018, which identifies a remix used as the performance, this focuses on a guest vocalist on a separate remix; this cover is not represented as that recording.",
-  "uncertainties_and_removed_claims": "The Reanimation credit is from a community-maintained release listing; the relationship to One Step Closer is confirmed by WhoSampled. The cover is not asserted to be the remix. Genre labels are subjective; current pins, restrictions, earnings and uninterrupted overlay visibility cannot be established from historical screenshots.",
+  "uncertainties_and_removed_claims": "The Reanimation credit is from a community-maintained release listing; the relationship to One Step Closer is confirmed by WhoSampled. The cover is not asserted to be the remix. Genre labels are subjective; current pins, restrictions, earnings and uninterrupted overlay visibility cannot be established from historical screenshots. 2026-11-03: Artist-level classifications are subjective; name tags are associations, not proof of performance credits or an appearance in MAVO video. Search demand and CTR are unmeasured.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

@@ -2,9 +2,9 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "e83563f0f8a378bffe271388bc86a68e664ca36c3c1bba0863ade5401955bf02",
+    "title": "8b7c28e187516503e68f7a52aefd282a36ad861ac18ebc35161e95dd3c0e1e41",
     "description": "7ff6e5c9fd52c22c132055552f562c836f9bdb960ac03e2e9e75d44f7016c911",
-    "tags": "e0ea7db833921df4be2a450c6eb8e4cfb1f6bffe8a2af3eb549167083325485c",
+    "tags": "9df2d02f12c82c1e36d1def812e7645bdd4692bf9279e0ee58f4a6044a3f8bf0",
     "pinned comment": "df26397e2f7ff59acc693d993856a11b68a8b28ebdda569e70cb8ff1bfca2654",
     "genres": "b979af642a00669e99e3cd6b8809b44ad7f28634c201f8a3778fa5d58002227e"
   },
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Rammstein Hilf Mir and the story of Pauline",
-      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Fact and upload identity checked against historical details and cited source."
+      "claim": "Hilf Mir: Rammstein's Rosenrot story on Rocksmith bass",
+      "source": "https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0063 - Rammstein - Hilf Mir (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.wikiwand.com/en/Rammstein ; user confirms bass performance with overlay",
+      "assessment": "Song, artist, historical context and creator performance checked; editorial language is not a claim of artist appearance in MAVO video or measured CTR."
     },
     {
       "surface": "description",
@@ -131,21 +131,45 @@
       "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
     },
     {
+      "surface": "tags",
+      "claim": "till lindemann",
+      "source": "https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "till",
+      "source": "https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "oliver riedel",
+      "source": "https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "richard kruspe",
+      "source": "https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
       "surface": "genres",
       "claim": "Neue Deutsche Haerte",
       "source": "https://www.wikiwand.com/en/Rammstein",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     },
     {
       "surface": "genres",
       "claim": "Industrial metal",
       "source": "https://www.wikiwand.com/en/Rammstein",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     }
   ],
   "distinct_fact_and_source": "reviewer links song to Pauline story ; https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics",
   "uniqueness_assessment": "Independent recheck of title, description, tags, proposed pin and CTA against available first-70 copy. No five-word collision remains for this song. Semantic uniqueness beyond the available corpus and future uploads cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Link to Pauline is attributed to a contemporary review; do not assert a direct interview with the band. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass.",
+  "uncertainties_and_removed_claims": "Link to Pauline is attributed to a contemporary review; do not assert a direct interview with the band. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass. 2026-11-03: Artist-level classifications are subjective; name tags are associations, not proof of performance credits or an appearance in MAVO video. Search demand and CTR are unmeasured.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

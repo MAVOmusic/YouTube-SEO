@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and proposed pin. Genre findings are internal.
 
-## TITLE (67 characters)
+## TITLE (56 characters)
 
 ```text
-Come As You Are bass cover: Nirvana and Butch Vig production credit
+Come As You Are: find the low end of Nirvana's Nevermind
 ```
 
 ## DESCRIPTION (461 characters)
@@ -20,10 +20,10 @@ The Rocksmith display is visible beside my bass playing.
 💬 Talk Nirvana records via Discord; thanks for any server boosts: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (12 tags, 161/500 characters)
+## TAGS (16 tags, 197/500 characters)
 
 ```text
-nirvana, come as you are, nirvana come as you are, nevermind, kurt cobain, krist novoselic, grunge, alternative rock, 1991, bass cover, rocksmith, rocksmith bass
+nirvana, come as you are, nirvana come as you are, nevermind, kurt cobain, krist novoselic, grunge, alternative rock, 1991, bass cover, rocksmith, rocksmith bass, kurt, krist, dave grohl, butch vig
 ```
 
 ## PINNED COMMENT (41 characters)
@@ -34,9 +34,10 @@ Which Nevermind track did you hear first?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Discogs classifies the 1992 European Come As You Are single as grunge and alternative rock. These are release-level classifications.
+Artist-level genres from https://en.wikipedia.org/wiki/Nirvana_(band). These are catalogue-wide classifications, not necessarily descriptions of this recording. See Band Info/Nirvana/Register.md.
 
 ## CORRECT GENRES
 
 - Grunge
 - Alternative rock
+- Punk rock

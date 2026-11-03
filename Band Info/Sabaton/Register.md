@@ -85,3 +85,18 @@ Previously reviewed claims and sources; check sources and current copy before re
   - Sources: https://www.sabaton.net/historical-facts/gustavus-adolphus-crowned/ ; https://www.sabaton.net/discography/carolus-rex/
 - joakim broden, par sundstrom and attested typo sabton are associations, not proof of search frequency or appearance in MAVO video.
   - Sources: https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m ; https://www.reddit.com/r/sabaton/comments/pxrhnu/just_getting_into_sabton_i_need_some_suggestions/
+
+## 2026-11-03 strategy pass
+
+- CO-0061 title: Ghost Division: Sabaton's 7th Panzer story played on bass
+  - Sabaton describe Ghost Division as a song about the German 7th Panzer Division and its 1940 campaign in Belgium and France. It appears on The Art of War, released in 2008.
+    - Source: https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/
+  - Name/variant: joakim broden - https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m
+  - Name/variant: par sundstrom - https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m
+  - Name/variant: sabton - https://www.reddit.com/r/sabaton/comments/pxrhnu/just_getting_into_sabton_i_need_some_suggestions/
+- CO-0064 title: From D-Day to Primo Victoria: Sabaton on bass
+  - Sabaton say they wrote Primo Victoria after watching Saving Private Ryan. Their song concerns the 1944 D-Day landings and features on the album Primo Victoria, released in 2005.
+    - Source: https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/
+  - Name/variant: joakim broden - https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m
+  - Name/variant: par sundstrom - https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m
+  - Name/variant: sabton - https://www.reddit.com/r/sabaton/comments/pxrhnu/just_getting_into_sabton_i_need_some_suggestions/

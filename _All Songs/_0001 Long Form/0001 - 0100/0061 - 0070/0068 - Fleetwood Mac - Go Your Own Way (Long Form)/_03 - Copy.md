@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and proposed pin. Genre findings are internal.
 
-## TITLE (58 characters)
+## TITLE (48 characters)
 
 ```text
-The Silver Springs B-side to Fleetwood Mac Go Your Own Way
+Go Your Own Way gets a bass spin - Fleetwood Mac
 ```
 
 ## DESCRIPTION (488 characters)
@@ -20,10 +20,10 @@ The visible game display sits alongside my bass playing.
 💬 Bring your single-side finds to our Discord community; thank you for boosting when you can: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (13 tags, 187/500 characters)
+## TAGS (16 tags, 237/500 characters)
 
 ```text
-fleetwood mac, fleetwood, go your own way, fleetwood mac go your own way, rumours, silver springs, lindsey buckingham, stevie nicks, john mcvie, pop rock, 1976, bass cover, rocksmith bass
+fleetwood mac, fleetwood, go your own way, fleetwood mac go your own way, rumours, silver springs, lindsey buckingham, stevie nicks, john mcvie, pop rock, 1976, bass cover, rocksmith bass, mick fleetwood, christine mcvie, john mcvie bass
 ```
 
 ## PINNED COMMENT (57 characters)
@@ -34,8 +34,11 @@ What B-side belongs in your favourite singles collection?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Discogs classifies the 1976 Canadian Go Your Own Way / Silver Springs single as pop rock. The classification applies to the release, not only its A-side.
+Artist-level genres from https://en.wikipedia.org/wiki/Fleetwood_Mac. These are catalogue-wide classifications, not necessarily descriptions of this recording. See Band Info/Fleetwood Mac/Register.md.
 
 ## CORRECT GENRES
 
 - Pop rock
+- Soft rock
+- Folk rock
+- Blues rock

@@ -3,10 +3,10 @@
 > Copy the title, description, tags and proposed pin. Genre findings are internal.
 > Historical viewer conversation visible; retain it.
 
-## TITLE (54 characters)
+## TITLE (55 characters)
 
 ```text
-Try Honesty: Sean Michael Turrell directs Billy Talent
+Try Honesty brings early Billy Talent to Rocksmith bass
 ```
 
 ## DESCRIPTION (477 characters)
@@ -21,10 +21,10 @@ The game chart appears beside my bass performance.
 💬 Share early Billy Talent memories on Discord; boosts are optional: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (11 tags, 163/500 characters)
+## TAGS (14 tags, 206/500 characters)
 
 ```text
-billy talent, try honesty, billy talent try honesty, billy talent i, benjamin kowalewicz, jon gallant, alternative rock, pop punk, 2003, bass cover, rocksmith bass
+billy talent, try honesty, billy talent try honesty, billy talent i, benjamin kowalewicz, jon gallant, alternative rock, pop punk, 2003, bass cover, rocksmith bass, ben kowalewicz, jonathan gallant, ian dsa
 ```
 
 ## PINNED COMMENT (55 characters)
@@ -35,7 +35,7 @@ Which early Billy Talent video would you revisit today?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Artist-level classifications from https://en.wikipedia.org/wiki/Billy_Talent; these do not establish that every genre describes this recording. See Band Info/Billy Talent/Register.md.
+Artist-level genres from https://en.wikipedia.org/wiki/Billy_Talent. These are catalogue-wide classifications, not necessarily descriptions of this recording. See Band Info/Billy Talent/Register.md.
 
 ## CORRECT GENRES
 

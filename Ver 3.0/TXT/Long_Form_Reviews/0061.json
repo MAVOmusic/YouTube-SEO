@@ -2,9 +2,9 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "e8de11228a502953eb5f069e1db91615ed232647f8f25ff643083e1115f2aab1",
+    "title": "acbbe09e8d928408c93318f514d846852ddd1595d1ddb5ed3f42b06fd5963a4a",
     "description": "7dfb0abaf3312a0f38a7f4e49a30889a2c251e20c97c88b77e9391aeb8c3f00e",
-    "tags": "1261492cf9667420663f27cf6b951c56afa8774451c7d380b9193914c8645c21",
+    "tags": "f2079f6c9a0d47acd4061066d8fd2cfb9362d8f4804d1620b79bbd7350f01bdf",
     "pinned comment": "5a7883a9714a8f6ca94f67348c148b9f872a85350ea880ca5c1978d7d7f48ab5",
     "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
   },
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Ghost Division and the 7th Panzer: Sabaton's history in song",
-      "source": "https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Fact and upload identity checked against historical details and cited source."
+      "claim": "Ghost Division: Sabaton's 7th Panzer story played on bass",
+      "source": "https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; user confirms bass performance with overlay",
+      "assessment": "Song, artist, historical context and creator performance checked; editorial language is not a claim of artist appearance in MAVO video or measured CTR."
     },
     {
       "surface": "description",
@@ -107,21 +107,39 @@
       "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. Retain visible real viewer conversation."
     },
     {
+      "surface": "tags",
+      "claim": "joakim broden",
+      "source": "https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "par sundstrom",
+      "source": "https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabton",
+      "source": "https://www.reddit.com/r/sabaton/comments/pxrhnu/just_getting_into_sabton_i_need_some_suggestions/",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
       "surface": "genres",
       "claim": "Power metal",
       "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     },
     {
       "surface": "genres",
       "claim": "Heavy metal",
       "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     }
   ],
   "distinct_fact_and_source": "official account of the 7th Panzer Division ; https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/",
   "uniqueness_assessment": "Independent recheck of title, description, tags, proposed pin and CTA against available first-70 copy. No five-word collision remains for this song. Semantic uniqueness beyond the available corpus and future uploads cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Removed unsupported claims about an unanswered radio signal, exact player technique and the thumbnail being the bottleneck; historical viewer comment is not evidence of a current pin. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass.",
+  "uncertainties_and_removed_claims": "Removed unsupported claims about an unanswered radio signal, exact player technique and the thumbnail being the bottleneck; historical viewer comment is not evidence of a current pin. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass. 2026-11-03: Artist-level classifications are subjective; name tags are associations, not proof of performance credits or an appearance in MAVO video. Search demand and CTR are unmeasured.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

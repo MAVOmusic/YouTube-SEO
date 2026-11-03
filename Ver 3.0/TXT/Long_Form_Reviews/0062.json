@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "fa9069be0c64d09cd9d59409e37d000d44f489b2ba16daeaf78b56fea7d95ef8",
+    "title": "9787d483cd7e2136bd8072490ee679f2d39c54241f0a9cd8f080435f92ccb79c",
     "description": "0d3c8c15d28b93cf5f66c6dbe7e45bc95e4a21dca833a73dfa09ba658e8b6a24",
-    "tags": "bb018edebe857ac4fd2240e7e2ad496e30279bd6445bfd96ea5ddd0d0415b17c",
+    "tags": "8399de3b0da7f593246904d5834c7ba93e1a10b20cd12061e61ab3b0d9fabb0d",
     "pinned comment": "0ddfa47ec9dddf3a5d0d996288b8b418ecf28661a6210cc89c78af5ea08770bf",
-    "genres": "ef9b7234d7e3618bd4443d9e7db75e158849c925054367b17d97e7c2a1f2cbd7"
+    "genres": "c8e28b070dc2d7e01d25d6366b29db5289e63922e428b276e9a89e364fafa7c4"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Brad Walst has the original bass credit on Three Days Grace Pain",
-      "source": "https://www.discogs.com/release/7445977-Three-Days-Grace-Pain",
-      "assessment": "Credits refer to the original single, not the bass played by MAVO in this cover."
+      "claim": "Pain by Three Days Grace - a bass take on One-X",
+      "source": "https://www.discogs.com/release/7445977-Three-Days-Grace-Pain ; https://en.wikipedia.org/wiki/Three_Days_Grace ; user confirms bass performance with overlay",
+      "assessment": "Song, artist, historical context and creator performance checked; editorial language is not a claim of artist appearance in MAVO video or measured CTR."
     },
     {
       "surface": "description",
@@ -119,21 +119,57 @@
       "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
     },
     {
+      "surface": "tags",
+      "claim": "adam",
+      "source": "https://en.wikipedia.org/wiki/Three_Days_Grace",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "brad",
+      "source": "https://en.wikipedia.org/wiki/Three_Days_Grace",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "neil sanderson",
+      "source": "https://en.wikipedia.org/wiki/Three_Days_Grace",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "barry stock",
+      "source": "https://en.wikipedia.org/wiki/Three_Days_Grace",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
       "surface": "genres",
       "claim": "Post-grunge",
-      "source": "https://www.albumoftheyear.org/album/286412-three-days-grace-pain.php",
-      "assessment": "Album of the Year classifies the Pain single as post-grunge and alternative rock; this is release-level evidence, and genre labels are subjective."
+      "source": "https://en.wikipedia.org/wiki/Three_Days_Grace",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Hard rock",
+      "source": "https://en.wikipedia.org/wiki/Three_Days_Grace",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     },
     {
       "surface": "genres",
       "claim": "Alternative rock",
-      "source": "https://www.albumoftheyear.org/album/286412-three-days-grace-pain.php",
-      "assessment": "Album of the Year classifies the Pain single as post-grunge and alternative rock; this is release-level evidence, and genre labels are subjective."
+      "source": "https://en.wikipedia.org/wiki/Three_Days_Grace",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative metal",
+      "source": "https://en.wikipedia.org/wiki/Three_Days_Grace",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     }
   ],
   "distinct_fact_and_source": "Brad Walst original single bass credit ; https://www.discogs.com/release/7445977-Three-Days-Grace-Pain",
   "uniqueness_assessment": "Reviewed against available first-70 corpus. No five-word collision signals. No guarantee can be made for unseen or future uploads.",
-  "uncertainties_and_removed_claims": "Replaced the prior account relying on an inaccessible original interview or blog. Credits refer to the original single, not the bass played by MAVO in this cover. Genre labels are subjective. Historical screenshots do not verify current pins, restrictions, earnings or continuous video visibility.",
+  "uncertainties_and_removed_claims": "Replaced the prior account relying on an inaccessible original interview or blog. Credits refer to the original single, not the bass played by MAVO in this cover. Genre labels are subjective. Historical screenshots do not verify current pins, restrictions, earnings or continuous video visibility. 2026-11-03: Artist-level classifications are subjective; name tags are associations, not proof of performance credits or an appearance in MAVO video. Search demand and CTR are unmeasured.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and proposed pin. Genre findings are internal.
 
-## TITLE (58 characters)
+## TITLE (49 characters)
 
 ```text
-Billy Talent Standing in the Rain between two album tracks
+Standing In The Rain | early Billy Talent on bass
 ```
 
 ## DESCRIPTION (433 characters)
@@ -20,10 +20,10 @@ Bass playing and the Rocksmith chart share the screen in this take.
 💬 Compare album sequences via Discord; thanks to our community boosters: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (11 tags, 181/500 characters)
+## TAGS (14 tags, 224/500 characters)
 
 ```text
-billy talent, standing in the rain, billy talent standing in the rain, billy talent i, jon gallant, benjamin kowalewicz, alternative rock, pop punk, 2003, bass cover, rocksmith bass
+billy talent, standing in the rain, billy talent standing in the rain, billy talent i, jon gallant, benjamin kowalewicz, alternative rock, pop punk, 2003, bass cover, rocksmith bass, ben kowalewicz, jonathan gallant, ian dsa
 ```
 
 ## PINNED COMMENT (50 characters)
@@ -34,7 +34,7 @@ Which three-song run on an album do you return to?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Artist-level classifications from https://en.wikipedia.org/wiki/Billy_Talent; these do not establish that every genre describes this recording. See Band Info/Billy Talent/Register.md.
+Artist-level genres from https://en.wikipedia.org/wiki/Billy_Talent. These are catalogue-wide classifications, not necessarily descriptions of this recording. See Band Info/Billy Talent/Register.md.
 
 ## CORRECT GENRES
 

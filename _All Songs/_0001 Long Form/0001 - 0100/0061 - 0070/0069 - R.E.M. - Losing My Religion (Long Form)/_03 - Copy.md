@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and proposed pin. Genre findings are internal.
 
-## TITLE (55 characters)
+## TITLE (52 characters)
 
 ```text
-R.E.M. Losing My Religion won a 1992 performance Grammy
+Losing My Religion on bass: R.E.M. and a 1992 Grammy
 ```
 
 ## DESCRIPTION (489 characters)
@@ -20,10 +20,10 @@ Bass and the game display appear together in my performance.
 💬 Debate your personal music-award choices in Discord; server boosts are welcome: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 180/500 characters)
+## TAGS (17 tags, 207/500 characters)
 
 ```text
-rem, r.e.m., losing my religion, rem losing my religion, out of time, peter buck, mike mills, michael stipe, mandolin, alternative rock, folk rock, 1991, bass cover, rocksmith bass
+rem, r.e.m., losing my religion, rem losing my religion, out of time, peter buck, mike mills, michael stipe, mandolin, alternative rock, folk rock, 1991, bass cover, rocksmith bass, michael, mike, bill berry
 ```
 
 ## PINNED COMMENT (45 characters)
@@ -34,9 +34,13 @@ Which performance would you give an award to?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-The Losing My Religion song page classifies it as alternative rock and folk rock; these are subjective song-level recommendations.
+Artist-level genres from https://en.wikipedia.org/wiki/R.E.M.. These are catalogue-wide classifications, not necessarily descriptions of this recording. See Band Info/REM/Register.md.
 
 ## CORRECT GENRES
 
-- Alternative rock
+- College rock
 - Folk rock
+- Alternative rock
+- Jangle pop
+- Post-punk
+- New wave

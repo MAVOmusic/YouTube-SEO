@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "1addc4d4324c19f2ada04a31a573df88607917e5c725f6c066ae63c70bb2972a",
+    "title": "58699e62540833fdbb76da19810ad0c0ab28bc9799c3c1891778a11e43d2027c",
     "description": "67496dde3e383a3a039a07cf76f925048cdcd0bec9d3de44d1bb350a568737fb",
-    "tags": "3f8fbc0aa3e0f75b5d2859595c6d43cac611ab876c41d198fbda67a567d5e940",
+    "tags": "157d8273272c0b57e25e74d5a253fcc24643012dc19192d0355bc8ab316e9ce8",
     "pinned comment": "0855e9f8b3187c2d8391805eee484419847c7a1ce8a7f7432df7da8c09ab909d",
-    "genres": "35309d3c81978aee477e82721a30f5235e61f56e314aaf708adfd4e317fd880c"
+    "genres": "fa795978d6e7554eeef5bcd635a582d8bb2e364d8e0d363bc043bdb194556c7f"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "The Silver Springs B-side to Fleetwood Mac Go Your Own Way",
-      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Fact and upload identity checked against historical details and cited source."
+      "claim": "Go Your Own Way gets a bass spin - Fleetwood Mac",
+      "source": "https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song) ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0068 - Fleetwood Mac - Go Your Own Way (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Fleetwood_Mac ; user confirms bass performance with overlay",
+      "assessment": "Song, artist, historical context and creator performance checked; editorial language is not a claim of artist appearance in MAVO video or measured CTR."
     },
     {
       "surface": "description",
@@ -125,15 +125,51 @@
       "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
     },
     {
+      "surface": "tags",
+      "claim": "mick fleetwood",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "christine mcvie",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "john mcvie bass",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
       "surface": "genres",
       "claim": "Pop rock",
-      "source": "https://www.discogs.com/release/6498972-Fleetwood-Mac-Go-Your-Own-Way-Silver-Springs",
-      "assessment": "Discogs classifies the 1976 Canadian Go Your Own Way / Silver Springs single as pop rock. The classification applies to the release, not only its A-side."
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Soft rock",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Folk rock",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Blues rock",
+      "source": "https://en.wikipedia.org/wiki/Fleetwood_Mac",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     }
   ],
   "distinct_fact_and_source": "Silver Springs B-side and separate writers ; https://rateyourmusic.com/release/single/fleetwood-mac/go-your-own-way-silver-springs/ ; https://en.wikipedia.org/wiki/Silver_Springs_(song)",
   "uniqueness_assessment": "Independent recheck of title, description, tags, proposed pin and CTA against available first-70 copy. No five-word collision remains for this song. Semantic uniqueness beyond the available corpus and future uploads cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "B-side applies to a specific 1976 single; historical partial block does not establish current restrictions. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. The 1976 Canadian single explicitly credits Buckingham and Nicks on A and B sides respectively.",
+  "uncertainties_and_removed_claims": "B-side applies to a specific 1976 single; historical partial block does not establish current restrictions. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. The 1976 Canadian single explicitly credits Buckingham and Nicks on A and B sides respectively. 2026-11-03: Artist-level classifications are subjective; name tags are associations, not proof of performance credits or an appearance in MAVO video. Search demand and CTR are unmeasured.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
