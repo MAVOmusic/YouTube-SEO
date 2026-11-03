@@ -25,13 +25,13 @@
     {
       "surface": "description",
       "claim": "Elvis Presley recorded Jailhouse Rock for the 1957 film of the same name.",
-      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; https://www.allmusic.com/song/jailhouse-rock-mt0011622861",
       "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
     },
     {
       "surface": "description",
       "claim": "Jerry Leiber and Mike Stoller wrote the song; the session took place at Radio Recorders in Hollywood.",
-      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/",
+      "source": "https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; https://www.allmusic.com/song/jailhouse-rock-mt0011622861",
       "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
     },
     {
@@ -121,13 +121,13 @@
     {
       "surface": "genres",
       "claim": "Rock and roll",
-      "source": "https://www.allmusic.com/song/jailhouse-rock-mt0011859960",
+      "source": "https://www.allmusic.com/song/jailhouse-rock-mt0011859960; https://www.allmusic.com/song/jailhouse-rock-mt0011622861",
       "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
     },
     {
       "surface": "genres",
       "claim": "Rockabilly",
-      "source": "https://www.allmusic.com/song/jailhouse-rock-mt0011859960",
+      "source": "https://www.allmusic.com/song/jailhouse-rock-mt0011859960; https://www.allmusic.com/song/jailhouse-rock-mt0011622861",
       "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
     }
   ],

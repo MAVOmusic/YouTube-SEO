@@ -2362,3 +2362,5 @@ pins and genre scope; disclose unresolved issues before approval. Do not begin
 2026-11-03 - Source recheck 0001-0010 recorded song by song in TXT/First_70_Fact_Check_2026-11-03.txt; strengthened citations for 0002, 0003, 0008 and 0009. Second source recheck 0011-0070 remains pending; genres are classification recommendations.
 
 2026-11-03 - Rechecked 0011-0020 title, description/CTA, tags, proposed pin and genre evidence. Replaced a dead 0012 source with corroborating sources and strengthened 0018 citations. Song-specific evidence and caveats in TXT/First_70_Fact_Check_2026-11-03.txt.
+
+2026-11-03 - Independent source recheck 0021-0030: corrected 0022 description wording, replaced dead 0025 source, strengthened citations and recorded limits in Ver 3.0/TXT/First_70_Fact_Check_2026-11-03.txt. Historical 0024 search screenshot supports sabton; 0025 artist comment must be preserved, current pin unknown. Independent recheck 0031-0070 remains. Genre and footage limitations apply.

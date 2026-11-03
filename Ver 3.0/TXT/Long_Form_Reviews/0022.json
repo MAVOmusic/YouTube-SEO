@@ -3,7 +3,7 @@
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
     "title": "e6f202a6db5a663129e06856985cf81e735c8c90e314067631fde0eb3bbc1135",
-    "description": "e4e71e564cc51fbb99310f3db84546af43c7bcce7ec9b98a0a0c8fbb3036d5c9",
+    "description": "c62c28b7a5f83dba763ab0b3b3ffa8e8d9ffcf6268dde3d6659a6e61aef5bfe9",
     "tags": "03d1c10eba1037d3e9831433a832daf5d88f3bf2628f305c78824859e7595c88",
     "pinned comment": "fede98f959e13d7712fe8fee0e9b77ebc062dd4e9516b59b0f4da0f380ad8391",
     "genres": "7645edf9303e62f4d3d57d4c92eb9e445a697e629da2a82228c357366779b02a"
@@ -25,18 +25,18 @@
     {
       "surface": "description",
       "claim": "Together sits at track two on Avril Lavigne's 2004 album Under My Skin.",
-      "source": "https://www.allmusic.com/album/under-my-skin-mw0000697742",
+      "source": "https://www.allmusic.com/album/under-my-skin-mw0000697742; https://www.discogs.com/release/6620320-Avril-Lavigne-Under-My-Skin",
       "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
     },
     {
       "surface": "description",
       "claim": "Lavigne wrote it with Chantal Kreviazuk.",
-      "source": "https://www.allmusic.com/album/under-my-skin-mw0000697742",
+      "source": "https://www.allmusic.com/album/under-my-skin-mw0000697742; https://www.discogs.com/release/6620320-Avril-Lavigne-Under-My-Skin",
       "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
     },
     {
       "surface": "description",
-      "claim": "For this playthrough, I put the album cut on the Rocksmith chart.",
+      "claim": "For this playthrough, I play Together on bass alongside the Rocksmith chart.",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0022 - Avril Lavigne - Together (Long Form)/_01 - Main Info/Details.jpeg; MAVO instruction: all uploads show the overlay while playing bass",
       "assessment": "Historical video identity/format and MAVO confirmation; no detailed transcription implied."
     },
@@ -115,7 +115,7 @@
     {
       "surface": "pinned comment",
       "claim": "Which non-single from Under My Skin has stayed with you?",
-      "source": "https://www.allmusic.com/album/under-my-skin-mw0000697742; historical Pinned.jpeg files in batch",
+      "source": "https://www.allmusic.com/album/under-my-skin-mw0000697742; historical Pinned.jpeg files in batch; https://www.watchmojo.com/articles/top-10-underrated-avril-lavigne-songs",
       "assessment": "Invitation reviewed for false premises. The old comment screenshot does not prove current pin or absence of a later artist comment."
     },
     {
