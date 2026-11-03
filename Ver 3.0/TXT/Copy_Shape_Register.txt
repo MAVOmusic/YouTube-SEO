@@ -150,12 +150,12 @@
   0048    connected album artwork by Vartan Malakian            Which pair of album covers do you think works best together?
   0049    lyrics reference earlier songs                        Which earlier (G)I-DLE song reference did you spot first?
   0050    songwriting and composition credits                   Which production detail stands out to you in Tomboy?
-  0051    official 2021 music video                            Which (Hed) P.E. album would you play for a first-time listener?
+  0051    official 2021 music video | What does Watch It Burn bring to your (Hed) P.E. playlist?
   0052    Broke producer and bassist credits                   Which track from Broke would you introduce someone to first?
   0053    acoustic counterpart 145                             How does the acoustic 145 compare with 155 for you?
-  0054    Baby Come On acoustic bonus track on European edition What bonus track has made an album edition worth seeking out?
+  0054    Hoppus on a meaningful song | Which +44 song means the most to you, and why?
   0055    standard album closer, followed by bonuses on some editions What album closer makes you want to start the record again?
-  0056    Little Death as tentative album title                Which working album title do you wish a band had kept?
+  0056    Jerry Finn mix credit | Which instrument stands out most to you in Little Death?
   0057    Carol Heller and Mark Hoppus vocal duet              What duet deserves its own bass arrangement?
   0058    Gustavus Adolphus and instrumental album introduction Which historical figure deserves a song of their own?
   0059    Hoppus recalled dark-song conversation with Barker   Which song origin story has stayed with you?

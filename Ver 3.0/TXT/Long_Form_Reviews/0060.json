@@ -19,25 +19,25 @@
     {
       "surface": "title",
       "claim": "From Russian to English: t.A.T.u. and All The Things She Said",
-      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.theguardian.com/culture/live/2019/jul/19/trevor-horn-webchat-post-your-questions-now",
       "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
     },
     {
       "surface": "description",
       "claim": "All The Things She Said is the English-language version of t.A.T.u.'s earlier Russian song Ya Soshla S Uma. The English version was produced by Trevor Horn.",
-      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://www.theguardian.com/culture/live/2019/jul/19/trevor-horn-webchat-post-your-questions-now",
       "assessment": "Claims reviewed against the referenced release or source; catalog/source limitations recorded below."
     },
     {
       "surface": "description",
       "claim": "Here I perform on bass while the Rocksmith chart is displayed.",
-      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; user confirmation of bass playing with overlay",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; user confirmation of bass playing with overlay ; https://www.theguardian.com/culture/live/2019/jul/19/trevor-horn-webchat-post-your-questions-now",
       "assessment": "Historical video identity and confirmed format, without unverifiable playing technique."
     },
     {
       "surface": "description",
       "claim": "Kick, Twitch mirror and Discord invitations",
-      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite ; https://www.theguardian.com/culture/live/2019/jul/19/trevor-horn-webchat-post-your-questions-now",
       "assessment": "Invitations in requested order, no promised schedule or rewards."
     },
     {
@@ -156,7 +156,7 @@
     }
   ],
   "distinct_fact_and_source": "Russian original and English version ; https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/",
-  "uniqueness_assessment": "No five-word collision signals in the available corpus. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads.",
+  "uniqueness_assessment": "No five-word collision signals in the available corpus. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
   "uncertainties_and_removed_claims": "Russian title and names are relevant to the earlier song and the duo, not a claim this upload is the Russian recording. Precise release date and marketing causation removed. Historical screenshots are partial, not current status; genre is subjective.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,

@@ -20,10 +20,10 @@ The Rocksmith display sits beside my bass playing.
 💬 Compare alternate versions with Discord members; thank you for any boosts: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 174/500 characters)
+## TAGS (13 tags, 160/500 characters)
 
 ```text
-+44, plus 44, 155, +44 155, plus 44 155, 145 acoustic, when your heart stops beating, mark hoppus, travis barker, pop punk, alternative rock, 2006, bass cover, rocksmith bass
++44, plus 44, 155, +44 155, plus 44 155, when your heart stops beating, mark hoppus, travis barker, pop punk, alternative rock, 2006, bass cover, rocksmith bass
 ```
 
 ## PINNED COMMENT (51 characters)

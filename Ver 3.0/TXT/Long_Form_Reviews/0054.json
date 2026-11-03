@@ -2,10 +2,10 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "5de53a37f1f45fc87d358873bef80c2aaacb9be617137ba23cacb4bf57e2d868",
-    "description": "da6cd101d138d66257a4ec9d38f2289e415d25da21151765ae54b24a0998e5b2",
+    "title": "6a8db3f47464796c89dbd5f05f44637e63d76ca51fe90ac37cff2ac4dadb4307",
+    "description": "25d3b9f866316481cfd5bf23778784cdec7fab285595727b4b6626c1f6c39986",
     "tags": "6bbc90da0ca90697c59019096f371dc59014bd106ba7abfec23d5a954be69d4f",
-    "pinned comment": "6c940fa7a055fd122d75f6b27429069bca965c219ec305af401a8b7d3d018700",
+    "pinned comment": "4359fdacb709e787c24d37a6354e1b29798def763959e782084ed76997eefb0f",
     "genres": "e39b35d77197353ee45d286888eb5a7da7b5729c4822d026e51761fb8e107674"
   },
   "reviewed_surfaces": {
@@ -18,19 +18,19 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Baby Come On by +44 and its acoustic bonus-track story",
-      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "claim": "Mark Hoppus on why Baby Come On by +44 mattered to him",
+      "source": "https://www.bbc.co.uk/programmes/articles/1lt6qgDjWL6QM7sg7Fmc5mM/mark-hoppus-on-the-records-that-changed-his-life ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
     },
     {
       "surface": "description",
-      "claim": "A 2006 European edition of When Your Heart Stops Beating includes an acoustic Baby Come On as a bonus track. The album is by +44.",
-      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+      "claim": "Mark Hoppus told BBC Radio 1 that Baby Come On was one of his favourites and reflected a transitional period in his life. +44 included it on their record When Your Heart Stops Beating.",
+      "source": "https://www.bbc.co.uk/programmes/articles/1lt6qgDjWL6QM7sg7Fmc5mM/mark-hoppus-on-the-records-that-changed-his-life ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
       "assessment": "Claims reviewed against the referenced release or source; catalog/source limitations recorded below."
     },
     {
       "surface": "description",
-      "claim": "My bass playing accompanies the game chart in this video.",
+      "claim": "In this video, my bass playing accompanies the game chart.",
       "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; user confirmation of bass playing with overlay",
       "assessment": "Historical video identity and confirmed format, without unverifiable playing technique."
     },
@@ -120,27 +120,27 @@
     },
     {
       "surface": "pinned comment",
-      "claim": "What bonus track has made an album edition worth seeking out?",
+      "claim": "Which +44 song means the most to you, and why?",
       "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_03 Comments.jpeg",
       "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
     },
     {
       "surface": "genres",
       "claim": "Pop punk",
-      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://genius.com/44-baby-come-on-lyrics",
       "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
     },
     {
       "surface": "genres",
       "claim": "Alternative rock",
-      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://genius.com/44-baby-come-on-lyrics",
       "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
     }
   ],
-  "distinct_fact_and_source": "Baby Come On acoustic bonus track on European edition ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
-  "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads.",
-  "uncertainties_and_removed_claims": "The acoustic bonus is a separate recording; no claim this upload uses that version. Historical screenshots are partial, not current status; genre is subjective.",
+  "distinct_fact_and_source": "Hoppus told BBC Radio 1 Baby Come On was one of his favourites and reflected a transitional period ; https://www.bbc.co.uk/programmes/articles/1lt6qgDjWL6QM7sg7Fmc5mM/mark-hoppus-on-the-records-that-changed-his-life",
+  "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
+  "uncertainties_and_removed_claims": "Replaced the acoustic bonus angle to avoid repeating 0053. Hoppus comments reflect his view at interview time, not a permanent ranking. Screenshot does not establish exact audio edition or current state. Genre classifications are subjective.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
-  "collision_report_sha256": "41e61faa1ebe11e0e6eb56f3d911cec83a3dd6f9c7da3d7d3eed77b62322c223"
+  "collision_report_sha256": "d4c3f9646fd56fb7aa08a0518a439f10017faa1cf28f0660b86a48a859bfd9f4"
 }

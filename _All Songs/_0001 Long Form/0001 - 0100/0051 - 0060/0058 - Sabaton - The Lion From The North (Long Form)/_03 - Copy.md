@@ -34,7 +34,7 @@ Which historical figure deserves a song of their own?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Genre is subjective. Recommendations use album or artist-level evidence and may not describe every track in isolation. See the review record for sources.
+Genre is subjective. The band's track page tags this release power metal; other classifications may also be reasonable. See the review record for sources.
 
 ## CORRECT GENRES
 

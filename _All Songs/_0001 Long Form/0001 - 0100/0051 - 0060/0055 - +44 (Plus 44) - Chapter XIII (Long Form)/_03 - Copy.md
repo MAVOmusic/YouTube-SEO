@@ -3,10 +3,10 @@
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 > Historical analytics note: 0055 Overview 2 conflicts with its other captured panels; see the audit log, and do not use the outlier without rechecking.
 
-## TITLE (55 characters)
+## TITLE (61 characters)
 
 ```text
-The standard +44 album closes with Chapter XIII on bass
++44 close their standard album with Chapter XIII - bass cover
 ```
 
 ## DESCRIPTION (478 characters)

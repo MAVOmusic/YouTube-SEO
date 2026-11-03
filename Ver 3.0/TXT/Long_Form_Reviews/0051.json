@@ -5,7 +5,7 @@
     "title": "9dd377ed7972a33f3d9ec90e3d4372877d5cf28d59e333a80a6773d54dc1a048",
     "description": "9da145d70d7b1d88e08b09211d3002a80662df2f91299255371eb06bb4588add",
     "tags": "fd2874a12130ba403324c297e28e3fabbb5ca8c70908d8f11ef0cd3682c6abd2",
-    "pinned comment": "0c94de4631dfe6e60b7f47624769cc4e8b64913c7f9a05eee0dde97c1f776d4c",
+    "pinned comment": "e91d5ca3ae71d4aa8cb5cc8929d5682527f197cc0a182eedd69de407f912b84a",
     "genres": "717b1f9463b3d73288c579210ac63567e38217418b0b1510dbad9ddb416e31f8"
   },
   "reviewed_surfaces": {
@@ -102,7 +102,7 @@
     },
     {
       "surface": "pinned comment",
-      "claim": "Which (Hed) P.E. album would you play for a first-time listener?",
+      "claim": "What does Watch It Burn bring to your (Hed) P.E. playlist?",
       "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_03 Comments.jpeg",
       "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
     },
@@ -114,7 +114,7 @@
     }
   ],
   "distinct_fact_and_source": "official 2021 music video ; https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020",
-  "uniqueness_assessment": "No five-word collision signals in the available corpus. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads.",
+  "uniqueness_assessment": "No five-word collision signals in the available corpus. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
   "uncertainties_and_removed_claims": "Removed claims about no guests, no label involvement and shortest track; prior sources do not support them. Historical screenshots are partial, not current status; genre is subjective.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,

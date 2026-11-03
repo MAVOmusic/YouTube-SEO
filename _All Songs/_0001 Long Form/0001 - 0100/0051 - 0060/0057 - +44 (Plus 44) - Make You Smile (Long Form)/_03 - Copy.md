@@ -8,10 +8,10 @@
 Carol Heller joins Mark Hoppus on +44 Make You Smile
 ```
 
-## DESCRIPTION (456 characters)
+## DESCRIPTION (441 characters)
 
 ```text
-Carol Heller sings alongside Mark Hoppus on Make You Smile. On the 2006 +44 album, the duet sits among the songs on When Your Heart Stops Beating.
+Make You Smile appears on the 2006 +44 album When Your Heart Stops Beating and features Carol Heller singing alongside Mark Hoppus.
 
 The visible game display accompanies my bass performance.
 

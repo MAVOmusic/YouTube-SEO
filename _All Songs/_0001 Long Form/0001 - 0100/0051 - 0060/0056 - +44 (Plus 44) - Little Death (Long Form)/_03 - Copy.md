@@ -2,22 +2,22 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (46 characters)
+## TITLE (36 characters)
 
 ```text
-Little Death was a working album title for +44
+Jerry Finn mixed Little Death by +44
 ```
 
-## DESCRIPTION (483 characters)
+## DESCRIPTION (432 characters)
 
 ```text
-Before release, +44 tentatively titled their album Little Death, before naming it When Your Heart Stops Beating. Little Death remains the name of one of its tracks.
+The 2006 European CD credits Jerry Finn with mixing Little Death, a track by +44 on When Your Heart Stops Beating.
 
 My performance puts bass playing beside the game overlay.
 
-🟢 Bring an alternate album title into the Kick conversation: https://kick.com/mavomusic
+🟢 Bring a favourite mix into the Kick conversation: https://kick.com/mavomusic
 🟣 Twitch has a mirror of that session: https://www.twitch.tv/mavomusic
-💬 Share album-naming stories on Discord; thanks to everyone boosting: https://discord.gg/ESGsGkN4j2
+💬 Share production details you enjoy on Discord; thanks to everyone boosting: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (14 tags, 198/500 characters)
@@ -26,10 +26,10 @@ My performance puts bass playing beside the game overlay.
 +44, plus 44, little death, +44 little death, plus 44 little death, when your heart stops beating, mark hoppus, travis barker, pop punk, alternative rock, 2006, bass cover, rocksmith, rocksmith bass
 ```
 
-## PINNED COMMENT (54 characters)
+## PINNED COMMENT (56 characters)
 
 ```text
-Which working album title do you wish a band had kept?
+Which instrument stands out most to you in Little Death?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)
