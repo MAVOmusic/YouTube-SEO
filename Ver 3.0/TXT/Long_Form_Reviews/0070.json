@@ -6,7 +6,7 @@
     "description": "146403aaffbeb9e3f88ca588d9e6195e10a9fa5718ac0ae2ffbda07d151b60df",
     "tags": "476ec863a3e54c2b40c584c758cd35d419c0bdfb29d2ee079406cfbca0cc99a0",
     "pinned comment": "022e84323271bb0cca77937c6307f1129aefb9ef5a62825193ac91397399473b",
-    "genres": "f141ecc8f8fa68d4222d4a157a58f8a03c2d39fcdd458077f072259f956fea6c"
+    "genres": "7248d64a601360c3a7254b87447806181634cb0489c7e57ae8745c6dc67ba9cf"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -115,19 +115,37 @@
     {
       "surface": "genres",
       "claim": "Alternative rock",
-      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-1/",
-      "assessment": "Rate Your Music lists alternative rock and pop punk for the self-titled Billy Talent album. These are album-level classifications, not proof that every track fits both."
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Punk rock",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Post-hardcore",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
     },
     {
       "surface": "genres",
       "claim": "Pop punk",
-      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-1/",
-      "assessment": "Rate Your Music lists alternative rock and pop punk for the self-titled Billy Talent album. These are album-level classifications, not proof that every track fits both."
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Emo",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
     }
   ],
   "distinct_fact_and_source": "Album sequence River Below / Standing in the Rain / Cut the Curtains ; https://wmc.shop/products/billy-talent-cd ; https://en.wikipedia.org/wiki/Billy_Talent_(album)",
   "uniqueness_assessment": "Independent recheck of title, description, tags, proposed pin and CTA against available first-70 copy. No five-word collision remains for this song. Semantic uniqueness beyond the available corpus and future uploads cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Track sequence from a specific standard album listing; no invented narrator details or musical technique. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings.",
+  "uncertainties_and_removed_claims": "Track sequence from a specific standard album listing; no invented narrator details or musical technique. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

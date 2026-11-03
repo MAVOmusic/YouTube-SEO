@@ -34,8 +34,9 @@ Which film led you to discover a song or artist?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Metal-Rules describes the Primo Victoria album as power metal. This is album-level evidence; the recommendation is a subjective fit for the title track.
+Artist-level classifications from https://www.pressure-magazine.de/bandprofil/sabaton-266680/; these do not establish that every genre describes this recording. See Band Info/Sabaton/Register.md.
 
 ## CORRECT GENRES
 
 - Power metal
+- Heavy metal

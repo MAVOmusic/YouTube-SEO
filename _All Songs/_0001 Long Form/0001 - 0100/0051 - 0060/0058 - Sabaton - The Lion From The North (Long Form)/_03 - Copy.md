@@ -34,8 +34,9 @@ Which historical figure deserves a song of their own?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Genre is subjective. The band's track page tags this release power metal; other classifications may also be reasonable. See the review record for sources.
+Artist-level classifications from https://www.pressure-magazine.de/bandprofil/sabaton-266680/; these do not establish that every genre describes this recording. See Band Info/Sabaton/Register.md.
 
 ## CORRECT GENRES
 
 - Power metal
+- Heavy metal

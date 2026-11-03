@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "b0363e906c9740f01d5bba30798ba104e23189df5f5198d50434aff52f3e1b21",
+    "title": "59d6c47edf1378b496f10c40f0215083e4116f00383eb2645a85d7c489fa30e8",
     "description": "9ba2ba3226e562fbbbb4a86cb81d12d2c3268365cf0c354fe8f7236ee964ab09",
-    "tags": "cd0d637ed60ff1fd51d9faf4d5db65472493285fbb5d5eb5261a65ebf09380ae",
+    "tags": "da3dccb7a2e360077e99ef342258433ce58ec16d6e9292d25ab3ab842973d094",
     "pinned comment": "04373d25c2e57beed810d58ffcdf99e951633ec0a8cb5e7dbfc95a39aaa619e2",
-    "genres": "5c9e82a0433cabf6359d74600a9248f24218698ed1c3060fb475cdb330c3a8a2"
+    "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -16,12 +16,6 @@
     "genres": true
   },
   "claims": [
-    {
-      "surface": "title",
-      "claim": "Sabaton salute Manowar with Man of War on Rocksmith bass",
-      "source": "https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Details.jpeg ; https://www.teethofthedivine.com/reviews/sabaton-heroes/",
-      "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
-    },
     {
       "surface": "description",
       "claim": "Man of War is a Sabaton bonus track on editions of the 2014 album Heroes. The song references Manowar's catalogue as a tribute to the band.",
@@ -107,15 +101,45 @@
       "assessment": "Historical comments screenshot checked for an artist comment; this is a new opinion question, not a verified current pin. Screenshot may not show every comment."
     },
     {
+      "surface": "tags",
+      "claim": "joakim broden",
+      "source": "https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "par sundstrom",
+      "source": "https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabton",
+      "source": "https://www.reddit.com/r/sabaton/comments/pxrhnu/just_getting_into_sabton_i_need_some_suggestions/",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "title",
+      "claim": "Manowar echoes through Sabaton's Man of War - bass cover",
+      "source": "https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0036 - Sabaton - Man Of War (Long Form)/_01 - Main Info/Details.jpeg ; https://www.teethofthedivine.com/reviews/sabaton-heroes/; https://www.pressure-magazine.de/bandprofil/sabaton-266680/; user-confirmed bass performance",
+      "assessment": "Identity and factual context supported by sources; evaluative hook is opinion. Artist is not represented as appearing in this creator performance; CTR untested."
+    },
+    {
       "surface": "genres",
       "claim": "Power metal",
-      "source": "https://rateyourmusic.com/release/album/sabaton/heroes/",
-      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
     }
   ],
   "distinct_fact_and_source": "Man of War is a Sabaton bonus track on editions of the 2014 album Heroes. The song references Manowar's catalogue as a tribute to the band. https://open.spotify.com/track/24fKJtr5oh9O5LiEZZwSNs ; https://genius.com/Sabaton-man-of-war-lyrics",
   "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
-  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded. 2026-11-03: genre list is artist-level. People tags signify band or song associations, not original recording credit or appearance in MAVO video. Spelling observations do not prove YouTube search frequency. Title effectiveness untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

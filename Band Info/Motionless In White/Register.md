@@ -82,3 +82,8 @@ Relevant names below are artist associations, not an assertion they play on each
 - justin morrow - https://www.songfacts.com/facts/motionless-in-white
 - ricky olson - https://www.songfacts.com/facts/motionless-in-white
 - devin sola - https://www.songfacts.com/facts/motionless-in-white
+
+## 2026-11-03 research and usage updates
+
+- CO-0033: Another Life music video depicts a broken love story. The 0033 title uses heartbreak as an interpretive description.
+  - Source: https://www.altpress.com/motionless-in-white-another-life-music-video/

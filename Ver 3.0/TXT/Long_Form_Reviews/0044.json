@@ -6,7 +6,7 @@
     "description": "fa891e2729fb1dc1cf98638e0b82bed52da9cfbf681e2ecc9a56222a1aa39a61",
     "tags": "e15208b62daaf2b2ecfdeaadb3dcd5664c0fe83a889e5e2cd5a7d96766da2ede",
     "pinned comment": "736b12e1ef78b180e8b531aaa6c2455b9f368e81ea58bff6404dc67d459d3ea6",
-    "genres": "76c000a70fba7d5c37016509a059363bc12617931d42c6413147e2e7123e7940"
+    "genres": "7248d64a601360c3a7254b87447806181634cb0489c7e57ae8745c6dc67ba9cf"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -102,20 +102,38 @@
     },
     {
       "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
+    },
+    {
+      "surface": "genres",
       "claim": "Punk rock",
-      "source": "https://en.wikipedia.org/wiki/Viking_Death_March",
-      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
     },
     {
       "surface": "genres",
       "claim": "Post-hardcore",
-      "source": "https://en.wikipedia.org/wiki/Viking_Death_March",
-      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Emo",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
     }
   ],
   "distinct_fact_and_source": "official video performance footage ; https://en.wikipedia.org/wiki/Viking_Death_March ; https://www.imdb.com/title/tt17678304/",
   "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 2026-11-03 targeted recheck replaced the complete title to remove a subjective or potentially misleading implication.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 2026-11-03 targeted recheck replaced the complete title to remove a subjective or potentially misleading implication. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

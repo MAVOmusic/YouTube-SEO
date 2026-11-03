@@ -34,8 +34,9 @@ Which pair of album covers do you think works best together?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based suggestions; genre is subjective. Evidence is song or single-level. See the review record for sources.
+Artist-level classifications from https://www.metalkingdom.net/band/system-of-a-down-24308; these do not establish that every genre describes this recording. See Band Info/System Of A Down/Register.md.
 
 ## CORRECT GENRES
 
 - Alternative metal
+- Nu metal

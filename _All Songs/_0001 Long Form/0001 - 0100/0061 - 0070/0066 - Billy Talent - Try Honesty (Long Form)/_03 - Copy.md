@@ -35,9 +35,12 @@ Which early Billy Talent video would you revisit today?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-AllMusic lists alternative/indie rock and pop punk among styles for the Try Honesty single. These are release-level classifications.
+Artist-level classifications from https://en.wikipedia.org/wiki/Billy_Talent; these do not establish that every genre describes this recording. See Band Info/Billy Talent/Register.md.
 
 ## CORRECT GENRES
 
 - Alternative rock
+- Punk rock
+- Post-hardcore
 - Pop punk
+- Emo

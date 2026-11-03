@@ -34,9 +34,12 @@ Which festival performance belongs in a music video?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based suggestions; genre is subjective. Evidence is song or single-level. See the review record for sources.
+Artist-level classifications from https://en.wikipedia.org/wiki/Billy_Talent; these do not establish that every genre describes this recording. See Band Info/Billy Talent/Register.md.
 
 ## CORRECT GENRES
 
+- Alternative rock
 - Punk rock
 - Post-hardcore
+- Pop punk
+- Emo

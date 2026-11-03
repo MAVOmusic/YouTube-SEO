@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "d0d3583792a26fcc5f69f7f8d3912772ff155ac13c888e20e3a397ef53bf4276",
+    "title": "ecd413a861791d2f21d5c1d1265d02828092c771a058acdf76fd290a7acdff62",
     "description": "771a06edc57d49513792ad966bf34a9bfa99e7483383a32fc1ddf5c60861f37a",
-    "tags": "422b4dd9b3b85f628c38e6e9b4f2afc52f3749319f6471a32ad358519342cb75",
+    "tags": "f429d0c38abfee85f80ee440d36413902ce29a617008d310bb16ff6ae379f345",
     "pinned comment": "2c9cdef6d825f3b467dc7936f8fd69634f91d05970fdf18b827ce3f592da077e",
-    "genres": "5c9e82a0433cabf6359d74600a9248f24218698ed1c3060fb475cdb330c3a8a2"
+    "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -16,12 +16,6 @@
     "genres": true
   },
   "claims": [
-    {
-      "surface": "title",
-      "claim": "Hear Sabaton in Swedish: En Livstid I Krig on bass",
-      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg ; https://www.sabaton.net/news/music/carolus-rex-available-with-both-swedish-and-english-lyrics/",
-      "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
-    },
     {
       "surface": "description",
       "claim": "En Livstid I Krig appears on the Swedish edition of Sabaton's Carolus Rex. The band also released an English-language version called A Lifetime of War.",
@@ -113,15 +107,45 @@
       "assessment": "Historical comments screenshot checked for an artist comment; this is a new opinion question, not a verified current pin. Screenshot may not show every comment."
     },
     {
+      "surface": "tags",
+      "claim": "joakim broden",
+      "source": "https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "par sundstrom",
+      "source": "https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabton",
+      "source": "https://www.reddit.com/r/sabaton/comments/pxrhnu/just_getting_into_sabton_i_need_some_suggestions/",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "title",
+      "claim": "En Livstid I Krig: Sabaton's Swedish view of a lifetime at war - bass performance",
+      "source": "https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0039 - Sabaton - En Livstid I Krig (Long Form)/_01 - Main Info/Details.jpeg ; https://www.sabaton.net/news/music/carolus-rex-available-with-both-swedish-and-english-lyrics/; https://www.sabaton.net/video/episode-34-en-livstid-i-krig-the-thirty-years-war/; user-confirmed bass performance",
+      "assessment": "Identity and factual context supported by sources; evaluative hook is opinion. Artist is not represented as appearing in this creator performance; CTR untested."
+    },
+    {
       "surface": "genres",
       "claim": "Power metal",
-      "source": "https://rateyourmusic.com/release/album/sabaton/carolus-rex/",
-      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
     }
   ],
   "distinct_fact_and_source": "En Livstid I Krig appears on the Swedish edition of Sabaton's Carolus Rex. The band also released an English-language version called A Lifetime of War. https://www.sabaton.net/discography/carolus-rex/en-livstid-i-krig/ ; https://en.wikipedia.org/wiki/Carolus_Rex_(album)",
   "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
-  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded. 2026-11-03: genre list is artist-level. People tags signify band or song associations, not original recording credit or appearance in MAVO video. Spelling observations do not prove YouTube search frequency. Title effectiveness untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

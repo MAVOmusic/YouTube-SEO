@@ -6,7 +6,7 @@
     "description": "c15d0cf28f53a86c6b4fe81fd38c1b385ae0fbf3e0da7ee96d0b433986c59b38",
     "tags": "1125b36ea669808547e2fafdc47314f4b83db7fe2c344788e9369b044cbce784",
     "pinned comment": "5b0083e61574280ab7827c689696e0b0e935fcd21ec29d191a609d4b38d3d904",
-    "genres": "fd2b61f372f685c26326f2108d0bc61abd06fce2bcad8f749639499bee854399"
+    "genres": "a1eb2b94fbfc5d67669fae9ed572d0fbbd951eda577483c4ad17e6c891b242a7"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -121,19 +121,37 @@
     {
       "surface": "genres",
       "claim": "Hard rock",
-      "source": "https://en.wikipedia.org/wiki/Love_Removal_Machine",
-      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+      "source": "https://en.wikipedia.org/wiki/The_Cult",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Gothic rock",
+      "source": "https://en.wikipedia.org/wiki/The_Cult",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://en.wikipedia.org/wiki/The_Cult",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
     },
     {
       "surface": "genres",
       "claim": "Heavy metal",
-      "source": "https://en.wikipedia.org/wiki/Love_Removal_Machine",
-      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+      "source": "https://en.wikipedia.org/wiki/The_Cult",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Post-punk",
+      "source": "https://en.wikipedia.org/wiki/The_Cult",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
     }
   ],
   "distinct_fact_and_source": "Peace sessions and re-recording ; https://www.orlandoweekly.com/music/electric-peace-reveals-how-rick-rubin-altered-the-rock-trajectory-of-the-cult-2244131/ ; https://en.wikipedia.org/wiki/Love_Removal_Machine",
   "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 0042 Peace version and Electric re-recording are distinct recordings; no claim that the uploaded performance uses the earlier version.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 0042 Peace version and Electric re-recording are distinct recordings; no claim that the uploaded performance uses the earlier version. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

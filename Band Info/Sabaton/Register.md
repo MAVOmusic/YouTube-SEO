@@ -71,3 +71,10 @@ Previously reviewed claims and sources; check sources and current copy before re
 - Sabaton say they wrote Primo Victoria after watching Saving Private Ryan. Their song concerns the 1944 D-Day landings and features on the album Primo Victoria, released in 2005.
   - Source: https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/
 
+
+## 2026-11-03 research and usage updates
+
+- CO-0034: Official music video credits Tina Guo and connects the song to World of Tanks. Used in description.
+  - Source: https://www.youtube.com/watch?v=peTCePu1jMs
+- CO-0039: The band describes the Swedish version as a distinct perspective on the Thirty Years War. Used as a title angle.
+  - Source: https://www.sabaton.net/video/episode-34-en-livstid-i-krig-the-thirty-years-war/

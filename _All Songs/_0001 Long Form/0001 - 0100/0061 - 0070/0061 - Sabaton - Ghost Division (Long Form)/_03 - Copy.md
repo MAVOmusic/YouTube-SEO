@@ -35,8 +35,9 @@ Which history-themed song sent you looking for more information?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Power metal is supported by the 2008 The Art of War album classification at Metal Kingdom; this is album-level evidence, not a definitive song-only classification.
+Artist-level classifications from https://www.pressure-magazine.de/bandprofil/sabaton-266680/; these do not establish that every genre describes this recording. See Band Info/Sabaton/Register.md.
 
 ## CORRECT GENRES
 
 - Power metal
+- Heavy metal

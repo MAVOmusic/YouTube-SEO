@@ -6,7 +6,7 @@
     "description": "7ff6e5c9fd52c22c132055552f562c836f9bdb960ac03e2e9e75d44f7016c911",
     "tags": "e0ea7db833921df4be2a450c6eb8e4cfb1f6bffe8a2af3eb549167083325485c",
     "pinned comment": "df26397e2f7ff59acc693d993856a11b68a8b28ebdda569e70cb8ff1bfca2654",
-    "genres": "0e21297a49e5b5fb6b78eaa58064a587d30b5a28e8cf8d98a844e9248423398a"
+    "genres": "b979af642a00669e99e3cd6b8809b44ad7f28634c201f8a3778fa5d58002227e"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -132,20 +132,20 @@
     },
     {
       "surface": "genres",
-      "claim": "Neue Deutsche Härte",
-      "source": "https://rateyourmusic.com/release/album/rammstein/rosenrot/reviews/7/",
-      "assessment": "Rate Your Music classifies Rosenrot as Neue Deutsche Haerte and industrial metal. These are album-level classifications, not definitive labels for each song."
+      "claim": "Neue Deutsche Haerte",
+      "source": "https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
     },
     {
       "surface": "genres",
       "claim": "Industrial metal",
-      "source": "https://rateyourmusic.com/release/album/rammstein/rosenrot/reviews/7/",
-      "assessment": "Rate Your Music classifies Rosenrot as Neue Deutsche Haerte and industrial metal. These are album-level classifications, not definitive labels for each song."
+      "source": "https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
     }
   ],
   "distinct_fact_and_source": "reviewer links song to Pauline story ; https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics",
   "uniqueness_assessment": "Independent recheck of title, description, tags, proposed pin and CTA against available first-70 copy. No five-word collision remains for this song. Semantic uniqueness beyond the available corpus and future uploads cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Link to Pauline is attributed to a contemporary review; do not assert a direct interview with the band. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings.",
+  "uncertainties_and_removed_claims": "Link to Pauline is attributed to a contemporary review; do not assert a direct interview with the band. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

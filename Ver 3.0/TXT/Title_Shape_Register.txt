@@ -104,16 +104,16 @@
   0028    how heavy can song feel? a band instrument playthrough | How heavy can Dreadnought feel? A Sabaton bass playthrough
   0029    book inspires song - band in platform | Paradise Lost inspires Archangel - Amaranthe in Rocksmith
   0030    song brings credited artists together - instrument performance | Tarantula brings Pendulum and DJ Fresh together - bass playthrough
-  0031    full song on bass - artist in game | Dear Maria, Count Me In on bass - All Time Low in Rocksmith
-  0032    song takes band into style on instrument               Roulette takes System Of A Down into acoustic territory on bass
-  0033    number of writers behind song, played on band instrument Three writers behind Another Life, played on Motionless In White bass
-  0034    game and instrument: band on song format               World of Tanks and a cello: Sabaton on Steel Commanders bass
-  0035    before album, song reached games - format              Before Billy Talent II, Red Flag reached games - bass cover
-  0036    band salute band with song on format                   Sabaton salute Manowar with Man of War on Rocksmith bass
-  0037    band sent song ahead of album - format                 All Time Low sent Weightless ahead of Nothing Personal - bass
-  0038    producer produced song - band on instrument            Steve Brown produced She Sells Sanctuary - The Cult on bass
-  0039    hear band in language: song on instrument              Hear Sabaton in Swedish: En Livstid I Krig on bass
-  0040    band put language count on song release - format       Rammstein put two languages on the Amerika single - bass cover
+  0031    song - genre instrument take on artist | Dear Maria, Count Me In - a pop-punk bass take on All Time Low
+  0032    acoustic band song meets instrument: song | An acoustic System Of A Down song meets bass: Roulette
+  0033    heartbreak of song - artist on platform instrument | The heartbreak of Another Life - Motionless In White on Rocksmith bass
+  0034    song: tank-sized artist instrument playthrough | Steel Commanders: a tank-sized Sabaton bass playthrough
+  0035    question about song game? a band instrument playthrough | Remember Red Flag from Burnout? A Billy Talent bass playthrough
+  0036    tribute artist echoes through band song - instrument cover | Manowar echoes through Sabaton's Man of War - bass cover
+  0037    imperative song: artist genre sound on instrument | Crank up Weightless: All Time Low's pop-punk sound on bass
+  0038    hear low end of song by band | Hear the low end of She Sells Sanctuary by The Cult | bass guitar
+  0039    song: artist language view of historical experience | En Livstid I Krig: Sabaton's Swedish view of a lifetime at war - bass performance
+  0040    what happens when artist song meets instrument? | What happens when Rammstein's Amerika meets a bass guitar?
   0041    soundtrack lead single song - artists format             Soundtrack lead single Young, Wild & Free - Snoop Dogg and Wiz bass
   0042    from session to album: band revisit song on instrument     From Peace to Electric: The Cult revisit Love Removal Machine on bass
   0043    band bring place influence to song format                   Muse bring New York club influence to Supermassive Black Hole bass

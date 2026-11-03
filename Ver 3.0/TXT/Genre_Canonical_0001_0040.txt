@@ -18,7 +18,7 @@
 #   He reads the block as a shopping list, so anything printed in it gets added -
 #   including the rows that said DO NOT ADD. The block was self-defeating.
 #
-# HISTORICAL RULE (superseded for 0001-0030 on 2026-11-03; see note below)
+# HISTORICAL RULE (superseded for 0001-0040 on 2026-11-03; see note below)
 #   GENRE FINDINGS   - internal only. Lives in the audit log and the copy file.
 #                      Holds the research, the grey areas and the exclusions.
 #   CORRECT GENRES   - the only thing MAVO sees. Genres that genuinely apply to
@@ -33,10 +33,10 @@
 # best two-word answer.
 # ============================================================================
 
-  NOTE: 0001-0030 now use consistent artist-level lists; they are not song-level classifications.
-  Rows 0031-0040 retain the earlier song-level approach until individually revised.
+  NOTE: 0001-0040 now use consistent artist-level lists; they are not song-level classifications.
+  All rows below now use the artist-level approach.
 
-  CO    SONG                                   GENRES (artist-level for 0001-0030)
+  CO    SONG                                   GENRES (artist-level for 0001-0040)
   ----  -------------------------------------  ----------------------------------------------
   0001  Burzum - Autumn Leaves                 Ambient / Dungeon synth / Black metal / Atmospheric black metal / Dark ambient
   0002  Motionless In White - Another Life     Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
@@ -68,16 +68,16 @@
   0028  Sabaton - Dreadnought  Power metal / Heavy metal
   0029  Amaranthe - Archangel  Trance metal / Metalcore / Melodic death metal / Power metal / Symphonic metal / Pop metal
   0030  Pendulum - Tarantula  Drum and bass / Electronic rock / Industrial rock / Dance-rock
-  0031  All Time Low - Dear Maria, Count Me In  Pop punk / Power pop / Emo pop
-  0032  System Of A Down - Roulette  Acoustic rock
-  0033  Motionless In White - Another Life  Post-grunge / Alternative metal
+  0031  All Time Low - Dear Maria, Count Me In  Pop punk / Pop rock / Power pop / Emo pop / Alternative rock
+  0032  System Of A Down - Roulette  Alternative metal / Nu metal
+  0033  Motionless In White - Another Life  Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
   0034  Sabaton - Steel Commanders  Power metal / Heavy metal
-  0035  Billy Talent - Red Flag  Pop punk / Alternative rock / Punk rock
-  0036  Sabaton - Man Of War  Power metal
-  0037  All Time Low - Weightless  Pop punk
-  0038  The Cult - She Sells Sanctuary  Post-punk / Alternative rock / Gothic rock
-  0039  Sabaton - En Livstid I Krig  Power metal
-  0040  Rammstein - Amerika  Neue Deutsche Haerte
+  0035  Billy Talent - Red Flag  Alternative rock / Punk rock / Post-hardcore / Pop punk / Emo
+  0036  Sabaton - Man Of War  Power metal / Heavy metal
+  0037  All Time Low - Weightless  Pop punk / Pop rock / Power pop / Emo pop / Alternative rock
+  0038  The Cult - She Sells Sanctuary  Hard rock / Gothic rock / Alternative rock / Heavy metal / Post-punk
+  0039  Sabaton - En Livstid I Krig  Power metal / Heavy metal
+  0040  Rammstein - Amerika  Neue Deutsche Haerte / Industrial metal
 
 
 2026-11-03: Rows 0001-0010 replaced after genre/source review; genre classifications are judgments, with album-level evidence noted in each copy file. Rows 0011-0040 are not yet rechecked.

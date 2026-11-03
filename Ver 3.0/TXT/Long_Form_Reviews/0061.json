@@ -6,7 +6,7 @@
     "description": "7dfb0abaf3312a0f38a7f4e49a30889a2c251e20c97c88b77e9391aeb8c3f00e",
     "tags": "1261492cf9667420663f27cf6b951c56afa8774451c7d380b9193914c8645c21",
     "pinned comment": "5a7883a9714a8f6ca94f67348c148b9f872a85350ea880ca5c1978d7d7f48ab5",
-    "genres": "5c9e82a0433cabf6359d74600a9248f24218698ed1c3060fb475cdb330c3a8a2"
+    "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -109,13 +109,19 @@
     {
       "surface": "genres",
       "claim": "Power metal",
-      "source": "https://www.metalkingdom.net/lyrics-song/sabaton-ghost-division-4777",
-      "assessment": "Power metal is supported by the 2008 The Art of War album classification at Metal Kingdom; this is album-level evidence, not a definitive song-only classification."
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
     }
   ],
   "distinct_fact_and_source": "official account of the 7th Panzer Division ; https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/",
   "uniqueness_assessment": "Independent recheck of title, description, tags, proposed pin and CTA against available first-70 copy. No five-word collision remains for this song. Semantic uniqueness beyond the available corpus and future uploads cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Removed unsupported claims about an unanswered radio signal, exact player technique and the thumbnail being the bottleneck; historical viewer comment is not evidence of a current pin. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings.",
+  "uncertainties_and_removed_claims": "Removed unsupported claims about an unanswered radio signal, exact player technique and the thumbnail being the bottleneck; historical viewer comment is not evidence of a current pin. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
