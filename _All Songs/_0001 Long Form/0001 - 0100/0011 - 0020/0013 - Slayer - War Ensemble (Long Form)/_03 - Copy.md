@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (50 characters)
+## TITLE (56 characters)
 
 ```text
-Slayer open Seasons in the Abyss with War Ensemble
+War Ensemble: Slayer's thrash opener gets a bass workout
 ```
 
 ## DESCRIPTION (485 characters)
@@ -34,7 +34,7 @@ Which Slayer album opener makes you want to hear the rest of the record?
 
 ## GENRE FINDINGS (internal)
 
-War Ensemble is identified as thrash metal by a song-level source. Heavy metal is a broad umbrella; speed and extreme metal are not needed as separate confident track-level recommendations.
+Artist-level genres from https://en.wikipedia.org/wiki/Slayer. The consistent artist list is not an assertion that this particular recording fits every genre. See Band Info/Slayer/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 

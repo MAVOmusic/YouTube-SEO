@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (61 characters)
+## TITLE (65 characters)
 
 ```text
-Lonely Day proves System Of A Down can whisper and still land
+Lonely Day turns System Of A Down's intensity inward - bass cover
 ```
 
 ## DESCRIPTION (514 characters)
@@ -20,10 +20,10 @@ Listen for how the low end fits around the vocal and guitar, with my bass playin
 💬 Discuss your go-to ballad with our Discord crowd; a boost means a lot: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (12 tags, 198/500 characters)
+## TAGS (13 tags, 216/500 characters)
 
 ```text
-system of a down, lonely day, system of a down lonely day, hypnotize, alternative metal, soad, soad bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, rocksmith bass system of a down
+system of a down, lonely day, system of a down lonely day, hypnotize, alternative metal, soad, soad bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, rocksmith bass system of a down, system of a dowm
 ```
 
 ## PINNED COMMENT (63 characters)
@@ -34,8 +34,9 @@ What quieter song by a heavy band stays with you after it ends?
 
 ## GENRE FINDINGS (internal)
 
-Song-specific sources classify the track as alternative metal. Nu metal, acoustic rock and hard rock ballad are not sufficiently supported as necessary genre playlists for this recording.
+Artist-level genres from https://www.metalkingdom.net/band/system-of-a-down-24308. The consistent artist list is not an assertion that this particular recording fits every genre. See Band Info/System Of A Down/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
 - Alternative metal
+- Nu metal

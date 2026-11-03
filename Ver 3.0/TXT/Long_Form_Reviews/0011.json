@@ -2,9 +2,9 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "45b3a8fca9d971dd7b4af11cd7b90fec33469891b6021b828d5093a7b52c2bb4",
+    "title": "04c21180296c59cbe8131fcc80f62704d4a24a9a40153b5573d10c9458dfb000",
     "description": "a85e31e1f5a5265bd763376f05fd16a79a170c825fca55e20ad2d0f858e0f847",
-    "tags": "ea3a66e9db1167ef163ceb5c035a378885e9335a3d724d7a1d687df88dea740c",
+    "tags": "2ca7ad7036751bb34fb71290a7858e86cf81c72370da6ca613c2030b203dc02d",
     "pinned comment": "df2b43ad073e7f94659c27f8b84ad82f49517d4c1de26e8bbe06d3509bf18667",
     "genres": "a602b68506134d6482e1ec7b8b06d5f87f2d933943acb200dd20cfc25446bf6c"
   },
@@ -27,12 +27,6 @@
       "claim": "Original piano scoring, contrasted with this four-hour bass loop.",
       "source": "https://www.allmusic.com/composition/nocturne-for-piano-no-2-in-e-flat-major-op-9-2-ct-109-mc0002426096",
       "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
-    },
-    {
-      "surface": "title",
-      "claim": "Chopin on bass for four hours, Nocturne Op. 9 No. 2 on repeat",
-      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0011 - Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2 (Long Form)/_01 - Main Info/0011 - Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2 - Details.jpeg",
-      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
     },
     {
       "surface": "description",
@@ -59,15 +53,33 @@
       "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
     },
     {
+      "surface": "title",
+      "claim": "From piano to bass: Chopin's Nocturne Op. 9 No. 2 for 4 hours",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0011 - Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2 (Long Form)/_01 - Main Info/0011 - Frederic Chopin - Nocturne In Eb Major, Op. 9, No. 2 - Details.jpeg; creator-confirmed bass performance; https://www.mfiles.co.uk/scores/chopin-nocturne-op9-no2.htm",
+      "assessment": "Song/artist and factual hook are supported by cited sources; subjective words are editorial characterisation, not a claim of measured clicks or artist appearing in the video."
+    },
+    {
       "surface": "genres",
-      "claim": "- Classical\n- Romantic classical",
-      "source": "https://www.fabermusic.com/shop/nocturne-in-e-flat-major-op-9-no-2-p462289; https://www.allmusic.com/composition/nocturne-for-piano-no-2-in-e-flat-major-op-9-2-ct-109-mc0002426096",
-      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+      "claim": "Classical",
+      "source": "https://www.mfiles.co.uk/scores/chopin-nocturne-op9-no2.htm",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Romantic classical",
+      "source": "https://www.mfiles.co.uk/scores/chopin-nocturne-op9-no2.htm",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "tags",
+      "claim": "shopen",
+      "source": "https://www.youtube.com/watch?v=EGZZgUSnK4o",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
     }
   ],
   "distinct_fact_and_source": "First publication and original piano scoring, contrasted with this four-hour bass loop. https://www.allmusic.com/composition/nocturne-for-piano-no-2-in-e-flat-major-op-9-2-ct-109-mc0002426096",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Unverified high strings, thumb part, unedited drift, interruptions, phone calls, and no-fade claim removed. Historical Details and pin screenshots are not proof of current live metadata. 2026-11-03 recheck: removed first-publication year; Edition Peters says 1832 (https://www.alfred.com/nocturne-in-e-flat-major-op-9-no-2/p/98-EP73577A/) while another source says 1833 (https://m.musescore.com/classicman/scores/53288).",
+  "uncertainties_and_removed_claims": "Unverified high strings, thumb part, unedited drift, interruptions, phone calls, and no-fade claim removed. Historical Details and pin screenshots are not proof of current live metadata. 2026-11-03 recheck: removed first-publication year; Edition Peters says 1832 (https://www.alfred.com/nocturne-in-e-flat-major-op-9-no-2/p/98-EP73577A/) while another source says 1833 (https://m.musescore.com/classicman/scores/53288). 2026-11-03: artist-level genres requested; individual song may differ. Title click performance untested. Observed spelling variants do not prove prevalence or tag effectiveness.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

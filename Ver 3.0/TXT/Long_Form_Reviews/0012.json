@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "5b8e3d1dd49c55a4d59339ff6426d2f01956eb52312340093f03b2633088a4de",
+    "title": "1f201ae7bab6ef867c2004f62a222769facadf2f8168f49ccbdc1825c4b33792",
     "description": "6a6d8d5cb54e8e3d0de6473e71453bc59aee7d727b7b931695a21e4c87527e39",
-    "tags": "d841dabe88259ffa88748f396643a111d3acd438a460716fbec93163855dadef",
+    "tags": "f3895fbc87803c1d0cfb85588f96a3f0d40ebb3d1cba2a33f9f5d5e9ad8cf6ee",
     "pinned comment": "e0d0301b48dc8396acba11551b873f25ee4a065d026dbafc6340363f43013b99",
-    "genres": "b01db6d633e6ccc79886775d8df092ac4358b90794ed5d52704e219312392a5c"
+    "genres": "a1574812ea508ba8196a8f9f9082b04ad4d2a0771f4dfcdfd25fd5f82ac38629"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -27,12 +27,6 @@
       "claim": "Music video homage to Fight Club; source describes scene reenactments.",
       "source": "https://www.songfacts.com/facts/taking-back-sunday/cute-without-the-e-cut-from-the-team",
       "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
-    },
-    {
-      "surface": "title",
-      "claim": "Taking Back Sunday meet Fight Club in Cute Without The E",
-      "source": "https://www.songfacts.com/facts/taking-back-sunday/cute-without-the-e-cut-from-the-team",
-      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
     },
     {
       "surface": "description",
@@ -59,12 +53,6 @@
       "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
     },
     {
-      "surface": "genres",
-      "claim": "- Emo\n- Post-hardcore\n- Pop punk",
-      "source": "https://concord.com/concord-albums/tell-all-your-friends/; https://www.songfacts.com/facts/taking-back-sunday/cute-without-the-e-cut-from-the-team; https://www.albumoftheyear.org/album/862563-taking-back-sunday-cute-without-the-e.php",
-      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
-    },
-    {
       "surface": "tags",
       "claim": "bass rocksmith",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0012 - Taking Back Sunday - Cute Without The 'E' (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
@@ -75,11 +63,65 @@
       "claim": "cute without the e cover",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0012 - Taking Back Sunday - Cute Without The 'E' (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
       "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
+    },
+    {
+      "surface": "title",
+      "claim": "Cute Without The 'E': a Taking Back Sunday bass cover to follow",
+      "source": "https://www.songfacts.com/facts/taking-back-sunday/cute-without-the-e-cut-from-the-team; creator-confirmed bass performance; https://en.wikipedia.org/wiki/Taking_Back_Sunday",
+      "assessment": "Song/artist and factual hook are supported by cited sources; subjective words are editorial characterisation, not a claim of measured clicks or artist appearing in the video."
+    },
+    {
+      "surface": "genres",
+      "claim": "Emo",
+      "source": "https://en.wikipedia.org/wiki/Taking_Back_Sunday",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Emo pop",
+      "source": "https://en.wikipedia.org/wiki/Taking_Back_Sunday",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Post-hardcore",
+      "source": "https://en.wikipedia.org/wiki/Taking_Back_Sunday",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://en.wikipedia.org/wiki/Taking_Back_Sunday",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://en.wikipedia.org/wiki/Taking_Back_Sunday",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop rock",
+      "source": "https://en.wikipedia.org/wiki/Taking_Back_Sunday",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "tags",
+      "claim": "tbs",
+      "source": "https://tvtropes.org/pmwiki/pmwiki.php/Music/TakingBackSunday",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "taking back sundy",
+      "source": "https://www.billboard.com/pro/yellowcard-taking-back-sunday-headline-four-chord-music-festival/",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
     }
   ],
   "distinct_fact_and_source": "Music video homage to Fight Club; source describes scene reenactments. https://www.songfacts.com/facts/taking-back-sunday/cute-without-the-e-cut-from-the-team",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Removed asserted authorial intention, unverified octave jump, equipment, and schedule. Historical Details and pin screenshots are not proof of current live metadata. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. Recheck: original video-homage source returned 404; replaced with accessible Songfacts corroboration, plus band interview https://chorus.fm/features/interviews/taking-back-sunday-2/.",
+  "uncertainties_and_removed_claims": "Removed asserted authorial intention, unverified octave jump, equipment, and schedule. Historical Details and pin screenshots are not proof of current live metadata. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. Recheck: original video-homage source returned 404; replaced with accessible Songfacts corroboration, plus band interview https://chorus.fm/features/interviews/taking-back-sunday-2/. 2026-11-03: artist-level genres requested; individual song may differ. Title click performance untested. Observed spelling variants do not prove prevalence or tag effectiveness.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

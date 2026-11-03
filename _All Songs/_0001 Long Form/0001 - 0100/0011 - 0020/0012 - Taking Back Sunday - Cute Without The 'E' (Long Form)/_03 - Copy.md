@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (56 characters)
+## TITLE (63 characters)
 
 ```text
-Taking Back Sunday meet Fight Club in Cute Without The E
+Cute Without The 'E': a Taking Back Sunday bass cover to follow
 ```
 
 ## DESCRIPTION (492 characters)
@@ -20,10 +20,10 @@ Learning this bass part? See the Rocksmith notes as a visual guide to my playing
 💬 Recommend a Taking Back Sunday track in Discord, and thank you for any boost: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 242/500 characters)
+## TAGS (17 tags, 266/500 characters)
 
 ```text
-taking back sunday, cute without the e, cute without the e bass, tell all your friends, emo, emo bass, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2000s emo, long island emo, bass rocksmith, cute without the e cover
+taking back sunday, cute without the e, cute without the e bass, tell all your friends, emo, emo bass, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2000s emo, long island emo, bass rocksmith, cute without the e cover, tbs, taking back sundy
 ```
 
 ## PINNED COMMENT (68 characters)
@@ -34,10 +34,13 @@ Which song from Tell All Your Friends would you put beside this one?
 
 ## GENRE FINDINGS (internal)
 
-Label source describes this track in an emo and post-hardcore context. Pop punk appears in classification of the music video and the parent album; classifications overlap.
+Artist-level genres from https://en.wikipedia.org/wiki/Taking_Back_Sunday. The consistent artist list is not an assertion that this particular recording fits every genre. See Band Info/Taking Back Sunday/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
 - Emo
+- Emo pop
 - Post-hardcore
 - Pop punk
+- Alternative rock
+- Pop rock

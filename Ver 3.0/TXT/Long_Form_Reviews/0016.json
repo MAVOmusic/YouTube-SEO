@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "e82ea6373985aafad97fd03885d164888ac0a9ee523e365e3f0054e24c430a66",
+    "title": "5fcb5c6d77afca747ed6026e5a6d53f888b85717e114fe79e1758ff1def79625",
     "description": "69ce690dac535323f2ec9503ab3d4020a57be74d1a93b8d5c44f17b6a91da387",
-    "tags": "beb542beaeabf0d821cd5c418d03b53098c72ff9b0e3f57dfc18996e79182d98",
+    "tags": "6b468e7023efd513326b3660ce19c32d67d2f36b8b7b8d8984c9dc708cab21b3",
     "pinned comment": "10145f676c79ea13495c304adc9f5f3079322ded4d1a1da5e0af28fb61c404d6",
-    "genres": "13020ac924410280561287bad8fa1e2db2c7511b8022e728d53c345cc4832a6b"
+    "genres": "c35a592e9446fe3c53f3849b736f190be198ca0314118bc3d7641240bbabb6e0"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -27,12 +27,6 @@
       "claim": "Malakian writing and lead vocal on a System Of A Down track.",
       "source": "https://www.discogs.com/release/4297962-System-Of-A-Down-Lonely-Day",
       "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
-    },
-    {
-      "surface": "title",
-      "claim": "Lonely Day proves System Of A Down can whisper and still land",
-      "source": "https://soad.fandom.com/wiki/Lonely_Day",
-      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
     },
     {
       "surface": "description",
@@ -59,21 +53,45 @@
       "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
     },
     {
-      "surface": "genres",
-      "claim": "- Alternative metal",
-      "source": "https://soad.fandom.com/wiki/Lonely_Day; https://www.discogs.com/release/4297962-System-Of-A-Down-Lonely-Day",
-      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
-    },
-    {
       "surface": "tags",
       "claim": "rocksmith bass system of a down",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0016 - System Of A Down - Lonely Day (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
       "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
+    },
+    {
+      "surface": "title",
+      "claim": "Lonely Day turns System Of A Down's intensity inward - bass cover",
+      "source": "https://soad.fandom.com/wiki/Lonely_Day; creator-confirmed bass performance; https://www.metalkingdom.net/band/system-of-a-down-24308",
+      "assessment": "Song/artist and factual hook are supported by cited sources; subjective words are editorial characterisation, not a claim of measured clicks or artist appearing in the video."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative metal",
+      "source": "https://www.metalkingdom.net/band/system-of-a-down-24308",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Nu metal",
+      "source": "https://www.metalkingdom.net/band/system-of-a-down-24308",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "tags",
+      "claim": "soad",
+      "source": "https://www.metalkingdom.net/band/system-of-a-down-24308",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "system of a dowm",
+      "source": "https://www.kboing.com.br/playlists/548247/",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
     }
   ],
   "distinct_fact_and_source": "Malakian writing and lead vocal on a System Of A Down track. https://www.discogs.com/release/4297962-System-Of-A-Down-Lonely-Day",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Removed quietest-ever, four notes, no overdubs, Drop C, streaming and promised boost consequences. Track bass credit is inconsistent: Discogs lists Shavo but Soadpedia claims Daron played bass on Lonely Day; removed Shavo tag rather than assert. Historical Details and pin screenshots are not proof of current live metadata. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness.",
+  "uncertainties_and_removed_claims": "Removed quietest-ever, four notes, no overdubs, Drop C, streaming and promised boost consequences. Track bass credit is inconsistent: Discogs lists Shavo but Soadpedia claims Daron played bass on Lonely Day; removed Shavo tag rather than assert. Historical Details and pin screenshots are not proof of current live metadata. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03: artist-level genres requested; individual song may differ. Title click performance untested. Observed spelling variants do not prove prevalence or tag effectiveness.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

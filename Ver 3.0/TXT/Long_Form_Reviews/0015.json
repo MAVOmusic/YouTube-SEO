@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "6b4a6b042b447afbe4c9e5ccfe8a675615a05e21ba9cd96d577f642ad7ed3e86",
+    "title": "01f2a17689e94ba0b702bc9b0167135b06d856d7876f3324542811a378a286eb",
     "description": "97969d9114eb14c0c01cf41755d30a0c0ab6c12b6ef8068212614ce29985a7ee",
     "tags": "b70e30a695512cb0134ced950e808936b50c91a1a1394ae72444726fb0a37235",
     "pinned comment": "abe8f84853c0d24fa239d71a2c29ff66f199bbc1d2e462f198cf656bc01783bf",
-    "genres": "b54345fbbee9c92239cc5984baf233b5e856a424cb987182f5abb1d72439edac"
+    "genres": "b979af642a00669e99e3cd6b8809b44ad7f28634c201f8a3778fa5d58002227e"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -27,12 +27,6 @@
       "claim": "Lyrics use wording resembling German wedding vows.",
       "source": "https://rammstein.fandom.com/wiki/Du_hast_(song)",
       "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
-    },
-    {
-      "surface": "title",
-      "claim": "A wedding vow meets Rammstein in Du Hast",
-      "source": "https://rammstein.fandom.com/wiki/Du_hast_(song)",
-      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
     },
     {
       "surface": "description",
@@ -59,15 +53,33 @@
       "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
     },
     {
+      "surface": "title",
+      "claim": "Du Hast and the wedding vow: Rammstein's industrial bass",
+      "source": "https://rammstein.fandom.com/wiki/Du_hast_(song); creator-confirmed bass performance; https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Song/artist and factual hook are supported by cited sources; subjective words are editorial characterisation, not a claim of measured clicks or artist appearing in the video."
+    },
+    {
       "surface": "genres",
-      "claim": "- Industrial metal\n- Neue Deutsche Haerte",
-      "source": "https://en.wikipedia.org/wiki/Du_hast; https://rammstein.fandom.com/wiki/Du_hast_(song)",
-      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+      "claim": "Neue Deutsche Haerte",
+      "source": "https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Industrial metal",
+      "source": "https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "tags",
+      "claim": "ramstein",
+      "source": "https://www.last.fm/music/Ramstein",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
     }
   ],
   "distinct_fact_and_source": "Lyrics use wording resembling German wedding vows. https://rammstein.fandom.com/wiki/Du_hast_(song)",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Removed unsupported biggest-band claim, single-note count, performance-specific Drop C, fretting-hand and streaming-frequency claims. Historical Details and pin screenshots are not proof of current live metadata.",
+  "uncertainties_and_removed_claims": "Removed unsupported biggest-band claim, single-note count, performance-specific Drop C, fretting-hand and streaming-frequency claims. Historical Details and pin screenshots are not proof of current live metadata. 2026-11-03: artist-level genres requested; individual song may differ. Title click performance untested. Observed spelling variants do not prove prevalence or tag effectiveness.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

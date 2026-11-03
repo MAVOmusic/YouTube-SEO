@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "a20301f5769987b1aa7a616ce2b7150a31c1e8c60fb0705dd4ada89be668c18d",
+    "title": "204539937a10b6fb816491efd67c27711b2d793b40c51abb8e7f351eee7ca166",
     "description": "075974b7effee6056a7f37363350c036714e57d2c5f6c7798f94bcb2ac9ee91f",
-    "tags": "d8acd08a583266132e3003bf5a3dbe5c5855cd9e9d7774df2c94be9c6554b7ca",
+    "tags": "440b0531dc50ed44fef2272df014816eeecd42d78b0ad71816b402a5227fe7cf",
     "pinned comment": "bb688b90a8012bfde32b2aa172a2906a7e62750e8d3459af7ab6fc258c8e857c",
-    "genres": "7bf362c3adf766bf92f35fceeb99701a96f068fb95d61bc0fcab873a893f0dcf"
+    "genres": "dbc46644a49799d4353d9809c27aa9779580d287930057ea2df331e86811cd03"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -27,12 +27,6 @@
       "claim": "Third track and Tim Commerford bass credit, as distinct from other Rage recordings.",
       "source": "https://www.shazam.com/song/191450956/take-the-power-back",
       "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
-    },
-    {
-      "surface": "title",
-      "claim": "Rage Against The Machine credit Tim Commerford on Take The Power Back",
-      "source": "https://www.shazam.com/song/191450956/take-the-power-back ; https://genius.com/Rage-against-the-machine-take-the-power-back-lyrics",
-      "assessment": "Rechecked title against cited source. The wording refers to the original recording or official video and does not imply the artist appears in this performance."
     },
     {
       "surface": "description",
@@ -59,15 +53,51 @@
       "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
     },
     {
+      "surface": "title",
+      "claim": "Take The Power Back: Rage Against The Machine's funk-fuelled bass",
+      "source": "https://www.shazam.com/song/191450956/take-the-power-back ; https://genius.com/Rage-against-the-machine-take-the-power-back-lyrics; creator-confirmed bass performance; https://en.wikipedia.org/wiki/Rage_Against_the_Machine",
+      "assessment": "Song/artist and factual hook are supported by cited sources; subjective words are editorial characterisation, not a claim of measured clicks or artist appearing in the video."
+    },
+    {
       "surface": "genres",
-      "claim": "- Funk metal\n- Rap metal\n- Rap rock\n- Funk rock",
-      "source": "https://genius.com/Rage-against-the-machine-take-the-power-back-lyrics; https://www.shazam.com/song/191450956/take-the-power-back",
-      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+      "claim": "Rap metal",
+      "source": "https://en.wikipedia.org/wiki/Rage_Against_the_Machine",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Rap rock",
+      "source": "https://en.wikipedia.org/wiki/Rage_Against_the_Machine",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Funk metal",
+      "source": "https://en.wikipedia.org/wiki/Rage_Against_the_Machine",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative metal",
+      "source": "https://en.wikipedia.org/wiki/Rage_Against_the_Machine",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "tags",
+      "claim": "ratm",
+      "source": "https://en.wikipedia.org/wiki/Rage_Against_the_Machine",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rage against the mashine",
+      "source": "https://m.soundcloud.com/vladislav-tsaregorodtsev/sets/rage-against-the-mashine",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
     }
   ],
   "distinct_fact_and_source": "Third track and Tim Commerford bass credit, as distinct from other Rage recordings. https://www.shazam.com/song/191450956/take-the-power-back",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Removed unverified Drop D in this performance, no-chorus assertion, player intent, note pattern, universal learner claims and boost reward. Historical Details and pin screenshots are not proof of current live metadata. 2026-11-03 targeted recheck replaced the complete title to remove a subjective or potentially misleading implication.",
+  "uncertainties_and_removed_claims": "Removed unverified Drop D in this performance, no-chorus assertion, player intent, note pattern, universal learner claims and boost reward. Historical Details and pin screenshots are not proof of current live metadata. 2026-11-03 targeted recheck replaced the complete title to remove a subjective or potentially misleading implication. 2026-11-03: artist-level genres requested; individual song may differ. Title click performance untested. Observed spelling variants do not prove prevalence or tag effectiveness.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
