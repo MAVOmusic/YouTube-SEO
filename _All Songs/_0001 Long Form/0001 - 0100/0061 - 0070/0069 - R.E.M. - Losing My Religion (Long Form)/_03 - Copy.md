@@ -2,22 +2,22 @@
 
 > Copy the title, description, tags and proposed pin. Genre findings are internal.
 
-## TITLE (59 characters)
+## TITLE (55 characters)
 
 ```text
-Peter Buck found Losing My Religion while learning mandolin
+R.E.M. Losing My Religion won a 1992 performance Grammy
 ```
 
-## DESCRIPTION (482 characters)
+## DESCRIPTION (489 characters)
 
 ```text
-Peter Buck has described discovering the idea for R.E.M.'s Losing My Religion while learning mandolin. Their 1991 album Out of Time includes the song.
+The Recording Academy lists R.E.M.'s Losing My Religion as the 1992 winner of Best Pop Performance by a Duo or Group with Vocal. The song appears on Out of Time.
 
 Bass and the game display appear together in my performance.
 
-🟢 Talk about instruments you want to learn on Kick: https://kick.com/mavomusic
-🟣 You can watch the parallel broadcast on Twitch: https://www.twitch.tv/mavomusic
-💬 Share instrument-learning stories with Discord members; boosts are welcome: https://discord.gg/ESGsGkN4j2
+🟢 Share a performance you would nominate on Kick: https://kick.com/mavomusic
+🟣 The broadcast reaches Twitch as a mirror: https://www.twitch.tv/mavomusic
+💬 Debate your personal music-award choices in Discord; server boosts are welcome: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (14 tags, 180/500 characters)
@@ -29,7 +29,7 @@ rem, r.e.m., losing my religion, rem losing my religion, out of time, peter buck
 ## PINNED COMMENT (45 characters)
 
 ```text
-What instrument would you like to learn next?
+Which performance would you give an award to?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)

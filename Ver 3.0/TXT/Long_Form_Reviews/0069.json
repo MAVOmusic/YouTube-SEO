@@ -2,10 +2,10 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "df6d932be4f396cbdf15107baf273b056382f7a9c8414cfaf35ddf421b2d6e97",
-    "description": "2f7531c1561ecff13df3bbd670adb4d8a8c4387d3e9c3ecac986ca4a1faba1c1",
+    "title": "b02172f431be79f8fda3130fa345d6863f38491221601c1f61ff7259d839b8ef",
+    "description": "ca20c1d9310ffd8e950a5d068b1ecffc2d173b596308277a360994921540484a",
     "tags": "008ac3e3595a2a0c3d8880f0a35a9731301abd716efa07b688ba33bf7bb8a849",
-    "pinned comment": "de2009ece929628b1a0f57b6f29735321041e6e58e2ae92f1f0af8e7d90d98c3",
+    "pinned comment": "eafc2db0d459bcd8eee7873615f674085e6bde4721933670a25881f58d3d7ff2",
     "genres": "350430e5240bc86f576cbca70affb7d0640482560336579e1ef0b3bda7a92044"
   },
   "reviewed_surfaces": {
@@ -18,15 +18,15 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Peter Buck found Losing My Religion while learning mandolin",
-      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Fact and upload identity checked against historical details and cited source."
+      "claim": "R.E.M. Losing My Religion won a 1992 performance Grammy",
+      "source": "https://www.grammy.com/artists/rem/16369/",
+      "assessment": "Recording Academy winner listing concerns the original R.E.M. performance, not this bass cover."
     },
     {
       "surface": "description",
-      "claim": "Peter Buck has described discovering the idea for R.E.M.'s Losing My Religion while learning mandolin. Their 1991 album Out of Time includes the song.",
-      "source": "https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion",
-      "assessment": "Specific factual angle checked; director credits refer to artist videos, not this performance."
+      "claim": "The Recording Academy lists R.E.M.'s Losing My Religion as the 1992 winner of Best Pop Performance by a Duo or Group with Vocal. The song appears on Out of Time.",
+      "source": "https://www.grammy.com/artists/rem/16369/",
+      "assessment": "Recording Academy winner listing concerns the original R.E.M. performance, not this bass cover."
     },
     {
       "surface": "description",
@@ -126,7 +126,7 @@
     },
     {
       "surface": "pinned comment",
-      "claim": "What instrument would you like to learn next?",
+      "claim": "Which performance would you give an award to?",
       "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0069 - R.E.M. - Losing My Religion (Long Form)/_01 - Main Info/_03 Comments.jpeg",
       "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
     },
@@ -143,9 +143,9 @@
       "assessment": "The Losing My Religion song page classifies it as alternative rock and folk rock; these are subjective song-level recommendations."
     }
   ],
-  "distinct_fact_and_source": "Peter Buck mandolin practice origin ; https://www.songfacts.com/facts/rem/losing-my-religion ; https://en.wikipedia.org/wiki/Losing_My_Religion",
-  "uniqueness_assessment": "Independent recheck of title, description, tags, proposed pin and CTA against available first-70 copy. No five-word collision remains for this song. Semantic uniqueness beyond the available corpus and future uploads cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Mandolin origin is attributed to Buck as reported by a secondary source, not an exclusive reading of the lyrics. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. Songfacts quotes a 1991 Guitar School interview; that original print interview was not independently accessed.",
+  "distinct_fact_and_source": "Recording Academy 1992 performance award ; https://www.grammy.com/artists/rem/16369/",
+  "uniqueness_assessment": "Reviewed against available first-70 corpus. No five-word collision signals. No guarantee can be made for unseen or future uploads.",
+  "uncertainties_and_removed_claims": "Replaced the prior account relying on an inaccessible original interview or blog. Recording Academy winner listing concerns the original R.E.M. performance, not this bass cover. Genre labels are subjective. Historical screenshots do not verify current pins, restrictions, earnings or continuous video visibility.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

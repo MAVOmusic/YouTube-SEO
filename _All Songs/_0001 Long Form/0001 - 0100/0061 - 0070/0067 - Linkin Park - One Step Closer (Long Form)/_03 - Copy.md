@@ -5,19 +5,19 @@
 ## TITLE (60 characters)
 
 ```text
-Plaster was the working title of Linkin Park One Step Closer
+Jonathan Davis guests on a Linkin Park One Step Closer remix
 ```
 
-## DESCRIPTION (493 characters)
+## DESCRIPTION (491 characters)
 
 ```text
-Mike Shinoda confirmed that Plaster was the working title for Linkin Park's One Step Closer. The finished song appears on Hybrid Theory, released in 2000.
+The Humble Brothers remixed Linkin Park's One Step Closer as 1stp Klosr for Reanimation, featuring Jonathan Davis. That remix is a separate recording from this bass cover.
 
-My bass performance sits alongside the game chart.
+The chart appears next to my bass playing.
 
-🟢 Tell me a memorable working title during a Kick session: https://kick.com/mavomusic
-🟣 Twitch carries that broadcast for its own audience: https://www.twitch.tv/mavomusic
-💬 Trace changing song titles together on Discord - any server boost is appreciated: https://discord.gg/ESGsGkN4j2
+🟢 Suggest a guest vocalist for a Linkin Park song during a Kick session: https://kick.com/mavomusic
+🟣 For the mirror, head over to Twitch: https://www.twitch.tv/mavomusic
+💬 Imagine unexpected vocal collaborations on Discord; boosts are welcome: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (11 tags, 160/500 characters)
@@ -26,10 +26,10 @@ My bass performance sits alongside the game chart.
 linkin park, one step closer, linkin park one step closer, hybrid theory, joe hahn, chester bennington, mike shinoda, nu metal, 2000, bass cover, rocksmith bass
 ```
 
-## PINNED COMMENT (69 characters)
+## PINNED COMMENT (57 characters)
 
 ```text
-Which early song title do you find more memorable than the final one?
+Which vocalist would you invite onto a Linkin Park track?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)

@@ -2,18 +2,18 @@
 
 > Copy the title, description, tags and proposed pin. Genre findings are internal.
 
-## TITLE (57 characters)
+## TITLE (64 characters)
 
 ```text
-Adam Gontier on the numbness behind Three Days Grace Pain
+Brad Walst has the original bass credit on Three Days Grace Pain
 ```
 
-## DESCRIPTION (449 characters)
+## DESCRIPTION (442 characters)
 
 ```text
-Adam Gontier described Pain as being about feeling numb and being tired of that feeling. The Three Days Grace song appears on One-X, released in 2006.
+A 2006 Canadian CD single of Three Days Grace's Pain credits Brad Walst on bass and backing vocals. You can find the song on their One-X album.
 
-My bass part is performed beside the game display.
+I play bass beside the game display in this cover.
 
 🟢 Bring a favourite One-X track over to Kick: https://kick.com/mavomusic
 🟣 Catch the mirrored stream via Twitch: https://www.twitch.tv/mavomusic
@@ -26,10 +26,10 @@ My bass part is performed beside the game display.
 three days grace, pain, three days grace pain, one x, one-x, adam gontier, brad walst, post grunge, alternative rock, 2006, bass cover, rocksmith bass
 ```
 
-## PINNED COMMENT (44 characters)
+## PINNED COMMENT (55 characters)
 
 ```text
-Which song on One-X resonates most with you?
+Which Brad Walst bass part would you recommend hearing?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)
