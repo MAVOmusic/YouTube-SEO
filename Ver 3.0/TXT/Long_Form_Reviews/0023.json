@@ -2,7 +2,7 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "0b46f8a3b0ce760dbb05911f2dc3d328a9807110117c5de8d18b12229fcc8cf7",
+    "title": "b6becd933fccb4c5cb70a93fc621b2fc8baeb32952b32f6c200c930d0d6cee1a",
     "description": "eb7e2650eea74ce777f738d5ec73cd6822367c4660a760fb4ce9953c1aa5f1ad",
     "tags": "4bfd30bc1b3a352289818aedb9e5f66c2a9b92fc37805ba91a5ac826a9abefbd",
     "pinned comment": "dbc749156e4322d4613f5730a11353862c8a02c9c3207ca7fe1099e469cb29e0",
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "A Stan Ridgway story retold by Sabaton on bass",
+      "claim": "Sabaton Camouflage on bass - revisiting Stan Ridgway's song",
       "source": "https://en.wikipedia.org/wiki/Camouflage_(Stan_Ridgway_song) ; https://www.metal-archives.com/albums/Sabaton/The_Last_Stand/587158; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0023 - Sabaton - Camouflage (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Title identities and release angle checked; bass format based on screenshot and MAVO confirmation, not note-by-note footage."
+      "assessment": "Song and cover relationship supported by record sources; bass performance is user-confirmed. Title performance not guaranteed."
     },
     {
       "surface": "description",

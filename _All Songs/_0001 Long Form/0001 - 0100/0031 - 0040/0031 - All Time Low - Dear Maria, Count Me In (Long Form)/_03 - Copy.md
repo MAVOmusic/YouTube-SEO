@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre sections are for playlist decisions only.
 
-## TITLE (64 characters)
+## TITLE (59 characters)
 
 ```text
-Track six becomes a bass playthrough: Dear Maria by All Time Low
+Dear Maria, Count Me In on bass - All Time Low in Rocksmith
 ```
 
 ## DESCRIPTION (451 characters)

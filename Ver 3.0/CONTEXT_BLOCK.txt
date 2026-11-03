@@ -2387,3 +2387,7 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-03 - Four-claim correction validation: first-70 record gate, 3 unit tests, verify.sh, revised copy counts and typography, and git diff --check passed. Mechanical gates cannot establish truth or global originality.
 
 2026-11-03 - CO-0028: historical Reach 2 screenshot explicitly lists "rock smith" and "sabaton" in a 2.6% search-traffic slice. Restored the relevant observed misspelling rock smith to the tag set, updated its source record and refreshed the first-70 ZIP. This is a small historical observation, not proof tags caused the traffic or will improve discovery.
+
+2026-11-03 - CO-0031 title corrected after user challenged SEO: removed low-interest track-number opener and restored full Dear Maria, Count Me In title, All Time Low, bass and Rocksmith. Previous title was not demonstrated optimal and obscured the complete searchable song name. This is a reasoned improvement, not a measured CTR guarantee. First-70 title effectiveness has not been individually reaudited or A/B tested. Updated the downloadable ZIP.
+
+2026-11-03 - CO-0023 title corrected alongside 0031: prior title omitted the actual song name Camouflage. Replacement names Sabaton, Camouflage and bass, and retains the supported connection to Stan Ridgway. This is not a claim of measured superiority.
