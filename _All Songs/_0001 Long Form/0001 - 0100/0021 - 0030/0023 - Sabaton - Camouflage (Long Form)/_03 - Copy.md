@@ -2,10 +2,10 @@
 
 > Copy the title, description and tags. Genre findings are for playlist decisions only.
 
-## TITLE (46 characters)
+## TITLE (59 characters)
 
 ```text
-A Stan Ridgway story retold by Sabaton on bass
+Sabaton Camouflage on bass - revisiting Stan Ridgway's song
 ```
 
 ## DESCRIPTION (443 characters)

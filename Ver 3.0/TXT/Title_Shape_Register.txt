@@ -87,7 +87,7 @@
           was: Babymetal's Megitsune is a folk melody riding a bass that never rests
   0021    imperative bring song by artist to instrument            Bring Jailhouse Rock by Elvis Presley to the bass
   0022    song on bass: artist album cut                Together on bass: an Avril Lavigne album cut
-  0023    creator story retold by band on bass          A Stan Ridgway story retold by Sabaton on bass
+  0023    band song on bass - revisiting original creator song | Sabaton Camouflage on bass - revisiting Stan Ridgway's song
   0024    from album to instrument: band song       From Fist for Fight to bass: Sabaton's The Hammer Has Fallen
   0025    composer meets band on song bass              Tchaikovsky meets Aephanemer on Old French Song bass
   0026    band bring song to format bass                Alien Fucker bring Arabic UFO Party to Rocksmith bass
@@ -95,7 +95,7 @@
   0028    song inspires band: bass run through subject  Dreadnought inspires Sabaton: a bass run through naval history
   0029    song and book: band on format bass            Archangel and Paradise Lost: Amaranthe on Rocksmith bass
   0030    two artists join forces on song bass          Pendulum and DJ Fresh join forces on Tarantula bass
-  0031    track ordinal becomes format: song by band             Track six becomes a bass playthrough: Dear Maria by All Time Low
+  0031    full song on bass - artist in game | Dear Maria, Count Me In on bass - All Time Low in Rocksmith
   0032    song takes band into style on instrument               Roulette takes System Of A Down into acoustic territory on bass
   0033    number of writers behind song, played on band instrument Three writers behind Another Life, played on Motionless In White bass
   0034    game and instrument: band on song format               World of Tanks and a cello: Sabaton on Steel Commanders bass

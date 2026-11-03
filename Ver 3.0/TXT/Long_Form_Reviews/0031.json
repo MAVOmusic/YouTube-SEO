@@ -2,7 +2,7 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "389d1f8341242e1f40892642306f4d0d3fb50e99faabc9a6621793c1b25d4546",
+    "title": "5f5d7ad1a3d81368688bbd8661b856f713e13128e842530ffb9886fd7f6e3111",
     "description": "ae2a13040e7daffd30693bec861b8a82667d5982792a0923bfc598800c02650c",
     "tags": "5ef8bc6ec827096ae649a1937a63bd0bc94276e06f2329d47e3430cd3132b47f",
     "pinned comment": "a447c2d72c1bdd695d6ac04031a3db7f1b98d91afd856e608e612109d3a57f8b",
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Track six becomes a bass playthrough: Dear Maria by All Time Low",
+      "claim": "Dear Maria, Count Me In on bass - All Time Low in Rocksmith",
       "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg ; https://www.amazon.com/Dear-Maria-Count-Me-In/dp/B0754LRR36",
-      "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
+      "assessment": "Full song and artist identity are sourced; Rocksmith bass performance is confirmed by user and historical Details screenshot. Search or click performance is not guaranteed."
     },
     {
       "surface": "description",
