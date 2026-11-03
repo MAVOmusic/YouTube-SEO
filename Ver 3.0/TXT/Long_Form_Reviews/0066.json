@@ -1,0 +1,134 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "a45e222538e04383c53f0c65e5026fa460c868a2c6c0e95a81752f148449d995",
+    "description": "33aab001c288aa77cdd9f3230960b349e57ce5dc4495e3b0470a1ee97d64ab9d",
+    "tags": "34071cd7726e0754fa411d48b33ee549c31d46bf73f614d9b5942a0bf0d038a1",
+    "pinned comment": "d3ecf48d895dabc50c5d92eb54a374e67ec0b0aba9d6a062f43df742a592a44c",
+    "genres": "f141ecc8f8fa68d4222d4a157a58f8a03c2d39fcdd458077f072259f956fea6c"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Try Honesty: Sean Michael Turrell directs Billy Talent",
+      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Fact and upload identity checked against historical details and cited source."
+    },
+    {
+      "surface": "description",
+      "claim": "Sean Michael Turrell directed Billy Talent's Try Honesty music video in 2003. Try Honesty features on the self-titled album; the band video is separate from this upload.",
+      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/",
+      "assessment": "Specific factual angle checked; director credits refer to artist videos, not this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "The game chart appears beside my bass performance.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay is on screen",
+      "assessment": "User-confirmed playing format; no note-level, take-count or continuous-overlay claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, mirrored Twitch, Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in required order; no schedule or reward promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy talent",
+      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "try honesty",
+      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy talent try honesty",
+      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy talent i",
+      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "benjamin kowalewicz",
+      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "jon gallant",
+      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative rock",
+      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop punk",
+      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "2003",
+      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_01 Description.jpeg ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 1.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which early Billy Talent video would you revisit today?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0066 - Billy Talent - Try Honesty (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. Retain visible real viewer conversation."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    }
+  ],
+  "distinct_fact_and_source": "Try Honesty video director ; https://imvdb.com/video/billy-talent/try-honesty ; https://rateyourmusic.com/release/album/billy-talent/billy-talent-4/",
+  "uniqueness_assessment": "No five-word collision signals in the available corpus. Distinct angles, questions and titles reviewed against available songs; unseen and future videos cannot be certified.",
+  "uncertainties_and_removed_claims": "Artist music video is a separate production. Retain the viewer conversation shown in the historical image. Screenshots are historical and incomplete; genre recommendations remain subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

@@ -1,0 +1,128 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "d154ff6af8bac960c179033ef5d1c0e25b55c6d9d37c442bd4974cc7845a4d83",
+    "description": "d627f2c733485f6e33d33bf357580d5a6fce64b385e9bddd75e922f55f80edb4",
+    "tags": "3dee964e06a6a53829dd8b97b87852dd4139c65bf364b3f98c89fcce4ebb601f",
+    "pinned comment": "7b7f4b1fe9c19a4eb7a0d7d16b67b27b47d75d7548c2a6087dfbb965393f0c52",
+    "genres": "fad5b4028167cd6c184cebeb86fa8ebde18a0cdd00b3769ada75e9cacbf76d0c"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Joe Hahn conceived the One Step Closer video for Linkin Park",
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Fact and upload identity checked against historical details and cited source."
+    },
+    {
+      "surface": "description",
+      "claim": "The music video for Linkin Park's One Step Closer credits Joe Hahn with its concept and Gregory Dark as director. This bass performance is separate from that video.",
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/",
+      "assessment": "Specific factual angle checked; director credits refer to artist videos, not this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "I play bass alongside the visible Rocksmith chart.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay is on screen",
+      "assessment": "User-confirmed playing format; no note-level, take-count or continuous-overlay claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, mirrored Twitch, Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in required order; no schedule or reward promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "linkin park",
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; https://rateyourmusic.com/release/single/linkin-park/one-step-closer/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "one step closer",
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; https://rateyourmusic.com/release/single/linkin-park/one-step-closer/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "linkin park one step closer",
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; https://rateyourmusic.com/release/single/linkin-park/one-step-closer/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "hybrid theory",
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; https://rateyourmusic.com/release/single/linkin-park/one-step-closer/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "joe hahn",
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; https://rateyourmusic.com/release/single/linkin-park/one-step-closer/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "chester bennington",
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; https://rateyourmusic.com/release/single/linkin-park/one-step-closer/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "mike shinoda",
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; https://rateyourmusic.com/release/single/linkin-park/one-step-closer/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "nu metal",
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; https://rateyourmusic.com/release/single/linkin-park/one-step-closer/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "2000",
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; https://rateyourmusic.com/release/single/linkin-park/one-step-closer/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; https://rateyourmusic.com/release/single/linkin-park/one-step-closer/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/ ; https://rateyourmusic.com/release/single/linkin-park/one-step-closer/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which Linkin Park visual concept do you remember most?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
+    },
+    {
+      "surface": "genres",
+      "claim": "Nu metal",
+      "source": "https://rateyourmusic.com/release/single/linkin-park/one-step-closer/",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    }
+  ],
+  "distinct_fact_and_source": "Joe Hahn video concept credit ; https://imvdb.com/video/linkin-park/one-step-closer ; https://rateyourmusic.com/release/musicvideo/linkin-park/one-step-closer/",
+  "uniqueness_assessment": "No five-word collision signals in the available corpus. Distinct angles, questions and titles reviewed against available songs; unseen and future videos cannot be certified.",
+  "uncertainties_and_removed_claims": "Hahn is credited for concept; director credit also names Gregory Dark. Do not imply this upload contains the official video. Screenshots are historical and incomplete; genre recommendations remain subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

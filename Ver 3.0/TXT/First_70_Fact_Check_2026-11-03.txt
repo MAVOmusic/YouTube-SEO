@@ -635,3 +635,38 @@ A shared five-word signal in 0053-0057 and 0059 is the actual album title
 When Your Heart Stops Beating, occasionally with an adjoining common word; it
 is a necessary factual identifier, not a reused writing angle. Unseen or future
 videos have not been checked. Machine gate does not establish factual truth.
+
+2026-11-03 - 0061-0070 FIVE-SURFACE RECHECK
+Viewed own-folder Details, comments, Reach and Revenue screenshots. Replaced
+all titles, descriptions, tags, proposed pins and genre recommendations;
+individual evidence records document source limits and removed assertions.
+0061 and 0066 contain real viewer conversations to retain. No artist comment
+is visible in the captured panels; check current comments before selecting a
+pin. The 0068 Details screen showed partial blocking, and all ten showed
+ineligible to earn at capture; neither proves present status. Revenue cards
+show estimated revenue as a dash, not a numeric GBP 0.00. This supersedes
+old copy notes that presented the dash as zero. No additional positive amount
+is shown in these screenshots. Existing positive historical total remains
+GBP 0.751 across six documented earners; it is not a current balance.
+
+Visible query cards: 0061 sabaton ghost division, sabaton metal machine;
+0062 insufficient data; 0063 rocksmith bass; 0064 primo victoria, sabaton;
+0065 come as you are, rocksmith, back in black, come as you are live and loud,
+rocksmith bass; 0066 rocksmith bass; 0067 insufficient data; 0068 fleetwood;
+0069 insufficient data; 0070 billy talent live. Kept relevant terms; excluded
+unrelated songs and queries likely seeking live performances by the original
+acts. Reach cards are partial historical evidence, not proof of tag causation.
+0065 Reach 1 screenshot omits the top headline; do not invent it. Advertising
+traffic reflects MAVO's own paid promotion, not organic audience evidence.
+
+Distinct fact angles: 0061 the band's account of the 7th Panzer Division;
+0062 Gontier's reported comment on numbness; 0063 a review connects Hilf Mir
+to the Pauline story; 0064 the band's Saving Private Ryan account; 0065 a
+European single credits Butch Vig and Nirvana; 0066 Try Honesty's video
+director; 0067 Joe Hahn's video-concept credit; 0068 a particular 1976 single
+and its B-side writers; 0069 Peter Buck's mandolin practice account; 0070
+specific album sequence. Source type and genre limitations appear in each JSON.
+Artist video facts do not claim those videos appear in MAVO's performances.
+Common Discord-invitation five-word signals on 0065 and 0068 were examined;
+they are not shared factual angles. No automated gate can prove every fact or
+semantic uniqueness, and unseen or future uploads were not compared.

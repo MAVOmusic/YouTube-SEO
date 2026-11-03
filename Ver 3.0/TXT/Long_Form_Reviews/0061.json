@@ -1,0 +1,122 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "e8de11228a502953eb5f069e1db91615ed232647f8f25ff643083e1115f2aab1",
+    "description": "7dfb0abaf3312a0f38a7f4e49a30889a2c251e20c97c88b77e9391aeb8c3f00e",
+    "tags": "1261492cf9667420663f27cf6b951c56afa8774451c7d380b9193914c8645c21",
+    "pinned comment": "5a7883a9714a8f6ca94f67348c148b9f872a85350ea880ca5c1978d7d7f48ab5",
+    "genres": "5c9e82a0433cabf6359d74600a9248f24218698ed1c3060fb475cdb330c3a8a2"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Ghost Division and the 7th Panzer: Sabaton's history in song",
+      "source": "https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Fact and upload identity checked against historical details and cited source."
+    },
+    {
+      "surface": "description",
+      "claim": "Sabaton describe Ghost Division as a song about the German 7th Panzer Division and its 1940 campaign in Belgium and France. It appears on The Art of War, released in 2008.",
+      "source": "https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/",
+      "assessment": "Specific factual angle checked; director credits refer to artist videos, not this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "This Rocksmith performance shows my bass playing beside the chart.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay is on screen",
+      "assessment": "User-confirmed playing format; no note-level, take-count or continuous-overlay claim."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, mirrored Twitch, Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in required order; no schedule or reward promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton",
+      "source": "https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/ ; https://www.sabaton.net/discography/the-art-of-war/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "ghost division",
+      "source": "https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/ ; https://www.sabaton.net/discography/the-art-of-war/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton ghost division",
+      "source": "https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/ ; https://www.sabaton.net/discography/the-art-of-war/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_01 Description.jpeg ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 1.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "the art of war",
+      "source": "https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/ ; https://www.sabaton.net/discography/the-art-of-war/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "7th panzer division",
+      "source": "https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/ ; https://www.sabaton.net/discography/the-art-of-war/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "erwin rommel",
+      "source": "https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/ ; https://www.sabaton.net/discography/the-art-of-war/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "power metal",
+      "source": "https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/ ; https://www.sabaton.net/discography/the-art-of-war/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "2008",
+      "source": "https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/ ; https://www.sabaton.net/discography/the-art-of-war/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/ ; https://www.sabaton.net/discography/the-art-of-war/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/ ; https://www.sabaton.net/discography/the-art-of-war/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Relevant identity, credits, recording, genre or performance format. Search cards are partial historical observations, not proof of tag impact."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which history-themed song sent you looking for more information?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0061 - Sabaton - Ghost Division (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. Retain visible real viewer conversation."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power metal",
+      "source": "https://www.sabaton.net/discography/the-art-of-war/",
+      "assessment": "Subjective genre recommendation; some classifications are for the release or album, not uniquely the song."
+    }
+  ],
+  "distinct_fact_and_source": "official account of the 7th Panzer Division ; https://www.sabaton.net/discography/the-art-of-war/ghost-division/ ; https://www.sabaton.net/discography/the-art-of-war/",
+  "uniqueness_assessment": "No five-word collision signals in the available corpus. Distinct angles, questions and titles reviewed against available songs; unseen and future videos cannot be certified.",
+  "uncertainties_and_removed_claims": "Removed unsupported claims about an unanswered radio signal, exact player technique and the thumbnail being the bottleneck; historical viewer comment is not evidence of a current pin. Screenshots are historical and incomplete; genre recommendations remain subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}
