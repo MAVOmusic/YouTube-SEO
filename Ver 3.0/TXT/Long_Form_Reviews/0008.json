@@ -2,7 +2,7 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "f107aef44ea0ad42dbd3fb6485c500f3f59b4170ae5fb47226c81d4d45a68524",
+    "title": "0c442b5009a24fb0df82bda2673c7c5bf9b178c245a63f285394336b4939a15a",
     "description": "efc70405d3d142f6a733f17123c02b9af2718727886aaf3bdb0a65b3134a32e0",
     "tags": "c4c385e4602c6f5c89e48e9572427f8dddca0a9fc9c60d81a43500d16791a596",
     "pinned comment": "a289d71404476d658620dd97821f63cc66669433d9ca4568b07f1b0dca934ca0",
@@ -144,9 +144,9 @@
     },
     {
       "surface": "title",
-      "claim": "The bittersweet side of Green Day: X-Kid on bass",
+      "claim": "A bittersweet Green Day track meets Rocksmith bass: X-Kid",
       "source": "https://en.wikipedia.org/wiki/X-Kid; user-confirmed bass performance",
-      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload."
+      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload. Revised wording varies a repeated closer; no spam threshold or measured CTR claim."
     },
     {
       "surface": "genres",

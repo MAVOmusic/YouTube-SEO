@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (60 characters)
+## TITLE (61 characters)
 
 ```text
-Another Life by Motionless In White hits differently on bass
+Another Life hits differently with bass - Motionless In White
 ```
 
 ## DESCRIPTION (533 characters)

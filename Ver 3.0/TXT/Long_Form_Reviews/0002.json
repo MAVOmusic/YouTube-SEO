@@ -2,7 +2,7 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "380d23858a6cdb1a356d58666d3705376a0b2024c54b385283899eb84d76afb4",
+    "title": "404401573a2143b148509d1b60d51895265e98eb7848ce3ef3337bf61bd0c72d",
     "description": "0283959343f5feaf3a14deb86a20420d2577481f8863a4b11e0886036771e218",
     "tags": "2926733597f447eca3c3167842a7f56895e6cf6849b26bead48c8178b81943c1",
     "pinned comment": "41e5094b3198a6e1799bdc8e4379c814ea341ae59d0bc6a3f060b923500cff08",
@@ -132,9 +132,9 @@
     },
     {
       "surface": "title",
-      "claim": "Another Life by Motionless In White hits differently on bass",
+      "claim": "Another Life hits differently with bass - Motionless In White",
       "source": "https://www.loudersound.com/news/motionless-in-white-launch-video-for-punchy-new-single-another-life; user-confirmed bass performance",
-      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload."
+      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload. Revised wording varies a repeated closer; no spam threshold or measured CTR claim."
     },
     {
       "surface": "genres",
@@ -180,9 +180,9 @@
     }
   ],
   "distinct_fact_and_source": "Audience feedback informed the selection of the single, distinct from the director angle on 0004. https://www.altpress.com/motionless-in-white-another-life-music-video/",
-  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 2 five-word matches. Both signals are required song and artist identity shared with the separate Another Life upload. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
+  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 2 five-word matches. Both signals are required song and artist identity shared with the separate Another Life upload. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality. 2026-11-03: collision signals refreshed after first-ten closer revisions; shared names and phrases require human interpretation.",
   "uncertainties_and_removed_claims": "Removed unverified Drop C and model tags previously; single-date sources differ between December 2019 and January 2020, so no precise single date is asserted. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03 targeted recheck replaced the complete title to remove a subjective or potentially misleading implication. 2026-11-03: genre list now refers to artist classifications, not a song-level guarantee. Typo examples are observed, not verified common search terms; title effectiveness untested.",
-  "collision_report_sha256": "9a0a50052eb2bc3b911e7d1207b6e88f2eb715547ab5b9044b3d2d202e248ea5",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
 }

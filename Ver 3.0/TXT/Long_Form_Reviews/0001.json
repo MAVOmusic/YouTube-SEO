@@ -2,7 +2,7 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "2cb7352b2cc54c6e050d320f14d6beefc6672f3547bf1a7f2bec4e82d869db93",
+    "title": "b67178f1336c8c336d12be8251bf38c042a7250c5a6777d7156954c5f98a66c4",
     "description": "849a4ac2ec7da7530d56987a2d20802bfcabb0d2b330ebae53684e9dfd39d070",
     "tags": "0ed5f9dff317a742fe6820284d2e2a3cc71f1628191f7f31061b848f56a68f6d",
     "pinned comment": "ca9a5ea82bdacc28285ae4de12d42b10fdcf850a810e53702ff7e6d2ec5b826d",
@@ -126,9 +126,9 @@
     },
     {
       "surface": "title",
-      "claim": "An hour of Autumn Leaves by Burzum, played on bass",
+      "claim": "An hour of Burzum's Autumn Leaves with bass in the mix",
       "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; user-confirmed bass performance",
-      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload."
+      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload. Revised wording varies a repeated closer; no spam threshold or measured CTR claim."
     },
     {
       "surface": "genres",

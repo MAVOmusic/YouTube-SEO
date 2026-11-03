@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (50 characters)
+## TITLE (54 characters)
 
 ```text
-An hour of Autumn Leaves by Burzum, played on bass
+An hour of Burzum's Autumn Leaves with bass in the mix
 ```
 
 ## DESCRIPTION (532 characters)

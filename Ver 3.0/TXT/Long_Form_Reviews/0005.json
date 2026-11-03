@@ -2,7 +2,7 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "a6d71920080bd6cdeb45ca00cc227bc46ecbf973e71b9fc4c1a86069c6b09bb8",
+    "title": "1feea1bd80f34a33347c95e49f0ce99567549f6b0c2b3a3325f243cbea85cb1c",
     "description": "1e6d6b8a362d0415e7875c43b592774ba4afb3ed818d033aed39a1ae71d5c67f",
     "tags": "6e2017a5b605368fbd09b491e32b41641ec7ecf01579c8fcbfc098212a99bff7",
     "pinned comment": "5a95d5f4c0fc93c6fc2a9897a8f78bba44c2afe05a8c2d9dc89e8002f9c479dd",
@@ -138,9 +138,9 @@
     },
     {
       "surface": "title",
-      "claim": "Salem's shadow in Abigail - Motionless In White on bass",
+      "claim": "Salem's shadow in Abigail - Motionless In White bass playthrough",
       "source": "http://mousertime.blogspot.com/2011/02/motionless-in-white-interview-with.html; user-confirmed bass performance",
-      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload."
+      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload. Revised wording varies a repeated closer; no spam threshold or measured CTR claim."
     },
     {
       "surface": "genres",

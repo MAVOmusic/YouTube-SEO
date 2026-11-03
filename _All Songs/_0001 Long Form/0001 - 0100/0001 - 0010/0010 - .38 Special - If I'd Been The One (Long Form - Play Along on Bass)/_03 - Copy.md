@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (68 characters)
+## TITLE (58 characters)
 
 ```text
-That Southern rock groove: .38 Special's If I'd Been The One on bass
+Southern rock bass meets .38 Special's If I'd Been The One
 ```
 
 ## DESCRIPTION (481 characters)

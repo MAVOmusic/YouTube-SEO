@@ -2,7 +2,7 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "2135c7559540c3491b7646669ae17d9d968d9a337c65ce7ea63948a36b9bbb74",
+    "title": "21d436501b720c7439266e0f56f2309a70e2a9fd514ea935b857fd27922cd83e",
     "description": "780f08c6b94f90f16f8b15d3ceeab531a1918a2473f5046c64c6c806af50504e",
     "tags": "1a0b66f09fa80e64180c4d2b6ee300da53fa934e86e934ec8a85e5a678e3087f",
     "pinned comment": "a0a2adb1beb84e4b97dd1cc8f372c23cc2442fdbb4c87378d4a5899eac4966a7",
@@ -138,9 +138,9 @@
     },
     {
       "surface": "title",
-      "claim": "A-M-E-R-I-C-A: Motionless In White's industrial side on bass",
+      "claim": "A-M-E-R-I-C-A by Motionless In White: industrial metal bass cover",
       "source": "https://www.metalkingdom.net/album/Motionless-In-White-Infamous-62377; user-confirmed bass performance; https://en.wikipedia.org/wiki/Motionless_in_White (band-level industrial classification)",
-      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload."
+      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload. Revised wording varies a repeated closer; no spam threshold or measured CTR claim."
     },
     {
       "surface": "genres",
