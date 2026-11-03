@@ -1,0 +1,73 @@
+LONG-FORM ACCURACY AND ORIGINALITY RELEASE GATE - 2026-11-03
+
+HARD RULE: Before posting ANY video copy, correction, facts or genre list to MAVO,
+check each video independently and every surface together: title, description,
+tags, pinned comment, genres and any accompanying factual explanation. Do not
+claim a whole batch passed because one check passed. Never fill an evidence gap
+with a plausible assumption. If a fact cannot be established, omit it or clearly
+identify it as unverified outside paste-ready copy. A question/CTA can contain a
+false premise or an unsupported offer - verify those too. Identify historical
+screenshots as historical, not current live settings. Respect all existing rules,
+including actual bass performance with an on-screen overlay. Where image reading
+is required and unavailable, stop; do not infer image content.
+
+For each song, research original sources where possible and triangulate; record
+claim, exact source URL or repository file/user instruction and assessment, and
+distinguish song-level evidence, album context and interpretation. Verify tags,
+format, tuning, instrument, dates, track positions, artist spelling, URLs, genre,
+questions, CTA promises and analytics. Genre recommendations are reasoned,
+source-supported classifications, not provable objective absolutes. Remove claims
+that cannot be justified. Revisit the first 70 rather than assuming earlier copy
+or partial review is approved. The previous first-ten handoff was a limited review,
+not a comprehensive guarantee. When changes affect a surface already delivered,
+give the entire replacement block, not fragments.
+
+UNIQUENESS: Every video needs its own researched factual angle, writing and CTA,
+even 100 uploads of the same song. Track angles and source against the full
+available catalogue and shape registers. Do not invent a new fact to meet this
+requirement. If reliable distinct facts or genuinely distinct phrasing cannot be
+found, stop and tell MAVO rather than repeat or fabricate. Shared necessary artist,
+song, factual terminology and links are not automatically violations. Review
+semantic repetition, structure, angle and CTA across the corpus manually; n-gram
+signals cannot detect paraphrase or establish whether an overlap is acceptable.
+Review previously delivered/live copy if available; the repository may not match
+live YouTube. Do not silently claim coverage of material that is inaccessible.
+
+COMMANDS - from repository root, for EVERY video to be released:
+  python3 'Ver 3.0/PY/long_form_gate.py' --report 0001 0002
+  # Complete research/review; create a record for each video (format below).
+  python3 'Ver 3.0/PY/long_form_gate.py' --check 0001 0002
+Use actual video IDs in place of example IDs. Report scans repository _03 - Copy.md
+long-form copies, title/description/pin across fields, and reports matching five-word
+phrases. Tags, genres, other wording similarities, fact-angle duplication and CTA
+shapes need manual comparison. Output is a warning list to examine, not proof of
+originality. The check fails for missing or stale hashes/records, malformed review,
+or missing review attestations; the reviewer must actually do the work. If a file
+or comparison corpus changes, rerun report and review affected collision signals.
+A changed comparison corpus with the same report can still change semantic
+originality: manually recheck it even if the hash happens to remain the same.
+
+Create UTF-8 JSON at Ver 3.0/TXT/Long_Form_Reviews/NNNN.json, with:
+{
+  "reviewer": "person/agent who performed the review",
+  "reviewed_at": "date and time",
+  "surface_sha256": {"title": "hash from report", "description": "hash from report", "tags": "hash from report", "pinned comment": "hash from report", "genres": "hash from report"},
+  "reviewed_surfaces": {"title": true, "description": true, "tags": true, "pinned comment": true, "genres": true},
+  "claims": [{"surface": "description", "claim": "specific assertion", "source": "exact URL or source path and relevant location", "assessment": "what source establishes, including limitations"}],
+  "distinct_fact_and_source": "distinct angle, source, and why different from other uses of song",
+  "uniqueness_assessment": "reviewed collisions and semantic/shape/CTA comparison, noting unavoidable overlaps",
+  "uncertainties_and_removed_claims": "what cannot be established and what was removed, or explain none",
+  "collision_report_sha256": "hash from report",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}
+Claims is an item for EACH factual claim, implication and promise across all
+surfaces (including genre and tag claims), not one generic source per song. Record
+external source retrieval and limitations. Do not create records merely to make
+the code pass. The example is a schema, not a valid review or evidence.
+
+This gate cannot verify truth, completeness of a claim inventory, source quality,
+semantic uniqueness or the user's current YouTube copy automatically. A green
+result only says the specified records and hashes exist and agree; an agent must
+independently assess facts and review all material. The existing verify.sh covers
+bands/ packages only and must never be cited as approval of long-form files.

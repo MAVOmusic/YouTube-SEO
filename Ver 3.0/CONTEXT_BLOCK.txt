@@ -2251,3 +2251,13 @@ and pins, without needing a separate request. First ten tags/genres now checked;
 changed tag boxes 0001-0006; genre findings and recommended lists separated in
 all ten; Genre_Canonical_0001_0040 rows 0001-0010 updated. Evidence and
 uncertainties in TXT/First_70_Fact_Check_2026-11-03.txt. The rest remain open.
+
+2026-11-03 MANDATORY LONG-FORM ACCURACY AND UNIQUENESS GATE: MAVO requires
+checking EVERYTHING one by one before posting. Each video must have distinct
+verified factual angle, writing and CTA even when a song repeats 100 times.
+Follow TXT/Long_Form_Release_Gate.txt and run PY/long_form_gate.py --check for
+every video being released. Report + hashes are signals, not proof; personally
+research every claim and manually assess cross-song semantic uniqueness. No
+reliable distinct fact means stop, never invent. Existing 0001-0010 partial
+reviews are not comprehensive gate passes; 0011-0070 remains open. Never cite
+verify.sh as long-form accuracy validation.
