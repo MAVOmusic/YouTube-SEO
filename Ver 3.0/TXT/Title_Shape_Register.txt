@@ -203,6 +203,56 @@
           object, a participle describing a working version and the language as an
           adverb before a "first" that carries the whole chronology
 
+  0061    [song] + outran + possessive object + and + band + noticing verb
+          Ghost Division outran its own radio contact, and Sabaton noticed
+          new skeleton - song as the thing escaping, the band demoted to an observer in
+          a second clause with a verb of noticing rather than an act of writing. No
+          title in the register has put the band in that position before
+  0062    [song] + reached + band + through + place
+          Pain reached Three Days Grace through a Toronto rehab ward
+          new skeleton - the song travelling toward the band, with a place as the route
+          rather than the setting. 0058 sent the reader to a place; this one sends the
+          song out of one
+  0063    band + set + [source material] + on fire + for + song
+          Rammstein set a Victorian children's book on fire for Hilf Mir
+          new skeleton - the band as the actor committing an act on borrowed material,
+          the song named at the tail as the beneficiary of it. First title in the
+          register where the song is grammatically incidental to its own title
+  0064    verdict fragment + colon + band + opened + object + on + song
+          Not bad for a debut: Sabaton opened a career on Primo Victoria
+          new skeleton - the first colon title in the register, and the first that
+          opens on a judgement rather than a fact. The song arrives last, as the thing
+          a career was opened on
+  0065    definite-article superlative + noun + band + ever + verb + sits in + song
+          The friendliest riff Nirvana ever wrote sits in Come As You Are
+          new skeleton - a superlative with an article, "ever" as an intensifier
+          mid-title, and the song buried in a prepositional tail. Nothing else in the
+          register evaluates a part of a song before naming it
+  0066    former name + became + band + and + song + was the first thing out
+          Pezz became Billy Talent and Try Honesty was the first thing out
+          new skeleton - a two-clause identity change, then the song as the subject of
+          the second clause with a "was" that is mid-title, not an opener (TS-B2 is
+          about the opener only). No previous title carries a name change at all
+  0067    song + broke + band + in + duration
+          One Step Closer broke Linkin Park in two and a half minutes
+          new skeleton - the song as the agent that divides the band, with a runtime as
+          the adverbial limit. 0056 measured effort against other songs; this one
+          measures damage against the clock
+  0068    indefinite subject + [song element] + cost + band + object
+          A single line in Go Your Own Way cost Fleetwood Mac a friendship
+          new skeleton - a "cost" verb, an intangible as the price, and the song's
+          component rather than the song as the grammatical subject. First title in the
+          register built on a loss that is not money, health or time
+  0069    band + found + song + inside + source
+          R.E.M. found Losing My Religion inside a mandolin exercise
+          new skeleton - a find-verb, the song as the object discovered inside a
+          technique. 0062 has the song moving; here the band is the one doing the
+          looking and the song is already sitting there
+  0070    song + speaks for + indefinite person + relative clause with a negation
+          Standing In The Rain speaks for somebody the band never met
+          new skeleton - the song as an advocate, and a relative clause that ends on a
+          negation about the band rather than a fact about the song
+
 ################################################################################
 # BANNED SHAPES - the evidence
 ################################################################################
@@ -255,6 +305,18 @@
 ################################################################################
 # CHANGE LOG
 ################################################################################
+  2026-11-03  VER 4.51. Rows added for CO-0061 to CO-0070 - ten in one batch, on MAVO's
+              instruction to run the full ten at once. Every row written against this file
+              first. Checked against the previous sixty: no possessive opener (the only
+              possessive in the batch is 0061's, mid-sentence), no "[Song] is [Band]"
+              opener, no date opener, no question (last question remains 0036), no
+              signature closer reused. First colon title (0064) and first name change
+              (0066) in the register. The two "One ..." openers were split: 0068 was
+              rewritten from "One line in Go Your Own Way" to "A single line ..." so the
+              batch does not open two titles on the same word. Title n-gram sweep: zero
+              collisions at the 4-gram across all seventy, apart from the band names
+              "System Of A Down" and "Motionless In White", which repeat as names and not
+              as shapes.
   2026-11-02  VER 4.50. Rows added for CO-0056 to CO-0060 - five in one batch, the
               largest single addition to this file. Checked against the previous eight:
               no possessive opener, no "is" opener, no date opener, no question (last

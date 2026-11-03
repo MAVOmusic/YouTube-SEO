@@ -1,4 +1,4 @@
-# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.50 ACTIVE - 2026-11-02]
+# [MASTER RESTORATION & CONTEXT BLOCK: VER 4.51 ACTIVE - 2026-11-03]
 
 🚨 **CRITICAL INSTRUCTION FOR AI IN THE NEW CHAT SESSION:**
 
@@ -2109,3 +2109,114 @@ overlap also clean at 4-grams. verify.sh green at 60 packages.
 
 **Next:** CO-0061 to CO-0065, five at a time. Read all five first, crop-verify every ID
 before writing, then write, sweep once, log, verify, push, merge.
+
+################################################################################
+# VER 4.51 - CO-0061 TO CO-0070 (2026-11-03) - TEN IN ONE BATCH, BY INSTRUCTION
+################################################################################
+
+MAVO, 03-11-2026: "61 - 70 ready. Try to do all 10. Make sure to follow all rules".
+The five-at-a-time rule is overridden for this cycle. Nothing else in the ruleset
+changed: all ten were read in full before a single word was written, then written, then
+swept, then logged, then verified, then pushed and merged once.
+
+**THE BATCH IN ONE TABLE**
+
+  CO    SONG                             ID            LEN   VIEWS  HRS  SUBS  CTR   APV
+  0061  Sabaton - Ghost Division         EPWQFL_z_w8   3:31  439    3.9  +4    1.3%  14.0%
+  0062  Three Days Grace - Pain          rCZo9m6wpnl   3:20  305    2.0  +3    0.9%  11.8%
+  0063  Rammstein - Hilf Mir             ptLVqJ42LsO   5:21  311    2.3  +3     -     8.3%
+  0064  Sabaton - Primo Victoria         Xkz3DbXvbwc   4:10  322    2.1  +2     -      -
+  0065  Nirvana - Come As You Are        mum7kdpxGC8   3:38  363    2.6  +7     DEFECT 12.0%
+  0066  Billy Talent - Try Honesty       0_j6uGURWxI   4:09  260    1.6  +1    0.7%    -
+  0067  Linkin Park - One Step Closer    jvorLDTWc1c   2:36  412    3.0  +2    1.7%  16.8%
+  0068  Fleetwood Mac - Go Your Own Way   bwWZGhrj7_A   3:34  266    1.6  +1    1.0%    -
+  0069  R.E.M. - Losing My Religion      5b9f5p1W5Cs   4:26  298    2.1  +3    0.4%    -
+  0070  Billy Talent - Standing In Rain   9LmyTiqZzuw   3:18  305    1.7  +2   FUNNEL 10.0%
+
+  All ten: **E4 INELIGIBLE, GBP 0.00.** Register now holds **70 audits, 6 earners,
+  GBP 0.751.** Zero revenue added by this batch, which is exactly what was expected.
+
+**WHAT THE BATCH PROVED**
+
+  Four records and two floors. **CO-0061** set a new watch-time-from-impressions record at
+  1.79 h on a 1.3% CTR, so the reach arrived and the click did not. **CO-0063** set the
+  end screen record at 14.3% on an 8.3% APV. **CO-0065** took the subscriber record at +7.
+  **CO-0067** took the desktop record at 33.5% and produced the first US traffic entry in
+  the register. Floors: **CO-0064** likes 50.0%, **CO-0069** CTR 0.4%, **CO-0068**
+  recommendation 6.0%, **CO-0070** 16% at 0:30.
+
+  **The label theory broke.** Warner produced a clean E4 on CO-0067 and CO-0069 and a
+  partial block on CO-0068 in the same batch. Jive was clean here after blocking on
+  CO-0052. The variable is the song's publishing, not the label.
+
+  **The slow-song end screen cluster is now four cases.** CO-0063 (14.3%), CO-0070 (7.7%),
+  CO-0055 (5.6%) and one earlier. Logged as a mechanism to test, not a fact.
+
+**TWO CAPTURE DEFECTS, LOGGED NOT FILLED**
+
+  1. **CO-0065 `_02 Reach 1`** is scrolled past the impressions header. Impressions and
+     CTR for that video do not exist in the folder. Nothing was inferred from the funnel.
+  2. **CO-0067 Reach 1** has the top of the panel partially off-frame. The figure used is
+     the one legible in the funnel graphic.
+
+  A third, caught by re-crop during the audit rather than by the copy: **the "+42" under
+  412 views on CO-0067 is the VIEW delta ("42 more than usual"), not subscribers.** The
+  subscriber figure is +2. This was re-read from the Overview crop and corrected in the
+  register before push. Any earlier note claiming 412 views and +42 subscribers is wrong.
+
+**THE SWEEP HARNESS WAS BROKEN AND IS NOW FIXED**
+
+  The n-gram sweep used to derive each file's ID with a path regex that matched the
+  **bucket** folder (`0001 - 0100`) rather than the song folder, so every file compared as
+  `0001` and cross-file collisions were counted as intra-file and discarded. From the
+  cycle that introduced it until VER 4.50 the "clean on first pass" result was therefore
+  self-comparison only. Fixed in 4.51 (ID taken from the last path segment), and the first
+  honest run found **96 collisions across five- to seven-grams** in the ten new files,
+  almost all of them in the CTA block, the hardest surface to keep unique. All ten CTA
+  blocks were rebuilt, plus targeted rewording in seven descriptions and one pinned
+  comment. Final state: **zero collisions at the 8, 7, 6 and 5-gram across all 70 files**
+  for title, description and pinned comment, with tags excluded as band/genre vocabulary.
+  **The 4.40-4.50 "clean" claims should be re-run before they are relied on.**
+
+**ALSO FIXED IN THE SAME PASS**
+
+  - CO-0062's title was rewritten ("One ..." twice in one batch was caught by first-word
+    check, not by the n-gram guard).
+  - CO-0061's description opener was date-first and so was CO-0060's, which DS-B1 forbids
+    back to back. Opener rewritten to lead on the division rather than the date.
+  - Three pinned comments were rewritten after they were found to repeat a move already
+    used inside the batch (0062 vs 0061, 0067 vs 0064, 0068 vs 0065).
+
+**TAG BOXES, AUDITED**
+
+  Every one of the ten old boxes failed the same way: band name plus format words, **song
+  title absent** on nine of ten. 0063 carried "ramstein" three times and "rammstein"
+  never. 0068 carried "fetwoodmac", "fletwoodmac" and "feetwoodmac" and **no correct
+  spelling at all**. 0065 carried four kurtcobain variants and no song title. Meanwhile the
+  search panels in the same batch recorded "primo victoria" 60.0%, "come as you are" 23.1%
+  and "billy talent live" 50.0%. The rewrite puts the song title in every box, keeps the
+  real misspellings beside the correct spellings, and adds the format lane where the
+  audience is asking for a performance.
+
+**GENRES - BACKFILL RUNS BACKWARDS, AS AGREED**
+
+  Ten blocks written into the copies: 0061 Power metal, Heavy metal | 0062 Alternative
+  rock, Post grunge, Hard rock | 0063 Neue Deutsche Harte, Industrial metal | 0064 Power
+  metal, Heavy metal | 0065 Grunge, Alternative rock | 0066 Punk rock, Post hardcore,
+  Alternative rock | 0067 Nu metal, Alternative rock | 0068 Classic rock, Soft rock, Pop
+  rock | 0069 Jangle pop, Alternative rock, College rock | 0070 Punk rock, Post hardcore,
+  Alternative rock. The genre block is reproduced in the chat result as well as the file.
+
+**Gate:** sweep clean at 8/7/6/5-grams across 70 files, title sweep clean at 4-grams
+except the band names, lengths 58-64 / 1179-1346 / 190-230 / 92-128, one URL each once,
+no banned typography, no label inside any fence.
+
+  **Correction on the gate wording used since 4.40:** `verify.sh` does not read the long
+  form copies at all. It scans the **308-package `bands/` corpus** and runs the Tier-1
+  path/uniqueness gate plus the Tier-2 Section 21 diversity guard. It reports
+  **ALL GATES GREEN** after this batch, exactly as before - the corpus did not change.
+  Earlier entries saying "verify.sh green at 60" meant "green, and 60 long forms
+  written"; that phrasing was misleading and is corrected here.
+
+**Next:** CO-0071 to CO-0080. Read all ten first, re-run the fixed sweep as a regression
+check over the whole 70 before writing anything new.
