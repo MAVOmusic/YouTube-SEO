@@ -1,0 +1,152 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "6eb97c8be46fee4f16faa593d5078746ae9ad3102cb76cd9bbc81c5c1524b8ed",
+    "description": "47fd91345c75e0d515ce3f92d4c764923f82d528da6bf197921054e822ff7b2a",
+    "tags": "161f399e770ff2a936fd67f7f94664486e22aca1ba3e23c0770f6de6eb1bf56f",
+    "pinned comment": "819677a33b9627465da1cf23950b5807450e3d77cf92c4eefbc1b16cf8889e01",
+    "genres": "e39b35d77197353ee45d286888eb5a7da7b5729c4822d026e51761fb8e107674"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Carol Heller joins Mark Hoppus on +44 Make You Smile",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Carol Heller sings alongside Mark Hoppus on Make You Smile. On the 2006 +44 album, the duet sits among the songs on When Your Heart Stops Beating.",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+      "assessment": "Claims reviewed against the referenced release or source; catalog/source limitations recorded below."
+    },
+    {
+      "surface": "description",
+      "claim": "The visible game display accompanies my bass performance.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; user confirmation of bass playing with overlay",
+      "assessment": "Historical video identity and confirmed format, without unverifiable playing technique."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in requested order, no promised schedule or rewards."
+    },
+    {
+      "surface": "tags",
+      "claim": "+44",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "plus 44",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 2.jpeg",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "make you smile",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "+44 make you smile",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "plus 44 make you smile",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "carol heller",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "mark hoppus",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "travis barker",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "when your heart stops beating",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop punk",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative rock",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "2006",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What duet deserves its own bass arrangement?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0057 - +44 (Plus 44) - Make You Smile (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+    }
+  ],
+  "distinct_fact_and_source": "Carol Heller and Mark Hoppus vocal duet ; https://genius.com/44-make-you-smile-lyrics ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+  "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads.",
+  "uncertainties_and_removed_claims": "Heller is credited here; removed the unsupported claim that this was her only appearance. Historical screenshots are partial, not current status; genre is subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "1e58442c769f4e79de3c2e7532762c8a7e8329ef8f2ad0fc8329c045eee26e6b"
+}

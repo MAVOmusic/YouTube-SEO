@@ -1,83 +1,42 @@
-# CO-0060 | Rewritten copy (Ver 4.50)
+# CO-0060 | Reviewed copy (2026-11-03)
 
-> Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
-> **E4 INELIGIBLE, single line, GBP 0.00.** Interscope and Universal Russia.
-> **394 views, 14 more than usual - the highest in the batch** - on 5.3k thumbnail
-> impressions at 1.2% CTR. Uploaded 6 September 2025, one day later than the rest of
-> the run, so the panel window reads from 6 September.
-> **NEW CORPUS EXTREME: male audience 100.0%, female 0.0%** - the only video in 57
-> audits with no female share at all.
-> Video ID `02vW9F6cxSE` (crop-verified).
-> GENRE FINDINGS is mine and internal. CORRECT GENRES is the playlist list.
+> Copy the title, description, tags and pinned comment. Genre findings are internal.
 
 ## TITLE (61 characters)
 
 ```text
-t.A.T.u. had All The Things She Said working in Russian first
+From Russian to English: t.A.T.u. and All The Things She Said
 ```
 
-## DESCRIPTION (1502 characters)
+## DESCRIPTION (490 characters)
 
 ```text
-August 2002, and a Russian song that had already been a domestic hit turns up in English on the debut album 200 km/h in the Wrong Lane. Trevor Horn produced it, Interscope released it with Universal Russia, and what made it travel was not the production. It was two teenagers in school uniforms in a video, and a chorus that needed no translation.
+All The Things She Said is the English-language version of t.A.T.u.'s earlier Russian song Ya Soshla S Uma. The English version was produced by Trevor Horn.
 
-The original is Ya Soshla s Uma, from December 2000, which means roughly I lost my mind. The English version keeps that idea and loses the ambiguity: same melody, same urgency, blunter words. A rebuild for a market rather than a translation for it.
+Here I perform on bass while the Rocksmith chart is displayed.
 
-On bass the part is a machine. Straight eighths, one shape, no ornament, holding everything to the floor while the vocal does the drama. Play it exactly as written and it will sound stiff; play a fraction behind and it starts to move.
-
-The video is why half of Europe remembers the song and why a lot of radio would not touch it at the time. None of that changes what is underneath: a pop song with a rock guitar, a drum machine pulse and a melody simple enough to survive being translated, which is exactly what it did.
-
-Nineteen August 2002, Interscope, three minutes thirty two here.
-
-🟢 Requests and pop nights from the stream on Kick: https://kick.com/mavomusic
-🟣 The Twitch feed is the mirror for it: https://www.twitch.tv/mavomusic
-💬 English or Russian, which version actually wins? Argue it in Discord, and a boost puts your name up: https://discord.gg/ESGsGkN4j2
-
-Track two on the English album.
+🟢 Share a multilingual release you enjoy over on Kick: https://kick.com/mavomusic
+🟣 The mirrored broadcast is also available on Twitch: https://www.twitch.tv/mavomusic
+💬 Compare language versions in Discord; boosters have my appreciation: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (16 tags, 220/500 characters)
+## TAGS (16 tags, 223/500 characters)
 
 ```text
-t.a.t.u., tatu, all the things she said, 200 kmh in the wrong lane, ya soshla s uma, trevor horn, lena katina, yulia volkova, pop rock, electropop, eurodance, 2002, interscope, bass cover, rocksmith bass, bass play along
+t.a.t.u, tatu, тату, all the things she said, tatu all the things she said, я сошла с ума, ya soshla s uma, lena katina, лена катина, julia volkova, юлия волкова, pop rock, alternative rock, 2002, bass cover, rocksmith bass
 ```
 
-## PINNED COMMENT (104 characters)
+## PINNED COMMENT (42 characters)
 
 ```text
-Two school uniforms did more for this song than the chorus did. Fair, or is the song carrying the video?
+Which language version did you hear first?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-  Verified: lead single from 200 km/h in the Wrong Lane, released 19 August 2002
-  on Interscope with Universal Music Russia, produced by Trevor Horn, written by
-  Sergio Galoyan, Elena Kiper, Valeriy Polienko and Trevor Horn with Martin
-  Kierszenbaum, track two on the album, English rework of Ya Soshla s Uma from
-  December 2000. Pop rock is the lane the guitars and the vocal put it in.
-  Electropop is the production method and the honest description of 2002. Eurodance
-  is where the rhythm came from and what the search audience calls it. Dropped:
-  "alternative rock", which promises a band this is not, and "teen pop", which is a
-  marketing category and would pull a playlist the video cannot serve.
+Genre is subjective. Recommendations use the single classification. See the review record for sources.
 
 ## CORRECT GENRES
 
-Pop rock · Electropop · Eurodance
-
-## THREE THINGS TO CARRY FORWARD
-
-  **100.0% male / 0.0% female is a corpus extreme**, and it is on the one video in
-  the run whose whole public image was built on a same-sex narrative aimed at a
-  young audience. The declared-age panel also reads 25-34 at 100%, which is the
-  same bucket as most of the run. Treat the gender figure as a panel artefact until
-  one more video confirms it, not as an audience fact.
-
-  **394 views and "14 more than usual" is the batch's best organic pull**, achieved
-  on a 5.3k impression base that is twice the size of anything else here. The song
-  is the only one in the batch with a mainstream search identity, and "all the
-  things she said" is a logged term at 4.6%.
-
-  **This is the first non-rock, non-+44, non-Sabaton video in the batch and it broke
-  two records on arrival.** That is an argument for pulling more 2000s pop-rock into
-  the queue earlier than the chronology would put it, which is MAVO's call, not the
-  audit's.
+- Pop rock
+- Alternative rock

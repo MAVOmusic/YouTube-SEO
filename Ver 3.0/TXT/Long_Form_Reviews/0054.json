@@ -1,0 +1,146 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "5de53a37f1f45fc87d358873bef80c2aaacb9be617137ba23cacb4bf57e2d868",
+    "description": "da6cd101d138d66257a4ec9d38f2289e415d25da21151765ae54b24a0998e5b2",
+    "tags": "6bbc90da0ca90697c59019096f371dc59014bd106ba7abfec23d5a954be69d4f",
+    "pinned comment": "6c940fa7a055fd122d75f6b27429069bca965c219ec305af401a8b7d3d018700",
+    "genres": "e39b35d77197353ee45d286888eb5a7da7b5729c4822d026e51761fb8e107674"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Baby Come On by +44 and its acoustic bonus-track story",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "A 2006 European edition of When Your Heart Stops Beating includes an acoustic Baby Come On as a bonus track. The album is by +44.",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+      "assessment": "Claims reviewed against the referenced release or source; catalog/source limitations recorded below."
+    },
+    {
+      "surface": "description",
+      "claim": "My bass playing accompanies the game chart in this video.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; user confirmation of bass playing with overlay",
+      "assessment": "Historical video identity and confirmed format, without unverifiable playing technique."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in requested order, no promised schedule or rewards."
+    },
+    {
+      "surface": "tags",
+      "claim": "+44",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "plus 44",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "baby come on",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "+44 baby come on",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "plus 44 baby come on",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "when your heart stops beating",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "mark hoppus",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "travis barker",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop punk",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative rock",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "2006",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What bonus track has made an album edition worth seeking out?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0054 - +44 (Plus 44) - Baby, Come On (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
+      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+    }
+  ],
+  "distinct_fact_and_source": "Baby Come On acoustic bonus track on European edition ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+  "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads.",
+  "uncertainties_and_removed_claims": "The acoustic bonus is a separate recording; no claim this upload uses that version. Historical screenshots are partial, not current status; genre is subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "41e61faa1ebe11e0e6eb56f3d911cec83a3dd6f9c7da3d7d3eed77b62322c223"
+}

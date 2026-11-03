@@ -1,0 +1,164 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "10c670dae1e2b86bd2fbed24415a77250c4a5e289bc61bfe56ab2031da764ec0",
+    "description": "24a415da3ae6292d45d875f325a3e3a53fb9cc8858377de54dc67212d3eac317",
+    "tags": "a727f59d098a95f70796239fe6ef0a155283cd398025db6a0e0e3f942357cdac",
+    "pinned comment": "e26a0a8314f5885164895973f13f743011d028daa8c3cee7cfb789d6eb8c3268",
+    "genres": "856af2b6468fd197c742ba3cafba0f9173fc1f4aedf6f7aab9fef8d93b1fb78c"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "From Russian to English: t.A.T.u. and All The Things She Said",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+    },
+    {
+      "surface": "description",
+      "claim": "All The Things She Said is the English-language version of t.A.T.u.'s earlier Russian song Ya Soshla S Uma. The English version was produced by Trevor Horn.",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/",
+      "assessment": "Claims reviewed against the referenced release or source; catalog/source limitations recorded below."
+    },
+    {
+      "surface": "description",
+      "claim": "Here I perform on bass while the Rocksmith chart is displayed.",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; user confirmation of bass playing with overlay",
+      "assessment": "Historical video identity and confirmed format, without unverifiable playing technique."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Invitations in requested order, no promised schedule or rewards."
+    },
+    {
+      "surface": "tags",
+      "claim": "t.a.t.u",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0) ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 2.jpeg",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "tatu",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "тату",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "all the things she said",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0) ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 2.jpeg",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "tatu all the things she said",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "я сошла с ума",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "ya soshla s uma",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "lena katina",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "лена катина",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "julia volkova",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "юлия волкова",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop rock",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative rock",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "2002",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; https://en.wikipedia.org/wiki/T.A.T.u. ; https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%83_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0) ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_02 - Analytics/_02 Reach/_02 Reach 2.jpeg",
+      "assessment": "Relevant identity, edition, person, format or source-based genre. Historical search card used only where cited; not proof that a tag caused traffic."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which language version did you hear first?",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_03 Comments.jpeg",
+      "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop rock",
+      "source": "https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/",
+      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/",
+      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+    }
+  ],
+  "distinct_fact_and_source": "Russian original and English version ; https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/",
+  "uniqueness_assessment": "No five-word collision signals in the available corpus. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads.",
+  "uncertainties_and_removed_claims": "Russian title and names are relevant to the earlier song and the duo, not a claim this upload is the Russian recording. Precise release date and marketing causation removed. Historical screenshots are partial, not current status; genre is subjective.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

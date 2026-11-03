@@ -597,3 +597,41 @@ or reflect current searches. No visible artist comments in reviewed screenshots;
 0046 and 0049 show genuine viewer conversations which should not be deleted.
 0043 historical Details and Revenue screenshots show ad earnings sharing and
 estimated £0.05, respectively; current monetisation cannot be inferred.
+
+2026-11-03 - 0051-0060 FIVE-SURFACE RECHECK
+Read each song's own labeled historical Details, comments, Reach and Revenue
+screenshots. Replaced title, description, tags, proposed pin and separated
+genre findings/recommendations in every MD. Individual JSON records cite the
+facts and note limitations. No artist comments visible in the captured panels;
+this does not establish current comments or pins. Preserve any actual artist
+comment if available. The 0055 Overview 2 conflicts with the other panels;
+do not use the outlier without rechecking. On 0052 the historical Details panel
+says partially blocked; all ten said ineligible to earn at capture time. None
+of this proves present availability or monetisation.
+
+Revenue screens 0051-0060 show estimated revenue as a dash and no earnings
+breakdown at capture, not a numeric zero. Existing historical ledger has six
+positive earners totalling GBP 0.751 across the 70 previously audited videos;
+this recheck does not change that figure or prove what has happened since.
+
+Visible historical search cards: 0051 hed pe; 0052 hed pe; 0053 +44; 0054
+blink 182 live; 0055 chapter 13 plus 44; 0056 rocksmith and rocksmith plus;
+0057 plus 44; 0058 rocksmith; 0059 rocksmith, rocksmith bass, weatherman live;
+0060 all the things she said, rocksmith bass, t.a.t.u. Historical query cards
+are partial and do not demonstrate tag causation. Relevant terms retained;
+Rocksmith Plus not added without proof of the game version; live-intent queries
+excluded because they can imply footage of the original act. The 0060 Russian
+song title names an earlier related version, not the language of this upload.
+
+Distinct angles: 0051 official 2021 song video; 0052 Broke production and bass
+credits; 0053 separate acoustic 145; 0054 an edition's acoustic bonus; 0055
+standard album closer, with bonus-edition caveat; 0056 tentative album title;
+0057 Carol Heller duet; 0058 king and album introduction per Sabaton; 0059
+Hoppus account of song origins as reported by secondary sources; 0060 Russian
+original and English version. Removed old unsupported superlatives, invented
+intent and recording details. Genre judgments are subjective; +44 and (Hed)
+P.E. evidence is often album- or artist-level, not conclusive track analysis.
+A shared five-word signal in 0053-0057 and 0059 is the actual album title
+When Your Heart Stops Beating, occasionally with an adjoining common word; it
+is a necessary factual identifier, not a reused writing angle. Unseen or future
+videos have not been checked. Machine gate does not establish factual truth.
