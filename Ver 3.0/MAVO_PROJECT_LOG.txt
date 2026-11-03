@@ -570,3 +570,8 @@ its own verified fact angle, writing and CTA, even repeated songs. Added manual
 release procedure and PY/long_form_gate.py evidence/hash/repetition report gate.
 Code cannot determine truth or detect all semantic duplication. Previous reviews
 are not retroactively certified. See TXT/Long_Form_Release_Gate.txt.
+
+2026-11-03 - Started ten-video full review of 0011-0020; read historical Details
+images, found four cyclically misfiled 0017-0020 images, researched sources and
+logged issues. Batch remains OPEN; no copy surfaces released or certified.
+User wants a full checked handoff only once all 70 are completed.

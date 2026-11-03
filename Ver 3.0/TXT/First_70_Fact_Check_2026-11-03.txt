@@ -232,3 +232,64 @@ track-level sources. Tags do not prove live edits, exact playing or equipment.
 The accessible screenshot is a still, so exact tuning and bass model are not
 verified; removing those tags does NOT establish that those claims are false.
 The precise audience, ranking and effectiveness of tags cannot be established.
+
+2026-11-03 - 0011-0020 REVIEW STARTED, NOT COMPLETE
+The user requested review in consecutive groups of ten through 0070, with
+complete, checked copy handoff after all 70. Do not present intermediate
+replacement blocks as final. Each video needs title, description, tags, pin,
+genre, evidence and semantic originality review; no new review records have been
+attested, so none of this batch has passed the long-form release gate.
+
+Vision: historical Details screenshots for all ten were read. Warning: the
+Details screenshots in folders 0017-0020 are misfiled in a cycle: 0017 shows
+BABYMETAL Megitsune, 0018 shows MCR Foundations, 0019 shows Discord remix,
+0020 shows Rage Take the Power Back. Match by visible video title and video ID,
+not folder. The 0011 screenshot displays 4:00:33; the 0018 folder screenshot
+for MCR shows 5:59. Historical screenshots do not prove current YouTube metadata.
+0012 Details shows thumbnail rather than performance still; cannot verify
+playing specifics or equipment from it. User says bass is played over chart.
+Do not interpret a still as evidence of whole-video tuning, edits or notes.
+
+Early findings needing complete surface-by-surface treatment:
+0014 current description/pin's claim about two bass players or synth bass is
+not established by the song credits. John Deacon wrote and played bass; Fred
+Mandel played synthesizers; those facts alone do not prove synth bass on a given
+hook. https://en.wikipedia.org/wiki/I_Want_to_Break_Free
+0017 first *single since Fake Your Death (2014)* is verifiable, but not that
+MCR were absent until 2022. Genre classifications differ by source:
+https://en.wikipedia.org/wiki/The_Foundations_of_Decay
+https://rateyourmusic.com/release/single/my-chemical-romance/the-foundations-of-decay/
+0018 song-specific remix genre source lists electropop and glitch hop, not
+Eurobeat as primary for the remix. Original versus remix must not be conflated.
+https://rateyourmusic.com/release/single/eurobeat-brony/discord-the-living-tombstones-remix/
+https://www.whosampled.com/Eurobeat-Brony/Discord-(The-Living-Tombstone-Remix)/
+0019 'no chorus', tuning for this performance, Commerford's intent, universal
+claims about learners and the specific bass passage are not established from
+the sources consulted. The track is third on the 1992 album:
+https://genius.com/Rage-against-the-machine-take-the-power-back-lyrics
+0020 'half the comments', uninterrupted bass, every chart bar, audience reaction
+and player identity require independent evidence and are not established. The
+momometal tag is anachronistic to the 2013 original lineup; do not imply she
+was on the 2013 track. The name means vixen, not just generic fox.
+https://www.wikiwand.com/en/Megitsune
+
+Additional evidence gathered for full review:
+0011 https://www.fabermusic.com/shop/nocturne-in-e-flat-major-op-9-no-2-p462289
+Original work for piano, first published 1832; Romantic era is not an instrument
+or separate genre. A bass arrangement is not solo piano.
+0012 https://concord.com/concord-albums/tell-all-your-friends/
+Original 2002 album and emo/post-hardcore context.
+0013 https://www.whosampled.com/Slayer/War-Ensemble/
+Track on 1990 Seasons in the Abyss, classified thrash metal.
+0015 https://en.wikipedia.org/wiki/Du_hast
+1997 Sehnsucht single, Neue Deutsche Haerte / industrial metal.
+0016 https://soad.fandom.com/wiki/Lonely_Day
+Track on 2005 Hypnotize, Daron Malakian credited writing and lead vocal.
+
+NEXT: inspect pinned screenshots (and identify swaps), consult song-level genre
+and video-specific evidence as required; review every claim and remove or revise
+unsupported assertions; compare angles and CTAs across available copy and the
+shape registers. Then update all five surfaces/genres and canonical/registers,
+perform evidence record and long-form gate for each, validate and merge the
+batch. Neither earlier 0001-0010 reviews nor this research constitute complete
+release-gate certification. No 0021-0070 review completed in this pass.

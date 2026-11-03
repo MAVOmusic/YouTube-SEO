@@ -2261,3 +2261,11 @@ research every claim and manually assess cross-song semantic uniqueness. No
 reliable distinct fact means stop, never invent. Existing 0001-0010 partial
 reviews are not comprehensive gate passes; 0011-0070 remains open. Never cite
 verify.sh as long-form accuracy validation.
+
+2026-11-03: User requested consecutive reviews of ten through 0070, then
+complete checked handoff (no interim replacement exercise). 0011-0020 research
+and historical Details vision started but NOT complete. Four Details screenshots
+0017-0020 are misfiled cyclically; match visible title/ID, see the fact-check
+ledger. No reviews passed the new release gate yet. Continue 0011-0020: all
+surfaces, correct genre split, pinned image, source each claim, distinct angles
+and CTA; no unverified final copy. Then subsequent ten-video batches until 70.
