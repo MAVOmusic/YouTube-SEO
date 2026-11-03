@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (60 characters)
+## TITLE (55 characters)
 
 ```text
-Keep up with Motionless In White on Immaculate Misconception
+Immaculate Misconception kicks off Creatures - MIW bass
 ```
 
 ## DESCRIPTION (514 characters)
@@ -20,10 +20,10 @@ Follow the Rocksmith notes while I play bass. Take it section by section if you 
 💬 Tell the Discord community which Creatures track you would choose next; boosts are welcome: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 272/500 characters)
+## TAGS (16 tags, 297/500 characters)
 
 ```text
-motionless in white, immaculate misconception, immaculate misconception bass, creatures, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2010, bass guitar, play along, rocksmith bass motionless in white, motionless in white immaculate misconception
+motionless in white, immaculate misconception, immaculate misconception bass, creatures, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2010, bass guitar, play along, rocksmith bass motionless in white, motionless in white immaculate misconception, miw, motionles in white
 ```
 
 ## PINNED COMMENT (83 characters)
@@ -34,9 +34,12 @@ Which part of Immaculate Misconception would you break down first when learning 
 
 ## GENRE FINDINGS (internal)
 
-Song and parent album are documented in metalcore context; melodic metalcore is an album-level classification. Gothic is an aesthetic/album influence, rather than separately verified as a required track genre.
+Artist-level genres from https://en.wikipedia.org/wiki/Motionless_in_White. The same artist list is used for all this artist's uploads as requested; it is not a claim that this specific recording sounds like every listed genre. See Band Info/Motionless In White/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
 - Metalcore
-- Melodic metalcore
+- Gothic metal
+- Industrial metal
+- Nu metal
+- Hard rock

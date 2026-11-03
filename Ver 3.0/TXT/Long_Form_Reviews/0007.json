@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "d5d921f5bcdc3bf27ff896f36e51a76b9a7f2f05905ca7bdbd102f3ae62a1768",
+    "title": "23111ab914b3b68fb57aa53e5579569fc2a40541434d577139d6b16bcbcf5e0c",
     "description": "a8c9dd639727236374ee308fd218d0523c8f0b6e9a37c70e39cf8eb5f28397b1",
-    "tags": "0b6840bb4a9b58b9423069bc32b7ee6ef10f1dd0afd9d8a938fbf57f6ac4b898",
+    "tags": "27334c222c62a8ea7bbd038cb5d814e7d21b86e81040e04ef6340cc646622ba0",
     "pinned comment": "24a888863c61de09c70888878afac8399f5e925d75ff08ca0de6f6cb7942d418",
-    "genres": "02ecadba4aa98e95ba4d7226314c8d355e5c3418be2a85c64121839ac5116039"
+    "genres": "95ac3ff9537bfdc77b6c20d19ab840c5aeeaae280caf43f6b64a3206bd91be82"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -27,12 +27,6 @@
       "claim": "Dee Snider of Twisted Sister appears in the song music video.",
       "source": "https://mediakits.concord.com/p/creatures/press-release.html",
       "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
-    },
-    {
-      "surface": "title",
-      "claim": "Keep up with Motionless In White on Immaculate Misconception",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White -  Immaculate Misconception (Long Form) - Details.jpeg",
-      "assessment": "Title identity and sourced musical angle checked; figurative language is opinion, not a literal assertion about artist appearing in the upload."
     },
     {
       "surface": "description",
@@ -125,18 +119,6 @@
       "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
     },
     {
-      "surface": "genres",
-      "claim": "Metalcore",
-      "source": "https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php",
-      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
-    },
-    {
-      "surface": "genres",
-      "claim": "Melodic metalcore",
-      "source": "https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php",
-      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
-    },
-    {
       "surface": "tags",
       "claim": "rocksmith bass motionless in white",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form - Play Along on Bass)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
@@ -147,11 +129,59 @@
       "claim": "motionless in white immaculate misconception",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form - Play Along on Bass)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
       "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
+    },
+    {
+      "surface": "title",
+      "claim": "Immaculate Misconception kicks off Creatures - MIW bass",
+      "source": "https://mediakits.concord.com/p/creatures/press-release.html; user-confirmed bass performance",
+      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload."
+    },
+    {
+      "surface": "genres",
+      "claim": "Metalcore",
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Gothic metal",
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Industrial metal",
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Nu metal",
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Hard rock",
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "tags",
+      "claim": "miw",
+      "source": "https://www.metalkingdom.net/band/motionless-in-white-13548 ; https://www.teepublic.com/long-sleeve-t-shirt/68020707-motionlesss-in-white-band",
+      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "motionles in white",
+      "source": "https://www.metalkingdom.net/band/motionless-in-white-13548 ; https://www.teepublic.com/long-sleeve-t-shirt/68020707-motionlesss-in-white-band",
+      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
     }
   ],
   "distinct_fact_and_source": "Dee Snider cameo, distinct from 0005 Salem angle. https://mediakits.concord.com/p/creatures/press-release.html",
   "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
-  "uncertainties_and_removed_claims": "Removed broad speed tags and earlier unverified performance tuning; melodic metalcore is album-level support. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03: removed claim that the chart remains visible throughout; still images and user confirmation do not establish continuous visibility.",
+  "uncertainties_and_removed_claims": "Removed broad speed tags and earlier unverified performance tuning; melodic metalcore is album-level support. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03: removed claim that the chart remains visible throughout; still images and user confirmation do not establish continuous visibility. 2026-11-03: genre list now refers to artist classifications, not a song-level guarantee. Typo examples are observed, not verified common search terms; title effectiveness untested.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

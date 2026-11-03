@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (48 characters)
+## TITLE (50 characters)
 
 ```text
-Autumn Leaves for an hour and Burzum in no hurry
+An hour of Autumn Leaves by Burzum, played on bass
 ```
 
 ## DESCRIPTION (532 characters)
@@ -20,10 +20,10 @@ A longer listen gives the atmosphere room to settle. Follow the on-screen chart,
 💬 Swap ambient recommendations in Discord; thank you for supporting the community with a boost: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (13 tags, 185/500 characters)
+## TAGS (14 tags, 193/500 characters)
 
 ```text
-burzum, autumn leaves, burzum autumn leaves, the ways of yore, dungeon synth, ambient, 1 hour loop, hour loop, study music, background music, burzum bass, rocksmith bass, long form loop
+burzum, autumn leaves, burzum autumn leaves, the ways of yore, dungeon synth, ambient, 1 hour loop, hour loop, study music, background music, burzum bass, rocksmith bass, long form loop, burzam
 ```
 
 ## PINNED COMMENT (94 characters)
@@ -34,9 +34,12 @@ Does a long loop help you focus, or do you prefer listening to an album from beg
 
 ## GENRE FINDINGS (internal)
 
-Album classifications support ambient and dungeon synth. Dark ambient is an interpretive mood label, not independently confirmed for this track; neoclassical darkwave and atmospheric black metal are not established for this recording.
+Artist-level genres from https://rateyourmusic.com/artist/burzum. The same artist list is used for all this artist's uploads as requested; it is not a claim that this specific recording sounds like every listed genre. See Band Info/Burzum/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
 - Ambient
 - Dungeon synth
+- Black metal
+- Atmospheric black metal
+- Dark ambient

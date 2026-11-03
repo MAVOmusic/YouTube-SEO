@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "60f806c52ad2e65c9f401ddcc9b758a8783c73bedca72b3acabc59ae51e49ac5",
+    "title": "4e484095004e75644c482b929aa8c6326bb4ebb6cbdbb0eecdd519e52cc57399",
     "description": "f90d0e2c1cacd73ce0ead6c5b57ba6080a8e37eae4f5f2e5929d2514cbf99bc7",
-    "tags": "a434422d84bf0b92b402195d9c53e4e3cf56bba6e9fa813e575ac930819c1e2b",
+    "tags": "f6b44e80dc27bc7002d5e41ec3af59afb03dcc18497dacf60e821308bbd94993",
     "pinned comment": "2dbd75eca3bd84eb0958f6c703c341a80843ce007a2f2e889365a0f2310f2941",
-    "genres": "9f814a1180bd16c633f5e0b746ff500c763a9b8ff44c155737e9b14ce69691dd"
+    "genres": "5edab9b53d36472e0d9ef065b325313cf6c627159215ee30220e49086c721888"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -33,12 +33,6 @@
       "claim": "Mikey Way is credited for bass on the original recording.",
       "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/ ; https://www.discogs.com/release/7235816-My-Chemical-Romance-The-Black-Parade",
       "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
-    },
-    {
-      "surface": "title",
-      "claim": "Following My Chemical Romance through Welcome To The Black Parade",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Title identity and sourced musical angle checked; figurative language is opinion, not a literal assertion about artist appearing in the upload."
     },
     {
       "surface": "description",
@@ -143,27 +137,57 @@
       "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
     },
     {
-      "surface": "genres",
-      "claim": "Emo",
-      "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
-      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
-    },
-    {
-      "surface": "genres",
-      "claim": "Pop punk",
-      "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
-      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
-    },
-    {
       "surface": "tags",
       "claim": "welcome to the black parade bass",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
       "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
+    },
+    {
+      "surface": "title",
+      "claim": "Welcome To The Black Parade builds on bass - My Chemical Romance",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; user-confirmed bass performance",
+      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Emo",
+      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "genres",
+      "claim": "Post-hardcore",
+      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
+    },
+    {
+      "surface": "tags",
+      "claim": "my chem",
+      "source": "https://jhmoviecollection.fandom.com/wiki/My_Chemical_Romance ; https://soundcloud.com/doddsys-devils/sets/my-chemical-romace",
+      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "my chemical romace",
+      "source": "https://jhmoviecollection.fandom.com/wiki/My_Chemical_Romance ; https://soundcloud.com/doddsys-devils/sets/my-chemical-romace",
+      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
     }
   ],
   "distinct_fact_and_source": "Album track position and predecessor, distinct from other MCR uploads. https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/",
   "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
-  "uncertainties_and_removed_claims": "Replaced title that could imply Mikey Way performed in this video; old screenshot says creator made a version, not proof of official chart. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness.",
+  "uncertainties_and_removed_claims": "Replaced title that could imply Mikey Way performed in this video; old screenshot says creator made a version, not proof of official chart. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03: genre list now refers to artist classifications, not a song-level guarantee. Typo examples are observed, not verified common search terms; title effectiveness untested.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

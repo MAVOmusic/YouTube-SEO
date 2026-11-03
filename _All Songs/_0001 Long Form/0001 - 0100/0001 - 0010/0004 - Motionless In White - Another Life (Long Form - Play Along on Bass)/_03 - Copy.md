@@ -5,7 +5,7 @@
 ## TITLE (64 characters)
 
 ```text
-Another Life returns as Motionless In White meets the bass chart
+Can you follow Another Life? Motionless In White bass play along
 ```
 
 ## DESCRIPTION (513 characters)
@@ -20,10 +20,10 @@ Follow the chart on screen and take the sections at a pace that works for you. W
 💬 Ask your practice questions in Discord; thank you to the people who boost our server: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 238/500 characters)
+## TAGS (16 tags, 263/500 characters)
 
 ```text
-another life, motionless in white, motionless in white another life, bass play along, play along bass, rocksmith bass, disguise, post grunge, alternative metal, learn bass, bass cover, 2019, bass guitar, rocksmith bass motionless in white
+another life, motionless in white, motionless in white another life, bass play along, play along bass, rocksmith bass, disguise, post grunge, alternative metal, learn bass, bass cover, 2019, bass guitar, rocksmith bass motionless in white, miw, motionles in white
 ```
 
 ## PINNED COMMENT (65 characters)
@@ -34,9 +34,12 @@ Which Motionless In White music video stands out to you visually?
 
 ## GENRE FINDINGS (internal)
 
-Same song as 0002. Track sources support post-grunge and alternative metal. Play along is a format, not a genre. Drop C and tuner visibility throughout were not independently verified.
+Artist-level genres from https://en.wikipedia.org/wiki/Motionless_in_White. The same artist list is used for all this artist's uploads as requested; it is not a claim that this specific recording sounds like every listed genre. See Band Info/Motionless In White/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
-- Post-grunge
-- Alternative metal
+- Metalcore
+- Gothic metal
+- Industrial metal
+- Nu metal
+- Hard rock

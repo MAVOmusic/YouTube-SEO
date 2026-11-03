@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (49 characters)
+## TITLE (48 characters)
 
 ```text
-X-Kid by Green Day, played on bass with Rocksmith
+The bittersweet side of Green Day: X-Kid on bass
 ```
 
 ## DESCRIPTION (523 characters)
@@ -20,10 +20,10 @@ This bass play along shows the Rocksmith chart. Follow the part and listen to th
 💬 Post a Green Day request in Discord; thank you if you choose to boost us: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 173/500 characters)
+## TAGS (16 tags, 183/500 characters)
 
 ```text
-green day, x-kid, x kid, tre, mike dirnt, punk rock, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2012, bass guitar, punk bass, green day rocksmith
+green day, x-kid, x kid, tre, mike dirnt, punk rock, pop punk, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2012, bass guitar, punk bass, green day rocksmith, greenday
 ```
 
 ## PINNED COMMENT (93 characters)
@@ -34,10 +34,12 @@ Does knowing the story behind X-Kid change how you hear it, or did the music rea
 
 ## GENRE FINDINGS (internal)
 
-Song sources describe pop punk and power pop, and one also describes punk rock. The trilogy does not by itself make this song a rock opera; broad alternative rock is excluded from the short confident list.
+Artist-level genres from https://en.wikipedia.org/wiki/Green_Day. The same artist list is used for all this artist's uploads as requested; it is not a claim that this specific recording sounds like every listed genre. See Band Info/Green Day/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
-- Pop punk
-- Power pop
 - Punk rock
+- Pop punk
+- Alternative rock
+- Skate punk
+- Power pop

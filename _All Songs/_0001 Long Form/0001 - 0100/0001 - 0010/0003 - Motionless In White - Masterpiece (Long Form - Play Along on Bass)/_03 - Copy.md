@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (59 characters)
+## TITLE (66 characters)
 
 ```text
-Masterpiece finds Motionless In White in a quieter register
+Hear the quieter side of Motionless In White's Masterpiece on bass
 ```
 
 ## DESCRIPTION (534 characters)
@@ -20,10 +20,10 @@ Use the visible Rocksmith chart to follow the arrangement, and listen for the ch
 💬 Discuss the song in Discord; a community boost is always appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 278/500 characters)
+## TAGS (17 tags, 303/500 characters)
 
 ```text
-motionless in white, masterpiece, motionless in white masterpiece, scoring the end of the world, alternative metal, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2022, bass guitar, play along, motionless in white masterpiece cover, rocksmith bass metal
+motionless in white, masterpiece, motionless in white masterpiece, scoring the end of the world, alternative metal, metalcore, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2022, bass guitar, play along, motionless in white masterpiece cover, rocksmith bass metal, miw, motionles in white
 ```
 
 ## PINNED COMMENT (106 characters)
@@ -34,8 +34,12 @@ Do you prefer learning a song in short sections, or playing through it and revis
 
 ## GENRE FINDINGS (internal)
 
-Track-level source gives alternative metal, with other classifications varying. Album-level metalcore and gothic descriptions are context, not sufficient to assert them as the definitive song genres. Drop C is not verified for this specific chart.
+Artist-level genres from https://en.wikipedia.org/wiki/Motionless_in_White. The same artist list is used for all this artist's uploads as requested; it is not a claim that this specific recording sounds like every listed genre. See Band Info/Motionless In White/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
-- Alternative metal
+- Metalcore
+- Gothic metal
+- Industrial metal
+- Nu metal
+- Hard rock

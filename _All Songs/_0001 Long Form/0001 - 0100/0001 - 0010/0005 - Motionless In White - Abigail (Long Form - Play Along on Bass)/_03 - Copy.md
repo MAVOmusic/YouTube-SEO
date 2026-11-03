@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (50 characters)
+## TITLE (55 characters)
 
 ```text
-Abigail takes Motionless In White to Salem on bass
+Salem's shadow in Abigail - Motionless In White on bass
 ```
 
 ## DESCRIPTION (606 characters)
@@ -20,10 +20,10 @@ Follow the bass chart on screen and listen to how the part fits against the rest
 💬 Tell Discord which early Motionless In White track to revisit; community boosts are appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 253/500 characters)
+## TAGS (17 tags, 278/500 characters)
 
 ```text
-motionless in white, abigail, motionless in white abigail, creatures, metalcore, horror metal, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2010, bass guitar, play along, motionless in white bass cover, rocksmith bass motionless in white
+motionless in white, abigail, motionless in white abigail, creatures, metalcore, horror metal, bass cover, bass play along, rocksmith bass, rocksmith 2014, 2010, bass guitar, play along, motionless in white bass cover, rocksmith bass motionless in white, miw, motionles in white
 ```
 
 ## PINNED COMMENT (91 characters)
@@ -34,9 +34,12 @@ Does the early Motionless In White sound pull you in, or do you prefer their lat
 
 ## GENRE FINDINGS (internal)
 
-Creatures is documented as metalcore and melodic metalcore at album level, and the song is described in a metalcore context. Gothic and horror are aesthetic/theme descriptors; song-level independent genre support is not strong enough to require more playlists. Drop C for this chart is unverified.
+Artist-level genres from https://en.wikipedia.org/wiki/Motionless_in_White. The same artist list is used for all this artist's uploads as requested; it is not a claim that this specific recording sounds like every listed genre. See Band Info/Motionless In White/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
 - Metalcore
-- Melodic metalcore
+- Gothic metal
+- Industrial metal
+- Nu metal
+- Hard rock
