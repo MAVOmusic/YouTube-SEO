@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and proposed pin. Genre findings are internal.
 
-## TITLE (64 characters)
+## TITLE (47 characters)
 
 ```text
-Brad Walst has the original bass credit on Three Days Grace Pain
+Pain by Three Days Grace - a bass take on One-X
 ```
 
 ## DESCRIPTION (442 characters)
@@ -20,10 +20,10 @@ I play bass beside the game display in this cover.
 💬 Compare One-X tracks via Discord; server boosts are a helpful extra: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (12 tags, 150/500 characters)
+## TAGS (16 tags, 191/500 characters)
 
 ```text
-three days grace, pain, three days grace pain, one x, one-x, adam gontier, brad walst, post grunge, alternative rock, 2006, bass cover, rocksmith bass
+three days grace, pain, three days grace pain, one x, one-x, adam gontier, brad walst, post grunge, alternative rock, 2006, bass cover, rocksmith bass, adam, brad, neil sanderson, barry stock
 ```
 
 ## PINNED COMMENT (55 characters)
@@ -34,9 +34,11 @@ Which Brad Walst bass part would you recommend hearing?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Album of the Year classifies the Pain single as post-grunge and alternative rock; this is release-level evidence, and genre labels are subjective.
+Artist-level genres from https://en.wikipedia.org/wiki/Three_Days_Grace. These are catalogue-wide classifications, not necessarily descriptions of this recording. See Band Info/Three Days Grace/Register.md.
 
 ## CORRECT GENRES
 
 - Post-grunge
+- Hard rock
 - Alternative rock
+- Alternative metal

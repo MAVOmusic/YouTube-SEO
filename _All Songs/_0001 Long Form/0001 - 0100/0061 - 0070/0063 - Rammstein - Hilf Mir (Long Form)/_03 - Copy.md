@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and proposed pin. Genre findings are internal.
 
-## TITLE (43 characters)
+## TITLE (54 characters)
 
 ```text
-Rammstein Hilf Mir and the story of Pauline
+Hilf Mir: Rammstein's Rosenrot story on Rocksmith bass
 ```
 
 ## DESCRIPTION (491 characters)
@@ -20,10 +20,10 @@ I play bass here alongside a visible Rocksmith chart.
 💬 Discuss songs and stories through Discord; thank you to everyone boosting: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 197/500 characters)
+## TAGS (18 tags, 250/500 characters)
 
 ```text
-rammstein, ramstein, hilf mir, rammstein hilf mir, rosenrot, struwwelpeter, heinrich hoffmann, pauline, neue deutsche härte, neue deutsche haerte, industrial metal, 2005, bass cover, rocksmith bass
+rammstein, ramstein, hilf mir, rammstein hilf mir, rosenrot, struwwelpeter, heinrich hoffmann, pauline, neue deutsche härte, neue deutsche haerte, industrial metal, 2005, bass cover, rocksmith bass, till lindemann, till, oliver riedel, richard kruspe
 ```
 
 ## PINNED COMMENT (61 characters)
@@ -34,7 +34,7 @@ Which song introduced you to a story you had not read before?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Artist-level classifications from https://www.wikiwand.com/en/Rammstein; these do not establish that every genre describes this recording. See Band Info/Rammstein/Register.md.
+Artist-level genres from https://www.wikiwand.com/en/Rammstein. These are catalogue-wide classifications, not necessarily descriptions of this recording. See Band Info/Rammstein/Register.md.
 
 ## CORRECT GENRES
 

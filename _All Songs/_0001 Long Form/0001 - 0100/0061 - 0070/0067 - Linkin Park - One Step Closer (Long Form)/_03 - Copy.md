@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and proposed pin. Genre findings are internal.
 
-## TITLE (60 characters)
+## TITLE (53 characters)
 
 ```text
-Jonathan Davis guests on a Linkin Park One Step Closer remix
+One Step Closer: hear Linkin Park's debut era on bass
 ```
 
 ## DESCRIPTION (491 characters)
@@ -20,10 +20,10 @@ The chart appears next to my bass playing.
 💬 Imagine unexpected vocal collaborations on Discord; boosts are welcome: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (11 tags, 160/500 characters)
+## TAGS (15 tags, 201/500 characters)
 
 ```text
-linkin park, one step closer, linkin park one step closer, hybrid theory, joe hahn, chester bennington, mike shinoda, nu metal, 2000, bass cover, rocksmith bass
+linkin park, one step closer, linkin park one step closer, hybrid theory, joe hahn, chester bennington, mike shinoda, nu metal, 2000, bass cover, rocksmith bass, chester, mike, brad delson, rob bourdon
 ```
 
 ## PINNED COMMENT (57 characters)
@@ -34,8 +34,13 @@ Which vocalist would you invite onto a Linkin Park track?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-The One Step Closer song page classifies the track as nu metal; this is a subjective song-level recommendation.
+Artist-level genres from https://en.wikipedia.org/wiki/Linkin_Park. These are catalogue-wide classifications, not necessarily descriptions of this recording. See Band Info/Linkin Park/Register.md.
 
 ## CORRECT GENRES
 
+- Alternative rock
 - Nu metal
+- Rap rock
+- Alternative metal
+- Electronic rock
+- Pop rock

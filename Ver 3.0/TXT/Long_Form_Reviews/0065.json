@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "2e5b440c153dfc9f9032910d12be43189c49264636f82b1b9763915b711f50cf",
+    "title": "bf30ac1959985547eaba93c7f4f2599a566078d1435ac63755deea18196ca118",
     "description": "523eee3eba28f8b902cab23c560d287b7c1db477abd1ac3ce2208131b5da1c06",
-    "tags": "1eae90cb7333b58c25d045505811fea8375fdaa8138a4fb790d0a802e4b6b9c4",
+    "tags": "406f5a5bf1940e714c3d36406cf00d639d3748508956c3e1e398d1c75787f3cb",
     "pinned comment": "a49c64cec08eb447a6054d1ad94361d7b4be46ad5237e1655674ffdbc7b26d6e",
-    "genres": "2103a82652c6a8ef3d0c1a4c798b66571e9718e5809c5e9305cb310323e7f090"
+    "genres": "e6328a2e69e1fbd8f2aebcc05f69ae1f8fd9801f7ccb19fbea61e91343235304"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Come As You Are bass cover: Nirvana and Butch Vig production credit",
-      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Title distinguishes MAVO bass cover from the original recording production credit."
+      "claim": "Come As You Are: find the low end of Nirvana's Nevermind",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0065 - Nirvana - Come As You Are (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Nirvana_(band) ; user confirms bass performance with overlay",
+      "assessment": "Song, artist, historical context and creator performance checked; editorial language is not a claim of artist appearance in MAVO video or measured CTR."
     },
     {
       "surface": "description",
@@ -119,21 +119,51 @@
       "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
     },
     {
+      "surface": "tags",
+      "claim": "kurt",
+      "source": "https://en.wikipedia.org/wiki/Nirvana_(band)",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "krist",
+      "source": "https://en.wikipedia.org/wiki/Nirvana_(band)",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "dave grohl",
+      "source": "https://en.wikipedia.org/wiki/Nirvana_(band)",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "butch vig",
+      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are",
+      "assessment": "Relevant artist/member, contributor or observed spelling; not a claim of presence in MAVO video, a recording credit, search frequency or tag effectiveness."
+    },
+    {
       "surface": "genres",
       "claim": "Grunge",
-      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are",
-      "assessment": "Discogs classifies the 1992 European Come As You Are single as grunge and alternative rock. These are release-level classifications."
+      "source": "https://en.wikipedia.org/wiki/Nirvana_(band)",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     },
     {
       "surface": "genres",
       "claim": "Alternative rock",
-      "source": "https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are",
-      "assessment": "Discogs classifies the 1992 European Come As You Are single as grunge and alternative rock. These are release-level classifications."
+      "source": "https://en.wikipedia.org/wiki/Nirvana_(band)",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Punk rock",
+      "source": "https://en.wikipedia.org/wiki/Nirvana_(band)",
+      "assessment": "Artist-level classification, not necessarily a characteristic of this track."
     }
   ],
   "distinct_fact_and_source": "Nirvana and Butch Vig production credit ; https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are",
   "uniqueness_assessment": "Independent recheck of title, description, tags, proposed pin and CTA against available first-70 copy. No five-word collision remains for this song. Semantic uniqueness beyond the available corpus and future uploads cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Production credit is from a specific European single, not a claim about every version. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings.",
+  "uncertainties_and_removed_claims": "Production credit is from a specific European single, not a claim about every version. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. 2026-11-03: Artist-level classifications are subjective; name tags are associations, not proof of performance credits or an appearance in MAVO video. Search demand and CTR are unmeasured.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

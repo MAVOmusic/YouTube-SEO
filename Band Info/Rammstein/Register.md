@@ -55,3 +55,13 @@ Relevant names below are artist associations, not an assertion they play on each
 
 - CO-0040: Amerika uses German and English in the original; an English version also appears on a single edition. Do not assert this video is the English version.
   - Source: https://rammstein.fandom.com/wiki/Amerika_(song)
+
+## 2026-11-03 strategy pass
+
+- CO-0063 title: Hilf Mir: Rammstein's Rosenrot story on Rocksmith bass
+  - A review of Rammstein's 2005 album Rosenrot connects the lyrics of Hilf Mir to the Pauline story in Heinrich Hoffmann's Struwwelpeter. The title means "Help me" in English.
+    - Source: https://vampster.com/cd-reviews/rammstein-rosenrot/ ; https://genius.com/Rammstein-hilf-mir-lyrics
+  - Name/variant: till lindemann - https://www.wikiwand.com/en/Rammstein
+  - Name/variant: till - https://www.wikiwand.com/en/Rammstein
+  - Name/variant: oliver riedel - https://www.wikiwand.com/en/Rammstein
+  - Name/variant: richard kruspe - https://www.wikiwand.com/en/Rammstein
