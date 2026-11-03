@@ -47,5 +47,6 @@ if [ $VERIFY_RC -ne 0 ] || [ $GUARD_RC -ne 0 ]; then
     echo "❌ OVERALL FAIL — do not ship metadata until both tiers are green."
     exit 1
 fi
-echo "Verification complete! ALL GATES GREEN ✓"
+echo "Bands corpus checks passed. This does NOT verify long-form copy or factual accuracy."
+echo "For long-form releases, follow TXT/Long_Form_Release_Gate.txt and run PY/long_form_gate.py --check with each video ID."
 exit 0

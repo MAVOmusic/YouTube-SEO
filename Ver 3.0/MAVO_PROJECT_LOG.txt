@@ -563,3 +563,10 @@ TXT/First_70_Fact_Check_2026-11-03.txt. 0011-0070 remains open.
 as other surfaces. First ten checked; tags 0001-0006 revised, genre findings and
 recommended lists separated for 0001-0010, canonical list corrected. Sources and
 uncertainties in TXT/First_70_Fact_Check_2026-11-03.txt.
+
+2026-11-03 - MAVO requires one-by-one verification before any output, including
+every copy surface, facts, questions, CTAs, tags and genres. Every video needs
+its own verified fact angle, writing and CTA, even repeated songs. Added manual
+release procedure and PY/long_form_gate.py evidence/hash/repetition report gate.
+Code cannot determine truth or detect all semantic duplication. Previous reviews
+are not retroactively certified. See TXT/Long_Form_Release_Gate.txt.
