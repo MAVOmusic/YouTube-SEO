@@ -212,7 +212,7 @@ LONG FORM - 22 visible rows, floor 26 views / 48h, floor 1 view / 60 min
 
    VIEWS  PUBLISHED     CONTENT
      2    03-12-2025    Alice Cooper - SNAKEDbite #rocksmith #bass #alice...
-     2    13-02-2025    Lonely Day proves System Of A Down can whisper and...   [CO-0016]
+     2    13-02-2025    Lonely Day proves System Of A Down can whisper and...   [identity not established: date differs from CO-0016]
      2    22-07-2026    Oliver Riedel's crushing Drop C industrial metal bass we...
      2    09-09-2025    *NSYNC - Tearin' Up My Heart #rocksmith #bass #...
      1    11-11-2025    Primus - My Name Is Mud #rocksmith #bass #pri...
@@ -262,53 +262,35 @@ SHORTS - 22 visible rows, floor 76 views / 48h, floor 4 views / 60 min
 
 --- G. READ -------------------------------------------------------------------
 
-G-A  SHORTS IS DOING 74% OF THE REALTIME WORK AT 3.5X THE PER-ROW YIELD.
-     76 visible Shorts views against 26 visible long-form views, from the same
-     number of rows. Median row is 3 for Shorts and 1 for long form. The long-form
-     tail is a long list of single views; the Shorts tail is a short list of
-     threes and fours. Nothing here contradicts the 01-11 finding that Shorts
-     carries reach and long form carries RPM - it sharpens it.
+G-A  VISIBLE ROWS ONLY: 76 Shorts views against 26 Videos views, each across
+     22 visible rows. The visible-row ratio is about 2.92:1, not 3.5:1; the
+     74.5% share is of these 102 visible views, not of channel-wide realtime.
+     Median visible row is 3 for Shorts and 1 for Videos. Neither these partial
+     rows nor their ratio establish channel-wide format shares or revenue.
 
-G-B  THE 60-MINUTE PULSE IS FIVE VIEWS. Three of them land on one Nickelback
-     Short. Two land on Kings Of Leon (long form) and Dragonforce (Short). At
-     ~5/hour against the standing 1,000/hour target, this is x0.5% of goal, and
-     the earlier "869 views / 48h" figure from CA-2026-11-01 cannot be reconciled
-     with a 102-view visible floor - which means either the 48h figure covers a
-     much longer tail than the cards show, or the channel has fallen off a cliff
-     in the last 24 hours. **Do not resolve this from a card. Re-capture the
-     28-day window to settle it.**
+G-B  FIVE 60-MINUTE VIEWS ARE VISIBLE, not a channel total: three on one
+     Nickelback Short and one each on Kings Of Leon and Dragonforce. The
+     visible floor is 0.5% of the 1,000/hour target; the actual total is unknown.
+     A partial visible-list floor cannot be compared to a channel total to infer
+     a decline. Capture totals and comparable rolling 28-day reports to assess change.
 
-G-C  THE AUDITED CATALOGUE IS BARELY IN THE ROOM. Four of 44 visible realtime rows
-     are Phase-2 audited videos: CO-0001 (Burzum), CO-0016 (Lonely Day), CO-0003
-     and CO-0004 (the 2022 Motionless pair). Every other row is a video that has
-     never been through this process. **Zero of the 22 Shorts rows has been
-     audited at all.** This is finding G4 from 01-11 restated with today's data:
-     the business end of the channel is the unaudited tail, and Phase 2 is walking
-     the chronology instead.
+G-C  Realtime lists alone cannot establish audit coverage or unique upload IDs.
+     The Lonely Day row shows 13-02-2025 whereas the CO-0016 register lists
+     12-02-2025. The earlier CO-0016 attribution was not established; a time-zone
+     difference or separate upload is possible. Verify the video ID before mapping.
 
-G-D  THE NEW HOUSE TITLES ARE ALREADY IN THE WILD AND ALREADY GETTING VIEWS.
-     "Lonely Day proves System Of A Down can whisper and...", "Autumn Leaves for
-     an hour and Burzum in no hurry", "Odadjian's wild, syncopated Drop C bass
-     assault on To...", "A second Another Life from Motionless In White, tuner...",
-     "Motionless In White wrote Masterpiece so the bass cou...", "Playing bass
-     over this classic crunkcore track is wild!", "Bergy Oakley's legendary fluid
-     12-bar blues-rock bass w..." - that is seven of the 22 long-form rows carrying
-     a rewritten title, and four of those live in the top half of the list.
-     **The rewrite programme is measurably in the traffic already.**
+G-D  Several visible titles resemble rewritten copy. Their appearance alongside
+     a few views is an observation, not a controlled before/after comparison or
+     evidence that rewrites caused traffic. Truncated text cannot prove identity.
 
-G-E  SABATON KEEPS EARNING ATTENTION WITHOUT EARNING MONEY. Both Sabaton Shorts
-     (1648 Swedish, Ruina Imperii) hold 3 views each in a 48h window, and Sabaton
-     long forms are E4 twice over. This is the seventh sighting of the pattern:
-     **demand tracks the artist; revenue tracks the master.**
+G-E  TWO SABATON SHORTS EACH SHOW THREE VIEWS in the visible 48-hour rows.
+     This report does not show revenue, rights allocation, or causal drivers;
+     historical individual-video revenue or claims cannot establish those for
+     other videos or for this reporting window.
 
-G-F  A WISHLIST OF UNTOUCHED ARTISTS HAS JUST BEEN HANDED OVER BY YOUTUBE ITSELF.
-     Alice Cooper, *NSYNC, Primus, Saxon, Static-X, Kings Of Leon, The Killers,
-     Good Riddance, 9mm Parabellum Bullet, Matthieu Chedid, Cold, Rise Against,
-     Pendulum, Billy Talent, Good Charlotte, KT Tunstall, Prince, Ill Nino,
-     Nickelback, Dir En Grey, 311, Red Hot Chili Peppers, Bathory, Dragonforce.
-     Every one of these has a live row and none has a full audit. Cross-check
-     against TXT/SSL_Demand_Map.txt before the next recording session - several of
-     these are likely already in the SSL database MAVO owns.
+G-F  Artists listed in the historical 02-11 table provide possible research
+     leads, not demonstrated search demand or evidence that every artist was
+     unaudited. Do not reorder the user's chronological review based on this list.
 
 G-G  PROCESS NOTE - LOG EVERY TASK. MAVO (02-11-2026): "Make sure to always update
      logs and context block. After every task so nothing getting missed."
@@ -322,3 +304,103 @@ G-G  PROCESS NOTE - LOG EVERY TASK. MAVO (02-11-2026): "Make sure to always upda
   and not as a delta. The next true delta is due on the next 28-day capture.
 ################################################################################
 
+
+################################################################################
+## CA-2026-11-03 | capture time unknown | REALTIME PERFORMANCE by filter
+################################################################################
+Source: _All Songs/0000 - Channel Analytics/Channel Analytics - 2026-11-03/
+IMPORTANT: filenames are reversed relative to the Studio filters on the images.
+  Long Form.jpeg  -> Shorts filter (Shorts rows below)
+  Short Form.jpeg -> Videos filter (Videos rows below)
+Images are historical live snapshots, possibly taken at different times. Both show
+Last 48 hours and Last 60 minutes, NOT channel totals; top row is partly clipped
+and rows below the visible area are unknown. Titles below are truncated as shown.
+Publishing dates are video dates, not capture dates. No revenue, CTR, impressions,
+traffic-source, watch-time, subscriber or 28-day results are shown here.
+
+--- F. REALTIME: SHORTS (Long Form.jpeg) ---------------------------------------
+25 readable rows; 102 visible views / 48h, 3 visible views / 60min. Lower bounds,
+not format totals. Each 60-minute value is zero except the three noted rows.
+
+48h  published    visible title / identity (truncated where necessary)
+ 6   20-06-2025  Sabaton - En Livstid I Krig
+ 5   19-07-2024  Rammstein - Bestrafe Mich
+ 5   18-06-2026  Aggressive dropped-tuned metalcore on the Thunderbir...
+ 5   23-07-2024  Rammstein - Das Modell (Kraftwerk Cover)
+ 5   04-04-2025  Maximum The Hormone - ChuChu Lovely MuniMuni Mu... [60min 1]
+ 5   28-01-2025  Lostprophets - Last Train Home
+ 4   11-05-2025  Silverstein - Bleeds No More
+ 4   13-03-2025  Korpiklaani - Vodka
+ 4   07-07-2025  9mm Parabellum Bullet - Inferno (TV Size) [60min 1]
+ 4   09-07-2025  Good Charlotte - A New Beginning
+ 4   06-12-2025  Trust Company - Deeper Into You [60min 1]
+ 4   05-06-2024  Maximum The Hormone - Zetsubou Billy
+ 4   23-03-2025  Finntroll - Trollhammaren
+ 4   17-04-2024  Rammstein - Amour
+ 4   11-05-2025  Bathory - In Nomine Satanas
+ 4   31-10-2022  System Of A Down - Lonely Day
+ 4   26-01-2025  Thirty Seconds To Mars - The Mission
+ 4   05-06-2025  Muse - Glorious
+ 4   11-11-2025  Rage Against The Machine - Bombtrack
+ 4   21-07-2024  Sabaton - The Valley Of Death
+ 3   21-01-2025  Rhapsody - Dawn Of Victory
+ 3   24-01-2025  Celldweller - Switchback
+ 3   23-07-2024  Nickelback - Next Contestant
+ 3   28-05-2024  311 - Come Original
+ 3   15-11-2024  Sabaton - Angels Calling (Live)
+
+--- F. REALTIME: VIDEOS (Short Form.jpeg) --------------------------------------
+25 readable rows; 35 visible views / 48h; 0 visible views / 60min. Lower bounds,
+not format totals. A small tooltip reads Yesterday 08:00-09:00: 0; it is not a
+channel total or the capture time. All visible 60-minute column values are zero.
+
+48h  published    visible title / identity (truncated where necessary)
+ 3   09-10-2025  Mindless Self Indulgence - Lights Out
+ 3   11-09-2025  -M- (Matthieu Chedid) - Qui De Nous Deux
+ 3   09-09-2025  Saliva Feat. Jim Johnston - I Walk Alone (WWE - B...
+ 2   03-11-2022  From piano to bass: Chopin's Nocturne Op. 9 No. 2 for 4... [CO-0011]
+ 2   13-02-2025  Lonely Day turns System Of A Down's intensity inward -...
+ 2   18-11-2025  Green Day - 8th Avenue Serenade
+ 2   20-04-2026  Rocksmith 2014 Bass Cover - Green Day - 8th Ave...
+ 1   25-07-2026  Paul Ryder's Manchester funk-house bassline is an abs...
+ 1   27-08-2026  Odadjian's wild, syncopated Drop C bass assault on To...
+ 1   26-10-2025  Jack Off Jill - Strawberry Gashes
+ 1   22-06-2026  Michel van Schie's funkiest Dutch bass groove is pure f...
+ 1   20-07-2026  Rob Kucharek's driving 2004 pop-punk bass engine on ...
+ 1   11-10-2025  Mindless Self Indulgence - Animal
+ 1   21-10-2025  Motionless In White - Scissorhands (The Last Sno...
+ 1   05-12-2025  Good Riddance - Darkest Days
+ 1   03-09-2025  What happens when Rammstein's Amerika meets a bas...
+ 1   12-11-2025  Motorhead - Louie Louie
+ 1   04-12-2025  Kings Of Leon - Closer
+ 1   20-11-2025  What To Expect At kick.com/mavomusic?
+ 1   02-12-2025  The Killers - Smile Like You Mean It
+ 1   17-09-2025  HIM - Buried Alive By Love
+ 1   01-09-2025  How does Arabic UFO Party sound on bass? An Alien F...
+ 1   29-11-2025  The Bloodhound Gang - Foxtrot Uniform Charlie Kil...
+ 1   06-12-2025  Ozzy Osbourne - Desire
+ 1   19-07-2026  Devouring the heaviest, most chaotic metalcore breakd...
+
+--- G. INTERPRETATION / ACTION -------------------------------------------------
+- The 25 readable Shorts rows sum to 102; the 25 readable Videos rows sum to
+  35. Their 2.91:1 ratio and 74.5% Shorts share describe ONLY these 50 rows,
+  not channel-wide demand, traffic share, revenue, or comparative ROI.
+- Only three last-hour views are visible across these rows; this is a minimum,
+  not the total and not evidence of a channel-wide hourly rate or target result.
+- The screenshots show multiple songs and eras attracting at least some views;
+  Sabaton and Rammstein recur among visible Shorts. Tiny counts cannot establish
+  durable demand, title effectiveness, sources of traffic, or causation.
+- CO-0011 appears as a truncated title on the Videos list with two views. This
+  is a historical observation, not a before/after experiment or proof an SEO
+  revision caused those views. Similar names do not identify an upload uniquely.
+- Preserve oldest-to-newest review and five-at-a-time processing from 0071;
+  do not change publishing/SEO priority from this partial snapshot. Capture
+  unfiltered channel 48h/60min totals and comparable 28-day format, sources,
+  impressions/CTR, watch-time, subscribers and revenue to support real decisions.
+- The previous 02-11 analysis above has been corrected: its 3.5x arithmetic,
+  74% channel claim, five/hour total, cliff inference and revenue causation were
+  not justified by partial lists. The 02-11 Lonely Day CO-0016 mapping and
+  claims of complete audit coverage were also unverified and are corrected.
+  Comparison between visible sums on different
+  dates is not a channel delta; coverage and snapshot times differ.
+################################################################################
