@@ -87,3 +87,79 @@ claim in 0008/0027. It contradicts a blanket zero-collision assertion, but uses
 its own tokenisation and scope; manually classify and resolve genuinely repeated
 shapes after factual edits, then record a reproducible final test. The earlier
 scratch scripts are not present in this environment.
+
+CONTINUED FACT-CHECK - 2026-11-03 - STILL IN PROGRESS
+User has already edited 0001-0022 based on the earlier response. Do not tell
+MAVO to paste any further preliminary copies: they explicitly want all affected
+surfaces complete and checked before being asked to change them again. All 70
+remain in scope, including 0001-0022 already edited. The following are individual
+checks, not completed full-video audits. Existing copies may contain further errors.
+
+New confirmed discrepancies:
+- 0001 original Autumn Leaves album track is 4:50, not 'four and a half
+  minutes': https://www.discogs.com/release/5700831-Burzum-The-Ways-Of-Yore
+  The description's recording, edits and performance details are unverified.
+- 0007 Immaculate Misconception is track ONE on Creatures, not track two:
+  https://www.discogs.com/release/3834731-Motionless-In-White-Creatures
+- 0009 Welcome to the Black Parade is track FIVE, not the opening track:
+  https://www.discogs.com/release/1428797-My-Chemical-Romance-The-Black-Parade
+- 0017 description implies MCR were absent until 2022; reunion announced 2019,
+  first reunion show 2019, new song in 2022:
+  https://www.amazon.com/Foundations-Decay-My-Chemical-Romance/dp/B09ZVLPMVN
+- 0061 Ghost Division is track TWO, following Sun Tzu Says, and the original
+  2008 release was Black Lodge, not Nuclear Blast. Official label tracklist:
+  https://www.nuclearblast.com/pages/album/the-art-of-war
+  https://www.discogs.com/release/1570380-Sabaton-The-Art-Of-War
+  The 2010 reissue is Nuclear Blast; do not conflate editions.
+- 0058 Lion From The North follows Dominium Maris Baltici, NOT the title theme:
+  https://www.sabaton.net/discography/carolus-rex/
+- 0052 previous full replacement contained an illogical credit chronology;
+  Serj Tankian appeared on Feel Good on the same album, so use that fact without
+  claiming he joined after the album was released:
+  https://genius.com/albums/Hed-pe/Broke
+
+Potential discrepancy requiring more evidence:
+- 0033 claims Ricky Olson specifically played bass on Another Life. Album credits
+  list both Ryan Sitkowski and Ricky Olson for bass without track-specific support:
+  https://en.wikipedia.org/wiki/Disguise_(album). Do not assert one player until
+  a reliable track-specific credit is found.
+- 0014 credits John Deacon on bass and Fred Mandel on a synth solo; the claim
+  that the hook is synth bass and pin 'two bass players' have not been verified:
+  https://behindtherhapsody.com/the-works-1984/i-want-to-break-free
+- 0067 runtimes vary by edition: 2:35 versus 2:37, so 'shortest' may be tied;
+  no conclusion until exact edition checked:
+  https://linkinpark.fandom.com/wiki/Hybrid_Theory
+  https://en.wikipedia.org/wiki/Hybrid_Theory
+
+Additional checked facts (do not imply surrounding prose is verified):
+- 0003 Masterpiece appears on Scoring the End of the World, 2022:
+  https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/
+- 0005 Abigail appears on Creatures, 2010: same Discogs Creatures link above.
+- 0006 America appears on Infamous, 2012:
+  https://www.deezer.com/us/track/133100346
+- 0008 X-Kid is on Tre, 2012; deals with the suicide of Armstrong's friend:
+  https://www.greendayauthority.com/music/song/352/x-kid/
+- 0010 If I'd Been The One is on Tour De Force, 1983:
+  https://www.discogs.com/release/4801020-38-Special-Tour-De-Force
+- 0011 Chopin Nocturne Op. 9 No. 2, E flat major, was published 1832:
+  https://juilliardstore.com/products/chopin-nocturne-in-e-flat-major-op-9-no-2
+- 0012 Cute Without the E appears on Tell All Your Friends, 2002:
+  https://secondhandsongs.com/performance/367380/all
+- 0013 War Ensemble is the opening track on Seasons in the Abyss, 1990;
+  Tom Araya is credited bass and vocals:
+  https://www.discogs.com/release/2316788-Slayer-Seasons-In-The-Abyss
+- 0016 Lonely Day appears on Hypnotize, the fifth album, 2005:
+  https://systemofadown.miraheze.org/wiki/Hypnotize
+- 0049 I'm the Trend lyric credits include Minnie, Yuqi, Soyeon, FCM Houdini;
+  differing sources describe composer credits differently. Check official credits:
+  https://kpop.fandom.com/wiki/I'm_the_Trend
+- 0070 Standing In The Rain is track eight on Billy Talent (2003), 3:20 on
+  this edition: https://www.discogs.com/release/417628-Billy-Talent-Billy-Talent
+
+Outstanding process: track every claim and source per TITLE / DESCRIPTION / PIN,
+remove unsupported recording/editing, playing, artist motivation, dates and CTA
+promises, and distinguish opinion from fact. Resolve contradictions and user-specific
+claims; do not claim completion on the basis of tracklist verification. Only once
+all 70 are complete and consistent: update copy files and shape/correction logs;
+run validation; provide each changed surface as a WHOLE labelled-outside code
+block in chat. Do not force MAVO to replace the same material repeatedly.
