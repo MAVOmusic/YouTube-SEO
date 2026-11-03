@@ -2,9 +2,9 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "df7ffd3c8409728aedd91ea455e556f415a8f13f94757213acdab49fe1c5afa4",
+    "title": "ab7a7cc21f4e6a585421ee8873bfc5606523e9e22cd973a1f84b2b084a9f682a",
     "description": "818702c54128619de36afa2363014e4ef96d47b8eb09485e8441dc896c922617",
-    "tags": "2404afc7e861a1a38817ea0b6070ab798e205ac633d83bec48cf6b27fbf1ddac",
+    "tags": "54a751492952ba93e21b172fcebedda2ac81ba49f0628d06e8b2d01b95afdbba",
     "pinned comment": "59d3b63c59c64a618ccd74e872e0991c1449f8f355ec69586720c6e17d5f976f",
     "genres": "e39b35d77197353ee45d286888eb5a7da7b5729c4822d026e51761fb8e107674"
   },
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "The +44 album behind Weatherman lists three recording studios",
-      "source": "https://www.discogs.com/release/850653-44-When-Your-Heart-Stops-Beating",
-      "assessment": "Album CD credits list three recording studios; they do not specify which studio was used for this particular track."
+      "claim": "Weatherman by +44: a darker turn on Rocksmith bass",
+      "source": "https://www.discogs.com/release/850653-44-When-Your-Heart-Stops-Beating ; https://www.allmusic.com/artist/-44-mn0000484990 ; user confirms bass playing with overlay ; https://www.punknews.org/review/5811/plus-44-when-your-heart-stops-beating",
+      "assessment": "Song identity, context and creator performance checked; emotional or energetic descriptions are editorial judgments, not a CTR claim. Referenced original artists do not appear in this creator performance."
     },
     {
       "surface": "description",
@@ -131,21 +131,45 @@
       "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
     },
     {
+      "surface": "tags",
+      "claim": "mark",
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "travis",
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "shane gallagher",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "craig fairbaugh",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
       "surface": "genres",
       "claim": "Pop punk",
-      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
-      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
     },
     {
       "surface": "genres",
       "claim": "Alternative rock",
-      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
-      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
     }
   ],
   "distinct_fact_and_source": "US album credits list three recording studios ; https://www.discogs.com/release/850653-44-When-Your-Heart-Stops-Beating",
   "uniqueness_assessment": "Reviewed against available first-70 corpus. The five shared five-word signals are the necessary album title When Your Heart Stops Beating; the studio-credit angle is distinct.No guarantee can be made for unseen or future uploads.",
-  "uncertainties_and_removed_claims": "Replaced the prior account relying on an inaccessible original interview or blog. Album CD credits list three recording studios; they do not specify which studio was used for this particular track. Genre labels are subjective. Historical screenshots do not verify current pins, restrictions, earnings or continuous video visibility.",
+  "uncertainties_and_removed_claims": "Replaced the prior account relying on an inaccessible original interview or blog. Album CD credits list three recording studios; they do not specify which studio was used for this particular track. Genre labels are subjective. Historical screenshots do not verify current pins, restrictions, earnings or continuous video visibility. 2026-11-03: Band-wide genres are subjective; tags indicate relevant name associations, not search demand, recording participation, or performer appearance in MAVO video. Title CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "5cc9891633e5f8219bd9dcb0f787c7c6963884aa22b3906445d8c96d70d1e7b9"

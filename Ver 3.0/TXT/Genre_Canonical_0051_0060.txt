@@ -1,12 +1,27 @@
-2026-11-03 - Genre suggestions, with evidence limitations in the individual review records.
+# 2026-11-03 - Artist-level genre canon for 0051-0060
+# Artist genres are subjective catalogue labels, not claims about every track. See artist registers and individual records.
 
-0051  (Hed) P.E. - Watch It Burn  Rap rock
-0052  (HED) P.E. - I  Got You  Nu metal / Rap rock / Rap metal
-0053  +44 (Plus 44) - 155  Pop punk / Alternative rock
-0054  +44 (Plus 44) - Baby, Come On  Pop punk / Alternative rock
-0055  +44 (Plus 44) - Chapter XIII  Pop punk / Alternative rock
-0056  +44 (Plus 44) - Little Death  Pop punk / Alternative rock
-0057  +44 (Plus 44) - Make You Smile  Pop punk / Alternative rock
-0058  Sabaton - The Lion From The North  Power metal
-0059  +44 (Plus 44) - Weatherman  Pop punk / Alternative rock
-0060  T.A.T.U - All The Things She Said  Pop rock / Alternative rock
+0051  0051 - (Hed) P.E. - Watch It Burn (Long Form)  Rap rock / Nu metal / Punk rock / Rap metal
+0052  0052 - (HED) P.E. - I  Got You (Long Form)  Rap rock / Nu metal / Punk rock / Rap metal
+0053  0053 - +44 (Plus 44) - 155 (Long Form)  Pop punk / Alternative rock
+0054  0054 - +44 (Plus 44) - Baby, Come On (Long Form)  Pop punk / Alternative rock
+0055  0055 - +44 (Plus 44) - Chapter XIII (Long Form)  Pop punk / Alternative rock
+0056  0056 - +44 (Plus 44) - Little Death (Long Form)  Pop punk / Alternative rock
+0057  0057 - +44 (Plus 44) - Make You Smile (Long Form)  Pop punk / Alternative rock
+0058  0058 - Sabaton - The Lion From The North (Long Form)  Power metal / Heavy metal
+0059  0059 - +44 (Plus 44) - Weatherman (Long Form)  Pop punk / Alternative rock
+0060  0060 - T.A.T.U - All The Things She Said (Long Form)  Pop / Pop rock / Europop / Electronic
+
+# Earlier song-level recommendations below are historical and superseded:
+# 2026-11-03 - Genre suggestions, with evidence limitations in the individual review records.
+#
+# 0051  (Hed) P.E. - Watch It Burn  Rap rock
+# 0052  (HED) P.E. - I  Got You  Nu metal / Rap rock / Rap metal
+# 0053  +44 (Plus 44) - 155  Pop punk / Alternative rock
+# 0054  +44 (Plus 44) - Baby, Come On  Pop punk / Alternative rock
+# 0055  +44 (Plus 44) - Chapter XIII  Pop punk / Alternative rock
+# 0056  +44 (Plus 44) - Little Death  Pop punk / Alternative rock
+# 0057  +44 (Plus 44) - Make You Smile  Pop punk / Alternative rock
+# 0058  Sabaton - The Lion From The North  Power metal
+# 0059  +44 (Plus 44) - Weatherman  Pop punk / Alternative rock
+# 0060  T.A.T.U - All The Things She Said  Pop rock / Alternative rock

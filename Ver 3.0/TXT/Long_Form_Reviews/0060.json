@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "10c670dae1e2b86bd2fbed24415a77250c4a5e289bc61bfe56ab2031da764ec0",
+    "title": "6ec8e51bd5055315e0368c2920861f329f7a6d67f6b8c410166a725800b23973",
     "description": "24a415da3ae6292d45d875f325a3e3a53fb9cc8858377de54dc67212d3eac317",
-    "tags": "a727f59d098a95f70796239fe6ef0a155283cd398025db6a0e0e3f942357cdac",
+    "tags": "0bf76460351b6628d97043426d0ac2853e42ff8d52d8dce3b11989fcd40635e2",
     "pinned comment": "e26a0a8314f5885164895973f13f743011d028daa8c3cee7cfb789d6eb8c3268",
-    "genres": "856af2b6468fd197c742ba3cafba0f9173fc1f4aedf6f7aab9fef8d93b1fb78c"
+    "genres": "14ec3cbdae7d8943b32e31c77f2170a39d887d29bdda89c37ce660aa87f140c6"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "From Russian to English: t.A.T.u. and All The Things She Said",
-      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.theguardian.com/culture/live/2019/jul/19/trevor-horn-webchat-post-your-questions-now",
-      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+      "claim": "t.A.T.u. brought All The Things She Said to English - bass cover",
+      "source": "https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0060 - T.A.T.U - All The Things She Said (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.theguardian.com/culture/live/2019/jul/19/trevor-horn-webchat-post-your-questions-now ; https://en.wikipedia.org/wiki/T.A.T.u. ; user confirms bass playing with overlay",
+      "assessment": "Song identity, context and creator performance checked; emotional or energetic descriptions are editorial judgments, not a CTR claim. Referenced original artists do not appear in this creator performance."
     },
     {
       "surface": "description",
@@ -143,21 +143,51 @@
       "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
     },
     {
-      "surface": "genres",
-      "claim": "Pop rock",
-      "source": "https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/",
-      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+      "surface": "tags",
+      "claim": "yulia volkova",
+      "source": "https://www.rbth.com/arts/329755-what-became-tatu-lesbian",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "elena katina",
+      "source": "https://www.rbth.com/arts/329755-what-became-tatu-lesbian",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "trevor horn",
+      "source": "https://www.theguardian.com/culture/live/2019/jul/19/trevor-horn-webchat-post-your-questions-now",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
     },
     {
       "surface": "genres",
-      "claim": "Alternative rock",
-      "source": "https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/",
-      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+      "claim": "Pop",
+      "source": "https://en.wikipedia.org/wiki/T.A.T.u.",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop rock",
+      "source": "https://en.wikipedia.org/wiki/T.A.T.u.",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Europop",
+      "source": "https://en.wikipedia.org/wiki/T.A.T.u.",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Electronic",
+      "source": "https://en.wikipedia.org/wiki/T.A.T.u.",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
     }
   ],
   "distinct_fact_and_source": "Russian original and English version ; https://genius.com/Tatu-all-the-things-she-said-lyrics ; https://rateyourmusic.com/release/single/t_a_t_u/all-the-things-she-said/",
   "uniqueness_assessment": "No five-word collision signals in the available corpus. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
-  "uncertainties_and_removed_claims": "Russian title and names are relevant to the earlier song and the duo, not a claim this upload is the Russian recording. Precise release date and marketing causation removed. Historical screenshots are partial, not current status; genre is subjective.",
+  "uncertainties_and_removed_claims": "Russian title and names are relevant to the earlier song and the duo, not a claim this upload is the Russian recording. Precise release date and marketing causation removed. Historical screenshots are partial, not current status; genre is subjective. 2026-11-03: Band-wide genres are subjective; tags indicate relevant name associations, not search demand, recording participation, or performer appearance in MAVO video. Title CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

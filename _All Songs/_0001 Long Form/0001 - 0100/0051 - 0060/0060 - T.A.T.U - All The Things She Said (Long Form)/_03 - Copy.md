@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (61 characters)
+## TITLE (64 characters)
 
 ```text
-From Russian to English: t.A.T.u. and All The Things She Said
+t.A.T.u. brought All The Things She Said to English - bass cover
 ```
 
 ## DESCRIPTION (490 characters)
@@ -20,10 +20,10 @@ Here I perform on bass while the Rocksmith chart is displayed.
 💬 Compare language versions in Discord; boosters have my appreciation: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (16 tags, 223/500 characters)
+## TAGS (19 tags, 265/500 characters)
 
 ```text
-t.a.t.u, tatu, тату, all the things she said, tatu all the things she said, я сошла с ума, ya soshla s uma, lena katina, лена катина, julia volkova, юлия волкова, pop rock, alternative rock, 2002, bass cover, rocksmith bass
+t.a.t.u, tatu, тату, all the things she said, tatu all the things she said, я сошла с ума, ya soshla s uma, lena katina, лена катина, julia volkova, юлия волкова, pop rock, alternative rock, 2002, bass cover, rocksmith bass, yulia volkova, elena katina, trevor horn
 ```
 
 ## PINNED COMMENT (42 characters)
@@ -34,9 +34,11 @@ Which language version did you hear first?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Genre is subjective. Recommendations use the single classification. See the review record for sources.
+Artist-level genres from https://en.wikipedia.org/wiki/T.A.T.u.. These describe the artist across its catalogue, not necessarily this song. See Band Info/TATU/Register.md.
 
 ## CORRECT GENRES
 
+- Pop
 - Pop rock
-- Alternative rock
+- Europop
+- Electronic

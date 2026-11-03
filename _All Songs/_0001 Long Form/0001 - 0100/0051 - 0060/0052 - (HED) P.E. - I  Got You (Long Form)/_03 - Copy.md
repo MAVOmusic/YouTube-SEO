@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (47 characters)
+## TITLE (55 characters)
 
 ```text
-I Got You from Broke - my (Hed) P.E. bass cover
+I Got You brings (Hed) P.E.'s Broke era to a bass cover
 ```
 
 ## DESCRIPTION (437 characters)
@@ -20,10 +20,10 @@ This Rocksmith playthrough features my bass playing and the chart.
 💬 Discuss favourite Broke tracks in Discord; optional boosts support our community: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 161/500 characters)
+## TAGS (18 tags, 204/500 characters)
 
 ```text
-hed pe, (hed) p.e., hed planet earth, i got you, hed pe i got you, broke, mawk, machine producer, nu metal, rap rock, rap metal, 2000, bass cover, rocksmith bass
+hed pe, (hed) p.e., hed planet earth, i got you, hed pe i got you, broke, mawk, machine producer, nu metal, rap rock, rap metal, 2000, bass cover, rocksmith bass, jahred, jared gomes, mark young, wes geer
 ```
 
 ## PINNED COMMENT (60 characters)
@@ -34,10 +34,11 @@ Which track from Broke would you introduce someone to first?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Genre is subjective. Recommendations use album or artist-level evidence and may not describe every track in isolation. See the review record for sources.
+Artist-level genres from https://www.metalkingdom.net/band/h%C9%99d-p-e-30927. These describe the artist across its catalogue, not necessarily this song. See Band Info/Hed PE/Register.md.
 
 ## CORRECT GENRES
 
-- Nu metal
 - Rap rock
+- Nu metal
+- Punk rock
 - Rap metal

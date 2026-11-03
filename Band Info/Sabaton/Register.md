@@ -78,3 +78,10 @@ Previously reviewed claims and sources; check sources and current copy before re
   - Source: https://www.youtube.com/watch?v=peTCePu1jMs
 - CO-0039: The band describes the Swedish version as a distinct perspective on the Thirty Years War. Used as a title angle.
   - Source: https://www.sabaton.net/video/episode-34-en-livstid-i-krig-the-thirty-years-war/
+
+## CO-0058 strategy pass (2026-11-03)
+
+- The Lion From The North concerns Gustavus Adolphus; Carolus Rex places it after the instrumental Dominium Maris Baltici. Description and title use this historical/album-sequence angle.
+  - Sources: https://www.sabaton.net/historical-facts/gustavus-adolphus-crowned/ ; https://www.sabaton.net/discography/carolus-rex/
+- joakim broden, par sundstrom and attested typo sabton are associations, not proof of search frequency or appearance in MAVO video.
+  - Sources: https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m ; https://www.reddit.com/r/sabaton/comments/pxrhnu/just_getting_into_sabton_i_need_some_suggestions/

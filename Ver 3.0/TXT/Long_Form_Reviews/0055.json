@@ -2,9 +2,9 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "f00fbefcd001d84688aee4e2ff63af99c56730528f4b546d7f2b52c4463f30a4",
+    "title": "7ea8dba9a59b62051a8bf2acc14c934f1c1309d721950baeea4afd3ff8eccebe",
     "description": "9bc4f8f9441a578987ac29916218dea0459714733834a3acf591856f2a82c321",
-    "tags": "94dfbf6548312d380fd1084bbd663c32d80adc5907f62366f858d6ea727cedcf",
+    "tags": "1830862ec2a5ef5bf083d593bfffb02b5597acc949cf818572accc57e322dbe4",
     "pinned comment": "0c8f60d02931e3157ecc42c5e20e221d9424037e60efcb7847f317a28564529c",
     "genres": "e39b35d77197353ee45d286888eb5a7da7b5729c4822d026e51761fb8e107674"
   },
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "+44 close their standard album with Chapter XIII - bass cover",
-      "source": "https://www.discogs.com/release/24237341-44-When-Your-Heart-Stops-Beating ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0055 - +44 (Plus 44) - Chapter XIII (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+      "claim": "Chapter XIII ends +44's standard album - bass playthrough",
+      "source": "https://www.discogs.com/release/24237341-44-When-Your-Heart-Stops-Beating ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0055 - +44 (Plus 44) - Chapter XIII (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.allmusic.com/artist/-44-mn0000484990 ; user confirms bass playing with overlay",
+      "assessment": "Song identity, context and creator performance checked; emotional or energetic descriptions are editorial judgments, not a CTR claim. Referenced original artists do not appear in this creator performance."
     },
     {
       "surface": "description",
@@ -137,21 +137,45 @@
       "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
     },
     {
+      "surface": "tags",
+      "claim": "mark",
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "travis",
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "shane gallagher",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "craig fairbaugh",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
       "surface": "genres",
       "claim": "Pop punk",
-      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
-      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
     },
     {
       "surface": "genres",
       "claim": "Alternative rock",
-      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
-      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
     }
   ],
   "distinct_fact_and_source": "standard album closer, followed by bonuses on some editions ; https://www.discogs.com/release/24237341-44-When-Your-Heart-Stops-Beating ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
   "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
-  "uncertainties_and_removed_claims": "Closing position applies to the standard album, not every edition. Dante interpretation removed. Overview 2 appears inconsistent with the other captured panels and requires rechecking. Historical screenshots are partial, not current status; genre is subjective.",
+  "uncertainties_and_removed_claims": "Closing position applies to the standard album, not every edition. Dante interpretation removed. Overview 2 appears inconsistent with the other captured panels and requires rechecking. Historical screenshots are partial, not current status; genre is subjective. 2026-11-03: Band-wide genres are subjective; tags indicate relevant name associations, not search demand, recording participation, or performer appearance in MAVO video. Title CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "1b1e488eeafb1afad3389ebfc16dc39b5c27a6cefa819e9eb5ca44329a355f3c"

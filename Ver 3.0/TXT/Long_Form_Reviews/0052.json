@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "201f0b0619e0adaa04416f80a855a5a5e94a713703edd9f5ae9abcd22ef91df1",
+    "title": "f94ed55a158795e8866a57469c1eeedc3775a50ef386ec19f9281fbe6ed2af38",
     "description": "2fdca45b61c3aef8424cc11115296bb3748ad396f0f138b8b8a66897930975c7",
-    "tags": "1aa318ac578aa3dcc04b9b46e0865adfd3a310ba8a9be25a506f307241ac96a2",
+    "tags": "917c425a9a67da866d75b24117bd316d37b4759d84b99938d0fac0928fe0af1f",
     "pinned comment": "7ada810153607210475f6214e45d7f4954b6429dadc955b14d1ad23fe02703a6",
-    "genres": "111082122048242d667f111dc4ba8e449a7c65fef0b1cfb6f67a3ef34c78cc09"
+    "genres": "513df5e393c87b2223227a85d0fd966b6fbc79859a346b5a3b19095e2da239ad"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "I Got You from Broke - my (Hed) P.E. bass cover",
-      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+      "claim": "I Got You brings (Hed) P.E.'s Broke era to a bass cover",
+      "source": "https://www.discogs.com/release/626423-Hed-PE-Broke ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0052 - (HED) P.E. - I  Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/h%C9%99d-p-e-30927 ; user confirms bass playing with overlay",
+      "assessment": "Song identity, context and creator performance checked; emotional or energetic descriptions are editorial judgments, not a CTR claim. Referenced original artists do not appear in this creator performance."
     },
     {
       "surface": "description",
@@ -131,27 +131,57 @@
       "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
     },
     {
-      "surface": "genres",
-      "claim": "Nu metal",
-      "source": "https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/ ; https://www.albumoftheyear.org/album/113998-hed-pe-broke.php ; https://www.allmusic.com/album/broke-mw0000089405",
-      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+      "surface": "tags",
+      "claim": "jahred",
+      "source": "https://axs.tv/artists/hed-p-e/",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "jared gomes",
+      "source": "https://axs.tv/artists/hed-p-e/",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "mark young",
+      "source": "https://axs.tv/artists/hed-p-e/",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "wes geer",
+      "source": "https://axs.tv/artists/hed-p-e/",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
     },
     {
       "surface": "genres",
       "claim": "Rap rock",
-      "source": "https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/ ; https://www.albumoftheyear.org/album/113998-hed-pe-broke.php ; https://www.allmusic.com/album/broke-mw0000089405",
-      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+      "source": "https://www.metalkingdom.net/band/h%C9%99d-p-e-30927",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Nu metal",
+      "source": "https://www.metalkingdom.net/band/h%C9%99d-p-e-30927",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Punk rock",
+      "source": "https://www.metalkingdom.net/band/h%C9%99d-p-e-30927",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
     },
     {
       "surface": "genres",
       "claim": "Rap metal",
-      "source": "https://rateyourmusic.com/release/album/_h%C9%99d-planet-earth/broke/lists/1/ ; https://www.albumoftheyear.org/album/113998-hed-pe-broke.php ; https://www.allmusic.com/album/broke-mw0000089405",
-      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+      "source": "https://www.metalkingdom.net/band/h%C9%99d-p-e-30927",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
     }
   ],
   "distinct_fact_and_source": "Broke producer and bassist credits ; https://www.discogs.com/release/626423-Hed-PE-Broke",
   "uniqueness_assessment": "No five-word collision signals in the available corpus. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
-  "uncertainties_and_removed_claims": "Removed unsupported breakthrough and live-performance superlatives; the bass credit is album-level. Historical screenshots are partial, not current status; genre is subjective.",
+  "uncertainties_and_removed_claims": "Removed unsupported breakthrough and live-performance superlatives; the bass credit is album-level. Historical screenshots are partial, not current status; genre is subjective. 2026-11-03: Band-wide genres are subjective; tags indicate relevant name associations, not search demand, recording participation, or performer appearance in MAVO video. Title CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
