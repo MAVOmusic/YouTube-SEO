@@ -3,10 +3,10 @@
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 > Historical analytics note: 0055 Overview 2 conflicts with its other captured panels; see the audit log, and do not use the outlier without rechecking.
 
-## TITLE (61 characters)
+## TITLE (57 characters)
 
 ```text
-+44 close their standard album with Chapter XIII - bass cover
+Chapter XIII ends +44's standard album - bass playthrough
 ```
 
 ## DESCRIPTION (478 characters)
@@ -21,10 +21,10 @@ In this bass performance, the game chart is visible.
 💬 Trade album-ending favourites via Discord; every optional boost is appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 217/500 characters)
+## TAGS (19 tags, 265/500 characters)
 
 ```text
-+44, plus 44, chapter xiii, chapter 13, chapter 13 plus 44, +44 chapter xiii, plus 44 chapter 13, when your heart stops beating, mark hoppus, travis barker, pop punk, alternative rock, 2006, bass cover, rocksmith bass
++44, plus 44, chapter xiii, chapter 13, chapter 13 plus 44, +44 chapter xiii, plus 44 chapter 13, when your heart stops beating, mark hoppus, travis barker, pop punk, alternative rock, 2006, bass cover, rocksmith bass, mark, travis, shane gallagher, craig fairbaugh
 ```
 
 ## PINNED COMMENT (59 characters)
@@ -35,7 +35,7 @@ What album closer makes you want to start the record again?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Genre is subjective. Recommendations use album or artist-level evidence and may not describe every track in isolation. See the review record for sources.
+Artist-level genres from https://www.allmusic.com/artist/-44-mn0000484990. These describe the artist across its catalogue, not necessarily this song. See Band Info/Plus 44/Register.md.
 
 ## CORRECT GENRES
 

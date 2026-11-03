@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (36 characters)
+## TITLE (50 characters)
 
 ```text
-Jerry Finn mixed Little Death by +44
+Little Death: +44's Jerry Finn-mixed track on bass
 ```
 
 ## DESCRIPTION (432 characters)
@@ -20,10 +20,10 @@ My performance puts bass playing beside the game overlay.
 💬 Share production details you enjoy on Discord; thanks to everyone boosting: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 198/500 characters)
+## TAGS (19 tags, 258/500 characters)
 
 ```text
-+44, plus 44, little death, +44 little death, plus 44 little death, when your heart stops beating, mark hoppus, travis barker, pop punk, alternative rock, 2006, bass cover, rocksmith, rocksmith bass
++44, plus 44, little death, +44 little death, plus 44 little death, when your heart stops beating, mark hoppus, travis barker, pop punk, alternative rock, 2006, bass cover, rocksmith, rocksmith bass, mark, travis, shane gallagher, craig fairbaugh, jerry finn
 ```
 
 ## PINNED COMMENT (56 characters)
@@ -34,7 +34,7 @@ Which instrument stands out most to you in Little Death?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Genre is subjective. Recommendations use album or artist-level evidence and may not describe every track in isolation. See the review record for sources.
+Artist-level genres from https://www.allmusic.com/artist/-44-mn0000484990. These describe the artist across its catalogue, not necessarily this song. See Band Info/Plus 44/Register.md.
 
 ## CORRECT GENRES
 

@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "9dd377ed7972a33f3d9ec90e3d4372877d5cf28d59e333a80a6773d54dc1a048",
+    "title": "67d47d2de81feca6b867da0614e4525cb1ffe67c5410fd2c235f255725eecf9b",
     "description": "9da145d70d7b1d88e08b09211d3002a80662df2f91299255371eb06bb4588add",
-    "tags": "fd2874a12130ba403324c297e28e3fabbb5ca8c70908d8f11ef0cd3682c6abd2",
+    "tags": "d955d42a4e6d10bca2b598c1eb883c134eaa4f64e34f1c8080b5667ee8a951ec",
     "pinned comment": "e91d5ca3ae71d4aa8cb5cc8929d5682527f197cc0a182eedd69de407f912b84a",
-    "genres": "717b1f9463b3d73288c579210ac63567e38217418b0b1510dbad9ddb416e31f8"
+    "genres": "513df5e393c87b2223227a85d0fd966b6fbc79859a346b5a3b19095e2da239ad"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "(Hed) P.E. gave Watch It Burn a music video in 2021",
-      "source": "https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020 ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+      "claim": "(Hed) P.E. - Watch It Burn brings 2020 energy to Rocksmith bass",
+      "source": "https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020 ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0051 - (Hed) P.E. - Watch It Burn (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/h%C9%99d-p-e-30927 ; user confirms bass playing with overlay",
+      "assessment": "Song identity, context and creator performance checked; emotional or energetic descriptions are editorial judgments, not a CTR claim. Referenced original artists do not appear in this creator performance."
     },
     {
       "surface": "description",
@@ -107,15 +107,57 @@
       "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
     },
     {
+      "surface": "tags",
+      "claim": "jahred",
+      "source": "https://axs.tv/artists/hed-p-e/",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "jared gomes",
+      "source": "https://axs.tv/artists/hed-p-e/",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "kurt blankenship",
+      "source": "https://www.sensemusicmedia.com/interviews/hed-pe-class-of-2020",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "kid bass",
+      "source": "https://www.metalkingdom.net/band/h%C9%99d-p-e-30927",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
       "surface": "genres",
       "claim": "Rap rock",
-      "source": "https://rateyourmusic.com/artist/_h%C9%99d-p_e ; https://metalnoise.net/2020/08/review-class-of-2020-by-hedp-e",
-      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+      "source": "https://www.metalkingdom.net/band/h%C9%99d-p-e-30927",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Nu metal",
+      "source": "https://www.metalkingdom.net/band/h%C9%99d-p-e-30927",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Punk rock",
+      "source": "https://www.metalkingdom.net/band/h%C9%99d-p-e-30927",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
+    },
+    {
+      "surface": "genres",
+      "claim": "Rap metal",
+      "source": "https://www.metalkingdom.net/band/h%C9%99d-p-e-30927",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
     }
   ],
   "distinct_fact_and_source": "official 2021 music video ; https://www.iconvsicon.com/2021/02/19/hed-p-e-release-video-for-watch-it-burn-from-new-album-class-of-2020/ ; https://www.discogs.com/release/15787230-hed-p-e-Class-Of-2020",
   "uniqueness_assessment": "No five-word collision signals in the available corpus. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
-  "uncertainties_and_removed_claims": "Removed claims about no guests, no label involvement and shortest track; prior sources do not support them. Historical screenshots are partial, not current status; genre is subjective.",
+  "uncertainties_and_removed_claims": "Removed claims about no guests, no label involvement and shortest track; prior sources do not support them. Historical screenshots are partial, not current status; genre is subjective. 2026-11-03: Band-wide genres are subjective; tags indicate relevant name associations, not search demand, recording participation, or performer appearance in MAVO video. Title CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

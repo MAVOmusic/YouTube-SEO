@@ -2,9 +2,9 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "12f52234386adfbe5ef0aba366326328efa71e53f125c63537e925abdaf9919a",
+    "title": "2a507e5925857eb04f53a4f02b8d4b2bc58737e953b005299745d6278fd48953",
     "description": "2d77e510ed6f0636e5e6370f32ca61a979d3459cff83f9d5e24ec30ddd1c55bf",
-    "tags": "424283d25f155516d9692ff4822429b4f84b25f0f6eac03d72898c2d00931286",
+    "tags": "91869e87634269e42bce913fc54d5170027880c0e8d64f0d4d7f7a1a3d81d195",
     "pinned comment": "4769a9b600889cf6a10023606028bac796285fb4b4b0c93f34ca8ecd2cf9f936",
     "genres": "e39b35d77197353ee45d286888eb5a7da7b5729c4822d026e51761fb8e107674"
   },
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "+44 gave 155 an acoustic counterpart called 145",
-      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.songtexte.com/songtext/44/145-155-acoustic-b9ba996.html",
-      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+      "claim": "155 has an acoustic counterpart: +44 on Rocksmith bass",
+      "source": "https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0053 - +44 (Plus 44) - 155 (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.songtexte.com/songtext/44/145-155-acoustic-b9ba996.html ; https://www.allmusic.com/artist/-44-mn0000484990 ; user confirms bass playing with overlay",
+      "assessment": "Song identity, context and creator performance checked; emotional or energetic descriptions are editorial judgments, not a CTR claim. Referenced original artists do not appear in this creator performance."
     },
     {
       "surface": "description",
@@ -125,21 +125,57 @@
       "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
     },
     {
+      "surface": "tags",
+      "claim": "mark",
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "travis",
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "shane gallagher",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "craig fairbaugh",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris lord alge",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "145",
+      "source": "https://www.songtexte.com/songtext/44/145-155-acoustic-b9ba996.html",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
       "surface": "genres",
       "claim": "Pop punk",
-      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
-      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
     },
     {
       "surface": "genres",
       "claim": "Alternative rock",
-      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/",
-      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
     }
   ],
   "distinct_fact_and_source": "acoustic counterpart 145 ; https://genius.com/44-155-lyrics ; https://open.spotify.com/track/4vT7oSxpNgj7EWqcr1lzIv",
   "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
-  "uncertainties_and_removed_claims": "145 is a separate acoustic version; no inference about acoustic arrangement in this video. Removed F-minor and absolute version claims. Historical screenshots are partial, not current status; genre is subjective. Removed 145 acoustic tag because it names a separate arrangement rather than the upload; the description clearly treats it as a separate version. Relationship also supported by Musixmatch-licensed lyric page; Genius is community-edited.",
+  "uncertainties_and_removed_claims": "145 is a separate acoustic version; no inference about acoustic arrangement in this video. Removed F-minor and absolute version claims. Historical screenshots are partial, not current status; genre is subjective. Removed 145 acoustic tag because it names a separate arrangement rather than the upload; the description clearly treats it as a separate version. Relationship also supported by Musixmatch-licensed lyric page; Genius is community-edited. 2026-11-03: Band-wide genres are subjective; tags indicate relevant name associations, not search demand, recording participation, or performer appearance in MAVO video. Title CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "95613a94d82d11bc1b211c544ea39bd4202820e1dcc41ce1c5ca32afc4e51208"

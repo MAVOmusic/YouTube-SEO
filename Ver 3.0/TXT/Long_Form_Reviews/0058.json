@@ -2,9 +2,9 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "e311df93ae9bdc2d3650d1ad88827cec514dbf059d364dbbc1769c097e1d9e18",
+    "title": "0f0525174a43e59a210ae510edb26f9c3bb5abc2f10654471730a458a1792e27",
     "description": "e7678c36655e474a50daa2171bf3b83e5c6ba7ecf292783d2666e91aaaa3b14a",
-    "tags": "37cff43f6fabae334c1cbc926343a1a3d19690e381bdd997c02be54f7f8a997c",
+    "tags": "5db8ef9500819d0b95ff7c4bcac9ce86196eefa2911c17122a29bb6fef4a1444",
     "pinned comment": "e48adab1b683265d0fbe22aa45355a8b046dea5032264c1e647e8537425be1de",
     "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
   },
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "A Swedish king inspires The Lion From The North - Sabaton bass",
-      "source": "https://www.sabaton.net/historical-facts/gustavus-adolphus-crowned/ ; https://www.sabaton.net/discography/carolus-rex/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0058 - Sabaton - The Lion From The North (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+      "claim": "The Lion From The North: Sabaton's Swedish king meets bass",
+      "source": "https://www.sabaton.net/historical-facts/gustavus-adolphus-crowned/ ; https://www.sabaton.net/discography/carolus-rex/ ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0058 - Sabaton - The Lion From The North (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; user confirms bass playing with overlay",
+      "assessment": "Song identity, context and creator performance checked; emotional or energetic descriptions are editorial judgments, not a CTR claim. Referenced original artists do not appear in this creator performance."
     },
     {
       "surface": "description",
@@ -119,21 +119,39 @@
       "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
     },
     {
+      "surface": "tags",
+      "claim": "joakim broden",
+      "source": "https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "par sundstrom",
+      "source": "https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabton",
+      "source": "https://www.reddit.com/r/sabaton/comments/pxrhnu/just_getting_into_sabton_i_need_some_suggestions/",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
       "surface": "genres",
       "claim": "Power metal",
       "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
     },
     {
       "surface": "genres",
       "claim": "Heavy metal",
       "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
-      "assessment": "Artist-level classification, not a claim about this individual recording."
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
     }
   ],
   "distinct_fact_and_source": "Gustavus Adolphus and instrumental album introduction ; https://www.sabaton.net/historical-facts/gustavus-adolphus-crowned/ ; https://www.sabaton.net/discography/carolus-rex/",
   "uniqueness_assessment": "No five-word collision signals in the available corpus. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
-  "uncertainties_and_removed_claims": "The band identifies the king as inspiration; no unverifiable production or instrument details. Historical screenshots are partial, not current status; genre is subjective. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass.",
+  "uncertainties_and_removed_claims": "The band identifies the king as inspiration; no unverifiable production or instrument details. Historical screenshots are partial, not current status; genre is subjective. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass. 2026-11-03: Band-wide genres are subjective; tags indicate relevant name associations, not search demand, recording participation, or performer appearance in MAVO video. Title CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

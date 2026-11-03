@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (51 characters)
+## TITLE (63 characters)
 
 ```text
-(Hed) P.E. gave Watch It Burn a music video in 2021
+(Hed) P.E. - Watch It Burn brings 2020 energy to Rocksmith bass
 ```
 
 ## DESCRIPTION (419 characters)
@@ -20,10 +20,10 @@ My bass playing appears with a Rocksmith overlay.
 💬 Compare your (Hed) P.E. picks in Discord; server boosters have my gratitude: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (10 tags, 132/500 characters)
+## TAGS (14 tags, 181/500 characters)
 
 ```text
-hed pe, (hed) p.e., hed planet earth, watch it burn, hed pe watch it burn, class of 2020, rap rock, 2020, bass cover, rocksmith bass
+hed pe, (hed) p.e., hed planet earth, watch it burn, hed pe watch it burn, class of 2020, rap rock, 2020, bass cover, rocksmith bass, jahred, jared gomes, kurt blankenship, kid bass
 ```
 
 ## PINNED COMMENT (58 characters)
@@ -34,8 +34,11 @@ What does Watch It Burn bring to your (Hed) P.E. playlist?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Genre is subjective. Recommendations use album or artist-level evidence and may not describe every track in isolation. See the review record for sources.
+Artist-level genres from https://www.metalkingdom.net/band/h%C9%99d-p-e-30927. These describe the artist across its catalogue, not necessarily this song. See Band Info/Hed PE/Register.md.
 
 ## CORRECT GENRES
 
 - Rap rock
+- Nu metal
+- Punk rock
+- Rap metal

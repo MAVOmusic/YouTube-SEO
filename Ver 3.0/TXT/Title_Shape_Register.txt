@@ -124,16 +124,16 @@
   0048    song: band double-album connection, played on instrument | Hypnotize: System Of A Down's double-album connection, played on bass
   0049    artist weave previous titles into song - instrument playthrough | (G)I-DLE weave earlier titles into I'm The Trend - bass playthrough
   0050    song hits with attitude - artist instrument performance | Tomboy hits with attitude - (G)I-DLE bass performance
-  0051    band gave song a music video in year                    (Hed) P.E. gave Watch It Burn a music video in 2021
-  0052    song from album - my band instrument cover    I Got You from Broke - my (Hed) P.E. bass cover
-  0053    band gave song acoustic counterpart called number          +44 gave 155 an acoustic counterpart called 145
-  0054    artist on why song by band mattered to him    Mark Hoppus on why Baby Come On by +44 mattered to him
-  0055    band close their standard album with song - instrument cover    +44 close their standard album with Chapter XIII - bass cover
-  0056    person mixed song by band    Jerry Finn mixed Little Death by +44
-  0057    guest joins artist on band song                            Carol Heller joins Mark Hoppus on +44 Make You Smile
-  0058    a historical figure inspires song - band format            A Swedish king inspires The Lion From The North - Sabaton bass
-  0059    album behind song lists number of recording studios | The +44 album behind Weatherman lists three recording studios
-  0060    from language to language: artist and song                 From Russian to English: t.A.T.u. and All The Things She Said
+  0051    artist - song brings year energy to platform instrument | (Hed) P.E. - Watch It Burn brings 2020 energy to Rocksmith bass
+  0052    song brings artist album era to an instrument cover | I Got You brings (Hed) P.E.'s Broke era to a bass cover
+  0053    song has acoustic counterpart: band on platform instrument | 155 has an acoustic counterpart: +44 on Rocksmith bass
+  0054    song: why musician values band song | instrument cover | Baby Come On: why Mark Hoppus values +44's song | bass cover
+  0055    song ends band standard album - instrument playthrough | Chapter XIII ends +44's standard album - bass playthrough
+  0056    song: artist mix-credit track on instrument | Little Death: +44's Jerry Finn-mixed track on bass
+  0057    a duet in band song heard through instrument | A duet in +44's Make You Smile, heard through bass
+  0058    song: artist historical figure meets instrument | The Lion From The North: Sabaton's Swedish king meets bass
+  0059    song by artist: darker turn on platform instrument | Weatherman by +44: a darker turn on Rocksmith bass
+  0060    artist brought song to language - instrument cover | t.A.T.u. brought All The Things She Said to English - bass cover
   0061    song and unit: band history in song | Ghost Division and the 7th Panzer: Sabaton's history in song
   0062    original bass credit for band song | Brad Walst has the original bass credit on Three Days Grace Pain
   0063    band song and story of character | Rammstein Hilf Mir and the story of Pauline

@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (47 characters)
+## TITLE (54 characters)
 
 ```text
-+44 gave 155 an acoustic counterpart called 145
+155 has an acoustic counterpart: +44 on Rocksmith bass
 ```
 
 ## DESCRIPTION (438 characters)
@@ -20,10 +20,10 @@ The Rocksmith display sits beside my bass playing.
 💬 Compare alternate versions with Discord members; thank you for any boosts: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (13 tags, 160/500 characters)
+## TAGS (19 tags, 230/500 characters)
 
 ```text
-+44, plus 44, 155, +44 155, plus 44 155, when your heart stops beating, mark hoppus, travis barker, pop punk, alternative rock, 2006, bass cover, rocksmith bass
++44, plus 44, 155, +44 155, plus 44 155, when your heart stops beating, mark hoppus, travis barker, pop punk, alternative rock, 2006, bass cover, rocksmith bass, mark, travis, shane gallagher, craig fairbaugh, chris lord alge, 145
 ```
 
 ## PINNED COMMENT (51 characters)
@@ -34,7 +34,7 @@ How does the acoustic 145 compare with 155 for you?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Genre is subjective. Recommendations use album or artist-level evidence and may not describe every track in isolation. See the review record for sources.
+Artist-level genres from https://www.allmusic.com/artist/-44-mn0000484990. These describe the artist across its catalogue, not necessarily this song. See Band Info/Plus 44/Register.md.
 
 ## CORRECT GENRES
 

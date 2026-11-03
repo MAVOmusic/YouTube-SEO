@@ -2,9 +2,9 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "6a8db3f47464796c89dbd5f05f44637e63d76ca51fe90ac37cff2ac4dadb4307",
+    "title": "7e4eeb6f34505bf7dd5308eed02ccdb1dcb1bc380288ac70cd80d765dca217ca",
     "description": "25d3b9f866316481cfd5bf23778784cdec7fab285595727b4b6626c1f6c39986",
-    "tags": "6bbc90da0ca90697c59019096f371dc59014bd106ba7abfec23d5a954be69d4f",
+    "tags": "4a45909aded8ae005766a3f3e78ed68666f9eb13008718b645cf170ee0ece03c",
     "pinned comment": "4359fdacb709e787c24d37a6354e1b29798def763959e782084ed76997eefb0f",
     "genres": "e39b35d77197353ee45d286888eb5a7da7b5729c4822d026e51761fb8e107674"
   },
@@ -18,9 +18,9 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Mark Hoppus on why Baby Come On by +44 mattered to him",
-      "source": "https://www.bbc.co.uk/programmes/articles/1lt6qgDjWL6QM7sg7Fmc5mM/mark-hoppus-on-the-records-that-changed-his-life ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
-      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+      "claim": "Baby Come On: why Mark Hoppus values +44's song | bass cover",
+      "source": "https://www.bbc.co.uk/programmes/articles/1lt6qgDjWL6QM7sg7Fmc5mM/mark-hoppus-on-the-records-that-changed-his-life ; https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating ; https://www.allmusic.com/artist/-44-mn0000484990 ; user confirms bass playing with overlay",
+      "assessment": "Song identity, context and creator performance checked; emotional or energetic descriptions are editorial judgments, not a CTR claim. Referenced original artists do not appear in this creator performance."
     },
     {
       "surface": "description",
@@ -125,21 +125,45 @@
       "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
     },
     {
+      "surface": "tags",
+      "claim": "mark",
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "travis",
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "shane gallagher",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
+      "surface": "tags",
+      "claim": "craig fairbaugh",
+      "source": "https://www.discogs.com/release/2052863-44-When-Your-Heart-Stops-Beating",
+      "assessment": "Relevant member, credited collaborator, or documented variant; association does not establish performance credits on this specific recording or appearance in MAVO video. Search demand not measured."
+    },
+    {
       "surface": "genres",
       "claim": "Pop punk",
-      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://genius.com/44-baby-come-on-lyrics",
-      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
     },
     {
       "surface": "genres",
       "claim": "Alternative rock",
-      "source": "https://rateyourmusic.com/release/album/_44/when-your-heart-stops-beating/ ; https://genius.com/44-baby-come-on-lyrics",
-      "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
+      "source": "https://www.allmusic.com/artist/-44-mn0000484990",
+      "assessment": "Artist-level label, not a claim that every listed style describes the individual track."
     }
   ],
   "distinct_fact_and_source": "Hoppus told BBC Radio 1 Baby Come On was one of his favourites and reflected a transitional period ; https://www.bbc.co.uk/programmes/articles/1lt6qgDjWL6QM7sg7Fmc5mM/mark-hoppus-on-the-records-that-changed-his-life",
   "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
-  "uncertainties_and_removed_claims": "Replaced the acoustic bonus angle to avoid repeating 0053. Hoppus comments reflect his view at interview time, not a permanent ranking. Screenshot does not establish exact audio edition or current state. Genre classifications are subjective.",
+  "uncertainties_and_removed_claims": "Replaced the acoustic bonus angle to avoid repeating 0053. Hoppus comments reflect his view at interview time, not a permanent ranking. Screenshot does not establish exact audio edition or current state. Genre classifications are subjective. 2026-11-03: Band-wide genres are subjective; tags indicate relevant name associations, not search demand, recording participation, or performer appearance in MAVO video. Title CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "d4c3f9646fd56fb7aa08a0518a439f10017faa1cf28f0660b86a48a859bfd9f4"

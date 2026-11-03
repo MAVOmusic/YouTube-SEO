@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (54 characters)
+## TITLE (60 characters)
 
 ```text
-Mark Hoppus on why Baby Come On by +44 mattered to him
+Baby Come On: why Mark Hoppus values +44's song | bass cover
 ```
 
 ## DESCRIPTION (506 characters)
@@ -20,10 +20,10 @@ In this video, my bass playing accompanies the game chart.
 💬 Tell Discord about a meaningful track; thank you to boosters: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (13 tags, 187/500 characters)
+## TAGS (17 tags, 235/500 characters)
 
 ```text
-+44, plus 44, baby come on, +44 baby come on, plus 44 baby come on, when your heart stops beating, mark hoppus, travis barker, pop punk, alternative rock, 2006, bass cover, rocksmith bass
++44, plus 44, baby come on, +44 baby come on, plus 44 baby come on, when your heart stops beating, mark hoppus, travis barker, pop punk, alternative rock, 2006, bass cover, rocksmith bass, mark, travis, shane gallagher, craig fairbaugh
 ```
 
 ## PINNED COMMENT (46 characters)
@@ -34,7 +34,7 @@ Which +44 song means the most to you, and why?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Genre is subjective. Recommendations use album or artist-level evidence and may not describe every track in isolation. See the review record for sources.
+Artist-level genres from https://www.allmusic.com/artist/-44-mn0000484990. These describe the artist across its catalogue, not necessarily this song. See Band Info/Plus 44/Register.md.
 
 ## CORRECT GENRES
 
