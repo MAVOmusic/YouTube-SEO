@@ -2,10 +2,10 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "fcbf87f613d4213eac33ebc908c544de1eb97b04cc54ae7ba56302a05932349b",
-    "description": "5f2ef7a7cd8b15d1988e0f87aab9dd1bdc519ec7aaae9a4a0744f67caf6c5c99",
+    "title": "df7ffd3c8409728aedd91ea455e556f415a8f13f94757213acdab49fe1c5afa4",
+    "description": "818702c54128619de36afa2363014e4ef96d47b8eb09485e8441dc896c922617",
     "tags": "2404afc7e861a1a38817ea0b6070ab798e205ac633d83bec48cf6b27fbf1ddac",
-    "pinned comment": "d3eb5afd5fe421fa138e92312f12d82eb43bea67cec178ad671e50ead2a11829",
+    "pinned comment": "59d3b63c59c64a618ccd74e872e0991c1449f8f355ec69586720c6e17d5f976f",
     "genres": "e39b35d77197353ee45d286888eb5a7da7b5729c4822d026e51761fb8e107674"
   },
   "reviewed_surfaces": {
@@ -18,19 +18,19 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Weatherman traces an early +44 idea to a conversation",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Song identity, historical format, and factual framing reviewed; any other recording or release is distinguished from this performance."
+      "claim": "The +44 album behind Weatherman lists three recording studios",
+      "source": "https://www.discogs.com/release/850653-44-When-Your-Heart-Stops-Beating",
+      "assessment": "Album CD credits list three recording studios; they do not specify which studio was used for this particular track."
     },
     {
       "surface": "description",
-      "claim": "Mark Hoppus recalled discussing a dark song with Travis Barker around the time blink-182 went on hiatus. That idea became +44's Weatherman, included in the album When Your Heart Stops Beating.",
-      "source": "https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics",
-      "assessment": "Claims reviewed against the referenced release or source; catalog/source limitations recorded below."
+      "claim": "The 2006 US CD of When Your Heart Stops Beating includes Weatherman and lists Opra Music Studios, Ameraycan Studios and Henson Recording Studios in its album credits.",
+      "source": "https://www.discogs.com/release/850653-44-When-Your-Heart-Stops-Beating",
+      "assessment": "Album CD credits list three recording studios; they do not specify which studio was used for this particular track."
     },
     {
       "surface": "description",
-      "claim": "Bass and the Rocksmith chart come together in my performance.",
+      "claim": "My bass performance appears alongside the Rocksmith display.",
       "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_01 Description.jpeg ; user confirmation of bass playing with overlay",
       "assessment": "Historical video identity and confirmed format, without unverifiable playing technique."
     },
@@ -126,7 +126,7 @@
     },
     {
       "surface": "pinned comment",
-      "claim": "Which song origin story has stayed with you?",
+      "claim": "Which album has credits you enjoyed exploring?",
       "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0051 - 0060/0059 - +44 (Plus 44) - Weatherman (Long Form)/_01 - Main Info/_03 Comments.jpeg",
       "assessment": "Question has no unsupported factual premise; no artist comment visible in the captured panel. Check current comments before choosing a pin; retain any real artist comment."
     },
@@ -143,10 +143,10 @@
       "assessment": "Subjective recommendation; artist/album-level evidence where noted, not proof of a precise track classification."
     }
   ],
-  "distinct_fact_and_source": "Hoppus recalled dark-song conversation with Barker ; https://en.wikipedia.org/wiki/When_Your_Heart_Stops_Beating ; https://genius.com/44-weatherman-lyrics",
-  "uniqueness_assessment": "The only five-word signals are shared album-name text (and, where shown, its adjacent album word); this is identification, not repeated prose. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
-  "uncertainties_and_removed_claims": "Hoppus recollection reproduced through secondary source; no unsourced assertion about chorus or intentions beyond his account. Historical screenshots are partial, not current status; genre is subjective. Wikipedia attributes the recollection to Alternative Press issue 221 (December 2006), page 140; that print source was not independently accessed and Genius may repeat the same account.",
+  "distinct_fact_and_source": "US album credits list three recording studios ; https://www.discogs.com/release/850653-44-When-Your-Heart-Stops-Beating",
+  "uniqueness_assessment": "Reviewed against available first-70 corpus. The five shared five-word signals are the necessary album title When Your Heart Stops Beating; the studio-credit angle is distinct.No guarantee can be made for unseen or future uploads.",
+  "uncertainties_and_removed_claims": "Replaced the prior account relying on an inaccessible original interview or blog. Album CD credits list three recording studios; they do not specify which studio was used for this particular track. Genre labels are subjective. Historical screenshots do not verify current pins, restrictions, earnings or continuous video visibility.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
-  "collision_report_sha256": "9a31040bc21126920129f4fe00dc04df7030ca64cebca27b15bf82e6be9e982c"
+  "collision_report_sha256": "5cc9891633e5f8219bd9dcb0f787c7c6963884aa22b3906445d8c96d70d1e7b9"
 }

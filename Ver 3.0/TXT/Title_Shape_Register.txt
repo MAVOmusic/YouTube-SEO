@@ -123,17 +123,17 @@
   0056    person mixed song by band    Jerry Finn mixed Little Death by +44
   0057    guest joins artist on band song                            Carol Heller joins Mark Hoppus on +44 Make You Smile
   0058    a historical figure inspires song - band format            A Swedish king inspires The Lion From The North - Sabaton bass
-  0059    song traces an early band idea to conversation             Weatherman traces an early +44 idea to a conversation
+  0059    album behind song lists number of recording studios | The +44 album behind Weatherman lists three recording studios
   0060    from language to language: artist and song                 From Russian to English: t.A.T.u. and All The Things She Said
   0061    song and unit: band history in song | Ghost Division and the 7th Panzer: Sabaton's history in song
-  0062    vocalist on feeling behind band song | Adam Gontier on the numbness behind Three Days Grace Pain
+  0062    original bass credit for band song | Brad Walst has the original bass credit on Three Days Grace Pain
   0063    band song and story of character | Rammstein Hilf Mir and the story of Pauline
   0064    film helped inspire band song | Saving Private Ryan helped inspire Sabaton Primo Victoria
   0065    song bass cover: band and producer production credit | Come As You Are bass cover: Nirvana and Butch Vig production credit
   0066    song: director directs band | Try Honesty: Sean Michael Turrell directs Billy Talent
-  0067    working title was song title for band | Plaster was the working title of Linkin Park One Step Closer
+  0067    guest vocalist appears on band song remix | Jonathan Davis guests on a Linkin Park One Step Closer remix
   0068    B-side to band song | The Silver Springs B-side to Fleetwood Mac Go Your Own Way
-  0069    artist found song while learning instrument | Peter Buck found Losing My Religion while learning mandolin
+  0069    band song won year performance award | R.E.M. Losing My Religion won a 1992 performance Grammy
   0070    band song between two album tracks | Billy Talent Standing in the Rain between two album tracks
 
 

@@ -2,22 +2,22 @@
 
 > Copy the title, description, tags and pinned comment. Genre findings are internal.
 
-## TITLE (53 characters)
+## TITLE (61 characters)
 
 ```text
-Weatherman traces an early +44 idea to a conversation
+The +44 album behind Weatherman lists three recording studios
 ```
 
-## DESCRIPTION (526 characters)
+## DESCRIPTION (515 characters)
 
 ```text
-Mark Hoppus recalled discussing a dark song with Travis Barker around the time blink-182 went on hiatus. That idea became +44's Weatherman, included in the album When Your Heart Stops Beating.
+The 2006 US CD of When Your Heart Stops Beating includes Weatherman and lists Opra Music Studios, Ameraycan Studios and Henson Recording Studios in its album credits.
 
-Bass and the Rocksmith chart come together in my performance.
+My bass performance appears alongside the Rocksmith display.
 
-🟢 Share a memorable songwriting story during a Kick stream: https://kick.com/mavomusic
-🟣 The separate Twitch chat gets the mirrored feed: https://www.twitch.tv/mavomusic
-💬 Bring a song-origin story into Discord; server boosts are optional: https://discord.gg/ESGsGkN4j2
+🟢 Tell Kick chat which studio-made album you return to: https://kick.com/mavomusic
+🟣 Find the mirrored broadcast with Twitch viewers: https://www.twitch.tv/mavomusic
+💬 Look through album credits with our Discord community; any server boost is appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (14 tags, 192/500 characters)
@@ -26,10 +26,10 @@ Bass and the Rocksmith chart come together in my performance.
 +44, plus 44, weatherman, +44 weatherman, plus 44 weatherman, when your heart stops beating, mark hoppus, travis barker, pop punk, alternative rock, 2006, bass cover, rocksmith, rocksmith bass
 ```
 
-## PINNED COMMENT (44 characters)
+## PINNED COMMENT (46 characters)
 
 ```text
-Which song origin story has stayed with you?
+Which album has credits you enjoyed exploring?
 ```
 
 ## GENRE FINDINGS (internal - not for playlists)

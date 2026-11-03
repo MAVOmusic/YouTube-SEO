@@ -2,10 +2,10 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "83eee777a027193886ec4af2ba54c24643b5aaf91a686b0eee9d22edb2427a60",
-    "description": "826dac6e66635b744c263b2bcce8c0f3d1a5c7aa5ce014a8694964bc2dd10b86",
+    "title": "fa9069be0c64d09cd9d59409e37d000d44f489b2ba16daeaf78b56fea7d95ef8",
+    "description": "0d3c8c15d28b93cf5f66c6dbe7e45bc95e4a21dca833a73dfa09ba658e8b6a24",
     "tags": "bb018edebe857ac4fd2240e7e2ad496e30279bd6445bfd96ea5ddd0d0415b17c",
-    "pinned comment": "ae148f464003e87fa9b610b828edb9db36394530ca1fb63ea1b5f2175c399d1a",
+    "pinned comment": "0ddfa47ec9dddf3a5d0d996288b8b418ecf28661a6210cc89c78af5ea08770bf",
     "genres": "ef9b7234d7e3618bd4443d9e7db75e158849c925054367b17d97e7c2a1f2cbd7"
   },
   "reviewed_surfaces": {
@@ -18,19 +18,19 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Adam Gontier on the numbness behind Three Days Grace Pain",
-      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; /home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Fact and upload identity checked against historical details and cited source."
+      "claim": "Brad Walst has the original bass credit on Three Days Grace Pain",
+      "source": "https://www.discogs.com/release/7445977-Three-Days-Grace-Pain",
+      "assessment": "Credits refer to the original single, not the bass played by MAVO in this cover."
     },
     {
       "surface": "description",
-      "claim": "Adam Gontier described Pain as being about feeling numb and being tired of that feeling. The Three Days Grace song appears on One-X, released in 2006.",
-      "source": "https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song)",
-      "assessment": "Specific factual angle checked; director credits refer to artist videos, not this performance."
+      "claim": "A 2006 Canadian CD single of Three Days Grace's Pain credits Brad Walst on bass and backing vocals. You can find the song on their One-X album.",
+      "source": "https://www.discogs.com/release/7445977-Three-Days-Grace-Pain",
+      "assessment": "Credits refer to the original single, not the bass played by MAVO in this cover."
     },
     {
       "surface": "description",
-      "claim": "My bass part is performed beside the game display.",
+      "claim": "I play bass beside the game display in this cover.",
       "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay is on screen",
       "assessment": "User-confirmed playing format; no note-level, take-count or continuous-overlay claim."
     },
@@ -114,7 +114,7 @@
     },
     {
       "surface": "pinned comment",
-      "claim": "Which song on One-X resonates most with you?",
+      "claim": "Which Brad Walst bass part would you recommend hearing?",
       "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0062 - Three Days Grace - Pain (Long Form)/_01 - Main Info/_03 Comments.jpeg",
       "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
     },
@@ -131,9 +131,9 @@
       "assessment": "Album of the Year classifies the Pain single as post-grunge and alternative rock; this is release-level evidence, and genre labels are subjective."
     }
   ],
-  "distinct_fact_and_source": "Gontier account of emotional numbness ; https://en.wikipedia.org/wiki/Pain_(Three_Days_Grace_song) ; https://simple.wikipedia.org/wiki/Pain_(Three_Days_Grace_song)",
-  "uniqueness_assessment": "Independent recheck of title, description, tags, proposed pin and CTA against available first-70 copy. No five-word collision remains for this song. Semantic uniqueness beyond the available corpus and future uploads cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Singer interpretation is attributed to him through a secondary report, not asserted as an exclusive reading. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. The original diary blog for the Gontier quote was not independently accessed; this is attributed through a secondary account.",
+  "distinct_fact_and_source": "Brad Walst original single bass credit ; https://www.discogs.com/release/7445977-Three-Days-Grace-Pain",
+  "uniqueness_assessment": "Reviewed against available first-70 corpus. No five-word collision signals. No guarantee can be made for unseen or future uploads.",
+  "uncertainties_and_removed_claims": "Replaced the prior account relying on an inaccessible original interview or blog. Credits refer to the original single, not the bass played by MAVO in this cover. Genre labels are subjective. Historical screenshots do not verify current pins, restrictions, earnings or continuous video visibility.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

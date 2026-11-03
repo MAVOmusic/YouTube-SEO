@@ -2,10 +2,10 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "e1a51d4e95a3c5a2c5f7b7db6654c3b755a33a3514a0ef2fa575606673c1f8c1",
-    "description": "332b9d9de1740bd7facc3f27592bd1f99cb956c4687a173fd9494fab0c0fdcf4",
+    "title": "9d257536c0c65e62ca272555a3f0cdc6845e697ea27c915a80e5ae65dda20dee",
+    "description": "3ac6e7f1b0c1013347875261e44d41c822f53a9248a1e967efd6e5515f6db66b",
     "tags": "3dee964e06a6a53829dd8b97b87852dd4139c65bf364b3f98c89fcce4ebb601f",
-    "pinned comment": "6d20476e05ebb9b957d2dcf9ce501d38363a3564cdbf15f1894a77bc6e73c0b3",
+    "pinned comment": "b349101f765e0183b41f7065ddd789d7913d9b532fe917060574209774625f36",
     "genres": "fad5b4028167cd6c184cebeb86fa8ebde18a0cdd00b3769ada75e9cacbf76d0c"
   },
   "reviewed_surfaces": {
@@ -18,19 +18,19 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "Plaster was the working title of Linkin Park One Step Closer",
-      "source": "https://linkinpedia.com/wiki/One_Step_Closer ; https://www.kerrang.com/linkin-park-the-inside-story-of-hybrid-theory",
-      "assessment": "Working title confirmed in Shinoda interview reproduced by Linkinpedia; Kerrang independently reports it."
+      "claim": "Jonathan Davis guests on a Linkin Park One Step Closer remix",
+      "source": "https://www.discogs.com/release/5196875-Linkin-Park-Reanimation ; https://www.whosampled.com/remix/46815/Linkin-Park-Jonathan-Davis-1stp-Klosr-Linkin-Park-One-Step-Closer/",
+      "assessment": "Jonathan Davis features on a separate remix of the song, not on this bass cover."
     },
     {
       "surface": "description",
-      "claim": "Mike Shinoda confirmed that Plaster was the working title for Linkin Park's One Step Closer. The finished song appears on Hybrid Theory, released in 2000.",
-      "source": "https://linkinpedia.com/wiki/One_Step_Closer ; https://www.kerrang.com/linkin-park-the-inside-story-of-hybrid-theory",
-      "assessment": "Shinoda quotation reproduced by fan archive; Kerrang corroborates former title. Does not identify this upload as a demo."
+      "claim": "The Humble Brothers remixed Linkin Park's One Step Closer as 1stp Klosr for Reanimation, featuring Jonathan Davis. That remix is a separate recording from this bass cover.",
+      "source": "https://www.discogs.com/release/5196875-Linkin-Park-Reanimation ; https://www.whosampled.com/remix/46815/Linkin-Park-Jonathan-Davis-1stp-Klosr-Linkin-Park-One-Step-Closer/",
+      "assessment": "The 2002 Reanimation release credits Davis and the Humble Brothers; WhoSampled identifies the original song. This cover is not represented as the remix."
     },
     {
       "surface": "description",
-      "claim": "My bass performance sits alongside the game chart.",
+      "claim": "The chart appears next to my bass playing.",
       "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay is on screen",
       "assessment": "User-confirmed playing format; no note-level, take-count or continuous-overlay claim."
     },
@@ -108,7 +108,7 @@
     },
     {
       "surface": "pinned comment",
-      "claim": "Which early song title do you find more memorable than the final one?",
+      "claim": "Which vocalist would you invite onto a Linkin Park track?",
       "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0001 - 0100/0061 - 0070/0067 - Linkin Park - One Step Closer (Long Form)/_01 - Main Info/_03 Comments.jpeg",
       "assessment": "Proposed question has no unsupported factual premise. Screenshot is historical and partial; preserve any real artist comment. No artist comment visible in captured panel."
     },
@@ -119,9 +119,9 @@
       "assessment": "The One Step Closer song page classifies the track as nu metal; this is a subjective song-level recommendation."
     }
   ],
-  "distinct_fact_and_source": "Shinoda confirms Plaster as working title ; https://linkinpedia.com/wiki/One_Step_Closer ; https://www.kerrang.com/linkin-park-the-inside-story-of-hybrid-theory",
-  "uniqueness_assessment": "Independent recheck of title, description, tags, proposed pin and CTA against available first-70 copy. No five-word collision remains for this song. Semantic uniqueness beyond the available corpus and future uploads cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "The 2000 ShoutWeb interview is reproduced by Linkinpedia; original interview not independently accessed. Kerrang separately reports Plaster. The upload is not asserted to be the demo. Historic images do not establish current status; genre is subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings.",
+  "distinct_fact_and_source": "Jonathan Davis guest appearance on One Step Closer remix ; https://www.discogs.com/release/5196875-Linkin-Park-Reanimation ; https://www.whosampled.com/remix/46815/Linkin-Park-Jonathan-Davis-1stp-Klosr-Linkin-Park-One-Step-Closer/",
+  "uniqueness_assessment": "Reviewed against available first-70 corpus. No five-word collision signals. Unlike 0018, which identifies a remix used as the performance, this focuses on a guest vocalist on a separate remix; this cover is not represented as that recording.",
+  "uncertainties_and_removed_claims": "The Reanimation credit is from a community-maintained release listing; the relationship to One Step Closer is confirmed by WhoSampled. The cover is not asserted to be the remix. Genre labels are subjective; current pins, restrictions, earnings and uninterrupted overlay visibility cannot be established from historical screenshots.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
