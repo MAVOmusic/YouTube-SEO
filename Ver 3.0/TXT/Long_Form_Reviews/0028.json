@@ -4,7 +4,7 @@
   "surface_sha256": {
     "title": "d8785b47fdf90e40eb3e8336857e044da339418037e2df00d7c84f9042d94b2b",
     "description": "0c0b8007d9204f18786bf82c6bf3362a7f283d9a0b3984b2500adfcbde03178b",
-    "tags": "1cb7d8083a2ae326e84c6f36a50d45de8bcb79d7cbdb53b2bd33426bbf1e5009",
+    "tags": "e72f66ca6ec423163ae2a6eb331a17bda0ee0798ac1e8ba0517ec3d46103c7bc",
     "pinned comment": "b18f4e2bd9404e3805b6ae16bbf53675528855dc58ada903a66bfeb6128b31b1",
     "genres": "5c9e82a0433cabf6359d74600a9248f24218698ed1c3060fb475cdb330c3a8a2"
   },
@@ -111,11 +111,17 @@
       "claim": "Power metal",
       "source": "https://rateyourmusic.com/release/album/sabaton/the-war-to-end-all-wars/; https://www.sabaton.net/news/store/merch-drop-premium-dreadnought-collection-now-available/",
       "assessment": "Conservative source-based playlist recommendation; genre is subjective and release or album sources may not classify this track in isolation."
+    },
+    {
+      "surface": "tags",
+      "claim": "rock smith",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0028 - Sabaton - Dreadnought (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
+      "assessment": "Historically observed search query relevant to Rocksmith format; a small historical query sample does not establish tag causation or future traffic."
     }
   ],
   "distinct_fact_and_source": "Band describes musical idea preceding warship subject. https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://sabaton.bandcamp.com/track/dreadnought",
   "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
-  "uncertainties_and_removed_claims": "Removed false only-battle assertion, unverified playing details, refit/kill narrative and guaranteed request handling.",
+  "uncertainties_and_removed_claims": "Removed false only-battle assertion, unverified playing details, refit/kill narrative and guaranteed request handling. Recheck 2026-11-03: restored rock smith, an actual Reach 2 query, previously omitted; historical query does not prove tag impact.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
