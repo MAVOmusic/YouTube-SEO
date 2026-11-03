@@ -8,18 +8,16 @@
 If I'd Been The One, but .38 Special lets the low end argue
 ```
 
-## DESCRIPTION (738 characters)
+## DESCRIPTION (555 characters)
 
 ```text
-Tour De Force came out in 1983, when .38 Special had already spent a decade being the reliable Southern rock band on the bill. This is the track where they stopped being reliable and got interesting.
+If I'd Been The One opens .38 Special's 1983 album Tour De Force. The bass play along brings the Southern rock track to the on-screen chart.
 
-Southern rock bass is about the space between notes. This one leaves gaps on purpose so the guitars can answer, and the fills only appear where the vocal stops. Overplay it and the whole thing turns to mud.
+Listen to how the low end sits alongside the guitars and vocal, then follow the part through the song. The arrangement leaves plenty to explore without adding extra notes.
 
-🔴 Classic rock gets an evening on Kick most weeks: https://kick.com/mavomusic
-🟣 Twitch broadcasts in parallel, only the chat is different: https://www.twitch.tv/mavomusic
-💬 Deep cuts get heard in Discord, and a boost restores the name: https://discord.gg/ESGsGkN4j2
-
-Southern rock, 1983, one continuous take and no studio repair.
+🔴 Join the live bass streams on Kick: https://kick.com/mavomusic
+🟣 Twitch offers a mirror of the broadcast: https://www.twitch.tv/mavomusic
+💬 Talk classic rock with us in Discord; thanks to our server boosters: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (15 tags, 197/500 characters)
@@ -28,10 +26,10 @@ Southern rock, 1983, one continuous take and no studio repair.
 38 special, if id been the one, southern rock, classic rock, tour de force, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, 1983, bass guitar, 80s rock, rock bass, play along
 ```
 
-## PINNED COMMENT (118 characters)
+## PINNED COMMENT (57 characters)
 
 ```text
-The bass is doing the arguing on this one and nobody ever mentions it. What is the most underrated bass part you know?
+What makes a bass part stand out to you in Southern rock?
 ```
 
 ## GENRES (playlist reference - do not paste)

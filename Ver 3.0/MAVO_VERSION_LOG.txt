@@ -44,3 +44,6 @@ TXT/First_70_Fact_Check_2026-11-03.txt. Five per batch after review completion.
 
 2026-11-03 - Fact-check continuation; no completed version or release. Source
 ledger and open issues updated; no song-copy changes presented as final.
+
+2026-11-03 - First-ten fact-check, titles/descriptions/pins: full replacements
+and evidence log. Remaining first-70 review not complete.

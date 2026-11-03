@@ -8,18 +8,16 @@
 Masterpiece finds Motionless In White in a quieter register
 ```
 
-## DESCRIPTION (609 characters)
+## DESCRIPTION (534 characters)
 
 ```text
-Masterpiece appears on Motionless In White's 2022 album Scoring the End of the World. Its quieter passages and larger chorus make it an interesting song to follow on bass.
+Motionless In White included Masterpiece on Scoring the End of the World, their 2022 album. Its quieter passages and larger chorus make it an interesting song to follow on bass.
 
-Follow the on-screen chart through the changes and listen for how the bass supports the vocal.
+Use the visible Rocksmith chart to follow the arrangement, and listen for the change in feel between sections.
 
 🟢 Join the live bass sessions on Kick: https://kick.com/mavomusic
-🟣 Twitch mirrors the session, nothing different except who is talking: https://www.twitch.tv/mavomusic
-💬 Ask about it in Discord, and a boost gets us the short link again: https://discord.gg/ESGsGkN4j2
-
-From Scoring the End of the World, 2022, with the bass chart on screen.
+🟣 Twitch also carries the mirrored session: https://www.twitch.tv/mavomusic
+💬 Discuss the song in Discord; a community boost is always appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (15 tags, 240/500 characters)
@@ -28,10 +26,10 @@ From Scoring the End of the World, 2022, with the bass chart on screen.
 motionless in white, masterpiece, motionless in white masterpiece, scoring the end of the world, metalcore, gothic metal, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass tab, drop c, 2022 metalcore, bass guitar, play along
 ```
 
-## PINNED COMMENT (124 characters)
+## PINNED COMMENT (106 characters)
 
 ```text
-Half speed, then the real tempo. That order has never let me down. What song did you learn far too fast and have to unlearn?
+Do you prefer learning a song in short sections, or playing through it and revisiting the difficult parts?
 ```
 
 ## GENRES (playlist reference - do not paste)

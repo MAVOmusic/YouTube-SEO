@@ -163,3 +163,35 @@ claims; do not claim completion on the basis of tracklist verification. Only onc
 all 70 are complete and consistent: update copy files and shape/correction logs;
 run validation; provide each changed surface as a WHOLE labelled-outside code
 block in chat. Do not force MAVO to replace the same material repeatedly.
+
+2026-11-03 - USER REQUEST: restart with 0001-0010, titles/descriptions/pins.
+Fact-check and correction pass for these three surfaces. Song copies rewritten
+in their existing files, all ten descriptions, titles 0004/0006, pins 0001, 0003,
+0005-0010. 0002/0003 earlier album errors already corrected; 0007 track is first,
+0009 track is fifth; original 0009 screenshot says MAVO made their own version,
+so unsupported 'official chart' claim removed. Album identities checked against:
+https://www.discogs.com/release/5700831-Burzum-The-Ways-Of-Yore
+https://en.wikipedia.org/wiki/Another_Life_(Motionless_in_White_song)
+https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/
+https://www.discogs.com/release/3834731-Motionless-In-White-Creatures
+https://www.deezer.com/us/track/133100346
+https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre
+https://www.discogs.com/release/1428797-My-Chemical-Romance-The-Black-Parade
+https://www.discogs.com/release/8898481-38-Special-Tour-De-Force
+
+UNCHECKABLE: screenshot stills do not prove note-by-note performance, strings,
+tuning throughout, tone settings, no overdubs/edits, tuner visibility for the
+whole upload, personal listening or practice history, stream frequency or boost
+perks. Removed such statements rather than treating absence of proof as proof of
+falsehood. Do not assert that the overlay is absent: MAVO explicitly says they
+play the songs with it on screen. Screenshots labelled 0002 and 0004 show apparent
+swapped formats/IDs; they are older captures and don't establish present YouTube
+copy, which MAVO has edited. Do not conclude what is live based on them. Tags and
+genres were outside this request and were not verified; note some contain
+unverified tuning/equipment claims. We cannot independently observe current streams
+or confirm that Discord boost policy/invite status is unchanged. Keep the prior
+confirmed CTA ordering and invite, no promises about specific benefits.
+
+First-ten scope: factual check and conservative rewriting, not a proof that every
+subjective musical impression is objectively true. Remaining 0011-0070 is NOT
+completed. Do not start 0071 until this broader task is closed.
