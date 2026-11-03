@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre sections are for playlist decisions only.
 
-## TITLE (59 characters)
+## TITLE (63 characters)
 
 ```text
-Before Billy Talent II, Red Flag reached games - bass cover
+Remember Red Flag from Burnout? A Billy Talent bass playthrough
 ```
 
 ## DESCRIPTION (477 characters)
@@ -20,10 +20,10 @@ For this performance I play bass while the game chart runs on screen.
 💬 Share a soundtrack memory on Discord; boosts are appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (12 tags, 168/500 characters)
+## TAGS (16 tags, 232/500 characters)
 
 ```text
-billy talent, red flag, billy talent red flag, billy talent ii, burnout revenge, pop punk, punk rock, alternative rock, 2006, bass cover, rocksmith bass, rocksmith 2014
+billy talent, red flag, billy talent red flag, billy talent ii, burnout revenge, pop punk, punk rock, alternative rock, 2006, bass cover, rocksmith bass, rocksmith 2014, ben kowalewicz, jon gallant, jonathan gallant, bt billy talent
 ```
 
 ## PINNED COMMENT (55 characters)
@@ -34,10 +34,12 @@ Which game soundtrack first pointed you towards a band?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based playlist suggestions, not an objective or exhaustive classification. Release or track-level classifications. See the review record for sources and limitations.
+Artist-level classifications from https://en.wikipedia.org/wiki/Billy_Talent; these do not establish that every genre describes this recording. See Band Info/Billy Talent/Register.md.
 
 ## CORRECT GENRES
 
-- Pop punk
 - Alternative rock
 - Punk rock
+- Post-hardcore
+- Pop punk
+- Emo

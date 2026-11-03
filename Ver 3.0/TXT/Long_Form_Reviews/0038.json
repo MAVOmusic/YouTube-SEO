@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "1431372d68d4d12564a03aa86cf9945724d303729953a1799e22f432cb0ff982",
+    "title": "ce216be7b566cf0f30cfc2ed907990d89b3ea43a729388198db5efc91ac1cc4a",
     "description": "33c8740e24abda5c4647ce36d318cb71d6eb8621fde28bd824906202d63c4971",
-    "tags": "a2a8604116565058c16b9ed90cd7c387b4df84d3f128e995244a1236aa957573",
+    "tags": "24511c58a38c5198bc12d9a2c979183f6f9fba398684b2e5c6876f08d530c7b3",
     "pinned comment": "09c65fd6b10f9e02a30f2af3809f1f13923b78f8c1d586a6cfd653deff77bf7e",
-    "genres": "7742bb8cce772ba7bc751863c6924790a5e3ca0e7d8420a8caa11a06ba416ec4"
+    "genres": "a1eb2b94fbfc5d67669fae9ed572d0fbbd951eda577483c4ad17e6c891b242a7"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -16,12 +16,6 @@
     "genres": true
   },
   "claims": [
-    {
-      "surface": "title",
-      "claim": "Steve Brown produced She Sells Sanctuary - The Cult on bass",
-      "source": "https://rateyourmusic.com/release/single/the-cult/she-sells-sanctuary-no-13/ ; https://www.shazam.com/en-us/song/1028833873/she-sells-sanctuary ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0038 - The Cult - She Sells Sanctuary (Long Form)/_01 - Main Info/Details.jpeg ; https://www.discogs.com/release/6555697-The-Cult-She-Sells-Sanctuary",
-      "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
-    },
     {
       "surface": "description",
       "claim": "The Cult released She Sells Sanctuary as a single in 1985. Steve Brown produced it, and the track appears on Love.",
@@ -119,27 +113,63 @@
       "assessment": "Historical comments screenshot checked for an artist comment; this is a new opinion question, not a verified current pin. Screenshot may not show every comment."
     },
     {
-      "surface": "genres",
-      "claim": "Post-punk",
-      "source": "https://rateyourmusic.com/release/single/the-cult/she-sells-sanctuary-no-13/",
-      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+      "surface": "tags",
+      "claim": "ian astbury",
+      "source": "https://en.wikipedia.org/wiki/The_Cult",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy duffy",
+      "source": "https://en.wikipedia.org/wiki/The_Cult",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "jamie stewart",
+      "source": "https://jazzrocksoul.com/artists/the-cult/",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "title",
+      "claim": "Hear the low end of She Sells Sanctuary by The Cult | bass guitar",
+      "source": "https://rateyourmusic.com/release/single/the-cult/she-sells-sanctuary-no-13/ ; https://www.shazam.com/en-us/song/1028833873/she-sells-sanctuary ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0038 - The Cult - She Sells Sanctuary (Long Form)/_01 - Main Info/Details.jpeg ; https://www.discogs.com/release/6555697-The-Cult-She-Sells-Sanctuary; https://en.wikipedia.org/wiki/The_Cult; user-confirmed bass performance",
+      "assessment": "Identity and factual context supported by sources; evaluative hook is opinion. Artist is not represented as appearing in this creator performance; CTR untested."
     },
     {
       "surface": "genres",
-      "claim": "Alternative rock",
-      "source": "https://rateyourmusic.com/release/single/the-cult/she-sells-sanctuary-no-13/",
-      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+      "claim": "Hard rock",
+      "source": "https://en.wikipedia.org/wiki/The_Cult",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
     },
     {
       "surface": "genres",
       "claim": "Gothic rock",
-      "source": "https://rateyourmusic.com/release/single/the-cult/she-sells-sanctuary-no-13/",
-      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+      "source": "https://en.wikipedia.org/wiki/The_Cult",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://en.wikipedia.org/wiki/The_Cult",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://en.wikipedia.org/wiki/The_Cult",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Post-punk",
+      "source": "https://en.wikipedia.org/wiki/The_Cult",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
     }
   ],
   "distinct_fact_and_source": "The Cult released She Sells Sanctuary as a single in 1985. Steve Brown produced it, and the track appears on Love. https://rateyourmusic.com/release/single/the-cult/she-sells-sanctuary-no-13/ ; https://www.shazam.com/en-us/song/1028833873/she-sells-sanctuary",
   "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
-  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded. 2026-11-03: genre list is artist-level. People tags signify band or song associations, not original recording credit or appearance in MAVO video. Spelling observations do not prove YouTube search frequency. Title effectiveness untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

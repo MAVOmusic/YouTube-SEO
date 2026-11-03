@@ -6,7 +6,7 @@
     "description": "38e30599553c2c340d9f735223f035ecc31967cca4355448f858f80ed6caab32",
     "tags": "3a7626fb8883a05c1a18a7defbb69a0814ea9988317c9f33d4c0cd09d12b8f74",
     "pinned comment": "d8e18935f3d847b4ea7e97fb8ae312f9d2011376956a7455f223ff76cc768e78",
-    "genres": "13020ac924410280561287bad8fa1e2db2c7511b8022e728d53c345cc4832a6b"
+    "genres": "c35a592e9446fe3c53f3849b736f190be198ca0314118bc3d7641240bbabb6e0"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -109,13 +109,19 @@
     {
       "surface": "genres",
       "claim": "Alternative metal",
-      "source": "https://rateyourmusic.com/song/system-of-a-down/hypnotize/",
-      "assessment": "Subjective source-based genre recommendation; song, release or album-level classification as noted in the copy."
+      "source": "https://www.metalkingdom.net/band/system-of-a-down-24308",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Nu metal",
+      "source": "https://www.metalkingdom.net/band/system-of-a-down-24308",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
     }
   ],
   "distinct_fact_and_source": "connected album artwork by Vartan Malakian ; https://www.nme.com/news/music/system-of-a-down-26-1303978",
   "uniqueness_assessment": "Compared available copies and distinguished fact angles and questions; no five-word collisions for this batch at review time. Semantic uniqueness across unseen or future videos cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective.",
+  "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

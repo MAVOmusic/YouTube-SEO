@@ -6,7 +6,7 @@
     "description": "f0475a351072ebd293c288d6994376275058a61026204c9465e116cb1ccde88f",
     "tags": "45b32abe08f4ce719525888c9672aeb29f4c614efa1f9c57520cfb7286a4e062",
     "pinned comment": "f26d3e20815483172bd07abe3229c0e945d16918b7d390fc587ca79404ebaf46",
-    "genres": "5c9e82a0433cabf6359d74600a9248f24218698ed1c3060fb475cdb330c3a8a2"
+    "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -109,13 +109,19 @@
     {
       "surface": "genres",
       "claim": "Power metal",
-      "source": "https://www.metal-rules.com/2005/04/01/sabaton-primo-victoria/",
-      "assessment": "Metal-Rules describes the Primo Victoria album as power metal. This is album-level evidence; the recommendation is a subjective fit for the title track."
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
     }
   ],
   "distinct_fact_and_source": "band describes film inspiration for D-Day song ; https://www.sabaton.net/discography/primo-victoria/ ; https://www.sabaton.net/historical-facts/d-day-landings/",
   "uniqueness_assessment": "Independent recheck of title, description, tags, proposed pin and CTA against available first-70 copy. No five-word collision remains for this song. Semantic uniqueness beyond the available corpus and future uploads cannot be guaranteed.",
-  "uncertainties_and_removed_claims": "Band explicitly states film influence. No claim that the film itself is included in this performance. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings.",
+  "uncertainties_and_removed_claims": "Band explicitly states film influence. No claim that the film itself is included in this performance. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

@@ -34,9 +34,12 @@ Which three-song run on an album do you return to?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Rate Your Music lists alternative rock and pop punk for the self-titled Billy Talent album. These are album-level classifications, not proof that every track fits both.
+Artist-level classifications from https://en.wikipedia.org/wiki/Billy_Talent; these do not establish that every genre describes this recording. See Band Info/Billy Talent/Register.md.
 
 ## CORRECT GENRES
 
 - Alternative rock
+- Punk rock
+- Post-hardcore
 - Pop punk
+- Emo

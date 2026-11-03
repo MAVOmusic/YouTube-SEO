@@ -5,7 +5,7 @@
 ## TITLE (56 characters)
 
 ```text
-Sabaton salute Manowar with Man of War on Rocksmith bass
+Manowar echoes through Sabaton's Man of War - bass cover
 ```
 
 ## DESCRIPTION (478 characters)
@@ -20,10 +20,10 @@ The Rocksmith overlay accompanies my bass playthrough of the tribute.
 💬 Bring a favourite band tribute to Discord; boosts are optional and appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (10 tags, 119/500 characters)
+## TAGS (13 tags, 157/500 characters)
 
 ```text
-sabaton, man of war, sabaton man of war, manowar, heroes, power metal, 2014, bass cover, rocksmith bass, rocksmith 2014
+sabaton, man of war, sabaton man of war, manowar, heroes, power metal, 2014, bass cover, rocksmith bass, rocksmith 2014, joakim broden, par sundstrom, sabton
 ```
 
 ## PINNED COMMENT (57 characters)
@@ -34,8 +34,9 @@ Which tribute song sent you to the artist being honoured?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based playlist suggestions, not an objective or exhaustive classification. Album-level evidence applies to this recommendation, not proof of every characteristic on this track. See the review record for sources and limitations.
+Artist-level classifications from https://www.pressure-magazine.de/bandprofil/sabaton-266680/; these do not establish that every genre describes this recording. See Band Info/Sabaton/Register.md.
 
 ## CORRECT GENRES
 
 - Power metal
+- Heavy metal

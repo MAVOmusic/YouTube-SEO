@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre sections are for playlist decisions only.
 
-## TITLE (60 characters)
+## TITLE (55 characters)
 
 ```text
-World of Tanks and a cello: Sabaton on Steel Commanders bass
+Steel Commanders: a tank-sized Sabaton bass playthrough
 ```
 
 ## DESCRIPTION (461 characters)
@@ -20,10 +20,10 @@ I play the bass part here using the Rocksmith chart.
 💬 Pitch a game and band pairing in Discord; thanks for any boosts: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (12 tags, 168/500 characters)
+## TAGS (15 tags, 206/500 characters)
 
 ```text
-sabaton, steel commanders, sabaton steel commanders, sabaton cover, tina guo, world of tanks, power metal, heavy metal, 2021, bass cover, rocksmith bass, rocksmith 2014
+sabaton, steel commanders, sabaton steel commanders, sabaton cover, tina guo, world of tanks, power metal, heavy metal, 2021, bass cover, rocksmith bass, rocksmith 2014, joakim broden, par sundstrom, sabton
 ```
 
 ## PINNED COMMENT (48 characters)
@@ -34,7 +34,7 @@ Which game deserves its own metal collaboration?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based playlist suggestions, not an objective or exhaustive classification. The track page carries these genre tags; they are classification, not objective fact. See the review record for sources and limitations.
+Artist-level classifications from https://www.pressure-magazine.de/bandprofil/sabaton-266680/; these do not establish that every genre describes this recording. See Band Info/Sabaton/Register.md.
 
 ## CORRECT GENRES
 

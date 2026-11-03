@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre sections are for playlist decisions only.
 
-## TITLE (59 characters)
+## TITLE (65 characters)
 
 ```text
-Steve Brown produced She Sells Sanctuary - The Cult on bass
+Hear the low end of She Sells Sanctuary by The Cult | bass guitar
 ```
 
 ## DESCRIPTION (445 characters)
@@ -20,10 +20,10 @@ This bass performance uses the game chart as an on-screen guide.
 💬 Discuss 1985 records on Discord; thank you for considering a boost: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (12 tags, 170/500 characters)
+## TAGS (15 tags, 211/500 characters)
 
 ```text
-the cult, she sells sanctuary, the cult she sells sanctuary, love, steve brown, post punk, alternative rock, gothic rock, 1985, bass cover, rocksmith bass, rocksmith 2014
+the cult, she sells sanctuary, the cult she sells sanctuary, love, steve brown, post punk, alternative rock, gothic rock, 1985, bass cover, rocksmith bass, rocksmith 2014, ian astbury, billy duffy, jamie stewart
 ```
 
 ## PINNED COMMENT (69 characters)
@@ -34,10 +34,12 @@ Which 1980s single made you curious enough to explore the full album?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based playlist suggestions, not an objective or exhaustive classification. Release or track-level classifications. See the review record for sources and limitations.
+Artist-level classifications from https://en.wikipedia.org/wiki/The_Cult; these do not establish that every genre describes this recording. See Band Info/The Cult/Register.md.
 
 ## CORRECT GENRES
 
-- Post-punk
-- Alternative rock
+- Hard rock
 - Gothic rock
+- Alternative rock
+- Heavy metal
+- Post-punk

@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre sections are for playlist decisions only.
 
-## TITLE (62 characters)
+## TITLE (58 characters)
 
 ```text
-Rammstein put two languages on the Amerika single - bass cover
+What happens when Rammstein's Amerika meets a bass guitar?
 ```
 
 ## DESCRIPTION (475 characters)
@@ -20,10 +20,10 @@ My Amerika bass performance includes the on-screen Rocksmith chart.
 💬 Trade multilingual song recommendations in Discord; boosts are a welcome option: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (10 tags, 138/500 characters)
+## TAGS (13 tags, 179/500 characters)
 
 ```text
-rammstein, amerika, rammstein amerika, rammstein cover, reise reise, neue deutsche harte, 2004, bass cover, rocksmith bass, rocksmith 2014
+rammstein, amerika, rammstein amerika, rammstein cover, reise reise, neue deutsche harte, 2004, bass cover, rocksmith bass, rocksmith 2014, till lindemann, oliver riedel, ramstein
 ```
 
 ## PINNED COMMENT (64 characters)
@@ -34,8 +34,9 @@ What other song would you enjoy hearing in a different language?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based playlist suggestions, not an objective or exhaustive classification. Release or track-level classifications. See the review record for sources and limitations.
+Artist-level classifications from https://www.wikiwand.com/en/Rammstein; these do not establish that every genre describes this recording. See Band Info/Rammstein/Register.md.
 
 ## CORRECT GENRES
 
 - Neue Deutsche Haerte
+- Industrial metal

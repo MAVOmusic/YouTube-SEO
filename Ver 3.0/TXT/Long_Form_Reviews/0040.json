@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "55f8c49138d9377a73397db56e0ffd9202ac44d49b019e090a37469775dab37b",
+    "title": "ff3204a4917adef74828400cf8ffb150c1d5faad3b1a5460c3a560d5aa3e7230",
     "description": "f3b2962784fc8e518b0e3208c7b0016c6386069485c0362c953402919ea04677",
-    "tags": "4838cd1e26d40968caf86a3992f69914f58c8f8a3e24f64126ee2f0fd67ba08b",
+    "tags": "973bf89fa4c83e98910be58b8973623d1b96555f3bdb8c150295238637caaf46",
     "pinned comment": "0d83ec95f4bd0ba3454e78128c5f6d19bb47bc0838a9fcf4f318a3114c3d5f9b",
-    "genres": "7081570a3c06f0a982007c069d6ce7a193b3451f903d39c1ebab73b3928d112c"
+    "genres": "b979af642a00669e99e3cd6b8809b44ad7f28634c201f8a3778fa5d58002227e"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -16,12 +16,6 @@
     "genres": true
   },
   "claims": [
-    {
-      "surface": "title",
-      "claim": "Rammstein put two languages on the Amerika single - bass cover",
-      "source": "https://rateyourmusic.com/release/single/rammstein/amerika/ ; https://rammstein.fandom.com/wiki/Amerika_(song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0040 - Rammstein - Amerika (Long Form)/_01 - Main Info/Details.jpeg ; https://www.discogs.com/release/899138-Rammstein-Amerika",
-      "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
-    },
     {
       "surface": "description",
       "claim": "A 2004 edition of Rammstein's Amerika single includes the song and an English version. The track is on Reise, Reise as well.",
@@ -107,15 +101,45 @@
       "assessment": "Historical comments screenshot checked for an artist comment; this is a new opinion question, not a verified current pin. Screenshot may not show every comment."
     },
     {
+      "surface": "tags",
+      "claim": "till lindemann",
+      "source": "https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "oliver riedel",
+      "source": "https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "ramstein",
+      "source": "https://www.last.fm/music/Ramstein",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "title",
+      "claim": "What happens when Rammstein's Amerika meets a bass guitar?",
+      "source": "https://rateyourmusic.com/release/single/rammstein/amerika/ ; https://rammstein.fandom.com/wiki/Amerika_(song) ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0040 - Rammstein - Amerika (Long Form)/_01 - Main Info/Details.jpeg ; https://www.discogs.com/release/899138-Rammstein-Amerika; https://rammstein.fandom.com/wiki/Amerika_(song); user-confirmed bass performance",
+      "assessment": "Identity and factual context supported by sources; evaluative hook is opinion. Artist is not represented as appearing in this creator performance; CTR untested."
+    },
+    {
       "surface": "genres",
       "claim": "Neue Deutsche Haerte",
-      "source": "https://rateyourmusic.com/release/single/rammstein/amerika/",
-      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+      "source": "https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Industrial metal",
+      "source": "https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
     }
   ],
   "distinct_fact_and_source": "A 2004 edition of Rammstein's Amerika single includes the song and an English version. The track is on Reise, Reise as well. https://rateyourmusic.com/release/single/rammstein/amerika/ ; https://rammstein.fandom.com/wiki/Amerika_(song) ; https://www.discogs.com/release/899138-Rammstein-Amerika",
   "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
-  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. MAVO confirmed the audio is Amerika despite the historical source filename naming a different song. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded. The English version appears on the cited German maxi-single; other 2004 editions do not necessarily include it.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. MAVO confirmed the audio is Amerika despite the historical source filename naming a different song. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded. The English version appears on the cited German maxi-single; other 2004 editions do not necessarily include it. 2026-11-03: genre list is artist-level. People tags signify band or song associations, not original recording credit or appearance in MAVO video. Spelling observations do not prove YouTube search frequency. Title effectiveness untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

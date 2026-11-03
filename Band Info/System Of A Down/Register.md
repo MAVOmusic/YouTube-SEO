@@ -48,3 +48,8 @@ Relevant names below are artist associations, not an assertion they play on each
 - daron malakian - https://www.metalkingdom.net/band/system-of-a-down-24308
 - serj tankian - https://www.metalkingdom.net/band/system-of-a-down-24308
 - shavo odadjian - https://www.metalkingdom.net/band/system-of-a-down-24308
+
+## 2026-11-03 research and usage updates
+
+- CO-0032: MTV reported that the original acoustic recording featured Daron Malakian and Serj Tankian. Do not infer Shavo played on the original; this is MAVO's bass cover. Not used in public title as a recording credit.
+  - Source: https://www.mtv.com/news/1458163/systems-stolen-tracks-compiled-on-steal-this-album/

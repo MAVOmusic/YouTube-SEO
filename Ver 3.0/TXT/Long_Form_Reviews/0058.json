@@ -6,7 +6,7 @@
     "description": "e7678c36655e474a50daa2171bf3b83e5c6ba7ecf292783d2666e91aaaa3b14a",
     "tags": "37cff43f6fabae334c1cbc926343a1a3d19690e381bdd997c02be54f7f8a997c",
     "pinned comment": "e48adab1b683265d0fbe22aa45355a8b046dea5032264c1e647e8537425be1de",
-    "genres": "5c9e82a0433cabf6359d74600a9248f24218698ed1c3060fb475cdb330c3a8a2"
+    "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -121,13 +121,19 @@
     {
       "surface": "genres",
       "claim": "Power metal",
-      "source": "https://rateyourmusic.com/release/album/sabaton/carolus-rex/ ; https://sabaton.bandcamp.com/track/the-lion-from-the-north-2",
-      "assessment": "Subjective classification; the band track page tags the release power metal."
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not a claim about this individual recording."
     }
   ],
   "distinct_fact_and_source": "Gustavus Adolphus and instrumental album introduction ; https://www.sabaton.net/historical-facts/gustavus-adolphus-crowned/ ; https://www.sabaton.net/discography/carolus-rex/",
   "uniqueness_assessment": "No five-word collision signals in the available corpus. Compared the available corpus and selected distinct fact, title, question and invitations; cannot guarantee uniqueness against unseen or future uploads. Independent 0051-0060 recheck: factual angles and questions compared across this batch and the available reviewed corpus; cannot guarantee against unseen or future uploads.",
-  "uncertainties_and_removed_claims": "The band identifies the king as inspiration; no unverifiable production or instrument details. Historical screenshots are partial, not current status; genre is subjective.",
+  "uncertainties_and_removed_claims": "The band identifies the king as inspiration; no unverifiable production or instrument details. Historical screenshots are partial, not current status; genre is subjective. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

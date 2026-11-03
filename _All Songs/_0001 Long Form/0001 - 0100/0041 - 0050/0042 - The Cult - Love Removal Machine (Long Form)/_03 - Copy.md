@@ -34,9 +34,12 @@ Which version of Love Removal Machine do you return to: Peace or Electric?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based suggestions; genre is subjective. Evidence is song or single-level. See the review record for sources.
+Artist-level classifications from https://en.wikipedia.org/wiki/The_Cult; these do not establish that every genre describes this recording. See Band Info/The Cult/Register.md.
 
 ## CORRECT GENRES
 
 - Hard rock
+- Gothic rock
+- Alternative rock
 - Heavy metal
+- Post-punk

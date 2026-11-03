@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "5f5d7ad1a3d81368688bbd8661b856f713e13128e842530ffb9886fd7f6e3111",
+    "title": "4e23be30c5f4d2204ebe4a1d6c6e612574957a25a7706f4bcc96bfce82e3af35",
     "description": "ae2a13040e7daffd30693bec861b8a82667d5982792a0923bfc598800c02650c",
-    "tags": "5ef8bc6ec827096ae649a1937a63bd0bc94276e06f2329d47e3430cd3132b47f",
+    "tags": "7d291e4dfd3f0fdf6e7a292c6afc115eb3bc1d6e2e98083eeba6a2ce97d2e617",
     "pinned comment": "a447c2d72c1bdd695d6ac04031a3db7f1b98d91afd856e608e612109d3a57f8b",
-    "genres": "007dfb7c8a692c0b913a4df81da1ff8649c8c336ace4153c0b0b8cc2c55ca9fe"
+    "genres": "89ed86e2ad1c3b346567f5281f343cac2608e2ac3a6042a5553d960d92f9eca7"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -16,12 +16,6 @@
     "genres": true
   },
   "claims": [
-    {
-      "surface": "title",
-      "claim": "Dear Maria, Count Me In on bass - All Time Low in Rocksmith",
-      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg ; https://www.amazon.com/Dear-Maria-Count-Me-In/dp/B0754LRR36",
-      "assessment": "Full song and artist identity are sourced; Rocksmith bass performance is confirmed by user and historical Details screenshot. Search or click performance is not guaranteed."
-    },
     {
       "surface": "description",
       "claim": "Dear Maria, Count Me In appears sixth on All Time Low's 2007 album So Wrong, It's Right. It was later released as a single on Hopeless Records.",
@@ -125,27 +119,69 @@
       "assessment": "Historical comments screenshot checked for an artist comment; this is a new opinion question, not a verified current pin. Screenshot may not show every comment."
     },
     {
+      "surface": "tags",
+      "claim": "atl",
+      "source": "https://en.wikipedia.org/wiki/All_Time_Low",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "alex gaskarth",
+      "source": "https://en.wikipedia.org/wiki/All_Time_Low",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "zack merrick",
+      "source": "https://en.wikipedia.org/wiki/All_Time_Low",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "dear maria",
+      "source": "https://en.wikipedia.org/wiki/All_Time_Low",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "title",
+      "claim": "Dear Maria, Count Me In - a pop-punk bass take on All Time Low",
+      "source": "https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/ ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0031 - All Time Low - Dear Maria, Count Me In (Long Form)/_01 - Main Info/Details.jpeg ; https://www.amazon.com/Dear-Maria-Count-Me-In/dp/B0754LRR36; https://en.wikipedia.org/wiki/All_Time_Low; user-confirmed bass performance",
+      "assessment": "Identity and factual context supported by sources; evaluative hook is opinion. Artist is not represented as appearing in this creator performance; CTR untested."
+    },
+    {
       "surface": "genres",
       "claim": "Pop punk",
-      "source": "https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/",
-      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+      "source": "https://en.wikipedia.org/wiki/All_Time_Low",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop rock",
+      "source": "https://en.wikipedia.org/wiki/All_Time_Low",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
     },
     {
       "surface": "genres",
       "claim": "Power pop",
-      "source": "https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/",
-      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+      "source": "https://en.wikipedia.org/wiki/All_Time_Low",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
     },
     {
       "surface": "genres",
       "claim": "Emo pop",
-      "source": "https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/",
-      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+      "source": "https://en.wikipedia.org/wiki/All_Time_Low",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://en.wikipedia.org/wiki/All_Time_Low",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
     }
   ],
   "distinct_fact_and_source": "Dear Maria, Count Me In appears sixth on All Time Low's 2007 album So Wrong, It's Right. It was later released as a single on Hopeless Records. https://genius.com/All-time-low-dear-maria-count-me-in-lyrics ; https://rateyourmusic.com/release/single/all-time-low/dear-maria-count-me-in/",
   "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
-  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded. 2026-11-03: genre list is artist-level. People tags signify band or song associations, not original recording credit or appearance in MAVO video. Spelling observations do not prove YouTube search frequency. Title effectiveness untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

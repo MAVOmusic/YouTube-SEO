@@ -2,10 +2,10 @@
 
 > Copy the title, description, tags and pinned comment. Genre sections are for playlist decisions only.
 
-## TITLE (63 characters)
+## TITLE (54 characters)
 
 ```text
-Roulette takes System Of A Down into acoustic territory on bass
+An acoustic System Of A Down song meets bass: Roulette
 ```
 
 ## DESCRIPTION (461 characters)
@@ -20,10 +20,10 @@ This is my Rocksmith bass playthrough, with the chart alongside the song.
 💬 Share an acoustic detour in Discord; thanks to anyone who boosts: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (10 tags, 142/500 characters)
+## TAGS (13 tags, 190/500 characters)
 
 ```text
-system of a down, roulette, system of a down roulette, soad, steal this album, acoustic rock, 2002, bass cover, rocksmith bass, rocksmith 2014
+system of a down, roulette, system of a down roulette, soad, steal this album, acoustic rock, 2002, bass cover, rocksmith bass, rocksmith 2014, daron malakian, serj tankian, system of a dowm
 ```
 
 ## PINNED COMMENT (56 characters)
@@ -34,8 +34,9 @@ Which heavy band has made your favourite acoustic track?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Source-based playlist suggestions, not an objective or exhaustive classification. Release or track-level classifications. See the review record for sources and limitations.
+Artist-level classifications from https://www.metalkingdom.net/band/system-of-a-down-24308; these do not establish that every genre describes this recording. See Band Info/System Of A Down/Register.md. Original Roulette has been reported as an acoustic performance by Daron Malakian and Serj Tankian; this video is MAVO's own bass performance. https://www.mtv.com/news/1458163/systems-stolen-tracks-compiled-on-steal-this-album/
 
 ## CORRECT GENRES
 
-- Acoustic rock
+- Alternative metal
+- Nu metal

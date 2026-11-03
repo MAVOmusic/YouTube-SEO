@@ -34,9 +34,9 @@ Which song introduced you to a story you had not read before?
 
 ## GENRE FINDINGS (internal - not for playlists)
 
-Rate Your Music classifies Rosenrot as Neue Deutsche Haerte and industrial metal. These are album-level classifications, not definitive labels for each song.
+Artist-level classifications from https://www.wikiwand.com/en/Rammstein; these do not establish that every genre describes this recording. See Band Info/Rammstein/Register.md.
 
 ## CORRECT GENRES
 
-- Neue Deutsche Härte
+- Neue Deutsche Haerte
 - Industrial metal

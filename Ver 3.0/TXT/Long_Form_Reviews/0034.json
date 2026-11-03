@@ -2,9 +2,9 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "3318f69c37888797cfcace6ccd6217db07c68cac0157add2cd3e0b49e92f0747",
+    "title": "3051e1467e3fd59661d63e6913c6a44e910d86e7ba960021e624da5f88cd27df",
     "description": "a7344486b6dbd4fb09da7e7955ca8354a2d77e38a64a6c4d0fdba31b11cb4c04",
-    "tags": "4269b2fe4c09b00e722e6771afc4afd0e33380fb44f7bd12cbb7e4bfb9f58859",
+    "tags": "99c60918f07a4695fbc4480685812aa1c60dbfb81cfb308998c9bd08dcf289dd",
     "pinned comment": "644bc446fd7d8b0e9d2b9bfda606002f119545a3c7300a4c1f96827a567f085a",
     "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
   },
@@ -16,12 +16,6 @@
     "genres": true
   },
   "claims": [
-    {
-      "surface": "title",
-      "claim": "World of Tanks and a cello: Sabaton on Steel Commanders bass",
-      "source": "https://blabbermouth.net/news/sabaton-collaborates-with-wargaming-game-developer-on-steel-commanders-music-video ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0034 - Sabaton - Steel Commanders (Long Form)/_01 - Main Info/Details.jpeg ; https://sabaton.bandcamp.com/track/steel-commanders",
-      "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
-    },
     {
       "surface": "description",
       "claim": "Sabaton worked with World of Tanks developer Wargaming on the Steel Commanders music video, which features cellist Tina Guo. Its release year was 2021.",
@@ -119,21 +113,45 @@
       "assessment": "Historical comments screenshot checked for an artist comment; this is a new opinion question, not a verified current pin. Screenshot may not show every comment."
     },
     {
+      "surface": "tags",
+      "claim": "joakim broden",
+      "source": "https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "par sundstrom",
+      "source": "https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabton",
+      "source": "https://www.reddit.com/r/sabaton/comments/pxrhnu/just_getting_into_sabton_i_need_some_suggestions/",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "title",
+      "claim": "Steel Commanders: a tank-sized Sabaton bass playthrough",
+      "source": "https://blabbermouth.net/news/sabaton-collaborates-with-wargaming-game-developer-on-steel-commanders-music-video ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0034 - Sabaton - Steel Commanders (Long Form)/_01 - Main Info/Details.jpeg ; https://sabaton.bandcamp.com/track/steel-commanders; https://www.pressure-magazine.de/bandprofil/sabaton-266680/; user-confirmed bass performance",
+      "assessment": "Identity and factual context supported by sources; evaluative hook is opinion. Artist is not represented as appearing in this creator performance; CTR untested."
+    },
+    {
       "surface": "genres",
       "claim": "Power metal",
-      "source": "https://fr.rateyourmusic.com/artist/sabaton ; https://sabaton.bandcamp.com/track/steel-commanders",
-      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
     },
     {
       "surface": "genres",
       "claim": "Heavy metal",
-      "source": "https://fr.rateyourmusic.com/artist/sabaton ; https://sabaton.bandcamp.com/track/steel-commanders",
-      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
     }
   ],
   "distinct_fact_and_source": "Sabaton worked with World of Tanks developer Wargaming on the Steel Commanders music video, which features cellist Tina Guo. Its release year was 2021. https://blabbermouth.net/news/sabaton-collaborates-with-wargaming-game-developer-on-steel-commanders-music-video",
   "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads. Rechecked after 0061-0070; signals are common invitation words or necessary names, not a reused fact angle.",
-  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence is artist-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence is artist-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded. 2026-11-03: genre list is artist-level. People tags signify band or song associations, not original recording credit or appearance in MAVO video. Spelling observations do not prove YouTube search frequency. Title effectiveness untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

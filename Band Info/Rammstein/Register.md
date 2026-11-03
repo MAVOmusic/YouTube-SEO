@@ -50,3 +50,8 @@ Existing per-song description claims, linked to their source and CO number. Chec
 Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
 
 - till lindemann - https://www.wikiwand.com/en/Rammstein
+
+## 2026-11-03 research and usage updates
+
+- CO-0040: Amerika uses German and English in the original; an English version also appears on a single edition. Do not assert this video is the English version.
+  - Source: https://rammstein.fandom.com/wiki/Amerika_(song)

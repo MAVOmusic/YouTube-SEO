@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "09d0ef90017fedf5ac338427a5971f838da5849a4e02f0bfbebe8df540bfe368",
+    "title": "ed28ff4d548dec32d3393a3924937a7c1bd355b7c53a35acc2ac731a8a422442",
     "description": "d2c9d0b25b5aff2099fee73e7b517df0fa74a19c6cf0ba464ab9f5bc91bb64d5",
-    "tags": "7748ed7d82d23d77aedb2fc1413453af9b28c6fc5c632feb2af16870b77b1ec1",
+    "tags": "55af9a87c795ffc696b460c0e171c80f57a16cf1f5946dc0d9f8982ed10b0d77",
     "pinned comment": "0ba1b01f32861e4be645bc1f84cb5a958fb8b456f336121e33f97edb8ee8b7d7",
-    "genres": "485b2b25cd99bd93993ca67ea2c0c19b76af57518477f4f7379e7db3ca3eb722"
+    "genres": "7248d64a601360c3a7254b87447806181634cb0489c7e57ae8745c6dc67ba9cf"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -16,12 +16,6 @@
     "genres": true
   },
   "claims": [
-    {
-      "surface": "title",
-      "claim": "Before Billy Talent II, Red Flag reached games - bass cover",
-      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg ; https://www.last.fm/music/Billy+Talent/+wiki?ver=58",
-      "assessment": "Song identity and associated release or credits checked; bass performance and on-screen chart are user-confirmed. Title is a creative framing, not a note-by-note claim."
-    },
     {
       "surface": "description",
       "claim": "A demo of Red Flag appeared in games including Burnout Revenge before Billy Talent II came out in 2006. The album includes Billy Talent's finished track.",
@@ -119,27 +113,69 @@
       "assessment": "Historical comments screenshot checked for an artist comment; this is a new opinion question, not a verified current pin. Screenshot may not show every comment."
     },
     {
-      "surface": "genres",
-      "claim": "Pop punk",
-      "source": "https://rateyourmusic.com/release/single/billy-talent/red-flag/",
-      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+      "surface": "tags",
+      "claim": "ben kowalewicz",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "jon gallant",
+      "source": "https://kids.kiddle.co/Billy_Talent",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "jonathan gallant",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "tags",
+      "claim": "bt billy talent",
+      "source": "https://lessthanjake.fandom.com/wiki/Billy_Talent",
+      "assessment": "Relevant artist name, band member, shorthand or attested typo. A member is not necessarily on this recording or video; no claim of frequency or tag effectiveness."
+    },
+    {
+      "surface": "title",
+      "claim": "Remember Red Flag from Burnout? A Billy Talent bass playthrough",
+      "source": "https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II ; _All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0035 - Billy Talent - Red Flag (Long Form)/_01 - Main Info/Details.jpeg ; https://www.last.fm/music/Billy+Talent/+wiki?ver=58; https://billytalent.wiki/Red_Flag; user-confirmed bass performance",
+      "assessment": "Identity and factual context supported by sources; evaluative hook is opinion. Artist is not represented as appearing in this creator performance; CTR untested."
     },
     {
       "surface": "genres",
       "claim": "Alternative rock",
-      "source": "https://rateyourmusic.com/release/single/billy-talent/red-flag/",
-      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
     },
     {
       "surface": "genres",
       "claim": "Punk rock",
-      "source": "https://rateyourmusic.com/release/single/billy-talent/red-flag/",
-      "assessment": "Conservative genre suggestion based on cited track, release or artist; genre is subjective and may be album- or artist-level."
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Post-hardcore",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Emo",
+      "source": "https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level classification, not a claim about the exact sound of this recording."
     }
   ],
   "distinct_fact_and_source": "A demo of Red Flag appeared in games including Burnout Revenge before Billy Talent II came out in 2006. The album includes Billy Talent's finished track. https://billytalent.wiki/Red_Flag ; https://en.wikipedia.org/wiki/Billy_Talent_II",
   "uniqueness_assessment": "Compared available corpus and separately used a different researched fact angle and invitations; absence of five-word matches cannot prove semantic originality across future uploads.",
-  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Search panel shows insufficient traffic data; no query-specific tags attributed to it.",
+  "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Search panel shows insufficient traffic data; no query-specific tags attributed to it. 2026-11-03: genre list is artist-level. People tags signify band or song associations, not original recording credit or appearance in MAVO video. Spelling observations do not prove YouTube search frequency. Title effectiveness untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
