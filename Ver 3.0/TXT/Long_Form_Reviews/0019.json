@@ -2,7 +2,7 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "aa6ffe84239a7073ba46d61e567f33d3b87637d1e738cab6d76d264d04f65194",
+    "title": "a20301f5769987b1aa7a616ce2b7150a31c1e8c60fb0705dd4ada89be668c18d",
     "description": "075974b7effee6056a7f37363350c036714e57d2c5f6c7798f94bcb2ac9ee91f",
     "tags": "d8acd08a583266132e3003bf5a3dbe5c5855cd9e9d7774df2c94be9c6554b7ca",
     "pinned comment": "bb688b90a8012bfde32b2aa172a2906a7e62750e8d3459af7ab6fc258c8e857c",
@@ -30,9 +30,9 @@
     },
     {
       "surface": "title",
-      "claim": "Where Rage Against The Machine put the speech in Take The Power Back",
-      "source": "https://genius.com/Rage-against-the-machine-take-the-power-back-lyrics",
-      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
+      "claim": "Rage Against The Machine credit Tim Commerford on Take The Power Back",
+      "source": "https://www.shazam.com/song/191450956/take-the-power-back ; https://genius.com/Rage-against-the-machine-take-the-power-back-lyrics",
+      "assessment": "Rechecked title against cited source. The wording refers to the original recording or official video and does not imply the artist appears in this performance."
     },
     {
       "surface": "description",
@@ -67,7 +67,7 @@
   ],
   "distinct_fact_and_source": "Third track and Tim Commerford bass credit, as distinct from other Rage recordings. https://www.shazam.com/song/191450956/take-the-power-back",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Removed unverified Drop D in this performance, no-chorus assertion, player intent, note pattern, universal learner claims and boost reward. Historical Details and pin screenshots are not proof of current live metadata.",
+  "uncertainties_and_removed_claims": "Removed unverified Drop D in this performance, no-chorus assertion, player intent, note pattern, universal learner claims and boost reward. Historical Details and pin screenshots are not proof of current live metadata. 2026-11-03 targeted recheck replaced the complete title to remove a subjective or potentially misleading implication.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

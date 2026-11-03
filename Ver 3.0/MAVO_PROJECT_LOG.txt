@@ -620,3 +620,9 @@ blocked, 0055 Overview 2 needs rechecking. Current status is not inferred.
 descriptions, tags, proposed pins and genre judgments, with per-video sources.
 Reviewed historical Revenue dashes, search terms, viewer conversations and
 0068's historical restriction; none prove present state. Next batch 0071-0075.
+
+2026-11-03 - User-requested independent 0001-0070 verification started, not
+complete. Replaced titles 0002, 0019 and 0044 after detecting subjective or
+misleading wording; rechecked source and gate. Do not certify the full corpus
+until remaining factual claims and genre limitations have been independently
+reviewed.

@@ -3,10 +3,10 @@
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (68 characters)
+## TITLE (69 characters)
 
 ```text
-Where Rage Against The Machine put the speech in Take The Power Back
+Rage Against The Machine credit Tim Commerford on Take The Power Back
 ```
 
 ## DESCRIPTION (480 characters)

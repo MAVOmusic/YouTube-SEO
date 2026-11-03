@@ -2346,3 +2346,11 @@ screens show dash, not an established numeric zero. First-70 gate is a record
 check, not independent truth or semantic proof. No paste handoff through 0070.
 Next, start 0071-0075 in five-video batches, with paste-ready handoff after
 individual factual, screenshot and originality checks; preserve artist pins.
+
+2026-11-03 - User requested another independent 0001-0070 correctness check
+before editing or starting new songs. IN PROGRESS, not certified: inspected
+all public blocks and spot-checked evidence, corrected misleading/unsupported
+titles 0002, 0019 and 0044. First-70 hash gate is not factual verification.
+Continue source-by-source verification of remaining claims, including tags,
+pins and genre scope; disclose unresolved issues before approval. Do not begin
+0071 until user receives a reliable assessment and chooses to proceed.
