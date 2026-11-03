@@ -1,0 +1,158 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "8f42a0d0064d141386808ce408342a31df1949179aab2e2c26ea55b4da06fd5a",
+    "description": "79e19d0cddef7cd36756ecd3ae6551f048edc10b1e01b52e3262a6749197b6d5",
+    "tags": "f42197f818dee188f4d3cd361be5c91b539c117da70aba202b10cb571d944fe6",
+    "pinned comment": "d9538bd297148190909b253c3df66c7b04fc56fe03cd520cdf70d1e950b069a2",
+    "genres": "6f2157d015ccec6ce54d0ae4f3d2e2298008b0297888aa33e381ecd97d6c1b9f"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "description",
+      "claim": "If I'd Been The One opens .38 Special album Tour de Force, released 1983.",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album)",
+      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+    },
+    {
+      "surface": "description",
+      "claim": "Southern rock and AOR are classifications of the single.",
+      "source": "https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/",
+      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+    },
+    {
+      "surface": "title",
+      "claim": "If I'd Been The One, but .38 Special lets the low end argue",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Title identity and sourced musical angle checked; figurative language is opinion, not a literal assertion about artist appearing in the upload."
+    },
+    {
+      "surface": "description",
+      "claim": "MAVO plays bass while the Rocksmith note chart is on screen.",
+      "source": "User explicit instruction in conversation; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "User confirms performance; image is historical and can establish identity/format only, not whole-video gear, playing or continuous tuning."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick first, Twitch mirror and Discord invitation.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Channel routing requested by user; no promise about schedule or boost rewards."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What makes a bass part stand out to you in Southern rock?",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); historical screenshot of creator pin in folder",
+      "assessment": "Opinion or question; checked for unsupported premise. Screenshot does not show current YouTube comments or establish the absence of an artist comment."
+    },
+    {
+      "surface": "tags",
+      "claim": "38 special",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "if id been the one",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "southern rock",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "classic rock",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "tour de force",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass play along",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "1983",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass guitar",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "80s rock",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "rock bass",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "play along",
+      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "genres",
+      "claim": "Southern rock",
+      "source": "https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/",
+      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "AOR",
+      "source": "https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/",
+      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
+    }
+  ],
+  "distinct_fact_and_source": "1983 album opener and Southern rock / AOR context. https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album)",
+  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
+  "uncertainties_and_removed_claims": "Removed unverified claim that no extra notes were added. Genre source labels are interpretations. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

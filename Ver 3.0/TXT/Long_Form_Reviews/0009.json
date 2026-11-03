@@ -1,0 +1,164 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "60f806c52ad2e65c9f401ddcc9b758a8783c73bedca72b3acabc59ae51e49ac5",
+    "description": "f90d0e2c1cacd73ce0ead6c5b57ba6080a8e37eae4f5f2e5929d2514cbf99bc7",
+    "tags": "5275f0001d15e8175be8d4dba26ecde164c0260ddce4c410dade8ed1abe73684",
+    "pinned comment": "2dbd75eca3bd84eb0958f6c703c341a80843ce007a2f2e889365a0f2310f2941",
+    "genres": "9f814a1180bd16c633f5e0b746ff500c763a9b8ff44c155737e9b14ce69691dd"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "description",
+      "claim": "Welcome To The Black Parade is fifth on the 2006 album, following The Sharpest Lives.",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/",
+      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+    },
+    {
+      "surface": "description",
+      "claim": "The album recording is about five minutes long.",
+      "source": "https://www.discogs.com/release/7235816-My-Chemical-Romance-The-Black-Parade",
+      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+    },
+    {
+      "surface": "description",
+      "claim": "Mikey Way is credited for bass on the original recording.",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/",
+      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+    },
+    {
+      "surface": "title",
+      "claim": "Following My Chemical Romance through Welcome To The Black Parade",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Title identity and sourced musical angle checked; figurative language is opinion, not a literal assertion about artist appearing in the upload."
+    },
+    {
+      "surface": "description",
+      "claim": "MAVO plays bass while the Rocksmith note chart is on screen.",
+      "source": "User explicit instruction in conversation; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "User confirms performance; image is historical and can establish identity/format only, not whole-video gear, playing or continuous tuning."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick first, Twitch mirror and Discord invitation.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Channel routing requested by user; no promise about schedule or boost rewards."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Where did you first hear Welcome To The Black Parade?",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; historical screenshot of creator pin in folder",
+      "assessment": "Opinion or question; checked for unsupported premise. Screenshot does not show current YouTube comments or establish the absence of an artist comment."
+    },
+    {
+      "surface": "tags",
+      "claim": "my chemical romance",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "welcome to the black parade",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "black parade",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "mcr",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "mikey way",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "emo",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop punk",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass play along",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "2006",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass guitar",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "the black parade",
+      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - Another Life (Long Form) - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "genres",
+      "claim": "Emo",
+      "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
+    }
+  ],
+  "distinct_fact_and_source": "Album track position and predecessor, distinct from other MCR uploads. https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/",
+  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
+  "uncertainties_and_removed_claims": "Replaced title that could imply Mikey Way performed in this video; old screenshot says creator made a version, not proof of official chart. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

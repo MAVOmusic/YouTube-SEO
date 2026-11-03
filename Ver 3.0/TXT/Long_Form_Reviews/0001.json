@@ -1,0 +1,152 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "22eb50acb610ea8163b66c878947364ef71a857ba6d4ca75eab710cc1bcefa00",
+    "description": "849a4ac2ec7da7530d56987a2d20802bfcabb0d2b330ebae53684e9dfd39d070",
+    "tags": "55ef83fde866031abfa70ee418b313bb49f00a0e2e370f2ec098994ec92e738a",
+    "pinned comment": "ca9a5ea82bdacc28285ae4de12d42b10fdcf850a810e53702ff7e6d2ec5b826d",
+    "genres": "9dbd2ef687234e72bfc96d0e92f5e016157367f0534a7835328a4602ab6371a7"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "description",
+      "claim": "Autumn Leaves appears on The Ways of Yore, released in 2014.",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb",
+      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+    },
+    {
+      "surface": "description",
+      "claim": "A historical upload is a just-over-an-hour loop, 1:02:24.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+    },
+    {
+      "surface": "title",
+      "claim": "Autumn Leaves for an hour and Burzum in no hurry",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Title identity and sourced musical angle checked; figurative language is opinion, not a literal assertion about artist appearing in the upload."
+    },
+    {
+      "surface": "description",
+      "claim": "MAVO plays bass while the Rocksmith note chart is on screen.",
+      "source": "User explicit instruction in conversation; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "User confirms performance; image is historical and can establish identity/format only, not whole-video gear, playing or continuous tuning."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick first, Twitch mirror and Discord invitation.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Channel routing requested by user; no promise about schedule or boost rewards."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Does a long loop help you focus, or do you prefer listening to an album from beginning to end?",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; historical screenshot of creator pin in folder",
+      "assessment": "Opinion or question; checked for unsupported premise. Screenshot does not show current YouTube comments or establish the absence of an artist comment."
+    },
+    {
+      "surface": "tags",
+      "claim": "burzum",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "autumn leaves",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "burzum autumn leaves",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "the ways of yore",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "dungeon synth",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "ambient",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "1 hour loop",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "hour loop",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "study music",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "background music",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "burzum bass",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "long form loop",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_01 - Main Info/0001 - Burzum - Autumn Leaves (Long Form) Title & Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "genres",
+      "claim": "Ambient",
+      "source": "https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/",
+      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Dungeon synth",
+      "source": "https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/",
+      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
+    }
+  ],
+  "distinct_fact_and_source": "Album-level ambient/dungeon synth classification; 2014 album placement and a long loop. https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb",
+  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
+  "uncertainties_and_removed_claims": "Removed atmospheric black metal and unverified tuning/instrument assertions in earlier passes; exact edits and live settings remain unavailable. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

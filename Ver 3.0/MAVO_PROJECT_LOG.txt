@@ -581,3 +581,9 @@ surfaces, historical pin screenshots and genre findings; removed unsupported
 assertions, revised ten copy files and first-40 canonical/shape rows, recorded
 sources per video and ran long-form records/overlap gate. Remaining review and
 limits are in TXT/First_70_Fact_Check_2026-11-03.txt; no live handoff yet.
+
+2026-11-03 - User wants per-song MD edits only for 0001-0070, no paste-ready
+handoff until 0071 onward. Rechecked 0001-0010 with source/claim review,
+corrected statements, tags, titles and duplicate fact angles, recorded historical
+image cross-filing and evidence in the audit ledger and per-video JSON. Gate
+passed on 0001-0020; subject to stated source/live/semantic limits. Next 0021-0030.

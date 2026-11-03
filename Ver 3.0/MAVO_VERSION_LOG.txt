@@ -61,3 +61,6 @@ in first-70 fact-check ledger. No batch passed the release gate.
 2026-11-03 - 0011-0020 correction pass across all surfaces, genre split,
 per-video evidence review records, uniqueness signals and register updates.
 Gate checks evidence records/hashes; it cannot independently certify truth.
+
+2026-11-03 - First-ten evidence/uniqueness recheck and file corrections; new
+user handoff instruction: only song MD until 0070, paste-ready from 0071 onward.

@@ -100,16 +100,16 @@
 
   CO      DESC OPENING DEVICE                          PIN DEVICE
   ----    ------------------------------------------   ------------------------
-  0001    narrative scenario                           What do you leave running when the house is empty?
-  0002    date + album arrival                         What is the song you would show someone first?
-  0003    date + album verdict                         What song did you learn far too late?
-  0004    comparison to the other upload               What is the one thing you always slow down?
-  0005    date + album origin                          Do you play by ear or by tab?
-  0006    tuning / production detail                   What is the heaviest thing you play in Drop D?
-  0007    date + album + track position                Which song did you avoid for years before trying it?
-  0008    date + album + verdict                       What is your favourite bass part in this band?
-  0009    date + album arrival                         Which section of this song catches people out?
-  0010    date + album                                 What is the most underrated bassline you know?
+  0001    album / ambient long loop                       Does a long loop help you focus, or do you prefer listening to an album from beginning to end?
+  0002    fan feedback on single selection                Which Motionless In White song would you like to hear on bass next?
+  0003    album and contrast of sections                  Do you prefer learning a song in short sections, or playing through it and revisiting the difficult parts?
+  0004    music video director / returning chart          Which Motionless In White music video stands out to you visually?
+  0005    Salem witch trials / debut                      Does the early Motionless In White sound pull you in, or do you prefer their later records?
+  0006    Slipknot director / Infamous                    How does A-M-E-R-I-C-A compare with the other singles from Infamous for you?
+  0007    Dee Snider cameo / album opener                 Which part of Immaculate Misconception would you break down first when learning it?
+  0008    cassette video / loss of friend                 Does knowing the story behind X-Kid change how you hear it, or did the music reach you first?
+  0009    fifth track / previous track                    Where did you first hear Welcome To The Black Parade?
+  0010    album opener / Southern rock                    What makes a bass part stand out to you in Southern rock?
   0011    sourced song-specific fact                      Which other classical piece would you choose for a long bass loop?
   0012    sourced song-specific fact                      Which song from Tell All Your Friends would you put beside this one?
   0013    sourced song-specific fact                      Which Slayer album opener makes you want to hear the rest of the record?

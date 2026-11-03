@@ -1,0 +1,146 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "6bb7ccbc83846652552cb008b45729016106eef9e31c920f8e90b6395e455faa",
+    "description": "c82ee749d293f6ed088b12010a1958b10dee0bc17e3e613b73816d13c77d0029",
+    "tags": "6d49ce3dab93ee0e3f2f52d9bef97e31046f0f443436835038ef9c2bae5e1b5b",
+    "pinned comment": "feb1255bc1fbbc328e1a48c3b96006a5bb76e1a34c1607259054c94502690905",
+    "genres": "13020ac924410280561287bad8fa1e2db2c7511b8022e728d53c345cc4832a6b"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "description",
+      "claim": "Masterpiece appears on the 2022 album Scoring the End of the World.",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/",
+      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+    },
+    {
+      "surface": "description",
+      "claim": "Quieter passages and larger chorus are listening judgments, not exact measurements.",
+      "source": "https://en.wikipedia.org/wiki/Masterpiece_(Motionless_in_White_song)",
+      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+    },
+    {
+      "surface": "title",
+      "claim": "Masterpiece finds Motionless In White in a quieter register",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "Title identity and sourced musical angle checked; figurative language is opinion, not a literal assertion about artist appearing in the upload."
+    },
+    {
+      "surface": "description",
+      "claim": "MAVO plays bass while the Rocksmith note chart is on screen.",
+      "source": "User explicit instruction in conversation; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "User confirms performance; image is historical and can establish identity/format only, not whole-video gear, playing or continuous tuning."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick first, Twitch mirror and Discord invitation.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Channel routing requested by user; no promise about schedule or boost rewards."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Do you prefer learning a song in short sections, or playing through it and revisiting the difficult parts?",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; historical screenshot of creator pin in folder",
+      "assessment": "Opinion or question; checked for unsupported premise. Screenshot does not show current YouTube comments or establish the absence of an artist comment."
+    },
+    {
+      "surface": "tags",
+      "claim": "motionless in white",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "masterpiece",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "motionless in white masterpiece",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "scoring the end of the world",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative metal",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "metalcore",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass play along",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith 2014",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "2022",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass guitar",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "play along",
+      "source": "https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/; https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative metal",
+      "source": "https://rateyourmusic.com/release/single/motionless-in-white/masterpiece/",
+      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
+    }
+  ],
+  "distinct_fact_and_source": "2022 Masterpiece album identification and contrast between song sections. https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/",
+  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
+  "uncertainties_and_removed_claims": "Removed unverified tuning and gear claims previously; quiet/larger are subjective descriptions. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

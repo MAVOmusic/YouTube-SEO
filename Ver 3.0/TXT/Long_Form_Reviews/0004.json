@@ -1,0 +1,152 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-03",
+  "surface_sha256": {
+    "title": "5628bb22b0cc0380dca1d7c4235775730e71286e97398c5ec7b1bc1e9b54a87a",
+    "description": "25845a27997ff15f316a28b1b138fb01c8e494c69a161bad7edbc1e4ba49a9a8",
+    "tags": "8addbafbdb8d3e72769e6823ae39aa90c7c9ed6301b71f49b9cf4a9a07b80811",
+    "pinned comment": "15e9ada911bbe1974bdf61aea040555835ae6c039f56dc4adabc2d9098963e35",
+    "genres": "8982e9226cfac559a9066a79b11ab1c77b6842a44af2ddfa3868d47039c36ac2"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "description",
+      "claim": "Max Moore directed the official Another Life music video.",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life",
+      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+    },
+    {
+      "surface": "description",
+      "claim": "This is a separate Another Life upload from 0002.",
+      "source": "Ver 3.0/TXT/Channel_Order_Audit_Log.txt and distinct historical screenshots",
+      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+    },
+    {
+      "surface": "title",
+      "claim": "Another Life returns as Motionless In White meets the bass chart",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "Title identity and sourced musical angle checked; figurative language is opinion, not a literal assertion about artist appearing in the upload."
+    },
+    {
+      "surface": "description",
+      "claim": "MAVO plays bass while the Rocksmith note chart is on screen.",
+      "source": "User explicit instruction in conversation; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "User confirms performance; image is historical and can establish identity/format only, not whole-video gear, playing or continuous tuning."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick first, Twitch mirror and Discord invitation.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
+      "assessment": "Channel routing requested by user; no promise about schedule or boost rewards."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which Motionless In White music video stands out to you visually?",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; historical screenshot of creator pin in folder",
+      "assessment": "Opinion or question; checked for unsupported premise. Screenshot does not show current YouTube comments or establish the absence of an artist comment."
+    },
+    {
+      "surface": "tags",
+      "claim": "another life",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; https://rateyourmusic.com/release/single/motionless-in-white/another-life/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "motionless in white",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; https://rateyourmusic.com/release/single/motionless-in-white/another-life/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "motionless in white another life",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; https://rateyourmusic.com/release/single/motionless-in-white/another-life/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass play along",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; https://rateyourmusic.com/release/single/motionless-in-white/another-life/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "play along bass",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; https://rateyourmusic.com/release/single/motionless-in-white/another-life/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; https://rateyourmusic.com/release/single/motionless-in-white/another-life/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "disguise",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; https://rateyourmusic.com/release/single/motionless-in-white/another-life/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "post grunge",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; https://rateyourmusic.com/release/single/motionless-in-white/another-life/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative metal",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; https://rateyourmusic.com/release/single/motionless-in-white/another-life/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "learn bass",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; https://rateyourmusic.com/release/single/motionless-in-white/another-life/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; https://rateyourmusic.com/release/single/motionless-in-white/another-life/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "2019",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; https://rateyourmusic.com/release/single/motionless-in-white/another-life/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass guitar",
+      "source": "https://imvdb.com/video/motionless-in-white/another-life; https://rateyourmusic.com/release/single/motionless-in-white/another-life/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_01 - Main Info/Motionless In White - Masterpiece (Long Form - Play Along on Bass) - Description.jpeg",
+      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+    },
+    {
+      "surface": "genres",
+      "claim": "Post-grunge",
+      "source": "https://www.albumoftheyear.org/album/630951-motionless-in-white-another-life.php",
+      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative metal",
+      "source": "https://www.albumoftheyear.org/album/630951-motionless-in-white-another-life.php",
+      "assessment": "Playlist recommendation is a source-based genre judgment, not an objective exclusive fact. For 0001 dungeon synth and 0005/0007 melodic metalcore, evidence is album-level."
+    }
+  ],
+  "distinct_fact_and_source": "Director credit, different from fan-selection angle in 0002; 0033 remains subject to independent review. https://imvdb.com/video/motionless-in-white/another-life",
+  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 2 five-word matches. Both signals are required song and artist identity shared with the separate Another Life upload. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
+  "uncertainties_and_removed_claims": "Removed inaccurate absolute about the pause button and unverified tuning; overlap with 0002 is song/artist name. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown.",
+  "collision_report_sha256": "c950a5e67c3cd19d3b5d694e4807b27c67443bc72f18c7fef40b7a975e0096ff",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}
