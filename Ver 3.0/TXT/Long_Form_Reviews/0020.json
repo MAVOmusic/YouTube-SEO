@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "150787fcac73041cc15189f644f5abd3bfebe527d72d5dcb4ff22f6eed389f58",
+    "title": "7ccd0835c1c4e2f77590566d792112189390f3c2e48999a7077e951362c1df67",
     "description": "a724df19c548555138e8b71a715b7abdaac351e522c7b383469389929dfdfea7",
     "tags": "27a624352c07dd35e651e51a7dfee0325dbe1bd768698219fdbb242ed0583a05",
     "pinned comment": "47b68cacb445b4d60f6bf6c0edb0d9a37cd278a034fef91fd55230671050980e",
-    "genres": "96ee69d0f470da4f01a04ffd4210eb39821a8a47a300ebb01149b50aad09c233"
+    "genres": "879626d291b59b5f151ccc5e3da8a586c45b2039c8f5e4b17aae17761cbee6d2"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -27,12 +27,6 @@
       "claim": "Music video shrine and Sakura Sakura folk melody; https://en.wikipedia.org/wiki/Babymetal supports original SU-METAL, MOAMETAL, YUIMETAL lineup.",
       "source": "https://www.afterglowatx.com/blog/2018/11/6/from-the-erhu-to-the-electric-guitar-3-east-asian-artists-who-keep-culture-alive-in-modern-music",
       "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
-    },
-    {
-      "surface": "title",
-      "claim": "A Japanese folk melody meets BABYMETAL in Megitsune",
-      "source": "https://www.afterglowatx.com/blog/2018/11/6/from-the-erhu-to-the-electric-guitar-3-east-asian-artists-who-keep-culture-alive-in-modern-music",
-      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
     },
     {
       "surface": "description",
@@ -59,15 +53,39 @@
       "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
     },
     {
+      "surface": "title",
+      "claim": "The folk melody inside BABYMETAL's Megitsune | bass cover",
+      "source": "https://www.afterglowatx.com/blog/2018/11/6/from-the-erhu-to-the-electric-guitar-3-east-asian-artists-who-keep-culture-alive-in-modern-music; creator-confirmed bass performance; https://en.wikipedia.org/wiki/Babymetal",
+      "assessment": "Song/artist and factual hook are supported by cited sources; subjective words are editorial characterisation, not a claim of measured clicks or artist appearing in the video."
+    },
+    {
       "surface": "genres",
-      "claim": "- Kawaii metal\n- Metalcore\n- Speed metal",
-      "source": "https://en.wikipedia.org/wiki/Megitsune; https://www.afterglowatx.com/blog/2018/11/6/from-the-erhu-to-the-electric-guitar-3-east-asian-artists-who-keep-culture-alive-in-modern-music",
-      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+      "claim": "Kawaii metal",
+      "source": "https://en.wikipedia.org/wiki/Babymetal",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "J-pop",
+      "source": "https://en.wikipedia.org/wiki/Babymetal",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power metal",
+      "source": "https://en.wikipedia.org/wiki/Babymetal",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative metal",
+      "source": "https://en.wikipedia.org/wiki/Babymetal",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
     }
   ],
   "distinct_fact_and_source": "Music video shrine and Sakura Sakura folk melody; https://en.wikipedia.org/wiki/Babymetal supports original SU-METAL, MOAMETAL, YUIMETAL lineup. https://www.afterglowatx.com/blog/2018/11/6/from-the-erhu-to-the-electric-guitar-3-east-asian-artists-who-keep-culture-alive-in-modern-music",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Removed MOMOMETAL and BOH tags to avoid misleading original recording attribution; unsupported nonstop playing, audience claims, breakdown description and rest-bar claims removed. Historical Details and pin screenshots are not proof of current live metadata.",
+  "uncertainties_and_removed_claims": "Removed MOMOMETAL and BOH tags to avoid misleading original recording attribution; unsupported nonstop playing, audience claims, breakdown description and rest-bar claims removed. Historical Details and pin screenshots are not proof of current live metadata. 2026-11-03: artist-level genres requested; individual song may differ. Title click performance untested. Observed spelling variants do not prove prevalence or tag effectiveness.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

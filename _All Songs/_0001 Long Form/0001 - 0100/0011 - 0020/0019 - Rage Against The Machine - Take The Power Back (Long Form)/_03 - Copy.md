@@ -3,10 +3,10 @@
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (69 characters)
+## TITLE (65 characters)
 
 ```text
-Rage Against The Machine credit Tim Commerford on Take The Power Back
+Take The Power Back: Rage Against The Machine's funk-fuelled bass
 ```
 
 ## DESCRIPTION (480 characters)
@@ -21,10 +21,10 @@ There is a Rocksmith guide on screen if you want to work through the bass part w
 💬 Compare basslines with the Discord community; a boost is appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 189/500 characters)
+## TAGS (15 tags, 215/500 characters)
 
 ```text
-rage against the machine, take the power back, ratm, ratm bass, tim commerford, funk metal, rap metal, rap rock, funk rock, bass cover, bass play along, rocksmith bass, rocksmith 2014, 1992
+rage against the machine, take the power back, ratm, ratm bass, tim commerford, funk metal, rap metal, rap rock, funk rock, bass cover, bass play along, rocksmith bass, rocksmith 2014, 1992, rage against the mashine
 ```
 
 ## PINNED COMMENT (62 characters)
@@ -35,11 +35,11 @@ Which bassline would you use to introduce a metal fan to funk?
 
 ## GENRE FINDINGS (internal)
 
-Track-specific classifications include funk metal, rap metal, rap rock and funk rock. Prior claims about exact tuning, player intent and the absence of a chorus are not established for this performance.
+Artist-level genres from https://en.wikipedia.org/wiki/Rage_Against_the_Machine. The consistent artist list is not an assertion that this particular recording fits every genre. See Band Info/Rage Against The Machine/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
-- Funk metal
 - Rap metal
 - Rap rock
-- Funk rock
+- Funk metal
+- Alternative metal

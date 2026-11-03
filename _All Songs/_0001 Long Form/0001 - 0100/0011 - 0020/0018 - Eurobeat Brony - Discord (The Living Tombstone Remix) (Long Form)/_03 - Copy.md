@@ -3,10 +3,10 @@
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (57 characters)
+## TITLE (64 characters)
 
 ```text
-Discord by Eurobeat Brony remixed by The Living Tombstone
+A bass take on Discord - Eurobeat Brony's Living Tombstone remix
 ```
 
 ## DESCRIPTION (491 characters)
@@ -21,10 +21,10 @@ Grab your bass and use the Rocksmith display as you listen to the remix.
 💬 Swap remix discoveries in Discord, and consider boosting the community: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (17 tags, 292/500 characters)
+## TAGS (20 tags, 336/500 characters)
 
 ```text
-eurobeat brony, discord, the living tombstone, discord remix, discord eurobeat brony, brony music, my little pony fan music, glitch hop, electropop, remix bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass rocksmith, discord odyssey eurobeat, discord the living tombstone
+eurobeat brony, discord, the living tombstone, discord remix, discord eurobeat brony, brony music, my little pony fan music, glitch hop, electropop, remix bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, bass rocksmith, discord odyssey eurobeat, discord the living tombstone, odyssey eurobeat, tlt, the living tombsone
 ```
 
 ## PINNED COMMENT (66 characters)
@@ -35,9 +35,9 @@ What remix introduced you to an original song you had never heard?
 
 ## GENRE FINDINGS (internal)
 
-Track-specific sources classify the remix as electropop and glitch hop. Eurobeat describes the original artist/other version, not the primary classification of this remix. Fandom and remix are not genres.
+Artist-level genres from https://www.whosampled.com/Eurobeat-Brony/Discord/. The consistent artist list is not an assertion that this particular recording fits every genre. See Band Info/Eurobeat Brony/Register.md. This remix is by The Living Tombstone; their separate artist list is in Band Info/The Living Tombstone/Register.md. Its original artist Eurobeat Brony is used for the standard list; the description retains remix-specific classifications.
 
 ## CORRECT GENRES (playlist reference)
 
-- Electropop
-- Glitch hop
+- Eurobeat
+- Electronic dance music

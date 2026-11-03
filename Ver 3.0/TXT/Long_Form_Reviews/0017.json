@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "030ab66f738f4c8b3dffc1194269775c424a0e61f23cc47cfa355531adae85fa",
+    "title": "d61ec1571c8c222f703e5b96a5725c8897276cead086e64dbac7d0ad29d84a3f",
     "description": "7c597e538747da26dff8e7114a18e687c100bbbb9ebcd7af3d93c45800cd69be",
-    "tags": "d7052e415be5ba7f78902c7f3281612d075e3154e77c2c04996053bb01f750bf",
+    "tags": "a476c4453292642d7926e788e5a4989eb96b8645d09def5baa9a2373a38c76c2",
     "pinned comment": "f631a3df96c9e0b2ce6cbfae6528fe5e294fc5c951e7c4419fd7b1cf0e593e3c",
-    "genres": "e081b0d50076804f07ec017c2912cfb120e1253634a9da2f26af3725844f5ebd"
+    "genres": "5edab9b53d36472e0d9ef065b325313cf6c627159215ee30220e49086c721888"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -27,12 +27,6 @@
       "claim": "Band reunion in 2019 versus new single in 2022; https://rateyourmusic.com/release/single/my-chemical-romance/the-foundations-of-decay/ supports alternative rock and Mikey Way bass credit.",
       "source": "https://genius.com/My-chemical-romance-the-foundations-of-decay-lyrics",
       "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
-    },
-    {
-      "surface": "title",
-      "claim": "My Chemical Romance return with The Foundations Of Decay",
-      "source": "https://genius.com/My-chemical-romance-the-foundations-of-decay-lyrics",
-      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
     },
     {
       "surface": "description",
@@ -59,15 +53,57 @@
       "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
     },
     {
+      "surface": "title",
+      "claim": "New MCR music after eight years: The Foundations Of Decay",
+      "source": "https://genius.com/My-chemical-romance-the-foundations-of-decay-lyrics; creator-confirmed bass performance; https://en.wikipedia.org/wiki/My_Chemical_Romance",
+      "assessment": "Song/artist and factual hook are supported by cited sources; subjective words are editorial characterisation, not a claim of measured clicks or artist appearing in the video."
+    },
+    {
       "surface": "genres",
-      "claim": "- Post-hardcore\n- Alternative rock\n- Progressive rock\n- Gothic rock",
-      "source": "https://en.wikipedia.org/wiki/The_Foundations_of_Decay; https://genius.com/My-chemical-romance-the-foundations-of-decay-lyrics",
-      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
+      "claim": "Alternative rock",
+      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Emo",
+      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Post-hardcore",
+      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "tags",
+      "claim": "mcr",
+      "source": "https://jhmoviecollection.fandom.com/wiki/My_Chemical_Romance",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "my chem",
+      "source": "https://jhmoviecollection.fandom.com/wiki/My_Chemical_Romance",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "my chemical romace",
+      "source": "https://soundcloud.com/doddsys-devils/sets/my-chemical-romace",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
     }
   ],
   "distinct_fact_and_source": "Band reunion in 2019 versus new single in 2022; https://rateyourmusic.com/release/single/my-chemical-romance/the-foundations-of-decay/ supports alternative rock and Mikey Way bass credit. https://genius.com/My-chemical-romance-the-foundations-of-decay-lyrics",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Removed nine-years-off claim, midnight claim, bass-only opening, no chorus, non-repeated phrases, unverified gear and boost promise. Historical Details and pin screenshots are not proof of current live metadata.",
+  "uncertainties_and_removed_claims": "Removed nine-years-off claim, midnight claim, bass-only opening, no chorus, non-repeated phrases, unverified gear and boost promise. Historical Details and pin screenshots are not proof of current live metadata. 2026-11-03: artist-level genres requested; individual song may differ. Title click performance untested. Observed spelling variants do not prove prevalence or tag effectiveness.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

@@ -74,25 +74,25 @@
           was: Welcome To The Black Parade is five minutes of Mikey Way never standing still
   0010    genre instrument meets artist song | Southern rock bass meets .38 Special's If I'd Been The One
           was: If I'd Been The One is Southern rock where the low end does the arguing
-  0011    revised song-specific angle                    Chopin on bass for four hours, Nocturne Op. 9 No. 2 on repeat
+  0011    from instrument to instrument: composer song duration | From piano to bass: Chopin's Nocturne Op. 9 No. 2 for 4 hours
           was: Four hours of Chopin's Nocturne Op. 9 No. 2, on bass, for working through
-  0012    revised song-specific angle                    Taking Back Sunday meet Fight Club in Cute Without The E
+  0012    song: band instrument cover to follow | Cute Without The 'E': a Taking Back Sunday bass cover to follow
           was: Cute Without the E hides a bassline under a title that is a joke
-  0013    revised song-specific angle                    Slayer open Seasons in the Abyss with War Ensemble
+  0013    song: band genre opener gets instrument workout | War Ensemble: Slayer's thrash opener gets a bass workout
           was: War Ensemble is Slayer at full sprint with one man doing two jobs
-  0014    revised song-specific angle                    John Deacon wrote Queen's I Want To Break Free
+  0014    artist hit written by bassist: song | The Queen hit written by its bassist: I Want To Break Free
           was: The famous line in I Want To Break Free is a synth, not a bass
-  0015    revised song-specific angle                    A wedding vow meets Rammstein in Du Hast
+  0015    song and lyrical image: artist genre instrument | Du Hast and the wedding vow: Rammstein's industrial bass
           was: Du Hast answers a wedding vow with one word, and Riedel repeats one note
-  0016    revised song-specific angle                    Lonely Day proves System Of A Down can whisper and still land
+  0016    song turns artist intensity inward - instrument cover | Lonely Day turns System Of A Down's intensity inward - bass cover
           was: Lonely Day is the quietest thing System Of A Down ever wrote, and the bass proves it
-  0017    revised song-specific angle                    My Chemical Romance return with The Foundations Of Decay
+  0017    new artist music after interval: song | New MCR music after eight years: The Foundations Of Decay
           was: Nine years after the split, Foundations Of Decay handed Mikey Way six minutes
-  0018    revised song-specific angle                    Discord by Eurobeat Brony remixed by The Living Tombstone
+  0018    instrument take on song - artist remixer version | A bass take on Discord - Eurobeat Brony's Living Tombstone remix
           was: Eurobeat Brony's Discord, remixed by The Living Tombstone, on one bassline
-  0019    band credit bassist on song | Rage Against The Machine credit Tim Commerford on Take The Power Back
+  0019    song: artist genre-fuelled instrument | Take The Power Back: Rage Against The Machine's funk-fuelled bass
           was: Rage Against The Machine put the argument in the bassline of Take The Power Back
-  0020    revised song-specific angle                    A Japanese folk melody meets BABYMETAL in Megitsune
+  0020    folk melody inside band song | instrument cover | The folk melody inside BABYMETAL's Megitsune | bass cover
           was: Babymetal's Megitsune is a folk melody riding a bass that never rests
   0021    imperative bring song by artist to instrument            Bring Jailhouse Rock by Elvis Presley to the bass
   0022    song on bass: artist album cut                Together on bass: an Avril Lavigne album cut

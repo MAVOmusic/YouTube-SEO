@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (46 characters)
+## TITLE (58 characters)
 
 ```text
-John Deacon wrote Queen's I Want To Break Free
+The Queen hit written by its bassist: I Want To Break Free
 ```
 
 ## DESCRIPTION (486 characters)
@@ -20,10 +20,10 @@ Want to follow the low end? The Rocksmith display accompanies my bass take.
 💬 Share a Queen deep cut in Discord and consider a boost if you wish: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (15 tags, 212/500 characters)
+## TAGS (16 tags, 220/500 characters)
 
 ```text
-queen, i want to break free, i want to break free bass, john deacon, the works, pop rock, synth pop, 80s bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, freddie mercury, queen bass, queen songs
+queen, i want to break free, i want to break free bass, john deacon, the works, pop rock, synth pop, 80s bass, bass cover, bass play along, rocksmith bass, rocksmith 2014, freddie mercury, queen bass, queen songs, queeen
 ```
 
 ## PINNED COMMENT (61 characters)
@@ -34,9 +34,15 @@ Pick a John Deacon composition for the next bass performance.
 
 ## GENRE FINDINGS (internal)
 
-Song-level classifications support pop rock and synth-pop. Fred Mandel played synthesizers and Deacon bass; that does not prove the prior synth-bass and two-bass-player assertions.
+Artist-level genres from https://en.wikipedia.org/wiki/Queen_(band). The consistent artist list is not an assertion that this particular recording fits every genre. See Band Info/Queen/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
+- Rock
+- Pop
+- Hard rock
+- Progressive rock
+- Arena rock
 - Pop rock
-- Synth-pop
+- Art rock
+- Glam rock

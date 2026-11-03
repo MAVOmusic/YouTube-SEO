@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (56 characters)
+## TITLE (57 characters)
 
 ```text
-My Chemical Romance return with The Foundations Of Decay
+New MCR music after eight years: The Foundations Of Decay
 ```
 
 ## DESCRIPTION (540 characters)
@@ -20,10 +20,10 @@ Hear how this later single sits beside the earlier catalogue while following my 
 💬 Suggest an MCR song in Discord, with thanks to anyone who chooses to boost: https://discord.gg/ESGsGkN4j2
 ```
 
-## TAGS (14 tags, 245/500 characters)
+## TAGS (16 tags, 274/500 characters)
 
 ```text
-my chemical romance, foundations of decay, the foundations of decay, mcr, mcr bass, foundations of decay bass, mikey way, emo bass, return of my chemical romance, bass cover, bass play along, rocksmith bass, rocksmith 2014, alternative rock bass
+my chemical romance, foundations of decay, the foundations of decay, mcr, mcr bass, foundations of decay bass, mikey way, emo bass, return of my chemical romance, bass cover, bass play along, rocksmith bass, rocksmith 2014, alternative rock bass, my chem, my chemical romace
 ```
 
 ## PINNED COMMENT (68 characters)
@@ -34,11 +34,11 @@ How does this single compare with the MCR song you first discovered?
 
 ## GENRE FINDINGS (internal)
 
-RYM classifies the single post-hardcore and alternative rock; other song-specific coverage describes progressive rock and gothic rock. Emo and art rock also appear as secondary classifications, but are not essential to this conservative list.
+Artist-level genres from https://en.wikipedia.org/wiki/My_Chemical_Romance. The consistent artist list is not an assertion that this particular recording fits every genre. See Band Info/My Chemical Romance/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
-- Post-hardcore
 - Alternative rock
-- Progressive rock
-- Gothic rock
+- Emo
+- Pop punk
+- Post-hardcore

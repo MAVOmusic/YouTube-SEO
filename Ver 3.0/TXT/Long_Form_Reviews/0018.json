@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "436dee207e6d3bc161f0e483bca7c4e39dca403ebfb85cf9c00f2b6525287323",
+    "title": "e9ffff44f8ac233965d5e3fa3dad263b9dc41a66ab10eddb657515e6dd16840e",
     "description": "d878ed9c73238c640c93fe2e7c8ea4c3f6c0b6e34ff28408fc116a616ba7c785",
-    "tags": "5e015c84a7e6a3568d062394d6bed192f6614f14309c4a62614141790c81cf65",
+    "tags": "fd3e4a6e75465e16653a172f42bc02cfd2db3cacb0eb01c8774d0371c9ee7083",
     "pinned comment": "50d49356a32e0379f4721652e91ce30dcb94c674a12d64063220b7aeab70b765",
-    "genres": "3e5d7ac1f6e99359ce8d3e633595fbd32bc13eb973dfd1efbffb0017fe907849"
+    "genres": "ebed48c048e851dc6bbb051809862d59db111d83f2f7f29e815310b13c2fcd0c"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -27,12 +27,6 @@
       "claim": "Difference between original and 2012 remix; remix classified electropop/glitch hop.",
       "source": "https://rateyourmusic.com/release/single/eurobeat-brony/discord-the-living-tombstones-remix/; https://news.yahoo.com/song-called-discord-going-viral-194124012.html; https://www.albumoftheyear.org/album/417694-the-living-tombstone-discord.php",
       "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
-    },
-    {
-      "surface": "title",
-      "claim": "Discord by Eurobeat Brony remixed by The Living Tombstone",
-      "source": "https://rateyourmusic.com/release/single/eurobeat-brony/discord-the-living-tombstones-remix/; https://news.yahoo.com/song-called-discord-going-viral-194124012.html; https://www.albumoftheyear.org/album/417694-the-living-tombstone-discord.php",
-      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
     },
     {
       "surface": "description",
@@ -59,12 +53,6 @@
       "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
     },
     {
-      "surface": "genres",
-      "claim": "- Electropop\n- Glitch hop",
-      "source": "https://www.whosampled.com/Eurobeat-Brony/Discord-(The-Living-Tombstone-Remix)/; https://rateyourmusic.com/release/single/eurobeat-brony/discord-the-living-tombstones-remix/; https://news.yahoo.com/song-called-discord-going-viral-194124012.html; https://www.albumoftheyear.org/album/417694-the-living-tombstone-discord.php",
-      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
-    },
-    {
       "surface": "tags",
       "claim": "bass rocksmith",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0018 - Eurobeat Brony - Discord (The Living Tombstone Remix) (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
@@ -81,11 +69,47 @@
       "claim": "discord the living tombstone",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0018 - Eurobeat Brony - Discord (The Living Tombstone Remix) (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
       "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
+    },
+    {
+      "surface": "title",
+      "claim": "A bass take on Discord - Eurobeat Brony's Living Tombstone remix",
+      "source": "https://rateyourmusic.com/release/single/eurobeat-brony/discord-the-living-tombstones-remix/; https://news.yahoo.com/song-called-discord-going-viral-194124012.html; https://www.albumoftheyear.org/album/417694-the-living-tombstone-discord.php; creator-confirmed bass performance; https://www.whosampled.com/Eurobeat-Brony/Discord/",
+      "assessment": "Song/artist and factual hook are supported by cited sources; subjective words are editorial characterisation, not a claim of measured clicks or artist appearing in the video."
+    },
+    {
+      "surface": "genres",
+      "claim": "Eurobeat",
+      "source": "https://www.whosampled.com/Eurobeat-Brony/Discord/",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Electronic dance music",
+      "source": "https://www.whosampled.com/Eurobeat-Brony/Discord/",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "tags",
+      "claim": "odyssey eurobeat",
+      "source": "https://www.businessinsider.com/discord-tiktok-song-my-little-pony-eurobeat-brony-living-tombstone-2021-6",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "tlt",
+      "source": "https://en.wikipedia.org/wiki/The_Living_Tombstone",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
+    },
+    {
+      "surface": "tags",
+      "claim": "the living tombsone",
+      "source": "https://www.youtube.com/watch?v=H0K-S0hJ8qU",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
     }
   ],
   "distinct_fact_and_source": "Difference between original and 2012 remix; remix classified electropop/glitch hop. https://rateyourmusic.com/release/single/eurobeat-brony/discord-the-living-tombstones-remix/",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Removed assertions about release months, universality, four chords throughout, root-only bass, swing, no vocals and relative view counts; Eurobeat not a primary genre of the remix. Historical Details and pin screenshots are not proof of current live metadata. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness.",
+  "uncertainties_and_removed_claims": "Removed assertions about release months, universality, four chords throughout, root-only bass, swing, no vocals and relative view counts; Eurobeat not a primary genre of the remix. Historical Details and pin screenshots are not proof of current live metadata. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03: artist-level genres requested; individual song may differ. Title click performance untested. Observed spelling variants do not prove prevalence or tag effectiveness.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

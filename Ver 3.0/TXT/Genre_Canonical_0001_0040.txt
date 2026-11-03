@@ -18,7 +18,7 @@
 #   He reads the block as a shopping list, so anything printed in it gets added -
 #   including the rows that said DO NOT ADD. The block was self-defeating.
 #
-# HISTORICAL RULE (superseded for 0001-0010 on 2026-11-03; see note below)
+# HISTORICAL RULE (superseded for 0001-0020 on 2026-11-03; see note below)
 #   GENRE FINDINGS   - internal only. Lives in the audit log and the copy file.
 #                      Holds the research, the grey areas and the exclusions.
 #   CORRECT GENRES   - the only thing MAVO sees. Genres that genuinely apply to
@@ -33,10 +33,10 @@
 # best two-word answer.
 # ============================================================================
 
-  NOTE: 0001-0010 now use consistent artist-level lists; they are not song-level classifications.
-  Rows 0011-0040 retain the earlier song-level approach until individually revised.
+  NOTE: 0001-0020 now use consistent artist-level lists; they are not song-level classifications.
+  Rows 0021-0040 retain the earlier song-level approach until individually revised.
 
-  CO    SONG                                   CORRECT GENRES (best fit first)
+  CO    SONG                                   GENRES (artist-level for 0001-0020)
   ----  -------------------------------------  ----------------------------------------------
   0001  Burzum - Autumn Leaves                 Ambient / Dungeon synth / Black metal / Atmospheric black metal / Dark ambient
   0002  Motionless In White - Another Life     Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
@@ -49,15 +49,15 @@
   0009  My Chemical Romance - Black Parade     Alternative rock / Emo / Pop punk / Post-hardcore
   0010  .38 Special - If I'd Been The One      Southern rock / AOR / Hard rock / Power pop / Boogie rock
   0011  Chopin - Nocturne Op. 9 No. 2          Classical / Romantic classical
-  0012  Taking Back Sunday - Cute Without E    Emo / Post-hardcore / Pop punk
+  0012  Taking Back Sunday - Cute Without E    Emo / Emo pop / Post-hardcore / Pop punk / Alternative rock / Pop rock
   0013  Slayer - War Ensemble                  Thrash metal
-  0014  Queen - I Want To Break Free           Pop rock / Synth-pop
-  0015  Rammstein - Du Hast                    Industrial metal / Neue Deutsche Haerte
-  0016  System Of A Down - Lonely Day          Alternative metal
-  0017  My Chemical Romance - Foundations      Post-hardcore / Alternative rock / Progressive rock / Gothic rock
-  0018  Discord (Living Tombstone Remix)       Electropop / Glitch hop
-  0019  Rage Against The Machine - Take Power  Funk metal / Rap metal / Rap rock / Funk rock
-  0020  BABYMETAL - Megitsune                  Kawaii metal / Metalcore / Speed metal
+  0014  Queen - I Want To Break Free           Rock / Pop / Hard rock / Progressive rock / Arena rock / Pop rock / Art rock / Glam rock
+  0015  Rammstein - Du Hast                    Neue Deutsche Haerte / Industrial metal
+  0016  System Of A Down - Lonely Day          Alternative metal / Nu metal
+  0017  My Chemical Romance - Foundations      Alternative rock / Emo / Pop punk / Post-hardcore
+  0018  Discord (Living Tombstone Remix)       Eurobeat / Electronic dance music
+  0019  Rage Against The Machine - Take Power  Rap metal / Rap rock / Funk metal / Alternative metal
+  0020  BABYMETAL - Megitsune                  Kawaii metal / J-pop / Power metal / Alternative metal
   0021  Elvis Presley - Jailhouse Rock  Rock and roll / Rockabilly
   0022  Avril Lavigne - Together  Post-grunge / Pop rock
   0023  Sabaton - Camouflage  Power metal

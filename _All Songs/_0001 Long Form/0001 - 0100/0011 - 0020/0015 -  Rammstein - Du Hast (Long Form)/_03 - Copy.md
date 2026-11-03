@@ -2,10 +2,10 @@
 
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 
-## TITLE (40 characters)
+## TITLE (56 characters)
 
 ```text
-A wedding vow meets Rammstein in Du Hast
+Du Hast and the wedding vow: Rammstein's industrial bass
 ```
 
 ## DESCRIPTION (487 characters)
@@ -34,9 +34,9 @@ Which Rammstein song would you choose for someone learning their first bass part
 
 ## GENRE FINDINGS (internal)
 
-Track sources identify industrial metal and Neue Deutsche Haerte. Exact tuning, repetition counts and claims about the player on this video cannot be established from the still.
+Artist-level genres from https://www.wikiwand.com/en/Rammstein. The consistent artist list is not an assertion that this particular recording fits every genre. See Band Info/Rammstein/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
-- Industrial metal
 - Neue Deutsche Haerte
+- Industrial metal

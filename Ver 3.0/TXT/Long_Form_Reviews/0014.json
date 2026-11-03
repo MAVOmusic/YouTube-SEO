@@ -2,11 +2,11 @@
   "reviewer": "Arena agent",
   "reviewed_at": "2026-11-03",
   "surface_sha256": {
-    "title": "e1ec034cdcd960892e2a1eaf94dd38c6f52a67d87d9c38625c22990b31c6b605",
+    "title": "5b771ea70e76921393f84abada055461b1c57e61c3c30efa22069d39e406bab2",
     "description": "e7aa2a4c8d74869f51922a3dbee9ac20521c656b25966ceede94c812b74bedf0",
-    "tags": "1211ccf9be7bfecd28a0b86f447cefee2462d2bcc8a9b12f75221a474ec8529f",
+    "tags": "a1d198fdb94464db9256300f646257b22d0ab22d602d5f90d6be8bd09011142e",
     "pinned comment": "83784bfa0359ce70cfde915fb8383e0f2fdb470ce9cbeeb4a8646ff148bf50d6",
-    "genres": "23e8d446afde987fa9f78fff4113a77b98ec08c5a72633c1c499bed910afa7ba"
+    "genres": "1b6401362fa0439f40bbd50260fbaf2ab9811b14872fbb55ae729234f90e691f"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -27,12 +27,6 @@
       "claim": "Deacon songwriting and Mandel synth solo; track is pop rock/synth-pop.",
       "source": "https://rateyourmusic.com/release/musicvideo/queen/i-want-to-break-free.p/",
       "assessment": "Specific original-song/video angle, not evidence for details of the bass performance."
-    },
-    {
-      "surface": "title",
-      "claim": "John Deacon wrote Queen's I Want To Break Free",
-      "source": "https://rateyourmusic.com/release/musicvideo/queen/i-want-to-break-free.p/",
-      "assessment": "Identities/angle checked; 0016 wording is an expression of opinion, not a measured superlative."
     },
     {
       "surface": "description",
@@ -59,21 +53,75 @@
       "assessment": "Question or invitation checked for unsupported factual premise; existing screenshot is historical and cannot establish an artist comment on current YouTube."
     },
     {
-      "surface": "genres",
-      "claim": "- Pop rock\n- Synth-pop",
-      "source": "https://en.wikipedia.org/wiki/I_Want_to_Break_Free; https://rateyourmusic.com/release/musicvideo/queen/i-want-to-break-free.p/",
-      "assessment": "Conservative playlist recommendation. Genre classification is subjective; original scoring and broad scene or theme labels not treated as genres."
-    },
-    {
       "surface": "tags",
       "claim": "queen songs",
       "source": "_All Songs/_0001 Long Form/0001 - 0100/0011 - 0020/0014 - Queen - I Want To Break Free (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
       "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
+    },
+    {
+      "surface": "title",
+      "claim": "The Queen hit written by its bassist: I Want To Break Free",
+      "source": "https://rateyourmusic.com/release/musicvideo/queen/i-want-to-break-free.p/; creator-confirmed bass performance; https://en.wikipedia.org/wiki/Queen_(band)",
+      "assessment": "Song/artist and factual hook are supported by cited sources; subjective words are editorial characterisation, not a claim of measured clicks or artist appearing in the video."
+    },
+    {
+      "surface": "genres",
+      "claim": "Rock",
+      "source": "https://en.wikipedia.org/wiki/Queen_(band)",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop",
+      "source": "https://en.wikipedia.org/wiki/Queen_(band)",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Hard rock",
+      "source": "https://en.wikipedia.org/wiki/Queen_(band)",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Progressive rock",
+      "source": "https://en.wikipedia.org/wiki/Queen_(band)",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Arena rock",
+      "source": "https://en.wikipedia.org/wiki/Queen_(band)",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop rock",
+      "source": "https://en.wikipedia.org/wiki/Queen_(band)",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Art rock",
+      "source": "https://en.wikipedia.org/wiki/Queen_(band)",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Glam rock",
+      "source": "https://en.wikipedia.org/wiki/Queen_(band)",
+      "assessment": "Artist-level genre; not a claim that every listed style describes this recording."
+    },
+    {
+      "surface": "tags",
+      "claim": "queeen",
+      "source": "https://www.pinterest.com/naivetyikes/queeen/",
+      "assessment": "Observed abbreviation, alias or spelling variant; occurrence does not establish search frequency or impact."
     }
   ],
   "distinct_fact_and_source": "Deacon songwriting and Mandel synth solo; track is pop rock/synth-pop. https://rateyourmusic.com/release/musicvideo/queen/i-want-to-break-free.p/",
   "uniqueness_assessment": "Compared title/description/pin five-word signals against available long-form copy corpus; 0 signals. Examined title and CTA/pin wording and searched available copies for the song and fact angle. Needed identities and format terminology may recur. Five-word checks cannot detect all semantic or future-catalogue duplication. Current live edits and unprocessed videos are not independently visible.",
-  "uncertainties_and_removed_claims": "Removed unverified synth bass and two bassists premise, band relationship story, bass-part assertions and no-edit claim. Historical Details and pin screenshots are not proof of current live metadata. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness.",
+  "uncertainties_and_removed_claims": "Removed unverified synth bass and two bassists premise, band relationship story, bass-part assertions and no-edit claim. Historical Details and pin screenshots are not proof of current live metadata. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03: artist-level genres requested; individual song may differ. Title click performance untested. Observed spelling variants do not prove prevalence or tag effectiveness.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true

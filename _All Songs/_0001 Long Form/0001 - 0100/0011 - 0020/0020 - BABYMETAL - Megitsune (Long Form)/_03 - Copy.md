@@ -3,10 +3,10 @@
 > Paste directly. Kick first, Twitch as mirror, Discord last. One URL each, no repeats.
 > The GENRES block at the bottom is reference only - it is not part of the description.
 
-## TITLE (51 characters)
+## TITLE (57 characters)
 
 ```text
-A Japanese folk melody meets BABYMETAL in Megitsune
+The folk melody inside BABYMETAL's Megitsune | bass cover
 ```
 
 ## DESCRIPTION (478 characters)
@@ -35,10 +35,11 @@ Which BABYMETAL song would you choose to introduce the band to a new listener?
 
 ## GENRE FINDINGS (internal)
 
-A song-level reference lists kawaii metal, metalcore and speed metal. Japanese metal is a geographic label and folk music an influence; neither is asserted as a standalone genre here. MOMOMETAL was not in the original 2013 lineup.
+Artist-level genres from https://en.wikipedia.org/wiki/Babymetal. The consistent artist list is not an assertion that this particular recording fits every genre. See Band Info/BABYMETAL/Register.md.
 
 ## CORRECT GENRES (playlist reference)
 
 - Kawaii metal
-- Metalcore
-- Speed metal
+- J-pop
+- Power metal
+- Alternative metal

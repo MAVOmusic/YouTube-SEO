@@ -47,3 +47,8 @@ Imported from the existing per-song reviews for this artist. CO numbers indicate
 - The Xbox 360 version of Guitar Hero II added My Chemical Romance's own recording of Dead! The track is on their album The Black Parade, released in 2006.
   - Source: https://www.gamespot.com/articles/guitar-hero-ii-xbox-360-exclusive-tracks-revealed/1100-6163929/ ; https://rateyourmusic.com/song/my-chemical-romance/dead/
 
+
+## Title fact usage - CO-0017
+
+- The Foundations Of Decay was their first single since Fake Your Death in 2014, released in 2022; the band reunited in 2019.
+- Source: https://en.wikipedia.org/wiki/The_Foundations_of_Decay
