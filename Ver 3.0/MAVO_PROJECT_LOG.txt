@@ -549,3 +549,8 @@ them contained a Twitch-first error.
 truthfulness of all facts, questions and CTAs; next channel-order batches are five.
 Initial read and targeted source-backed fixes logged in
 TXT/First_70_Fact_Check_2026-11-03.txt. Full review remains open.
+
+2026-11-03 - Continued full fact-check. User has edited 0001-0022 and requests
+complete replacements only after facts are checked, plus explicit unknowns.
+Further verified tracklist and label errors and sources logged in
+TXT/First_70_Fact_Check_2026-11-03.txt. Review remains IN PROGRESS.

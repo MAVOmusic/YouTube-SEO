@@ -2233,3 +2233,9 @@ Do not repeat past claims that all 70 have passed a complete accuracy check.
 A preliminary independent five-word cross-file sweep found 60 shared sequences;
 not all are violations (some are unavoidable factual vocabulary), but the prior
 blanket zero-collision claim cannot be relied upon. Classification remains open.
+
+2026-11-03 continuation: MAVO has already edited 0001-0022 and requires the
+complete fact-check before further full replacement blocks, so they do not have
+to edit the same copy repeatedly. Additional sourced errors and evidence gaps
+are in TXT/First_70_Fact_Check_2026-11-03.txt. All 70 remain in scope, including
+the edited first 22. No new paste-ready output until the review is finished.
