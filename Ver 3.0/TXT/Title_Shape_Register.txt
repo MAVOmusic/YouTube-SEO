@@ -323,3 +323,5 @@
 
 2026-11-04 SHORT 0001 | instrument picks up song | artist on platform | Bass picks up Lonely Day | System Of A Down on Rocksmith
 Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every later Short.
+
+2026-11-04 SHORT 0001 correction | same registered shape, add relevant optional hashtag: Bass picks up Lonely Day | System Of A Down on Rocksmith #bass
