@@ -1,0 +1,158 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "c6120069dce5b931d53e6a1fc5dd93eb0072545f26af92c0961ec0989f952b09",
+    "description": "e4b660c36ce7f459413f8450e562c9bf1105bc3b09054361295de44b9abab6e0",
+    "tags": "b5e27136af429f3b94c90c7a494ca5ce4ff4d3f00cf3c7d24c991b9e80728aca",
+    "pinned comment": "d4fe2994eea7a447f6e5f36651299f3b5f46a08366e5a4055411235ed544fff0",
+    "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "7734 by Sabaton: a Metalizer-era bass run",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Song identity and creator format checked; no musician appearance implied."
+    },
+    {
+      "surface": "description",
+      "claim": "Sabaton list 7734 on Metalizer, the album released in 2007 after an earlier delay. My bass take follows the visible Rocksmith chart.",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Fact refers to original recording or release, distinct from this bass performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt",
+      "assessment": "User-supplied destinations; no schedule or reward promise."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "7734",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton 7734",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "7734 bass",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton metalizer",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "metalizer",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "joakim broden",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "joakim brodén",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "par sundstrom",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "pär sundström",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "power metal",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "heavy metal",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0092 - Sabaton - 7734 (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Where did 7734 first enter your Sabaton listening journey?",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/",
+      "assessment": "Question, not a factual assertion; current pin unknown."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power metal",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/",
+      "assessment": "Catalogue-wide subjective classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/",
+      "assessment": "Catalogue-wide subjective classification."
+    }
+  ],
+  "distinct_fact_and_source": "Sabaton list 7734 on Metalizer, the album released in 2007 after an earlier delay. My bass take follows the visible Rocksmith chart. ; https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/",
+  "uniqueness_assessment": "Reviewed accessible copy, title and five-word signals; common platform wording and titles may recur. Global semantic originality cannot be proven.",
+  "uncertainties_and_removed_claims": "Historical images cannot establish current pins, revenue, restrictions or organic performance; genres are artist-level and subjective. Search demand and rankings not measured.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "46275c599bcef132ea8a53a3af036a200831e6434a58c22b1214bf15d05ce7dc"
+}

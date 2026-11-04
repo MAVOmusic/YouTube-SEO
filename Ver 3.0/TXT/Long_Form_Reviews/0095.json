@@ -1,0 +1,176 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "11dbf9d92426f23cc1769c83fc489d0b8a9271cbe04bc6e414ac22727fbc2733",
+    "description": "419c04fc4cbb6a86598a561e920d5d5d117610dddfcb19f321bd43ff655b0e34",
+    "tags": "085272528f94259089cebeb8b321ff25e5aab7a15f698e4d14d351547dba8af0",
+    "pinned comment": "5c7079ad1e783baa9d3d7f6894ec36786df3ef855b7b426303e5a3efc42d0984",
+    "genres": "b979af642a00669e99e3cd6b8809b44ad7f28634c201f8a3778fa5d58002227e"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Ich Will with Rammstein | Mutter through the bass",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Song identity and creator format checked; no musician appearance implied."
+    },
+    {
+      "surface": "description",
+      "claim": "Rammstein list Ich Will on their 2001 album Mutter. The original single also included remixes by Westbam and Paul van Dyk. I cover it on bass beside the Rocksmith display.",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Fact refers to original recording or release, distinct from this bass performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt",
+      "assessment": "User-supplied destinations; no schedule or reward promise."
+    },
+    {
+      "surface": "tags",
+      "claim": "rammstein",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "ramstein",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "ich will",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "rammstein ich will",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "ich will bass",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "rammstein bass cover",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "mutter album",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "till lindemann",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "oliver riedel",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "richard kruspe",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "paul landers",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "flake lorenz",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "christoph schneider",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "industrial metal",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "neue deutsche härte",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0095 - Rammstein - Ich Will (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Do you prefer hearing an original track or exploring its remixes?",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Question, not a factual assertion; current pin unknown."
+    },
+    {
+      "surface": "genres",
+      "claim": "Neue Deutsche Haerte",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Catalogue-wide subjective classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Industrial metal",
+      "source": "https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Catalogue-wide subjective classification."
+    }
+  ],
+  "distinct_fact_and_source": "Rammstein list Ich Will on their 2001 album Mutter. The original single also included remixes by Westbam and Paul van Dyk. I cover it on bass beside the Rocksmith display. ; https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein",
+  "uniqueness_assessment": "Reviewed accessible copy, title and five-word signals; common platform wording and titles may recur. Global semantic originality cannot be proven.",
+  "uncertainties_and_removed_claims": "Historical images cannot establish current pins, revenue, restrictions or organic performance; genres are artist-level and subjective. Search demand and rankings not measured.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "6568e00f4ee512cb2a6d1c1e16a7a614bcff174b6d73731b578c71b9a80c7753"
+}

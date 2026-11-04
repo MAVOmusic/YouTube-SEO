@@ -164,6 +164,11 @@
   0088    song: artist award-winning song on instrument | If I Ain't Got You: Alicia Keys' Grammy-winning song on bass
   0089    song from album | artist on instrument | Break Down from MUSIC | Girugamesh on bass guitar
   0090    artist and bassist: song instrument cover | Dire Straits and John Illsley: Sultans Of Swing bass cover
+  0091    song on instrument | artist beyond image | I Call Your Name on bass | a-ha beyond the sunrise
+  0092    song by artist: album-era instrument run | 7734 by Sabaton: a Metalizer-era bass run
+  0093    song closes album - artist instrument performance | Numb closes Meteora - Linkin Park bass performance
+  0094    from subject to song: song by artist on instrument | From decoration to song: Purple Heart by Sabaton on bass
+  0095    song with artist | album through instrument | Ich Will with Rammstein | Mutter through the bass
 
 
 ################################################################################

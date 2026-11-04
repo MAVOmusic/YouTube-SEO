@@ -71,3 +71,9 @@ Relevant names below are artist associations, not an assertion they play on each
 - Jorn Heitmann directed Rammstein's Keine Lust video, which premiered in 2005. Here I play the Reise, Reise track on bass with the Rocksmith display.
 - Source: https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein
 - Member names indicate association, not appearance in MAVO performance.
+
+### CO-0095 - Ich Will
+
+- Rammstein list Ich Will on their 2001 album Mutter. The original single also included remixes by Westbam and Paul van Dyk. This is my bass cover with Rocksmith on screen.
+- Sources: https://www.rammstein.de/en/history/ichwillsingle/ ; https://shopify.rammstein.de/en/products/rammstein-album-mutter-vinyl ; https://www.wikiwand.com/en/Rammstein
+- People tagged are artist associations, not video guests.

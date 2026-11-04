@@ -40,3 +40,9 @@ Member and contributor tags do not imply recording credits or that the person ap
 - The original Bleed It Out video uses reverse-motion stunts and was directed by Joe Hahn. This is my bass cover of the Linkin Park track, with Rocksmith on screen.
 - Sources: https://linkinpedia.com/wiki/Bleed_It_Out ; https://imvdb.com/video/linkin-park/bleed-it-out ; https://en.wikipedia.org/wiki/Linkin_Park
 - People in tags are associations and are not present in this video.
+
+### CO-0093 - Numb
+
+- Numb is the final track on Linkin Park's 2003 album Meteora. In this cover I play bass with Rocksmith visible.
+- Sources: https://blabbermouth.net/news/linkin-parks-video-for-numb-surpasses-two-billion-views-on-youtube ; https://en.wikipedia.org/wiki/Linkin_Park
+- People tagged are artist associations, not video guests.

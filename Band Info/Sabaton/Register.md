@@ -115,3 +115,15 @@ Previously reviewed claims and sources; check sources and current copy before re
 - Sabaton's Blood Of Bannockburn takes its subject from the 1314 battle in which Robert the Bruce led the Scots against an English army. This is my bass performance with the Rocksmith display.
 - Source: https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/
 - Member associations do not imply appearance in MAVO performance.
+
+### CO-0092 - 7734
+
+- Sabaton list 7734 on Metalizer, the album released in 2007 after an earlier delay. This is my bass performance with the game chart on screen.
+- Sources: https://www.sabaton.net/discography/metalizer/ ; https://www.sabaton.net/discography/metalizer/7734-lyrics/
+- People tagged are artist associations, not video guests.
+
+### CO-0094 - Purple Heart
+
+- Sabaton say the US Purple Heart military decoration inspired Purple Heart, a track on Primo Victoria. I play the song on bass here with the game overlay.
+- Sources: https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/
+- People tagged are artist associations, not video guests.

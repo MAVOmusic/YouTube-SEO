@@ -1,0 +1,164 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "3110e88732009b47c98a3c91af2fa59769fdd24ae21af903b2bb8468ff07d336",
+    "description": "7c9f0bff4368f2b84e85d51b1c4f10da3bdcd49496a223dc168894e36810191b",
+    "tags": "3ade139d7263bbabee0aa9a642a6e36d11c9b0d57eec029ee4bfb39eb6b0f99e",
+    "pinned comment": "29b92f5c88ddbed19e6848e8781f1b388993506918a24a85908053570c4b873d",
+    "genres": "c10112297b68494efb45e3b888f075705925f4c782c971e569ad2067b5af55b2"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "I Call Your Name on bass | a-ha beyond the sunrise",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Song identity and creator format checked; no musician appearance implied."
+    },
+    {
+      "surface": "description",
+      "claim": "a-ha released I Call Your Name as a single from East of the Sun, West of the Moon. My bass follows the on-screen Rocksmith chart.",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Fact refers to original recording or release, distinct from this bass performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt",
+      "assessment": "User-supplied destinations; no schedule or reward promise."
+    },
+    {
+      "surface": "tags",
+      "claim": "a-ha",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "aha",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "a ha",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "i call your name",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "aha i call your name",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "a-ha i call your name",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "i call your name bass",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "morten harket",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "magne furuholmen",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "paul waaktaar savoy",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "synth pop",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "pop rock",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0091 - A-HA - I Call Your Name (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/A-HA/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which song from East of the Sun, West of the Moon would you revisit?",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha",
+      "assessment": "Question, not a factual assertion; current pin unknown."
+    },
+    {
+      "surface": "genres",
+      "claim": "Synth-pop",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha",
+      "assessment": "Catalogue-wide subjective classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "New wave",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha",
+      "assessment": "Catalogue-wide subjective classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop rock",
+      "source": "https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha",
+      "assessment": "Catalogue-wide subjective classification."
+    }
+  ],
+  "distinct_fact_and_source": "a-ha released I Call Your Name as a single from East of the Sun, West of the Moon. My bass follows the on-screen Rocksmith chart. ; https://en.wikipedia.org/wiki/I_call_your_name_(A-ha_Song) ; https://rateyourmusic.com/artist/a-ha",
+  "uniqueness_assessment": "Reviewed accessible copy, title and five-word signals; common platform wording and titles may recur. Global semantic originality cannot be proven.",
+  "uncertainties_and_removed_claims": "Historical images cannot establish current pins, revenue, restrictions or organic performance; genres are artist-level and subjective. Search demand and rankings not measured.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "6104158f2f35adc94f9d7d1f5ba001d7d41efd6070904e367d1ef63a60b82e21"
+}
