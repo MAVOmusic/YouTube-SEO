@@ -169,6 +169,11 @@
   0093    song closes album - artist instrument performance | Numb closes Meteora - Linkin Park bass performance
   0094    from subject to song: song by artist on instrument | From decoration to song: Purple Heart by Sabaton on bass
   0095    song with artist | album through instrument | Ich Will with Rammstein | Mutter through the bass
+  0096    artist song | instrument beneath genre-inspired song | Laufey Falling Behind | bass beneath a bossa-inspired song
+  0097    song - artist on instrument | remembrance | The Final Solution - Sabaton on bass | remembering history
+  0098    song in album tracklist | artist instrument cover | Du Hast in the Sehnsucht tracklist | Rammstein bass cover
+  0099    song on instrument | artist and dated single | Le Complexe du Corn-Flakes on bass | -M- and the 2000 single
+  0100    song: artist meets lyricist in instrument cover | Je Dis Aime: -M- meets Andree Chedid in a bass cover
 
 
 ################################################################################

@@ -160,5 +160,5 @@
   "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 2026-11-03 targeted recheck replaced the complete title to remove a subjective or potentially misleading implication. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass. 2026-11-03: Replaced the previous description angle with a more directly verifiable release fact. 2026-11-03: Artist-level genres and relevant person tags do not prove individual recording credits or YouTube search demand. CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
-  "collision_report_sha256": "3ad85350ce708560e21b638b1594dc7889358bad5ab75ec745d45bb8e9410009"
+  "collision_report_sha256": "187e7d2af1bfad67cda96073760abf193602cab1fd5629c3bfa6f80c4dbaa266"
 }

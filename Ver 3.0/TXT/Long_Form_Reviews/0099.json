@@ -1,0 +1,152 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "cf2efc7efefbaa2e11d6879fd252b17c15f4fd20dfda92e9a59d2ae6d283c571",
+    "description": "64284ce92e39de8ff0ddcf95a107b0d6a2ddb69c6b3041b578aa9b51eaabbfa0",
+    "tags": "f8c32de230165129d92b537fefa04750152aa00569b84e10272b09bb029d24fc",
+    "pinned comment": "0f8f68863be5c1700d84311e090ed2783cc15720dbad0caba1ea12e4bae71b77",
+    "genres": "f38da06058e14aee292be25d28c20af345bb789743da6379652129410e59fe9e"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Le Complexe du Corn-Flakes on bass | -M- and the 2000 single",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Artist, song and creator format checked; no artist appearance implied."
+    },
+    {
+      "surface": "description",
+      "claim": "The 2000 single of Le Complexe du Corn-Flakes by -M- (Matthieu Chedid) includes versions called Etroite and Large. This is my bass performance with Rocksmith visible.",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Historical facts refer to original song or release, distinct from creator cover."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt",
+      "assessment": "User-provided destinations; no schedule or reward promise."
+    },
+    {
+      "surface": "tags",
+      "claim": "matthieu chedid",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "matthieu chédid",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "m matthieu chedid",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "le complexe du corn flakes",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "le complexe du corn-flakes",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "complexe corn flakes bass",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "m complexe corn flakes",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "je dis aime album",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "french rock",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "chanson",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0099 - -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Do you collect singles with different versions of a track?",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid",
+      "assessment": "Opinion question or respectful community request, not an assertion about current pin."
+    },
+    {
+      "surface": "genres",
+      "claim": "Chanson",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid",
+      "assessment": "Subjective artist-level classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Rock",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid",
+      "assessment": "Subjective artist-level classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Funk",
+      "source": "https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid",
+      "assessment": "Subjective artist-level classification."
+    }
+  ],
+  "distinct_fact_and_source": "The 2000 single of Le Complexe du Corn-Flakes by -M- (Matthieu Chedid) includes versions called Etroite and Large. This is my bass performance with Rocksmith visible. ; https://www.discogs.com/master/108367--M-Le-Complexe-Du-Corn-Flakes ; https://labo-m.net/timeline/point/le-complexe-du-corn-flakes/ ; https://www.wikiwand.com/en/Matthieu_Chedid",
+  "uniqueness_assessment": "Accessible copy, titles and five-word signals checked. Common format words and names may recur; global semantic uniqueness cannot be established.",
+  "uncertainties_and_removed_claims": "Historical screenshots do not establish current pin, rights, revenue or audience; genres are subjective and artist-level. Search demand and metadata outcomes unmeasured.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "bbc1a7c7f199c5ef0a876af14eafc4d5edcebf46bc407f93c29236da69171c4d"
+}

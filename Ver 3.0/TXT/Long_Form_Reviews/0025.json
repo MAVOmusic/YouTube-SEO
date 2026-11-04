@@ -158,7 +158,7 @@
   "distinct_fact_and_source": "Tchaikovsky cover as a bonus track on Aephanemer album. https://store.aephanemer.com/product/a-dream-of-wilderness-digipak ; https://aephanemer.com/?cat=2",
   "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
   "uncertainties_and_removed_claims": "Preserve artist comment as requested by MAVO; old screenshot does not show current pin status. Removed unsupported arrangement, note omissions, viewer response and comparative superlatives. The formerly cited store product redirects to a product-not-found page; replaced with the 2021 press announcement. The historical artist comment is visible, but its current pin status is not. 2026-11-03: genre list describes the artist, not necessarily the recording; name tags reflect artist associations, not the presence of a performer in this cover. Click and query frequency not tested.",
-  "collision_report_sha256": "2a5130d8f6dc67c11843d9b32202e13a2e40e68db24a979422d2e572ac390325",
+  "collision_report_sha256": "436b324babe801e9fa6a30a6750558b9616da017cab863b1750d3c8cb7054037",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
 }

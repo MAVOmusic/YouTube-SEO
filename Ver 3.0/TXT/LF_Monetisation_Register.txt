@@ -4449,3 +4449,5 @@ rights or earning determinations. No replication eligibility inferred.
 2026-11-04 CO-0086-0090 historical Studio screenshots: all five Public and ineligible to earn; 0086-0088 also show Partially blocked. 0089-0090 Details show no partial-block notice. Revenue, RPM and CPM display dashes, not verified zero. No rights holder or territories shown; recheck current Studio before decisions. No estimated earnings value to add.
 
 2026-11-04 CO-0091-0095 historical screenshots: all Public, ineligible to earn; 0091 also Partially blocked, territories and holder unknown. Revenue, RPM, CPM are dashes, not verified zero; recheck live Studio. No revenue amount added.
+
+2026-11-04 CO-0096-0100 historical: all Public, ineligible to earn; 0100 also partially blocked. Revenue dashes do not prove zero; territories and rights holders unknown. Recheck Studio. No numerical revenue added.

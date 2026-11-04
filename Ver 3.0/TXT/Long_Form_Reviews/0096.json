@@ -1,0 +1,158 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "91c19a50af111b13f37ce0d22b9708875eac22dd3f4b60fd20891dc791645171",
+    "description": "ee34ff9dc5e3ee43aca8648d9de23419642b8734d6dc3e9b1771df68351497c0",
+    "tags": "9617eec1548a64168fe1ca0a519f88ca4536bafb5592248e57c1ab2ed109f79b",
+    "pinned comment": "54d47525ec952110aa325a7b5c0c904740630c603170374773182dedfd922257",
+    "genres": "30ab2e391d23f9bba77cf19c32de5fe6dff7eb1307de885a404def5881cf341d"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Laufey Falling Behind | bass beneath a bossa-inspired song",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Artist, song and creator format checked; no artist appearance implied."
+    },
+    {
+      "surface": "description",
+      "claim": "Laufey and Spencer Stewart wrote Falling Behind together for her 2022 album Everything I Know About Love. Here is my bass take alongside Rocksmith.",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Historical facts refer to original song or release, distinct from creator cover."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt",
+      "assessment": "User-provided destinations; no schedule or reward promise."
+    },
+    {
+      "surface": "tags",
+      "claim": "laufey",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "falling behind",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "laufey falling behind",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "falling behind bass",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "laufey bass cover",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "laufey lin jonsdottir",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "laufey lín jónsdóttir",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "everything i know about love",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "spencer stewart",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "jazz pop",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "traditional pop",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "bossa nova",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762 ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0096 - Laufey - Falling Behind (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Laufey/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which Laufey song would you like to hear explored on bass?",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762",
+      "assessment": "Opinion question or respectful community request, not an assertion about current pin."
+    },
+    {
+      "surface": "genres",
+      "claim": "Jazz pop",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762",
+      "assessment": "Subjective artist-level classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Traditional pop",
+      "source": "https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762",
+      "assessment": "Subjective artist-level classification."
+    }
+  ],
+  "distinct_fact_and_source": "Laufey and Spencer Stewart wrote Falling Behind together for her 2022 album Everything I Know About Love. Here is my bass take alongside Rocksmith. ; https://readdork.com/lyrics/laufey-falling-behind ; https://en.wikipedia.org/wiki/Falling_Behind_(song) ; https://www.allmusic.com/artist/laufey-mn0004032762",
+  "uniqueness_assessment": "Accessible copy, titles and five-word signals checked. Common format words and names may recur; global semantic uniqueness cannot be established.",
+  "uncertainties_and_removed_claims": "Historical screenshots do not establish current pin, rights, revenue or audience; genres are subjective and artist-level. Search demand and metadata outcomes unmeasured.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "09d77ab130659ecfc97ab0677392e73817e9f02140b1478dad223f70190204c5"
+}
