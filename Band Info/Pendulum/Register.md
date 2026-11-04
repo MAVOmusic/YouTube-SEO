@@ -34,3 +34,9 @@ Previously reviewed claims and sources; check sources and current copy before re
 - On Pendulum's In Silico, 9,000 Miles credits Peredur ap Gwynedd on acoustic guitar. Here I play the song on bass with the Rocksmith display.
 - Source: https://www.discogs.com/release/20141890-Pendulum-In-Silico ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)
 - Member associations do not imply appearance in MAVO performance.
+
+### CO-0086 - Watercolour
+
+- Pendulum credits a brass section on the original Watercolour recording from Immersion. I play the song on bass here with the Rocksmith display.
+- Sources: https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)
+- People in tags are associations and are not present in this video.

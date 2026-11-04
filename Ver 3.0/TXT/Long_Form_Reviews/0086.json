@@ -1,0 +1,158 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "904fa111e66c84efb7d1f6dbea0364ea0f2a42a8e6fb71ad2c41b169683be44d",
+    "description": "77d55d3d40ad4c695e2dc7a4bf895f25bf4ae1e04556f74f1a76d182efcf800a",
+    "tags": "af9c82fffb19efa0b2ab50f31bb15272233c9c6235bd01e48f0a68e29b264d49",
+    "pinned comment": "af9e491e665a217dc875cb8fff9bc9f2740f09627397900cab90b892caf427ff",
+    "genres": "9025f1cdced34ead2e6e8b15b4356ec7aab4418609fb8c5483eac5e5107d8950"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Watercolour by Pendulum: brass meets Rocksmith bass",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing during overlay",
+      "assessment": "Artist, song and creator format checked; no artist appearance implied."
+    },
+    {
+      "surface": "description",
+      "claim": "Pendulum credits a brass section on the original Watercolour recording from Immersion. My bass performance follows the Rocksmith chart on screen.",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing during overlay",
+      "assessment": "Original track/video detail distinguished from creator performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord community invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt",
+      "assessment": "User supplied links; no unsupported schedule or reward."
+    },
+    {
+      "surface": "tags",
+      "claim": "pendulum",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Pendulum/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "watercolour",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Pendulum/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "pendulum watercolour",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Pendulum/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "pendulum watercolor",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Pendulum/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "watercolour bass",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Pendulum/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "immersion pendulum",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Pendulum/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "rob swire",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Pendulum/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "gareth mcgrillen",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Pendulum/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "drum and bass",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Pendulum/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "electronic rock",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Pendulum/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Pendulum/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Pendulum/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Pendulum/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band) ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0086 - Pendulum - Watercolour (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Pendulum/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What does the brass add to Watercolour for you?",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)",
+      "assessment": "Opinion or experience question, current pin unknown."
+    },
+    {
+      "surface": "genres",
+      "claim": "Drum and bass",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)",
+      "assessment": "Subjective catalogue-wide classification, not guaranteed track-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Electronic rock",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)",
+      "assessment": "Subjective catalogue-wide classification, not guaranteed track-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Industrial rock",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)",
+      "assessment": "Subjective catalogue-wide classification, not guaranteed track-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Dance-rock",
+      "source": "https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)",
+      "assessment": "Subjective catalogue-wide classification, not guaranteed track-level."
+    }
+  ],
+  "distinct_fact_and_source": "Pendulum credits a brass section on the original Watercolour recording from Immersion. My bass performance follows the Rocksmith chart on screen. ; https://www.discogs.com/Pendulum-Immersion/release/2279175 ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)",
+  "uniqueness_assessment": "Reviewed accessible titles, copy and five-word collision signals; platform words, names and common phrases can recur. Semantic originality outside accessible corpus cannot be proved.",
+  "uncertainties_and_removed_claims": "Historical images cannot establish current monetisation, pin, audience or reach; metadata outcomes and search volume are unmeasured; genres are artist-level.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "8eb1b44841f92b2469f918f7d0cab100391e5b2322c3a7c3aa779e0c465d6f1c"
+}

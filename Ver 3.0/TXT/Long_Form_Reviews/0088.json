@@ -1,0 +1,140 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "002c453a1351c03f457b77729b69a842775de47868747a437193a2246fa8bbd0",
+    "description": "ab6376e6d0ded3060f088f5fc17b96a88ec2d384cc440cb675b17f607f7e7bc5",
+    "tags": "2b198da1e7b2ac303956e7d1e06cf10f63f58cbc1edc99662e6c35dbf96f6744",
+    "pinned comment": "66fd1a1b8730bce5318695d7f36dd28832a301669bced8301ff07db7780ec20b",
+    "genres": "ecb90142303f72bcc1aa64cf1551baa3b08a9fc044625e3629068e709a6dbb22"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "If I Ain't Got You: Alicia Keys' Grammy-winning song on bass",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/ ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0088 - Alicia Keys - If I Ain't Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing during overlay",
+      "assessment": "Artist, song and creator format checked; no artist appearance implied."
+    },
+    {
+      "surface": "description",
+      "claim": "Alicia Keys won Best Female R&B Vocal Performance at the 2005 Grammys for If I Ain't Got You. The award belongs to her original performance; this is my take on bass alongside the game overlay.",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/ ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0088 - Alicia Keys - If I Ain't Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing during overlay",
+      "assessment": "Original track/video detail distinguished from creator performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord community invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt",
+      "assessment": "User supplied links; no unsupported schedule or reward."
+    },
+    {
+      "surface": "tags",
+      "claim": "alicia keys",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/ ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0088 - Alicia Keys - If I Ain't Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Alicia Keys/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "if i aint got you",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/ ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0088 - Alicia Keys - If I Ain't Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Alicia Keys/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "if i ain't got you",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/ ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0088 - Alicia Keys - If I Ain't Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Alicia Keys/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "alicia keys if i aint got you",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/ ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0088 - Alicia Keys - If I Ain't Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Alicia Keys/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "if i aint got you bass",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/ ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0088 - Alicia Keys - If I Ain't Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Alicia Keys/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "the diary of alicia keys",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/ ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0088 - Alicia Keys - If I Ain't Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Alicia Keys/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "soul",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/ ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0088 - Alicia Keys - If I Ain't Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Alicia Keys/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "rhythm and blues",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/ ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0088 - Alicia Keys - If I Ain't Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Alicia Keys/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/ ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0088 - Alicia Keys - If I Ain't Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Alicia Keys/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/ ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0088 - Alicia Keys - If I Ain't Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Alicia Keys/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/ ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0088 - Alicia Keys - If I Ain't Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Alicia Keys/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/ ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0088 - Alicia Keys - If I Ain't Got You (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Alicia Keys/Register.md",
+      "assessment": "Relevant names, song, artist genres or performance, without implying guest appearance or measured demand."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What feeling does this song bring out for you?",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/",
+      "assessment": "Opinion or experience question, current pin unknown."
+    },
+    {
+      "surface": "genres",
+      "claim": "R&B",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/",
+      "assessment": "Subjective catalogue-wide classification, not guaranteed track-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Soul",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/",
+      "assessment": "Subjective catalogue-wide classification, not guaranteed track-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Neo-soul",
+      "source": "https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/",
+      "assessment": "Subjective catalogue-wide classification, not guaranteed track-level."
+    }
+  ],
+  "distinct_fact_and_source": "Alicia Keys won Best Female R&B Vocal Performance at the 2005 Grammys for If I Ain't Got You. The award belongs to her original performance; this is my take on bass alongside the game overlay. ; https://www.bbc.co.uk/programmes/articles/1wnNlb1Dytbp13nd2VxqFvz/7-songs-that-made-alicia-keys ; https://top40weekly.com/alicia-keys-biography/",
+  "uniqueness_assessment": "Reviewed accessible titles, copy and five-word collision signals; platform words, names and common phrases can recur. Semantic originality outside accessible corpus cannot be proved.",
+  "uncertainties_and_removed_claims": "Historical images cannot establish current monetisation, pin, audience or reach; metadata outcomes and search volume are unmeasured; genres are artist-level.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}
