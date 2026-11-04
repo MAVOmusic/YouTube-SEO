@@ -1,0 +1,170 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "44954e2351f6a7ae0f414397469511da2e473eaadf8482fa16d088ba9f478986",
+    "description": "8c892d39f273140d73b7244d2d4c11e1d26c80ab0b543065b6e501897a17411a",
+    "tags": "491ff41999bd26673d1ebe374c709df814c0af76b8bddcbcd3258f9880c1c836",
+    "pinned comment": "7e219223eca1aa77e9e040653ce96869bb35e65b654fbf84ffc1cdd37da39b61",
+    "genres": "f38da06058e14aee292be25d28c20af345bb789743da6379652129410e59fe9e"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Je Dis Aime: -M- meets Andree Chedid in a bass cover",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Artist, song and creator format checked; no artist appearance implied."
+    },
+    {
+      "surface": "description",
+      "claim": "Andree Chedid wrote the lyrics of Je Dis Aime, with music by Matthieu Chedid, also known as -M-. Here I play the song on bass with the Rocksmith display.",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Historical facts refer to original song or release, distinct from creator cover."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt",
+      "assessment": "User-provided destinations; no schedule or reward promise."
+    },
+    {
+      "surface": "tags",
+      "claim": "matthieu chedid",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "matthieu chédid",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "m matthieu chedid",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "je dis aime",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "m je dis aime",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "je dis aime bass",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "andree chedid",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "andrée chedid",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "vincent segal",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "cyril atef",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "french rock",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "chanson",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "funk",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0100 - -M- (Matthieu Chedid) - Je Dis Aime (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What song has introduced you to a poet or writer?",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid",
+      "assessment": "Opinion question or respectful community request, not an assertion about current pin."
+    },
+    {
+      "surface": "genres",
+      "claim": "Chanson",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid",
+      "assessment": "Subjective artist-level classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Rock",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid",
+      "assessment": "Subjective artist-level classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Funk",
+      "source": "https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid",
+      "assessment": "Subjective artist-level classification."
+    }
+  ],
+  "distinct_fact_and_source": "Andree Chedid wrote the lyrics of Je Dis Aime, with music by Matthieu Chedid, also known as -M-. Here I play the song on bass with the Rocksmith display. ; https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid",
+  "uniqueness_assessment": "Accessible copy, titles and five-word signals checked. Common format words and names may recur; global semantic uniqueness cannot be established.",
+  "uncertainties_and_removed_claims": "Historical screenshots do not establish current pin, rights, revenue or audience; genres are subjective and artist-level. Search demand and metadata outcomes unmeasured.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "4bc9831a7ca5b01f0abcdac1aa21765dc03d614001b841952f35226d5774fe73"
+}

@@ -1,0 +1,176 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "aded957aa56ae7d78dc81040d12df8e725a798328ac8a340910a490d591d2a7a",
+    "description": "1c1483959c9c183541302794f75877ea171aacdb46fcfb77a899ef505f13b81b",
+    "tags": "978e5e47d1a51bf5e6ca464ec7fbd7d3ea2fd167f7e1a0e90775b1bb00e67c6c",
+    "pinned comment": "9ed197f733c3665655e3e9cf09bcad60ecdcbd2adb4b830fba37da86a1ef103d",
+    "genres": "b979af642a00669e99e3cd6b8809b44ad7f28634c201f8a3778fa5d58002227e"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Du Hast in the Sehnsucht tracklist | Rammstein bass cover",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Artist, song and creator format checked; no artist appearance implied."
+    },
+    {
+      "surface": "description",
+      "claim": "Du Hast appears as the fifth track on Rammstein's 1997 album Sehnsucht. I play the song on bass with the game chart on screen.",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Historical facts refer to original song or release, distinct from creator cover."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt",
+      "assessment": "User-provided destinations; no schedule or reward promise."
+    },
+    {
+      "surface": "tags",
+      "claim": "rammstein",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "ramstein",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "du hast",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "rammstein du hast",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "du hast bass",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "rammstein du hast bass cover",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "sehnsucht",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "till lindemann",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "oliver riedel",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "richard kruspe",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "paul landers",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "flake lorenz",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "christoph schneider",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "industrial metal",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "neue deutsche härte",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0098 - Rammstein - Du Hast (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which track on Sehnsucht sits next to Du Hast in your favourites?",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Opinion question or respectful community request, not an assertion about current pin."
+    },
+    {
+      "surface": "genres",
+      "claim": "Neue Deutsche Haerte",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Subjective artist-level classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Industrial metal",
+      "source": "https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Subjective artist-level classification."
+    }
+  ],
+  "distinct_fact_and_source": "Du Hast appears as the fifth track on Rammstein's 1997 album Sehnsucht. I play the song on bass with the game chart on screen. ; https://shop.rammstein.de/en/catalog/rammstein-album-sehnsucht-cd.html ; https://www.wikiwand.com/en/Rammstein",
+  "uniqueness_assessment": "Accessible copy, titles and five-word signals checked. Common format words and names may recur; global semantic uniqueness cannot be established.",
+  "uncertainties_and_removed_claims": "Historical screenshots do not establish current pin, rights, revenue or audience; genres are subjective and artist-level. Search demand and metadata outcomes unmeasured.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "63ac362f22cda6d455785782af7da430ad3bc936b4cef21bd6ed81a483f50ab3"
+}

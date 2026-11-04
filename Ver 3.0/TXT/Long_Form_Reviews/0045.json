@@ -148,5 +148,5 @@
   "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. man o war is visible as a historical search query; Discogs lists Man-O-War as a name variation. No tag causation inferred. 2026-11-03: Artist-level genres and relevant person tags do not prove individual recording credits or YouTube search demand. CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
-  "collision_report_sha256": "0bd898b804db0aa2aa10d4b5e77334e1588445fc912fef7e9b01b03f07b8f887"
+  "collision_report_sha256": "5b88ab39e5adf59869bebe206749595215a5222ccd37f148740b0d8c3f7db316"
 }

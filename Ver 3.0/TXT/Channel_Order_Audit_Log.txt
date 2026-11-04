@@ -5987,3 +5987,5 @@ not raw like counts. Unique viewers can exceed views due to estimates/timing.
 2026-11-04 CO-0086-0090 in fixed order; all 55 screenshots individually inspected. Corrected 0073 folder from If You Cant Ride Two Horses to A Prophecy and 0082 from Back To Black to You Know I'm No Good by user request. Historical Studio titles remain historical evidence; live metadata not changed. Screenshot evidence retained, review paths updated.
 
 2026-11-04 CO-0091-0095 in upload order: A-HA I Call Your Name, Sabaton 7734, Linkin Park Numb, Sabaton Purple Heart, Rammstein Ich Will. All 56 screenshots individually inspected; no live Studio changes.
+
+2026-11-04 CO-0096-0100 in upload order: Laufey Falling Behind, Sabaton The Final Solution, Rammstein Du Hast, -M- Le Complexe Du Corn-Flakes, -M- Je Dis Aime. 50 screenshots individually viewed. Historical Studio only; no live metadata changes.

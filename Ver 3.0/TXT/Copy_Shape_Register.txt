@@ -195,6 +195,11 @@
   0093    album closing position | Numb is the final track on Linkin Park's 2003 album Meteora. In this cover I play bass with Rocksmith visible. | How does Numb work for you as the closing track of Meteora?
   0094    military decoration inspiration | Sabaton say the US Purple Heart military decoration inspired Purple Heart, a track on Primo Victoria. My bass performance follows the game overlay. | Which Primo Victoria track should I tackle next?
   0095    single remix editions | Rammstein list Ich Will on their 2001 album Mutter. The original single also included remixes by Westbam and Paul van Dyk. I cover it on bass beside the Rocksmith display. | Do you prefer hearing an original track or exploring its remixes?
+  0096    songwriting partnership | Laufey and Spencer Stewart wrote Falling Behind together for her 2022 album Everything I Know About Love. Here is my bass take alongside Rocksmith. | Which Laufey song would you like to hear explored on bass?
+  0097    historic subject, respectful remembrance | Sabaton's The Final Solution addresses the Nazis' genocide of Jews during World War II. This bass cover accompanies the song with Rocksmith on screen. | Please keep the conversation respectful of the victims and survivors of the Holocaust.
+  0098    position on original album | Du Hast appears as the fifth track on Rammstein's 1997 album Sehnsucht. I play the song on bass with the game chart on screen. | Which track on Sehnsucht sits next to Du Hast in your favourites?
+  0099    named 2000 single versions | The 2000 single of Le Complexe du Corn-Flakes by -M- (Matthieu Chedid) includes versions called Etroite and Large. This is my bass performance with Rocksmith visible. | Do you collect singles with different versions of a track?
+  0100    lyricist and composer credit | Andree Chedid wrote the lyrics of Je Dis Aime, with music by Matthieu Chedid, also known as -M-. Here I play the song on bass with the Rocksmith display. | What song has introduced you to a poet or writer?
 
 
 ################################################################################

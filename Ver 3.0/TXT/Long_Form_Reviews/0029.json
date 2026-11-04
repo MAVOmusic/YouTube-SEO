@@ -176,7 +176,7 @@
   "distinct_fact_and_source": "Band describes the Paradise Lost inspiration behind the song. https://www.amaranthe.se/news/90-single-and-video-archangel-out-now ; https://arrowlordsofmetal.nl/amaranthe-release-third-single-and-music-video-for-archangel/",
   "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
   "uncertainties_and_removed_claims": "Removed watch-the-hands invitation, unsupported mix and instrument-specific performance analysis, and album-duration assertion. 2026-11-03: genre list describes the artist, not necessarily the recording; name tags reflect artist associations, not the presence of a performer in this cover. Click and query frequency not tested.",
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "collision_report_sha256": "2aaaf1ac0e921c843884956f73e3b452f47abfe8faa23d355031ad1de12c711b",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
 }

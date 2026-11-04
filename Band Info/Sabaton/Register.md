@@ -127,3 +127,9 @@ Previously reviewed claims and sources; check sources and current copy before re
 - Sabaton say the US Purple Heart military decoration inspired Purple Heart, a track on Primo Victoria. I play the song on bass here with the game overlay.
 - Sources: https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/
 - People tagged are artist associations, not video guests.
+
+### CO-0097 - The Final Solution
+
+- Sabaton's The Final Solution addresses the Nazis' genocide of Jews during World War II. This bass cover accompanies the song with Rocksmith on screen.
+- Sources: https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/
+- People in tags are associations, not video guests.

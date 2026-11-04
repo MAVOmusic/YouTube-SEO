@@ -1,0 +1,152 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "539121444533e90ea58e1b53a78c73ec037ebe594bbc4b2a55e6951017edb8cf",
+    "description": "d44c13ece1c6e04da6d2ca9418f45def62e443ae8e1d86b9421d87befc7b0325",
+    "tags": "8ded9568fa2f010888c6354d016b7ad3adb4d0587a607e1408a97107e702e3b0",
+    "pinned comment": "8fb5082a094d4dc74bf490938c607a3acc3fc647beb34cc7a561650acc5c4887",
+    "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "The Final Solution - Sabaton on bass | remembering history",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Artist, song and creator format checked; no artist appearance implied."
+    },
+    {
+      "surface": "description",
+      "claim": "Sabaton's The Final Solution addresses the Nazis' genocide of Jews during World War II. This bass cover accompanies the song with Rocksmith on screen.",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Historical facts refer to original song or release, distinct from creator cover."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt",
+      "assessment": "User-provided destinations; no schedule or reward promise."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "the final solution",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton the final solution",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "the final solution bass",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "coat of arms sabaton",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "joakim broden",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "joakim brodén",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "par sundstrom",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "pär sundström",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "power metal",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "heavy metal",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0097 - Sabaton - The Final Solution (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant association, spelling, song, artist, genre or format; search frequency not established."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Please keep the conversation respectful of the victims and survivors of the Holocaust.",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Opinion question or respectful community request, not an assertion about current pin."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power metal",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Subjective artist-level classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Subjective artist-level classification."
+    }
+  ],
+  "distinct_fact_and_source": "Sabaton's The Final Solution addresses the Nazis' genocide of Jews during World War II. This bass cover accompanies the song with Rocksmith on screen. ; https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+  "uniqueness_assessment": "Accessible copy, titles and five-word signals checked. Common format words and names may recur; global semantic uniqueness cannot be established.",
+  "uncertainties_and_removed_claims": "Historical screenshots do not establish current pin, rights, revenue or audience; genres are subjective and artist-level. Search demand and metadata outcomes unmeasured.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "501e9284f879dcbf15428cda32495858f54738b177e77c2eb623986704738ee2"
+}
