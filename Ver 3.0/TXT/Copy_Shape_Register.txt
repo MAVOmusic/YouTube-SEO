@@ -358,3 +358,5 @@ open; common artist names and song names can legitimately recur.
 2026-11-04 SHORT 0001 | description: duration and performance context, then attached full-video invitation | pin: recording nomination trivia plus related-video invitation. Vary both trivia and CTA wording for subsequent Shorts; SHORT IDs are separate from long-form CO IDs.
 
 2026-11-04 SHORT 0001 correction | remove non-clickable description URLs; profile link CTA conditional on configuration. Pin directs to related link beneath handle. Retain unique trivia and distinct CTA for each Short.
+
+2026-11-04 SHORT 0002 | description: artist and setting followed by performance; pin: attributed tempo-history plus related performance invitation. Check current related video identity before release; distinct from 0001 nomination trivia.
