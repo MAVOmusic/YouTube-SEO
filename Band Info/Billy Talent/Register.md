@@ -78,3 +78,9 @@ Previously researched description claims; verify against sources and current cop
   - Name/variant: ben kowalewicz - https://en.wikipedia.org/wiki/Billy_Talent
   - Name/variant: jonathan gallant - https://en.wikipedia.org/wiki/Billy_Talent
   - Name/variant: ian dsa - https://en.wikipedia.org/wiki/Billy_Talent
+
+### CO-0078 - This Suffering
+
+- On the 2006 Billy Talent II track list, This Suffering follows Red Flag. The album credits Jon Gallant on bass; I am playing my own take here with Rocksmith on screen.
+- Source: https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent
+- Member associations do not imply appearance in MAVO performance.

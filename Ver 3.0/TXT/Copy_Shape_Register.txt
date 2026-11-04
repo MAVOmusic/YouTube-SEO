@@ -175,6 +175,11 @@
   0073    A 2009 US vinyl edition of Asking Alexandria's Stand Up and Scream places A Prophecy on side B and credits Joey Sturgis for production, mixing, engineering and mastering. | What would you ask Joey Sturgis about producing this album?
   0074    System Of A Down won the 2006 Best Hard Rock Performance Grammy for B.Y.O.B., a track from Mezmerize. That award belongs to the band's recording, not this cover. | Which part of B.Y.O.B. do you most enjoy playing or hearing?
   0075    Christmas Truce draws on the 1914 Western Front ceasefire; Sabaton included the song on The War To End All Wars. | Which piece of music brings an unexpected peaceful moment to mind?
+  0076    album track acoustic-guitar credit | electronic/live instrumentation preference | On Pendulum's In Silico, 9,000 Miles credits Peredur ap Gwynedd on acoustic guitar. Here I play the song on bass with the Rocksmith display. | What draws you to the blend of electronic music and live instruments?
+  0077    album opener and album bass credit | listening order or skipping | My Spirit Will Go On opens DragonForce's Sonic Firestorm. The 2004 album credits Adrian Lambert on bass; this is my own bass performance with the Rocksmith display. | Do you listen to Sonic Firestorm in order or jump straight to a particular track?
+  0078    track neighbour and album bass credit | instrument versus vocal attention | On the 2006 Billy Talent II track list, This Suffering follows Red Flag. The album credits Jon Gallant on bass; I am playing my own take here with Rocksmith on screen. | Does a bassline or a vocal hook catch your ear first in punk rock?
+  0079    battle and leader | history research timing | Sabaton's Blood Of Bannockburn takes its subject from the 1314 battle in which Robert the Bruce led the Scots against an English army. This is my bass performance with the Rocksmith display. | Does a historical song make you look up the event before or after listening?
+  0080    lead single and original recording Grammy awards | first encounter | U2 released Vertigo as the first single from How To Dismantle An Atomic Bomb. The original won three Grammy Awards; this video is my bass cover with the Rocksmith display. | Where were you when you first heard Vertigo?
 
 
 ################################################################################

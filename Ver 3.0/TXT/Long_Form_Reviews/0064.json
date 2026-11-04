@@ -142,5 +142,5 @@
   "uncertainties_and_removed_claims": "Band explicitly states film influence. No claim that the film itself is included in this performance. Screenshots are historical and incomplete; genre recommendations remain subjective. Independent recheck: genre labels are subjective; see findings for whether the source is song-, single- or album-level. Historical screens do not prove current pin, availability or earnings. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass. 2026-11-03: Artist-level classifications are subjective; name tags are associations, not proof of performance credits or an appearance in MAVO video. Search demand and CTR are unmeasured.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  "collision_report_sha256": "afdd35486732ef7db8ac618d6fb1dfb7af35e88c8d62275692bd4b54cac6957c"
 }

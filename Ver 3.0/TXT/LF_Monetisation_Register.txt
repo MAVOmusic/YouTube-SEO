@@ -4433,3 +4433,13 @@ limits, date windows and rounding, and none establishes present status, causal
 conclusions, reliable audience demographics or future results. Studio ratios are
 not raw like counts. Unique viewers can exceed views due to estimates/timing.
 ################################################################################
+
+2026-11-04 - Historical Details and Revenue snapshots CO-0076-0080
+0076 Pendulum 9,000 Miles: ineligible to earn and partially blocked; region,
+claimant and reason not shown. Revenue/RPM dashes.
+0077 DragonForce My Spirit Will Go On: ineligible; revenue/RPM dashes.
+0078 Billy Talent This Suffering: ineligible; revenue/RPM dashes.
+0079 Sabaton Blood Of Bannockburn: ineligible; revenue/RPM dashes.
+0080 U2 Vertigo: ineligible; revenue/RPM dashes.
+Dashes do not establish numeric zero; these are historical snapshots, not current
+rights or earning determinations. No replication eligibility inferred.

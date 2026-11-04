@@ -142,5 +142,5 @@
   "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. MAVO confirmed the audio is Amerika despite the historical source filename naming a different song. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded. The English version appears on the cited German maxi-single; other 2004 editions do not necessarily include it. 2026-11-03: genre list is artist-level. People tags signify band or song associations, not original recording credit or appearance in MAVO video. Spelling observations do not prove YouTube search frequency. Title effectiveness untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  "collision_report_sha256": "8a5fc4867594faef58050b9ff9623d0f1214f12f55826d68f66ce168c748a719"
 }

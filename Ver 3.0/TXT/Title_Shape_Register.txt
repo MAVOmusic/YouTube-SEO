@@ -149,6 +149,11 @@
   0073    artist - song: instrument through platform chart | Asking Alexandria - A Prophecy: bass through the Rocksmith chart
   0074    artist meets platform in this song instrument take | System Of A Down meets Rocksmith in this B.Y.O.B. bass take
   0075    remembering historical event through artist song - instrument cover | Remembering the 1914 truce through Sabaton's Christmas Truce - bass cover
+  0076    song by artist: bass journey through album | 9,000 Miles by Pendulum: a bass journey through In Silico
+  0077    opening album: artist song on instrument | Opening Sonic Firestorm: DragonForce My Spirit Will Go On on bass
+  0078    album in the instrument chair: song | platform | Rocksmith | Billy Talent II in the bass chair: This Suffering | Rocksmith
+  0079    the battle behind song | artist instrument cover | Sabaton bass cover | The battle behind Blood Of Bannockburn | Sabaton bass cover
+  0080    song: artist on instrument, from award-winning year single | Vertigo: U2 on bass, from a Grammy-winning 2004 single
 
 
 ################################################################################
