@@ -4445,3 +4445,5 @@ Dashes do not establish numeric zero; these are historical snapshots, not curren
 rights or earning determinations. No replication eligibility inferred.
 
 2026-11-04 - Historical CO-0081-0085 notices: all ineligible to earn; estimated revenue and RPM cards show dashes, not confirmed zero. Rights holders, reasons and current statuses not shown. 0082 creator confirmed actual song You Know I'm No Good despite Back To Black Studio title and historical folder.
+
+2026-11-04 CO-0086-0090 historical Studio screenshots: all five Public and ineligible to earn; 0086-0088 also show Partially blocked. 0089-0090 Details show no partial-block notice. Revenue, RPM and CPM display dashes, not verified zero. No rights holder or territories shown; recheck current Studio before decisions. No estimated earnings value to add.

@@ -5983,3 +5983,5 @@ not raw like counts. Unique viewers can exceed views due to estimates/timing.
 2026-11-04 - Screenshots individually reviewed in chronological order CO-0076 Pendulum 9,000 Miles; 0077 DragonForce My Spirit Will Go On; 0078 Billy Talent This Suffering; 0079 Sabaton Blood Of Bannockburn; 0080 U2 Vertigo. See analytics and per-song review records.
 
 2026-11-04 - Audited CO-0081 Rammstein Keine Lust; CO-0082 Amy Winehouse You Know I'm No Good (confirmed by MAVO despite Back To Black title/folder); CO-0083 3 Inches Of Blood Deadly Sinners; CO-0084 2Pac Ambitionz Az A Ridah; CO-0085 Linkin Park In The End.
+
+2026-11-04 CO-0086-0090 in fixed order; all 55 screenshots individually inspected. Corrected 0073 folder from If You Cant Ride Two Horses to A Prophecy and 0082 from Back To Black to You Know I'm No Good by user request. Historical Studio titles remain historical evidence; live metadata not changed. Screenshot evidence retained, review paths updated.

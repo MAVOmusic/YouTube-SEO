@@ -34,3 +34,9 @@ Member and contributor tags do not imply recording credits or that the person ap
 - Joe Hahn and Nathan Cox directed the original In The End music video for Linkin Park. This is my bass take on the Hybrid Theory song, with the game display visible.
 - Source: https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park
 - Member names indicate association, not appearance in MAVO performance.
+
+### CO-0087 - Bleed It Out
+
+- The original Bleed It Out video uses reverse-motion stunts and was directed by Joe Hahn. This is my bass cover of the Linkin Park track, with Rocksmith on screen.
+- Sources: https://linkinpedia.com/wiki/Bleed_It_Out ; https://imvdb.com/video/linkin-park/bleed-it-out ; https://en.wikipedia.org/wiki/Linkin_Park
+- People in tags are associations and are not present in this video.

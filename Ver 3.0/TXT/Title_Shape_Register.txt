@@ -159,6 +159,11 @@
   0083    song with artist | genre instrument performance | Deadly Sinners with 3 Inches Of Blood | a metal bass performance
   0084    artist and song - genre instrument cover | 2Pac and Ambitionz Az A Ridah - a hip-hop bass cover
   0085    from album to platform: artist song on instrument | From Hybrid Theory to Rocksmith: Linkin Park In The End on bass
+  0086    song by artist: brass meets game instrument | Watercolour by Pendulum: brass meets Rocksmith bass
+  0087    artist song | instrument against video story | Linkin Park Bleed It Out | Bass against the reverse-video story
+  0088    song: artist award-winning song on instrument | If I Ain't Got You: Alicia Keys' Grammy-winning song on bass
+  0089    song from album | artist on instrument | Break Down from MUSIC | Girugamesh on bass guitar
+  0090    artist and bassist: song instrument cover | Dire Straits and John Illsley: Sultans Of Swing bass cover
 
 
 ################################################################################
