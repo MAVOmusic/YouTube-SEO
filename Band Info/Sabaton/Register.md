@@ -133,3 +133,21 @@ Previously reviewed claims and sources; check sources and current copy before re
 - Sabaton's The Final Solution addresses the Nazis' genocide of Jews during World War II. This bass cover accompanies the song with Rocksmith on screen.
 - Sources: https://www.sabaton.net/discography/coat-of-arms/ ; https://www.sabaton.net/discography/coat-of-arms/the-final-solution/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/
 - People in tags are associations, not video guests.
+
+## CO-0102 - Metal Machine: preliminary research
+
+- The band lists Metal Machine on Primo Victoria (2005), describing it as a heavy-metal tribute using song titles.
+- Source: https://www.sabaton.net/discography/primo-victoria/
+- Verify the actual upload and recheck the source before use. Not release-approved copy.
+
+## CO-0105 - White Death: preliminary research
+
+- The band identifies the subject as Finnish sniper Simo Hayha and lists the song on Coat of Arms (2010). Avoid unverified casualty counts.
+- Source: https://www.sabaton.net/historical-facts/simo-hayha-born/
+- Verify the actual upload and recheck the source before use. Not release-approved copy.
+
+## CO-0110 - Nuclear Attack: preliminary research
+
+- The band says the atomic bombings of Hiroshima and Nagasaki inspired Nuclear Attack on Attero Dominatus. Respectful context is essential.
+- Source: https://www.sabaton.net/historical-facts/harry-truman-sworn-in-as-us-president/
+- Verify the actual upload and recheck the source before use. Not release-approved copy.

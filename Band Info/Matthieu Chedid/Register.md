@@ -20,3 +20,9 @@ Classifications are subjective and not necessarily track-level.
 - Andree Chedid wrote the lyrics of Je Dis Aime, with music by Matthieu Chedid, also known as -M-. Here I play the song on bass with the Rocksmith display.
 - Sources: https://secondhandsongs.com/work/70689 ; https://www.discogs.com/release/3226427--M-Je-Dis-Aime ; https://www.wikiwand.com/en/Matthieu_Chedid
 - People in tags are associations, not video guests.
+
+## CO-0101 - Laisse Aller: preliminary research
+
+- A demo titled Laisse aller is listed with Matthieu Chedid as writer and composer on Presqu'il. Do not assume this upload uses the demo.
+- Source: https://labo-m.net/timeline/point/presquil-les-demos-de-lalbum-il/
+- Verify the actual upload and recheck the source before use. Not release-approved copy.

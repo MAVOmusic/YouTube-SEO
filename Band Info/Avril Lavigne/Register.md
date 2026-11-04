@@ -28,3 +28,9 @@ Previously reviewed claims and sources; check sources and current copy before re
 - Lavigne wrote it with Chantal Kreviazuk.
   - Source: https://www.allmusic.com/album/under-my-skin-mw0000697742; https://www.discogs.com/release/6620320-Avril-Lavigne-Under-My-Skin
 
+
+## CO-0107 - Losing Grip: preliminary research
+
+- Losing Grip appears on Let Go (2002); Avril Lavigne and Clif Magness are credited as writers.
+- Source: https://secondhandsongs.com/performance/776664/all
+- Verify the actual upload and recheck the source before use. Not release-approved copy.
