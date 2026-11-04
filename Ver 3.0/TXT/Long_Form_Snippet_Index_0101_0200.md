@@ -1,0 +1,104 @@
+# Long-form snippet index 0101-0200
+
+2026-11-04. Transcribed from ten individually viewed folder-list screenshots at `_All Songs/_0001 Long Form/_Songname Snippets/0101 - 0200/`. These are preliminary labels, not proof of actual video audio, version, screenshots, ownership, or metadata. Confirm each upload when its own screenshots arrive. The last image is named 190 - 200 but contains 0191-0200; 0190 is in 181 - 190. No song folders created. CO-0117 is a milestone, not a song title. The explicit title at 0165 is intentionally omitted from this text in accordance with project policy; retain its original screenshot.
+
+- 0101: -M- (Matthieu Chedid) - Laisse Aller
+- 0102: Sabaton - Metal Machine
+- 0103: Limp Bizkit - Break Stuff
+- 0104: NSYNC - Tearin' Up My Heart
+- 0105: Sabaton - White Death
+- 0106: Nirvana - About A Girl (Unplugged)
+- 0107: Avril Lavigne - Losing Grip
+- 0108: Amon Amarth - Raise Your Horns
+- 0109: Falling In Reverse - The Drug In Me Is You
+- 0110: Sabaton - Nuclear Attack
+- 0111: Sum 41 - War
+- 0112: Saliva Feat. Jim Johnston - I Walk Alone (WWE - Batista Theme)
+- 0113: Motörhead Feat. Jim Johnston - The Game (WWE - Triple H Theme)
+- 0114: Scorpions - Rock You Like A Hurricane
+- 0115: Sabaton - Gott Mit Uns
+- 0116: Pink Floyd - Comfortably Numb
+- 0117: Just reached 100,000 Subscribers! (milestone video, not identified as a song)
+- 0118: Talking Heads - Burning Down The House
+- 0119: Motionless In White - Masterpiece
+- 0120: Tenacious D - Beelzeboss
+- 0121: Primus - South Park Theme
+- 0122: Sabaton - Karolinens Bön
+- 0123: Die Antwoord - Enter The Ninja
+- 0124: Korn - Word Up
+- 0125: Avenged Sevenfold - Bat Country
+- 0126: 04 Limited Sazabys - Galapagos
+- 0127: 10 Years - Wasteland
+- 0128: Weird Al Yankovic - Foil
+- 0129: Sabaton - Wehrmacht
+- 0130: Arctic Monkeys - R U Mine
+- 0131: Mor Ve Ötesi - Bir Derdim Var
+- 0132: Billy Talent - Sympathy
+- 0133: 10 Years - All Your Lies
+- 0134: ZZ Top - La Grange
+- 0135: Midnight Oil - Beds Are Burning
+- 0136: -M- (Matthieu Chedid) - Qui De Nous Deux
+- 0137: Linkin Park - Faint
+- 0138: +44 (Plus 44) - No, It Isn't
+- 0139: NSYNC - Bye Bye Bye
+- 0140: Aloe Blacc - I Need A Dollar
+- 0141: Rammstein - Mein Teil
+- 0142: 100 Gecs - Money Machine
+- 0143: Sabaton - Hearts Of Iron
+- 0144: Linkin Park - Papercut
+- 0145: A Day To Remember - Another Song About The Weekend
+- 0146: Willie Nelson - Whiskey River
+- 0147: Motionless In White - A.M.E.R.I.C.A.
+- 0148: Sabaton - Metal Crüe
+- 0149: Adam And The Ants - That Voodoo!
+- 0150: 12 Stones - The Way I Feel
+- 0151: Sabaton - The Ballad Of Bull
+- 0152: Twenty One Pilots - Stressed Out
+- 0153: Paramore - Decode
+- 0154: CKY - Flesh Into Gear
+- 0155: Sabaton - 82nd All The Way
+- 0156: Pendulum - Another Planet
+- 0157: Serj Tankian - Sky Is Over
+- 0158: All Time Low - Somewhere In Neverland
+- 0159: 3 Doors Down - Kryptonite
+- 0160: Rammstein - Amour
+- 0161: My Chemical Romance - Teenagers
+- 0162: Generation X - Listen
+- 0163: +44 (Plus 44) - When Your Heart Stops Beating
+- 0164: Serj Tankian - The Unthinking Majority
+- 0165: Serj Tankian - [explicit song title omitted; see source image]
+- 0166: Thirty Seconds To Mars - Valhalla
+- 0167: My Chemical Romance - Welcome To The Black Parade
+- 0168: HIM - Buried Alive By Love
+- 0169: Sabaton - Stalingrad
+- 0170: Maroon 5 - This Love
+- 0171: NSYNC - It's Gotta Be Me
+- 0172: Pendulum - The Vulture
+- 0173: Red Hot Chili Peppers - Suck My Kiss
+- 0174: George Michael - Faith
+- 0175: Kansas - Carry On Wayward Son
+- 0176: Linkin Park - Crawling
+- 0177: System Of A Down - A.T.W.A.
+- 0178: Motionless In White - Immaculate Misconception
+- 0179: Sabaton - 1648 (Swedish)
+- 0180: 10 Years - Through The Iris
+- 0181: Attack Attack! - Smokahontas
+- 0182: Motionless In White - Black Damask
+- 0183: My Chemical Romance - Famous Last Words
+- 0184: Oasis - Don't Look Back In Anger
+- 0185: Motionless In White - C0DE
+- 0186: Sabaton - A Ghost In The Trenches
+- 0187: HIM - The Sacrament
+- 0188: 10 Years - Shoot It Out
+- 0189: HIM - The Funeral Of Hearts
+- 0190: Linkin Park - Lying From You
+- 0191: Sabaton - Far From The Fame
+- 0192: Bullet For My Valentine - Hand Of Blood
+- 0193: Lily Allen - Smile
+- 0194: Queen - Another One Bites The Dust
+- 0195: Flyleaf - Fire Fire
+- 0196: Pat Benatar - Hit Me With Your Best Shot
+- 0197: Blink-182 - All The Small Things
+- 0198: Judas Priest - Painkiller
+- 0199: Deep Purple - Smoke On The Water
+- 0200: Europe - The Final Countdown

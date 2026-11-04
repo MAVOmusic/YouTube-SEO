@@ -25,3 +25,9 @@ Member and contributor tags do not imply recording credits or that the person ap
 - Butch Vig and Nirvana are credited as producers of Come As You Are on a 1992 European single. The song also appears on their 1991 album Nevermind.
   - Source: https://www.discogs.com/release/1550113-Nirvana-Come-As-You-Are
 - Current title: Come As You Are: find the low end of Nirvana's Nevermind
+
+## CO-0106 - About A Girl (Unplugged): preliminary research
+
+- About A Girl appeared on Bleach (1989) and was performed on MTV Unplugged; verify the uploaded performance/version before copy.
+- Source: https://www.udiscovermusic.com/stories/nirvana-about-a-girl-song/
+- Verify the actual upload and recheck the source before use. Not release-approved copy.

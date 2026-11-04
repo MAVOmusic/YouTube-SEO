@@ -703,3 +703,5 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-04 - CO-0091-0095 reviewed in order: all 56 supplied screenshots inspected; copy, sourced claim reviews, title/copy and artist records, analytics and monetisation updated. 0091 was historically partially blocked and all five ineligible; no territories or current status known. 0091-0094 paid traffic dominates, 0095 has only 22 views and no advertising category displayed. Organic attribution, global originality and tag outcomes remain uncertain.
 
 2026-11-04: Reviewed 50 supplied images for CO-0096-0100, researched facts and artist genres, prepared per-song copy and review records; logged discovery, geography and earnings limitations. 0100 partially blocked in snapshot. No live Studio edits.
+
+2026-11-04: Moved 0101-0200 snippet folder into Long Form/_Songname Snippets, individually read ten images and indexed 100 preliminary entries. Sourced starter research for 0101-0110 and four new artist genre registers; no song folders or release copy created. Verify actual videos and fresh sources at release; 0117 is a milestone, 0165 explicit title omitted from index.
