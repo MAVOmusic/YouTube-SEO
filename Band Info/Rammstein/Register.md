@@ -65,3 +65,9 @@ Relevant names below are artist associations, not an assertion they play on each
   - Name/variant: till - https://www.wikiwand.com/en/Rammstein
   - Name/variant: oliver riedel - https://www.wikiwand.com/en/Rammstein
   - Name/variant: richard kruspe - https://www.wikiwand.com/en/Rammstein
+
+### CO-0081 - Keine Lust
+
+- Jorn Heitmann directed Rammstein's Keine Lust video, which premiered in 2005. Here I play the Reise, Reise track on bass with the Rocksmith display.
+- Source: https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein
+- Member names indicate association, not appearance in MAVO performance.

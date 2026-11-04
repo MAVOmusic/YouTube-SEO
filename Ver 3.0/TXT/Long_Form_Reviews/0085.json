@@ -1,0 +1,188 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "f869550dfda01160fa80321fc91c9b9008f8266217106e54c3994303f1af9531",
+    "description": "dcc2bc6f58e856f19efd87149597084f0dc643d383ba1772f7495300a54420e5",
+    "tags": "ea394caec35f86c816b1e00bab6a2ff0b1a5242e56e19b5d0741d2a7d452390e",
+    "pinned comment": "e6ade3490f87bf43f0543ec652c8f88ac4c9a42df9c5efa347a7413cb652e465",
+    "genres": "b14ae96118d225eaff16d1148ad51b49e3c0f1a910e7ec7257bafd21e32e3373"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "From Hybrid Theory to Rocksmith: Linkin Park In The End on bass",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass during overlay",
+      "assessment": "Recording identity and performance format checked; artist presence not implied."
+    },
+    {
+      "surface": "description",
+      "claim": "Joe Hahn and Nathan Cox directed the original In The End music video for Linkin Park. This is my bass take on the Hybrid Theory song, with the game display visible.",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass during overlay",
+      "assessment": "Original recording or video fact distinguished from creator performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror, Discord community invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt",
+      "assessment": "User-supplied links, no reward or schedule promise."
+    },
+    {
+      "surface": "tags",
+      "claim": "linkin park",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "in the end",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "linkin park in the end",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "in the end bass",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "hybrid theory",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "chester",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "chester bennington",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "mike shinoda",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "joe hahn",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "dave farrell",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "phoenix linkin park",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "nu metal",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative rock",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0085 - Linkin Park - In The End (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Linkin Park/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which instrument do you notice most when you hear In The End?",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Opinion question; screenshot cannot establish current pin."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Artist classification, subjective and not necessarily applicable to every song."
+    },
+    {
+      "surface": "genres",
+      "claim": "Nu metal",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Artist classification, subjective and not necessarily applicable to every song."
+    },
+    {
+      "surface": "genres",
+      "claim": "Rap rock",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Artist classification, subjective and not necessarily applicable to every song."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative metal",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Artist classification, subjective and not necessarily applicable to every song."
+    },
+    {
+      "surface": "genres",
+      "claim": "Electronic rock",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Artist classification, subjective and not necessarily applicable to every song."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop rock",
+      "source": "https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park",
+      "assessment": "Artist classification, subjective and not necessarily applicable to every song."
+    }
+  ],
+  "distinct_fact_and_source": "Joe Hahn and Nathan Cox directed the original In The End music video for Linkin Park. This is my bass take on the Hybrid Theory song, with the game display visible. ; https://archive.org/details/youtube-oIwWqYSbzGA ; https://en.wikipedia.org/wiki/Linkin_Park",
+  "uniqueness_assessment": "Reviewed available 0001-0085 copy, registers and five-word signals; common artist names, song titles and platform wording may recur. Inaccessible uploads cannot be compared.",
+  "uncertainties_and_removed_claims": "Historical images do not show current pins, restrictions or earning; search demand and metadata impact not measured. Genres are subjective artist-level classifications. ",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "176a5d633a781b84d1bbfdaf6c10a2d32d776a9aac9557d7e459e408b06d5373"
+}

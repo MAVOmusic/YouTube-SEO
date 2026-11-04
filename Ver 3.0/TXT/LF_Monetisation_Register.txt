@@ -4443,3 +4443,5 @@ claimant and reason not shown. Revenue/RPM dashes.
 0080 U2 Vertigo: ineligible; revenue/RPM dashes.
 Dashes do not establish numeric zero; these are historical snapshots, not current
 rights or earning determinations. No replication eligibility inferred.
+
+2026-11-04 - Historical CO-0081-0085 notices: all ineligible to earn; estimated revenue and RPM cards show dashes, not confirmed zero. Rights holders, reasons and current statuses not shown. 0082 creator confirmed actual song You Know I'm No Good despite Back To Black Studio title and historical folder.

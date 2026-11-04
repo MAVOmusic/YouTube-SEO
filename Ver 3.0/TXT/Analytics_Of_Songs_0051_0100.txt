@@ -1457,3 +1457,71 @@ the same date window and sufficiently large data. Beware aggregation limits.
 https://support.google.com/youtube/answer/9314355?hl=en
 https://support.google.com/youtube/answer/9101241?hl=en
 https://support.google.com/youtube/answer/9717005?hl=en
+
+2026-11-04 - CO-0081-0085: 55 images individually reviewed, historical cards
+through 3 Nov 2026, ranges since publication. Funnel data end 2 Nov. Paid traffic
+is creator-funded; figures are not evidence of metadata causation.
+
+0081 Rammstein - Keine Lust | 3:29 | 7 Sep 2025. 264 views, 1.4h, subscriber
+dash, 261 unique, 858 impressions, 1.3% CTR, 0:19 average, 9.3% viewed, 18%
+at 0:30 BELOW typical. Advertising 92.8%, browse 4.9%, search 0.8%, direct
+0.4%, channel pages 0.4%, other 0.8%. Search and suggested details insufficient.
+External 0.4%, Google Search 100% of external slice. Funnel 865 / 1.3% / 11
+engaged / 0:42 / 0.13h. Mobile 91.3% watch time; India 71.2%, Indonesia
+12.5% of views; non-subscriber watch time 91.2%. Ineligible; revenue/RPM dashes.
+
+0082 Amy Winehouse - You Know I'm No Good | 4:15 | 7 Sep 2025. Historical
+folder, Studio title and description say Back To Black, but filename and overlay
+say You Know I'm No Good; creator confirmed actual song 2026-11-04. Historical
+folder is retained. Studio title and description need correction to actual song.
+353 views, 2.2h, +3 subscribers, 353 unique, 1.9k impressions, 1.3% CTR,
+0:22 average, 9.0% viewed, 19% at 0:30 typical. Advertising 89.8%, browse
+8.8%, direct 0.6%, search 0.3%, suggested 0.3%, other 0.3%. Search details
+insufficient. Suggested source shows creator Weatherman +44 cover at 100% of
+the 0.3% suggested slice, not all views. Funnel 1.9k / 1.3% / 25 engaged /
+0:35 / 0.25h. Mobile 86.8% watch time, India 78.5% of views; non-subscriber
+watch time 94.6%. Ineligible; revenue/RPM dashes.
+
+0083 3 Inches Of Blood - Deadly Sinners | 4:29 | 7 Sep 2025. 256 views,
+1.6h, +3 subscribers, 255 unique, 1.9k impressions, 0.3% CTR, 0:22 average,
+8.5% viewed, 20% at 0:30 typical. Advertising 96.1%, suggested 3.1%, direct
+0.4%, search 0.4%; search details insufficient. Suggested slice shows five
+12.5% rows: Spiritbox Circle With Me guitar playthrough, a Davie504 guitar
+reaction, a Linkin Park reaction, Omegle kazoo metal, and Beat It but every
+note is C; truncated names do not establish source channels. About eight
+suggested views inferred from rounded numbers, not exact. Funnel 1.9k / 0.3% /
+6 engaged / 0:26 / 0.04h. Mobile 93.4% watch time; India 80.5% views;
+non-subscriber watch time 96.3%; demographic data insufficient. Ineligible;
+revenue/RPM dashes.
+
+0084 2Pac - Ambitionz Az A Ridah | 4:41 | 7 Sep 2025. 273 views, 1.7h, +1
+subscriber, 274 estimated unique, 629 impressions, 2.1% CTR, 0:23 average,
+8.2% viewed, 17% at 0:30 BELOW typical. Advertising 92.3%, search 4.4%, external
+1.5%, direct 1.1%, browse 0.4%, other 0.3%. Search slice includes 2pac reaction
+16.7%, ambitionz az a ridah 16.7%, ambitionz az a ridah reaction 8.3%,
+rocksmith 8.3%. Query does not make the performance a reaction. Suggested
+card insufficient; playlist card Gangsta Rap - Rocksmith 2014 Bass 100% of
+0.4% playlist slice. Funnel 644 / 2.0% / 13 engaged / 0:40 / 0.15h. Mobile
+98.1% watch time; India 76.2%, Indonesia 8.1% views; non-subscriber watch
+time 94%. Viewers also watch card (last 90 days) shows creator 2Pac shorts.
+Ineligible; revenue/RPM dashes.
+
+0085 Linkin Park - In The End | 3:32 | 7 Sep 2025. 309 views, 2h, +4
+subscribers, 310 estimated unique, 2.5k impressions, 0.7% CTR, 0:23 average,
+10.9% viewed, 24% at 0:30 typical. Advertising 90.9%, suggested 3.2%, browse
+2.9%, direct 1%, search 1%, other 1%. Search slice rocksmith and rocksmith
+bass each 33.3%. Suggested slice five 10% visible rows include In The End
+bass short, Green Day Wake Me Up When September Ends (truncated), Childish
+Gambino Heartbeat with guitar, Avenged Sevenfold Hail To The King live
+(truncated), Simple Plan Perfect (Official Video) [HD]. 3.2% of 309 is about
+ten views, 10% about one, not exact; cannot infer source identity from title
+alone. Funnel 2.5k / 0.6% / 16 engaged / 0:42 / 0.19h; separate window.
+Mobile 89.8% watch time; India 68.6%, Indonesia 15.9% views; non-subscriber
+watch time 94.4%. Ineligible; revenue/RPM dashes.
+
+All five snapshots show zero realtime views over prior 48h and no artist comment
+visible in supplied screens; neither establishes current results or current pin.
+Suggested percentages use suggested-slice denominators and do not prove artist
+endorsement. Demographic data may be limited. Geography may reflect ad delivery;
+organic and paid geography are not separately shown. Revenue dash is not a
+numeric zero; no rights-holder, reason or current restriction can be inferred.

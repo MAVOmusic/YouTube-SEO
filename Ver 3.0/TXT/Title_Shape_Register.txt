@@ -154,6 +154,11 @@
   0078    album in the instrument chair: song | platform | Rocksmith | Billy Talent II in the bass chair: This Suffering | Rocksmith
   0079    the battle behind song | artist instrument cover | Sabaton bass cover | The battle behind Blood Of Bannockburn | Sabaton bass cover
   0080    song: artist on instrument, from award-winning year single | Vertigo: U2 on bass, from a Grammy-winning 2004 single
+  0081    song goes low: artist on game instrument | Keine Lust goes low: Rammstein on Rocksmith bass
+  0082    artist through instrument strings | song | Amy Winehouse through the bass strings | You Know I'm No Good
+  0083    song with artist | genre instrument performance | Deadly Sinners with 3 Inches Of Blood | a metal bass performance
+  0084    artist and song - genre instrument cover | 2Pac and Ambitionz Az A Ridah - a hip-hop bass cover
+  0085    from album to platform: artist song on instrument | From Hybrid Theory to Rocksmith: Linkin Park In The End on bass
 
 
 ################################################################################
