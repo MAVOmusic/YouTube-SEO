@@ -100,3 +100,12 @@ Previously reviewed claims and sources; check sources and current copy before re
   - Name/variant: joakim broden - https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m
   - Name/variant: par sundstrom - https://www.wikiwand.com/en/articles/P%C3%A4r_Sundstr%C3%B6m
   - Name/variant: sabton - https://www.reddit.com/r/sabaton/comments/pxrhnu/just_getting_into_sabton_i_need_some_suggestions/
+
+## 2026-11-04 song research and usage
+
+- CO-0071: Sparta takes Sabaton back to Thermopylae in 480 BC, where King Leonidas fought alongside Spartans and other Greek forces.
+  - Sources: https://www.sabaton.net/discography/the-last-stand/sparta/ ; https://www.sabaton.net/video/episode-41-sparta-the-battle-of-thermopylae/
+  - Title: At Thermopylae with Sabaton: Sparta bass cover
+- CO-0075: Christmas Truce draws on the 1914 Western Front ceasefire; Sabaton included the song on The War To End All Wars.
+  - Sources: https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/
+  - Title: Remembering the 1914 truce through Sabaton's Christmas Truce - bass cover

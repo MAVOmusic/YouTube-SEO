@@ -1,0 +1,170 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "5da78c6ca12deb2efa569998592489b72fcc673901947dac8fd1572964c5cbd4",
+    "description": "0c8c352f98e2a74753a6c365f8b346dde39a57f337bf4ddd95a67ad717d15aa4",
+    "tags": "3f48dfaf70036d86565aa8bcad88ecd9dba4c2a8eea656fc14158b65e5e6a159",
+    "pinned comment": "1997190e4a68c86eb33e22dba6cd16f285f3f00445925679677ef11bf18cdb04",
+    "genres": "c35a592e9446fe3c53f3849b736f190be198ca0314118bc3d7641240bbabb6e0"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "System Of A Down meets Rocksmith in this B.Y.O.B. bass take",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay visible",
+      "assessment": "Artist and song identity and creator performance checked; editorial title is not a proven CTR improvement or a claim of artist appearance."
+    },
+    {
+      "surface": "description",
+      "claim": "System Of A Down won the 2006 Best Hard Rock Performance Grammy for B.Y.O.B., a track from Mezmerize. That award belongs to the band's recording, not this cover.",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/",
+      "assessment": "Source checked for the specified song, recording, historical account or release; album credit is not a claim about MAVO recording."
+    },
+    {
+      "surface": "description",
+      "claim": "My bass take is shown with the Rocksmith overlay.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing during overlay",
+      "assessment": "Screenshot and user confirmed performance format; no inferred tuning, live presence of artist, or continuous display."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt ; user-confirmed Discord invite",
+      "assessment": "Invitations follow required order, with optional Discord boost; no unsupported schedule or reward."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which part of B.Y.O.B. do you most enjoy playing or hearing?",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/",
+      "assessment": "Opinion or recommendation question, no asserted fact or promise; no artist comment visible in historical screenshot, not proof of current pin."
+    },
+    {
+      "surface": "tags",
+      "claim": "system of a down",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "soad",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "b.y.o.b.",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "byob",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "system of a down byob",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "mezmerize",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "serj tankian",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "serj",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "shavo odadjian",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "shavo",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "daron malakian",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "john dolmayan",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative metal",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0074 - System Of A Down - B.Y.O.B. (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.metalkingdom.net/band/system-of-a-down-24308 ; Band Info/System Of A Down/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative metal",
+      "source": "https://www.metalkingdom.net/band/system-of-a-down-24308",
+      "assessment": "Artist-level catalogue classification; not a claim that this particular song fits every genre."
+    },
+    {
+      "surface": "genres",
+      "claim": "Nu metal",
+      "source": "https://www.metalkingdom.net/band/system-of-a-down-24308",
+      "assessment": "Artist-level catalogue classification; not a claim that this particular song fits every genre."
+    }
+  ],
+  "distinct_fact_and_source": "System Of A Down won the 2006 Best Hard Rock Performance Grammy for B.Y.O.B., a track from Mezmerize. That award belongs to the band's recording, not this cover. ; https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/",
+  "uniqueness_assessment": "Reviewed against available 0001-0075 copy, title/artist registers, and cross-song signals. Similar ordinary terminology and artist or song names can be unavoidable. Cannot establish semantic uniqueness across inaccessible material.",
+  "uncertainties_and_removed_claims": "Screenshot is historical; it cannot establish current pin, restriction or revenue. Genre labels are subjective and band-level. Search demand and tag/title effectiveness not measured. ",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

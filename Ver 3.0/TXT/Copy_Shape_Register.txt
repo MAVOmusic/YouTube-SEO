@@ -170,6 +170,11 @@
   0068    Silver Springs B-side and separate writers | What B-side belongs in your favourite singles collection?
   0069    Recording Academy 1992 performance award | Which performance would you give an award to?
   0070    album sequence around Standing in the Rain | Which three-song run on an album do you return to?
+  0071    Sparta takes Sabaton back to Thermopylae in 480 BC, where King Leonidas fought alongside Spartans and other Greek forces. | What music made you curious about the ancient world?
+  0072    Butch Walker produced All Time Low's original recording of Damned If I Do Ya (Damned If I Don't), released on Nothing Personal in 2009. | Which Nothing Personal track do you play most often?
+  0073    A 2009 US vinyl edition of Asking Alexandria's Stand Up and Scream places A Prophecy on side B and credits Joey Sturgis for production, mixing, engineering and mastering. | What would you ask Joey Sturgis about producing this album?
+  0074    System Of A Down won the 2006 Best Hard Rock Performance Grammy for B.Y.O.B., a track from Mezmerize. That award belongs to the band's recording, not this cover. | Which part of B.Y.O.B. do you most enjoy playing or hearing?
+  0075    Christmas Truce draws on the 1914 Western Front ceasefire; Sabaton included the song on The War To End All Wars. | Which piece of music brings an unexpected peaceful moment to mind?
 
 
 ################################################################################

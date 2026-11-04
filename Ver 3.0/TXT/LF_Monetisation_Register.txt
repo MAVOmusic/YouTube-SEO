@@ -4360,3 +4360,76 @@ CLASSIFICATION     : **E4-a CLAIM-DRIVEN, CLEAN.** Atlantic. Second Billy Talent
   live" at 50.0% says the audience arriving wants a performance, and no tag box in this
   batch carried a live or performance term.
 
+
+################################################################################
+# CO-0071-0075 | historical screenshots through 2026-11-03, reviewed 2026-11-04
+################################################################################
+# Read all 58 supplied images individually. These are historical Studio captures,
+# not evidence of today's pin, copyright status, revenue or video settings.
+# Paid traffic is MAVO's own advertising; no causal claim about SEO performance.
+# Search percentages within a card are shares of that search slice, not all views.
+# Revenue and subscriber dashes below are unavailable/dash, not numerical zero.
+
+CO-0071 Sabaton - Sparta | ID KnOFEXc5U0o | 4:01 | 6 Sep 2025
+Views 266; watch time 1.6h; subscribers +2; estimated revenue dash.
+Reach 938 impressions, CTR 1.2%, 265 unique; advertising 90.6%, search 4.1%,
+browse 3.0%, end screens 1.5%, channel pages 0.4%, other 0.4%. Funnel 982
+impressions / 1.1% / 11 engaged views / 0:17 / 0.05h for its stated separate
+ending date; do not force it to match the Reach headline. Search slice: mavomusic
+sparta 36.4%, rocksmith bass 9.1%. AVD 0:21, APV 8.8%, 20% at 0:30 typical;
+likes ratio 100%, end screen click rate 0%; mobile watch time 96.1%; geography
+India 67.7%, Indonesia 15.0%. Ineligible to earn; Revenue and RPM dashes.
+No artist comment visible in provided comments screenshot. Runtime/title/ID from
+_01 - Main Info/_01 Description.jpeg; other values from matching Analytics files.
+
+CO-0072 All Time Low - Damned If I Do Ya (Damned If I Don't) | ID cJZ3h84StoM
+3:00 | 7 Sep 2025 | views 350; watch time 2.3h; subscriber dash; revenue dash.
+Reach 4.2k impressions, CTR 1.4%, 341 unique; advertising 78.0%, browse 14.6%,
+search 5.7%, related Shorts 0.6%, direct/unknown 0.3%, other 0.9%. Search slice:
+all time low live 10.0%, all time low damned if i do ya damned if i don't 5.0%.
+Funnel 4.3k impressions / 1.4% / 58 engaged / 0:32 / 0.53h, separate data end.
+AVD 0:23, APV 13.3%, 21% at 0:30 typical; 100% likes ratio; end screen 0%;
+mobile watch time 82.4%; India 66.3%, Indonesia 3.4%. Premiere peak 2 / average 1.
+Ineligible to earn; Revenue and RPM dashes. No artist comment visible.
+
+CO-0073 Asking Alexandria - A Prophecy | ID GhVIc3pJg0k | 3:33 | 7 Sep 2025
+CRITICAL identity correction: historical Studio title and folder name say If You
+Cant Ride Two Horses At Once; source filename and in-video overlay say A Prophecy.
+MAVO confirmed this upload plays A Prophecy on 2026-11-04. Do not use the other
+song as title, description or tags. The historical folder is retained unchanged.
+Views 404; watch 3.1h; +4 subscribers; revenue dash. Reach 14.5k impressions,
+CTR 0.5%, 399 unique; advertising 75.7%, suggested 10.4%, browse 9.4%, search
+2.2%, direct/unknown 0.7%, other 1.5%. Search slice asking alexandria 11.1%.
+Funnel 14.5k / 0.5% / 73 engaged / 0:54 / 1.1h, separate data end. AVD 0:27,
+APV 13.0%, 25% at 0:30 typical; 100% likes ratio; end screen 0%; mobile watch
+78.4%; India 62.6%, Indonesia 7.4%. Ineligible to earn; Revenue/RPM dashes.
+No artist comment visible; old metadata should be replaced with confirmed song.
+
+CO-0074 System Of A Down - B.Y.O.B. | ID hevCKkjTNT4 | 4:16 | 7 Sep 2025
+Views 342; watch 2.2h; subscriber dash; revenue dash. Reach 3k impressions,
+CTR 0.7%, 343 unique; advertising 91.5%, suggested 3.8%, search 2.6%, channel
+pages 1.2%, browse 0.6%, other 0.3%. Search slice rocksmith bass 66.7%, system
+of a down 11.1%. Funnel 3k / 0.7% / 21 engaged / 1:04 / 0.38h, separate data
+end. AVD 0:23, APV 9.2%, 19% at 0:30 typical; 80% likes ratio (count unknown);
+end screen 0%; mobile watch 87.8%; India 74.3%, Indonesia 12.0%. Premiere peak 1,
+average 1. Historical Details badge: ineligible to earn AND partially blocked;
+regions and reasons not shown. Revenue/RPM dashes. No artist comment visible.
+
+CO-0075 Sabaton - Christmas Truce | ID pMJjkA-RcFY | 5:04 | 7 Sep 2025
+Views 284; watch 1.6h; +1 subscriber; revenue dash. Reach 1.6k impressions,
+CTR 1.0%, 285 unique; advertising 93.3%, browse 3.5%, search 2.8%, channel
+pages 0.4%, direct/unknown 0.0%. Search slice sabaton christmas truce reaction
+37.5%, christmas truce reaction 12.5%, rocksmith bass 12.5%, sabaton 12.5%,
+sabaton reaction christmas truce 12.5%. A search query is not proof that this
+video is a reaction: it is a bass performance. Funnel 1.6k / 1.0% / 16 engaged /
+0:37 / 0.17h, separate data end. AVD 0:20, APV 6.8%, 16% at 0:30 BELOW typical;
+100% likes ratio; end screen 0%; mobile watch 85.5%; India 76.1%, Indonesia 7.4%.
+Premiere peak 1 / average 1. Ineligible to earn; Revenue/RPM dashes. No artist
+comment visible.
+
+All five Overview screenshots show 0 realtime views in their 48h snapshots.
+Per-song charts are historical, ranges and ratios can be subject to reporting
+limits, date windows and rounding, and none establishes present status, causal
+conclusions, reliable audience demographics or future results. Studio ratios are
+not raw like counts. Unique viewers can exceed views due to estimates/timing.
+################################################################################

@@ -144,9 +144,9 @@
     }
   ],
   "distinct_fact_and_source": "Band describes musical idea preceding warship subject. https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://sabaton.bandcamp.com/track/dreadnought",
-  "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
+  "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness. 2026-11-04: collision signals refreshed after adding CO-0071-0075; inspect shared song, album and other overlaps.",
   "uncertainties_and_removed_claims": "Removed false only-battle assertion, unverified playing details, refit/kill narrative and guaranteed request handling. Recheck 2026-11-03: restored rock smith, an actual Reach 2 query, previously omitted; historical query does not prove tag impact. 2026-11-03: genre list describes the artist, not necessarily the recording; name tags reflect artist associations, not the presence of a performer in this cover. Click and query frequency not tested.",
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "collision_report_sha256": "bc007ff4748f2c08061a7d8c1a3eb2e22a6f101aa2da772efff0ee73b7baa679",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
 }

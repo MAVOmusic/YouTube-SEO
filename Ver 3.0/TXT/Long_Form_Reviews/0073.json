@@ -1,0 +1,188 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "c7018c657e62b18746e47a7cc8bacf58f06cbc1e4a4d751a03191e8b128a590c",
+    "description": "9e7a657ac4c0d41a510a78c198c7d76c2e49b644d78661ab8f4f155e502630a0",
+    "tags": "b685baf8aed5eb7d9bc3862482e7d6b3f8e334161f2cbc7798c73c87dac0427e",
+    "pinned comment": "4460b8774b7b632dda2eb038c662107321e7f2088a32aa54e29d2ac91c468c6d",
+    "genres": "0312264f56f29f10f00a09a6e087ebafb8aa1e64f3980bca725a2b76eace60ff"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Asking Alexandria - A Prophecy: bass through the Rocksmith chart",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay visible ; MAVO confirms 0073 plays A Prophecy despite historical title",
+      "assessment": "Artist and song identity and creator performance checked; editorial title is not a proven CTR improvement or a claim of artist appearance."
+    },
+    {
+      "surface": "description",
+      "claim": "A 2009 US vinyl edition of Asking Alexandria's Stand Up and Scream places A Prophecy on side B and credits Joey Sturgis for production, mixing, engineering and mastering.",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream",
+      "assessment": "Source checked for the specified song, recording, historical account or release; album credit is not a claim about MAVO recording."
+    },
+    {
+      "surface": "description",
+      "claim": "Here I play bass alongside the game display.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing during overlay",
+      "assessment": "Screenshot and user confirmed performance format; no inferred tuning, live presence of artist, or continuous display."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt ; user-confirmed Discord invite",
+      "assessment": "Invitations follow required order, with optional Discord boost; no unsupported schedule or reward."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "What would you ask Joey Sturgis about producing this album?",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream",
+      "assessment": "Opinion or recommendation question, no asserted fact or promise; no artist comment visible in historical screenshot, not proof of current pin."
+    },
+    {
+      "surface": "tags",
+      "claim": "asking alexandria",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "a prophecy",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "asking alexandria a prophecy",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "stand up and scream",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "danny worsnop",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "danny",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "sam bettley",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "sam",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "ben bruce",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "cameron liddell",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "james cassells",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "joey sturgis",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "metalcore",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0073 - Asking Alexandria - If You Cant Ride Two Horses (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://en.wikipedia.org/wiki/Asking_Alexandria ; Band Info/Asking Alexandria/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "genres",
+      "claim": "Metalcore",
+      "source": "https://en.wikipedia.org/wiki/Asking_Alexandria",
+      "assessment": "Artist-level catalogue classification; not a claim that this particular song fits every genre."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://en.wikipedia.org/wiki/Asking_Alexandria",
+      "assessment": "Artist-level catalogue classification; not a claim that this particular song fits every genre."
+    },
+    {
+      "surface": "genres",
+      "claim": "Post-hardcore",
+      "source": "https://en.wikipedia.org/wiki/Asking_Alexandria",
+      "assessment": "Artist-level catalogue classification; not a claim that this particular song fits every genre."
+    },
+    {
+      "surface": "genres",
+      "claim": "Hard rock",
+      "source": "https://en.wikipedia.org/wiki/Asking_Alexandria",
+      "assessment": "Artist-level catalogue classification; not a claim that this particular song fits every genre."
+    },
+    {
+      "surface": "genres",
+      "claim": "Electronicore",
+      "source": "https://en.wikipedia.org/wiki/Asking_Alexandria",
+      "assessment": "Artist-level catalogue classification; not a claim that this particular song fits every genre."
+    }
+  ],
+  "distinct_fact_and_source": "A 2009 US vinyl edition of Asking Alexandria's Stand Up and Scream places A Prophecy on side B and credits Joey Sturgis for production, mixing, engineering and mastering. ; https://www.discogs.com/release/4917738-Asking-Alexandria-Stand-Up-And-Scream",
+  "uniqueness_assessment": "Reviewed against available 0001-0075 copy, title/artist registers, and cross-song signals. Similar ordinary terminology and artist or song names can be unavoidable. Cannot establish semantic uniqueness across inaccessible material.",
+  "uncertainties_and_removed_claims": "Screenshot is historical; it cannot establish current pin, restriction or revenue. Genre labels are subjective and band-level. Search demand and tag/title effectiveness not measured. MAVO confirmed 0073 plays A Prophecy. Historical Studio title and folder incorrectly say If You Cant Ride Two Horses; source filename and overlay say A Prophecy; retained historical folder path.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}
