@@ -1422,3 +1422,38 @@ current. Paid traffic is creator-funded. Search percentages are slices and not
 proof of keyword performance. Audience and unique estimates can be limited,
 rounded or exceed views. No artist comment was visible in supplied comment
 screens, but those screens do not establish current pins.
+
+2026-11-04 - CO-0076-0080 suggested-content and audience follow-up
+Reread the supplied reach and audience cards. These are snapshots through
+3 Nov 2026, not current channel-wide or organic-only measurements.
+0076: suggesting-content card 0.4% of total traffic; displayed source title
+"Tarantula brings Pendulum and DJ Fresh togeth..." 100% of suggested slice.
+Geography: India 72.5%, Indonesia 7.9% of views; mobile 88.7% of watch time;
+not-subscribed watch time 90.9%.
+0077: suggesting-content 2.4% of total traffic; five visible source rows each
+14.3% of that slice, including "Linkin Park - What I've Done - Electric Guitar
+Cov...", a Septicflesh reaction, "Layla", a creator Billy Talent Viking Death
+March video, and an unrelated news title. Titles are truncated; neither official
+video nor source channel identity can be inferred for external rows. 2.4% of
+287 is roughly seven views; each 14.3% is consistent with about one, but exact
+counts are estimates derived from rounded figures. Geography India 73.5%,
+Indonesia 16%; mobile 85.9%; non-subscriber watch time 99.6%.
+0078: card says insufficient data for suggesting sources, not zero. Geography
+India 66.7%, Indonesia 11.4%; mobile 80.6%; non-subscriber watch time 99.8%.
+0079: card says insufficient data for suggesting sources, not zero. Geography
+India 68.3%, Indonesia 4.5%; mobile 95.0%; non-subscriber watch time 86.5%.
+0080: card says insufficient data for suggesting sources, not zero. Geography
+India 74.5%, Indonesia 8.7%; mobile 87.9%; non-subscriber watch time 95.4%.
+Source rows show traffic attributed to suggested videos, not proof of official
+music video placement or artist endorsement. Shares are of their indicated
+denominators. Advertising represents 81%-92.3% of total views across these
+snapshots; geography and audience composition may be influenced by the paid
+campaign but targeting and organic-only data are not shown. Device figures are
+watch-time shares, geography figures view shares. Demographic reporting may
+be limited; 100% in an age bucket is not proof of the entire audience's age.
+Traffic source, geography and device filters can be compared in Advanced Mode
+when available, separately for search, suggested, browse and advertising, with
+the same date window and sufficiently large data. Beware aggregation limits.
+https://support.google.com/youtube/answer/9314355?hl=en
+https://support.google.com/youtube/answer/9101241?hl=en
+https://support.google.com/youtube/answer/9717005?hl=en
