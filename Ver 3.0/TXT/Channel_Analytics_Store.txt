@@ -465,3 +465,102 @@ Interpretation and action:
   review from 0071. Seek comparable full 28-day reports for strategy decisions;
   no changes to publishing priority or claims of title causality from this alone.
 ################################################################################
+
+################################################################################
+## CA-2026-11-04 | four real-time screenshots
+################################################################################
+Source: _All Songs/0000 - Channel Analytics/Channel Analytics - 2026-11-04/
+Long Form 1 and 2.jpeg, Short Form 1 and 2.jpeg, individually inspected.
+Screenshots show rolling windows, capture time unknown; format snapshots may be
+asynchronous. The second images are continuations, not separate totals. Titles
+below are shortened from what is visible, not independent identity verification.
+
+                             Last 48h      Last 60m
+Videos chart                      40             0
+Shorts chart                     723            22
+Sum of these two snapshots       763            22
+Shorts share of the two-format 48h sum: 94.8%; Videos 5.2%; ratio 18.1:1.
+These sums exclude any other formats and are not confirmed channel-wide totals.
+22 is 2.2% of the 1,000 views/hour aspiration, not a forecast or complete
+channel result. A 48h window and a 60m window measure different periods.
+
+Visible Videos, 48h views (all shown rows have 0 last-hour views):
+4 Scars On Broadway - Exploding/Reloading (18 Oct 2025)
+3 Mindless Self Indulgence - Lights Out (9 Oct 2025)
+2 Digging into some heavy indie-punk riffs from New Jers... (19 Jun 2026)
+2 -M- (Matthieu Chedid) - Qui De Nous Deux (11 Sept 2025)
+2 From piano to bass: Chopin's Nocturne Op. 9 No. 2 for 4... (3 Nov 2022)
+2 Saliva Feat. Jim Johnston - I Walk Alone (WWE - B... (9 Sept 2025)
+2 Lonely Day turns System Of A Down's intensity inward - ... (13 Feb 2025)
+2 Green Day - 8th Avenue Serenade (18 Nov 2025)
+2 Rocksmith 2014 Bass Cover - Green Day - 8th Ave... (20 Apr 2026)
+1 Amy Winehouse through the bass strings | You Know I'... (7 Sept 2025)
+1 Paul Ryder's Madchester funk-house bassline is an abs... (25 Jul 2026)
+1 Asking Alexandria - A Prophecy: bass through the Rock... (7 Sept 2025)
+1 Rob Kucharek's driving 2004 pop-punk bass engine on ... (20 Jul 2026)
+1 Rammstein's industrial bass giant: Oliver Riedel's iconic... (26 Aug 2026)
+1 Mindless Self Indulgence - Animal (11 Oct 2025)
+1 Motionless In White - Scissorhands (The Last Sno... (21 Oct 2025)
+1 Can you follow Another Life? Motionless In White bass ... (26 Oct 2022)
+1 Pierce The Veil - So Far So Fake (5 Dec 2025)
+1 Cute Without The 'E': a Taking Back Sunday bass cover t... (25 Jan 2025)
+1 Alesana - Apology (22 Oct 2025)
+1 What To Expect At kick.com/mavomusic? (20 Nov 2025)
+1 Melodic hardcore basslines don't get much better than t... (19 Jun 2026)
+1 Good Charlotte - Say Anything (30 Nov 2025)
+1 HIM - Buried Alive By Love (17 Sept 2025)
+1 How does Arabic UFO Party sound on bass? An Alien F... (1 Sept 2025)
+1 The Bloodhound Gang - Foxtrot Uniform Charlie Kil... (29 Nov 2025)
+1 Devouring the heaviest, most chaotic metalcore breakd... (19 Jul 2026)
+1 Salem's shadow in Abigail - Motionless In White bass pl... (26 Oct 2022)
+28 visible rows total 40 views, matching the chart; not independent proof of
+complete coverage. Two Green Day rows have different publication dates.
+
+Visible Shorts, 48h / 60m, publication date:
+105 / 1  5 Jun 2024  009 Sound System - Dreamscape
+10 / 0  16 Jun 2026  Restless Good Charlotte bass on 'A New Beginning'...
+8 / 0   23 Jul 2024  Rammstein - Das Modell (Kraftwerk Cover)
+8 / 0    4 Apr 2025  Maximum The Hormone - ChuChu Lovely MuniMuni Mu...
+7 / 0    7 Jul 2025  9mm Parabellum Bullet - Inferno (TV Size)
+7 / 0    7 Jul 2024  My Chemical Romance - Helena
+6 / 0   24 Jan 2025  Celldweller - Switchback
+6 / 0   10 Apr 2025  Down - Eyes Of The South
+5 / 0   11 May 2025  Silverstein - Bleeds No More
+5 / 0   31 May 2026  Rocksmith Bass - 26 Or 6 To 4 (Chicago) | Full Co...
+5 / 1   19 Jul 2024  Rammstein - Bestrafe Mich
+5 / 0   11 Oct 2025  Mindless Self Indulgence - Mastermind
+5 / 0   11 May 2025  Bathory - In Nomine Satanas
+5 / 0   31 Oct 2022  System Of A Down - Lonely Day
+4 / 0   13 Mar 2025  Korpiklaani - Vodka
+4 / 2   28 Jul 2025  16 Volt - Suffering You
+4 / 0   23 Mar 2025  Finntroll - Trollhammaren
+4 / 0   17 Apr 2024  Rammstein - Amour
+4 / 0   18 May 2024  Red Hot Chili Peppers - Dosed
+4 / 0   27 Apr 2025  Green Day - Restless Heart Syndrome
+4 / 0   11 Apr 2025  Carnivore - Race War
+4 / 2    1 Jul 2024  Sabaton - Ruina Imperii
+4 / 0   18 Jul 2024  Avenged Sevenfold - Shepherd Of Fire
+4 / 0   29 Jan 2025  Burzum - Jesus' Tod
+4 / 0   18 Nov 2025  Survivor - High On You
+4 / 0   11 Nov 2025  Rage Against The Machine - Bombtrack
+4 / 0   11 Sept 2025 Sabaton - Wehrmacht
+4 / 0   28 Jan 2025  Lostprophets - Last Train Home (partly visible)
+28 visible Shorts rows total 243/6. Other 480/16 chart views are not attributed
+in these rows; possible capture-time differences apply. Dreamscape accounts for
+105/723 = 14.5% of the Shorts 48h total and is the leading visible Short.
+
+Comparison with 03-11 filtered snapshot: Videos 39 to 40 (+1); Shorts 707 to
+723 (+16); two-format sum 746 to 763 (+17, about 2.3%). Last-hour totals
+Videos 4 to 0 and Shorts 29 to 22; combined 33 to 22. Dreamscape 102 to 105
+in rolling 48h, while its last-hour count fell from 6 to 1. These are overlapping
+rolling windows, potentially asynchronous, not daily gains, attribution, or
+proof of a trend. Viewer geography, discovery/suggested sources, impressions,
+CTR, watch time, subscriber changes, revenue and rights are not shown here.
+
+Action: Observe Dreamscape and repeated artists but do not replicate titles or
+change chronological review order on these counts alone. Compare 28-day source,
+retention, reach and geographic reports and verify actual upload/version and
+rights before recommendations or copy. Visible updated titles A Prophecy and
+Amy Winehouse receive one view each; this does not show that edits caused it.
+Historical snapshots are reviewed at task time, not continuously monitored.
+################################################################################
