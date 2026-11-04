@@ -154,5 +154,5 @@
   "uncertainties_and_removed_claims": "The band identifies the king as inspiration; no unverifiable production or instrument details. Historical screenshots are partial, not current status; genre is subjective. 2026-11-03: Artist-level genre list aligned across this artist; other surfaces await the later strategy pass. 2026-11-03: Band-wide genres are subjective; tags indicate relevant name associations, not search demand, recording participation, or performer appearance in MAVO video. Title CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  "collision_report_sha256": "daf38c01aadac6ecb7cbbd53bdba91d526c74321bdaea2231c0b9c57bb3cdd59"
 }

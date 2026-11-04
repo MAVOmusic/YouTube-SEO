@@ -184,5 +184,5 @@
   "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Another Life angles in 0002 and 0004 concern fan feedback and the official video director; this upload uses songwriting credits. Genre evidence can be release- or album-level. Only relevant visible search phrases were retained; unrelated, ambiguous or misleading search noise was excluded. 2026-11-03: genre list is artist-level. People tags signify band or song associations, not original recording credit or appearance in MAVO video. Spelling observations do not prove YouTube search frequency. Title effectiveness untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
-  "collision_report_sha256": "d0b6f5de89aebc435f4cb0842720b79217d55b6c55b32352d8b007b276f34316"
+  "collision_report_sha256": "a83c03da983df2ce224fb315c7b95d2d5cec6b1b1833a228ce94bcd08921c68e"
 }

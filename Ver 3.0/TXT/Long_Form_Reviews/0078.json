@@ -1,0 +1,170 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "2e3150a49e9d90be294390f34b01062843ff4172284ac98c03063caa6cfbc730",
+    "description": "13be8157b12756b0581c5290f2459a4c6274c99c8bcb8ff4e1db817dc336f341",
+    "tags": "63714c89874816b51ade9b0fa1062b293f98d3b0b2e85b67fc6c5d8aee82868d",
+    "pinned comment": "8e18519df36bc48e3faa8d85c2dfce3259033c6a1866c6f9b0a097172f8dcd64",
+    "genres": "7248d64a601360c3a7254b87447806181634cb0489c7e57ae8745c6dc67ba9cf"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Billy Talent II in the bass chair: This Suffering | Rocksmith",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; user-confirmed bass performance",
+      "assessment": "Title identity and recording context checked; no artist appearance implied."
+    },
+    {
+      "surface": "description",
+      "claim": "On the 2006 Billy Talent II track list, This Suffering follows Red Flag. The album credits Jon Gallant on bass; I am playing my own take here with Rocksmith on screen.",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; user-confirmed bass performance",
+      "assessment": "Album facts distinguished from creator performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt ; user-confirmed Discord invite",
+      "assessment": "Invitations without promised rewards or schedule."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy talent",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "this suffering",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy talent this suffering",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "this suffering bass",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "billy talent ii",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "jon gallant",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "jonathan gallant",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "ben kowalewicz",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "ian dsa",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "punk rock",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "alternative rock",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0078 - Billy Talent - This Suffering (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Billy Talent/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Does a bassline or a vocal hook catch your ear first in punk rock?",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Audience question; no claim of current pin."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level genre, subjective; not necessarily track-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Punk rock",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level genre, subjective; not necessarily track-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Post-hardcore",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level genre, subjective; not necessarily track-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level genre, subjective; not necessarily track-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Emo",
+      "source": "https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent",
+      "assessment": "Artist-level genre, subjective; not necessarily track-level."
+    }
+  ],
+  "distinct_fact_and_source": "On the 2006 Billy Talent II track list, This Suffering follows Red Flag. The album credits Jon Gallant on bass; I am playing my own take here with Rocksmith on screen. ; https://www.discogs.com/release/727005-Billy-Talent-Billy-Talent-II ; https://en.wikipedia.org/wiki/Billy_Talent",
+  "uniqueness_assessment": "Compared accessible copy and registers and reviewed five-word signals. Generic terminology, song titles and platform references can recur; uniqueness across inaccessible uploads cannot be proved.",
+  "uncertainties_and_removed_claims": "Historical screenshots cannot establish current pins, earnings or restrictions. Search demand and metadata impact are unmeasured; genre is artist-level. Artist names in tags do not imply appearance.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "db7e0e718b2e5d2ea83b42cb53fb4ab37fb7607ce91681f291eab856431fee1a"
+}

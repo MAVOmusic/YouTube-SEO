@@ -28,3 +28,9 @@ Previously reviewed claims and sources; check sources and current copy before re
 - It appears on the 2005 album Hold Your Colour.
   - Source: https://rateyourmusic.com/release/single/pendulum/tarantula-fasten-your-seatbelt/ ; https://rateyourmusic.com/release/album/pendulum/hold-your-colour/; https://www.whosampled.com/Pendulum/Tarantula/
 
+
+### CO-0076 - 9,000 Miles
+
+- On Pendulum's In Silico, 9,000 Miles credits Peredur ap Gwynedd on acoustic guitar. Here I play the song on bass with the Rocksmith display.
+- Source: https://www.discogs.com/release/20141890-Pendulum-In-Silico ; https://en.wikipedia.org/wiki/Pendulum_(drum_and_bass_band)
+- Member associations do not imply appearance in MAVO performance.

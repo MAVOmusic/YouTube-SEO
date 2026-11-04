@@ -1,0 +1,146 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "c795e0990a9d616d18a2bb91797a22dfd009f00bbe5ae54ef698e22769d57be3",
+    "description": "5e5b39f54b72da46b415c5b6e5d65d4fca470ddc004e2e58c7253256627f5660",
+    "tags": "8e9b6d046c890d069ce847ffdcf853165fc407e7439b0bf10d6ac38b103dcef1",
+    "pinned comment": "dc4a2d1e220e9a6548e739953fc8aff8bec5718e7fa164b92a90e250e9dbad4e",
+    "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "The battle behind Blood Of Bannockburn | Sabaton bass cover",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; user-confirmed bass performance",
+      "assessment": "Title identity and recording context checked; no artist appearance implied."
+    },
+    {
+      "surface": "description",
+      "claim": "Sabaton's Blood Of Bannockburn takes its subject from the 1314 battle in which Robert the Bruce led the Scots against an English army. This is my bass performance with the Rocksmith display.",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; user-confirmed bass performance",
+      "assessment": "Album facts distinguished from creator performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt ; user-confirmed Discord invite",
+      "assessment": "Invitations without promised rewards or schedule."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "blood of bannockburn",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton blood of bannockburn",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "blood of bannockburn bass",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "the last stand",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "bannockburn 1314",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "robert the bruce",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "joakim broden",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "par sundstrom",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "power metal",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0079 - Sabaton - Blood Of Bannockburn (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Artist, song, member, album, genre, performance or creator association; no implied appearance or search demand."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Does a historical song make you look up the event before or after listening?",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Audience question; no claim of current pin."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power metal",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level genre, subjective; not necessarily track-level."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level genre, subjective; not necessarily track-level."
+    }
+  ],
+  "distinct_fact_and_source": "Sabaton's Blood Of Bannockburn takes its subject from the 1314 battle in which Robert the Bruce led the Scots against an English army. This is my bass performance with the Rocksmith display. ; https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+  "uniqueness_assessment": "Compared accessible copy and registers and reviewed five-word signals. Generic terminology, song titles and platform references can recur; uniqueness across inaccessible uploads cannot be proved.",
+  "uncertainties_and_removed_claims": "Historical screenshots cannot establish current pins, earnings or restrictions. Search demand and metadata impact are unmeasured; genre is artist-level. Artist names in tags do not imply appearance.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "c949b61e5fa9ad404ccf4adac184cc5e17c68fc8469a8543fa9f408c7f679509"
+}

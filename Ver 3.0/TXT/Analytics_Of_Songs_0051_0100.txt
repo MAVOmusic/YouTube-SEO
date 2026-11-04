@@ -1371,3 +1371,54 @@ limits, date windows and rounding, and none establishes present status, causal
 conclusions, reliable audience demographics or future results. Studio ratios are
 not raw like counts. Unique viewers can exceed views due to estimates/timing.
 ################################################################################
+
+2026-11-04 - CO-0076-0080 historical analytics, captures dated through 3 Nov 2026
+
+CO-0076 Pendulum - 9,000 Miles | 6:03 | 7 Sep 2025
+280 views, 2.2h, +4 subscribers, 279 unique; 948 impressions, 1.4% CTR.
+Advertising 90.7%, browse 3.9%, search 1.8%, related Shorts 1.8%, external
+0.7%, other 1.1%; search slice pendulum 9000 miles 20%. Funnel 960 impressions
+(separate data window), 1.4%, 13 engaged, 0:59, 0.21h. AVD 0:28, viewed 7.9%,
+23% at 0:30 typical; mobile watch 88.7%; premiere peak 2 / average 1.
+Historical ineligible and partially blocked; regions and reason unknown; estimated
+revenue and RPM dashes. Old creator comment uses subjective one-true-slow-burn
+assertion; proposed question avoids it. No verified current pin.
+
+CO-0077 DragonForce - My Spirit Will Go On | 7:52 | 7 Sep 2025
+287 views, 2.3h, +1 subscriber, 286 unique; 1.4k impressions, 1.0% CTR.
+Advertising 92.0%, search 3.5%, suggested 2.4%, related Shorts 0.7%, direct
+0.4%, other 1.0%. Search slice dragonforce my spirit will go on 10%. Funnel
+1.5k, 1%, 15 engaged, 0:53, 0.22h, separate window. AVD 0:28, viewed 6.0%,
+22% at 0:30 typical; mobile watch 85.9%; India 73.5%, Indonesia 16%; premiere
+peak 1 / average 1. Historically ineligible, revenue and RPM dashes.
+
+CO-0078 Billy Talent - This Suffering | 3:56 | 7 Sep 2025
+342 views, 2.3h, +4 subscribers, 345 estimated unique; 3k impressions, 1.1%
+CTR. Advertising 81%, browse 17.5%, other YouTube features 0.6%, related
+Shorts 0.6%, search 0.3%; search details insufficient. Funnel 3k, 1.1%, 32
+engaged, 0:24, 0.22h, separate window. AVD 0:23, viewed 10.1%, 19% at 0:30
+below typical; mobile watch 80.6%; India 66.7%, Indonesia 11.4%; premiere peak
+1 / average 1. Historically ineligible, revenue and RPM dashes.
+
+CO-0079 Sabaton - Blood Of Bannockburn | 2:52 | 7 Sep 2025
+290 views, 1.7h, subscriber dash, 285 unique; 3.4k impressions, 0.9% CTR.
+Advertising 84.5%, browse 10%, search 2.8%, related Shorts 1.7%, direct
+0.7%, other 0.3%. Search slice sabaton 25%; other displayed terms include
+in the blood 2014 full movie and sabaton full album, not evidence of format.
+Funnel 3.4k, 0.9%, 31 engaged, 0:28, 0.24h. AVD 0:20, viewed 12.1%, 20% at
+0:30 typical; mobile watch 95%; India 68.3%, Indonesia 4.5%. Historically
+ineligible, revenue and RPM dashes.
+
+CO-0080 U2 - Vertigo | 3:08 | 7 Sep 2025
+298 views, 1.7h, +3 subscribers, 296 unique; 1.6k impressions, 1.0% CTR.
+Advertising 92.3%, browse 6%, direct 0.3%, channel pages 0.3%, search 0.3%,
+other 0.7%; search term details insufficient. Funnel 1.6k, 1.0%, 15 engaged,
+0:46, 0.19h. AVD 0:20, viewed 10.7%, 18% at 0:30 below typical; mobile
+watch 87.9%; India 74.5%, Indonesia 8.7%. Historically ineligible, revenue
+and RPM dashes.
+
+All five snapshots showed zero realtime views in 48h; this is historical, not
+current. Paid traffic is creator-funded. Search percentages are slices and not
+proof of keyword performance. Audience and unique estimates can be limited,
+rounded or exceed views. No artist comment was visible in supplied comment
+screens, but those screens do not establish current pins.

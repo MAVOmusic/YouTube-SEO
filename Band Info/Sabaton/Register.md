@@ -109,3 +109,9 @@ Previously reviewed claims and sources; check sources and current copy before re
 - CO-0075: Christmas Truce draws on the 1914 Western Front ceasefire; Sabaton included the song on The War To End All Wars.
   - Sources: https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/
   - Title: Remembering the 1914 truce through Sabaton's Christmas Truce - bass cover
+
+### CO-0079 - Blood Of Bannockburn
+
+- Sabaton's Blood Of Bannockburn takes its subject from the 1314 battle in which Robert the Bruce led the Scots against an English army. This is my bass performance with the Rocksmith display.
+- Source: https://www.sabaton.net/discography/the-last-stand/blood-of-bannockburn/ ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/
+- Member associations do not imply appearance in MAVO performance.
