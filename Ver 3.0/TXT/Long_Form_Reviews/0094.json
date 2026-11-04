@@ -1,0 +1,152 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "a931588ca98185faa0354ac6184370f4e8a7b0cca7c745b4f166be2598a45d83",
+    "description": "ce53d7099a1da921bc1ac7171b33a783d70b481379c2fe32e00a05807b9f6df7",
+    "tags": "9b614592950e6c5b554e206a670f8efec0d2356d146ca4d38a6492e36438be57",
+    "pinned comment": "19632ca960cc7c388397995a6f39d9fb51434e6d8f2f74a969b413f7e40dcacc",
+    "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "From decoration to song: Purple Heart by Sabaton on bass",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Song identity and creator format checked; no musician appearance implied."
+    },
+    {
+      "surface": "description",
+      "claim": "Sabaton say the US Purple Heart military decoration inspired Purple Heart, a track on Primo Victoria. My bass performance follows the game overlay.",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass playing with overlay",
+      "assessment": "Fact refers to original recording or release, distinct from this bass performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt",
+      "assessment": "User-supplied destinations; no schedule or reward promise."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "purple heart",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton purple heart",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "purple heart bass",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "primo victoria",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "joakim broden",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "joakim brodén",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "par sundstrom",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "pär sundström",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "power metal",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "heavy metal",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/ ; _All Songs/_0001 Long Form/0001 - 0100/0091 - 0100/0094 - Sabaton - Purple Heart (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, song, people, format or genre association; no measured search demand implied."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which Primo Victoria track should I tackle next?",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/",
+      "assessment": "Question, not a factual assertion; current pin unknown."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power metal",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/",
+      "assessment": "Catalogue-wide subjective classification."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/",
+      "assessment": "Catalogue-wide subjective classification."
+    }
+  ],
+  "distinct_fact_and_source": "Sabaton say the US Purple Heart military decoration inspired Purple Heart, a track on Primo Victoria. My bass performance follows the game overlay. ; https://www.sabaton.net/historical-facts/first-purple-heart-awarded/ ; https://www.sabaton.net/discography/primo-victoria/",
+  "uniqueness_assessment": "Reviewed accessible copy, title and five-word signals; common platform wording and titles may recur. Global semantic originality cannot be proven.",
+  "uncertainties_and_removed_claims": "Historical images cannot establish current pins, revenue, restrictions or organic performance; genres are artist-level and subjective. Search demand and rankings not measured.",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "96d9ed31b63ba680395518da8e36129881fdd0871f2cd228d725a973e4efc6e5"
+}

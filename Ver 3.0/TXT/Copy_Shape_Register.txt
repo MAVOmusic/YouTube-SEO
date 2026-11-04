@@ -190,6 +190,11 @@
   0088    award for original performance | personal emotional response | Alicia Keys won Best Female R&B Vocal Performance at the 2005 Grammys for If I Ain't Got You. The award belongs to her original performance; this is my take on bass alongside the game overlay. | What feeling does this song bring out for you?
   0089    limited-edition bonus DVD video | bonus DVD listening habit | The limited edition of Girugamesh's 2008 album MUSIC includes a Break Down music video on its DVD. Here, my bass follows the game display. | Do you still watch bonus DVDs that came with albums?
   0090    single bass and writer credit | bass supporting guitar solo | The 1978 Sultans Of Swing single credits John Illsley on bass and Mark Knopfler as writer. I play the Dire Straits song on bass beside the in-game display. | What do you listen for when the bass supports a guitar solo?
+  0091    album single and listener revisit | a-ha released I Call Your Name as a single from East of the Sun, West of the Moon. My bass follows the on-screen Rocksmith chart. | Which song from East of the Sun, West of the Moon would you revisit?
+  0092    delayed Metalizer release | Sabaton list 7734 on Metalizer, the album released in 2007 after an earlier delay. My bass take follows the visible Rocksmith chart. | Where did 7734 first enter your Sabaton listening journey?
+  0093    album closing position | Numb is the final track on Linkin Park's 2003 album Meteora. In this cover I play bass with Rocksmith visible. | How does Numb work for you as the closing track of Meteora?
+  0094    military decoration inspiration | Sabaton say the US Purple Heart military decoration inspired Purple Heart, a track on Primo Victoria. My bass performance follows the game overlay. | Which Primo Victoria track should I tackle next?
+  0095    single remix editions | Rammstein list Ich Will on their 2001 album Mutter. The original single also included remixes by Westbam and Paul van Dyk. I cover it on bass beside the Rocksmith display. | Do you prefer hearing an original track or exploring its remixes?
 
 
 ################################################################################
