@@ -68,3 +68,7 @@ Relevant names below are artist associations, not an assertion they play on each
 - CO-0074: System Of A Down won the 2006 Best Hard Rock Performance Grammy for B.Y.O.B., a track from Mezmerize. That award belongs to the band's recording, not this cover.
   - Sources: https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/
   - Title: System Of A Down meets Rocksmith in this B.Y.O.B. bass take
+
+## Short 0001 - 2026-11-04
+
+- The Recording Academy lists Lonely Day as a 2007 Best Hard Rock Performance nominee, not a win. This is the band recording, not the cover: https://www.grammy.com/artists/serj-tankian/12666/
