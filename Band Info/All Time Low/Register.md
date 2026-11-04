@@ -46,3 +46,9 @@ Previously researched description claims; verify against sources and current cop
   - Source: https://americansongwriter.com/dear-maria-count-me-in-all-time-low-behind-the-song/
 - CO-0037: Weightless was the lead single from Nothing Personal; the original music video includes Mark Hoppus and Pete Wentz cameos. Used in description.
   - Source: https://en.wikipedia.org/wiki/Weightless_(All_Time_Low_song)
+
+## 2026-11-04 song research and usage
+
+- CO-0072: Butch Walker produced All Time Low's original recording of Damned If I Do Ya (Damned If I Don't), released on Nothing Personal in 2009.
+  - Sources: https://alltimelow.bandcamp.com/track/damned-if-i-do-ya-damned-if-i-dont ; https://audiomack.com/alltimelow/song/damned-if-i-do-ya-damned-if-i-dont-1
+  - Title: Playing All Time Low's Damned If I Do Ya (Damned If I Don't) on bass

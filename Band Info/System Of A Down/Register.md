@@ -62,3 +62,9 @@ Relevant names below are artist associations, not an assertion they play on each
 - Artist or contributor tag: serj tankian - https://www.metalkingdom.net/band/system-of-a-down-24308
 - Artist or contributor tag: shavo odadjian - https://www.metalkingdom.net/band/system-of-a-down-24308
 - Artist or contributor tag: system of a dowm - https://www.kboing.com.br/playlists/548247/
+
+## 2026-11-04 song research and usage
+
+- CO-0074: System Of A Down won the 2006 Best Hard Rock Performance Grammy for B.Y.O.B., a track from Mezmerize. That award belongs to the band's recording, not this cover.
+  - Sources: https://www.grammy.com/news/grammycom-exclusive-first-listen-serj-tankian/
+  - Title: System Of A Down meets Rocksmith in this B.Y.O.B. bass take

@@ -1,0 +1,146 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "6592fc50e13cc46f5d259cbb47977722d42e55b1bfaa89de44dc15f7a0e076e8",
+    "description": "3a1a42a5d12078ba8721ad0d34d82da76ed3d2f13e9ae133b88b2f9e6aec4725",
+    "tags": "e9bdb89ade0206e0152adc0b2a655dbbf223cc9fd0ba959771b888495e18a7fe",
+    "pinned comment": "057fd4b7e575237a4d018fd44bae800d3c4c40cd9f1e73c8fef92ca432f531f8",
+    "genres": "cfe09cb2cc046a2cbe8117d38ad8356c755121b93e79cf95c77257dbc7b0ce20"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Remembering the 1914 truce through Sabaton's Christmas Truce - bass cover",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing while overlay visible",
+      "assessment": "Artist and song identity and creator performance checked; editorial title is not a proven CTR improvement or a claim of artist appearance."
+    },
+    {
+      "surface": "description",
+      "claim": "Christmas Truce draws on the 1914 Western Front ceasefire; Sabaton included the song on The War To End All Wars.",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/",
+      "assessment": "Source checked for the specified song, recording, historical account or release; album credit is not a claim about MAVO recording."
+    },
+    {
+      "surface": "description",
+      "claim": "You can see the game display as I play this bass cover.",
+      "source": "_All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; MAVO confirms bass playing during overlay",
+      "assessment": "Screenshot and user confirmed performance format; no inferred tuning, live presence of artist, or continuous display."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt ; user-confirmed Discord invite",
+      "assessment": "Invitations follow required order, with optional Discord boost; no unsupported schedule or reward."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which piece of music brings an unexpected peaceful moment to mind?",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/",
+      "assessment": "Opinion or recommendation question, no asserted fact or promise; no artist comment visible in historical screenshot, not proof of current pin."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "christmas truce",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "sabaton christmas truce",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "the war to end all wars",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "christmas truce 1914",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "western front",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "joakim broden",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "par sundstrom",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "power metal",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/ ; _All Songs/_0001 Long Form/0001 - 0100/0071 - 0080/0075 - Sabaton - Christmas Truce (Long Form)/_01 - Main Info/_01 Description.jpeg ; https://www.pressure-magazine.de/bandprofil/sabaton-266680/ ; Band Info/Sabaton/Register.md",
+      "assessment": "Relevant artist, associated member or producer, song, album, setting or creator identity. Name association does not imply appearance in this performance; demand and tag benefit unmeasured."
+    },
+    {
+      "surface": "genres",
+      "claim": "Power metal",
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level catalogue classification; not a claim that this particular song fits every genre."
+    },
+    {
+      "surface": "genres",
+      "claim": "Heavy metal",
+      "source": "https://www.pressure-magazine.de/bandprofil/sabaton-266680/",
+      "assessment": "Artist-level catalogue classification; not a claim that this particular song fits every genre."
+    }
+  ],
+  "distinct_fact_and_source": "Christmas Truce draws on the 1914 Western Front ceasefire; Sabaton included the song on The War To End All Wars. ; https://www.sabaton.net/discography/the-war-to-end-all-wars/ ; https://www.sabaton.net/news/music/listen-to-christmas-truce-and-watch-the-music-video/",
+  "uniqueness_assessment": "Reviewed against available 0001-0075 copy, title/artist registers, and cross-song signals. Similar ordinary terminology and artist or song names can be unavoidable. Cannot establish semantic uniqueness across inaccessible material.",
+  "uncertainties_and_removed_claims": "Screenshot is historical; it cannot establish current pin, restriction or revenue. Genre labels are subjective and band-level. Search demand and tag/title effectiveness not measured. ",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "70aef38db28e291bc6b38d796e63f9b72c8886398d21943f5138c33f71690f90"
+}

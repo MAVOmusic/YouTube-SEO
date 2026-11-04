@@ -144,6 +144,11 @@
   0068    song gets instrument spin - artist | Go Your Own Way gets a bass spin - Fleetwood Mac
   0069    song on instrument: artist and year award | Losing My Religion on bass: R.E.M. and a 1992 Grammy
   0070    song | early artist on instrument | Standing In The Rain | early Billy Talent on bass
+  0071    at historic location with artist: song instrument cover | At Thermopylae with Sabaton: Sparta bass cover
+  0072    playing artist song with parenthetical title on instrument | Playing All Time Low's Damned If I Do Ya (Damned If I Don't) on bass
+  0073    artist - song: instrument through platform chart | Asking Alexandria - A Prophecy: bass through the Rocksmith chart
+  0074    artist meets platform in this song instrument take | System Of A Down meets Rocksmith in this B.Y.O.B. bass take
+  0075    remembering historical event through artist song - instrument cover | Remembering the 1914 truce through Sabaton's Christmas Truce - bass cover
 
 
 ################################################################################
