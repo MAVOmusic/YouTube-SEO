@@ -184,5 +184,5 @@
   "uncertainties_and_removed_claims": "Removed unsupported note-by-note, runtime, intent and superlative claims. Search and comments screenshots are partial historical evidence, not complete reports or current state. Genres are subjective. 2026-11-03: Artist-level genres and relevant person tags do not prove individual recording credits or YouTube search demand. CTR untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  "collision_report_sha256": "d455baead7ee9de77fce9e94ddd63c6ea0a696b9495f7f049f60d0c33c4fabc7"
 }

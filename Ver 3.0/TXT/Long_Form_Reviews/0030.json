@@ -182,7 +182,7 @@
   "distinct_fact_and_source": "Pendulum and DJ Fresh release featuring Spyda and Tenor Fly, on Hold Your Colour. https://rateyourmusic.com/release/single/pendulum/tarantula-fasten-your-seatbelt/ ; https://rateyourmusic.com/release/album/pendulum/hold-your-colour/",
   "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
   "uncertainties_and_removed_claims": "Removed speculative title origin, sales figure, duration comparison and alleged sample/stem provenance; collaboration facts use release listings. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. Subgenre evidence is for the double-sided single release, not necessarily Tarantula alone. 2026-11-03: genre list describes the artist, not necessarily the recording; name tags reflect artist associations, not the presence of a performer in this cover. Click and query frequency not tested.",
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "collision_report_sha256": "b9b40ce75357b8fdf82f645c68211df12e3412e4da4f291da66156e1e4c2eba2",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
 }

@@ -1,0 +1,152 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-04",
+  "surface_sha256": {
+    "title": "760a5f19d2120c0c712bfe49f344106dd2765bdff3b697cd09c6521fef47fb02",
+    "description": "42a6f441c9154531c18622e07aa425f8dc62fad24d46869b19020cf04eefd2e8",
+    "tags": "587a4bec46bf2faa0390c28ebcdf7a508cd2642305a6744b07113acf73027d0a",
+    "pinned comment": "9469b78e1fd5c97cc71ea1b7a84304ba8df042f1e885eea7df14b41cb7e6f4e3",
+    "genres": "b979af642a00669e99e3cd6b8809b44ad7f28634c201f8a3778fa5d58002227e"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Keine Lust goes low: Rammstein on Rocksmith bass",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass during overlay",
+      "assessment": "Recording identity and performance format checked; artist presence not implied."
+    },
+    {
+      "surface": "description",
+      "claim": "Jorn Heitmann directed Rammstein's Keine Lust video, which premiered in 2005. Here I play the Reise, Reise track on bass with the Rocksmith display.",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; creator confirms bass during overlay",
+      "assessment": "Original recording or video fact distinguished from creator performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror, Discord community invitations",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt",
+      "assessment": "User-supplied links, no reward or schedule promise."
+    },
+    {
+      "surface": "tags",
+      "claim": "rammstein",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "ramstein",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "keine lust",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rammstein keine lust",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "keine lust bass",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "reise reise",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "till lindemann",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "oliver riedel",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "richard kruspe",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "industrial metal",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "neue deutsche harte",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "rocksmith bass",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusic",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "tags",
+      "claim": "mavomusicyt",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein ; _All Songs/_0001 Long Form/0001 - 0100/0081 - 0090/0081 - Rammstein - Keine Lust (Long Form)/_01 - Main Info/_01 Description.jpeg ; Band Info/Rammstein/Register.md",
+      "assessment": "Relevant artist, song, credited associate, album, format, creator or genre; no appearance or search-demand claim."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Which Rammstein video would you revisit for its visual ideas?",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Opinion question; screenshot cannot establish current pin."
+    },
+    {
+      "surface": "genres",
+      "claim": "Neue Deutsche Haerte",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Artist classification, subjective and not necessarily applicable to every song."
+    },
+    {
+      "surface": "genres",
+      "claim": "Industrial metal",
+      "source": "https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein",
+      "assessment": "Artist classification, subjective and not necessarily applicable to every song."
+    }
+  ],
+  "distinct_fact_and_source": "Jorn Heitmann directed Rammstein's Keine Lust video, which premiered in 2005. Here I play the Reise, Reise track on bass with the Rocksmith display. ; https://www.rammstein.de/en/history/keinelustvideo/ ; https://www.wikiwand.com/en/Rammstein",
+  "uniqueness_assessment": "Reviewed available 0001-0085 copy, registers and five-word signals; common artist names, song titles and platform wording may recur. Inaccessible uploads cannot be compared.",
+  "uncertainties_and_removed_claims": "Historical images do not show current pins, restrictions or earning; search demand and metadata impact not measured. Genres are subjective artist-level classifications. ",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true,
+  "collision_report_sha256": "dc1e235116a3f273fc5861c23cf6042449574d40aa0a4a11eebb0ac5b33e4f8f"
+}

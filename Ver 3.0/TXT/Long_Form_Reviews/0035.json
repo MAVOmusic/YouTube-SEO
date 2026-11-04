@@ -178,5 +178,5 @@
   "uncertainties_and_removed_claims": "Historic screenshots do not establish current metadata or all queries. Removed unsupported claims about detailed playing, one-take recording, timing, intent and superlatives. Genre evidence can be release- or album-level. Search panel shows insufficient traffic data; no query-specific tags attributed to it. 2026-11-03: genre list is artist-level. People tags signify band or song associations, not original recording credit or appearance in MAVO video. Spelling observations do not prove YouTube search frequency. Title effectiveness untested.",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true,
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  "collision_report_sha256": "1073136b4626ef1ff5a0e150a17fbf0837ae4d1af2732657f4bc5dc2041428a8"
 }
