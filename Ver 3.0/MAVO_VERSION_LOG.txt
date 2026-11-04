@@ -175,3 +175,5 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-04: Added a further 23 artist genre registers (45 new in total); existing registers retained. Attack Attack! is the Ohio band, not the similarly named Welsh act. Check all source classifications and versions at release.
 
 2026-11-04: Reviewed all four 04-11 channel real-time screenshots and recorded chart totals, visible rows, comparison and limitations in TXT/Channel_Analytics_Store.txt. No SEO causation, revenue or geography inferred; chronological review unchanged.
+
+2026-11-04: User reports 672 existing long-form uploads and 2,419 existing Shorts; next new uploads are long-form #0673 and Short #2420 (user corrected initial Short numbering). Treat these as user-reported counts, not independently verified. Suggested parallel 100-per-format planning blocks, retaining five-at-a-time long-form review and all existing release gates; recommendation is not a user-approved workflow change.
