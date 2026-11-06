@@ -43,7 +43,7 @@ def extract(path):
 
 def inventory():
     found = defaultdict(list)
-    for p in ROOT.glob('_All Songs/**/_03 - Copy.md'):
+    for p in ROOT.glob('_All Songs/_0001 Long Form/**/_03 - Copy.md'):
         m = re.match(r'^(\d{4}) - ', p.parent.name)
         if m:
             found[m.group(1)].append(p)

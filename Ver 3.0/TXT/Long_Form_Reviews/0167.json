@@ -1,0 +1,74 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-06T19:43:07.863668+00:00",
+  "surface_sha256": {
+    "title": "7324a4f432cfab0d48bc3b3b3842611dd40a3ced9caf82de0b4273333cbbedea",
+    "description": "2735dfd086fdffabaec33cc452923c4f5e201879d11f0eacf72b12dccddca044",
+    "tags": "9ba563aa8b8bc4a5fd8682caed694b1ce0260d6257f48584011ec24e8106924f",
+    "pinned comment": "dd4d83d6cca5ebf430359ddd56d3c9ed9f959f2d6bcf4903acf51b1fceac5565",
+    "genres": "5edab9b53d36472e0d9ef065b325313cf6c627159215ee30220e49086c721888"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Artist, song and creator bass performance",
+      "source": "User recording identification; supplied Studio screenshot for 0167",
+      "assessment": "Identifies the song and creator performance; new recording should be checked by uploader."
+    },
+    {
+      "surface": "tags",
+      "claim": "Song, artist and associated names; bass cover",
+      "source": "https://genius.com/My-chemical-romance-welcome-to-the-black-parade-lyrics",
+      "assessment": "Song identity and credits; tags are associations, not performers in MAVO recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock, emo, pop punk, post-hardcore are artist-wide genres",
+      "source": "Band Info/My Chemical Romance/Register.md",
+      "assessment": "Existing consistent artist-wide classification, not all necessarily song-level."
+    },
+    {
+      "surface": "description",
+      "claim": "Rocksmith 2014 bass performance during Kick stream",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0101 - 0200/0161 - 0170/0167 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Studio detail screenshot and visible performance."
+    },
+    {
+      "surface": "tags",
+      "claim": "Rocksmith bass",
+      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0101 - 0200/0161 - 0170/0167 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Studio shows game and bass performance."
+    },
+    {
+      "surface": "description",
+      "claim": "2006 MTV Video Music Awards live television performance",
+      "source": "https://www.songfacts.com/facts/my-chemical-romance/welcome-to-the-black-parade",
+      "assessment": "Source explicitly supports this historical claim; not evidence of current popularity."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "2006 MTV Video Music Awards live television performance",
+      "source": "https://www.songfacts.com/facts/my-chemical-romance/welcome-to-the-black-parade",
+      "assessment": "Source explicitly supports this historical claim; not evidence of current popularity."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick and Twitch mirror; Discord invitation",
+      "source": "User standing instructions and confirmed Discord invite",
+      "assessment": "Links based on user-confirmed information; not a guarantee of current broadcast schedule."
+    }
+  ],
+  "distinct_fact_and_source": "2006 MTV Video Music Awards live television performance - https://www.songfacts.com/facts/my-chemical-romance/welcome-to-the-black-parade; separate from 0009 track placement and the other new MCR copies.",
+  "uniqueness_assessment": "Reviewed 16 five-word signals: song-name matches are necessary; common Kick/Twitch phrases are functional links. Compared the available same-song copy 0009 and the six new drafts, their different fact angles, CTAs and title shapes. Unavailable or unrevised live-only material cannot be checked. No scan proves semantic uniqueness.",
+  "uncertainties_and_removed_claims": "Do not assert chart status or game version for new recording. User identified new recording; verify actual file. Historic Studio screenshots cannot prove current claims, pin or territory availability.",
+  "collision_report_sha256": "9d8b032053491bc4eaf07c1d56765fbf5f7492ede4377ad6b1375e1429c88514",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

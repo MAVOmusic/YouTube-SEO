@@ -35,3 +35,20 @@ class PreservedPinTest(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+class InventoryScopeTest(unittest.TestCase):
+    def test_short_ids_do_not_collide_with_long_form_ids(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            for category in ('_0001 Long Form', '_0002 Short Form'):
+                path = root / '_All Songs' / category / '0001 - 0100' / '0001 - example' / '_03 - Copy.md'
+                path.parent.mkdir(parents=True)
+                path.write_text('sample', encoding='utf-8')
+            original = gate.ROOT
+            try:
+                gate.ROOT = root
+                items = gate.inventory()
+                self.assertEqual(len(items['0001']), 1)
+                self.assertIn('_0001 Long Form', str(items['0001'][0]))
+            finally:
+                gate.ROOT = original

@@ -343,3 +343,15 @@ Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every la
 2026-11-06 SHORT 0009 | song takes flight on bass | artist + hashtag | Arabic UFO Party takes flight on bass | Alien Fucker #rocksmith
 
 2026-11-06 SHORT 0010 | hear song through my bass | artist on platform + hashtag | Hear X-Kid through my bass | Green Day on Rocksmith #bass
+
+2026-11-06 LONG FORM 0167 | MCR Black Parade | My Chemical Romance on bass: Welcome To The Black Parade live-stream performance
+
+2026-11-06 LONG FORM 0673 | MCR Black Parade | Welcome To The Black Parade on bass | My Chemical Romance, start to finish
+
+2026-11-06 SHORT FORM 0068 | MCR Black Parade | Bass through the Black Parade | My Chemical Romance #bass
+
+2026-11-06 SHORT FORM 1434 | MCR Black Parade | Rocksmith bass meets Welcome To The Black Parade | My Chemical Romance
+
+2026-11-06 SHORT FORM 1912 | MCR Black Parade | Welcome To The Black Parade in a bass spotlight - My Chemical Romance
+
+2026-11-06 SHORT FORM 2420 | MCR Black Parade | My Chemical Romance meets bass on Welcome To The Black Parade #bass
