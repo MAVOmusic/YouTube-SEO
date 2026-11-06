@@ -155,3 +155,7 @@ Previously reviewed claims and sources; check sources and current copy before re
 ## Short 0006 - 2026-11-06
 
 - Stan Ridgway's Camouflage appears on his album The Big Heat: https://www.shazam.com/song/723757428/camouflage. Sabaton confirms its song is a cover: https://www.sabaton.net/video/episode-129-camouflage-and-a-history-of-military-deception/. The Big Heat angle is distinct from CO-0023.
+
+## Short 0007 - 2026-11-06
+
+- The band credits The Hammer Has Fallen's music to Broden and lyrics to Sundstrom: https://www.sabaton.net/discography/metalizer/the-hammer-has-fallen/ . Different angle from CO-0024's Fist for Fight release and track placement.
