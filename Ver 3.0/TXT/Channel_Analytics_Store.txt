@@ -564,3 +564,76 @@ rights before recommendations or copy. Visible updated titles A Prophecy and
 Amy Winehouse receive one view each; this does not show that edits caused it.
 Historical snapshots are reviewed at task time, not continuously monitored.
 ################################################################################
+
+################################################################################
+## CA-2026-11-06 | all-content realtime snapshot
+################################################################################
+Source: _All Songs/0000 - Channel Analytics/Channel Analytics - 2026-11-06/
+Analytics Part 1.jpeg and Analytics Part 2.jpeg, individually inspected. User
+confirms switch from split format results to all videos. The first image shows
+all-content charts and initial rows; the second shows the continuation. No
+capture time is supplied and the two images could be slightly asynchronous.
+
+All-content chart: 719 views in last 48 hours; 16 views in last 60 minutes.
+The 16-view snapshot is 1.6% of the 1,000 views/hour aspiration, not a forecast.
+The two windows overlap; don't add their totals or interpret 719 as a daily total.
+
+Visible rows, 48h / 60m, publication date, truncated title as shown:
+51 / 2  5 Jun 2024     009 Sound System - Dreamscape (Bass)
+15 / 0  28 Jul 2025    16 Volt - Suffering You
+14 / 0  31 May 2026    Rocksmith Bass - 26 Or 6 To 4 (Chicago) | Full Co...
+13 / 1  4 Apr 2025     Maximum The Hormone - ChuChu Lovely MuniMuni Mu...
+10 / 0  18 Oct 2025    Lady Gaga - Bad Romance
+ 8 / 0  31 Oct 2022    Bass picks up Lonely Day | System Of A Down on Rocks...
+ 6 / 0  11 Apr 2025    DJ Shadow - Nobody Speak (Feat. Run The Jewels)
+ 6 / 0  7 Jul 2024     My Chemical Romance - Helena (Bass)
+ 6 / 0  12 Jun 2024    ...And You Will Know Us By The Trail Of Dead - Relative...
+ 5 / 0  25 May 2025    Muse - Muscle Museum
+ 5 / 0  16 Dec 2024    04 Limited Sazabys - Utopia
+ 5 / 0  27 Oct 2025    Pendulum - Hold Your Color
+ 5 / 0  11 Oct 2025    Mindless Self Indulgence - Mastermind
+ 5 / 0  17 Jun 2024    My Chemical Romance - This Is How I Disappear (Bass)...
+ 5 / 0  31 May 2024    John Denver - Take Me Home, Country Roads (Bass)
+ 5 / 0  6 Jul 2024     Korn - Twisted Transistor (Bass)
+ 4 / 0  26 Jul 2025    Evanescence - Everybody's Fool
+ 4 / 0  14 Dec 2024    Slipknot - Snuff
+ 4 / 2  22 Mar 2025    Pendulum - The Tempest
+ 4 / 0  13 Jul 2024    Mourning in slow motion - Till's goodbye on bass! ...
+ 4 / 0  18 May 2024    Red Hot Chili Peppers - Dosed (Bass)
+ 4 / 0  21 Jul 2026    Jeff Ament's legendary 1991 grunge bass tone! ...
+ 4 / 3  24 Apr 2024    +44 - Make You Smile (Bass)
+ 4 / 0  18 Oct 2025    ...And You Will Know Us By The Trail Of Dead - Rela...
+ 4 / 0  25 Apr 2024    +44 - When Your Heart Stops Beating (Bass)
+ 4 / 0  6 Dec 2024     Magic Wands - Black Magic
+ 4 / 0  10 Jun 2024    System Of A Down - Toxicity
+ 4 / 0  13 Feb 2025    Lonely Day turns System Of A Down's intensity inward - ...
+ 4 / 0  3 Jun 2024     Sabaton - Hill 3234
+ 4 / 0  4 Nov 2024     We Butter The Bread With Butter - Ich Mach Was Mit Me...
+
+The 30 visible rows sum to 220 views over 48h and 8 over 60m. The other 499
+and 8 chart views respectively are not attributed in the visible rows; possible
+capture-time differences apply. Two Trail Of Dead rows have different dates and
+are not assumed to be the same upload. Titles truncated above must not be guessed.
+
+Interpretation:
+- Dreamscape leads the visible 48h list: 51/719 = 7.1% of all-content total;
+  16 Volt is second at 15, Chicago third at 14. 16 Volt has risen from 4 in the
+  04-11 visible Shorts snapshot to 15 in the 06-11 all-content list; Dreamscape
+  was 105 on 04-11 vs 51 now. These are rolling snapshots at unknown times,
+  not daily gains or proof of a durable trend or any cause.
+- The updated Lonely Day Short title appears with 8 views; the long-form title
+  appears separately with 4. On 04-11 they appeared with 5 and 2 respectively.
+  Counts are small, windows differ and overlap, and SEO changes cannot be
+  credited from these numbers. Published dates support distinguishing the rows.
+- The two-format 04-11 snapshot total was approximately 763 and the all-content
+  total now is 719, 44 fewer numerically. The prior snapshots could be
+  asynchronous and exclude other formats, so this is not a like-for-like channel
+  delta. Similarly 22 vs 16 last-hour views is not a reliable trend comparison.
+- Multiple artist and genre lanes appear, but this image has no discovery/suggested
+  source, viewer geography, impressions/CTR, retention, watch time, revenue, new
+  upload history or rights data. It cannot show whether distribution is held
+  back or forecast the effects of restarting uploads. Continue chronological
+  reviews, one Short at a time, and use comparable 28-day source and audience
+  reports for stronger decisions. Preserve historical monetary evidence; no new
+  earning conclusion is possible from these screenshots.
+################################################################################

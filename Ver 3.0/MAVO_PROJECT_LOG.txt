@@ -725,3 +725,5 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-04: Reviewed all 13 SHORT 0002 Primus South Park Theme images, logged historical analytics and sourced trivia, prepared unique copy and genre reference. Screenshot shows similarly named related video, but full-version identity and comparative performance unverified; confirm before publishing related-video CTA. No artist comment/current pin established.
 
 2026-11-04: User clarifies most existing Shorts related videos are their matching long forms, although those long forms often still await SEO. Do not delay Short work until related long-form SEO is done or routinely request confirmation absent a genuine identity issue. SHORT 0002 screenshot shows matching title but not destination length; do not claim exact target or performance independently verified.
+
+2026-11-06: Reviewed both 06-11 all-content realtime screenshots; recorded full chart totals, 30 visible rows, historical comparison and evidence limitations in TXT/Channel_Analytics_Store.txt. All-content totals are not directly comparable to asynchronous split-format snapshots; no causal or revenue claims.
