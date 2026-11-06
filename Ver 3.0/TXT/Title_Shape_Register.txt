@@ -327,3 +327,5 @@ Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every la
 2026-11-04 SHORT 0001 correction | same registered shape, add relevant optional hashtag: Bass picks up Lonely Day | System Of A Down on Rocksmith #bass
 
 2026-11-04 SHORT 0002 | song through artist and platform instrument + hashtag | South Park Theme through Primus and Rocksmith bass #primus
+
+2026-11-06 SHORT 0003 | song in focus: artist instrument + hashtag | Take The Power Back in focus: Rage Against The Machine bass #bass

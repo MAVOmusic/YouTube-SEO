@@ -39,3 +39,7 @@ Relevant names below are artist associations, not an assertion they play on each
 
 - zack de la rocha - https://en.wikipedia.org/wiki/Rage_Against_the_Machine
 - tom morello - https://en.wikipedia.org/wiki/Rage_Against_the_Machine
+
+## Short 0003 - 2026-11-06
+
+- Take The Power Back appears on the original demos CD in the 20th anniversary deluxe box set. Sony press announcement: https://www.sony.com/en_us/SCA/company-news/press-releases/sony-music-entertainment/2012/rage-against-the-machine-to-release-20th-anniversary-box-set-on-november-27.html. This is an alternate recording, not a claim the Short uses the demo. Distinct from CO-0019 track-position angle.
