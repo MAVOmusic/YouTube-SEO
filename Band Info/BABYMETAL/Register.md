@@ -36,3 +36,7 @@ Existing per-song description claims, linked to their source and CO number. Chec
 
 - Megitsune incorporates the Japanese folk melody Sakura Sakura.
 - Source: https://www.afterglowatx.com/blog/2018/11/6/from-the-erhu-to-the-electric-guitar-3-east-asian-artists-who-keep-culture-alive-in-modern-music
+
+## Short 0004 - 2026-11-06
+
+- The 2013 Megitsune single had limited Ki, Tsu and Ne editions with live-event footage: https://blabbermouth.net/news/babymetal-to-release-debut-album-this-month. This describes releases, not the version played in the Short.
