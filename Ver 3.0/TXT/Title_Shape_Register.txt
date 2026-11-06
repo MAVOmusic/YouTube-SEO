@@ -339,3 +339,7 @@ Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every la
 2026-11-06 SHORT 0007 | song on instrument | artist in platform + hashtag | The Hammer Has Fallen on bass | Sabaton in Rocksmith #bass
 
 2026-11-06 SHORT 0008 | from instrument to instrument: artist - song + platform hashtag | From piano to bass: Aephanemer - Old French Song #rocksmith
+
+2026-11-06 SHORT 0009 | song takes flight on bass | artist + hashtag | Arabic UFO Party takes flight on bass | Alien Fucker #rocksmith
+
+2026-11-06 SHORT 0010 | hear song through my bass | artist on platform + hashtag | Hear X-Kid through my bass | Green Day on Rocksmith #bass

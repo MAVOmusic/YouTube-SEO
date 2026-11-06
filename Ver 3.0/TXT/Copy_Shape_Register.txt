@@ -372,3 +372,7 @@ open; common artist names and song names can legitimately recur.
 2026-11-06 SHORT 0007 | description: moment from song with chart and related performance; pin: split music and lyric credits plus full-take invitation. Distinct from CO-0024 release and placement.
 
 2026-11-06 SHORT 0008 | description: classical composer into band's metal sound and performance; pin: original piano collection and position plus full-performance invitation. Distinct from CO-0025 release context.
+
+2026-11-06 SHORT 0009 | performance burst; pin release production and artwork credits with full take CTA. Distinct from earlier song reviews.
+
+2026-11-06 SHORT 0010 | instrument playthrough; pin single date following album and full performance CTA. Distinct from earlier song reviews.

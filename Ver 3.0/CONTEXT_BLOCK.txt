@@ -2467,3 +2467,5 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-06 Short 0007 Sabaton The Hammer Has Fallen: 12 screenshots checked; Overview 2 is another 4:26 long-form video and excluded from Short metrics. Copy and analytics saved; related title prefix matches CO-0024. Current target and performance unverified. Preserve two viewer reply threads.
 
 2026-11-06 Short 0008 Aephanemer Old French Song: all 11 screenshots checked, copy and analytics saved. Related title prefix matches CO-0025; current target unverified. Keep separate CO-0025 artist pin.
+
+2026-11-06 Shorts 0009 and 0010: 11 screenshots each individually reviewed; analytics, distinct sourced copy and registers saved. Historical 0009 age restriction and limited ads; 0010 potential limitation. Related title prefixes match CO-0026 and CO-0027 respectively; current destination and comparative performance unverified.

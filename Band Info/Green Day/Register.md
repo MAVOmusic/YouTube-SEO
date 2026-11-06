@@ -47,3 +47,7 @@ Imported from the existing per-song reviews for this artist. CO numbers indicate
 Relevant names below are artist associations, not an assertion they play on each recording or MAVO's video. Confirm recording credits and era before making specific claims.
 
 - billie joe armstrong - https://en.wikipedia.org/wiki/Green_Day
+
+## Short 0010 - 2026-11-06
+
+- Green Day Authority lists the single on 12 February 2013 and the album appearance in 2012. Distinct from CO-0008's cassette video and song background and CO-0027's album track position/trilogy. Dates in different markets may differ. Source: https://www.greendayauthority.com/music/song/352/x-kid/
