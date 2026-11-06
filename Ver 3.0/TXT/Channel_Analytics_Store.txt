@@ -91,7 +91,7 @@ AGE / GENDER               Male 96.7% | 25-34 63.6% | 35-44 30.9% | 18-24 3.0% |
 SUBTITLES                  95.4% no subtitles/CC
 BELL STATE                 "All notifications" 0.4% (428 users) - typical 10-30%
                            "+ enabled YouTube notifications" 0.2% (174) - typical 5-20%
-WHEN VIEWERS ARE ONLINE     broad; strongest Sat/Sun and daily 17:00-22:00 local (GMT+0)
+WHEN VIEWERS ARE ONLINE     CORRECTION 2026-11-06: original transcription of 17:00-22:00 is not supported by the supplied heatmap. Visual inspection shows brighter cells especially in the afternoon, roughly 12:00-18:00 GMT, particularly Saturday/Sunday; approximate visual read only. Screenshot is GMT+0000, last 28 days to 31 Oct; see Audience 3.jpeg.
 
 --- E. REVENUE ---------------------------------------------------------------
 MONTH LADDER (est.)        May 1.31 | Jun 2.22 | Jul 2.89 | Aug 3.30 | Sep 1.20 | Oct 0.86
