@@ -8,7 +8,7 @@ The 6 Nov Full Analytics screenshots have been reviewed: see `Ver 3.0/TXT/Full_C
 
 | Budapest 7 Nov | UK | New York | Los Angeles | Proposed pair | Purpose / uncertainty |
 | --- | --- | --- | --- | --- | --- |
-| 01:00 | 00:00 | 19:00 Fri | 16:00 Fri | 0674 / 2421 Paramore - Misery Business | User's midnight start; US early evening test, not song-specific evidence. |
+| 01:00 | 00:00 | 19:00 Fri | 16:00 Fri | 0674 / 2421 Paramore - Misery Business | User's midnight start; Short 2390 UK 63.9%, US 10.7% in limited historical geo. 16:00 Budapest is an optional channel-heatmap-aligned alternative, not proven song optimum. |
 | 05:00 | 04:00 | 23:00 Fri | 20:00 Fri | 0675 / 2422 AFI - Miss Murder | US West evening test; late Eastern, no AFI time evidence. |
 | 13:30 | 12:30 | 07:30 | 04:30 | 0676 / 2423 Jimmy Eat World - Sweetness | European early afternoon and 18:00 India exploratory; not country peak evidence. |
 | 16:00 | 15:00 | 10:00 | 07:00 | 0677 / 2424 Alkaline Trio - Private Eye | Approx strongest weekend channel heatmap; not artist-specific. |
