@@ -22,10 +22,10 @@ Come hang out on Kick, or find the mirrored stream on Twitch. Discord is where t
 my chemical romance, welcome to the black parade, welcome to the black parade bass, welcome to the black parade bass cover, black parade, mcr, my chem, mikey way, gerard way, frank iero, ray toro, bass cover, bass guitar, rocksmith bass
 ```
 
-## PINNED COMMENT (164 characters)
+## PINNED COMMENT (174 characters)
 
 ```text
-Samuel Bayer directed the original Welcome To The Black Parade music video. What detail from it sticks with you? Open the related video for my full bass play-along.
+Samuel Bayer directed the original Welcome To The Black Parade music video. What detail from it sticks with you? Open the related video to hear me play the full song on bass.
 ```
 
 ## GENRE FINDINGS (internal)
@@ -44,5 +44,5 @@ Artist-wide playlist classifications, not a claim all apply to this song. See Ba
 - Distinct historical fact: https://imvdb.com/n/lukas-haas/videography-by-position/app
 - Song and bassist associations: https://genius.com/My-chemical-romance-welcome-to-the-black-parade-lyrics
 - The supplied historical Studio screenshots show Rocksmith and the creator playing bass.
-- Attach matching LF 0009 while public and accessible; historical Studio showed partially blocked, check availability. New LF 0673 may be selected when available if a closer match is preferred.
+- User will attach the new matching LF 0673 as the related video; check its availability and eligibility when selecting it.
 - Current Studio settings, live comments, claims and territories are not verified.

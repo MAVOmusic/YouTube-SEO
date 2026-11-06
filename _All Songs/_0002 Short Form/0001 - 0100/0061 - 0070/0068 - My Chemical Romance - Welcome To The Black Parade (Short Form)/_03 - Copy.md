@@ -22,10 +22,10 @@ Find more bass performances on Kick, with the stream mirrored on Twitch. Join th
 my chemical romance, welcome to the black parade, welcome to the black parade bass, welcome to the black parade bass cover, black parade, mcr, my chem, mikey way, gerard way, frank iero, ray toro, bass cover, bass guitar, rocksmith bass
 ```
 
-## PINNED COMMENT (184 characters)
+## PINNED COMMENT (187 characters)
 
 ```text
-One UK 7-inch release paired Welcome To The Black Parade with Heaven Help Us on the B-side. Find my full bass play-along via the related video and tell me which track you would choose!
+One UK 7-inch release paired Welcome To The Black Parade with Heaven Help Us on the B-side. Which would you pick? Listen to my full bass performance of the song through the related video.
 ```
 
 ## GENRE FINDINGS (internal)
@@ -44,5 +44,5 @@ Artist-wide playlist classifications, not a claim all apply to this song. See Ba
 - Distinct historical fact: https://www.discogs.com/release/876022-My-Chemical-Romance-Welcome-To-The-Black-Parade
 - Song and bassist associations: https://genius.com/My-chemical-romance-welcome-to-the-black-parade-lyrics
 - The supplied historical Studio screenshots show Rocksmith and the creator playing bass.
-- Attach matching LF 0009 while public and accessible; historical Studio showed partially blocked, check availability. New LF 0673 may be selected when available if a closer match is preferred.
+- User will attach the new matching LF 0673 as the related video; check its availability and eligibility when selecting it.
 - Current Studio settings, live comments, claims and territories are not verified.
