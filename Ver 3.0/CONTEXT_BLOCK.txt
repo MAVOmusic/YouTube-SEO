@@ -2465,3 +2465,5 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-06: Reviewed all 11 screenshots for SHORT 0006 Sabaton Camouflage, recorded GBP 0.05 estimated Shorts Feed revenue, search, audience and linked-content evidence; Shopping disabled shown, no partial block shown or rights conclusion. Preserved viewer thread; creator support comment can be edited and pinned if replacing it is acceptable. Saved distinct original-album trivia and copy in song folder and analytics in TXT/Short_Form_Analytics_0006.md.
 
 2026-11-06 Short 0007 Sabaton The Hammer Has Fallen: 12 screenshots checked; Overview 2 is another 4:26 long-form video and excluded from Short metrics. Copy and analytics saved; related title prefix matches CO-0024. Current target and performance unverified. Preserve two viewer reply threads.
+
+2026-11-06 Short 0008 Aephanemer Old French Song: all 11 screenshots checked, copy and analytics saved. Related title prefix matches CO-0025; current target unverified. Keep separate CO-0025 artist pin.

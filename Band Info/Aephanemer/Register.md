@@ -28,3 +28,7 @@ Previously reviewed claims and sources; check sources and current copy before re
 - The band released that album in 2021.
   - Source: https://metalnerd.net/aephanemer-announce-new-album-a-dream-of-wilderness/ ; https://aephanemer.com/?cat=2
 
+
+## Short 0008 - 2026-11-06
+
+- Tchaikovsky's Old French Song is No. 16 in his 24-piece piano Children's Album: https://en.tchaikovsky-research.net/pages/Children%27s_Album. Aephanemer's cover: https://metalnerd.net/aephanemer-announce-new-album-a-dream-of-wilderness/. Distinct from CO-0025's bonus-track and release-year angle.
