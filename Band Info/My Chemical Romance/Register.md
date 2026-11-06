@@ -69,3 +69,12 @@ Relevant names below are artist associations, not an assertion they play on each
 - Artist or contributor tag: mikey way - https://en.wikipedia.org/wiki/My_Chemical_Romance
 - Artist or contributor tag: frank iero - https://en.wikipedia.org/wiki/My_Chemical_Romance
 - Artist or contributor tag: ray toro - https://en.wikipedia.org/wiki/My_Chemical_Romance
+
+## 2026-11-06 Black Parade fact usage
+
+- LF 0167: 2006 MTV Video Music Awards television performance, https://www.songfacts.com/facts/my-chemical-romance/welcome-to-the-black-parade
+- LF 0673: UK chart two weeks at number one, https://www.officialcharts.com/chart-news/official-charts-flashback-2006-my-chemical-romances-welcome-to-the-black-parade-rises-to-number-1__34262/
+- Shorts 0068: Heaven Help Us 7-inch B-side, https://www.discogs.com/release/876022-My-Chemical-Romance-Welcome-To-The-Black-Parade
+- Shorts 1434: other titles in Rocksmith 2014 song pack, https://www.dekudeals.com/items/rocksmith-2014-edition-remastered-rocksmith-2014-my-chemical-romance-song-pack
+- Shorts 1912: video director Samuel Bayer, https://imvdb.com/n/lukas-haas/videography-by-position/app
+- Shorts 2420: The Five Of Us Are Dying early version on 10th anniversary edition, https://www.officialcharts.com/chart-news/my-chemical-romance-announce-the-black-parade-10th-anniversary-edition__15848/

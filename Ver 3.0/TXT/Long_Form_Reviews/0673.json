@@ -1,0 +1,62 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-06T19:43:07.876921+00:00",
+  "surface_sha256": {
+    "title": "b7f6a95e3ad11725ab1c10f5a26ac1d7c23ee1147d85002e8a5a36e00932809f",
+    "description": "8f0cb2b1f291ddec73e23c8f0457b65234df936300b050b8dea8ef62661f4daa",
+    "tags": "d32484f5cb5d6c60dcc5a6c92d1facfd11ad0a88a9f053dd5fb9a773e3b936d6",
+    "pinned comment": "e77efdfcd65334dd698b43ffcdd0e2c8cf7867665cc0139ad057c237560628a9",
+    "genres": "5edab9b53d36472e0d9ef065b325313cf6c627159215ee30220e49086c721888"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Artist, song and creator bass performance",
+      "source": "User recording identification; supplied Studio screenshot for 0167",
+      "assessment": "Identifies the song and creator performance; new recording should be checked by uploader."
+    },
+    {
+      "surface": "tags",
+      "claim": "Song, artist and associated names; bass cover",
+      "source": "https://genius.com/My-chemical-romance-welcome-to-the-black-parade-lyrics",
+      "assessment": "Song identity and credits; tags are associations, not performers in MAVO recording."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock, emo, pop punk, post-hardcore are artist-wide genres",
+      "source": "Band Info/My Chemical Romance/Register.md",
+      "assessment": "Existing consistent artist-wide classification, not all necessarily song-level."
+    },
+    {
+      "surface": "description",
+      "claim": "Two weeks at UK Official Singles Chart number one in 2006",
+      "source": "https://www.officialcharts.com/chart-news/official-charts-flashback-2006-my-chemical-romances-welcome-to-the-black-parade-rises-to-number-1__34262/",
+      "assessment": "Source explicitly supports this historical claim; not evidence of current popularity."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Two weeks at UK Official Singles Chart number one in 2006",
+      "source": "https://www.officialcharts.com/chart-news/official-charts-flashback-2006-my-chemical-romances-welcome-to-the-black-parade-rises-to-number-1__34262/",
+      "assessment": "Source explicitly supports this historical claim; not evidence of current popularity."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick and Twitch mirror; Discord invitation",
+      "source": "User standing instructions and confirmed Discord invite",
+      "assessment": "Links based on user-confirmed information; not a guarantee of current broadcast schedule."
+    }
+  ],
+  "distinct_fact_and_source": "Two weeks at UK Official Singles Chart number one in 2006 - https://www.officialcharts.com/chart-news/official-charts-flashback-2006-my-chemical-romances-welcome-to-the-black-parade-rises-to-number-1__34262/; separate from 0009 track placement and the other new MCR copies.",
+  "uniqueness_assessment": "Reviewed 23 five-word signals: song-name matches are necessary; common Kick/Twitch phrases are functional links. Compared the available same-song copy 0009 and the six new drafts, their different fact angles, CTAs and title shapes. Unavailable or unrevised live-only material cannot be checked. No scan proves semantic uniqueness.",
+  "uncertainties_and_removed_claims": "Do not assert chart status or game version for new recording. User identified new recording; verify actual file. Historic Studio screenshots cannot prove current claims, pin or territory availability.",
+  "collision_report_sha256": "0c6802d49fa86ed175e5fd90e8a4bbabacdf4006ad12c8f60bdae9a53ed46adf",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

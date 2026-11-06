@@ -376,3 +376,15 @@ open; common artist names and song names can legitimately recur.
 2026-11-06 SHORT 0009 | performance burst; pin release production and artwork credits with full take CTA. Distinct from earlier song reviews.
 
 2026-11-06 SHORT 0010 | instrument playthrough; pin single date following album and full performance CTA. Distinct from earlier song reviews.
+
+2026-11-06 LONG FORM 0167 | MCR Black Parade | distinct fact and CTA recorded in _All Songs/_0001 Long Form/0101 - 0200/0161 - 0170/0167 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_03 - Copy.md
+
+2026-11-06 LONG FORM 0673 | MCR Black Parade | distinct fact and CTA recorded in _All Songs/_0001 Long Form/0601 - 0700/0671 - 0680/0673 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_03 - Copy.md
+
+2026-11-06 SHORT FORM 0068 | MCR Black Parade | distinct fact and CTA recorded in _All Songs/_0002 Short Form/0001 - 0100/0061 - 0070/0068 - My Chemical Romance - Welcome To The Black Parade (Short Form)/_03 - Copy.md
+
+2026-11-06 SHORT FORM 1434 | MCR Black Parade | distinct fact and CTA recorded in _All Songs/_0002 Short Form/1401 - 1500/1431 - 1440/1434 - My Chemical Romance - Welcome To The Black Parade (Short Form)/_03 - Copy.md
+
+2026-11-06 SHORT FORM 1912 | MCR Black Parade | distinct fact and CTA recorded in _All Songs/_0002 Short Form/1901 - 2000/1911 - 1920/1912 - My Chemical Romance - Welcome To The Black Parade (Short Form)/_03 - Copy.md
+
+2026-11-06 SHORT FORM 2420 | MCR Black Parade | distinct fact and CTA recorded in _All Songs/_0002 Short Form/2401 - 2500/2411 - 2420/2420 - My Chemical Romance - Welcome To The Black Parade (Short Form)/_03 - Copy.md
