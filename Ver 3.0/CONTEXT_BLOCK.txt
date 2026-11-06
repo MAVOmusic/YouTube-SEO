@@ -2477,3 +2477,5 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-06 | Black Parade: reviewed LF 0167 and Shorts 0068, 1434, 1912 historic screenshots, retained completed LF 0009 play-along. Prepared copy for these and provisional new LF 0673 / Short 2420. Analysis and cautions: Ver 3.0/TXT/Black_Parade_2026-11-06_Analysis.md. Nothing published or scheduled. Gate inventory scoped to long-form to prevent ID collision with Shorts; re-run records when corpus changes.
 
 2026-11-06 | User corrected Black Parade Short cut: actual edit is 34.5 seconds from the reported paint-it passage to before disappointed faces. Earlier chorus advice was insufficiently precise. See Black_Parade_2026-11-06_Analysis.md.
+
+2026-11-06 | User moved first publication to UK midnight 7 Nov (01:00 Budapest) due to slow internet; cancelled proposed 6 Nov slots. Provisional six songs per Budapest day, 01:00/10:00/13:00/16:00/19:00/22:00, 52 reserved pairs over 7-15 Nov with four on final day. Calendar in New_Recordings_Upload_Plan.md. Proposed only; no uploads scheduled; existing Shorts analytics/review required before later copy.
