@@ -201,3 +201,5 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-06 Short 0007: added copy and analytics, title/copy/artist registers; excluded unrelated long-form retention image. Official split music and lyric credits used as distinct pin fact. Screenshot is historical, not live verification.
 
 2026-11-06 Short 0008: added copy and historical analytics, artist/title/copy registers and logs. Pin uses original composition's collection and position, distinct from CO-0025. Screenshot is not live verification.
+
+2026-11-06 Shorts 0009 and 0010: 11 screenshots each individually reviewed; analytics, distinct sourced copy and registers saved. Historical 0009 age restriction and limited ads; 0010 potential limitation. Related title prefixes match CO-0026 and CO-0027 respectively; current destination and comparative performance unverified.
