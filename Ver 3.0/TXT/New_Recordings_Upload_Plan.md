@@ -2,6 +2,21 @@
 
 Two screenshots: 23 + 29 = 52 recordings. User supplied corrections for three first-batch folders. These are planning reservations only; not evidence uploads exist, Shorts have been cut, audio identities verified, or publishing scheduled. Number assignment assumes one new long form and one new Short per recording in this order, starting from the user-reported 0673 and 2420. Actual upload chronology must determine the final numbers; revise reservations if order changes, a format is skipped, or another upload intervenes. Do not overwrite existing uploads. User has additional recordings for a later batch.
 
+## Audience-informed test queue - 7 November 2026
+
+The 6 Nov Full Analytics screenshots have been reviewed: see `Ver 3.0/TXT/Full_Channel_Analytics_2026-11-06.md`. Two new Black Parade titles appear as published in realtime on 6 Nov; exact timestamp and related-video setting are not verified. The following six slots preserve the existing next-six order, not a finding of genre-specific audience times. User publishes each long/Short pair together. Schedule only when upload and individual copy review are ready; if 01:00 is missed, move the queue and realign IDs/dates, do not backdate.
+
+| Budapest 7 Nov | UK | New York | Los Angeles | Proposed pair | Purpose / uncertainty |
+| --- | --- | --- | --- | --- | --- |
+| 01:00 | 00:00 | 19:00 Fri | 16:00 Fri | 0674 / 2421 Paramore - Misery Business | User's midnight start; US early evening test, not song-specific evidence. |
+| 05:00 | 04:00 | 23:00 Fri | 20:00 Fri | 0675 / 2422 AFI - Miss Murder | US West evening test; late Eastern, no AFI time evidence. |
+| 13:30 | 12:30 | 07:30 | 04:30 | 0676 / 2423 Jimmy Eat World - Sweetness | European early afternoon and 18:00 India exploratory; not country peak evidence. |
+| 16:00 | 15:00 | 10:00 | 07:00 | 0677 / 2424 Alkaline Trio - Private Eye | Approx strongest weekend channel heatmap; not artist-specific. |
+| 19:00 | 18:00 | 13:00 | 10:00 | 0678 / 2425 Taking Back Sunday - You're So Last Summer | UK evening / US afternoon overlap test, artist geography unknown. |
+| 23:00 | 22:00 | 17:00 | 14:00 | 0679 / 2426 Brand New - The Quiet Things That No One Ever Knows | US late afternoon test, artist geography unknown. |
+
+Heatmap = YouTube-wide activity of viewers, not country or song-specific. Each assignment is a low-confidence experiment; no objective best hour. US examples are Friday on first two rows and Saturday for the others. India is 5h30 ahead of UK, Budapest is 1h ahead during these dates. Slots can change after matching historical analytics and the user's practical upload needs. All old titles/times below are historical withdrawn proposals, not new release decisions.
+
 ## Latest first-upload change - 6 November 2026
 
 MAVO proposes moving the first video to 22:00 Hungary on Friday 6 November, if the upload finishes in time. That is 21:00 UK. UK midnight is 01:00 Hungary on Saturday 7 November. MAVO confirms the new long form and Short are published together, and the Short points to the new long form; 22:00 Budapest remains conditional on the upload finishing. Do not assume either was scheduled. No upload has been independently verified. Other dates, times and pair order remain draft, pending the promised 28-day and one-year channel analytics and per-song review.
