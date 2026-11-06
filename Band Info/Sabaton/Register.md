@@ -151,3 +151,7 @@ Previously reviewed claims and sources; check sources and current copy before re
 - The band says the atomic bombings of Hiroshima and Nagasaki inspired Nuclear Attack on Attero Dominatus. Respectful context is essential.
 - Source: https://www.sabaton.net/historical-facts/harry-truman-sworn-in-as-us-president/
 - Verify the actual upload and recheck the source before use. Not release-approved copy.
+
+## Short 0006 - 2026-11-06
+
+- Stan Ridgway's Camouflage appears on his album The Big Heat: https://www.shazam.com/song/723757428/camouflage. Sabaton confirms its song is a cover: https://www.sabaton.net/video/episode-129-camouflage-and-a-history-of-military-deception/. The Big Heat angle is distinct from CO-0023.
