@@ -22,10 +22,10 @@ Watch live on Kick or catch the Twitch mirror; share your favourite MCR tracks w
 my chemical romance, welcome to the black parade, welcome to the black parade bass, welcome to the black parade bass cover, black parade, mcr, my chem, mikey way, gerard way, frank iero, ray toro, bass cover, bass guitar, rocksmith bass
 ```
 
-## PINNED COMMENT (188 characters)
+## PINNED COMMENT (189 characters)
 
 ```text
-The My Chemical Romance Rocksmith 2014 song pack also includes Planetary (GO!) and Na Na Na. Which would you play next? The related video takes you to my full Black Parade bass play-along.
+The My Chemical Romance Rocksmith 2014 song pack also includes Planetary (GO!) and Na Na Na. Which would you play next? The related video takes you to my full Black Parade bass performance.
 ```
 
 ## GENRE FINDINGS (internal)
@@ -44,5 +44,5 @@ Artist-wide playlist classifications, not a claim all apply to this song. See Ba
 - Distinct historical fact: https://www.dekudeals.com/items/rocksmith-2014-edition-remastered-rocksmith-2014-my-chemical-romance-song-pack
 - Song and bassist associations: https://genius.com/My-chemical-romance-welcome-to-the-black-parade-lyrics
 - The supplied historical Studio screenshots show Rocksmith and the creator playing bass.
-- Attach matching LF 0009 while public and accessible; historical Studio showed partially blocked, check availability. New LF 0673 may be selected when available if a closer match is preferred.
+- User will attach the new matching LF 0673 as the related video; check its availability and eligibility when selecting it.
 - Current Studio settings, live comments, claims and territories are not verified.

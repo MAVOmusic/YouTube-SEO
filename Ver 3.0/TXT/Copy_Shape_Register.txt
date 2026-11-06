@@ -388,3 +388,11 @@ open; common artist names and song names can legitimately recur.
 2026-11-06 SHORT FORM 1912 | MCR Black Parade | distinct fact and CTA recorded in _All Songs/_0002 Short Form/1901 - 2000/1911 - 1920/1912 - My Chemical Romance - Welcome To The Black Parade (Short Form)/_03 - Copy.md
 
 2026-11-06 SHORT FORM 2420 | MCR Black Parade | distinct fact and CTA recorded in _All Songs/_0002 Short Form/2401 - 2500/2411 - 2420/2420 - My Chemical Romance - Welcome To The Black Parade (Short Form)/_03 - Copy.md
+
+2026-11-06 SHORT 0068 | Black Parade pin revised for full LF 0673; distinct sourced trivia retained | _All Songs/_0002 Short Form/0001 - 0100/0061 - 0070/0068 - My Chemical Romance - Welcome To The Black Parade (Short Form)/_03 - Copy.md
+
+2026-11-06 SHORT 1434 | Black Parade pin revised for full LF 0673; distinct sourced trivia retained | _All Songs/_0002 Short Form/1401 - 1500/1431 - 1440/1434 - My Chemical Romance - Welcome To The Black Parade (Short Form)/_03 - Copy.md
+
+2026-11-06 SHORT 1912 | Black Parade pin revised for full LF 0673; distinct sourced trivia retained | _All Songs/_0002 Short Form/1901 - 2000/1911 - 1920/1912 - My Chemical Romance - Welcome To The Black Parade (Short Form)/_03 - Copy.md
+
+2026-11-06 SHORT 2420 | Black Parade pin revised for full LF 0673; distinct sourced trivia retained | _All Songs/_0002 Short Form/2401 - 2500/2411 - 2420/2420 - My Chemical Romance - Welcome To The Black Parade (Short Form)/_03 - Copy.md

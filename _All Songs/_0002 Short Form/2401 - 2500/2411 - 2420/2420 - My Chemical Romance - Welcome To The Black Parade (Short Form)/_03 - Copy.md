@@ -22,10 +22,10 @@ Catch more live bass on Kick, with the stream mirrored on Twitch. Talk tracks wi
 my chemical romance, welcome to the black parade, welcome to the black parade bass, welcome to the black parade bass cover, black parade, mcr, my chem, mikey way, gerard way, frank iero, ray toro, bass cover, bass guitar
 ```
 
-## PINNED COMMENT (191 characters)
+## PINNED COMMENT (197 characters)
 
 ```text
-The 10th-anniversary release included The Five Of Us Are Dying, an early version of this song. Curious how this bass part fits the whole song? Follow the related video to my full performance.
+The 10th-anniversary release included The Five Of Us Are Dying, an early version of this song. Curious how this bass part fits the whole track? Follow the related video to my full bass performance.
 ```
 
 ## GENRE FINDINGS (internal)
@@ -44,5 +44,5 @@ Artist-wide playlist classifications, not a claim all apply to this song. See Ba
 - Distinct historical fact: https://www.officialcharts.com/chart-news/my-chemical-romance-announce-the-black-parade-10th-anniversary-edition__15848/
 - Song and bassist associations: https://genius.com/My-chemical-romance-welcome-to-the-black-parade-lyrics
 - User identifies this recording as a bass performance; verify the actual cut and upload.
-- Select the matching new LF 0673 as the related video after it is available and eligible.
+- User will attach the new matching LF 0673 as the related video; check its availability and eligibility when selecting it.
 - Current Studio settings, live comments, claims and territories are not verified.

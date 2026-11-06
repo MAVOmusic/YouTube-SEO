@@ -16,3 +16,7 @@ Try the first 'we will carry on' chorus, bass already playing at the opening, ro
 ## User correction - actual new cut
 
 MAVO reports the first suggested 'carry on' starting point would end about 15 seconds before the desired chorus passage in the available recording. They instead cut from the 'So paint it back' passage to just before 'disappointed faces of your fears', resulting in a 34.5-second Short. This is the user's reported edit, not an independently verified audio transcription or timestamp. The previous section advice was not sufficiently precise or practical for this edit; do not represent the 34.5 seconds as a demonstrated optimum. The new Short copy does not claim a particular section or duration, so no replacement is needed on this correction alone. Check the actual edit and related-video setting when uploading.
+
+## User direction - related video correction
+
+MAVO confirmed both new uploads go live at the same time, and all four Shorts 0068, 1434, 1912 and 2420 will point to the new full LF 0673. Previous LF 0009 play-along attachment guidance is superseded. The creator must select LF 0673 in Studio when eligible; the agent has not changed Studio. Four pins revised to point to the full bass performance and retain distinct trivia.

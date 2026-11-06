@@ -4,7 +4,7 @@ Two screenshots: 23 + 29 = 52 recordings. User supplied corrections for three fi
 
 ## Latest first-upload change - 6 November 2026
 
-MAVO proposes moving the first video to 22:00 Hungary on Friday 6 November, if the upload finishes in time. That is 21:00 UK. UK midnight is 01:00 Hungary on Saturday 7 November. The instruction does not explicitly identify whether the midnight upload is the Black Parade Short or the next song; do not assume either was scheduled. Clarify as needed. No upload has been independently verified. Other dates, times and pair order remain draft, pending the promised 28-day and one-year channel analytics and per-song review.
+MAVO proposes moving the first video to 22:00 Hungary on Friday 6 November, if the upload finishes in time. That is 21:00 UK. UK midnight is 01:00 Hungary on Saturday 7 November. MAVO confirms the new long form and Short are published together, and the Short points to the new long form; 22:00 Budapest remains conditional on the upload finishing. Do not assume either was scheduled. No upload has been independently verified. Other dates, times and pair order remain draft, pending the promised 28-day and one-year channel analytics and per-song review.
 
 ## Status correction - audience planning requested
 
