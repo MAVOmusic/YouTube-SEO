@@ -355,3 +355,11 @@ Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every la
 2026-11-06 SHORT FORM 1912 | MCR Black Parade | Welcome To The Black Parade in a bass spotlight - My Chemical Romance
 
 2026-11-06 SHORT FORM 2420 | MCR Black Parade | My Chemical Romance meets bass on Welcome To The Black Parade #bass
+
+2026-11-07 LONG FORM 0643 | Paramore Misery Business | Paramore brings Misery Business to bass in Rocksmith 2014
+
+2026-11-07 LONG FORM 0674 | Paramore Misery Business | From Riot! to bass: Misery Business by Paramore
+
+2026-11-07 SHORT 2390 | Paramore Misery Business | A bass run through Misery Business | Paramore #rocksmith
+
+2026-11-07 SHORT 2421 | Paramore Misery Business | Misery Business hits the bass strings | Paramore #bass

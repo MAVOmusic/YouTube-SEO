@@ -1,0 +1,80 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-06T23:21:41.818397+00:00",
+  "surface_sha256": {
+    "title": "0d257135d7d37c8198fcabfc073208fb82774da0975f139fce208c5262c9ee36",
+    "description": "2baef38a8442c6f68ec7c74b41065b9b208a6b8c99f04ed668bd40384b0e38b1",
+    "tags": "32be124d9b45eb4b706b8ec4647b82381832f78de512dfd382ced845bc875c88",
+    "pinned comment": "588892f18d8a50f49f2025407a9988ae66753aac82fa61387d8d153bfb4301c9",
+    "genres": "e39b35d77197353ee45d286888eb5a7da7b5729c4822d026e51761fb8e107674"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "This is a creator bass performance of Paramore Misery Business",
+      "source": "_All Songs/_0001 Long Form/0601 - 0700/0641 - 0650/0643 - Paramore - Misery Business (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Screenshot shows bass performance and identification; new media itself needs uploader verification."
+    },
+    {
+      "surface": "description",
+      "claim": "Creator bass performance and song identity",
+      "source": "_All Songs/_0001 Long Form/0601 - 0700/0641 - 0650/0643 - Paramore - Misery Business (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Existing screenshot identifies performance; new recording must be checked by creator."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitation",
+      "source": "User standing instructions and confirmed Discord invitation",
+      "assessment": "Links from known creator information; no broadcast schedule guaranteed."
+    },
+    {
+      "surface": "tags",
+      "claim": "Relevant artist, song, bass and member name associations",
+      "source": "https://genius.com/Paramore-misery-business-lyrics",
+      "assessment": "Credits show song and band members; tags do not say those members appear in creator video."
+    },
+    {
+      "surface": "genres",
+      "claim": "Pop punk and alternative rock, artist-wide",
+      "source": "Band Info/Paramore/Register.md",
+      "assessment": "Existing consistent artist-wide subjective playlist classification."
+    },
+    {
+      "surface": "title",
+      "claim": "Rocksmith 2014 performance",
+      "source": "_All Songs/_0001 Long Form/0601 - 0700/0641 - 0650/0643 - Paramore - Misery Business (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Video details screenshot identifies Rocksmith and shows creator with bass."
+    },
+    {
+      "surface": "tags",
+      "claim": "Rocksmith bass association",
+      "source": "_All Songs/_0001 Long Form/0601 - 0700/0641 - 0650/0643 - Paramore - Misery Business (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Existing game screenshot supports tag."
+    },
+    {
+      "surface": "description",
+      "claim": "Misery Business peaked at number 17 on the UK Official Singles Chart",
+      "source": "https://www.officialcharts.com/songs/paramore-misery-business/",
+      "assessment": "Source supports the stated historical fact, not a prediction of performance."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Misery Business peaked at number 17 on the UK Official Singles Chart",
+      "source": "https://www.officialcharts.com/songs/paramore-misery-business/",
+      "assessment": "Source supports the stated historical fact, not a prediction of performance."
+    }
+  ],
+  "distinct_fact_and_source": "Misery Business peaked at number 17 on the UK Official Singles Chart - https://www.officialcharts.com/songs/paramore-misery-business/; distinct from music-video director and 2019 game pack facts in these Shorts, and old archive copy.",
+  "uniqueness_assessment": "Reviewed 7 five-word signals and the old Paramore package at Ver 3.0/bands/P/Paramore/Misery_Business/0080/30-07-2026.md, both historical screenshots, and new same-song drafts. UK chart terms are necessary proper nouns, functional Kick/Twitch wording is shared; titles, source angles and CTA questions differ. Semantic overlap and unobserved live-only material cannot be ruled out.",
+  "uncertainties_and_removed_claims": "New media not independently inspected; no new game version or tuning asserted. Screenshot is historical, does not verify current pins, rights or territories. Studio title of existing Short related item matches LF 0643, destination ID not shown.",
+  "collision_report_sha256": "eca3131e2617aa24acb61860e81b9507caebef04e262aa54937a4b1b487d5b97",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}
