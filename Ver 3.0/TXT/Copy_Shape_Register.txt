@@ -364,3 +364,5 @@ open; common artist names and song names can legitimately recur.
 2026-11-06 SHORT 0003 | description: band and groove then performance; pin: anniversary demo inclusion plus full-performance related-video invitation. Distinct from Shorts 0001 nomination and 0002 tempo history.
 
 2026-11-06 SHORT 0004 | description: song and playing context; pin: named limited editions and live footage, full performance invitation. Distinct from long-form song meaning/shrine and prior Shorts trivia.
+
+2026-11-06 SHORT 0005 | description: artist performance framed as a dose; pin: historical single flip side and full-performance invitation. Distinct from CO-0021 film, writers and studio; log CTA language to avoid repeated constructions.

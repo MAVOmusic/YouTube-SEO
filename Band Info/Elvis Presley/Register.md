@@ -30,3 +30,7 @@ Previously reviewed claims and sources; check sources and current copy before re
 - Jerry Leiber and Mike Stoller wrote the song; the session took place at Radio Recorders in Hollywood.
   - Source: https://www.elvisthemusic.com/track/jailhouse-rock-stereo/; https://www.allmusic.com/song/jailhouse-rock-mt0011622861
 
+
+## Short 0005 - 2026-11-06
+
+- The 1957 RCA Victor 47-7035 single paired Jailhouse Rock with Treat Me Nice on the reverse: https://www.elvisrecords.com/jailhouse-rock-treat-me-nice/. Historical single fact only; distinct from CO-0021 film, writers and recording studio.

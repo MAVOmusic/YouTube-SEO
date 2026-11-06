@@ -331,3 +331,5 @@ Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every la
 2026-11-06 SHORT 0003 | song in focus: artist instrument + hashtag | Take The Power Back in focus: Rage Against The Machine bass #bass
 
 2026-11-06 SHORT 0004 | song in the mix with artist | platform instrument hashtag | Megitsune in the mix with BABYMETAL | Rocksmith bass #bass
+
+2026-11-06 SHORT 0005 | song rolls onto instrument | artist hashtag | Jailhouse Rock rolls onto bass | Elvis Presley #rocksmith
