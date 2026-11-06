@@ -737,3 +737,5 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-06: Reviewed all 11 screenshots for SHORT 0006 Sabaton Camouflage, recorded GBP 0.05 estimated Shorts Feed revenue, search, audience and linked-content evidence; Shopping disabled shown, no partial block shown or rights conclusion. Preserved viewer thread; creator support comment can be edited and pinned if replacing it is acceptable. Saved distinct original-album trivia and copy in song folder and analytics in TXT/Short_Form_Analytics_0006.md.
 
 2026-11-06 Short 0007: reviewed 12 screenshots; excluded misfiled 4:26 long-form retention screenshot; prepared copy, full analytics and official split songwriting credits. Related title prefix matches CO-0024, current link unverified. Preserve viewer threads.
+
+2026-11-06 Short 0008: reviewed all 11 screenshots; prepared copy, analytics and sourced Tchaikovsky piano-collection trivia. Related title prefix matches CO-0025; current target unverified. Preserve long-form artist pin.

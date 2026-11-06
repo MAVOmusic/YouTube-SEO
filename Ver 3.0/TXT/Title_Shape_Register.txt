@@ -337,3 +337,5 @@ Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every la
 2026-11-06 SHORT 0006 | find instrument line in band song + platform hashtag | Find the bass line in Sabaton's Camouflage #rocksmith
 
 2026-11-06 SHORT 0007 | song on instrument | artist in platform + hashtag | The Hammer Has Fallen on bass | Sabaton in Rocksmith #bass
+
+2026-11-06 SHORT 0008 | from instrument to instrument: artist - song + platform hashtag | From piano to bass: Aephanemer - Old French Song #rocksmith
