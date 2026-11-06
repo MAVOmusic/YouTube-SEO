@@ -2,6 +2,14 @@
 
 Two screenshots: 23 + 29 = 52 recordings. User supplied corrections for three first-batch folders. These are planning reservations only; not evidence uploads exist, Shorts have been cut, audio identities verified, or publishing scheduled. Number assignment assumes one new long form and one new Short per recording in this order, starting from the user-reported 0673 and 2420. Actual upload chronology must determine the final numbers; revise reservations if order changes, a format is skipped, or another upload intervenes. Do not overwrite existing uploads. User has additional recordings for a later batch.
 
+## Status correction - audience planning requested
+
+MAVO challenged the previous mechanically spaced timetable: it did not incorporate country, viewer activity or style-specific evidence. It is withdrawn as an audience-optimised plan. Retain only the user-requested first start at 00:00 UK / 01:00 Budapest on 7 November; all subsequent entries and times below are draft reservations, NOT recommendations to schedule. We have not scheduled or published anything in Studio; the user's upload status is unknown. Rebuild the next five after reviewing existing per-song analytics and channel data; do not assume changing the provisional order or ID mapping is harmless.
+
+Existing evidence not to request again: channel Audience screenshot dated 1 Nov has a last-28-days heatmap labelled GMT+0000; its strongest visible blocks are concentrated in the afternoon, especially weekend. The earlier channel store transcription 17:00-22:00 was too confident and is corrected there. Same 28-day period shows US 25.5%, Mexico 2.6%, Brazil 1.7%, UK 1.6%, Indonesia 0.7% of reported views; omitted geographies and unavailable data are not zero. Black Parade historical Shorts 0068, 1434 and 1912 show differing mixes; 1434 UK 72.6%, 1912 UK and US each 20.9%, 0068 US 27.1%. These are individual, historical, potentially limited reports, not hourly activity, country-by-hour evidence or proof of genre-wide preference. Check paid versus organic sources and rights before applying geographic patterns. Earlier VER 1.82 US-evening trial has observations but an n=1 comparison is not proof that timing caused performance. See Ver 2.68/CONTEXT_BLOCK.txt and Pipeline_Notes_2026-08.txt for prior planning; do not assert old rules are statistically established.
+
+Requested minimum next: the user's matching existing Paramore Misery Business Short and long-form analytics/screenshots, especially audience geography, reach, engagement, overview and revenue, and dates/IDs. Repeat one song at a time under the standing workflow. Optional: current channel Audience heatmap and geography only if materially newer; 28/90-day advanced reports with format, geography, traffic source and counts, if readily available. A country-level heatmap generally cannot be inferred from channel-wide activity. Use local clock conversions by date; propose song-specific windows as hypotheses with evidence, limitations and upload readiness.
+
 ## Revised start and daily cadence - 6 November 2026
 
 User moved the start because upload internet is slow. Do not publish either original 6 November proposal. First slot is Saturday 7 November at UK 00:00, which is 01:00 Europe/Budapest. This is a proposal, not an upload or scheduled publication. The six-per-day plan below counts six songs, each with a provisional long-form and Short pair (up to 12 videos), not six total videos. If upload or review is not ready, move the affected slot rather than publish unreviewed content.
@@ -10,7 +18,7 @@ Daily slots in Budapest: 01:00, 10:00, 13:00, 16:00, 19:00 and 22:00. On these d
 
 The planned sequence preserves the existing reservations. Existing Shorts and their analytics must be reviewed before writing and releasing each additional pair; a planned slot is not approval. Black Parade old videos were reviewed and copy prepared in PR #129; Short 2420 was cut to 34.5 seconds per user correction in PR #130. Paramore and later tracks still require their individual review. No assumption is made that all 52 pairs have been prepared, uploaded, reviewed, or scheduled. Verify rights/claims and the actual related-video destination.
 
-## Calendar - provisional, Europe/Budapest
+## Superseded mechanical calendar - reservations only, do not schedule
 
 ### Saturday 07 November 2026
 
