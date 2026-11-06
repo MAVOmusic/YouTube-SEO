@@ -333,3 +333,5 @@ Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every la
 2026-11-06 SHORT 0004 | song in the mix with artist | platform instrument hashtag | Megitsune in the mix with BABYMETAL | Rocksmith bass #bass
 
 2026-11-06 SHORT 0005 | song rolls onto instrument | artist hashtag | Jailhouse Rock rolls onto bass | Elvis Presley #rocksmith
+
+2026-11-06 SHORT 0006 | find instrument line in band song + platform hashtag | Find the bass line in Sabaton's Camouflage #rocksmith

@@ -366,3 +366,5 @@ open; common artist names and song names can legitimately recur.
 2026-11-06 SHORT 0004 | description: song and playing context; pin: named limited editions and live footage, full performance invitation. Distinct from long-form song meaning/shrine and prior Shorts trivia.
 
 2026-11-06 SHORT 0005 | description: artist performance framed as a dose; pin: historical single flip side and full-performance invitation. Distinct from CO-0021 film, writers and studio; log CTA language to avoid repeated constructions.
+
+2026-11-06 SHORT 0006 | description: song reaches platform through performance, then related video; pin: original artist album context and full-performance invitation. No claim of real-world story accuracy.
