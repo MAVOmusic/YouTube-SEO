@@ -2,6 +2,10 @@
 
 Two screenshots: 23 + 29 = 52 recordings. User supplied corrections for three first-batch folders. These are planning reservations only; not evidence uploads exist, Shorts have been cut, audio identities verified, or publishing scheduled. Number assignment assumes one new long form and one new Short per recording in this order, starting from the user-reported 0673 and 2420. Actual upload chronology must determine the final numbers; revise reservations if order changes, a format is skipped, or another upload intervenes. Do not overwrite existing uploads. User has additional recordings for a later batch.
 
+## Inventory update - 18 October folder
+
+User clarified folder dates: first batch 1 November, second batch 31 October. The second batch's historical filename remains unchanged. New 18 October screenshot contains 37 folders; total 23 + 29 + 37 = 89 potential pairs, with no obvious exact overlap across corrected lists. Four pairs (Black Parade, Misery Business, Miss Murder, Sweetness) are shown published in recent realtime screenshot, leaving up to 85 if no others published; 84 if Private Eye also published as a pair. Private Eye was reported done, not confirmed published. See TXT/New_Recordings_18_October_2026.md for transcription, full-day counts and limitations. Older schedule remains provisional and must be replanned after further folders, not silently extended.
+
 ## Latest user update - 7 November 2026
 
 User says Jimmy Eat World - Sweetness and Alkaline Trio - Private Eye are done. This does not specify whether each pair is published, scheduled or only edited, or its exact actual time; verify chronology before treating the provisional 0676/2423 and 0677/2424 IDs as confirmed. No new publication time or analytics inferred.
