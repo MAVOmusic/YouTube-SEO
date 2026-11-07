@@ -2527,3 +2527,5 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-07 - User reports missed 13:30 and 16:00 slots, requests three more today and six tomorrow; revised provisional queue in New_Recordings_Upload_Plan.md. Drafted LF 0676-0678 and Shorts 2423-2425; verify media, claims, overlay, order and related-video links before publication. No matching older entries found in indexed catalogues; this is not proof of absence.
 
 2026-11-07 - Reviewed early 0673/2420 Black Parade Studio screenshot snapshot; analysis saved in TXT/Black_Parade_0673_2420_Early_Analytics_2026-11-07.md. Retention, geography and revenue pending; user will supply 48+ hour updates for uploads. No Studio changes or background monitoring.
+
+2026-11-07 - Reviewed early Paramore Misery Business 0674/2421 Studio screenshots; snapshot and limitations saved in TXT/Misery_Business_0674_2421_Early_Analytics_2026-11-07.md. Await user-provided 48+ hour update; no Studio changes or background monitoring.
