@@ -9,6 +9,10 @@ Repository-hosted home of the MAVOmusic SEO rehabilitation workspace (fingerstyl
 | `Test Image.jpg` | The **§28 vision probe**. Read this first in any new session: if the agent cannot describe it, the chat has no vision and cannot run the Studio-screenshot recheck workflow — stop there. |
 | `Ver 3.0/` | **THE ACTIVE WORKSPACE.** All work happens here. |
 | `Ver 2.68/` | **FROZEN ARCHIVE** of the last chat-paste release (also holds the original `workspace-*.zip` upload). Never edit it or run its tools — it is the rollback point. |
+| `Long Form 0001 - 1000.md` | Browsable chronological long-form catalogue, including provisional reservations. |
+| `Short Form 0001 - 3000.md` | Browsable chronological Shorts catalogue, including provisional reservations. |
+
+Update the relevant catalogue whenever an upload identity or prepared title is added or changed. Keep planned reservations marked and never infer missing identities from the legacy canonical numbering. `Ver 3.0/PY/check_song_catalogues.py` checks numbered rows and known video folders/copy titles; it does not establish publication, identity, or completeness of screenshots.
 
 ## Inside `Ver 3.0/`
 
