@@ -404,3 +404,7 @@ open; common artist names and song names can legitimately recur.
 2026-11-07 SHORT 2390 | Paramore Misery Business | distinct historical angle, source and CTA in _All Songs/_0002 Short Form/2301 - 2400/2381 - 2390/2390 - Paramore - Misery Business (Short Form)/_03 - Copy.md
 
 2026-11-07 SHORT 2421 | Paramore Misery Business | distinct historical angle, source and CTA in _All Songs/_0002 Short Form/2401 - 2500/2421 - 2430/2421 - Paramore - Misery Business (Short Form)/_03 - Copy.md
+
+2026-11-07 Long 0675 | AFI Miss Murder | distinct source angle and CTA in _All Songs/_0001 Long Form/0601 - 0700/0671 - 0680/0675 - AFI - Miss Murder (Long Form)/_03 - Copy.md
+
+2026-11-07 Short 2422 | AFI Miss Murder | distinct source angle and CTA in _All Songs/_0002 Short Form/2401 - 2500/2421 - 2430/2422 - AFI - Miss Murder (Short Form)/_03 - Copy.md

@@ -1,0 +1,74 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-07T00:12:44.977197+00:00",
+  "surface_sha256": {
+    "title": "3d871be9c4d2b8503355af58450e732a6576c8eb67637b914fb6a3542ee83284",
+    "description": "a2fb861a1b7bb3fe4391ce1e1d0608cdb5bee8a4ecdd81969c792c28f0f8be1a",
+    "tags": "5a806a5eb2da1814023b496be3bf09e70e839b7f3b8e54274fe94a94af73af2a",
+    "pinned comment": "6c39e66c28afbbba6c3d03a5e452770a85730d029e64f63bd6e4ce5f6a0e7c82",
+    "genres": "ef836c776bb81dfda5a667fe94b9646812b3b8f2d56d3a97f84d211f26167b3e"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "AFI Miss Murder bass performance",
+      "source": "User recording list",
+      "assessment": "User identification; actual uploaded recording not available to inspect."
+    },
+    {
+      "surface": "description",
+      "claim": "Creator full bass performance and song identity",
+      "source": "User recording list",
+      "assessment": "User identification, verify actual media and chronology."
+    },
+    {
+      "surface": "description",
+      "claim": "Miss Murder is on Decemberunderground",
+      "source": "https://genius.com/Afi-miss-murder-lyrics",
+      "assessment": "Source identifies track on album."
+    },
+    {
+      "surface": "description",
+      "claim": "Decemberunderground debuted at number one on Billboard 200",
+      "source": "https://www.billboard.com/music/music-news/afi-burns-brightly-with-no-1-debut-58141/",
+      "assessment": "Billboard explicitly confirms debut."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and Discord invitation",
+      "source": "User project instructions",
+      "assessment": "Known stream and community links; no unverified scheduled offer."
+    },
+    {
+      "surface": "tags",
+      "claim": "Artist, song, full and shortened member names, bass cover",
+      "source": "https://genius.com/Afi-miss-murder-lyrics",
+      "assessment": "Songwriters are member associations, not claims of guest appearances."
+    },
+    {
+      "surface": "genres",
+      "claim": "Alternative rock, punk revival, hardcore punk",
+      "source": "https://www.allmusic.com/artist/afi-mn0000589630",
+      "assessment": "Artist-wide AllMusic styles, not assertion all describe the track."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Decemberunderground debuted at number one on Billboard 200",
+      "source": "https://www.billboard.com/music/music-news/afi-burns-brightly-with-no-1-debut-58141/",
+      "assessment": "Same supported fact as description; question does not claim an album preference."
+    }
+  ],
+  "distinct_fact_and_source": "Decemberunderground debuted at number one on Billboard 200: https://www.billboard.com/music/music-news/afi-burns-brightly-with-no-1-debut-58141/; distinct from Marc Webb long music-video fact in Short 2422.",
+  "uniqueness_assessment": "Reviewed two five-word signals from LF 0673; at number one on the is common wording for different countries and works (MCR single on UK singles chart, AFI album on Billboard 200). Title, fact and CTA differ. Unseen live-only corpus cannot be assessed.",
+  "uncertainties_and_removed_claims": "User reports no existing AFI Miss Murder uploads; no song-specific analytics. New recording and cut not inspected, do not claim game or tuning. Rights and actual upload chronology unknown.",
+  "collision_report_sha256": "9425c1f56bd2e9afc2ab1cf5475c45eec5effc833f1c279bfbd55f3dc7d9ccc7",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}
