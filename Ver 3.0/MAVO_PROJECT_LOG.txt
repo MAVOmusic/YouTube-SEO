@@ -809,3 +809,5 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-07 - User corrected mechanical spacing and requests viewer-base-focused time-window testing, six paired songs daily now and later 7-10. Added evidence-limited timezone test queue and matched-age experiment plan in TXT/New_Recordings_Upload_Plan.md; no scheduled or assumed uploads. Prior 17:50 timetable superseded.
 
 2026-11-07 - User reports LosslessCut exported 35s as 44s and 3:35 as 3:41; requested inexpensive alternative with precise cuts and MKV. Suggested free Shotcut source-trim and re-encode to Matroska; preserve original, check exact frames and A/V. No change to upload status or schedule.
+
+2026-11-07 - Reviewed user Shotcut Private Eye export screenshots: timeline appears 3:29.200 with portrait canvas and landscape image plus black space; purpose and source FPS not confirmed. Recommended matching project format and source FPS, AAC stereo 48 kHz, H.264 quality check and Matroska; verify trim and audio before uploading. No Studio changes.
