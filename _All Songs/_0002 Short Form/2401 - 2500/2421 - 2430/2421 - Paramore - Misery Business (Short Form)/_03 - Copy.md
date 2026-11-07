@@ -6,14 +6,16 @@
 Misery Business hits the bass strings | Paramore #bass
 ```
 
-## DESCRIPTION (189 characters)
+## DESCRIPTION (253 characters)
 
 ```text
-A bass moment from Misery Business by Paramore.
+A burst of Paramore's Misery Business from my bass performance.
 
-Catch more performances on Kick, with the stream mirrored on Twitch. Join the conversation with the community on Discord.
+Want the whole track? Open the related video beneath my handle.
 
-#Paramore #Shorts
+🟢 Catch live bass on Kick, with Twitch as the mirror. 💬 Share your favourite Riot! tracks on Discord.
+
+#Paramore #BassCover
 ```
 
 ## TAGS (195 characters)
@@ -44,3 +46,5 @@ Artist-level playlist genres; see Band Info/Paramore/Register.md. Genre classifi
 - User identifies new recording as a bass performance; verify the actual media and final edit.
 - Attach matching new LF 0674 when public or unlisted and eligible.
 - Current YouTube settings and claim territories cannot be established from historical screenshots.
+
+- 2026-11-07: Proposed individual copy review; current Studio copy and pin not verified.

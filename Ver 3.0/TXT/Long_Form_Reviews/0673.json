@@ -1,6 +1,6 @@
 {
   "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-07T18:34:37.402861+00:00",
+  "reviewed_at": "2026-11-07T18:42:44.715018+00:00",
   "surface_sha256": {
     "title": "b7f6a95e3ad11725ab1c10f5a26ac1d7c23ee1147d85002e8a5a36e00932809f",
     "description": "bde401cae00304b0f1c8d00afa11fba167a8f3fe22e775841b71ff5bcc8ed510",
@@ -60,9 +60,9 @@
     }
   ],
   "distinct_fact_and_source": "Two weeks at UK Official Singles Chart number one in 2006 - https://www.officialcharts.com/chart-news/official-charts-flashback-2006-my-chemical-romances-welcome-to-the-black-parade-rises-to-number-1__34262/; separate from 0009 track placement and the other new MCR copies.",
-  "uniqueness_assessment": "Reviewed collision signals: shared artist/title/chart words are unavoidable or common; recurring community language is functional. Reworded the Discord CTA between these releases. Descriptive paragraph and invitations differ. Unseen live-only material cannot be checked, and no automated scan proves semantic uniqueness.",
+  "uniqueness_assessment": "Reviewed collision signals: shared artist/title/chart words are unavoidable or common; recurring community language is functional. Reworded the Discord CTA between these releases. Descriptive paragraph and invitations differ. Unseen live-only material cannot be checked, and no automated scan proves semantic uniqueness. 2026-11-07 five-pair review: inspected current five-word signals; recurring song titles, chart terminology and functional social/boost phrasing, plus generic performance wording, are not evidence of identical packages. Same-song and prior accessible edit comparison remains limited; unseen material cannot be ruled out.",
   "uncertainties_and_removed_claims": "Do not assert chart status or game version for new recording. User identified new recording; verify actual file. Historic Studio screenshots cannot prove current claims, pin or territory availability. Revised description is proposed, not proof of Studio change; not attributing musical details to an uninspected recording.",
-  "collision_report_sha256": "0ec82625456592c9f77f154405ecb56540735a9dec649a5c7d6265f94dd114a9",
+  "collision_report_sha256": "33c6182ad6cd84e835e25a85a67d5602436f5d60d6e0b0f9c25b5fdffb2eb26e",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
 }

@@ -50,3 +50,5 @@ Artist-wide playlist classifications, not a claim all apply to this song. See Ba
 - Current Studio settings, live comments, claims and territories are not verified.
 
 - 2026-11-07: Description revised after user feedback on style; proposed replacement only, not evidence of a live Studio edit. Other surfaces retained.
+
+- 2026-11-07: Proposed individual copy review; current Studio copy and pin not verified.

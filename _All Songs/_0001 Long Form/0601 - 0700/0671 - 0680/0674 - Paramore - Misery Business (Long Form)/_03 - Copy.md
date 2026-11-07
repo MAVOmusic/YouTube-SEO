@@ -6,14 +6,16 @@
 From Riot! to bass: Misery Business by Paramore
 ```
 
-## DESCRIPTION (325 characters)
+## DESCRIPTION (500 characters)
 
 ```text
-Here's my full bass performance of Paramore's Misery Business. David Bendeth produced the song for the band's album Riot!.
+Here's my full bass performance of Paramore's Misery Business, from the album Riot!. The song was produced by David Bendeth.
 
-Find my live bass shows on Kick: https://kick.com/mavomusic
-Follow the Twitch mirror: https://www.twitch.tv/mavomusic
-Swap your favourite Riot! moments with us on Discord: https://discord.gg/ESGsGkN4j2
+From the first notes to the last chorus, come along for the whole track. Which Riot! song would you put on next?
+
+🟢 Catch my live bass sessions on Kick: https://kick.com/mavomusic
+🟣 Watch the Twitch mirror if you prefer to chat there: https://www.twitch.tv/mavomusic
+💬 Share your Paramore favourites on Discord; optional boosts are appreciated: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (195 characters)
@@ -44,3 +46,5 @@ Artist-level playlist genres; see Band Info/Paramore/Register.md. Genre classifi
 - User identifies new recording as a bass performance; verify the actual media and final edit.
 - Verify actual recording, publication, claims and live comments before release.
 - Current YouTube settings and claim territories cannot be established from historical screenshots.
+
+- 2026-11-07: Proposed individual copy review; current Studio copy and pin not verified.

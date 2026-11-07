@@ -6,14 +6,16 @@
 That Miss Murder bass drive - AFI #bass
 ```
 
-## DESCRIPTION (154 characters)
+## DESCRIPTION (263 characters)
 
 ```text
-Miss Murder by AFI, played on bass.
+A moment from my bass performance of AFI's Miss Murder, from Decemberunderground.
 
-Find the live bass sessions on Kick, catch the Twitch mirror, and join our Discord music conversations.
+The related video beneath my handle takes you to the full performance.
 
-#AFI #Shorts
+🟢 Join me on Kick for live bass, or catch the Twitch mirror. 💬 Talk AFI with us on Discord.
+
+#AFI #BassCover
 ```
 
 ## TAGS (205 characters)
@@ -46,3 +48,5 @@ Artist-level playlist genres, not necessarily all characteristics of this record
 - New recording has not been independently inspected; verify audio, bass performance and upload identity.
 - Attach new full performance 0675 as related video when public or unlisted and eligible. Ordinary Shorts URLs in comments and descriptions are not clickable.
 - Check comments and prefer a genuine artist comment if one exists.
+
+- 2026-11-07: Proposed individual copy review; current Studio copy and pin not verified.

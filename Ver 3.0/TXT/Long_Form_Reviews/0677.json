@@ -1,6 +1,6 @@
 {
   "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-07T18:34:37.403663+00:00",
+  "reviewed_at": "2026-11-07T18:42:44.716853+00:00",
   "surface_sha256": {
     "title": "46e3406701e3f1f233c50da614b90fd4f343e102d55f2f890f2324c86ea68a6e",
     "description": "b905c9e5980039d73fa88c8d350c1af7190888915a17826051a521790254c5b3",
@@ -60,7 +60,7 @@
     }
   ],
   "distinct_fact_and_source": "Album opening track; distinct from Short UK chart peak. https://hasslefth.bandcamp.com/album/from-here-to-infirmary",
-  "uniqueness_assessment": "Reviewed collision signals: shared artist/title/chart words are unavoidable or common; recurring community language is functional. Reworded the Discord CTA between these releases. Descriptive paragraph and invitations differ. Unseen live-only material cannot be checked, and no automated scan proves semantic uniqueness.",
+  "uniqueness_assessment": "Reviewed collision signals: shared artist/title/chart words are unavoidable or common; recurring community language is functional. Reworded the Discord CTA between these releases. Descriptive paragraph and invitations differ. Unseen live-only material cannot be checked, and no automated scan proves semantic uniqueness. 2026-11-07 five-pair review: inspected current five-word signals; recurring song titles, chart terminology and functional social/boost phrasing, plus generic performance wording, are not evidence of identical packages. Same-song and prior accessible edit comparison remains limited; unseen material cannot be ruled out.",
   "uncertainties_and_removed_claims": "Song and new performance supplied by user, not inspected; no claim about tuning, exact arrangement, game, claims or current pins. Indexed absence is not proof of no previous upload. Revised description is proposed, not proof of Studio change; not attributing musical details to an uninspected recording.",
   "collision_report_sha256": "a25b9ef4bf61c1a494e73ca5df930a63367693ff002a54daf62b09e83248687e",
   "all_claims_checked": true,

@@ -6,12 +6,16 @@
 Sweetness in a bass snapshot - Jimmy Eat World #bass
 ```
 
-## DESCRIPTION (153 characters)
+## DESCRIPTION (275 characters)
 
 ```text
-Jimmy Eat World meets four strings in this Sweetness bass moment.
+Jimmy Eat World's Sweetness gets a bass spotlight in this clip from my performance.
 
-Find my Kick bass streams and their Twitch mirror; our Discord is open for music talk.
+For the complete track, open the related video beneath my handle.
+
+🟢 Find live bass on Kick and the Twitch mirror. 💬 Tell us your Jimmy Eat World picks on Discord.
+
+#JimmyEatWorld #BassCover
 ```
 
 ## TAGS (185 characters)
@@ -45,3 +49,5 @@ Artist-level playlist classifications; not every style necessarily describes thi
 - Attach Long 0676 as the related video when eligible.
 
 - Video director: https://www.imdb.com/title/tt27032800/
+
+- 2026-11-07: Proposed individual copy review; current Studio copy and pin not verified.

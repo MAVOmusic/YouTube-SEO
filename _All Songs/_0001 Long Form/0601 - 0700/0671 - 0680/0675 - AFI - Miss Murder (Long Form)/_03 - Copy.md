@@ -6,14 +6,16 @@
 Miss Murder at full force | AFI bass performance
 ```
 
-## DESCRIPTION (348 characters)
+## DESCRIPTION (544 characters)
 
 ```text
-I am playing AFI's Miss Murder in full on bass. The track appears on Decemberunderground, which debuted at number one on the Billboard 200.
+AFI's Miss Murder comes from Decemberunderground, the album that debuted at number one on the Billboard 200. I play the complete track on bass in this performance.
 
-Join me on Kick for live bass: https://kick.com/mavomusic
-Watch the stream mirror on Twitch: https://www.twitch.tv/mavomusic
-Compare your favourite AFI album with us on Discord: https://discord.gg/ESGsGkN4j2
+This song has plenty of momentum to carry through from beginning to end. Which AFI track would you love to hear on bass next?
+
+🟢 Join the live bass set on Kick: https://kick.com/mavomusic
+🟣 Find the stream mirror over on Twitch: https://www.twitch.tv/mavomusic
+💬 Bring your AFI recommendations to Discord; optional boosts help support the community: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (205 characters)
@@ -46,3 +48,5 @@ Artist-level playlist genres, not necessarily all characteristics of this record
 - New recording has not been independently inspected; verify audio, bass performance and upload identity.
 - Check rights, claim, overlay and disclosure in Studio; do not infer new video status.
 - Check comments and prefer a genuine artist comment if one exists.
+
+- 2026-11-07: Proposed individual copy review; current Studio copy and pin not verified.
