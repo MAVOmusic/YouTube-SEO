@@ -6,14 +6,16 @@
 Under the microscope: Private Eye by Alkaline Trio on bass
 ```
 
-## DESCRIPTION (320 characters)
+## DESCRIPTION (524 characters)
 
 ```text
-Here is my full bass performance of Private Eye by Alkaline Trio. It opens the album From Here to Infirmary.
+Private Eye opens Alkaline Trio's From Here to Infirmary. In this full bass performance, I take on the track that starts the album.
 
-Catch my bass streams on Kick: https://kick.com/mavomusic
-Prefer Twitch? The stream is mirrored there: https://www.twitch.tv/mavomusic
-Bring your favourite punk records to Discord: https://discord.gg/ESGsGkN4j2
+Put the album opener in the spotlight and follow along with the bass from start to finish. What would be your next Alkaline Trio pick?
+
+🟢 Bring your song requests to the Kick stream: https://kick.com/mavomusic
+🟣 Tune into the Twitch mirror if that is your preferred chat: https://www.twitch.tv/mavomusic
+💬 Swap punk album openers on Discord; boosts are welcome: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (178 characters)
@@ -46,3 +48,5 @@ Artist-level playlist classifications; not every style necessarily describes thi
 - Artist styles: https://www.allmusic.com/artist/mn0000039013
 - User-supplied identity; recording, cut, upload chronology and rights not independently inspected.
 - Check overlay, paid promotion and any rights claims in Studio. Prefer a genuine artist comment if present.
+
+- 2026-11-07: Description revised after user feedback on style; proposed replacement only, not evidence of a live Studio edit. Other surfaces retained.

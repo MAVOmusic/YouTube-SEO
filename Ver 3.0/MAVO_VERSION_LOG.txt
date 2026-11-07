@@ -277,3 +277,5 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-07 - User says Shotcut Auto video mode switches settings when replacing timeline source; Long Form audio is quieter than Shorts and user currently applies +10 dB; possible OBS cause not verified and user cannot fix OBS until home. Recommend listening/peak checks and avoiding clipping, not presuming 10 dB is universally safe.
 
 2026-11-07 - User corrects Shotcut Auto: uses two instances/projects for landscape and vertical, audio adjustment works. Sweetness and Private Eye reported done; publication/scheduling details not specified. User will provide more recording folders, then requests full November plan informed by language, geography and audience; six daily initially, grow to 7-10. See TXT/New_Recordings_Upload_Plan.md.
+
+2026-11-07 - User flagged unintended drift from warm, descriptive, emoji-led long form to flat recent copy; restored style standard for both formats in TXT/Copy_Style_Continuity_2026-11-07.md. Proposed complete descriptions for LF 0673/0677 and Shorts 2420/2424; no Studio edits. Remaining recent releases need individual review.

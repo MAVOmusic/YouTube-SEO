@@ -1,9 +1,9 @@
 {
   "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-07T15:24:54.691984+00:00",
+  "reviewed_at": "2026-11-07T18:34:37.403663+00:00",
   "surface_sha256": {
     "title": "46e3406701e3f1f233c50da614b90fd4f343e102d55f2f890f2324c86ea68a6e",
-    "description": "4594d91d1133eb1f378608574047d3f18adbe61627fbeb638c84c2b37eeaa488",
+    "description": "b905c9e5980039d73fa88c8d350c1af7190888915a17826051a521790254c5b3",
     "tags": "e2bdca31acae202875070e74f32ee2277c6cfaf38f12795d6599b7288d7dd889",
     "pinned comment": "f37a67d7b7c928cf79972b8d88118fb5c4aff514b72168348b42f8acc4fc44b5",
     "genres": "edb4b29f54a09e2f99e02876f85d0708381b48f64bb81bafaffd6ff0881af164"
@@ -51,12 +51,18 @@
       "claim": "Artist-wide playlist categories",
       "source": "https://www.allmusic.com/artist/mn0000039013",
       "assessment": "Subjective artist-level classification, not a claim every genre describes this particular track."
+    },
+    {
+      "surface": "description",
+      "claim": "Creator bass performance, listen-through invitation and optional Discord boost request",
+      "source": "User confirmed on-screen bass performance; Ver 3.0/TXT/Copy_Style_Continuity_2026-11-07.md",
+      "assessment": "Performance identified by user; listen and boost are invitations, not claims about a specific musical passage or benefits."
     }
   ],
   "distinct_fact_and_source": "Album opening track; distinct from Short UK chart peak. https://hasslefth.bandcamp.com/album/from-here-to-infirmary",
-  "uniqueness_assessment": "Reviewed cross-video five-word collision signals; they concern stream/link connective language and generic bass phrasing, not duplicated song facts. Song angle, title and question differ from other available packages and paired Short. Unseen live-only content cannot be assessed.",
-  "uncertainties_and_removed_claims": "Song and new performance supplied by user, not inspected; no claim about tuning, exact arrangement, game, claims or current pins. Indexed absence is not proof of no previous upload.",
-  "collision_report_sha256": "8b431bd4981b2cd16405368ede352d042c7106cd27f1aa24bc859a8d70f21ba8",
+  "uniqueness_assessment": "Reviewed collision signals: shared artist/title/chart words are unavoidable or common; recurring community language is functional. Reworded the Discord CTA between these releases. Descriptive paragraph and invitations differ. Unseen live-only material cannot be checked, and no automated scan proves semantic uniqueness.",
+  "uncertainties_and_removed_claims": "Song and new performance supplied by user, not inspected; no claim about tuning, exact arrangement, game, claims or current pins. Indexed absence is not proof of no previous upload. Revised description is proposed, not proof of Studio change; not attributing musical details to an uninspected recording.",
+  "collision_report_sha256": "a25b9ef4bf61c1a494e73ca5df930a63367693ff002a54daf62b09e83248687e",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
 }

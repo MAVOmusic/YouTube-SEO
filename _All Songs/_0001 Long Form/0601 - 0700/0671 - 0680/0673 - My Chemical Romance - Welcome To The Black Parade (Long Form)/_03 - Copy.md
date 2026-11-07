@@ -6,14 +6,16 @@
 Welcome To The Black Parade on bass | My Chemical Romance, start to finish
 ```
 
-## DESCRIPTION (357 characters)
+## DESCRIPTION (554 characters)
 
 ```text
-A full bass performance of Welcome To The Black Parade by My Chemical Romance. The song spent two weeks at number one on the UK Official Singles Chart in 2006.
+Welcome To The Black Parade by My Chemical Romance reached number one on the UK Official Singles Chart for two weeks in 2006. Here is my full bass performance of the song.
 
-Hear more live bass on Kick: https://kick.com/mavomusic
-The stream is mirrored on Twitch: https://www.twitch.tv/mavomusic
-Bring your favourite MCR moments to Discord: https://discord.gg/ESGsGkN4j2
+From its opening to its final moments, this is a chance to follow the bass through the whole track. Which section would you want to play?
+
+🟢 Join me for live bass on Kick: https://kick.com/mavomusic
+🟣 Catch the Twitch mirror and its chat: https://www.twitch.tv/mavomusic
+💬 Share your favourite MCR moments on Discord; thank you if you choose to boost: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (220 characters)
@@ -46,3 +48,5 @@ Artist-wide playlist classifications, not a claim all apply to this song. See Ba
 - User identifies this recording as a bass performance; verify the actual cut and upload.
 - Review current comments before pinning; prefer a genuine artist comment if present.
 - Current Studio settings, live comments, claims and territories are not verified.
+
+- 2026-11-07: Description revised after user feedback on style; proposed replacement only, not evidence of a live Studio edit. Other surfaces retained.

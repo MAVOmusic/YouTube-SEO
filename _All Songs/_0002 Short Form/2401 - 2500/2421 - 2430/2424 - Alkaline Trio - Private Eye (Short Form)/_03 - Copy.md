@@ -6,12 +6,16 @@
 Alkaline Trio bass focus: Private Eye #bass
 ```
 
-## DESCRIPTION (146 characters)
+## DESCRIPTION (300 characters)
 
 ```text
-A bass excerpt from my take on Alkaline Trio - Private Eye.
+Private Eye opens Alkaline Trio's From Here to Infirmary. Here is a short moment from my bass performance.
 
-Catch the live sessions on Kick, mirrored to Twitch, and trade punk picks on Discord.
+For the rest of the track, open the related full performance beneath my handle.
+
+🟢 Catch live music on Kick, with Twitch as the mirror. 💬 Bring your punk picks to Discord.
+
+#AlkalineTrio #Bass
 ```
 
 ## TAGS (178 characters)
@@ -47,3 +51,5 @@ Artist-level playlist classifications; not every style necessarily describes thi
 - Attach Long 0677 as the related video when eligible.
 
 - UK chart peak: https://www.officialcharts.com/songs/alkaline-trio-private-eye/
+
+- 2026-11-07: Description revised after user feedback on style; proposed replacement only, not evidence of a live Studio edit. Other surfaces retained.
