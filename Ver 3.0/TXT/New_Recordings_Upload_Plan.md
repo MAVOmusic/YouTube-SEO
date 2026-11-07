@@ -2,6 +2,14 @@
 
 Two screenshots: 23 + 29 = 52 recordings. User supplied corrections for three first-batch folders. These are planning reservations only; not evidence uploads exist, Shorts have been cut, audio identities verified, or publishing scheduled. Number assignment assumes one new long form and one new Short per recording in this order, starting from the user-reported 0673 and 2420. Actual upload chronology must determine the final numbers; revise reservations if order changes, a format is skipped, or another upload intervenes. Do not overwrite existing uploads. User has additional recordings for a later batch.
 
+## Latest user update - 7 November 2026
+
+User says Jimmy Eat World - Sweetness and Alkaline Trio - Private Eye are done. This does not specify whether each pair is published, scheduled or only edited, or its exact actual time; verify chronology before treating the provisional 0676/2423 and 0677/2424 IDs as confirmed. No new publication time or analytics inferred.
+
+User will supply a couple more recording folders before requesting a full November plan. Reconsider order and audience-window experiments using the expanded inventory, song language, known audience geography and evidence; language and country interest are hypotheses unless supported, not guaranteed demand. Keep song pairs simultaneous, preserve actual chronological IDs and reassign future reservations only when necessary. Scale from six to seven, eight, nine and ten pairs as readiness allows; do not use equal spacing as a substitute for audience analysis. Any earlier timetable is provisional and subject to this replan.
+
+Shotcut correction: automatic video mode does not work reliably for the user's workflow. User keeps two separate Shotcut instances/projects, one for each format, and chooses the appropriate instance. The current audio adjustment works for the user.
+
 ## Audience-window experiment - revised 7 November 2026
 
 User rejected mechanical 2.5-hour spacing and wants viewer-base-focused tests, with six paired songs per day now and future expansion to seven through ten. Times are test hypotheses, not proven peaks or scheduled uploads. Each new Long and Short publishes together; don't skip media, rights and copy review, and don't assume IDs or publication before actual chronology. Tonight means two further pairs if possible. Any missed slot moves forward, not backdated. User is working in Budapest.
