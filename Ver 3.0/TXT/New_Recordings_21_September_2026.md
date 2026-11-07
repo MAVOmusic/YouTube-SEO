@@ -26,7 +26,7 @@ Explorer screenshot supplied by the user shows 19 folder entries. The following 
 
 Compared all 19 labels with the previously processed 1 November, 31 October, 18 October, 5 October and 29 September folder lists, considering the user-supplied corrections and the removal of the 5 October Viking Death March duplicate. No cross-folder artist-and-song duplicate was identified; same artist with a different song is not a duplicate. This is a folder-label check, not audio comparison or proof that no video of these songs has already been published. User has said repeat songs can be uploaded again; 29 September recordings specifically confirmed new. The 21 September files' previous publication status and individual suitability have not been verified.
 
-Screenshot says "Queen And David Bowie - Undr Pressure" and "Stain - It's Been A While"; likely Queen and David Bowie - Under Pressure and Staind - It's Been Awhile. Preserve source transcription above and verify actual audio/identity before final metadata; don't silently change original folder name. User corrections to earlier artist spellings and the one removed folder are respected.
+Screenshot says "Queen And David Bowie - Undr Pressure" and "Stain - It's Been A While"; user confirmed Under Pressure and Staind. Use Queen & David Bowie - Under Pressure and Staind - It's Been Awhile in the working plan, while preserving the screenshot transcription above. Check actual audio and full metadata before publication. User corrections to earlier artist spellings and the one removed folder are respected.
 
 ## Inventory and 8-25 November illustration
 
