@@ -1,0 +1,27 @@
+# Welcome To The Black Parade - early paired-upload snapshot
+
+Source: user-supplied Studio screenshots in the 0673 Long Form and 2420 Short Form folders, since published from 6 Nov 2026, approximately 18 hours old by comment age/graphs. Snapshot, not current live data. User plans to supply updated 48+ hour retention, audience and revenue data for each upload. Processing may take longer; missing values are not zero.
+
+## Long Form 0673 - 5:10
+
+- Overview: 89 views, 1.1 watch hours; subscribers and estimated revenue shown as dashes. Retention not yet available.
+- Reach: 8.8k thumbnail impressions, 0.4% CTR; 89 views, unique viewers unavailable. Funnel: 39 engaged views from impressions, 0:53 average view duration and 0.58 watch hours from impressions. These are funnel-specific metrics, not the same population as overall.
+- Traffic shares of views: Suggested videos 78.7%, Browse features 14.6%, YouTube Search 3.4%, channel pages 1.1%, external 1.1%, others 1.1%. Suggested-by examples include Blood on the Dance Floor - BEWITCHED, INXS - Need You Tonight/Mediate, Rick and Morty soundtrack, Drowning Pool - Bodies, Bon Jovi - Always; first three 4.3% each and last two 2.9% each within that suggested-content report, not overall traffic. Small samples and percentages are rounded. Search terms card shows one phrase accounting for 100% of the search subset, itself 3.4% of total; not evidence of broad search demand.
+- Engagement: 57 engaged views, 1.1 watch hours, 1:09 average view duration; 100% likes ratio without visible like count, not proof of a large sample. End screen element click rate 0.0%; denominator not displayed. Retention not ready. Engagement AVD differs in population from the impressions-funnel AVD.
+- Audience: unique viewers, geography and demographics unavailable. Watch-time share, not share of views or people: computer 55.7%, mobile 40.8%, tablet 2.3%, TV 1.3%; 98.9% not subscribed, 1.1% subscribed.
+- Revenue: dash/no data, not confirmed zero. Details screenshot says public, ineligible to earn and partially blocked; no claimant or territories shown. Do not infer the cause or current status. A rights restriction could affect availability but the screenshot cannot establish its contribution to metrics.
+- Details show the prepared title and description; displayed tags present. Creator comment visible; pinned status not established by Studio comments view. Selected thumbnail shown is dark and visually busy at small size, a potential packaging test once more data is available, not proof it caused CTR. Video link in screenshot https://youtu.be/QrFQTC73ymc.
+
+## Short 2420 - 0:35 displayed, user-reported edit 34.5 seconds
+
+- Overview: 974 views, Studio compares to typical 990-1,300, 16 below lower bound and describes it as similar. Subscriber and estimated revenue fields show dashes. Retention processing.
+- Reach: Shorts feed 88.5%, YouTube Search 5.8%, other YouTube features 5.3%, Browse 0.2%, external 0.1%, others 0.1%. Search terms in search subset: my chemical romance 33.3%, the black parade my chemical romance 6.7%, bass harmony 2.2%, black parade 2.2%, unrelated term 2.2%; these are not percentages of all views and are early rounded values.
+- Engagement: 325 engaged views, 1.5 watch hours, 0:13 average view duration, labelled about the same as usual. 31.5% stayed, 68.5% swiped away in the feed engagement population; do not treat those as shares of total views or calculate AVD from all views. Average duration as a rough comparison is 13/35 = 37% of displayed length, not completion rate or a retention curve. No retention curve yet.
+- Audience: watch-time shares mobile 73.7%, computer 19.1%, TV 5.3%, tablet 1.9%; 96.3% not subscribed, 3.7% subscribed. Geography and unique viewers unavailable.
+- Revenue: dash/no data, not confirmed zero. Details screenshot: public, shopping disabled and potential limitation. These notices do not establish claimant, revenue or a geographic block. Related video field populated with a truncated Welcome To The Black Parade title, consistent with intended full version; exact target ID is not visible. Creator comment exists; pin status cannot be verified from this screenshot.
+
+## Interpretation and follow-up
+
+Both graphs show an early rise then flattening within the captured period; neither demonstrates a permanent plateau or why distribution slowed. The Long received impressions but low observed aggregate CTR; audience match, thumbnail, placement and other factors are hypotheses, not proven causes. The Short reached roughly its displayed usual range, with more swipes than stays; no claim that the edit or a particular lyric caused this. Its average duration is not a completion rate. No reliable conversion rate from Short to Long can be calculated from these screenshots; 974 and 89 are different populations. The source breakdown does not prove that any particular Short drove a Long view.
+
+Keep this as a baseline rather than rushing title, cut or thumbnail changes during initial processing. At 48+ hours compare the same metrics and time windows: retention graph (especially opening and transition), traffic-source breakdown and impressions, stayed/swiped, AVD, unique viewers, geography and device watch time, claim restrictions and eligible revenue/RPM where available. If LF CTR remains low with enough impressions, consider a clearer thumbnail test separately; avoid changing multiple variables at once and do not promise improvement. Review the provided screenshots when the user sends them; no background monitoring is implied.
