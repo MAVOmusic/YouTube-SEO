@@ -1,6 +1,6 @@
 # Planned recordings - older versions for later analytics
 
-Working cross-reference, not an exhaustive search. Matched against indexed Shorts 0001-2000 and long forms 0001-0674; separately known historical Black Parade Shorts 1434 and 1912 are noted below. Remaining Shorts 2001-2419 are not fully indexed. Similar titles, qualifiers, spelling and unknown/withheld identities need manual verification. IDs for new recordings are provisional and depend on actual chronological uploads. Folder paths below are expected from the Windows folder lists, not proof folders or analytics exist. Previously created repository folders can have different names; find those by ID.
+Working cross-reference, not an exhaustive search. Matched against indexed Shorts 0001-2422 and long forms 0001-0674; separately known historical Black Parade Shorts 1434 and 1912 are noted below. Short 2275 has conflicting metadata and several identities remain uncertain. Similar titles, qualifiers, spelling and unknown/withheld identities need manual verification. IDs for new recordings are provisional and depend on actual chronological uploads. Folder paths below are expected from the Windows folder lists, not proof folders or analytics exist. Previously created repository folders can have different names; find those by ID.
 
 Short paths are relative to the confirmed Windows Short Form root; long paths relative to the Long Form root. Check _01 - Main Info and _02 - Analytics, and retrieve current Studio analytics later, after all snippets have been processed. No analytics were gathered here.
 
@@ -70,6 +70,7 @@ Short paths are relative to the confirmed Windows Short Form root; long paths re
 - Long form: no match found within indexed coverage; not proof of absence.
 
 ## 0685 / 2432 - Silverstein - My Heroine
+- Short 2401: Silverstein - My Heroine. Screenshot-derived match; locate by ID and verify variant and actual folder.
 
 - Long form 0655: Silverstein - My Heroine. Expected folder: `0601 - 0700/0651 - 0660/0655 - Silverstein - My Heroine (Long Form)/`. Verify variant and actual location.
 - Short 1308: Silverstein - My Heroine. Expected folder: `1301 - 1400/1301 - 1310/1308 - Silverstein - My Heroine (Short Form)/`. Screenshot metadata only; verify the actual folder and performance.
@@ -230,6 +231,8 @@ Short paths are relative to the confirmed Windows Short Form root; long paths re
 - Long form 0012: Taking Back Sunday - Cute Without The 'E'. Expected folder: `0001 - 0100/0011 - 0020/0012 - Taking Back Sunday - Cute Without The 'E' (Long Form)/`. Verify variant and actual location.
 
 ## 0716 / 2463 - Jawbreaker - Accident Prone
+- Short 2277: Jawbreaker - Accident Prone. Screenshot-derived match; locate by ID and verify variant and actual folder.
+- Short 2391: Jawbreaker - Accident Prone. Screenshot-derived match; locate by ID and verify variant and actual folder.
 
 - Short: no match found within indexed coverage; not proof of absence.
 - Long form 0530: Jawbreaker - Accident Prone. Expected folder: `0501 - 0600/0521 - 0530/0530 - Jawbreaker - Accident Prone (Long Form)/`. Verify variant and actual location.
