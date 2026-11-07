@@ -221,3 +221,7 @@ These are known matches from the newly indexed range, not an exhaustive search o
 ## Reminder and analytics tracking - standing instruction
 
 After every completed 500-Short batch, remind MAVO of the upcoming songs and any current, conditional suggested upload times in both Budapest and UK time, and list known older Shorts and long forms for later analytics. Do not present expired suggestions as schedules. Keep each new long/Short pair simultaneous when actually published. Maintain `Ver 3.0/TXT/Planned_Recordings_Older_Versions.md` for all 52 reservations, updating it as each further batch is indexed. Gather or request matching analytics after all snippets are processed; do not claim incomplete searches prove absence.
+
+## AFI upload and next proposed windows - 7 November 2026
+
+MAVO reports AFI - Miss Murder uploaded as planned. The exact IDs and Studio settings remain to be independently verified; do not infer other uploads. Remaining previously proposed 7 Nov windows, conditional on readiness: Jimmy Eat World - Sweetness 13:30 Budapest / 12:30 UK; Alkaline Trio - Private Eye 16:00 / 15:00; Taking Back Sunday - You're So Last Summer 19:00 / 18:00; Brand New - The Quiet Things That No One Ever Knows 23:00 / 22:00. These are experiments, not confirmed schedules or proven optimal hours. Do not backdate missed slots. Yellowcard - Ocean Avenue is next in provisional order; a fresh time is needed. Pairs publish simultaneously when ready; review existing analytics and copy one song at a time.
