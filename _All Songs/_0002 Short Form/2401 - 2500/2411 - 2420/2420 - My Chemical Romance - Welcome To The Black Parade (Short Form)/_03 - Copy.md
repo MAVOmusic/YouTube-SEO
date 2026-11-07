@@ -6,12 +6,14 @@
 My Chemical Romance meets bass on Welcome To The Black Parade #bass
 ```
 
-## DESCRIPTION (208 characters)
+## DESCRIPTION (297 characters)
 
 ```text
 A bass moment from Welcome To The Black Parade by My Chemical Romance.
 
-Catch more live bass on Kick, with the stream mirrored on Twitch. Talk tracks with the community on Discord.
+This clip gives you a taste of the performance. Follow the related video beneath my handle for the full bass take.
+
+🟢 Find live bass on Kick, mirrored on Twitch. 💬 Come talk MCR with us on Discord.
 
 #MyChemicalRomance #Shorts
 ```
@@ -46,3 +48,5 @@ Artist-wide playlist classifications, not a claim all apply to this song. See Ba
 - User identifies this recording as a bass performance; verify the actual cut and upload.
 - User will attach the new matching LF 0673 as the related video; check its availability and eligibility when selecting it.
 - Current Studio settings, live comments, claims and territories are not verified.
+
+- 2026-11-07: Description revised after user feedback on style; proposed replacement only, not evidence of a live Studio edit. Other surfaces retained.
