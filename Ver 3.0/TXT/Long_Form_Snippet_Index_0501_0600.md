@@ -2,7 +2,7 @@
 
 2026-11-07: visually reviewed all ten screenshots in `_All Songs/_0001 Long Form/_Songname Snippets/0501 - 0600/`. The user confirms page ranges and row order are fixed chronological IDs. Many song identities came from description previews when older-AI titles did not name the song; those old titles are not accepted into the catalogue. Prepared-title fields remain N/A pending current-process review.
 
-0533 reads Chicago - 26 Or 6 To 4 in both title and description; this may be a typo for 25 Or 6 To 4, but the actual recording was not heard and the screenshot wording is retained pending user confirmation. 0554, 0558 and 0559 are completed from the visible description previews. Album or recording claims in old AI descriptions are not independently verified.
+0533 screenshot reads Chicago - 26 Or 6 To 4. The user confirms the correct song is 25 Or 6 To 4. 0554, 0558 and 0559 are completed from the visible description previews. Album or recording claims in old AI descriptions are not independently verified.
 
 - 0501: EURINGER - Be Afraid Who You Are
 - 0502: Dance Gavin Dance - Elder Goose
@@ -36,7 +36,7 @@
 - 0530: Jawbreaker - Accident Prone
 - 0531: Billy Ocean - Red Light Spells Danger
 - 0532: Rush - Tom Sawyer
-- 0533: Chicago - 26 Or 6 To 4 [as shown; verify]
+- 0533: Chicago - 25 Or 6 To 4 (user correction; screenshot says 26)
 - 0534: Pegboard Nerds Feat. Koda - Heaven Let Us Down
 - 0535: All That Remains - This Calling
 - 0536: BrokeNCYDE - GCOD Intro

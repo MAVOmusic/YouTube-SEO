@@ -200,3 +200,7 @@ The calendar follows this working queue, not a final promise of song-specific ti
 ## Sponsor handling
 
 User says sponsors pay for showing banners on stream, not for YouTube, and recordings retain the stream overlay. That distinction is important: no YouTube-specific fee should be inferred. Still, a paid stream promotion remains visible in repurposed video, so conservatively declare on videos containing it and check whether the underlying deal covers reuse. Review format and local disclosure per TXT/New_Recordings_Sponsor_Guidance.md. Declaration doesn't automatically approve embedded ads.
+
+## Screenshot confirmation - 7 November 2026
+
+The 0671-0674 Studio screenshot shows 0673 Black Parade and 0674 Misery Business as published. Both showed partially blocked and ineligible to earn at capture, territories unknown. This does not verify Shorts publication or related-video settings. Later reserved IDs remain conditional on actual chronology.

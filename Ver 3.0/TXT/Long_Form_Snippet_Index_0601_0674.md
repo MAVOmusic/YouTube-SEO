@@ -1,0 +1,78 @@
+# Long-form Studio screenshot index 0601-0674
+
+All eight Studio screenshots reviewed. IDs are the fixed page range and row positions, as confirmed by the user. Song identities generally come from old title or description previews; old-AI titles are not accepted into the catalogue. 0643, 0673 and 0674 retain the current-process titles already prepared. Both 0673 and 0674 appear published, with a partial block and ineligible-to-earn notice at screenshot time; their current status and territories may change. Do not infer Short 2421 publication from the long-form screenshot.
+
+- 0601: Joe Satriani - Satch Boogie
+- 0602: Alexisonfire - No Transitory
+- 0603: The Strokes - Last Nite
+- 0604: BrokeNCYDE - Band Tee
+- 0605: The Strokes - Juicebox
+- 0606: 9mm Parabellum Bullet - Sacrifice
+- 0607: Rage Against The Machine - Bulls On Parade
+- 0608: Gary Wright - Dream Weaver
+- 0609: Bummrraa - Butt Ugly Playroom
+- 0610: Rick Springfield - Jessie's Girl
+- 0611: Huey Lewis and the News - The Power Of Love
+- 0612: Foo Fighters - Run
+- 0613: Squeeze - Cool For Cats
+- 0614: Pendulum Feat. In Flames - Self VS. Self
+- 0615: Billie Eilish - Bad Guy
+- 0616: Pendulum - 9,000 Miles
+- 0617: The Dandy Warhols - Bohemian Like You
+- 0618: Attila - Pizza
+- 0619: Autopilot Off - The 12th Day
+- 0620: Temple Of The Dog - Hunger Strike
+- 0621: BrokeNCYDE - 2 Drunk 2 Drive
+- 0622: Coheed And Cambria - A Favor House Atlantic
+- 0623: Avenged Sevenfold - A Little Piece Of Heaven
+- 0624: Rammstein - Adieu
+- 0625: The Boomtown Rats - I Don't Like Mondays
+- 0626: Rammstein - Adios
+- 0627: The Mamas & The Papas - Monday, Monday
+- 0628: Happy Mondays - Step On
+- 0629: The Bangles - Manic Monday
+- 0630: Pratt & McClain - Happy Days
+- 0631: The Allman Brothers Band - Stormy Monday
+- 0632: Coldrampage - Spoon
+- 0633: Rammstein - Amerika
+- 0634: Rammstein - Hilf Mir
+- 0635: Rammstein - Alter Mann
+- 0636: Rammstein - Amour
+- 0637: Pegboard Nerds - Heaven Let Us Down
+- 0638: Rammstein - Angst
+- 0639: Cream - Those Were The Days
+- 0640: T. Rex - 20th Century Boy
+- 0641: Tommy Tutone - 867-5309/Jenny
+- 0642: All Time Low - A Love Like War
+- 0643: Paramore - Misery Business
+- 0644: Jawbreaker - Accident Prone
+- 0645: Rammstein - Ein Lied
+- 0646: Weird Al - Amish Paradise
+- 0647: Kreator - Enemy Of God
+- 0648: System Of A Down - Lonely Day
+- 0649: Die Antwoord - Enter The Ninja
+- 0650: Scorpions - Wind Of Change
+- 0651: Rogue x Stonebank x Slippy - Unity
+- 0652: Paramore - All I Wanted
+- 0653: Lostprophets - Last Train Home
+- 0654: Johnny Cash - Personal Jesus
+- 0655: Silverstein - My Heroine
+- 0656: Rammstein - Du Hast
+- 0657: Avril Lavigne - How Does It Feel
+- 0658: Korn - Twisted Transistor
+- 0659: +44 - Chapter XIII
+- 0660: Paramore - All I Wanted
+- 0661: Nirvana - The Man Who Sold The World (MTV Unplugged)
+- 0662: Linkin Park - Lying From You
+- 0663: Chevelle - The Red
+- 0664: Rammstein - Du Hast
+- 0665: My Chemical Romance - Dead!
+- 0666: Paramore - Decode
+- 0667: Green Day - 21 Guns
+- 0668: Ado - Usseewa
+- 0669: Johnny Cash - Personal Jesus
+- 0670: System Of A Down - Toxicity
+- 0671: Linkin Park - Numb
+- 0672: Arctic Monkeys - Do I Wanna Know?
+- 0673: My Chemical Romance - Welcome To The Black Parade
+- 0674: Paramore - Misery Business
