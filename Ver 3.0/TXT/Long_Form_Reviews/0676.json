@@ -1,9 +1,9 @@
 {
   "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-07T15:24:54.682180+00:00",
+  "reviewed_at": "2026-11-07T18:42:44.716431+00:00",
   "surface_sha256": {
     "title": "d78af2d7dc7207ec9ee0250402ecadbafee20eb36d0588628f42137dcae256cf",
-    "description": "57b18773d9ca736a88cba2add740431356aef7dc0f5253d173bc8b3cf4917296",
+    "description": "d6f038710e336559ff9db8ddefb9207bebcb10871d74022343ce373b116f7b60",
     "tags": "ef17bb134088bfb038279ec70046957450f92a5ac47a7dd287e2bd51377e58af",
     "pinned comment": "63420239d1f0c5f9e20e32f006effeac6bae1c07c7fbd454439b324d4093bcf6",
     "genres": "f953b7cdd36a655a4dacd0d8b89e27c3bd964608a5a974f4d18f8323254c82ff"
@@ -51,12 +51,18 @@
       "claim": "Artist-wide playlist categories",
       "source": "https://www.allmusic.com/artist/jimmy-eat-world-mn0000852688",
       "assessment": "Subjective artist-level classification, not a claim every genre describes this particular track."
+    },
+    {
+      "surface": "description",
+      "claim": "Revised description retains song context and invites a listener response; optional Discord boost and Kick/Twitch links",
+      "source": "https://www.udiscovermusic.com/news/jimmy-eat-world-sweetness/",
+      "assessment": "Source supports the album, producer or earlier-recording context respectively; creator performance and community links follow user instructions, not independent proof of current Studio settings."
     }
   ],
   "distinct_fact_and_source": "Re-recording of an earlier version for Bleed American; distinct from Short music-video director. https://www.udiscovermusic.com/news/jimmy-eat-world-sweetness/",
-  "uniqueness_assessment": "Reviewed cross-video five-word collision signals; they concern stream/link connective language and generic bass phrasing, not duplicated song facts. Song angle, title and question differ from other available packages and paired Short. Unseen live-only content cannot be assessed.",
+  "uniqueness_assessment": "Reviewed cross-video five-word collision signals; they concern stream/link connective language and generic bass phrasing, not duplicated song facts. Song angle, title and question differ from other available packages and paired Short. Unseen live-only content cannot be assessed. 2026-11-07 five-pair review: inspected current five-word signals; recurring song titles, chart terminology and functional social/boost phrasing, plus generic performance wording, are not evidence of identical packages. Same-song and prior accessible edit comparison remains limited; unseen material cannot be ruled out.",
   "uncertainties_and_removed_claims": "Song and new performance supplied by user, not inspected; no claim about tuning, exact arrangement, game, claims or current pins. Indexed absence is not proof of no previous upload.",
-  "collision_report_sha256": "a0cefb1303933ada71be12ea5fe463a3b49959d1300c4f8b412b3f21b0fc663f",
+  "collision_report_sha256": "c924776b05ca67270fd5fbc84a8aa83c72b9c1e8d52a8e5d5ce50dfac9b7fcd5",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
 }

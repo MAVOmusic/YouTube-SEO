@@ -1,9 +1,9 @@
 {
   "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-07T00:12:44.977197+00:00",
+  "reviewed_at": "2026-11-07T18:42:44.716003+00:00",
   "surface_sha256": {
     "title": "3d871be9c4d2b8503355af58450e732a6576c8eb67637b914fb6a3542ee83284",
-    "description": "a2fb861a1b7bb3fe4391ce1e1d0608cdb5bee8a4ecdd81969c792c28f0f8be1a",
+    "description": "cb46444deb53a9b03aa30dd0cb2a6ff6ca56e9db9cbd327c6cd42d87d0489182",
     "tags": "5a806a5eb2da1814023b496be3bf09e70e839b7f3b8e54274fe94a94af73af2a",
     "pinned comment": "6c39e66c28afbbba6c3d03a5e452770a85730d029e64f63bd6e4ce5f6a0e7c82",
     "genres": "ef836c776bb81dfda5a667fe94b9646812b3b8f2d56d3a97f84d211f26167b3e"
@@ -63,12 +63,18 @@
       "claim": "Decemberunderground debuted at number one on Billboard 200",
       "source": "https://www.billboard.com/music/music-news/afi-burns-brightly-with-no-1-debut-58141/",
       "assessment": "Same supported fact as description; question does not claim an album preference."
+    },
+    {
+      "surface": "description",
+      "claim": "Revised description retains song context and invites a listener response; optional Discord boost and Kick/Twitch links",
+      "source": "https://www.billboard.com/music/music-news/afi-burns-brightly-with-no-1-debut-58141/",
+      "assessment": "Source supports the album, producer or earlier-recording context respectively; creator performance and community links follow user instructions, not independent proof of current Studio settings."
     }
   ],
   "distinct_fact_and_source": "Decemberunderground debuted at number one on Billboard 200: https://www.billboard.com/music/music-news/afi-burns-brightly-with-no-1-debut-58141/; distinct from Marc Webb long music-video fact in Short 2422.",
-  "uniqueness_assessment": "Reviewed two five-word signals from LF 0673; at number one on the is common wording for different countries and works (MCR single on UK singles chart, AFI album on Billboard 200). Title, fact and CTA differ. Unseen live-only corpus cannot be assessed.",
+  "uniqueness_assessment": "Reviewed two five-word signals from LF 0673; at number one on the is common wording for different countries and works (MCR single on UK singles chart, AFI album on Billboard 200). Title, fact and CTA differ. Unseen live-only corpus cannot be assessed. 2026-11-07 five-pair review: inspected current five-word signals; recurring song titles, chart terminology and functional social/boost phrasing, plus generic performance wording, are not evidence of identical packages. Same-song and prior accessible edit comparison remains limited; unseen material cannot be ruled out.",
   "uncertainties_and_removed_claims": "User reports no existing AFI Miss Murder uploads; no song-specific analytics. New recording and cut not inspected, do not claim game or tuning. Rights and actual upload chronology unknown.",
-  "collision_report_sha256": "9425c1f56bd2e9afc2ab1cf5475c45eec5effc833f1c279bfbd55f3dc7d9ccc7",
+  "collision_report_sha256": "307314e6f2a8ad6415abfef0ae1aa59c79560f2694315a4ea758ea65180a4d68",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
 }

@@ -6,14 +6,16 @@
 Sweetness on four strings | Jimmy Eat World bass cover
 ```
 
-## DESCRIPTION (354 characters)
+## DESCRIPTION (493 characters)
 
 ```text
-Jimmy Eat World - Sweetness: a full bass performance. The band re-recorded the song for Bleed American after an earlier version was left off Clarity.
+Jimmy Eat World recorded Sweetness before revisiting it for Bleed American. Join me for a complete bass playthrough.
 
-Hear more live bass on Kick: https://kick.com/mavomusic
-The stream is mirrored on Twitch: https://www.twitch.tv/mavomusic
-Talk Jimmy Eat World with the community on Discord: https://discord.gg/ESGsGkN4j2
+Settle in for the complete track and listen to the bass throughout. Does Sweetness bring back a particular memory for you?
+
+🟢 Come along for live bass on Kick: https://kick.com/mavomusic
+🟣 Drop into the Twitch mirror and say hello: https://www.twitch.tv/mavomusic
+💬 Tell us your Jimmy Eat World favourites on Discord; boosts are always optional: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (185 characters)
@@ -44,3 +46,5 @@ Artist-level playlist classifications; not every style necessarily describes thi
 - Artist styles: https://www.allmusic.com/artist/jimmy-eat-world-mn0000852688
 - User-supplied identity; recording, cut, upload chronology and rights not independently inspected.
 - Check overlay, paid promotion and any rights claims in Studio. Prefer a genuine artist comment if present.
+
+- 2026-11-07: Proposed individual copy review; current Studio copy and pin not verified.

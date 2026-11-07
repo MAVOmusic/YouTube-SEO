@@ -1,9 +1,9 @@
 {
   "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-06T23:21:41.832465+00:00",
+  "reviewed_at": "2026-11-07T18:42:44.715524+00:00",
   "surface_sha256": {
     "title": "235f0fb0c55d5444ac47cf3d1950953a466eaea8cc13e6d6004deb6cb92d6593",
-    "description": "79a5625c4f9501bb67ba97895b4fc711beee3cc367045d2805c2c792eec9b82b",
+    "description": "cd31396011a4d73eedd03c342e82c1f1a422e5e4ca52787811a47cb0eef06242",
     "tags": "acd888fb7b3c4035ce66e39d3fe9b273101e3da86e8ca8299d88c4473ebc94be",
     "pinned comment": "cff790ef7bf348b74e5f84b336ad80cc31d7085c0c827a16cbe2791d4b0581fd",
     "genres": "e39b35d77197353ee45d286888eb5a7da7b5729c4822d026e51761fb8e107674"
@@ -63,12 +63,18 @@
       "claim": "David Bendeth produced Misery Business, on album Riot!",
       "source": "https://genius.com/Paramore-misery-business-lyrics",
       "assessment": "Source supports the stated historical fact, not a prediction of performance."
+    },
+    {
+      "surface": "description",
+      "claim": "Revised description retains song context and invites a listener response; optional Discord boost and Kick/Twitch links",
+      "source": "https://genius.com/Paramore-misery-business-lyrics",
+      "assessment": "Source supports the album, producer or earlier-recording context respectively; creator performance and community links follow user instructions, not independent proof of current Studio settings."
     }
   ],
   "distinct_fact_and_source": "David Bendeth produced Misery Business, on album Riot! - https://genius.com/Paramore-misery-business-lyrics; distinct from music-video director and 2019 game pack facts in these Shorts, and old archive copy.",
-  "uniqueness_assessment": "Reviewed 0 five-word signals and the old Paramore package at Ver 3.0/bands/P/Paramore/Misery_Business/0080/30-07-2026.md, both historical screenshots, and new same-song drafts. UK chart terms are necessary proper nouns, functional Kick/Twitch wording is shared; titles, source angles and CTA questions differ. Semantic overlap and unobserved live-only material cannot be ruled out.",
+  "uniqueness_assessment": "Reviewed 0 five-word signals and the old Paramore package at Ver 3.0/bands/P/Paramore/Misery_Business/0080/30-07-2026.md, both historical screenshots, and new same-song drafts. UK chart terms are necessary proper nouns, functional Kick/Twitch wording is shared; titles, source angles and CTA questions differ. Semantic overlap and unobserved live-only material cannot be ruled out. 2026-11-07 five-pair review: inspected current five-word signals; recurring song titles, chart terminology and functional social/boost phrasing, plus generic performance wording, are not evidence of identical packages. Same-song and prior accessible edit comparison remains limited; unseen material cannot be ruled out.",
   "uncertainties_and_removed_claims": "New media not independently inspected; no new game version or tuning asserted. Screenshot is historical, does not verify current pins, rights or territories. Studio title of existing Short related item matches LF 0643, destination ID not shown.",
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "collision_report_sha256": "f47e40f53fd61d0f3283819bba9db2ce772f54a66b355dec9f3270fe03d54246",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
 }
