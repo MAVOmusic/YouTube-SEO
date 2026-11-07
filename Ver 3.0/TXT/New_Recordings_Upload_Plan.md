@@ -217,3 +217,7 @@ User will supply first 500 Short snippets, then further batches of 500. For each
 - Taking Back Sunday - Cute Without The 'E' (Cut From The Team): existing Short 0922 appears in the Studio screenshot. The planned new Short 2462 is a reservation, not evidence of publication. Once created on the PC, its folder is `0901 - 1000/0921 - 0930/0922 - Taking Back Sunday - Cute Without The 'E' (Cut From The Team) (Short Form)/`, with the same Main Info and Analytics subfolders. Check Studio for current metadata and analytics.
 
 These are known matches from the newly indexed range, not an exhaustive search of the still-incomplete Shorts catalogue. The folder creator only creates empty folders, not historical analytics or copy.
+
+## Reminder and analytics tracking - standing instruction
+
+After every completed 500-Short batch, remind MAVO of the upcoming songs and any current, conditional suggested upload times in both Budapest and UK time, and list known older Shorts and long forms for later analytics. Do not present expired suggestions as schedules. Keep each new long/Short pair simultaneous when actually published. Maintain `Ver 3.0/TXT/Planned_Recordings_Older_Versions.md` for all 52 reservations, updating it as each further batch is indexed. Gather or request matching analytics after all snippets are processed; do not claim incomplete searches prove absence.
