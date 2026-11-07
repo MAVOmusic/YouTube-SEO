@@ -2,6 +2,23 @@
 
 Two screenshots: 23 + 29 = 52 recordings. User supplied corrections for three first-batch folders. These are planning reservations only; not evidence uploads exist, Shorts have been cut, audio identities verified, or publishing scheduled. Number assignment assumes one new long form and one new Short per recording in this order, starting from the user-reported 0673 and 2420. Actual upload chronology must determine the final numbers; revise reservations if order changes, a format is skipped, or another upload intervenes. Do not overwrite existing uploads. User has additional recordings for a later batch.
 
+## Revised queue - 17:50 Budapest, 7 November 2026
+
+User reports an online-cutter encoding failure and asks for two more song pairs today, then six tomorrow. Sweetness is not yet finished. These are conditional proposals, not scheduled or published uploads; publish Long and Short together when ready. Move a slot if editing, uploading or review is not complete. Do not infer publication from this plan. IDs assume no intervening uploads and the listed order.
+
+| Budapest | UK | Provisional LF / Short | Song |
+| --- | --- | --- | --- |
+| Sat 19:30 | 18:30 | 0676 / 2423 | Jimmy Eat World - Sweetness |
+| Sat 22:30 | 21:30 | 0677 / 2424 | Alkaline Trio - Private Eye |
+| Sun 10:00 | 09:00 | 0678 / 2425 | Taking Back Sunday - You're So Last Summer |
+| Sun 12:30 | 11:30 | 0679 / 2426 | Brand New - The Quiet Things That No One Ever Knows |
+| Sun 15:00 | 14:00 | 0680 / 2427 | Yellowcard - Ocean Avenue |
+| Sun 17:30 | 16:30 | 0681 / 2428 | Finch - Letters To You |
+| Sun 20:00 | 19:00 | 0682 / 2429 | Jimmy Eat World - Futures |
+| Sun 22:30 | 21:30 | 0683 / 2430 | New Found Glory - My Friends Over You |
+
+Today allows recovery and editing, plus UK evening and US afternoon; Sunday's daytime includes the channel's historical weekend activity, not song-specific or country-by-hour proof. These are flexible tests, not optimized guarantees. Older exact matches for first two not found in indexed coverage, not proven absent. The first three copies were prepared previously; tomorrow's remaining titles need individual review and available old-version analytics. The earlier 16:21 queue below is superseded.
+
 ## Revised queue - user update at 16:21 Budapest, 7 November 2026
 
 The 13:30 and 16:00 proposals were missed due to lack of sleep. Three more paired releases today, six tomorrow, if copy, media and upload are ready. At least one hour preparation from 16:21; do not backdate. These are suggestions, not scheduled uploads. Publish each Long and Short together; attach each new Short to its matching new Long when eligible. IDs depend on actual upload order.
