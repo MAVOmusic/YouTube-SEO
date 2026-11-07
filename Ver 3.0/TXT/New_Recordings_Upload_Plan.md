@@ -2,6 +2,31 @@
 
 Two screenshots: 23 + 29 = 52 recordings. User supplied corrections for three first-batch folders. These are planning reservations only; not evidence uploads exist, Shorts have been cut, audio identities verified, or publishing scheduled. Number assignment assumes one new long form and one new Short per recording in this order, starting from the user-reported 0673 and 2420. Actual upload chronology must determine the final numbers; revise reservations if order changes, a format is skipped, or another upload intervenes. Do not overwrite existing uploads. User has additional recordings for a later batch.
 
+## Audience-window experiment - revised 7 November 2026
+
+User rejected mechanical 2.5-hour spacing and wants viewer-base-focused tests, with six paired songs per day now and future expansion to seven through ten. Times are test hypotheses, not proven peaks or scheduled uploads. Each new Long and Short publishes together; don't skip media, rights and copy review, and don't assume IDs or publication before actual chronology. Tonight means two further pairs if possible. Any missed slot moves forward, not backdated. User is working in Budapest.
+
+Evidence: the 28-day channel heatmap was visually strongest at weekends around 14:00-16:00 UK GMT (15:00-17:00 Budapest), not country- or song-specific. Displayed 28-day geography was US 25.1%, Mexico 2.8%, UK 1.7%, Brazil 1.2%, Indonesia 0.7%; other/unknown geography not zero. Separate 365-day UK 17.5%, US 16.8%, India 14.8%; overlapping periods and potential paid promotion mean neither population is necessarily current organic demand. Song-specific audience time unknown; India and US local evenings are exploratory, not measured peaks. US and UK daylight-saving transitions have already occurred for these dates; Budapest is UTC+1, UK UTC+0, New York UTC-5, Los Angeles UTC-8, India UTC+5:30. Recalculate for dates after DST changes.
+
+| Budapest | UK | New York | Los Angeles | India | Provisional LF / Short | Song / test rationale |
+| --- | --- | --- | --- | --- | --- | --- |
+| Sat 19:30 | 18:30 | 13:30 | 10:30 | Sun 00:00 | 0676 / 2423 | Sweetness - preparation plus UK evening / US daytime; move if not ready |
+| Sat 23:00 | 22:00 | 17:00 | 14:00 | Sun 03:30 | 0677 / 2424 | Private Eye - US afternoon and UK late evening |
+| Sun 02:00 | 01:00 | Sat 20:00 | Sat 17:00 | 06:30 | 0678 / 2425 | You're So Last Summer - exploratory US evening / West afternoon |
+| Sun 05:00 | 04:00 | Sat 23:00 | Sat 20:00 | 09:30 | 0679 / 2426 | The Quiet Things That No One Ever Knows - exploratory West Coast evening, late Eastern |
+| Sun 13:30 | 12:30 | 07:30 | 04:30 | 18:00 | 0680 / 2427 | Ocean Avenue - exploratory India evening / UK lunchtime |
+| Sun 16:00 | 15:00 | 10:00 | 07:00 | 20:30 | 0681 / 2428 | Letters To You - strongest observed weekend channel activity and India evening overlap |
+| Sun 19:00 | 18:00 | 13:00 | 10:00 | 23:30 | 0682 / 2429 | Futures - UK evening / US afternoon |
+| Sun 23:00 | 22:00 | 17:00 | 14:00 | Mon 03:30 | 0683 / 2430 | My Friends Over You - US afternoon / UK late evening |
+
+Night slots require both videos to be fully ready and scheduled in Studio ahead of time; the agent has not scheduled anything. User need not stay awake. If 0677 is not ready by 23:00, adjust next day and realign all provisional IDs. Song-specific timing must not be inferred from these artist assignments. No older exact matches found for these within indexed LF 0001-0674 and Shorts 0001-2422; coverage has unknown identities, so absence is unproven. First three copy pairs prepared; others need individual review.
+
+### Experiment design and scale-up
+
+Maintain six test windows for multiple comparable days before drawing conclusions, ideally repeat on more than one weekday/weekend. Cycle/rotate comparable songs across windows where feasible; different songs, days, Shorts cuts, restrictions, paid promotion and format are confounders. Record actual publish time, local offsets, format, song, rights restrictions, any ad spend, each Short's related video, and source. At common age (e.g. 24h, 48h, 7d), compare Short views, feed reach, stayed/swiped, engaged views, AVD and retention, LF impressions/CTR, watch time and retention, plus geographic data and traffic source when reported. Missing data is not zero; use per-video matched windows and note limited samples. Do not infer causality from one track per slot or infer LF conversion from total view ratio. YouTube says publish time is not known to influence long-term performance: https://support.google.com/youtube/answer/141805?hl=en.
+
+If bandwidth, quality and results support expansion, increase one paired song at a time and keep the six baseline windows for comparison. Candidate additions, one per added pair: 10:00 Budapest (09:00 UK, 04:00 NY, 01:00 LA, 14:30 India); 11:30 (10:30, 05:30, 02:30, 16:00); 17:30 (16:30, 11:30, 08:30, 22:00); 21:00 (20:00, 15:00, 12:00, next-day 01:30). These fill exploratory gaps, not proven demand. Additional density changes cadence and overlapping audience exposure as well as time; compare with care. Do not silently change the recording order or promise a fixed performance benefit.
+
 ## Revised queue - 17:50 Budapest, 7 November 2026
 
 User reports an online-cutter encoding failure and asks for two more song pairs today, then six tomorrow. Sweetness is not yet finished. These are conditional proposals, not scheduled or published uploads; publish Long and Short together when ready. Move a slot if editing, uploading or review is not complete. Do not infer publication from this plan. IDs assume no intervening uploads and the listed order.
