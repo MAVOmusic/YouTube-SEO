@@ -1,0 +1,20 @@
+SHORT FORM FOLDER CREATOR - 0011 TO 0500
+
+Keep the .ps1 script and the folder names .txt file together in the same folder on your PC. The base folder must already exist:
+E:\_YT\YT Revive\_VER\Ver 3.00\_All Songs\_02 - Short Form
+
+Open PowerShell in the folder containing both files. Preview first:
+
+.\Create Short Form Folders 0011 - 0500.ps1 -WhatIf
+
+If the preview is correct, run:
+
+.\Create Short Form Folders 0011 - 0500.ps1
+
+If your PowerShell execution policy blocks the script, use a temporary process-only bypass:
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+The script creates missing folders only, never deletes or overwrites existing files, and stops before creating anything if a differently named item already uses one of the target numbers or a file blocks a required path. Matching existing folders are reused. A filesystem failure or concurrent change after preflight can still interrupt a run; inspect any error and rerun after resolving it. No native Windows PowerShell execution was available during preparation.
+
+The list includes 0001-0010 for reference, but the script does not create or change those ten. Short 0009 uses a withheld-title placeholder in the list in line with CO-0026 and does not rename an existing folder. For 0059, a forbidden Windows filename character in the screenshot's censored spelling is represented by an underscore. Other invalid filename characters are removed or replaced with a hyphen/underscore as appropriate. Screenshot-derived names are historical metadata and do not verify the audio. User-confirmed 0235 and 0284 override conflicting descriptions. 0157 and 0275 use description matches to existing repository copy; 0208 has a mismatching description and uses the screenshot title.

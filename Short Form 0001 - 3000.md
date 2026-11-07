@@ -4,6 +4,8 @@ Channel upload-order index, not the older canonical-song numbering. `N/A` means 
 
 Rows labelled **[reserved]** are provisional planned recordings, not confirmed uploads. Actual upload chronology determines their final numbers; move/update both catalogues if it changes. Short 2420 was visible as published; precise live metadata was not verified. See [upload plan](Ver%203.0/TXT/New_Recordings_Upload_Plan.md) and individual `_03 - Copy.md` files for evidence and status. Older `bands/` canonical IDs and `Master_Shorts_Repository.txt` must not be treated as chronological upload IDs.
 
+Rows 0001-0500 include screenshot-derived identities. Shorts 0235 and 0284 follow the user-confirmed performances where screenshot titles and descriptions disagreed. Some other identities are derived from descriptions or matching repository copy; they are not audio verification. See the Short Form snippet indexes in `Ver 3.0/TXT/`.
+
 Update the appropriate row whenever a song identity or title is newly supplied or revised. Maintain separate long-form and Short numbering, preserve unknowns, mark reservations, and run the catalogue checker.
 
 ## 0001 - 0100
@@ -165,371 +167,371 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0148 | Tenacious D - Beelzeboss | N/A |
 | 0149 | Sabaton - Karolinens Bön | N/A |
 | 0150 | Die Antwoord - Enter The Ninja | N/A |
-| 0151 | N/A | N/A |
-| 0152 | N/A | N/A |
-| 0153 | N/A | N/A |
-| 0154 | N/A | N/A |
-| 0155 | N/A | N/A |
-| 0156 | N/A | N/A |
-| 0157 | N/A | N/A |
-| 0158 | N/A | N/A |
-| 0159 | N/A | N/A |
-| 0160 | N/A | N/A |
-| 0161 | N/A | N/A |
-| 0162 | N/A | N/A |
-| 0163 | N/A | N/A |
-| 0164 | N/A | N/A |
-| 0165 | N/A | N/A |
-| 0166 | N/A | N/A |
-| 0167 | N/A | N/A |
-| 0168 | N/A | N/A |
-| 0169 | N/A | N/A |
-| 0170 | N/A | N/A |
-| 0171 | N/A | N/A |
-| 0172 | N/A | N/A |
-| 0173 | N/A | N/A |
-| 0174 | N/A | N/A |
-| 0175 | N/A | N/A |
-| 0176 | N/A | N/A |
-| 0177 | N/A | N/A |
-| 0178 | N/A | N/A |
-| 0179 | N/A | N/A |
-| 0180 | N/A | N/A |
-| 0181 | N/A | N/A |
-| 0182 | N/A | N/A |
-| 0183 | N/A | N/A |
-| 0184 | N/A | N/A |
-| 0185 | N/A | N/A |
-| 0186 | N/A | N/A |
-| 0187 | N/A | N/A |
-| 0188 | N/A | N/A |
-| 0189 | N/A | N/A |
-| 0190 | N/A | N/A |
-| 0191 | N/A | N/A |
-| 0192 | N/A | N/A |
-| 0193 | N/A | N/A |
-| 0194 | N/A | N/A |
-| 0195 | N/A | N/A |
-| 0196 | N/A | N/A |
-| 0197 | N/A | N/A |
-| 0198 | N/A | N/A |
-| 0199 | N/A | N/A |
-| 0200 | N/A | N/A |
+| 0151 | Pantera - Cemetery Gates | N/A |
+| 0152 | Motionless In White - Abigail | N/A |
+| 0153 | Korn - Word Up! | N/A |
+| 0154 | Motionless In White - B.F.B.T.G.: Corpse Nation | N/A |
+| 0155 | Sabaton - Screaming Eagles | N/A |
+| 0156 | Avenged Sevenfold - Bat Country | N/A |
+| 0157 | 04 Limited Sazabys - Galapagos | N/A |
+| 0158 | 10 Years - Wasteland | N/A |
+| 0159 | "Weird Al" Yankovic - Foil | N/A |
+| 0160 | Sabaton - Wehrmacht | N/A |
+| 0161 | Linkin Park - QWERTY | N/A |
+| 0162 | Billy Talent - Sympathy | N/A |
+| 0163 | The Rasmus - In The Shadows | N/A |
+| 0164 | 10 Years - All Your Lies | N/A |
+| 0165 | ZZ Top - La Grange | N/A |
+| 0166 | Sabaton - Unbreakable | N/A |
+| 0167 | Midnight Oil - Beds Are Burning | N/A |
+| 0168 | Linkin Park - Faint | N/A |
+| 0169 | -M- (Matthieu Chedid) - Qui De Nous Deux | N/A |
+| 0170 | +44 (Plus 44) - No, It Isn't | N/A |
+| 0171 | *NSYNC - Bye Bye Bye | N/A |
+| 0172 | Sabaton - Attero Dominatus | N/A |
+| 0173 | 'Til Tuesday - Voices Carry | N/A |
+| 0174 | Aloe Blacc - I Need A Dollar | N/A |
+| 0175 | Rammstein - Mein Teil | N/A |
+| 0176 | Red Hot Chili Peppers - Dosed | N/A |
+| 0177 | Sabaton - The Carolean's Prayer | N/A |
+| 0178 | Our Last Night - Clarity | N/A |
+| 0179 | 9mm Parabellum Bullet - Sacrifice | N/A |
+| 0180 | 100 Gecs - Money Machine | N/A |
+| 0181 | Sabaton - Hearts Of Iron | N/A |
+| 0182 | Linkin Park - Papercut | N/A |
+| 0183 | A Day To Remember - Another Song About The Weekend | N/A |
+| 0184 | Willie Nelson - Whiskey River | N/A |
+| 0185 | ABBA - Thank You For The Music | N/A |
+| 0186 | Motionless In White - America | N/A |
+| 0187 | Sabaton - Metal Crüe | N/A |
+| 0188 | Adam And The Ants - That Voodoo! | N/A |
+| 0189 | 10 Years - Actions And Motives | N/A |
+| 0190 | 12 Stones - The Way I Feel | N/A |
+| 0191 | ABBA - Waterloo | N/A |
+| 0192 | Motionless In White - Voices | N/A |
+| 0193 | Sabaton - The Ballad Of Bull | N/A |
+| 0194 | Twenty One Pilots - Stressed Out | N/A |
+| 0195 | Paramore - Decode | N/A |
+| 0196 | 12 Stones - Crash | N/A |
+| 0197 | Falling In Reverse - Zombified | N/A |
+| 0198 | Motionless In White - Brand New Numb | N/A |
+| 0199 | Sabaton Feat. Radio Tapok - The Attack Of The Dead Men | N/A |
+| 0200 | George Michael - Faith | N/A |
 
 ## 0201 - 0300
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 0201 | N/A | N/A |
-| 0202 | N/A | N/A |
-| 0203 | N/A | N/A |
-| 0204 | N/A | N/A |
-| 0205 | N/A | N/A |
-| 0206 | N/A | N/A |
-| 0207 | N/A | N/A |
-| 0208 | N/A | N/A |
-| 0209 | N/A | N/A |
-| 0210 | N/A | N/A |
-| 0211 | N/A | N/A |
-| 0212 | N/A | N/A |
-| 0213 | N/A | N/A |
-| 0214 | N/A | N/A |
-| 0215 | N/A | N/A |
-| 0216 | N/A | N/A |
-| 0217 | N/A | N/A |
-| 0218 | N/A | N/A |
-| 0219 | N/A | N/A |
-| 0220 | N/A | N/A |
-| 0221 | N/A | N/A |
-| 0222 | N/A | N/A |
-| 0223 | N/A | N/A |
-| 0224 | N/A | N/A |
-| 0225 | N/A | N/A |
-| 0226 | N/A | N/A |
-| 0227 | N/A | N/A |
-| 0228 | N/A | N/A |
-| 0229 | N/A | N/A |
-| 0230 | N/A | N/A |
-| 0231 | N/A | N/A |
-| 0232 | N/A | N/A |
-| 0233 | N/A | N/A |
-| 0234 | N/A | N/A |
-| 0235 | N/A | N/A |
-| 0236 | N/A | N/A |
-| 0237 | N/A | N/A |
-| 0238 | N/A | N/A |
-| 0239 | N/A | N/A |
-| 0240 | N/A | N/A |
-| 0241 | N/A | N/A |
-| 0242 | N/A | N/A |
-| 0243 | N/A | N/A |
-| 0244 | N/A | N/A |
-| 0245 | N/A | N/A |
-| 0246 | N/A | N/A |
-| 0247 | N/A | N/A |
-| 0248 | N/A | N/A |
-| 0249 | N/A | N/A |
-| 0250 | N/A | N/A |
-| 0251 | N/A | N/A |
-| 0252 | N/A | N/A |
-| 0253 | N/A | N/A |
-| 0254 | N/A | N/A |
-| 0255 | N/A | N/A |
-| 0256 | N/A | N/A |
-| 0257 | N/A | N/A |
-| 0258 | N/A | N/A |
-| 0259 | N/A | N/A |
-| 0260 | N/A | N/A |
-| 0261 | N/A | N/A |
-| 0262 | N/A | N/A |
-| 0263 | N/A | N/A |
-| 0264 | N/A | N/A |
-| 0265 | N/A | N/A |
-| 0266 | N/A | N/A |
-| 0267 | N/A | N/A |
-| 0268 | N/A | N/A |
-| 0269 | N/A | N/A |
-| 0270 | N/A | N/A |
-| 0271 | N/A | N/A |
-| 0272 | N/A | N/A |
-| 0273 | N/A | N/A |
-| 0274 | N/A | N/A |
-| 0275 | N/A | N/A |
-| 0276 | N/A | N/A |
-| 0277 | N/A | N/A |
-| 0278 | N/A | N/A |
-| 0279 | N/A | N/A |
-| 0280 | N/A | N/A |
-| 0281 | N/A | N/A |
-| 0282 | N/A | N/A |
-| 0283 | N/A | N/A |
-| 0284 | N/A | N/A |
-| 0285 | N/A | N/A |
-| 0286 | N/A | N/A |
-| 0287 | N/A | N/A |
-| 0288 | N/A | N/A |
-| 0289 | N/A | N/A |
-| 0290 | N/A | N/A |
-| 0291 | N/A | N/A |
-| 0292 | N/A | N/A |
-| 0293 | N/A | N/A |
-| 0294 | N/A | N/A |
-| 0295 | N/A | N/A |
-| 0296 | N/A | N/A |
-| 0297 | N/A | N/A |
-| 0298 | N/A | N/A |
-| 0299 | N/A | N/A |
-| 0300 | N/A | N/A |
+| 0201 | Kansas - Carry On Wayward Son | N/A |
+| 0202 | Linkin Park - Crawling | N/A |
+| 0203 | System Of A Down - A.T.W.A. | N/A |
+| 0204 | 10 Years - Telescreen (Vampires Early Demo) | N/A |
+| 0205 | Motionless In White - Immaculate Misconception | N/A |
+| 0206 | Sabaton - 1648 (Swedish) | N/A |
+| 0207 | 10 Years - Through The Iris | N/A |
+| 0208 | Attack! Attack! - Smokahontas | N/A |
+| 0209 | HIM - Buried Alive By Love | N/A |
+| 0210 | Motionless In White - Black Damask (The Fog) | N/A |
+| 0211 | My Chemical Romance - Famous Last Words | N/A |
+| 0212 | Oasis - Don't Look Back In Anger | N/A |
+| 0213 | Motionless In White - /C0de | N/A |
+| 0214 | Sabaton - A Ghost In The Trenches | N/A |
+| 0215 | HIM - The Sacrament | N/A |
+| 0216 | System Of A Down - Chop Suey | N/A |
+| 0217 | 10 Years - Shoot It Out | N/A |
+| 0218 | Motionless In White - Break The Cycle | N/A |
+| 0219 | Sabaton - Birds Of War | N/A |
+| 0220 | Korn - Here To Stay | N/A |
+| 0221 | 311 - Color | N/A |
+| 0222 | 311 - Come Original | N/A |
+| 0223 | Motionless In White - Burned At Both Ends | N/A |
+| 0224 | HIM - Funeral Of Hearts | N/A |
+| 0225 | Linkin Park - Lying From You | N/A |
+| 0226 | Motionless In White - Cause Of Death | N/A |
+| 0227 | Sabaton - Far From The Fame | N/A |
+| 0228 | BABYMETAL & Electric Callboy - RATATATA | N/A |
+| 0229 | Bring Me The Horizon Feat. AURORA - liMOusIne | N/A |
+| 0230 | Nirvana - All Apologies | N/A |
+| 0231 | John Denver - Take Me Home, Country Roads | N/A |
+| 0232 | Sabaton - Bismarck | N/A |
+| 0233 | Motionless In White - Cobwebs | N/A |
+| 0234 | Good Charlotte - Girls & Boys | N/A |
+| 0235 | P.O.D. - Change The World | N/A |
+| 0236 | Motionless In White - Creatures X: To The Grave | N/A |
+| 0237 | Sabaton - The End Of The War To End All Wars | N/A |
+| 0238 | Limp Bizkit - Nookie | N/A |
+| 0239 | BABYMETAL & Dragonforce - Road To Resistance | N/A |
+| 0240 | Bring Me The Horizon Feat. Underoath - A BuLlEt W/ My NamE On | N/A |
+| 0241 | Motionless In White - Billy In 4C Never Saw It Coming | N/A |
+| 0242 | Sabaton - Stormtroopers | N/A |
+| 0243 | Avril Lavigne - Take Me Away | N/A |
+| 0244 | Fuerza Regida - OYE | N/A |
+| 0245 | Rammstein - Asche Zu Asche | N/A |
+| 0246 | System Of A Down - Prison Song | N/A |
+| 0247 | Motionless In White - Catharsis | N/A |
+| 0248 | Sabaton - Hill 3234 | N/A |
+| 0249 | Motionless In White - Creatures | N/A |
+| 0250 | Sabaton - Ett Slag Färgat Rött | N/A |
+| 0251 | 009 Sound System - Dreamscape | N/A |
+| 0252 | Maximum The Hormone - Zetsubou Billy | N/A |
+| 0253 | Trivium - Dying In Your Arms | N/A |
+| 0254 | Alestorm - Keelhauled | N/A |
+| 0255 | Motionless In White - Cyberhex | N/A |
+| 0256 | Sabaton - Uprising | N/A |
+| 0257 | Motionless In White - Werewolf | N/A |
+| 0258 | Metallica - Frantic | N/A |
+| 0259 | Arch Enemy - Taking Back My Soul | N/A |
+| 0260 | Motionless In White - Eternally Yours | N/A |
+| 0261 | Sabaton - Poltava | N/A |
+| 0262 | Metallica - Nothing Else Matters | N/A |
+| 0263 | Frédéric Chopin - Nocturne In E Flat Major (Op. 9 No. 2) | N/A |
+| 0264 | I See Stars Feat. Danny Worsnop - Endless Sky | N/A |
+| 0265 | Sabaton - Rorke's Drift | N/A |
+| 0266 | Slipknot - Duality | N/A |
+| 0267 | 3 Doors Down - It's Not My Time | N/A |
+| 0268 | .38 Special - Robin Hood | N/A |
+| 0269 | Alestorm - Rum | N/A |
+| 0270 | Sabaton - Swedish Pagans | N/A |
+| 0271 | System Of A Down - Toxicity | N/A |
+| 0272 | Sabaton - Panzer Battalion | N/A |
+| 0273 | .38 Special - Back To Paradise | N/A |
+| 0274 | The Amity Affliction - Don't Lean On Me | N/A |
+| 0275 | Avenged Sevenfold - A Little Piece Of Heaven | N/A |
+| 0276 | Motionless In White - Death March | N/A |
+| 0277 | Sabaton - Soldier Of Heaven | N/A |
+| 0278 | ...And You Will Know Us By The Trail Of Dead - Relative Ways | N/A |
+| 0279 | Rammstein - Morgenstern | N/A |
+| 0280 | Rise Against - Savior | N/A |
+| 0281 | The Rolling Stones - Paint It, Black | N/A |
+| 0282 | Motionless In White - Disguise | N/A |
+| 0283 | Sabaton - Into The Fire | N/A |
+| 0284 | Pendulum - Fasten Your Seatbelt | N/A |
+| 0285 | Beatsteaks - Hail To The Freaks | N/A |
+| 0286 | Rammstein - Ausländer | N/A |
+| 0287 | Catalina Estefania Pastrian - Nico-Nico-Nii (Beatstep) | N/A |
+| 0288 | Sabaton - Panzerkampf | N/A |
+| 0289 | Avril Lavigne - Hot | N/A |
+| 0290 | Suicide Silence - You Only Live Once | N/A |
+| 0291 | Linkin Park - New Divide | N/A |
+| 0292 | Pendulum - The Catalyst | N/A |
+| 0293 | Sabaton - 1916 | N/A |
+| 0294 | Aerosmith - I Don't Want To Miss A Thing | N/A |
+| 0295 | Arctic Monkeys - Do I Wanna Know? | N/A |
+| 0296 | Pink Floyd - Money | N/A |
+| 0297 | Sabaton - Panzer Battalion (Live) | N/A |
+| 0298 | Lamb Of God - Ashes Of The Wake | N/A |
+| 0299 | Jaws - Stay In | N/A |
+| 0300 | Pendulum - Showdown | N/A |
 
 ## 0301 - 0400
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 0301 | N/A | N/A |
-| 0302 | N/A | N/A |
-| 0303 | N/A | N/A |
-| 0304 | N/A | N/A |
-| 0305 | N/A | N/A |
-| 0306 | N/A | N/A |
-| 0307 | N/A | N/A |
-| 0308 | N/A | N/A |
-| 0309 | N/A | N/A |
-| 0310 | N/A | N/A |
-| 0311 | N/A | N/A |
-| 0312 | N/A | N/A |
-| 0313 | N/A | N/A |
-| 0314 | N/A | N/A |
-| 0315 | N/A | N/A |
-| 0316 | N/A | N/A |
-| 0317 | N/A | N/A |
-| 0318 | N/A | N/A |
-| 0319 | N/A | N/A |
-| 0320 | N/A | N/A |
-| 0321 | N/A | N/A |
-| 0322 | N/A | N/A |
-| 0323 | N/A | N/A |
-| 0324 | N/A | N/A |
-| 0325 | N/A | N/A |
-| 0326 | N/A | N/A |
-| 0327 | N/A | N/A |
-| 0328 | N/A | N/A |
-| 0329 | N/A | N/A |
-| 0330 | N/A | N/A |
-| 0331 | N/A | N/A |
-| 0332 | N/A | N/A |
-| 0333 | N/A | N/A |
-| 0334 | N/A | N/A |
-| 0335 | N/A | N/A |
-| 0336 | N/A | N/A |
-| 0337 | N/A | N/A |
-| 0338 | N/A | N/A |
-| 0339 | N/A | N/A |
-| 0340 | N/A | N/A |
-| 0341 | N/A | N/A |
-| 0342 | N/A | N/A |
-| 0343 | N/A | N/A |
-| 0344 | N/A | N/A |
-| 0345 | N/A | N/A |
-| 0346 | N/A | N/A |
-| 0347 | N/A | N/A |
-| 0348 | N/A | N/A |
-| 0349 | N/A | N/A |
-| 0350 | N/A | N/A |
-| 0351 | N/A | N/A |
-| 0352 | N/A | N/A |
-| 0353 | N/A | N/A |
-| 0354 | N/A | N/A |
-| 0355 | N/A | N/A |
-| 0356 | N/A | N/A |
-| 0357 | N/A | N/A |
-| 0358 | N/A | N/A |
-| 0359 | N/A | N/A |
-| 0360 | N/A | N/A |
-| 0361 | N/A | N/A |
-| 0362 | N/A | N/A |
-| 0363 | N/A | N/A |
-| 0364 | N/A | N/A |
-| 0365 | N/A | N/A |
-| 0366 | N/A | N/A |
-| 0367 | N/A | N/A |
-| 0368 | N/A | N/A |
-| 0369 | N/A | N/A |
-| 0370 | N/A | N/A |
-| 0371 | N/A | N/A |
-| 0372 | N/A | N/A |
-| 0373 | N/A | N/A |
-| 0374 | N/A | N/A |
-| 0375 | N/A | N/A |
-| 0376 | N/A | N/A |
-| 0377 | N/A | N/A |
-| 0378 | N/A | N/A |
-| 0379 | N/A | N/A |
-| 0380 | N/A | N/A |
-| 0381 | N/A | N/A |
-| 0382 | N/A | N/A |
-| 0383 | N/A | N/A |
-| 0384 | N/A | N/A |
-| 0385 | N/A | N/A |
-| 0386 | N/A | N/A |
-| 0387 | N/A | N/A |
-| 0388 | N/A | N/A |
-| 0389 | N/A | N/A |
-| 0390 | N/A | N/A |
-| 0391 | N/A | N/A |
-| 0392 | N/A | N/A |
-| 0393 | N/A | N/A |
-| 0394 | N/A | N/A |
-| 0395 | N/A | N/A |
-| 0396 | N/A | N/A |
-| 0397 | N/A | N/A |
-| 0398 | N/A | N/A |
-| 0399 | N/A | N/A |
-| 0400 | N/A | N/A |
+| 0301 | My Chemical Romance - This Is How I Disappear | N/A |
+| 0302 | Escape The Fate - Situations | N/A |
+| 0303 | System Of A Down - Revenge | N/A |
+| 0304 | Motionless In White - Scissorhands (The Last Snow) | N/A |
+| 0305 | Sabaton - To Hell And Back | N/A |
+| 0306 | 2pac - California Love | N/A |
+| 0307 | 3 Doors Down - Here Without You | N/A |
+| 0308 | 4 Non Blondes - What's Up | N/A |
+| 0309 | Motionless In White - Reincarnate | N/A |
+| 0310 | Sabaton - Devil Dogs | N/A |
+| 0311 | Guns N' Roses - Sweet Child O' Mine | N/A |
+| 0312 | Sabaton - Nightchild | N/A |
+| 0313 | Simple Plan - Welcome To My Life | N/A |
+| 0314 | Lorna Shore - To The Hellfire | N/A |
+| 0315 | CB Murdoc - Everything Is Going To Be OK | N/A |
+| 0316 | Coal Chamber - Big Truck | N/A |
+| 0317 | HIM - Wings Of A Butterfly | N/A |
+| 0318 | Nirvana - The Man Who Sold The World | N/A |
+| 0319 | Ill Nino - How Can I Live | N/A |
+| 0320 | Nonpoint - In The Air Tonight | N/A |
+| 0321 | 88 Fingers Louie - Meds | N/A |
+| 0322 | Joan Jett & The Blackhearts - I Love Rock 'N Roll | N/A |
+| 0323 | Sabaton - Saboteurs | N/A |
+| 0324 | Simple Plan - Shut Up | N/A |
+| 0325 | 3 Doors Down - Away From The Sun | N/A |
+| 0326 | The Birthday Massacre - Happy Birthday | N/A |
+| 0327 | Motionless In White - Headache | N/A |
+| 0328 | Sabaton - The Last Stand | N/A |
+| 0329 | Behemoth - Conquer All | N/A |
+| 0330 | Cradle Of Filth - English Fire | N/A |
+| 0331 | Volbeat - Shotgun Blues | N/A |
+| 0332 | A Change Of Pace - Weekend Warriors | N/A |
+| 0333 | Motionless In White - Ghost In The Mirror | N/A |
+| 0334 | Sabaton - The Attack Of The Dead Men | N/A |
+| 0335 | Behemoth - Bartzabel | N/A |
+| 0336 | Ado - Usseewa | N/A |
+| 0337 | Alice In Chains - Would? | N/A |
+| 0338 | Blink-182 - Happy Holidays, You Bastard | N/A |
+| 0339 | Motionless In White - Du Hast | N/A |
+| 0340 | Sabaton - Reign Of Terror | N/A |
+| 0341 | Behemoth - Slaves Shall Serve | N/A |
+| 0342 | Billy Talent - Devil In A Midnight Mass | N/A |
+| 0343 | Motionless In White - Meltdown | N/A |
+| 0344 | Sabaton - Father | N/A |
+| 0345 | Coal Chamber - Rowboat | N/A |
+| 0346 | Bob Marley & The Wailers - Three Little Birds | N/A |
+| 0347 | Billy Talent - Fallen Leaves | N/A |
+| 0348 | Edvard Grieg - In The Hall Of The Mountain King (Metal) | N/A |
+| 0349 | Motionless In White - Thoughts & Prayers | N/A |
+| 0350 | Limp Bizkit - Hot Dog | N/A |
+| 0351 | Blink-182 - Anthem Part Two | N/A |
+| 0352 | Motionless In White - Sign Of Life | N/A |
+| 0353 | Sabaton - Ruina Imperii | N/A |
+| 0354 | Nirvana - Heart-Shaped Box | N/A |
+| 0355 | Sabaton - Rise Of Evil | N/A |
+| 0356 | Billy Talent - I Beg To Differ (This Will Get Better) | N/A |
+| 0357 | Sabaton - Kunungens Likfärd | N/A |
+| 0358 | My Chemical Romance - Boy Division | N/A |
+| 0359 | ABBA - Money, Money, Money | N/A |
+| 0360 | Bob Marley & The Wailers - Jammin' | N/A |
+| 0361 | Motionless In White - Porcelain | N/A |
+| 0362 | Sabaton - Metal Ripper | N/A |
+| 0363 | UB40 - Red Red Wine | N/A |
+| 0364 | Coal Chamber - Loco | N/A |
+| 0365 | Eurobeat Brony - Discord (The Living Tombstone Remix) | N/A |
+| 0366 | HIM - Under The Rose | N/A |
+| 0367 | My Chemical Romance - I'm Not Okay (I Promise) | N/A |
+| 0368 | Sabaton - The Lost Battalion | N/A |
+| 0369 | MrWeebl - Badger, Badger, Badger | N/A |
+| 0370 | Korn - Twisted Transistor | N/A |
+| 0371 | Red Hot Chili Peppers - Snow (Hey Oh) | N/A |
+| 0372 | Rise Against - Behind Closed Doors | N/A |
+| 0373 | Billy Talent - Nothing To Lose | N/A |
+| 0374 | Sabaton - Killing Ground | N/A |
+| 0375 | My Chemical Romance - Helena | N/A |
+| 0376 | ReinXeed (Majestica) - Money, Money, Money | N/A |
+| 0377 | The Jackson 5 - I Want You Back | N/A |
+| 0378 | !Action Pact! - Optimism | N/A |
+| 0379 | Billy Talent - This Is How It Goes | N/A |
+| 0380 | Sabaton - The First Soldier | N/A |
+| 0381 | !Action Pact! - Open Your Eyes | N/A |
+| 0382 | SiM - The Rumbling | N/A |
+| 0383 | Sabaton - Lejonet Från Norden | N/A |
+| 0384 | Pendulum - Witchcraft | N/A |
+| 0385 | Smash Mouth - All Star | N/A |
+| 0386 | Sabaton - The Future Of Warfare | N/A |
+| 0387 | Metallica - Whiskey In The Jar | N/A |
+| 0388 | 'Til Tuesday - (Believed You Were) Lucky | N/A |
+| 0389 | Billy Talent - Tears Into Wine | N/A |
+| 0390 | Autopilot Off - The 12th Day | N/A |
+| 0391 | .38 Special - Long Distance Affair | N/A |
+| 0392 | Serj Tankian - Baby | N/A |
+| 0393 | Mark Ronson Feat. Bruno Mars - Uptown Funk | N/A |
+| 0394 | Sabaton - Metal Medley: Metal Machine (Live) | N/A |
+| 0395 | Santana - Europa | N/A |
+| 0396 | Blink-182 - Obvious | N/A |
+| 0397 | Good Charlotte - The Anthem | N/A |
+| 0398 | HIM - Vampire Heart | N/A |
+| 0399 | Sabaton - Night Witches | N/A |
+| 0400 | HIM - Your Sweet 666 | N/A |
 
 ## 0401 - 0500
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 0401 | N/A | N/A |
-| 0402 | N/A | N/A |
-| 0403 | N/A | N/A |
-| 0404 | N/A | N/A |
-| 0405 | N/A | N/A |
-| 0406 | N/A | N/A |
-| 0407 | N/A | N/A |
-| 0408 | N/A | N/A |
-| 0409 | N/A | N/A |
-| 0410 | N/A | N/A |
-| 0411 | N/A | N/A |
-| 0412 | N/A | N/A |
-| 0413 | N/A | N/A |
-| 0414 | N/A | N/A |
-| 0415 | N/A | N/A |
-| 0416 | N/A | N/A |
-| 0417 | N/A | N/A |
-| 0418 | N/A | N/A |
-| 0419 | N/A | N/A |
-| 0420 | N/A | N/A |
-| 0421 | N/A | N/A |
-| 0422 | N/A | N/A |
-| 0423 | N/A | N/A |
-| 0424 | N/A | N/A |
-| 0425 | N/A | N/A |
-| 0426 | N/A | N/A |
-| 0427 | N/A | N/A |
-| 0428 | N/A | N/A |
-| 0429 | N/A | N/A |
-| 0430 | N/A | N/A |
-| 0431 | N/A | N/A |
-| 0432 | N/A | N/A |
-| 0433 | N/A | N/A |
-| 0434 | N/A | N/A |
-| 0435 | N/A | N/A |
-| 0436 | N/A | N/A |
-| 0437 | N/A | N/A |
-| 0438 | N/A | N/A |
-| 0439 | N/A | N/A |
-| 0440 | N/A | N/A |
-| 0441 | N/A | N/A |
-| 0442 | N/A | N/A |
-| 0443 | N/A | N/A |
-| 0444 | N/A | N/A |
-| 0445 | N/A | N/A |
-| 0446 | N/A | N/A |
-| 0447 | N/A | N/A |
-| 0448 | N/A | N/A |
-| 0449 | N/A | N/A |
-| 0450 | N/A | N/A |
-| 0451 | N/A | N/A |
-| 0452 | N/A | N/A |
-| 0453 | N/A | N/A |
-| 0454 | N/A | N/A |
-| 0455 | N/A | N/A |
-| 0456 | N/A | N/A |
-| 0457 | N/A | N/A |
-| 0458 | N/A | N/A |
-| 0459 | N/A | N/A |
-| 0460 | N/A | N/A |
-| 0461 | N/A | N/A |
-| 0462 | N/A | N/A |
-| 0463 | N/A | N/A |
-| 0464 | N/A | N/A |
-| 0465 | N/A | N/A |
-| 0466 | N/A | N/A |
-| 0467 | N/A | N/A |
-| 0468 | N/A | N/A |
-| 0469 | N/A | N/A |
-| 0470 | N/A | N/A |
-| 0471 | N/A | N/A |
-| 0472 | N/A | N/A |
-| 0473 | N/A | N/A |
-| 0474 | N/A | N/A |
-| 0475 | N/A | N/A |
-| 0476 | N/A | N/A |
-| 0477 | N/A | N/A |
-| 0478 | N/A | N/A |
-| 0479 | N/A | N/A |
-| 0480 | N/A | N/A |
-| 0481 | N/A | N/A |
-| 0482 | N/A | N/A |
-| 0483 | N/A | N/A |
-| 0484 | N/A | N/A |
-| 0485 | N/A | N/A |
-| 0486 | N/A | N/A |
-| 0487 | N/A | N/A |
-| 0488 | N/A | N/A |
-| 0489 | N/A | N/A |
-| 0490 | N/A | N/A |
-| 0491 | N/A | N/A |
-| 0492 | N/A | N/A |
-| 0493 | N/A | N/A |
-| 0494 | N/A | N/A |
-| 0495 | N/A | N/A |
-| 0496 | N/A | N/A |
-| 0497 | N/A | N/A |
-| 0498 | N/A | N/A |
-| 0499 | N/A | N/A |
-| 0500 | N/A | N/A |
+| 0401 | Rammstein - Adieu | N/A |
+| 0402 | Billy Talent - Living In The Shadows | N/A |
+| 0403 | Blink-182 - Always | N/A |
+| 0404 | Sabaton - Midway | N/A |
+| 0405 | Eminem - Rap God | N/A |
+| 0406 | 30 Seconds To Mars - The Fantasy | N/A |
+| 0407 | Limp Bizkit - Rollin' (Air Raid Vehicle) (Radio Edit) | N/A |
+| 0408 | Linkin Park - What I've Done | N/A |
+| 0409 | Rammstein - Mann Gegen Mann | N/A |
+| 0410 | Elvis Presley - Suspicious Minds | N/A |
+| 0411 | Queen - We Are The Champions | N/A |
+| 0412 | Avril Lavigne - Together | N/A |
+| 0413 | Twenty One Pilots - Jumpsuit | N/A |
+| 0414 | Scorpions - Wind Of Change | N/A |
+| 0415 | Blink-182 - Here's Your Letter | N/A |
+| 0416 | Sabaton - Resist And Bite | N/A |
+| 0417 | Green Day - Letterbomb | N/A |
+| 0418 | 2pac - All Eyez On Me | N/A |
+| 0419 | My Chemical Romance - House Of Wolves | N/A |
+| 0420 | Sabaton - Seven Pillars Of Wisdom | N/A |
+| 0421 | Green Day - Hitchin' A Ride | N/A |
+| 0422 | Avenged Sevenfold - Shepherd Of Fire | N/A |
+| 0423 | Rammstein - Spring | N/A |
+| 0424 | Blink-182 - I'm Lost Without You | N/A |
+| 0425 | Sabaton - Inmate 4859 | N/A |
+| 0426 | Rammstein - Bestrafe Mich | N/A |
+| 0427 | Alice In Chains - Brush Away | N/A |
+| 0428 | Gold Motel - Brand New Kind Of Blue | N/A |
+| 0429 | Eminem - Love The Way You Lie (Feat. Rihanna) | N/A |
+| 0430 | Sabaton - Soldier Of 3 Armies | N/A |
+| 0431 | 5 Seconds Of Summer - Teeth | N/A |
+| 0432 | Dr. Dre - The Next Episode (Feat. Snoop Dogg, Kurupt, Nate Dogg) | N/A |
+| 0433 | Fake Shark - Cheap Thrills | N/A |
+| 0434 | Rockwell - Somebody's Watching Me | N/A |
+| 0435 | Sabaton - The Red Baron | N/A |
+| 0436 | The Birthday Massacre - Blue | N/A |
+| 0437 | Joe Satriani - Satch Boogie | N/A |
+| 0438 | Alice In Chains - Dirt | N/A |
+| 0439 | Yngwie Malmsteen - Anguish And Fear | N/A |
+| 0440 | Sabaton - The Valley Of Death | N/A |
+| 0441 | The Who - My Generation | N/A |
+| 0442 | Megadeth - Sweating Bullets | N/A |
+| 0443 | The Bangles - Eternal Flame | N/A |
+| 0444 | Cradle Of Filth - Lovesick For Mina | N/A |
+| 0445 | Rammstein - Moskau | N/A |
+| 0446 | Sabaton - Last Dying Breath | N/A |
+| 0447 | Led Zeppelin - Immigrant Song | N/A |
+| 0448 | Nickelback - Next Contestant | N/A |
+| 0449 | Nightwish - Nemo (Live) | N/A |
+| 0450 | Rammstein - Das Modell (Kraftwerk Cover) | N/A |
+| 0451 | Sabaton - Livgardet | N/A |
+| 0452 | Pendulum - Slam | N/A |
+| 0453 | Coal Chamber - Something Told Me | N/A |
+| 0454 | Nena - 99 Red Balloons | N/A |
+| 0455 | Måneskin - I WANNA BE YOUR SLAVE | N/A |
+| 0456 | Sabaton - 40:1 | N/A |
+| 0457 | Rammstein - Zwitter | N/A |
+| 0458 | Coal Chamber - Tyler's Song | N/A |
+| 0459 | Sum 41 - 88 | N/A |
+| 0460 | Volbeat - Dead But Rising | N/A |
+| 0461 | Rammstein - Spiel Mit Mir | N/A |
+| 0462 | Sabaton - Wolfpack | N/A |
+| 0463 | +44 - Lycanthrope | N/A |
+| 0464 | .38 Special - Chain Lightnin' | N/A |
+| 0465 | Hot Mulligan - Featuring Mark Hoppus | N/A |
+| 0466 | Sabaton - Union (Slopes Of St. Benedict) | N/A |
+| 0467 | .38 Special - If I'd Been The One | N/A |
+| 0468 | "Weird Al" Yankovic - eBay | N/A |
+| 0469 | Alesana - All Night Dance Parties In The Underground Palace | N/A |
+| 0470 | Asking Alexandria - I Won't Give In | N/A |
+| 0471 | Sabaton - Sarajevo | N/A |
+| 0472 | Eminem - The Real Slim Shady | N/A |
+| 0473 | "Weird Al" Yankovic - Amish Paradise | N/A |
+| 0474 | 'Til Tuesday - Love In A Vacuum | N/A |
+| 0475 | Trivium - A Gunshot To The Head Of Trepidation | N/A |
+| 0476 | .38 Special - See Me In Your Eyes | N/A |
+| 0477 | Sabaton - Versailles | N/A |
+| 0478 | "Weird Al" Yankovic - Angry White Boy Polka | N/A |
+| 0479 | 'Til Tuesday - Maybe Monday | N/A |
+| 0480 | A Day To Remember - If I Leave | N/A |
+| 0481 | Alesana - Apology | N/A |
+| 0482 | Sabaton - Race To The Sea | N/A |
+| 0483 | "Weird Al" Yankovic - Attack Of The Radioactive Hamsters | N/A |
+| 0484 | '68 - Whether Terrified Or Unafraid | N/A |
+| 0485 | A Day To Remember - End Of Me | N/A |
+| 0486 | Sabaton - The Last Battle | N/A |
+| 0487 | "Weird Al" Yankovic - Christmas At Ground Zero | N/A |
+| 0488 | I Set My Friends On Fire - Brief Interviews With Hideous Men | N/A |
+| 0489 | Attack! Attack! - All My Life | N/A |
+| 0490 | Girugamesh - Shining | N/A |
+| 0491 | Sabaton - Aces In Exile | N/A |
+| 0492 | Powerwolf Feat. Ralf Scheepers - Sanctified With Dynamite | N/A |
+| 0493 | P.O.D. - Satellite | N/A |
+| 0494 | ALI Feat. Aklo - Lost In Paradise (Jujutsu Kaisen Ending) | N/A |
+| 0495 | Powerwolf - Fist By Fist (Sacralize Or Strike) | N/A |
+| 0496 | Yoasobi - Kaibutsu | N/A |
+| 0497 | Sabaton - In The Name Of God | N/A |
+| 0498 | Zac Brown Band - Chicken Fried | N/A |
+| 0499 | Sabaton - The Price Of A Mile | N/A |
+| 0500 | PewDiePie X Party In Backyard - Bitch Lasagna | N/A |
 
 ## 0501 - 0600
 
