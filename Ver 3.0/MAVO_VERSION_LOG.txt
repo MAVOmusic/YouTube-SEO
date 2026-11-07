@@ -259,3 +259,5 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-07 - Indexed Shorts 2001-2422 from screenshot footers; prepared titles retained. Added cumulative folder list and non-destructive creator. 2275/2276 conflict; inferred identities and 2280 correction documented in indexes. 2420-2422 shown published; 2422 partially blocked in screenshot. New IDs 2423 onward remain provisional. No audio verification or native PowerShell execution.
 
 2026-11-07 - User reports missed 13:30 and 16:00 slots, requests three more today and six tomorrow; revised provisional queue in New_Recordings_Upload_Plan.md. Drafted LF 0676-0678 and Shorts 2423-2425; verify media, claims, overlay, order and related-video links before publication. No matching older entries found in indexed catalogues; this is not proof of absence.
+
+2026-11-07 - Reviewed early 0673/2420 Black Parade Studio screenshot snapshot; analysis saved in TXT/Black_Parade_0673_2420_Early_Analytics_2026-11-07.md. Retention, geography and revenue pending; user will supply 48+ hour updates for uploads. No Studio changes or background monitoring.
