@@ -2,6 +2,24 @@
 
 Two screenshots: 23 + 29 = 52 recordings. User supplied corrections for three first-batch folders. These are planning reservations only; not evidence uploads exist, Shorts have been cut, audio identities verified, or publishing scheduled. Number assignment assumes one new long form and one new Short per recording in this order, starting from the user-reported 0673 and 2420. Actual upload chronology must determine the final numbers; revise reservations if order changes, a format is skipped, or another upload intervenes. Do not overwrite existing uploads. User has additional recordings for a later batch.
 
+## Revised queue - user update at 16:21 Budapest, 7 November 2026
+
+The 13:30 and 16:00 proposals were missed due to lack of sleep. Three more paired releases today, six tomorrow, if copy, media and upload are ready. At least one hour preparation from 16:21; do not backdate. These are suggestions, not scheduled uploads. Publish each Long and Short together; attach each new Short to its matching new Long when eligible. IDs depend on actual upload order.
+
+| Budapest | UK | Pair | Recording |
+| --- | --- | --- | --- |
+| Sat 18:00 | 17:00 | 0676 / 2423 | Jimmy Eat World - Sweetness |
+| Sat 20:30 | 19:30 | 0677 / 2424 | Alkaline Trio - Private Eye |
+| Sat 23:00 | 22:00 | 0678 / 2425 | Taking Back Sunday - You're So Last Summer |
+| Sun 10:00 | 09:00 | 0679 / 2426 | Brand New - The Quiet Things That No One Ever Knows |
+| Sun 12:30 | 11:30 | 0680 / 2427 | Yellowcard - Ocean Avenue |
+| Sun 15:00 | 14:00 | 0681 / 2428 | Finch - Letters To You |
+| Sun 17:30 | 16:30 | 0682 / 2429 | Jimmy Eat World - Futures |
+| Sun 20:00 | 19:00 | 0683 / 2430 | New Found Glory - My Friends Over You |
+| Sun 22:30 | 21:30 | 0684 / 2431 | Panic! At The Disco - I Write Sins Not Tragedies |
+
+The prior 7 November slots below are superseded. Timing balances preparation, evening UK/US overlap and the observed weekend channel activity; it is not song- or country-specific evidence or a claim of optimal timing. Move any slot when needed. Tomorrow's six remain provisional, pending identity, old-version analytics and copy review.
+
 ## Audience-informed test queue - 7 November 2026
 
 The 6 Nov Full Analytics screenshots have been reviewed: see `Ver 3.0/TXT/Full_Channel_Analytics_2026-11-06.md`. Two new Black Parade titles appear as published in realtime on 6 Nov; exact timestamp and related-video setting are not verified. The following six slots preserve the existing next-six order, not a finding of genre-specific audience times. User publishes each long/Short pair together. Schedule only when upload and individual copy review are ready; if 01:00 is missed, move the queue and realign IDs/dates, do not backdate.

@@ -367,3 +367,15 @@ Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every la
 2026-11-07 Long 0675 | AFI Miss Murder | Miss Murder at full force | AFI bass performance
 
 2026-11-07 Short 2422 | AFI Miss Murder | That Miss Murder bass drive - AFI #bass
+
+2026-11-07 LONG 0676 | Jimmy Eat World Sweetness | Sweetness on four strings | Jimmy Eat World bass cover
+
+2026-11-07 SHORT 2423 | Jimmy Eat World Sweetness | Sweetness in a bass snapshot - Jimmy Eat World #bass
+
+2026-11-07 LONG 0677 | Alkaline Trio Private Eye | Under the microscope: Private Eye by Alkaline Trio on bass
+
+2026-11-07 SHORT 2424 | Alkaline Trio Private Eye | Alkaline Trio bass focus: Private Eye #bass
+
+2026-11-07 LONG 0678 | Taking Back Sunday You're So Last Summer | A bass take on You're So Last Summer | Taking Back Sunday
+
+2026-11-07 SHORT 2425 | Taking Back Sunday You're So Last Summer | Taking Back Sunday through the bass: You're So Last Summer #bass
