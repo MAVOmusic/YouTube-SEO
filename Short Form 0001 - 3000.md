@@ -2112,448 +2112,448 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 2001 | N/A | N/A |
-| 2002 | N/A | N/A |
-| 2003 | N/A | N/A |
-| 2004 | N/A | N/A |
-| 2005 | N/A | N/A |
-| 2006 | N/A | N/A |
-| 2007 | N/A | N/A |
-| 2008 | N/A | N/A |
-| 2009 | N/A | N/A |
-| 2010 | N/A | N/A |
-| 2011 | N/A | N/A |
-| 2012 | N/A | N/A |
-| 2013 | N/A | N/A |
-| 2014 | N/A | N/A |
-| 2015 | N/A | N/A |
-| 2016 | N/A | N/A |
-| 2017 | N/A | N/A |
-| 2018 | N/A | N/A |
-| 2019 | N/A | N/A |
-| 2020 | N/A | N/A |
-| 2021 | N/A | N/A |
-| 2022 | N/A | N/A |
-| 2023 | N/A | N/A |
-| 2024 | N/A | N/A |
-| 2025 | N/A | N/A |
-| 2026 | N/A | N/A |
-| 2027 | N/A | N/A |
-| 2028 | N/A | N/A |
-| 2029 | N/A | N/A |
-| 2030 | N/A | N/A |
-| 2031 | N/A | N/A |
-| 2032 | N/A | N/A |
-| 2033 | N/A | N/A |
-| 2034 | N/A | N/A |
-| 2035 | N/A | N/A |
-| 2036 | N/A | N/A |
-| 2037 | N/A | N/A |
-| 2038 | N/A | N/A |
-| 2039 | N/A | N/A |
-| 2040 | N/A | N/A |
-| 2041 | N/A | N/A |
-| 2042 | N/A | N/A |
-| 2043 | N/A | N/A |
-| 2044 | N/A | N/A |
-| 2045 | N/A | N/A |
-| 2046 | N/A | N/A |
-| 2047 | N/A | N/A |
-| 2048 | N/A | N/A |
-| 2049 | N/A | N/A |
-| 2050 | N/A | N/A |
-| 2051 | N/A | N/A |
-| 2052 | N/A | N/A |
-| 2053 | N/A | N/A |
-| 2054 | N/A | N/A |
-| 2055 | N/A | N/A |
-| 2056 | N/A | N/A |
-| 2057 | N/A | N/A |
-| 2058 | N/A | N/A |
-| 2059 | N/A | N/A |
-| 2060 | N/A | N/A |
-| 2061 | N/A | N/A |
-| 2062 | N/A | N/A |
-| 2063 | N/A | N/A |
-| 2064 | N/A | N/A |
-| 2065 | N/A | N/A |
-| 2066 | N/A | N/A |
-| 2067 | N/A | N/A |
-| 2068 | N/A | N/A |
-| 2069 | N/A | N/A |
-| 2070 | N/A | N/A |
-| 2071 | N/A | N/A |
-| 2072 | N/A | N/A |
-| 2073 | N/A | N/A |
-| 2074 | N/A | N/A |
-| 2075 | N/A | N/A |
-| 2076 | N/A | N/A |
-| 2077 | N/A | N/A |
-| 2078 | N/A | N/A |
-| 2079 | N/A | N/A |
-| 2080 | N/A | N/A |
-| 2081 | N/A | N/A |
-| 2082 | N/A | N/A |
-| 2083 | N/A | N/A |
-| 2084 | N/A | N/A |
-| 2085 | N/A | N/A |
-| 2086 | N/A | N/A |
-| 2087 | N/A | N/A |
-| 2088 | N/A | N/A |
-| 2089 | N/A | N/A |
-| 2090 | N/A | N/A |
-| 2091 | N/A | N/A |
-| 2092 | N/A | N/A |
-| 2093 | N/A | N/A |
-| 2094 | N/A | N/A |
-| 2095 | N/A | N/A |
-| 2096 | N/A | N/A |
-| 2097 | N/A | N/A |
-| 2098 | N/A | N/A |
-| 2099 | N/A | N/A |
-| 2100 | N/A | N/A |
+| 2001 | Nirvana - All Apologies | N/A |
+| 2002 | John Denver - Take Me Home, Country Roads | N/A |
+| 2003 | Sabaton - Bismarck | N/A |
+| 2004 | Good Charlotte - Girls & Boys | N/A |
+| 2005 | P.O.D. (Payable On Death) - Change The World | N/A |
+| 2006 | Bring Me The Horizon Feat. Underoath - A Bullet W My Name On | N/A |
+| 2007 | Sabaton - Stormtroopers | N/A |
+| 2008 | Avril Lavigne - Take Me Away | N/A |
+| 2009 | Fuerza Regida - OYE | N/A |
+| 2010 | System Of A Down - Prison Song | N/A |
+| 2011 | Motionless In White - Catharsis | N/A |
+| 2012 | Sabaton - Hill 3234 | N/A |
+| 2013 | Motionless In White - Creatures | N/A |
+| 2014 | Sabaton - Ett Slag Färgat Rött | N/A |
+| 2015 | Trivium - Dying In Your Arms | N/A |
+| 2016 | Alestorm - Keelhauled | N/A |
+| 2017 | Motionless In White - Cyberhex | N/A |
+| 2018 | Sabaton - Uprising | N/A |
+| 2019 | Motionless In White - Werewolf | N/A |
+| 2020 | Arch Enemy - Taking Back My Soul | N/A |
+| 2021 | Motionless In White - Eternally Yours | N/A |
+| 2022 | Metallica - Nothing Else Matters | N/A |
+| 2023 | Cold - Suffocate | N/A |
+| 2024 | Halestorm - Bad Romance | N/A |
+| 2025 | Lady Gaga - Bad Romance | N/A |
+| 2026 | Scars On Broadway - Exploding/Reloading | N/A |
+| 2027 | Windir - Heidra | N/A |
+| 2028 | I See Stars Feat. Danny Worsnop - Endless Sky | N/A |
+| 2029 | 3 Doors Down - It's Not My Time | N/A |
+| 2030 | Alestorm - Rum | N/A |
+| 2031 | System Of A Down - Toxicity | N/A |
+| 2032 | .38 Special - Back To Paradise | N/A |
+| 2033 | Avenged Sevenfold - A Little Piece Of Heaven | N/A |
+| 2034 | Motionless In White - Death March | N/A |
+| 2035 | Sabaton - Soldier Of Heaven | N/A |
+| 2036 | ...And You Will Know Us By The Trail Of Dead - Relative Ways | N/A |
+| 2037 | Rammstein - Morgenstern | N/A |
+| 2038 | Rise Against - Savior | N/A |
+| 2039 | The Rolling Stones - Paint It, Black | N/A |
+| 2040 | Sabaton - Into The Fire | N/A |
+| 2041 | Pendulum - Fasten Your Seatbelt | N/A |
+| 2042 | Beatsteaks - Hail To The Freaks | N/A |
+| 2043 | Rammstein - Ausländer | N/A |
+| 2044 | Catalina Estefania Pastrian - Nico-Nico-Nii | N/A |
+| 2045 | Sabaton - Panzerkampf | N/A |
+| 2046 | Avril Lavigne - Hot | N/A |
+| 2047 | Linkin Park - New Divide | N/A |
+| 2048 | Sabaton - 1916 | N/A |
+| 2049 | 3 Doors Down - Here Without You | N/A |
+| 2050 | 2Pac - California Love | N/A |
+| 2051 | Aerosmith - I Don't Want To Miss A Thing | N/A |
+| 2052 | Arctic Monkeys - Do I Wanna Know? | N/A |
+| 2053 | Escape The Fate - Situations | N/A |
+| 2054 | Guns N' Roses - Sweet Child O' Mine | N/A |
+| 2055 | Jaws - Stay In | N/A |
+| 2056 | Motionless In White - Reincarnate | N/A |
+| 2057 | Motionless In White - Scissorhands (The Last Snow) | N/A |
+| 2058 | Pink Floyd - Money | N/A |
+| 2059 | My Chemical Romance - This Is How I Disappear | N/A |
+| 2060 | Pendulum - Showdown | N/A |
+| 2061 | Sabaton - Devil Dogs | N/A |
+| 2062 | Sabaton - To Hell And Back | N/A |
+| 2063 | System Of A Down - Revenga | N/A |
+| 2064 | 3 Doors Down - Away From The Sun | N/A |
+| 2065 | Alesana - Apology | N/A |
+| 2066 | ALI Feat. Aklo - Lost In Paradise (Jujutsu Kaisen Ending) | N/A |
+| 2067 | Arctic Monkeys - Fluorescent Adolescent | N/A |
+| 2068 | Blink-182 - Always | N/A |
+| 2069 | HIM - Wings Of A Butterfly | N/A |
+| 2070 | Ill Nino - How Can I Live | N/A |
+| 2071 | Megadeth - Sweating Bullets | N/A |
+| 2072 | Nirvana - The Man Who Sold The World | N/A |
+| 2073 | Rammstein - Adieu | N/A |
+| 2074 | Sabaton - Livgardet | N/A |
+| 2075 | Simple Plan - Welcome To My Life | N/A |
+| 2076 | Thirty Seconds To Mars - The Fantasy | N/A |
+| 2077 | Volbeat - Shotgun Blues | N/A |
+| 2078 | Zac Brown Band - Chicken Fried | N/A |
+| 2079 | 220 Volt - Love Is All You Need | N/A |
+| 2080 | Alestorm - Hangover | N/A |
+| 2081 | Alexisonfire - This Could Be Anywhere In The World | N/A |
+| 2082 | Alizée - Moi Lolita | N/A |
+| 2083 | American Authors - Best Day Of My Life | N/A |
+| 2084 | American Hi-Fi - Flavor Of The Weak | N/A |
+| 2085 | Apocalyptica - I Don't Care | N/A |
+| 2086 | Asking Alexandria - Not An American Average | N/A |
+| 2087 | Burzum - Autumn Leaves | N/A |
+| 2088 | Evanescence - Bring Me To Life | N/A |
+| 2089 | Gorillaz - Clint Eastwood | N/A |
+| 2090 | Iron Maiden - 2 Minutes To Midnight | N/A |
+| 2091 | Iron Maiden - Aces High | N/A |
+| 2092 | Iron Maiden - Wasted Years | N/A |
+| 2093 | Jack Off Jill - Strawberry Gashes | N/A |
+| 2094 | Modjo - Lady (Hear Me Tonight) | N/A |
+| 2095 | My Chemical Romance - The Light Behind Your Eyes | N/A |
+| 2096 | Nickelback - How You Remind Me | N/A |
+| 2097 | Opeth - In My Time Of Need | N/A |
+| 2098 | Pendulum - Hold Your Color | N/A |
+| 2099 | Tarja - Until My Last Breath | N/A |
+| 2100 | Three Days Grace - I Hate Everything About You | N/A |
 
 ## 2101 - 2200
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 2101 | N/A | N/A |
-| 2102 | N/A | N/A |
-| 2103 | N/A | N/A |
-| 2104 | N/A | N/A |
-| 2105 | N/A | N/A |
-| 2106 | N/A | N/A |
-| 2107 | N/A | N/A |
-| 2108 | N/A | N/A |
-| 2109 | N/A | N/A |
-| 2110 | N/A | N/A |
-| 2111 | N/A | N/A |
-| 2112 | N/A | N/A |
-| 2113 | N/A | N/A |
-| 2114 | N/A | N/A |
-| 2115 | N/A | N/A |
-| 2116 | N/A | N/A |
-| 2117 | N/A | N/A |
-| 2118 | N/A | N/A |
-| 2119 | N/A | N/A |
-| 2120 | N/A | N/A |
-| 2121 | N/A | N/A |
-| 2122 | N/A | N/A |
-| 2123 | N/A | N/A |
-| 2124 | N/A | N/A |
-| 2125 | N/A | N/A |
-| 2126 | N/A | N/A |
-| 2127 | N/A | N/A |
-| 2128 | N/A | N/A |
-| 2129 | N/A | N/A |
-| 2130 | N/A | N/A |
-| 2131 | N/A | N/A |
-| 2132 | N/A | N/A |
-| 2133 | N/A | N/A |
-| 2134 | N/A | N/A |
-| 2135 | N/A | N/A |
-| 2136 | N/A | N/A |
-| 2137 | N/A | N/A |
-| 2138 | N/A | N/A |
-| 2139 | N/A | N/A |
-| 2140 | N/A | N/A |
-| 2141 | N/A | N/A |
-| 2142 | N/A | N/A |
-| 2143 | N/A | N/A |
-| 2144 | N/A | N/A |
-| 2145 | N/A | N/A |
-| 2146 | N/A | N/A |
-| 2147 | N/A | N/A |
-| 2148 | N/A | N/A |
-| 2149 | N/A | N/A |
-| 2150 | N/A | N/A |
-| 2151 | N/A | N/A |
-| 2152 | N/A | N/A |
-| 2153 | N/A | N/A |
-| 2154 | N/A | N/A |
-| 2155 | N/A | N/A |
-| 2156 | N/A | N/A |
-| 2157 | N/A | N/A |
-| 2158 | N/A | N/A |
-| 2159 | N/A | N/A |
-| 2160 | N/A | N/A |
-| 2161 | N/A | N/A |
-| 2162 | N/A | N/A |
-| 2163 | N/A | N/A |
-| 2164 | N/A | N/A |
-| 2165 | N/A | N/A |
-| 2166 | N/A | N/A |
-| 2167 | N/A | N/A |
-| 2168 | N/A | N/A |
-| 2169 | N/A | N/A |
-| 2170 | N/A | N/A |
-| 2171 | N/A | N/A |
-| 2172 | N/A | N/A |
-| 2173 | N/A | N/A |
-| 2174 | N/A | N/A |
-| 2175 | N/A | N/A |
-| 2176 | N/A | N/A |
-| 2177 | N/A | N/A |
-| 2178 | N/A | N/A |
-| 2179 | N/A | N/A |
-| 2180 | N/A | N/A |
-| 2181 | N/A | N/A |
-| 2182 | N/A | N/A |
-| 2183 | N/A | N/A |
-| 2184 | N/A | N/A |
-| 2185 | N/A | N/A |
-| 2186 | N/A | N/A |
-| 2187 | N/A | N/A |
-| 2188 | N/A | N/A |
-| 2189 | N/A | N/A |
-| 2190 | N/A | N/A |
-| 2191 | N/A | N/A |
-| 2192 | N/A | N/A |
-| 2193 | N/A | N/A |
-| 2194 | N/A | N/A |
-| 2195 | N/A | N/A |
-| 2196 | N/A | N/A |
-| 2197 | N/A | N/A |
-| 2198 | N/A | N/A |
-| 2199 | N/A | N/A |
-| 2200 | N/A | N/A |
+| 2101 | Tom Misch - Cinnamon Curls | N/A |
+| 2102 | Twisted Sister - We're Not Gonna Take It | N/A |
+| 2103 | Whitesnake - Is This Love | N/A |
+| 2104 | Ylvis - The Fox (What Does The Fox Say?) | N/A |
+| 2105 | Linkin Park - A Place For My Head | N/A |
+| 2106 | 3 Doors Down - Loser | N/A |
+| 2107 | 3 Doors Down - When I'm Gone | N/A |
+| 2108 | Tankcsapda - Azt Mondom Állj | N/A |
+| 2109 | Black - Wonderful Life | N/A |
+| 2110 | Survivor - Eye Of The Tiger | N/A |
+| 2111 | Rage Against The Machine - Killing In The Name | N/A |
+| 2112 | Survivor - Burning Heart | N/A |
+| 2113 | Toto - Hold The Line | N/A |
+| 2114 | Sabaton - Cliffs Of Gallipoli | N/A |
+| 2115 | System Of A Down - Lost In Hollywood | N/A |
+| 2116 | Rage Against The Machine - Bombtrack | N/A |
+| 2117 | Bryan Adams - Summer Of '69 | N/A |
+| 2118 | Sabaton - Fields Of Verdun | N/A |
+| 2119 | Rage Against The Machine - Know Your Enemy | N/A |
+| 2120 | Primus - My Name Is Mud | N/A |
+| 2121 | Elton John - I'm Still Standing | N/A |
+| 2122 | Rage Against The Machine - Renegades Of Funk | N/A |
+| 2123 | Sabaton - Screaming Eagles | N/A |
+| 2124 | Sabaton - Unbreakable | N/A |
+| 2125 | System Of A Down - Streamline | N/A |
+| 2126 | Aephanemer - Memento Mori (Instrumental) | N/A |
+| 2127 | BABYMETAL - Gimme Chocolate!! | N/A |
+| 2128 | Chicago - 25 Or 6 To 4 | N/A |
+| 2129 | Motörhead - Louie Louie | N/A |
+| 2130 | Motörhead - Ramones | N/A |
+| 2131 | Motörhead - Sex And Death | N/A |
+| 2132 | Pendulum - Slam | N/A |
+| 2133 | Survivor - Poor Man's Son | N/A |
+| 2134 | System Of A Down - Spiders | N/A |
+| 2135 | System Of A Down - Stealing Society | N/A |
+| 2136 | Van Halen - Jump | N/A |
+| 2137 | Kenny Loggins - Danger Zone | N/A |
+| 2138 | Rage Against The Machine - Guerrilla Radio | N/A |
+| 2139 | Sabaton - Defence Of Moscow | N/A |
+| 2140 | Sabaton - The Attack Of The Dead Men | N/A |
+| 2141 | System Of A Down - Chop Suey! | N/A |
+| 2142 | System Of A Down - Holy Mountains | N/A |
+| 2143 | Volbeat - Still Counting | N/A |
+| 2144 | Aerosmith - Dream On | N/A |
+| 2145 | Rammstein - Feuer Frei | N/A |
+| 2146 | Rammstein - Moskau | N/A |
+| 2147 | Ramones - Blitzkrieg Bop | N/A |
+| 2148 | Amon Amarth - War Of The Gods | N/A |
+| 2149 | System Of A Down - Old School Hollywood | N/A |
+| 2150 | AC/DC - Thunderstruck | N/A |
+| 2151 | Scooter - How Much Is The Fish? | N/A |
+| 2152 | 957 - Fish Looking At 9 | N/A |
+| 2153 | Aerosmith - Train Kept A-Rollin' | N/A |
+| 2154 | Cradle Of Filth Feat. King Diamond - Devil Woman | N/A |
+| 2155 | Dimmu Borgir - The Serpentine Offering | N/A |
+| 2156 | Sublime - Badfish | N/A |
+| 2157 | Altaria - Wrath Of A Warchild | N/A |
+| 2158 | Green Day - Dilemma | N/A |
+| 2159 | KAT - Głos Z Ciemności | N/A |
+| 2160 | AC/DC - For Those About To Rock (We Salute You) | N/A |
+| 2161 | Iron Maiden - The Evil That Men Do | N/A |
+| 2162 | Mgła - Mdłości I | N/A |
+| 2163 | Joan Jett & The Black Hearts - I Love Rock 'N' Roll | N/A |
+| 2164 | Bonnie Tyler - Holding Out For A Hero | N/A |
+| 2165 | Cutting Crew - (I Just) Died In Your Arms | N/A |
+| 2166 | Green Day - 8th Avenue Serenade | N/A |
+| 2167 | Survivor - High On You | N/A |
+| 2168 | Aephanemer - Snowblind | N/A |
+| 2169 | Bon Jovi - Wanted Dead Or Alive | N/A |
+| 2170 | Colin Hay Of Men At Work - Down Under 2012 | N/A |
+| 2171 | Guns N' Roses - Don't Cry | N/A |
+| 2172 | Sabaton - Attero Dominatus | N/A |
+| 2173 | Sabaton - In The Name Of God | N/A |
+| 2174 | The Proclaimers - I'm Gonna Be (500 Miles) | N/A |
+| 2175 | Ado - Usseewa | N/A |
+| 2176 | Metallica - Orion | N/A |
+| 2177 | Rammstein - Deutschland | N/A |
+| 2178 | Sabaton - Birds Of War | N/A |
+| 2179 | Slayer - Angel Of Death | N/A |
+| 2180 | Metallica - Leper Messiah | N/A |
+| 2181 | Metallica - Sad But True | N/A |
+| 2182 | Metallica - Battery | N/A |
+| 2183 | Bruno Mars - Versace On The Floor | N/A |
+| 2184 | Coldplay - The Scientist | N/A |
+| 2185 | Diamond Head - Am I Evil? | N/A |
+| 2186 | Elvis Presley - Suspicious Minds | N/A |
+| 2187 | Jackson 5 - I Want You Back | N/A |
+| 2188 | Run D.M.C. - Rock Box | N/A |
+| 2189 | Silverstein - Wake Up | N/A |
+| 2190 | Billy Talent - Chasing The Sun | N/A |
+| 2191 | Earth, Wind And Fire - Let's Groove | N/A |
+| 2192 | Paramore - The Only Exception | N/A |
+| 2193 | Def Leppard - Pour Some Sugar On Me | N/A |
+| 2194 | Metallica - From Whom The Bell Tolls | N/A |
+| 2195 | The Bloodhound Gang - Foxtrot Uniform Charlie Kilo | N/A |
+| 2196 | Outkast - Hey Ya! | N/A |
+| 2197 | Bob Marley & The Wailers - Three Little Birds | N/A |
+| 2198 | FUN. - Some Nights | N/A |
+| 2199 | Jack White - Sixteen Saltines | N/A |
+| 2200 | KT Tunstall - Black Horse And The Cherry Tree | N/A |
 
 ## 2201 - 2300
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 2201 | N/A | N/A |
-| 2202 | N/A | N/A |
-| 2203 | N/A | N/A |
-| 2204 | N/A | N/A |
-| 2205 | N/A | N/A |
-| 2206 | N/A | N/A |
-| 2207 | N/A | N/A |
-| 2208 | N/A | N/A |
-| 2209 | N/A | N/A |
-| 2210 | N/A | N/A |
-| 2211 | N/A | N/A |
-| 2212 | N/A | N/A |
-| 2213 | N/A | N/A |
-| 2214 | N/A | N/A |
-| 2215 | N/A | N/A |
-| 2216 | N/A | N/A |
-| 2217 | N/A | N/A |
-| 2218 | N/A | N/A |
-| 2219 | N/A | N/A |
-| 2220 | N/A | N/A |
-| 2221 | N/A | N/A |
-| 2222 | N/A | N/A |
-| 2223 | N/A | N/A |
-| 2224 | N/A | N/A |
-| 2225 | N/A | N/A |
-| 2226 | N/A | N/A |
-| 2227 | N/A | N/A |
-| 2228 | N/A | N/A |
-| 2229 | N/A | N/A |
-| 2230 | N/A | N/A |
-| 2231 | N/A | N/A |
-| 2232 | N/A | N/A |
-| 2233 | N/A | N/A |
-| 2234 | N/A | N/A |
-| 2235 | N/A | N/A |
-| 2236 | N/A | N/A |
-| 2237 | N/A | N/A |
-| 2238 | N/A | N/A |
-| 2239 | N/A | N/A |
-| 2240 | N/A | N/A |
-| 2241 | N/A | N/A |
-| 2242 | N/A | N/A |
-| 2243 | N/A | N/A |
-| 2244 | N/A | N/A |
-| 2245 | N/A | N/A |
-| 2246 | N/A | N/A |
-| 2247 | N/A | N/A |
-| 2248 | N/A | N/A |
-| 2249 | N/A | N/A |
-| 2250 | N/A | N/A |
-| 2251 | N/A | N/A |
-| 2252 | N/A | N/A |
-| 2253 | N/A | N/A |
-| 2254 | N/A | N/A |
-| 2255 | N/A | N/A |
-| 2256 | N/A | N/A |
-| 2257 | N/A | N/A |
-| 2258 | N/A | N/A |
-| 2259 | N/A | N/A |
-| 2260 | N/A | N/A |
-| 2261 | N/A | N/A |
-| 2262 | N/A | N/A |
-| 2263 | N/A | N/A |
-| 2264 | N/A | N/A |
-| 2265 | N/A | N/A |
-| 2266 | N/A | N/A |
-| 2267 | N/A | N/A |
-| 2268 | N/A | N/A |
-| 2269 | N/A | N/A |
-| 2270 | N/A | N/A |
-| 2271 | N/A | N/A |
-| 2272 | N/A | N/A |
-| 2273 | N/A | N/A |
-| 2274 | N/A | N/A |
-| 2275 | N/A | N/A |
-| 2276 | N/A | N/A |
-| 2277 | N/A | N/A |
-| 2278 | N/A | N/A |
-| 2279 | N/A | N/A |
-| 2280 | N/A | N/A |
-| 2281 | N/A | N/A |
-| 2282 | N/A | N/A |
-| 2283 | N/A | N/A |
-| 2284 | N/A | N/A |
-| 2285 | N/A | N/A |
-| 2286 | N/A | N/A |
-| 2287 | N/A | N/A |
-| 2288 | N/A | N/A |
-| 2289 | N/A | N/A |
-| 2290 | N/A | N/A |
-| 2291 | N/A | N/A |
-| 2292 | N/A | N/A |
-| 2293 | N/A | N/A |
-| 2294 | N/A | N/A |
-| 2295 | N/A | N/A |
-| 2296 | N/A | N/A |
-| 2297 | N/A | N/A |
-| 2298 | N/A | N/A |
-| 2299 | N/A | N/A |
-| 2300 | N/A | N/A |
+| 2201 | Train - Drops Of Jupiter | N/A |
+| 2202 | Pegboard Nerds Feat. Koda - Heaven Let Us Down | N/A |
+| 2203 | Mellow Mood - Another Day | N/A |
+| 2204 | Good Charlotte - A New Beginning | N/A |
+| 2205 | BrokeNCYDE - 2 Drunk 2 Drive | N/A |
+| 2206 | Good Charlotte - Lifestyles Of The Rich & Famous | N/A |
+| 2207 | Good Charlotte - Say Anything | N/A |
+| 2208 | BrokeNCYDE - Bree Bree | N/A |
+| 2209 | Good Charlotte - The Young And The Hopeless | N/A |
+| 2210 | Good Charlotte - The Anthem | N/A |
+| 2211 | Good Charlotte - The Story Of My Old Man | N/A |
+| 2212 | Good Charlotte - Wondering | N/A |
+| 2213 | Mellow Mood - Tuff Rocky Road | N/A |
+| 2214 | 9mm Parabellum Bullet - Last Round | N/A |
+| 2215 | Mindless Self Indulgence - Pay For It | N/A |
+| 2216 | Mindless Self Indulgence - Money | N/A |
+| 2217 | Mindless Self Indulgence - D_cks Are For My Friends | N/A |
+| 2218 | Shinedown - Sin With A Grin | N/A |
+| 2219 | Journey - No Surrender | N/A |
+| 2220 | The Killers - Smile Like You Mean It | N/A |
+| 2221 | Thousand Foot Krutch - Absolute | N/A |
+| 2222 | Aerosmith - Deuces Are Wild | N/A |
+| 2223 | AC/DC - Hells Bells | N/A |
+| 2224 | Alice Cooper - Snakebite | N/A |
+| 2225 | Bill Withers - Lean On Me | N/A |
+| 2226 | Black Sabbath - Shadow Of The Wind | N/A |
+| 2227 | Dance Gavin Dance - Inspire The Liars | N/A |
+| 2228 | Euringer Feat. Serj Tankian - If It Ain't You Today It Will Be You Tomorrow | N/A |
+| 2229 | Falling In Reverse Feat. HARDY - All My Women | N/A |
+| 2230 | Kings Of Leon - Closer | N/A |
+| 2231 | Static-X - Grind 2 Halt | N/A |
+| 2232 | Saxon - Lionheart | N/A |
+| 2233 | Journey - Mother, Father | N/A |
+| 2234 | Blondie - Slow Motion | N/A |
+| 2235 | Santana - Jingo | N/A |
+| 2236 | Pierce The Veil - So Far So Fake | N/A |
+| 2237 | The Police - Canary In A Coalmine | N/A |
+| 2238 | Good Riddance - Darkest Days | N/A |
+| 2239 | Metallica - My Friend Of Misery | N/A |
+| 2240 | Trust Company - Deeper Into You | N/A |
+| 2241 | Isaac Hayes - Chocolate Salty Balls | N/A |
+| 2242 | Ozzy Osbourne - Desire | N/A |
+| 2243 | The Killers - Read My Mind | N/A |
+| 2244 | Pearl Jam - Black | N/A |
+| 2245 | EURINGER - That's How Jimmy Gets Down | N/A |
+| 2246 | EURINGER - Problematic | N/A |
+| 2247 | EURINGER - Be Afraid Who You Are | N/A |
+| 2248 | Dance Gavin Dance - Elder Goose | N/A |
+| 2249 | Dance Gavin Dance - The Story Of My Bros | N/A |
+| 2250 | Depeche Mode - Freelove | N/A |
+| 2251 | Eminem Feat. Dido - Stan | N/A |
+| 2252 | Haluk Levent - Elfida | N/A |
+| 2253 | Manowar - Warriors Of The World | N/A |
+| 2254 | Pendulum - Voodoo People | N/A |
+| 2255 | Pierce The Veil - Dive In | N/A |
+| 2256 | Radiohead - Paranoid Android | N/A |
+| 2257 | Tool - The Pot | N/A |
+| 2258 | AC/DC - Touch Too Much | N/A |
+| 2259 | Adele - Lovesong | N/A |
+| 2260 | Limp Bizkit - Re-Arranged | N/A |
+| 2261 | Paul McCartney & Wings - Band On The Run | N/A |
+| 2262 | Red Hot Chili Peppers - Dosed | N/A |
+| 2263 | Santana - Black Magic Woman | N/A |
+| 2264 | Scorpions - Winds Of Change | N/A |
+| 2265 | The Wallflowers - One Headlight | N/A |
+| 2266 | Tom Misch - The Journey | N/A |
+| 2267 | Within Temptation - The Howling | N/A |
+| 2268 | +44 (Plus 44) - 155 | N/A |
+| 2269 | BrokeNCYDE - 2 Drunk 2 Drive | N/A |
+| 2270 | Coheed And Cambria - A Favor House Atlantic | N/A |
+| 2271 | Good Charlotte - Broken Hearts Parade | N/A |
+| 2272 | Green Day - 8th Avenue Serenade | N/A |
+| 2273 | P. Box - A Zöld A Bíbor És A Fekete | N/A |
+| 2274 | Pendulum - 9,000 Miles | N/A |
+| 2275 | Unknown - title and description conflict | N/A |
+| 2276 | Bob Dylan - Knockin' On Heaven's Door | N/A |
+| 2277 | Jawbreaker - Accident Prone | N/A |
+| 2278 | Billy Ocean - Red Light Spells Danger | N/A |
+| 2279 | Rush - Tom Sawyer | N/A |
+| 2280 | Chicago - 25 Or 6 To 4 | N/A |
+| 2281 | Pegboard Nerds Feat. Koda - Heaven Let Us Down | N/A |
+| 2282 | All That Remains - This Calling | N/A |
+| 2283 | BrokeNCYDE - GCOD Intro | N/A |
+| 2284 | Euringer - Internal Organs | N/A |
+| 2285 | 311 - All Mixed Up | N/A |
+| 2286 | Atreyu - Right Side Of The Bed | N/A |
+| 2287 | Mark Mueller - Duck Tales Theme | N/A |
+| 2288 | Bummrraa - Be Right Back | N/A |
+| 2289 | Korn - Freak On A Leash | N/A |
+| 2290 | The Ramones - Blitzkrieg Bop | N/A |
+| 2291 | Versus Them - We Three Kings | N/A |
+| 2292 | Queen - Stone Cold Crazy | N/A |
+| 2293 | Euringer - Be Afraid Who You Are | N/A |
+| 2294 | Violent Femmes - Blister In The Sun | N/A |
+| 2295 | Vampire Weekend - Cousins | N/A |
+| 2296 | 88 Fingers Louie - Meds | N/A |
+| 2297 | Blink-182 - What's My Age Again? | N/A |
+| 2298 | Bob Dylan - Knockin' On Heaven's Door | N/A |
+| 2299 | Mountain - Mississippi Queen | N/A |
+| 2300 | Magic Wands - Black Magic | N/A |
 
 ## 2301 - 2400
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 2301 | N/A | N/A |
-| 2302 | N/A | N/A |
-| 2303 | N/A | N/A |
-| 2304 | N/A | N/A |
-| 2305 | N/A | N/A |
-| 2306 | N/A | N/A |
-| 2307 | N/A | N/A |
-| 2308 | N/A | N/A |
-| 2309 | N/A | N/A |
-| 2310 | N/A | N/A |
-| 2311 | N/A | N/A |
-| 2312 | N/A | N/A |
-| 2313 | N/A | N/A |
-| 2314 | N/A | N/A |
-| 2315 | N/A | N/A |
-| 2316 | N/A | N/A |
-| 2317 | N/A | N/A |
-| 2318 | N/A | N/A |
-| 2319 | N/A | N/A |
-| 2320 | N/A | N/A |
-| 2321 | N/A | N/A |
-| 2322 | N/A | N/A |
-| 2323 | N/A | N/A |
-| 2324 | N/A | N/A |
-| 2325 | N/A | N/A |
-| 2326 | N/A | N/A |
-| 2327 | N/A | N/A |
-| 2328 | N/A | N/A |
-| 2329 | N/A | N/A |
-| 2330 | N/A | N/A |
-| 2331 | N/A | N/A |
-| 2332 | N/A | N/A |
-| 2333 | N/A | N/A |
-| 2334 | N/A | N/A |
-| 2335 | N/A | N/A |
-| 2336 | N/A | N/A |
-| 2337 | N/A | N/A |
-| 2338 | N/A | N/A |
-| 2339 | N/A | N/A |
-| 2340 | N/A | N/A |
-| 2341 | N/A | N/A |
-| 2342 | N/A | N/A |
-| 2343 | N/A | N/A |
-| 2344 | N/A | N/A |
-| 2345 | N/A | N/A |
-| 2346 | N/A | N/A |
-| 2347 | N/A | N/A |
-| 2348 | N/A | N/A |
-| 2349 | N/A | N/A |
-| 2350 | N/A | N/A |
-| 2351 | N/A | N/A |
-| 2352 | N/A | N/A |
-| 2353 | N/A | N/A |
-| 2354 | N/A | N/A |
-| 2355 | N/A | N/A |
-| 2356 | N/A | N/A |
-| 2357 | N/A | N/A |
-| 2358 | N/A | N/A |
-| 2359 | N/A | N/A |
-| 2360 | N/A | N/A |
-| 2361 | N/A | N/A |
-| 2362 | N/A | N/A |
-| 2363 | N/A | N/A |
-| 2364 | N/A | N/A |
-| 2365 | N/A | N/A |
-| 2366 | N/A | N/A |
-| 2367 | N/A | N/A |
-| 2368 | N/A | N/A |
-| 2369 | N/A | N/A |
-| 2370 | N/A | N/A |
-| 2371 | N/A | N/A |
-| 2372 | N/A | N/A |
-| 2373 | N/A | N/A |
-| 2374 | N/A | N/A |
-| 2375 | N/A | N/A |
-| 2376 | N/A | N/A |
-| 2377 | N/A | N/A |
-| 2378 | N/A | N/A |
-| 2379 | N/A | N/A |
-| 2380 | N/A | N/A |
-| 2381 | N/A | N/A |
-| 2382 | N/A | N/A |
-| 2383 | N/A | N/A |
-| 2384 | N/A | N/A |
-| 2385 | N/A | N/A |
-| 2386 | N/A | N/A |
-| 2387 | N/A | N/A |
-| 2388 | N/A | N/A |
-| 2389 | N/A | N/A |
+| 2301 | Arctic Monkeys - Why'd You Only Call Me When You're High? | N/A |
+| 2302 | Jack White - Sixteen Saltines | N/A |
+| 2303 | Judas Priest - Breaking The Law | N/A |
+| 2304 | BrokeNCYDE - No Game | N/A |
+| 2305 | Creedence Clearwater Revival - Have You Ever Seen The Rain? | N/A |
+| 2306 | Otis Redding - (Sittin' On) The Dock Of The Bay | N/A |
+| 2307 | Good Charlotte - A New Beginning | N/A |
+| 2308 | Brian Adam McCune - God Rest Ye Merry, Gentlemen | N/A |
+| 2309 | The Vines - Get Free | N/A |
+| 2310 | Kiss - Rock And Roll All Nite | N/A |
+| 2311 | (Hed) P.E. - Bartender | N/A |
+| 2312 | Slipknot - Killpop | N/A |
+| 2313 | The Kinks - You Really Got Me | N/A |
+| 2314 | AFI - Totalimmortal | N/A |
+| 2315 | Blink-182 - Dammit | N/A |
+| 2316 | Fang Island - Chompers | N/A |
+| 2317 | 04 Limited Sazabys - Galapagos | N/A |
+| 2318 | Atreyu - Falling Down | N/A |
+| 2319 | Blink-182 - All The Small Things | N/A |
+| 2320 | Maroon 5 - Harder To Breathe | N/A |
+| 2321 | Led Zeppelin - Black Dog | N/A |
+| 2322 | Pat Benatar - Hit Me With Your Best Shot | N/A |
+| 2323 | Bush - Comedown | N/A |
+| 2324 | A Change Of Pace - Weekend Warriors | N/A |
+| 2325 | The Temptations - My Girl | N/A |
+| 2326 | Screaming Females - Rotten Apple | N/A |
+| 2327 | Apocalyptica - Life Burns | N/A |
+| 2328 | Seth Chapla - Carol Of The Bells | N/A |
+| 2329 | Fall Out Boy - Dance, Dance | N/A |
+| 2330 | Queen - We Are The Champions | N/A |
+| 2331 | Rise Against - The Good Left Undone | N/A |
+| 2332 | The Blues Brothers - Soul Man | N/A |
+| 2333 | American Hi-Fi - Flavor Of The Weak | N/A |
+| 2334 | Gold Motel - Brand New Kind Of Blue | N/A |
+| 2335 | Asian Kung-Fu Generation - After Dark | N/A |
+| 2336 | 50 Cent - In Da Club | N/A |
+| 2337 | American Authors - Best Day Of My Life | N/A |
+| 2338 | The Clash - Should I Stay Or Should I Go | N/A |
+| 2339 | The Clash - The Guns Of Brixton | N/A |
+| 2340 | Anouk - Good God | N/A |
+| 2341 | Scott Walker - The Old Man's Back Again | N/A |
+| 2342 | Bush - Machinehead | N/A |
+| 2343 | Queen - Killer Queen | N/A |
+| 2344 | Alice Cooper - No More Mr. Nice Guy | N/A |
+| 2345 | The Dear Hunter - Stuck On A Wire Out On A Fence | N/A |
+| 2346 | The Police - Roxanne | N/A |
+| 2347 | System Of A Down - Hypnotize | N/A |
+| 2348 | Joe Satriani - Satch Boogie | N/A |
+| 2349 | Alexisonfire - No Transitory | N/A |
+| 2350 | The Strokes - Last Nite | N/A |
+| 2351 | BrokeNCYDE - Band Tee | N/A |
+| 2352 | The Strokes - Juicebox | N/A |
+| 2353 | 9mm Parabellum Bullet - Sacrifice | N/A |
+| 2354 | Rage Against The Machine - Bulls On Parade | N/A |
+| 2355 | Gary Wright - Dream Weaver | N/A |
+| 2356 | Bummrraa - Butt Ugly Playroom | N/A |
+| 2357 | Rick Springfield - Jessie's Girl | N/A |
+| 2358 | Huey Lewis & The News - The Power Of Love | N/A |
+| 2359 | Foo Fighters - Run | N/A |
+| 2360 | Squeeze - Cool For Cats | N/A |
+| 2361 | Pendulum Feat. In Flames - Self Vs. Self | N/A |
+| 2362 | Billie Eilish - Bad Guy | N/A |
+| 2363 | Pendulum - 9,000 Miles | N/A |
+| 2364 | The Dandy Warhols - Bohemian Like You | N/A |
+| 2365 | Attila - Pizza | N/A |
+| 2366 | Autopilot Off - The 12th Day | N/A |
+| 2367 | Temple Of The Dog - Hunger Strike | N/A |
+| 2368 | BrokeNCYDE - 2 Drunk 2 Drive | N/A |
+| 2369 | Coheed And Cambria - A Favor House Atlantic | N/A |
+| 2370 | Avenged Sevenfold - A Little Piece Of Heaven | N/A |
+| 2371 | Rammstein - Adieu | N/A |
+| 2372 | The Boomtown Rats - I Don't Like Mondays | N/A |
+| 2373 | Rammstein - Adios | N/A |
+| 2374 | The Mamas And The Papas - Monday, Monday | N/A |
+| 2375 | Happy Mondays - Step On | N/A |
+| 2376 | The Bangles - Manic Monday | N/A |
+| 2377 | Pratt & McClain - Happy Days | N/A |
+| 2378 | The Allman Brothers Band - Stormy Monday | N/A |
+| 2379 | Coldrampage - Spoon | N/A |
+| 2380 | Rammstein - Amerika | N/A |
+| 2381 | Rammstein - Hilf Mir | N/A |
+| 2382 | Rammstein - Alter Mann | N/A |
+| 2383 | Rammstein - Amour | N/A |
+| 2384 | Pegboard Nerds - Heaven Let Us Down | N/A |
+| 2385 | Rammstein - Angst | N/A |
+| 2386 | Cream - Those Were The Days | N/A |
+| 2387 | T. Rex - 20th Century Boy | N/A |
+| 2388 | Tommy Tutone - 867-5309/Jenny | N/A |
+| 2389 | All Time Low Feat. Vic Fuentes - A Love Like War | N/A |
 | 2390 | Paramore - Misery Business | A bass run through Misery Business \| Paramore #rocksmith |
-| 2391 | N/A | N/A |
-| 2392 | N/A | N/A |
-| 2393 | N/A | N/A |
-| 2394 | N/A | N/A |
-| 2395 | N/A | N/A |
-| 2396 | N/A | N/A |
-| 2397 | N/A | N/A |
-| 2398 | N/A | N/A |
-| 2399 | N/A | N/A |
-| 2400 | N/A | N/A |
+| 2391 | Jawbreaker - Accident Prone | N/A |
+| 2392 | Rammstein - Ein Lied | N/A |
+| 2393 | "Weird Al" Yankovic - Amish Paradise | N/A |
+| 2394 | Kreator - Enemy Of God | N/A |
+| 2395 | System Of A Down - Lonely Day | N/A |
+| 2396 | Die Antwoord - Enter The Ninja | N/A |
+| 2397 | Scorpions - Wind Of Change | N/A |
+| 2398 | Rogue x Stonebank x Slippy - Unity | N/A |
+| 2399 | Paramore - All I Wanted | N/A |
+| 2400 | Lostprophets - Last Train Home | N/A |
 
 ## 2401 - 2500
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 2401 | N/A | N/A |
-| 2402 | N/A | N/A |
-| 2403 | N/A | N/A |
-| 2404 | N/A | N/A |
-| 2405 | N/A | N/A |
-| 2406 | N/A | N/A |
-| 2407 | N/A | N/A |
-| 2408 | N/A | N/A |
-| 2409 | N/A | N/A |
-| 2410 | N/A | N/A |
-| 2411 | N/A | N/A |
-| 2412 | N/A | N/A |
-| 2413 | N/A | N/A |
-| 2414 | N/A | N/A |
-| 2415 | N/A | N/A |
-| 2416 | N/A | N/A |
-| 2417 | N/A | N/A |
-| 2418 | N/A | N/A |
-| 2419 | N/A | N/A |
+| 2401 | Silverstein - My Heroine | N/A |
+| 2402 | Johnny Cash - Personal Jesus | N/A |
+| 2403 | Rammstein - Du Hast | N/A |
+| 2404 | Avril Lavigne - How Does It Feel | N/A |
+| 2405 | Korn - Twisted Transistor | N/A |
+| 2406 | +44 (Plus 44) - Chapter XIII | N/A |
+| 2407 | Paramore - All I Wanted | N/A |
+| 2408 | Nirvana - The Man Who Sold The World | N/A |
+| 2409 | Linkin Park - Lying From You | N/A |
+| 2410 | Chevelle - The Red | N/A |
+| 2411 | Rammstein - Du Hast | N/A |
+| 2412 | My Chemical Romance - Dead! | N/A |
+| 2413 | Paramore - Decode | N/A |
+| 2414 | Green Day - 21 Guns | N/A |
+| 2415 | Ado - Usseewa | N/A |
+| 2416 | Johnny Cash - Personal Jesus | N/A |
+| 2417 | System Of A Down - Toxicity | N/A |
+| 2418 | Linkin Park - Numb | N/A |
+| 2419 | Arctic Monkeys - Do I Wanna Know? | N/A |
 | 2420 | My Chemical Romance - Welcome To The Black Parade | My Chemical Romance meets bass on Welcome To The Black Parade #bass |
-| 2421 | Paramore - Misery Business [reserved] | Misery Business hits the bass strings \| Paramore #bass |
-| 2422 | AFI - Miss Murder [reserved] | That Miss Murder bass drive - AFI #bass |
+| 2421 | Paramore - Misery Business | Misery Business hits the bass strings \| Paramore #bass |
+| 2422 | AFI - Miss Murder | That Miss Murder bass drive - AFI #bass |
 | 2423 | Jimmy Eat World - Sweetness [reserved] | N/A |
 | 2424 | Alkaline Trio - Private Eye [reserved] | N/A |
 | 2425 | Taking Back Sunday - You're So Last Summer [reserved] | N/A |
