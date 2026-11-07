@@ -363,3 +363,7 @@ Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every la
 2026-11-07 SHORT 2390 | Paramore Misery Business | A bass run through Misery Business | Paramore #rocksmith
 
 2026-11-07 SHORT 2421 | Paramore Misery Business | Misery Business hits the bass strings | Paramore #bass
+
+2026-11-07 Long 0675 | AFI Miss Murder | Miss Murder at full force | AFI bass performance
+
+2026-11-07 Short 2422 | AFI Miss Murder | That Miss Murder bass drive - AFI #bass
