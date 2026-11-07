@@ -4,7 +4,7 @@ Channel upload-order index, not the older canonical-song numbering. `N/A` means 
 
 Rows labelled **[reserved]** are provisional planned recordings, not confirmed uploads. Actual upload chronology determines their final numbers; move/update both catalogues if it changes. Short 2420 was visible as published; precise live metadata was not verified. See [upload plan](Ver%203.0/TXT/New_Recordings_Upload_Plan.md) and individual `_03 - Copy.md` files for evidence and status. Older `bands/` canonical IDs and `Master_Shorts_Repository.txt` must not be treated as chronological upload IDs.
 
-Rows 0001-0500 include screenshot-derived identities. Shorts 0235 and 0284 follow the user-confirmed performances where screenshot titles and descriptions disagreed. Some other identities are derived from descriptions or matching repository copy; they are not audio verification. See the Short Form snippet indexes in `Ver 3.0/TXT/`.
+Rows 0001-1000 include screenshot-derived identities. Shorts 0235 and 0284 follow the user-confirmed performances where screenshot titles and descriptions disagreed. Some other identities are derived from descriptions or matching repository copy; they are not audio verification. See the Short Form snippet indexes in `Ver 3.0/TXT/`.
 
 Update the appropriate row whenever a song identity or title is newly supplied or revised. Maintain separate long-form and Short numbering, preserve unknowns, mark reservations, and run the catalogue checker.
 
@@ -537,526 +537,526 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 0501 | N/A | N/A |
-| 0502 | N/A | N/A |
-| 0503 | N/A | N/A |
-| 0504 | N/A | N/A |
-| 0505 | N/A | N/A |
-| 0506 | N/A | N/A |
-| 0507 | N/A | N/A |
-| 0508 | N/A | N/A |
-| 0509 | N/A | N/A |
-| 0510 | N/A | N/A |
-| 0511 | N/A | N/A |
-| 0512 | N/A | N/A |
-| 0513 | N/A | N/A |
-| 0514 | N/A | N/A |
-| 0515 | N/A | N/A |
-| 0516 | N/A | N/A |
-| 0517 | N/A | N/A |
-| 0518 | N/A | N/A |
-| 0519 | N/A | N/A |
-| 0520 | N/A | N/A |
-| 0521 | N/A | N/A |
-| 0522 | N/A | N/A |
-| 0523 | N/A | N/A |
-| 0524 | N/A | N/A |
-| 0525 | N/A | N/A |
-| 0526 | N/A | N/A |
-| 0527 | N/A | N/A |
-| 0528 | N/A | N/A |
-| 0529 | N/A | N/A |
-| 0530 | N/A | N/A |
-| 0531 | N/A | N/A |
-| 0532 | N/A | N/A |
-| 0533 | N/A | N/A |
-| 0534 | N/A | N/A |
-| 0535 | N/A | N/A |
-| 0536 | N/A | N/A |
-| 0537 | N/A | N/A |
-| 0538 | N/A | N/A |
-| 0539 | N/A | N/A |
-| 0540 | N/A | N/A |
-| 0541 | N/A | N/A |
-| 0542 | N/A | N/A |
-| 0543 | N/A | N/A |
-| 0544 | N/A | N/A |
-| 0545 | N/A | N/A |
-| 0546 | N/A | N/A |
-| 0547 | N/A | N/A |
-| 0548 | N/A | N/A |
-| 0549 | N/A | N/A |
-| 0550 | N/A | N/A |
-| 0551 | N/A | N/A |
-| 0552 | N/A | N/A |
-| 0553 | N/A | N/A |
-| 0554 | N/A | N/A |
-| 0555 | N/A | N/A |
-| 0556 | N/A | N/A |
-| 0557 | N/A | N/A |
-| 0558 | N/A | N/A |
-| 0559 | N/A | N/A |
-| 0560 | N/A | N/A |
-| 0561 | N/A | N/A |
-| 0562 | N/A | N/A |
-| 0563 | N/A | N/A |
-| 0564 | N/A | N/A |
-| 0565 | N/A | N/A |
-| 0566 | N/A | N/A |
-| 0567 | N/A | N/A |
-| 0568 | N/A | N/A |
-| 0569 | N/A | N/A |
-| 0570 | N/A | N/A |
-| 0571 | N/A | N/A |
-| 0572 | N/A | N/A |
-| 0573 | N/A | N/A |
-| 0574 | N/A | N/A |
-| 0575 | N/A | N/A |
-| 0576 | N/A | N/A |
-| 0577 | N/A | N/A |
-| 0578 | N/A | N/A |
-| 0579 | N/A | N/A |
-| 0580 | N/A | N/A |
-| 0581 | N/A | N/A |
-| 0582 | N/A | N/A |
-| 0583 | N/A | N/A |
-| 0584 | N/A | N/A |
-| 0585 | N/A | N/A |
-| 0586 | N/A | N/A |
-| 0587 | N/A | N/A |
-| 0588 | N/A | N/A |
-| 0589 | N/A | N/A |
-| 0590 | N/A | N/A |
-| 0591 | N/A | N/A |
-| 0592 | N/A | N/A |
-| 0593 | N/A | N/A |
-| 0594 | N/A | N/A |
-| 0595 | N/A | N/A |
-| 0596 | N/A | N/A |
-| 0597 | N/A | N/A |
-| 0598 | N/A | N/A |
-| 0599 | N/A | N/A |
-| 0600 | N/A | N/A |
+| 0501 | Falling In Reverse - Voices In My Head | N/A |
+| 0502 | Tommy Richman - MILLION DOLLAR BABY | N/A |
+| 0503 | Sabaton - Light In The Black | N/A |
+| 0504 | Steve Lacy - Bad Habit | N/A |
+| 0505 | HIM - Join Me In Death | N/A |
+| 0506 | Disturbed - The Sound Of Silence | N/A |
+| 0507 | Nirvana - Rape Me | N/A |
+| 0508 | Bring Me The Horizon Feat. BABYMETAL - Kingslayer | N/A |
+| 0509 | Bring Me The Horizon - Drown | N/A |
+| 0510 | Sabaton - Winged Hussars | N/A |
+| 0511 | Korn - Freak On A Leash | N/A |
+| 0512 | Arctic Monkeys - Arabella | N/A |
+| 0513 | Dire Straits - Brother In Arms | N/A |
+| 0514 | Serj Tankian - Butterfly | N/A |
+| 0515 | Guns N' Roses - Civil War | N/A |
+| 0516 | Sabaton - The Unkillable Soldier | N/A |
+| 0517 | Creedence Clearwater Revival - Down On The Corner | N/A |
+| 0518 | Serj Tankian - Feed Us | N/A |
+| 0519 | Arctic Monkeys - Fluorescent Adolescent | N/A |
+| 0520 | Sabaton - We Burn | N/A |
+| 0521 | Serj Tankian - Goodbye - Gate 21 (Rock Remix) | N/A |
+| 0522 | Pendulum - Granite | N/A |
+| 0523 | John Mayer - Gravity | N/A |
+| 0524 | ReinXeed (Majestica) - Above The Sky | N/A |
+| 0525 | Isaac Hayes - Chocolate Salty Balls | N/A |
+| 0526 | Pendulum Feat. Liam Howlett - Immunize | N/A |
+| 0527 | Ed Sheeran - Shape Of You | N/A |
+| 0528 | Gogol Bordello - Wonderlust King | N/A |
+| 0529 | Red Hot Chili Peppers - Scar Tissue | N/A |
+| 0530 | Bring Me The Horizon - Diamonds Aren't Forever | N/A |
+| 0531 | Disturbed - Shout 2000 | N/A |
+| 0532 | Dragonforce - Operation Ground And Pound | N/A |
+| 0533 | Flyleaf - Green Heart | N/A |
+| 0534 | BABYMETAL - Ijime, Dame, Zettai | N/A |
+| 0535 | Bob Dylan - Knockin' On Heaven's Door | N/A |
+| 0536 | Mike Oldfield Feat. Maggie Reilly - Moonlight Shadow | N/A |
+| 0537 | Maroon 5 - Memories | N/A |
+| 0538 | Linkin Park - Lost | N/A |
+| 0539 | Evanescence - Cloud Nine | N/A |
+| 0540 | Metallica - One | N/A |
+| 0541 | Evanescence - What You Want | N/A |
+| 0542 | Aesthetic Perfection - Dead Zone | N/A |
+| 0543 | Bullet For My Valentine - Hand Of Blood | N/A |
+| 0544 | Hollywood Undead - Levitate | N/A |
+| 0545 | System Of A Down - Lost In Hollywood | N/A |
+| 0546 | System Of A Down - Old School Hollywood | N/A |
+| 0547 | Aesthetic Perfection - Never Enough | N/A |
+| 0548 | System Of A Down - Streamline | N/A |
+| 0549 | Nightwish - Nightquest | N/A |
+| 0550 | Hollywood Undead - Another Way Out | N/A |
+| 0551 | Pendulum - Blood Sugar | N/A |
+| 0552 | Rammstein - Deutschland | N/A |
+| 0553 | Panic! At The Disco - High Hopes | N/A |
+| 0554 | Die Ärzte - Pro-Zombie | N/A |
+| 0555 | IkimonoGakari - Blue Bird | N/A |
+| 0556 | Mick Gordon - At DOOM's Gate | N/A |
+| 0557 | Vengaboys - Boom, Boom, Boom, Boom! | N/A |
+| 0558 | Heaven Shall Burn - Black Tears | N/A |
+| 0559 | Dissection - Where Dead Angels Lie | N/A |
+| 0560 | Finntroll - Trollhammaren | N/A |
+| 0561 | Pink Floyd - Another Brick In The Wall, Part Two | N/A |
+| 0562 | Little V - Wellerman (Sea Chanty) But It's Pirate Metal | N/A |
+| 0563 | Guns N' Roses - Welcome To The Jungle | N/A |
+| 0564 | Alestorm - Pirate Metal Drinking Crew | N/A |
+| 0565 | Gogol Bordello - Immigraniada (We Comin' Rougher) | N/A |
+| 0566 | Alestorm - Shipwrecked | N/A |
+| 0567 | Tenacious D - Wonderboy | N/A |
+| 0568 | The Beatles - Let It Be | N/A |
+| 0569 | Avenged Sevenfold - Hail To The King | N/A |
+| 0570 | Sabaton - Counterstrike | N/A |
+| 0571 | The Beatles - Here Comes The Sun | N/A |
+| 0572 | Pendulum - Hold Your Colour | N/A |
+| 0573 | Goo Goo Dolls - Iris | N/A |
+| 0574 | Black Sabbath - Iron Man | N/A |
+| 0575 | Sabaton - Kingdom Come | N/A |
+| 0576 | Linkin Park - The Emptiness Machine | N/A |
+| 0577 | Serj Tankian - Lie Lie Lie | N/A |
+| 0578 | HIM - Killing Loneliness | N/A |
+| 0579 | Guns N' Roses - Knockin' On Heaven's Door | N/A |
+| 0580 | Tenacious D - Kickapoo | N/A |
+| 0581 | Pierce The Veil Ft. Kellin Quinn - King For A Day | N/A |
+| 0582 | Red Hot Chili Peppers - 21st Century | N/A |
+| 0583 | Tankcsapda - Egyszerű Dal | N/A |
+| 0584 | Linkin Park & Jay-Z - 99 Problems | N/A |
+| 0585 | My Chemical Romance - Disenchanted | N/A |
+| 0586 | Avenged Sevenfold - So Far Away | N/A |
+| 0587 | Thirty Seconds To Mars - Attack | N/A |
+| 0588 | EarlyRise - Wasteland | N/A |
+| 0589 | Nightwish - Sleeping Sun (Remastered) | N/A |
+| 0590 | Weird Al Yankovic - White & Nerdy | N/A |
+| 0591 | Blink-182 - Down | N/A |
+| 0592 | Metallica - Creeping Death | N/A |
+| 0593 | Paramore - That's What You Get | N/A |
+| 0594 | Slipknot - Vermilion Pt. 2 | N/A |
+| 0595 | Blink-182 - Violence | N/A |
+| 0596 | Tankcsapda - Mennyország Tourist | N/A |
+| 0597 | Weezer - Say It Ain't So | N/A |
+| 0598 | Nirvana - Tourette's | N/A |
+| 0599 | Tankcsapda - Gyűrd Össze A Lepedőt | N/A |
+| 0600 | Angels & Airwaves - Sirens | N/A |
 
 ## 0601 - 0700
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 0601 | N/A | N/A |
-| 0602 | N/A | N/A |
-| 0603 | N/A | N/A |
-| 0604 | N/A | N/A |
-| 0605 | N/A | N/A |
-| 0606 | N/A | N/A |
-| 0607 | N/A | N/A |
-| 0608 | N/A | N/A |
-| 0609 | N/A | N/A |
-| 0610 | N/A | N/A |
-| 0611 | N/A | N/A |
-| 0612 | N/A | N/A |
-| 0613 | N/A | N/A |
-| 0614 | N/A | N/A |
-| 0615 | N/A | N/A |
-| 0616 | N/A | N/A |
-| 0617 | N/A | N/A |
-| 0618 | N/A | N/A |
-| 0619 | N/A | N/A |
-| 0620 | N/A | N/A |
-| 0621 | N/A | N/A |
-| 0622 | N/A | N/A |
-| 0623 | N/A | N/A |
-| 0624 | N/A | N/A |
-| 0625 | N/A | N/A |
-| 0626 | N/A | N/A |
-| 0627 | N/A | N/A |
-| 0628 | N/A | N/A |
-| 0629 | N/A | N/A |
-| 0630 | N/A | N/A |
-| 0631 | N/A | N/A |
-| 0632 | N/A | N/A |
-| 0633 | N/A | N/A |
-| 0634 | N/A | N/A |
-| 0635 | N/A | N/A |
-| 0636 | N/A | N/A |
-| 0637 | N/A | N/A |
-| 0638 | N/A | N/A |
-| 0639 | N/A | N/A |
-| 0640 | N/A | N/A |
-| 0641 | N/A | N/A |
-| 0642 | N/A | N/A |
-| 0643 | N/A | N/A |
-| 0644 | N/A | N/A |
-| 0645 | N/A | N/A |
-| 0646 | N/A | N/A |
-| 0647 | N/A | N/A |
-| 0648 | N/A | N/A |
-| 0649 | N/A | N/A |
-| 0650 | N/A | N/A |
-| 0651 | N/A | N/A |
-| 0652 | N/A | N/A |
-| 0653 | N/A | N/A |
-| 0654 | N/A | N/A |
-| 0655 | N/A | N/A |
-| 0656 | N/A | N/A |
-| 0657 | N/A | N/A |
-| 0658 | N/A | N/A |
-| 0659 | N/A | N/A |
-| 0660 | N/A | N/A |
-| 0661 | N/A | N/A |
-| 0662 | N/A | N/A |
-| 0663 | N/A | N/A |
-| 0664 | N/A | N/A |
-| 0665 | N/A | N/A |
-| 0666 | N/A | N/A |
-| 0667 | N/A | N/A |
-| 0668 | N/A | N/A |
-| 0669 | N/A | N/A |
-| 0670 | N/A | N/A |
-| 0671 | N/A | N/A |
-| 0672 | N/A | N/A |
-| 0673 | N/A | N/A |
-| 0674 | N/A | N/A |
-| 0675 | N/A | N/A |
-| 0676 | N/A | N/A |
-| 0677 | N/A | N/A |
-| 0678 | N/A | N/A |
-| 0679 | N/A | N/A |
-| 0680 | N/A | N/A |
-| 0681 | N/A | N/A |
-| 0682 | N/A | N/A |
-| 0683 | N/A | N/A |
-| 0684 | N/A | N/A |
-| 0685 | N/A | N/A |
-| 0686 | N/A | N/A |
-| 0687 | N/A | N/A |
-| 0688 | N/A | N/A |
-| 0689 | N/A | N/A |
-| 0690 | N/A | N/A |
-| 0691 | N/A | N/A |
-| 0692 | N/A | N/A |
-| 0693 | N/A | N/A |
-| 0694 | N/A | N/A |
-| 0695 | N/A | N/A |
-| 0696 | N/A | N/A |
-| 0697 | N/A | N/A |
-| 0698 | N/A | N/A |
-| 0699 | N/A | N/A |
-| 0700 | N/A | N/A |
+| 0601 | Blink-182 - Blow Job | N/A |
+| 0602 | Fugazi - Turnover | N/A |
+| 0603 | ZZ Top - Tush | N/A |
+| 0604 | Sum 41 - With Me | N/A |
+| 0605 | Children Of Bodom - Downfall | N/A |
+| 0606 | Dance Gavin Dance - Elder Goose | N/A |
+| 0607 | Blink-182 - Man Overboard | N/A |
+| 0608 | Tom Misch - Cinnamon Curls | N/A |
+| 0609 | Avril Lavigne - He Wasn't | N/A |
+| 0610 | 220 Volt - Dangerous | N/A |
+| 0611 | Kiss - Rock And Roll All Nite | N/A |
+| 0612 | Def Leppard - Pour Some Sugar On Me | N/A |
+| 0613 | Arctic Monkeys - R U Mine? | N/A |
+| 0614 | Avril Lavigne - Don't Tell Me | N/A |
+| 0615 | Rammstein - Te Quiero P*ta | N/A |
+| 0616 | Alesana - Ambrosia | N/A |
+| 0617 | Tool - Forty Six & 2 | N/A |
+| 0618 | Ed Sheeran - Thinking Out Loud | N/A |
+| 0619 | Fountains Of Wayne - Stacy's Mom | N/A |
+| 0620 | NOFX - Dinosaurs Will Die | N/A |
+| 0621 | Black Sabbath - War Pigs | N/A |
+| 0622 | Fall Out Boy - Homesick At Space Camp | N/A |
+| 0623 | I Prevail - Closure | N/A |
+| 0624 | We Butter The Bread With Butter - Dreh Auf | N/A |
+| 0625 | Arctic Monkeys - Balaclava | N/A |
+| 0626 | Attack! Attack! - What Happens If I Can't Check My Myspace When We Get There | N/A |
+| 0627 | Arctic Monkeys - Why'd You Only Call Me When You're High | N/A |
+| 0628 | Bob Marley & The Wailers - I Shot The Sheriff | N/A |
+| 0629 | I Killed The Prom Queen - Say Goodbye | N/A |
+| 0630 | Emmure - E | N/A |
+| 0631 | After The Burial - Neon Seoul | N/A |
+| 0632 | Acid Drinkers - Hit The Road Jack | N/A |
+| 0633 | Imagine Dragons - Warriors | N/A |
+| 0634 | Eyes Set To Kill - Reach | N/A |
+| 0635 | Igorrr - Musette Maximum | N/A |
+| 0636 | My Chemical Romance - Mama | N/A |
+| 0637 | Cradle Of Filth - Nymphetamine (Overdose) | N/A |
+| 0638 | Avril Lavigne - Sk8er Boi | N/A |
+| 0639 | Ghost - Square Hammer | N/A |
+| 0640 | Derek And The Dominos - Layla | N/A |
+| 0641 | Rhapsody Of Fire - The Last Winged Unicorn | N/A |
+| 0642 | Avril Lavigne - How Does It Feel | N/A |
+| 0643 | My Chemical Romance - Heaven Help Us | N/A |
+| 0644 | In Flames - Episode 666 | N/A |
+| 0645 | Rammstein - Zick Zack | N/A |
+| 0646 | Liquido - Narcotic | N/A |
+| 0647 | Dance Gavin Dance - Lemon Meringue Tie | N/A |
+| 0648 | Foo Fighters - Everlong | N/A |
+| 0649 | The Shins - For A Fool | N/A |
+| 0650 | 10,000 Maniacs - Like The Weather | N/A |
+| 0651 | Red Hot Chili Peppers - Otherside | N/A |
+| 0652 | Knocked Loose - ...And Still I Wander South | N/A |
+| 0653 | Motionless In White - LOUD (F*ck It) | N/A |
+| 0654 | The Glitch Mob - Seven Nation Army Remix (The White Stripes) | N/A |
+| 0655 | Linkin Park - Hit The Floor | N/A |
+| 0656 | Sabaton - 1648 (English) | N/A |
+| 0657 | XZibit - Alkaholik | N/A |
+| 0658 | Pendulum - Different | N/A |
+| 0659 | Bring Me The Horizon - Kool-Aid | N/A |
+| 0660 | Red Hot Chili Peppers - Californication | N/A |
+| 0661 | Rage Against The Machine - Killing In The Name | N/A |
+| 0662 | We Butter The Bread With Butter - Ich Mach Was Mit Medien | N/A |
+| 0663 | My Chemical Romance - Sing | N/A |
+| 0664 | Bring Me The Horizon Feat. Joe Bad - Sandpit Turtle | N/A |
+| 0665 | Emmure - Rusted Over Wet Dreams | N/A |
+| 0666 | Slaughter To Prevail - Baba Yaga | N/A |
+| 0667 | Akercocke - Man Without Faith Or Trust | N/A |
+| 0668 | Escape The Fate - This War Is Ours (The Guillotine II) | N/A |
+| 0669 | Cyndi Lauper - Girls Just Want To Have Fun | N/A |
+| 0670 | Eric Clapton - Layla (Unplugged) | N/A |
+| 0671 | Stratovarius - Break The Ice | N/A |
+| 0672 | Burzum - Black Spell Of Destruction | N/A |
+| 0673 | Burzum - Autumn Leaves | N/A |
+| 0674 | Opeth - In My Time Of Need | N/A |
+| 0675 | Good Charlotte - I Just Wanna Live | N/A |
+| 0676 | Rammstein - D_cke T_tten | N/A |
+| 0677 | 12 Stones - Broken | N/A |
+| 0678 | Adelitas Way - Alive | N/A |
+| 0679 | 1349 - Legion | N/A |
+| 0680 | Orange Range - Asterisk | N/A |
+| 0681 | Sabaton - Angels Calling (Live) | N/A |
+| 0682 | 220 Volt - Love Is All You Need | N/A |
+| 0683 | La Sera - Love That's Gone | N/A |
+| 0684 | Avril Lavigne - Tomorrow | N/A |
+| 0685 | Rammstein - Engel | N/A |
+| 0686 | Oasis - Stop Crying Your Heart Out | N/A |
+| 0687 | Children Of Bodom - If You Want Peace... Prepare For War | N/A |
+| 0688 | B-52's - Rock Lobster | N/A |
+| 0689 | All Time Low - Get Down On Your Knees And Tell Me You Love Me | N/A |
+| 0690 | CKY - Lost In Contraption | N/A |
+| 0691 | Megadeth - Mechanix | N/A |
+| 0692 | System Of A Down - Spiders | N/A |
+| 0693 | Rage Against The Machine - Bombtrack | N/A |
+| 0694 | My Chemical Romance - Our Lady Of Sorrow | N/A |
+| 0695 | Sabaton - Hellfighters | N/A |
+| 0696 | Green Day - In The End | N/A |
+| 0697 | Amaranthe - Digital World | N/A |
+| 0698 | Pendulum - Salt In The Wounds | N/A |
+| 0699 | CKY - Escape From Hellview | N/A |
+| 0700 | All Time Low - Pretty Venom | N/A |
 
 ## 0701 - 0800
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 0701 | N/A | N/A |
-| 0702 | N/A | N/A |
-| 0703 | N/A | N/A |
-| 0704 | N/A | N/A |
-| 0705 | N/A | N/A |
-| 0706 | N/A | N/A |
-| 0707 | N/A | N/A |
-| 0708 | N/A | N/A |
-| 0709 | N/A | N/A |
-| 0710 | N/A | N/A |
-| 0711 | N/A | N/A |
-| 0712 | N/A | N/A |
-| 0713 | N/A | N/A |
-| 0714 | N/A | N/A |
-| 0715 | N/A | N/A |
-| 0716 | N/A | N/A |
-| 0717 | N/A | N/A |
-| 0718 | N/A | N/A |
-| 0719 | N/A | N/A |
-| 0720 | N/A | N/A |
-| 0721 | N/A | N/A |
-| 0722 | N/A | N/A |
-| 0723 | N/A | N/A |
-| 0724 | N/A | N/A |
-| 0725 | N/A | N/A |
-| 0726 | N/A | N/A |
-| 0727 | N/A | N/A |
-| 0728 | N/A | N/A |
-| 0729 | N/A | N/A |
-| 0730 | N/A | N/A |
-| 0731 | N/A | N/A |
-| 0732 | N/A | N/A |
-| 0733 | N/A | N/A |
-| 0734 | N/A | N/A |
-| 0735 | N/A | N/A |
-| 0736 | N/A | N/A |
-| 0737 | N/A | N/A |
-| 0738 | N/A | N/A |
-| 0739 | N/A | N/A |
-| 0740 | N/A | N/A |
-| 0741 | N/A | N/A |
-| 0742 | N/A | N/A |
-| 0743 | N/A | N/A |
-| 0744 | N/A | N/A |
-| 0745 | N/A | N/A |
-| 0746 | N/A | N/A |
-| 0747 | N/A | N/A |
-| 0748 | N/A | N/A |
-| 0749 | N/A | N/A |
-| 0750 | N/A | N/A |
-| 0751 | N/A | N/A |
-| 0752 | N/A | N/A |
-| 0753 | N/A | N/A |
-| 0754 | N/A | N/A |
-| 0755 | N/A | N/A |
-| 0756 | N/A | N/A |
-| 0757 | N/A | N/A |
-| 0758 | N/A | N/A |
-| 0759 | N/A | N/A |
-| 0760 | N/A | N/A |
-| 0761 | N/A | N/A |
-| 0762 | N/A | N/A |
-| 0763 | N/A | N/A |
-| 0764 | N/A | N/A |
-| 0765 | N/A | N/A |
-| 0766 | N/A | N/A |
-| 0767 | N/A | N/A |
-| 0768 | N/A | N/A |
-| 0769 | N/A | N/A |
-| 0770 | N/A | N/A |
-| 0771 | N/A | N/A |
-| 0772 | N/A | N/A |
-| 0773 | N/A | N/A |
-| 0774 | N/A | N/A |
-| 0775 | N/A | N/A |
-| 0776 | N/A | N/A |
-| 0777 | N/A | N/A |
-| 0778 | N/A | N/A |
-| 0779 | N/A | N/A |
-| 0780 | N/A | N/A |
-| 0781 | N/A | N/A |
-| 0782 | N/A | N/A |
-| 0783 | N/A | N/A |
-| 0784 | N/A | N/A |
-| 0785 | N/A | N/A |
-| 0786 | N/A | N/A |
-| 0787 | N/A | N/A |
-| 0788 | N/A | N/A |
-| 0789 | N/A | N/A |
-| 0790 | N/A | N/A |
-| 0791 | N/A | N/A |
-| 0792 | N/A | N/A |
-| 0793 | N/A | N/A |
-| 0794 | N/A | N/A |
-| 0795 | N/A | N/A |
-| 0796 | N/A | N/A |
-| 0797 | N/A | N/A |
-| 0798 | N/A | N/A |
-| 0799 | N/A | N/A |
-| 0800 | N/A | N/A |
+| 0701 | Rammstein - Sonne | N/A |
+| 0702 | Within Temptation - Angels | N/A |
+| 0703 | Billy Talent - Stand Up And Run | N/A |
+| 0704 | All Time Low - Once In A Lifetime | N/A |
+| 0705 | System Of A Down - Stealing Society | N/A |
+| 0706 | Serj Tankian - Saving Us | N/A |
+| 0707 | The All-American Rejects - Move Along | N/A |
+| 0708 | Avantasia - Carry Me Over | N/A |
+| 0709 | We Butter The Bread With Butter - Exorzist | N/A |
+| 0710 | Iron Maiden - Can I Play With Madness? | N/A |
+| 0711 | American Head Charge - Just So You Know | N/A |
+| 0712 | Danzig - Mother | N/A |
+| 0713 | Type O Negative - Love You To Death | N/A |
+| 0714 | Mayday Parade - Black Cat | N/A |
+| 0715 | 2pac - Changes | N/A |
+| 0716 | Led Zeppelin - Dazed And Confused | N/A |
+| 0717 | Alice In Chains - Rooster | N/A |
+| 0718 | Evanescence - Forgive Me | N/A |
+| 0719 | Bad Wolves - Zombie (The Cranberries Cover) | N/A |
+| 0720 | Sum 41 - Count Your Last Blessings | N/A |
+| 0721 | Limp Bizkit - Faith | N/A |
+| 0722 | Sum 41 - Over My Head (Better Off Dead) | N/A |
+| 0723 | Rage Against The Machine - Know Your Enemy | N/A |
+| 0724 | Spice Girls - Wannabe | N/A |
+| 0725 | Billy Talent - Pins And Needles | N/A |
+| 0726 | The Fray - How To Save A Life | N/A |
+| 0727 | Joan Jett - Bad Reputation | N/A |
+| 0728 | Billy Talent - Perfect World | N/A |
+| 0729 | Arch Enemy - Vultures | N/A |
+| 0730 | Elvis Presley - All Shook Up | N/A |
+| 0731 | Chris Isaak - Wicked Game | N/A |
+| 0732 | Van Halen - Panama | N/A |
+| 0733 | Trivium - In Waves | N/A |
+| 0734 | Static-X - I'm With Stupid | N/A |
+| 0735 | Blink-182 - Asthenia | N/A |
+| 0736 | Eiffel 65 - Blue (Da Ba Dee) | N/A |
+| 0737 | George Michael - Careless Whisper | N/A |
+| 0738 | Aephanemer - Memento Mori (Instrumental) | N/A |
+| 0739 | Elvis Presley - If I Can Dream | N/A |
+| 0740 | BABYMETAL - Karate | N/A |
+| 0741 | Bullet For My Valentine - Your Betrayal | N/A |
+| 0742 | The All-American Rejects - Dirty Little Secrets | N/A |
+| 0743 | Elvis Presley - Can't Help Falling In Love | N/A |
+| 0744 | Mother Mother - Hayloft | N/A |
+| 0745 | The Dear Hunter - Stuck On A Wire Out On A Fence | N/A |
+| 0746 | Billy Talent - Voices Of Violence | N/A |
+| 0747 | Emmure - Bohemian Grove | N/A |
+| 0748 | Stratovarius - Speed Of Light | N/A |
+| 0749 | Spineshank - Smothered | N/A |
+| 0750 | Metallica - Fade To Black | N/A |
+| 0751 | Bryan Adams - (Everything I Do) I Do It For You | N/A |
+| 0752 | Bullet For My Valentine - Tears Don't Fall | N/A |
+| 0753 | Slipknot - Orphan | N/A |
+| 0754 | Billy Talent - River Below | N/A |
+| 0755 | Attack Attack! - Fumbles O'Brian | N/A |
+| 0756 | Wham! - Club Tropicana | N/A |
+| 0757 | AFI - Totalimmortal | N/A |
+| 0758 | Jinjer - No Hoard Of Value | N/A |
+| 0759 | Jimmy Eat World - The Middle | N/A |
+| 0760 | The Clash - I Fought The Law | N/A |
+| 0761 | Billy Talent - Ever Fallen In Love | N/A |
+| 0762 | Good Charlotte - My Old Man | N/A |
+| 0763 | System Of A Down - Science | N/A |
+| 0764 | Blink-182 - Stockholm Syndrome | N/A |
+| 0765 | Jack White - Sixteen Saltines | N/A |
+| 0766 | Red Hot Chili Peppers - Dani California | N/A |
+| 0767 | Magic Wands - Black Magic | N/A |
+| 0768 | Mindless Self Indulgence - Stupid MF | N/A |
+| 0769 | Blink-182 - Easy Target | N/A |
+| 0770 | Billy Talent - The Ex | N/A |
+| 0771 | Psychostick - Beer!! | N/A |
+| 0772 | Iron Maiden - The Trooper | N/A |
+| 0773 | Mindless Self Indulgence - Shut Me Up | N/A |
+| 0774 | System Of A Down - Jet Pilot | N/A |
+| 0775 | Black Sabbath - Heaven And Hell | N/A |
+| 0776 | System Of A Down - Snowblind | N/A |
+| 0777 | Blink-182 - Go | N/A |
+| 0778 | System Of A Down - Shimmy | N/A |
+| 0779 | Amorphis - As Mountains Crumble | N/A |
+| 0780 | Mindless Self Indulgence - D_cks Are For My Friends | N/A |
+| 0781 | Attack Attack! - AC-130 | N/A |
+| 0782 | Five Finger Death Punch - House Of The Rising Sun | N/A |
+| 0783 | The HU - Wolf Totem | N/A |
+| 0784 | Adele - Lovesong | N/A |
+| 0785 | TWRP - The No Pants Dance (Feat. Ninja S_x Party) | N/A |
+| 0786 | Kittie - Fire | N/A |
+| 0787 | Bill Withers - Lean On Me | N/A |
+| 0788 | 100 Gecs - Stupid Horse | N/A |
+| 0789 | Fergie - Big Girls Don't Cry (Personal) | N/A |
+| 0790 | The Cranberries - Linger | N/A |
+| 0791 | Thirty Seconds To Mars - From Yesterday | N/A |
+| 0792 | Slipknot - Snuff | N/A |
+| 0793 | Tankcsapda - Örökké Tart | N/A |
+| 0794 | Amon Amarth - The Hero | N/A |
+| 0795 | AC/DC - Thunderstruck | N/A |
+| 0796 | Nirvana - The Money Will Roll Right In | N/A |
+| 0797 | 04 Limited Sazabys - Utopia | N/A |
+| 0798 | 10cc - Dreadlock Holiday | N/A |
+| 0799 | 10 Years - Ghosts | N/A |
+| 0800 | Linkin Park - Shadow Of The Day | N/A |
 
 ## 0801 - 0900
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 0801 | N/A | N/A |
-| 0802 | N/A | N/A |
-| 0803 | N/A | N/A |
-| 0804 | N/A | N/A |
-| 0805 | N/A | N/A |
-| 0806 | N/A | N/A |
-| 0807 | N/A | N/A |
-| 0808 | N/A | N/A |
-| 0809 | N/A | N/A |
-| 0810 | N/A | N/A |
-| 0811 | N/A | N/A |
-| 0812 | N/A | N/A |
-| 0813 | N/A | N/A |
-| 0814 | N/A | N/A |
-| 0815 | N/A | N/A |
-| 0816 | N/A | N/A |
-| 0817 | N/A | N/A |
-| 0818 | N/A | N/A |
-| 0819 | N/A | N/A |
-| 0820 | N/A | N/A |
-| 0821 | N/A | N/A |
-| 0822 | N/A | N/A |
-| 0823 | N/A | N/A |
-| 0824 | N/A | N/A |
-| 0825 | N/A | N/A |
-| 0826 | N/A | N/A |
-| 0827 | N/A | N/A |
-| 0828 | N/A | N/A |
-| 0829 | N/A | N/A |
-| 0830 | N/A | N/A |
-| 0831 | N/A | N/A |
-| 0832 | N/A | N/A |
-| 0833 | N/A | N/A |
-| 0834 | N/A | N/A |
-| 0835 | N/A | N/A |
-| 0836 | N/A | N/A |
-| 0837 | N/A | N/A |
-| 0838 | N/A | N/A |
-| 0839 | N/A | N/A |
-| 0840 | N/A | N/A |
-| 0841 | N/A | N/A |
-| 0842 | N/A | N/A |
-| 0843 | N/A | N/A |
-| 0844 | N/A | N/A |
-| 0845 | N/A | N/A |
-| 0846 | N/A | N/A |
-| 0847 | N/A | N/A |
-| 0848 | N/A | N/A |
-| 0849 | N/A | N/A |
-| 0850 | N/A | N/A |
-| 0851 | N/A | N/A |
-| 0852 | N/A | N/A |
-| 0853 | N/A | N/A |
-| 0854 | N/A | N/A |
-| 0855 | N/A | N/A |
-| 0856 | N/A | N/A |
-| 0857 | N/A | N/A |
-| 0858 | N/A | N/A |
-| 0859 | N/A | N/A |
-| 0860 | N/A | N/A |
-| 0861 | N/A | N/A |
-| 0862 | N/A | N/A |
-| 0863 | N/A | N/A |
-| 0864 | N/A | N/A |
-| 0865 | N/A | N/A |
-| 0866 | N/A | N/A |
-| 0867 | N/A | N/A |
-| 0868 | N/A | N/A |
-| 0869 | N/A | N/A |
-| 0870 | N/A | N/A |
-| 0871 | N/A | N/A |
-| 0872 | N/A | N/A |
-| 0873 | N/A | N/A |
-| 0874 | N/A | N/A |
-| 0875 | N/A | N/A |
-| 0876 | N/A | N/A |
-| 0877 | N/A | N/A |
-| 0878 | N/A | N/A |
-| 0879 | N/A | N/A |
-| 0880 | N/A | N/A |
-| 0881 | N/A | N/A |
-| 0882 | N/A | N/A |
-| 0883 | N/A | N/A |
-| 0884 | N/A | N/A |
-| 0885 | N/A | N/A |
-| 0886 | N/A | N/A |
-| 0887 | N/A | N/A |
-| 0888 | N/A | N/A |
-| 0889 | N/A | N/A |
-| 0890 | N/A | N/A |
-| 0891 | N/A | N/A |
-| 0892 | N/A | N/A |
-| 0893 | N/A | N/A |
-| 0894 | N/A | N/A |
-| 0895 | N/A | N/A |
-| 0896 | N/A | N/A |
-| 0897 | N/A | N/A |
-| 0898 | N/A | N/A |
-| 0899 | N/A | N/A |
-| 0900 | N/A | N/A |
+| 0801 | Tom Misch - Insecure | N/A |
+| 0802 | Emmure - Smokey | N/A |
+| 0803 | After The Burial - To Carry You Away | N/A |
+| 0804 | Good Charlotte - The River | N/A |
+| 0805 | Rammstein - Mein Land | N/A |
+| 0806 | Knife Party - Bonfire | N/A |
+| 0807 | Bring Me The Horizon - Can You Feel My Heart | N/A |
+| 0808 | System Of A Down - Aerials | N/A |
+| 0809 | Radiohead - Creep | N/A |
+| 0810 | The Proclaimers - I'm Gonna Be (500 Miles) | N/A |
+| 0811 | Good Charlotte - Lifestyles Of The Rich And Famous | N/A |
+| 0812 | My Chemical Romance - Demolition Lovers | N/A |
+| 0813 | Toto - Africa | N/A |
+| 0814 | Bring Me The Horizon - Chelsea Smile | N/A |
+| 0815 | Amon Amarth - Fafner's Gold | N/A |
+| 0816 | Red Hot Chili Peppers - By The Way | N/A |
+| 0817 | Rage Against The Machine - Renegades Of Funk | N/A |
+| 0818 | Muse - Time Is Running Out | N/A |
+| 0819 | Disturbed - The Game | N/A |
+| 0820 | Dance Gavin Dance - The Robot With Human Hair Pt. 3 | N/A |
+| 0821 | Korpiklaani - Ievan Polkka | N/A |
+| 0822 | Stratovarius - Hunting High And Low | N/A |
+| 0823 | Arctic Monkeys - Still Take You Home | N/A |
+| 0824 | AFI - Silver And Cold | N/A |
+| 0825 | Tenacious D - Tribute | N/A |
+| 0826 | Slipknot - The Virus Of Life | N/A |
+| 0827 | The Black Dahlia Murder - Everything Went Black | N/A |
+| 0828 | Iron Maiden - Wasted Years | N/A |
+| 0829 | Tankcsapda - Mi A Fasz Van? | N/A |
+| 0830 | Godsmack - Releasing The Demons | N/A |
+| 0831 | Bullet For My Valentine - Hearts Burst Into Fire | N/A |
+| 0832 | My Chemical Romance - Ambulance | N/A |
+| 0833 | Ozzy Osbourne - Hellraiser (Feat. Motörhead) | N/A |
+| 0834 | Red Hot Chili Peppers - Emit Remmus | N/A |
+| 0835 | Dragonforce - Trail Of Broken Hearts | N/A |
+| 0836 | Dance Gavin Dance - Strawberry Swisher Pt. 2 | N/A |
+| 0837 | Flyleaf - I'm So Sick | N/A |
+| 0838 | Coal Chamber - Sway | N/A |
+| 0839 | Toby Fox - Megalovania | N/A |
+| 0840 | From First To Last - Note To Self | N/A |
+| 0841 | The Carpenters - Top Of The World | N/A |
+| 0842 | Wham! - Wake Me Up Before You Go Go | N/A |
+| 0843 | Tool - Crawl Away | N/A |
+| 0844 | Ramones - Pet Sematary | N/A |
+| 0845 | Pearl Jam - Better Man | N/A |
+| 0846 | Circus Maximus - Sane No More | N/A |
+| 0847 | Guns N' Roses - November Rain | N/A |
+| 0848 | The Beatles - Come Together | N/A |
+| 0849 | Billy Idol - Rebel Yell | N/A |
+| 0850 | Muse - Bliss | N/A |
+| 0851 | Eric Clapton - Cocaine | N/A |
+| 0852 | Junior H - 1004 Kilómetros | N/A |
+| 0853 | Windir - Dance Of Mortal Lust | N/A |
+| 0854 | Papa Roach - Scars | N/A |
+| 0855 | Muse - Psycho | N/A |
+| 0856 | Led Zeppelin - Rock And Roll | N/A |
+| 0857 | Amon Amarth - Blood Eagle | N/A |
+| 0858 | Michael Jackson - Thriller | N/A |
+| 0859 | America - A Horse With No Name | N/A |
+| 0860 | Breaking Benjamin - The Diary Of Jane | N/A |
+| 0861 | Akira Yamaoka - Waiting For You | N/A |
+| 0862 | Coldplay - Speed Of Sound | N/A |
+| 0863 | Turisas - Rasputin | N/A |
+| 0864 | Spiritbox - Circle With Me | N/A |
+| 0865 | Rag'n'Bone Man - Human | N/A |
+| 0866 | Within Temptation - Grace | N/A |
+| 0867 | 10,000 Maniacs - Everyone A Puzzle Lover | N/A |
+| 0868 | Green Day - Dilemma | N/A |
+| 0869 | Cradle Of Filth - Forgive Me Father (I Have Sinned) | N/A |
+| 0870 | In Flames - Come Clarity | N/A |
+| 0871 | In Flames - Take This Life | N/A |
+| 0872 | Silverstein - Apologize | N/A |
+| 0873 | Paramore - Decoy | N/A |
+| 0874 | Sum 41 - Pieces | N/A |
+| 0875 | Seal - Kiss From A Rose | N/A |
+| 0876 | Dance Gavin Dance - Story Of My Bros | N/A |
+| 0877 | George Michael - Kissing A Fool | N/A |
+| 0878 | Static-X - Push It | N/A |
+| 0879 | Rage Against The Machine - Down Rodeo | N/A |
+| 0880 | The All-American Rejects - Gives You Hell | N/A |
+| 0881 | Amon Amarth - The Way Of Vikings | N/A |
+| 0882 | Motörhead - Overkill | N/A |
+| 0883 | Aching Head - Self-Destruct | N/A |
+| 0884 | Robbie Williams - Supreme | N/A |
+| 0885 | Rage Against The Machine - Bullet In The Head | N/A |
+| 0886 | Rhapsody - Dawn Of Victory | N/A |
+| 0887 | Puddle Of Mudd - Blurry | N/A |
+| 0888 | Pokolgép - Itt És Most | N/A |
+| 0889 | P.O.D. - Set It Off | N/A |
+| 0890 | Pendulum - Blood Sugar | N/A |
+| 0891 | Paramore - All I Wanted | N/A |
+| 0892 | Amy Winehouse - Rehab | N/A |
+| 0893 | Ace Of Base - The Sign | N/A |
+| 0894 | Metallica - Master Of Puppets | N/A |
+| 0895 | Knocked Loose - Everything Is Quiet Now | N/A |
+| 0896 | Attila - Pizza | N/A |
+| 0897 | Dr. Dre & Eminem Feat. South Park - Forgot About TIMMY | N/A |
+| 0898 | Trust - Antisocial | N/A |
+| 0899 | Ajattara - Harhojen Renki | N/A |
+| 0900 | American Authors - Best Day Of My Life | N/A |
 
 ## 0901 - 1000
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 0901 | N/A | N/A |
-| 0902 | N/A | N/A |
-| 0903 | N/A | N/A |
-| 0904 | N/A | N/A |
-| 0905 | N/A | N/A |
-| 0906 | N/A | N/A |
-| 0907 | N/A | N/A |
-| 0908 | N/A | N/A |
-| 0909 | N/A | N/A |
-| 0910 | N/A | N/A |
-| 0911 | N/A | N/A |
-| 0912 | N/A | N/A |
-| 0913 | N/A | N/A |
-| 0914 | N/A | N/A |
-| 0915 | N/A | N/A |
-| 0916 | N/A | N/A |
-| 0917 | N/A | N/A |
-| 0918 | N/A | N/A |
-| 0919 | N/A | N/A |
-| 0920 | N/A | N/A |
-| 0921 | N/A | N/A |
-| 0922 | N/A | N/A |
-| 0923 | N/A | N/A |
-| 0924 | N/A | N/A |
-| 0925 | N/A | N/A |
-| 0926 | N/A | N/A |
-| 0927 | N/A | N/A |
-| 0928 | N/A | N/A |
-| 0929 | N/A | N/A |
-| 0930 | N/A | N/A |
-| 0931 | N/A | N/A |
-| 0932 | N/A | N/A |
-| 0933 | N/A | N/A |
-| 0934 | N/A | N/A |
-| 0935 | N/A | N/A |
-| 0936 | N/A | N/A |
-| 0937 | N/A | N/A |
-| 0938 | N/A | N/A |
-| 0939 | N/A | N/A |
-| 0940 | N/A | N/A |
-| 0941 | N/A | N/A |
-| 0942 | N/A | N/A |
-| 0943 | N/A | N/A |
-| 0944 | N/A | N/A |
-| 0945 | N/A | N/A |
-| 0946 | N/A | N/A |
-| 0947 | N/A | N/A |
-| 0948 | N/A | N/A |
-| 0949 | N/A | N/A |
-| 0950 | N/A | N/A |
-| 0951 | N/A | N/A |
-| 0952 | N/A | N/A |
-| 0953 | N/A | N/A |
-| 0954 | N/A | N/A |
-| 0955 | N/A | N/A |
-| 0956 | N/A | N/A |
-| 0957 | N/A | N/A |
-| 0958 | N/A | N/A |
-| 0959 | N/A | N/A |
-| 0960 | N/A | N/A |
-| 0961 | N/A | N/A |
-| 0962 | N/A | N/A |
-| 0963 | N/A | N/A |
-| 0964 | N/A | N/A |
-| 0965 | N/A | N/A |
-| 0966 | N/A | N/A |
-| 0967 | N/A | N/A |
-| 0968 | N/A | N/A |
-| 0969 | N/A | N/A |
-| 0970 | N/A | N/A |
-| 0971 | N/A | N/A |
-| 0972 | N/A | N/A |
-| 0973 | N/A | N/A |
-| 0974 | N/A | N/A |
-| 0975 | N/A | N/A |
-| 0976 | N/A | N/A |
-| 0977 | N/A | N/A |
-| 0978 | N/A | N/A |
-| 0979 | N/A | N/A |
-| 0980 | N/A | N/A |
-| 0981 | N/A | N/A |
-| 0982 | N/A | N/A |
-| 0983 | N/A | N/A |
-| 0984 | N/A | N/A |
-| 0985 | N/A | N/A |
-| 0986 | N/A | N/A |
-| 0987 | N/A | N/A |
-| 0988 | N/A | N/A |
-| 0989 | N/A | N/A |
-| 0990 | N/A | N/A |
-| 0991 | N/A | N/A |
-| 0992 | N/A | N/A |
-| 0993 | N/A | N/A |
-| 0994 | N/A | N/A |
-| 0995 | N/A | N/A |
-| 0996 | N/A | N/A |
-| 0997 | N/A | N/A |
-| 0998 | N/A | N/A |
-| 0999 | N/A | N/A |
-| 1000 | N/A | N/A |
+| 0901 | Children Of Bodom - Silent Night, Bodom Night | N/A |
+| 0902 | Slipknot - 'Til We Die | N/A |
+| 0903 | Tarja Turunen - Until My Last Breath | N/A |
+| 0904 | Bryan Adams - Summer Of '69 | N/A |
+| 0905 | Scooter - How Much Is The Fish? | N/A |
+| 0906 | Rammstein - Tier | N/A |
+| 0907 | Rammstein - Zeit | N/A |
+| 0908 | Elvis Presley - Burning Love | N/A |
+| 0909 | Akira Yamaoka - Room Of Angel (Feat. Mary Elizabeth McGlynn) | N/A |
+| 0910 | Red Hot Chili Peppers - Parallel Universe | N/A |
+| 0911 | Avenged Sevenfold - Paradigm | N/A |
+| 0912 | Alexisonfire - This Could Be Anywhere In The World | N/A |
+| 0913 | Amon Amarth - Amon Amarth | N/A |
+| 0914 | Daryl Hall & John Oates - Maneater | N/A |
+| 0915 | Celldweller - Switchback | N/A |
+| 0916 | Depeche Mode - Enjoy The Silence | N/A |
+| 0917 | Alter Bridge - Metalingus | N/A |
+| 0918 | Billy Talent - Rusted From The Rain | N/A |
+| 0919 | Alizée - Moi Lolita | N/A |
+| 0920 | Lamb Of God - Vigil | N/A |
+| 0921 | Slipknot - A Liar's Funeral | N/A |
+| 0922 | Taking Back Sunday - Cute Without The 'E' (Cut From The Team) | N/A |
+| 0923 | Bowling For Soup - High School Never Ends | N/A |
+| 0924 | Outkast - Hey Ya! | N/A |
+| 0925 | Bowling For Soup - Emily | N/A |
+| 0926 | Fall Out Boy - Dead On Arrival | N/A |
+| 0927 | Cute Is What We Aim For - The Curse Of Curves | N/A |
+| 0928 | Stone Temple Pilots - Big Empty | N/A |
+| 0929 | The Starting Line - The Best Of Me | N/A |
+| 0930 | Hammerfall - Any Means Necessary | N/A |
+| 0931 | Girugamesh - Owari To Mirai | N/A |
+| 0932 | Flow - Sign | N/A |
+| 0933 | BABYMETAL - Gimme Chocolate!! | N/A |
+| 0934 | Billy Talent - Covered In Cowardice | N/A |
+| 0935 | Emmure - Nemesis | N/A |
+| 0936 | Avril Lavigne - My Happy Ending | N/A |
+| 0937 | Garth Brooks - The Thunder Rolls | N/A |
+| 0938 | Blessthefall - Hollow Bodies | N/A |
+| 0939 | Thirty Seconds To Mars - The Mission | N/A |
+| 0940 | Pendulum - Propane Nightmares | N/A |
+| 0941 | UB40 - Kingston Town | N/A |
+| 0942 | Fall Out Boy - Novocaine | N/A |
+| 0943 | Bring Me The Horizon - Sleepwalking | N/A |
+| 0944 | Avril Lavigne - I'm With You | N/A |
+| 0945 | Eminem - The Way I Am | N/A |
+| 0946 | Dimmu Borgir - Gateways | N/A |
+| 0947 | The Birthday Massacre - Flashback | N/A |
+| 0948 | Tool - The Pot | N/A |
+| 0949 | Sonny & Cher - I Got You Babe | N/A |
+| 0950 | Reel Big Fish - The Fire | N/A |
+| 0951 | Sum 41 - Rise Up | N/A |
+| 0952 | 3 Doors Down - Let Me Go | N/A |
+| 0953 | Lostprophets - Last Train Home | N/A |
+| 0954 | Rage Against The Machine - Wake Up | N/A |
+| 0955 | System Of A Down - Vicinity Of Obscenity | N/A |
+| 0956 | Lordi - Hard Rock Hallelujah | N/A |
+| 0957 | Lordi - Who's Your Daddy | N/A |
+| 0958 | Avantasia - Farewell | N/A |
+| 0959 | Rammstein - Weisses Fleisch | N/A |
+| 0960 | Rammstein - Stein Um Stein | N/A |
+| 0961 | System Of A Down - Forest | N/A |
+| 0962 | Rage Against The Machine - Bulls On Parade | N/A |
+| 0963 | Rage Against The Machine - Testify | N/A |
+| 0964 | Rage Against The Machine - Guerilla Radio | N/A |
+| 0965 | Rammstein - Dalai Lama | N/A |
+| 0966 | Rancid - Roots Radical | N/A |
+| 0967 | Burzum - Jesus' Tod | N/A |
+| 0968 | M.O.D. - Bubble Butt | N/A |
+| 0969 | Dimmu Borgir - The Serpentine Offering | N/A |
+| 0970 | Tom Petty And The Heartbreakers - Mary Jane's Last Dance | N/A |
+| 0971 | Hawthorne Heights - Ohio Is For Lovers | N/A |
+| 0972 | Hawthorne Heights - Pens And Needles | N/A |
+| 0973 | Paramore - Now | N/A |
+| 0974 | My Chemical Romance - The Ghost Of You | N/A |
+| 0975 | Rammstein - Los | N/A |
+| 0976 | Bowling For Soup - S-S-S-Saturday | N/A |
+| 0977 | System Of A Down - Attack | N/A |
+| 0978 | Yngwie Malmsteen - Rising Force | N/A |
+| 0979 | Simple Plan - I'm Just A Kid | N/A |
+| 0980 | Dimmu Borgir - Mourning Palace | N/A |
+| 0981 | Sum 41 - Underclass Hero | N/A |
+| 0982 | Fall Out Boy - Saturday | N/A |
+| 0983 | Type O Negative - My Girlfriend's Girlfriend | N/A |
+| 0984 | Tokio Hotel - Monsoon (English) | N/A |
+| 0985 | Cradle Of Filth - The Foetus Of A New Day Kicking | N/A |
+| 0986 | Cradle Of Filth - Cemetery And Sundown | N/A |
+| 0987 | Anthrax - I Am The Law | N/A |
+| 0988 | Dio - Caught In The Middle | N/A |
+| 0989 | Yellowcard - Only One | N/A |
+| 0990 | Radiohead - Exit Music (For A Film) | N/A |
+| 0991 | Beastie Boys - Hey Ladies | N/A |
+| 0992 | Nirvana - About A Girl | N/A |
+| 0993 | Aaliyah - Are You That Somebody | N/A |
+| 0994 | AFI - God Called In Sick Today | N/A |
+| 0995 | Alice Cooper - Hey Stoopid | N/A |
+| 0996 | Amorphis - War | N/A |
+| 0997 | Angels & Airwaves - Everything's Magic | N/A |
+| 0998 | Emmure - Demons With Ryu | N/A |
+| 0999 | Jack Off Jill - Strawberry Gashes | N/A |
+| 1000 | Korpiklaani - Bring Us Pints Of Beer | N/A |
 
 ## 1001 - 1100
 
