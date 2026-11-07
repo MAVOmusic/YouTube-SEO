@@ -20,96 +20,96 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0008 | Aephanemer - Old French Song | From piano to bass: Aephanemer - Old French Song #rocksmith |
 | 0009 | Alien Fucker - Arabic UFO Party | Arabic UFO Party takes flight on bass \| Alien Fucker #rocksmith |
 | 0010 | Green Day - X-Kid | Hear X-Kid through my bass \| Green Day on Rocksmith #bass |
-| 0011 | N/A | N/A |
-| 0012 | N/A | N/A |
-| 0013 | N/A | N/A |
-| 0014 | N/A | N/A |
-| 0015 | N/A | N/A |
-| 0016 | N/A | N/A |
-| 0017 | N/A | N/A |
-| 0018 | N/A | N/A |
-| 0019 | N/A | N/A |
-| 0020 | N/A | N/A |
-| 0021 | N/A | N/A |
-| 0022 | N/A | N/A |
-| 0023 | N/A | N/A |
-| 0024 | N/A | N/A |
-| 0025 | N/A | N/A |
-| 0026 | N/A | N/A |
-| 0027 | N/A | N/A |
-| 0028 | N/A | N/A |
-| 0029 | N/A | N/A |
-| 0030 | N/A | N/A |
-| 0031 | N/A | N/A |
-| 0032 | N/A | N/A |
-| 0033 | N/A | N/A |
-| 0034 | N/A | N/A |
-| 0035 | N/A | N/A |
-| 0036 | N/A | N/A |
-| 0037 | N/A | N/A |
-| 0038 | N/A | N/A |
-| 0039 | N/A | N/A |
-| 0040 | N/A | N/A |
-| 0041 | N/A | N/A |
-| 0042 | N/A | N/A |
-| 0043 | N/A | N/A |
-| 0044 | N/A | N/A |
-| 0045 | N/A | N/A |
-| 0046 | N/A | N/A |
-| 0047 | N/A | N/A |
-| 0048 | N/A | N/A |
-| 0049 | N/A | N/A |
-| 0050 | N/A | N/A |
-| 0051 | N/A | N/A |
-| 0052 | N/A | N/A |
-| 0053 | N/A | N/A |
-| 0054 | N/A | N/A |
-| 0055 | N/A | N/A |
-| 0056 | N/A | N/A |
-| 0057 | N/A | N/A |
-| 0058 | N/A | N/A |
-| 0059 | N/A | N/A |
-| 0060 | N/A | N/A |
-| 0061 | N/A | N/A |
-| 0062 | N/A | N/A |
-| 0063 | N/A | N/A |
-| 0064 | N/A | N/A |
-| 0065 | N/A | N/A |
-| 0066 | N/A | N/A |
-| 0067 | N/A | N/A |
+| 0011 | Sabaton - Dreadnought | N/A |
+| 0012 | Amaranthe - Archangel | N/A |
+| 0013 | Pendulum - Tarantula | N/A |
+| 0014 | CKY - Flesh Into Gear | N/A |
+| 0015 | All Time Low - Dear Maria, Count Me In | N/A |
+| 0016 | Sabaton - 82nd All The Way | N/A |
+| 0017 | Pendulum - Another Planet | N/A |
+| 0018 | Serj Tankian - Sky Is Over | N/A |
+| 0019 | System Of A Down - Roulette | N/A |
+| 0020 | All Time Low - Somewhere In Neverland | N/A |
+| 0021 | Motionless In White - Another Life | N/A |
+| 0022 | 3 Doors Down - Kryptonite | N/A |
+| 0023 | Sabaton - Steel Commanders | N/A |
+| 0024 | Rammstein - Amour | N/A |
+| 0025 | Billy Talent - Red Flag | N/A |
+| 0026 | My Chemical Romance - Teenagers | N/A |
+| 0027 | Metallica - Orion | N/A |
+| 0028 | CKY - Disengage The Simulator | N/A |
+| 0029 | Sabaton - Man Of War | N/A |
+| 0030 | All Time Low - Weightless | N/A |
+| 0031 | Generation X - Listen | N/A |
+| 0032 | Slipknot - Eyeless | N/A |
+| 0033 | The Cult - She Sells Sanctuary | N/A |
+| 0034 | Sabaton - En Livstid I Krig | N/A |
+| 0035 | Rammstein - Amerika | N/A |
+| 0036 | Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free | N/A |
+| 0037 | The Cult - Love Removal Machine | N/A |
+| 0038 | Muse - Supermassive Black Hole | N/A |
+| 0039 | Billy Talent - Viking Death March | N/A |
+| 0040 | Manowar - Kings Of Metal | N/A |
+| 0041 | Bullet For My Valentine - Scream Aim Fire | N/A |
+| 0042 | My Chemical Romance - Dead! | N/A |
+| 0043 | System Of A Down - Hypnotize | N/A |
+| 0044 | (G)I-DLE - I'M THE TREND | N/A |
+| 0045 | (G)I-DLE - Tomboy | N/A |
+| 0046 | (Hed) P.E. - Watch It Burn | N/A |
+| 0047 | (Hed) P.E. - Killing Time | N/A |
+| 0048 | (Hed) P.E. - I Got You | N/A |
+| 0049 | +44 - 155 | N/A |
+| 0050 | +44 - Baby, Come On | N/A |
+| 0051 | +44 - Chapter XIII | N/A |
+| 0052 | +44 - Little Death | N/A |
+| 0053 | +44 - Make You Smile | N/A |
+| 0054 | Sabaton - The Lion From The North | N/A |
+| 0055 | +44 - Weatherman | N/A |
+| 0056 | +44 - When Your Heart Stops Beating | N/A |
+| 0057 | Muse - Hysteria | N/A |
+| 0058 | Serj Tankian - The Unthinking Majority | N/A |
+| 0059 | Serj Tankian - Beethoven's C*nt | N/A |
+| 0060 | T.A.T.U. - All The Things She Said | N/A |
+| 0061 | Sabaton - Ghost Division | N/A |
+| 0062 | CKY - Dressed In Decay | N/A |
+| 0063 | Thirty Seconds To Mars - Valhalla | N/A |
+| 0064 | Three Days Grace - Pain | N/A |
+| 0065 | Rammstein - Hilf Mir | N/A |
+| 0066 | Sabaton - Primo Victoria | N/A |
+| 0067 | Nirvana - Come As You Are | N/A |
 | 0068 | My Chemical Romance - Welcome To The Black Parade | Bass through the Black Parade \| My Chemical Romance #bass |
-| 0069 | N/A | N/A |
-| 0070 | N/A | N/A |
-| 0071 | N/A | N/A |
-| 0072 | N/A | N/A |
-| 0073 | N/A | N/A |
-| 0074 | N/A | N/A |
-| 0075 | N/A | N/A |
-| 0076 | N/A | N/A |
-| 0077 | N/A | N/A |
-| 0078 | N/A | N/A |
-| 0079 | N/A | N/A |
-| 0080 | N/A | N/A |
-| 0081 | N/A | N/A |
-| 0082 | N/A | N/A |
-| 0083 | N/A | N/A |
-| 0084 | N/A | N/A |
-| 0085 | N/A | N/A |
-| 0086 | N/A | N/A |
-| 0087 | N/A | N/A |
-| 0088 | N/A | N/A |
-| 0089 | N/A | N/A |
-| 0090 | N/A | N/A |
-| 0091 | N/A | N/A |
-| 0092 | N/A | N/A |
-| 0093 | N/A | N/A |
-| 0094 | N/A | N/A |
-| 0095 | N/A | N/A |
-| 0096 | N/A | N/A |
-| 0097 | N/A | N/A |
-| 0098 | N/A | N/A |
-| 0099 | N/A | N/A |
-| 0100 | N/A | N/A |
+| 0069 | Billy Talent - Try Honesty | N/A |
+| 0070 | Linkin Park - One Step Closer | N/A |
+| 0071 | System Of A Down - Lonely Day | N/A |
+| 0072 | Sabaton - Stalingrad | N/A |
+| 0073 | Fleetwood Mac - Go Your Own Way | N/A |
+| 0074 | Maroon 5 - This Love | N/A |
+| 0075 | Radiohead - Paranoid Android | N/A |
+| 0076 | Slipknot - Psychosocial | N/A |
+| 0077 | R.E.M. - Losing My Religion | N/A |
+| 0078 | Billy Talent - Standing In The Rain | N/A |
+| 0079 | Sabaton - Sparta | N/A |
+| 0080 | All Time Low - Damned If I Do Ya (Damned If I Don't) | N/A |
+| 0081 | All Time Low - A Love Like War (Feat. Vic Fuentes) | N/A |
+| 0082 | Asking Alexandria - A Prophecy | N/A |
+| 0083 | System Of A Down - B.Y.O.B. | N/A |
+| 0084 | Van Halen - Hot For Teacher | N/A |
+| 0085 | Sabaton - Christmas Truce | N/A |
+| 0086 | Red Hot Chili Peppers - Soul To Squeeze | N/A |
+| 0087 | *Shels - Journey To The Plains | N/A |
+| 0088 | Pendulum - 9,000 Miles | N/A |
+| 0089 | *NSYNC - It's Gonna Be Me | N/A |
+| 0090 | Dragonforce - My Spirit Will Go On | N/A |
+| 0091 | Sabaton - Angels Calling | N/A |
+| 0092 | Korn - Blind | N/A |
+| 0093 | Pendulum - The Vulture | N/A |
+| 0094 | Red Hot Chili Peppers - Suck My Kiss | N/A |
+| 0095 | "Weird Al" Yankovic - Another Tattoo | N/A |
+| 0096 | Billy Talent - This Suffering | N/A |
+| 0097 | Sabaton - Blood Of Bannockburn | N/A |
+| 0098 | U2 - Vertigo | N/A |
+| 0099 | Evanescence - Call Me When You're Sober | N/A |
+| 0100 | Rammstein - Keine Lust | N/A |
 
 ## 0101 - 0200
 
