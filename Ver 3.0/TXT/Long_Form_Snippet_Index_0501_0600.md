@@ -1,0 +1,106 @@
+# Long-form Studio screenshot index 0501-0600
+
+2026-11-07: visually reviewed all ten screenshots in `_All Songs/_0001 Long Form/_Songname Snippets/0501 - 0600/`. The user confirms page ranges and row order are fixed chronological IDs. Many song identities came from description previews when older-AI titles did not name the song; those old titles are not accepted into the catalogue. Prepared-title fields remain N/A pending current-process review.
+
+0533 reads Chicago - 26 Or 6 To 4 in both title and description; this may be a typo for 25 Or 6 To 4, but the actual recording was not heard and the screenshot wording is retained pending user confirmation. 0554, 0558 and 0559 are completed from the visible description previews. Album or recording claims in old AI descriptions are not independently verified.
+
+- 0501: EURINGER - Be Afraid Who You Are
+- 0502: Dance Gavin Dance - Elder Goose
+- 0503: Dance Gavin Dance - The Story Of My Bros
+- 0504: Depeche Mode - Freelove
+- 0505: Eminem Feat. Dido - Stan
+- 0506: Haluk Levent - Elfida
+- 0507: Manowar - Warriors Of The World United
+- 0508: Pendulum - Voodoo People
+- 0509: Pierce The Veil - Dive In
+- 0510: Radiohead - Paranoid Android
+- 0511: Tool - The Pot
+- 0512: Adele - Lovesong
+- 0513: Limp Bizkit - Re-Arranged
+- 0514: Paul McCartney & Wings - Band On The Run
+- 0515: Red Hot Chili Peppers - Dosed
+- 0516: Santana - Black Magic Woman
+- 0517: Scorpions - Winds Of Change
+- 0518: The Wallflowers - One Headlight
+- 0519: Tom Misch - The Journey
+- 0520: Within Temptation - The Howling
+- 0521: +44 (Plus 44) - 155
+- 0522: BrokeNCYDE - 2 Drunk 2 Drive
+- 0523: Coheed And Cambria - A Favor House Atlantic
+- 0524: Good Charlotte - Broken Hearts Parade
+- 0525: Green Day - 8th Avenue Serenade
+- 0526: P. Box - A Zöld A Bíbor És A Fekete
+- 0527: Pendulum - 9,000 Miles
+- 0528: 10 Years - Actions & Motives
+- 0529: Bob Dylan - Knockin' On Heaven's Door
+- 0530: Jawbreaker - Accident Prone
+- 0531: Billy Ocean - Red Light Spells Danger
+- 0532: Rush - Tom Sawyer
+- 0533: Chicago - 26 Or 6 To 4 [as shown; verify]
+- 0534: Pegboard Nerds Feat. Koda - Heaven Let Us Down
+- 0535: All That Remains - This Calling
+- 0536: BrokeNCYDE - GCOD Intro
+- 0537: Euringer - Internal Organs
+- 0538: 311 - All Mixed Up
+- 0539: Atreyu - Right Side Of The Bed
+- 0540: Mark Mueller - Duck Tales (Theme)
+- 0541: Bummrraa - Be Right Back
+- 0542: Korn - Freak On A Leash
+- 0543: The Ramones - Blitzkrieg Bop
+- 0544: Versus Them - We Three Kings
+- 0545: Queen - Stone Cold Crazy
+- 0546: Euringer - Be Afraid Who You Are
+- 0547: Violent Femmes - Blister In The Sun
+- 0548: Vampire Weekend - Cousins
+- 0549: 88 Fingers Louie - Meds
+- 0550: Blink-182 - What's My Age Again?
+- 0551: Bob Dylan - Knockin' On Heaven's Door
+- 0552: Mountain - Mississippi Queen
+- 0553: Magic Wands - Black Magic
+- 0554: Arctic Monkeys - Why'd You Only Call Me When You're High
+- 0555: Jack White - Sixteen Saltines
+- 0556: Judas Priest - Breaking The Law
+- 0557: BrokeNCYDE - No Game
+- 0558: Creedence Clearwater Revival - Have You Ever Seen The Rain?
+- 0559: Otis Redding - (Sittin' On) The Dock Of The Bay
+- 0560: Good Charlotte - A New Beginning
+- 0561: Brian Adam McCune - God Rest Ye Merry, Gentlemen
+- 0562: The Vines - Get Free
+- 0563: Kiss - Rock And Roll All Nite
+- 0564: (Hed) P.E. - Bartender
+- 0565: Slipknot - Killpop
+- 0566: The Kinks - You Really Got Me
+- 0567: AFI - Totalimmortal
+- 0568: Blink-182 - Dammit
+- 0569: Fang Island - Chompers
+- 0570: 04 Limited Sazabys - Galapagos
+- 0571: Atreyu - Falling Down
+- 0572: Blink-182 - All The Small Things
+- 0573: Maroon 5 - Harder To Breathe
+- 0574: Led Zeppelin - Black Dog
+- 0575: Pat Benatar - Hit Me With Your Best Shot
+- 0576: Bush - Comedown
+- 0577: A Change Of Pace - Weekend Warriors
+- 0578: The Temptations - My Girl
+- 0579: Screaming Females - Rotten Apple
+- 0580: Apocalyptica - Life Burns!
+- 0581: Seth Chapla - Carol Of The Bells
+- 0582: Fall Out Boy - Dance, Dance
+- 0583: Queen - We Are The Champions
+- 0584: Rise Against - The Good Left Undone
+- 0585: The Blues Brothers - Soul Man
+- 0586: American Hi-Fi - Flavor Of The Weak
+- 0587: Gold Motel - Brand New Kind Of Blue
+- 0588: Asian Kung-Fu Generation - After Dark
+- 0589: 50 Cent - In Da Club
+- 0590: American Authors - Best Day Of My Life
+- 0591: The Clash - Should I Stay Or Should I Go
+- 0592: The Clash - The Guns Of Brixton
+- 0593: Anouk - Good God
+- 0594: Scott Walker - The Old Man's Back Again
+- 0595: Bush - Machinehead
+- 0596: Queen - Killer Queen
+- 0597: Alice Cooper - No More Mr. Nice Guy
+- 0598: The Dear Hunter - Stuck On A Wire Out On A Fence
+- 0599: The Police - Roxanne
+- 0600: System Of A Down - Hypnotize

@@ -2,7 +2,7 @@
 
 2026-11-07: visually reviewed all ten Studio screenshots in `_All Songs/_0001 Long Form/_Songname Snippets/0401 - 0500/`. The user confirms the page ranges and row positions are fixed chronological IDs. Song names come from visible title text except 0459 and 0482, where the description preview supplies the identity or full title. 0471 retains the screenshot's censored spelling rather than expanding it. No earlier-AI titles are accepted as new titles; all prepared-title fields remain N/A.
 
-0426 is titled What To Expect At kick.com/mavomusic? and its description promotes the stream and song-request list. Neither preview identifies a band or song; it may be a non-song overview, but its content has not been inspected. Ask MAVO whether there is a specific song to index, and do not invent an identity.
+0426 is titled What To Expect At kick.com/mavomusic? The user confirms this is their starting-soon song highlight mix, played before their Burzum starting-soon video; individual tracks are not identified in the preview. A future separately cleared mix is desired; assess all composition, recording and platform rights before use and do not promise monetisation.
 
 - 0401: Ramones - Blitzkrieg Bop
 - 0402: Amon Amarth - War Of The Gods
@@ -29,7 +29,7 @@
 - 0423: Colin Hay Of Men At Work - Down Under 2012
 - 0424: Guns N' Roses - Don't Cry
 - 0425: Sabaton - Attero Dominatus
-- 0426: N/A (stream overview; song not identified)
+- 0426: Starting soon screen - song highlight mix (individual tracks not listed)
 - 0427: Sabaton - In The Name Of God
 - 0428: The Proclaimers - I'm Gonna Be (500 Miles)
 - 0429: Ado - Usseewa
