@@ -801,3 +801,5 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-07 - Reviewed early 0673/2420 Black Parade Studio screenshot snapshot; analysis saved in TXT/Black_Parade_0673_2420_Early_Analytics_2026-11-07.md. Retention, geography and revenue pending; user will supply 48+ hour updates for uploads. No Studio changes or background monitoring.
 
 2026-11-07 - Reviewed early Paramore Misery Business 0674/2421 Studio screenshots; snapshot and limitations saved in TXT/Misery_Business_0674_2421_Early_Analytics_2026-11-07.md. Await user-provided 48+ hour update; no Studio changes or background monitoring.
+
+2026-11-07 - Reviewed early AFI Miss Murder 0675/2422 screenshots; see TXT/Miss_Murder_0675_2422_Early_Analytics_2026-11-07.md. Short is partially blocked; LF screenshot shows ineligible to earn. Retention, geography and revenue pending; user will supply 48+ hour updates. No Studio changes or background monitoring.
