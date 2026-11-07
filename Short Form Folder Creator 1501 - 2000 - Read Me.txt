@@ -1,0 +1,20 @@
+SHORT FORM FOLDER CREATOR - 1501 TO 2000
+
+Keep the script and Short Form Folder Names 0001 - 2000.txt together in the same folder on your PC. The base folder must already exist:
+E:\_YT\YT Revive\_VER\Ver 3.00\_All Songs\_02 - Short Form
+
+Open PowerShell in the folder containing both files. Preview first:
+
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\Create Short Form Folders 1501 - 2000.ps1" -WhatIf
+
+If the preview is correct, run:
+
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\Create Short Form Folders 1501 - 2000.ps1"
+
+The quoted filename is required because it contains spaces. The execution policy bypass applies only to the PowerShell process started by the command.
+
+The script creates missing folders only, never deletes or overwrites existing files, and stops before creating anything if a differently named item already uses one of the target numbers or a file blocks a required path. Matching existing folders are reused. A filesystem failure or concurrent change after preflight can still interrupt a run; inspect any error and rerun after resolving it. No native Windows PowerShell execution was available during preparation.
+
+The list includes 0001-1500 for reference, but the script does not create or change those folders. Windows-invalid filename characters are removed or replaced; screenshot censoring is retained. 0009's title is withheld in the list in line with the existing policy. Screenshot-derived identities are historical metadata and not a verification of the audio. Check the per-hundred snippet indexes for description-derived identities.
+
+1819 has a truncated screenshot title and should be checked before creating or using its folder. 1514 and 1771 use withheld-title placeholders under the existing policy. 1862 is a subscriber milestone, not a song. Screenshot metadata does not confirm audio.

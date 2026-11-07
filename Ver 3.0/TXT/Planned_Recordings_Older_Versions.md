@@ -1,6 +1,6 @@
 # Planned recordings - older versions for later analytics
 
-Working cross-reference, not an exhaustive search. Matched against indexed Shorts 0001-1500 and long forms 0001-0674; separately known historical Black Parade Shorts 1434 and 1912 are noted below. Remaining Shorts 1501-2419 are not fully indexed. Similar titles, qualifiers, spelling and unknown/withheld identities need manual verification. IDs for new recordings are provisional and depend on actual chronological uploads. Folder paths below are expected from the Windows folder lists, not proof folders or analytics exist. Previously created repository folders can have different names; find those by ID.
+Working cross-reference, not an exhaustive search. Matched against indexed Shorts 0001-2000 and long forms 0001-0674; separately known historical Black Parade Shorts 1434 and 1912 are noted below. Remaining Shorts 2001-2419 are not fully indexed. Similar titles, qualifiers, spelling and unknown/withheld identities need manual verification. IDs for new recordings are provisional and depend on actual chronological uploads. Folder paths below are expected from the Windows folder lists, not proof folders or analytics exist. Previously created repository folders can have different names; find those by ID.
 
 Short paths are relative to the confirmed Windows Short Form root; long paths relative to the Long Form root. Check _01 - Main Info and _02 - Analytics, and retrieve current Studio analytics later, after all snippets have been processed. No analytics were gathered here.
 
@@ -9,8 +9,9 @@ Short paths are relative to the confirmed Windows Short Form root; long paths re
 - Short 0068: My Chemical Romance - Welcome To The Black Parade. Expected folder: `0001 - 0100/0061 - 0070/0068 - My Chemical Romance - Welcome To The Black Parade (Short Form)/`. Verify variant and actual location.
 - Long form 0009: My Chemical Romance - Welcome To The Black Parade. Expected folder: `0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/`. Verify variant and actual location.
 - Long form 0167: My Chemical Romance - Welcome To The Black Parade. Expected folder: `0101 - 0200/0161 - 0170/0167 - My Chemical Romance - Welcome To The Black Parade (Long Form)/`. Verify variant and actual location.
-- Also previously identified historical Shorts 1434 and 1912; use their chronological IDs to locate existing folders and analytics. Short 1434 is also listed below with its expected folder; 1912 has not yet been indexed in this cross-reference.
+- Also previously identified historical Shorts 1434 and 1912; use their chronological IDs to locate existing folders and analytics. Shorts 1434 and 1912 are also listed below with their expected folders.
 - Short 1434: My Chemical Romance - Welcome To The Black Parade. Expected folder: `1401 - 1500/1431 - 1440/1434 - My Chemical Romance - Welcome To The Black Parade (Short Form)/`. Screenshot metadata only; verify the actual folder and performance.
+- Short 1912: My Chemical Romance - Welcome To The Black Parade. Expected folder: `1901 - 2000/1911 - 1920/1912 - My Chemical Romance - Welcome To The Black Parade (Short Form)/`. Screenshot metadata only; verify actual folder and performance.
 
 ## 0674 / 2421 - Paramore - Misery Business
 
@@ -72,6 +73,7 @@ Short paths are relative to the confirmed Windows Short Form root; long paths re
 
 - Long form 0655: Silverstein - My Heroine. Expected folder: `0601 - 0700/0651 - 0660/0655 - Silverstein - My Heroine (Long Form)/`. Verify variant and actual location.
 - Short 1308: Silverstein - My Heroine. Expected folder: `1301 - 1400/1301 - 1310/1308 - Silverstein - My Heroine (Short Form)/`. Screenshot metadata only; verify the actual folder and performance.
+- Short 1608: Silverstein - My Heroine. Expected folder: `1601 - 1700/1601 - 1610/1608 - Silverstein - My Heroine (Short Form)/`. Screenshot metadata only; verify actual folder and performance.
 
 ## 0686 / 2433 - Weezer - Across The Sea
 
@@ -169,6 +171,8 @@ Short paths are relative to the confirmed Windows Short Form root; long paths re
 
 - Short 0039: Billy Talent - Viking Death March. Expected folder: `0001 - 0100/0031 - 0040/0039 - Billy Talent - Viking Death March (Short Form)/`. Verify variant and actual location.
 - Long form 0044: Billy Talent - Viking Death March. Expected folder: `0001 - 0100/0041 - 0050/0044 - Billy Talent - Viking Death March (Long Form)/`. Verify variant and actual location.
+- Short 1539: Billy Talent - Viking Death March. Expected folder: `1501 - 1600/1531 - 1540/1539 - Billy Talent - Viking Death March (Short Form)/`. Screenshot metadata only; verify actual folder and performance.
+- Short 1789: Billy Talent - Viking Death March. Expected folder: `1701 - 1800/1781 - 1790/1789 - Billy Talent - Viking Death March (Short Form)/`. Screenshot metadata only; verify actual folder and performance.
 
 ## 0705 / 2452 - The Starting Line - The Best Of Me
 
