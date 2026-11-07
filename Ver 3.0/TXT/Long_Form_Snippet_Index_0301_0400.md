@@ -1,0 +1,106 @@
+# Long-form Studio screenshot index 0301-0400
+
+2026-11-07: visually reviewed all ten numbered Studio screenshots in `_All Songs/_0001 Long Form/_Songname Snippets/0301 - 0400/`. Each number is inferred from the page range displayed in the screenshot and the row position, not a permanent ID displayed on the video. The view is sorted by date ascending; changes to the ordered list can shift position, so verify individually before treating an index number as immutable. Song identity is the visible title or, for 0327, 0337 and 0338, the description preview. These show video names and descriptions, not independent proof of the audio.
+
+The three bespoke titles shown for 0327, 0337 and 0338 match saved historical SEO packages by title, date and song; their archive IDs 0386, 0376 and 0375 belong to a different canonical numbering scheme and are not used as chronological IDs. Other title fields remain N/A unless a matching prepared title is independently established.
+
+- 0301: Linkin Park - New Divide
+- 0302: Sabaton - 1916
+- 0303: 3 Doors Down - Here Without You
+- 0304: 2pac - California Love
+- 0305: Aerosmith - I Don't Want To Miss A Thing
+- 0306: Arctic Monkeys - Do I Wanna Know?
+- 0307: Escape The Fate - Situations
+- 0308: Guns N' Roses - Sweet Child O' Mine
+- 0309: Jaws - Stay In
+- 0310: Motionless In White - Reincarnate
+- 0311: Motionless In White - Scissorhands (The Last Snow)
+- 0312: Pink Floyd - Money
+- 0313: My Chemical Romance - This Is How I Disappear
+- 0314: Pendulum - Showdown
+- 0315: Sabaton - Devil Dogs
+- 0316: Sabaton - To Hell And Back
+- 0317: System Of A Down - Revenga
+- 0318: 3 Doors Down - Away From The Sun
+- 0319: Alesana - Apology
+- 0320: ALI Feat. Aklo - Lost In Paradise (Jujutsu Kaisen Ending)
+- 0321: Arctic Monkeys - Fluorescent Adolescent
+- 0322: Blink-182 - Always
+- 0323: HIM - Wings Of A Butterfly
+- 0324: Ill Nino - How Can I Live
+- 0325: Megadeth - Sweating Bullets
+- 0326: Nirvana - The Man Who Sold The World
+- 0327: Rammstein - Adieu
+- 0328: Sabaton - Livgardet
+- 0329: Simple Plan - Welcome To My Life
+- 0330: Thirty Seconds To Mars - The Fantasy
+- 0331: Volbeat - Shotgun Blues
+- 0332: Zac Brown Band - Chicken Fried
+- 0333: 220 Volt - Love Is All You Need
+- 0334: Alestorm - Hangover
+- 0335: Alexisonfire - This Could Be Anywhere In The World
+- 0336: Alizée - Moi Lolita
+- 0337: American Authors - Best Day Of My Life
+- 0338: American Hi-Fi - Flavor Of The Weak
+- 0339: Apocalyptica - I Don't Care
+- 0340: Asking Alexandria - Not An American Average
+- 0341: Burzum - Autumn Leaves
+- 0342: Evanescence - Bring Me To Life
+- 0343: Gorillaz - Clint Eastwood
+- 0344: Iron Maiden - 2 Minutes To Midnight
+- 0345: Iron Maiden - Aces High
+- 0346: Iron Maiden - Wasted Years
+- 0347: Jack Off Jill - Strawberry Gashes
+- 0348: Modjo - Lady (Hear Me Tonight)
+- 0349: My Chemical Romance - The Light Behind Your Eyes
+- 0350: Nickelback - How You Remind Me
+- 0351: Opeth - In My Time Of Need
+- 0352: Pendulum - Hold Your Color
+- 0353: Tarja - Until My Last Breath
+- 0354: Three Days Grace - I Hate Everything About You
+- 0355: Tom Misch - Cinnamon Curls
+- 0356: Twisted Sister - We're Not Gonna Take It
+- 0357: Whitesnake - Is This Love
+- 0358: Ylvis - The Fox (What Does The Fox Say?)
+- 0359: Linkin Park - A Place For My Head
+- 0360: 3 Doors Down - Loser
+- 0361: 3 Doors Down - When I'm Gone
+- 0362: Tankcsapda - Azt Mondom Állj!
+- 0363: Black - Wonderful Life
+- 0364: Survivor - Eye Of The Tiger
+- 0365: Rage Against The Machine - Killing In The Name
+- 0366: Survivor - Burning Heart
+- 0367: Toto - Hold The Line
+- 0368: Sabaton - Cliffs Of Gallipoli
+- 0369: System Of A Down - Lost In Hollywood
+- 0370: Rage Against The Machine - Bombtrack
+- 0371: Bryan Adams - Summer Of '69
+- 0372: Sabaton - Fields Of Verdun
+- 0373: Rage Against The Machine - Know Your Enemy
+- 0374: Primus - My Name Is Mud
+- 0375: Elton John - I'm Still Standing
+- 0376: Rage Against The Machine - Renegades Of Funk
+- 0377: Sabaton - Screaming Eagles
+- 0378: Sabaton - Unbreakable
+- 0379: System Of A Down - Streamline
+- 0380: Aephanemer - Memento Mori (Instrumental)
+- 0381: BABYMETAL - Gimme Chocolate!!
+- 0382: Chicago - 25 Or 6 To 4
+- 0383: Motorhead - Louie Louie
+- 0384: Motorhead - Ramones
+- 0385: Motorhead - Sex And Death
+- 0386: Pendulum - Slam
+- 0387: Survivor - Poor Man's Son
+- 0388: System Of A Down - Spiders
+- 0389: System Of A Down - Stealing Society
+- 0390: Van Halen - Jump
+- 0391: Kenny Loggins - Danger Zone
+- 0392: Rage Against The Machine - Guerrilla Radio
+- 0393: Sabaton - Defence Of Moscow
+- 0394: Sabaton - The Attack Of The Dead Men
+- 0395: System Of A Down - Chop Suey!
+- 0396: System Of A Down - Holy Mountains
+- 0397: Volbeat - Still Counting
+- 0398: Aerosmith - Dream On
+- 0399: Rammstein - Feuer Frei
+- 0400: Rammstein - Moskau
