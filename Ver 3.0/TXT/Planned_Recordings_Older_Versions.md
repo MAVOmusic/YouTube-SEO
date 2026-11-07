@@ -1,6 +1,6 @@
 # Planned recordings - older versions for later analytics
 
-Working cross-reference, not an exhaustive search. Matched against indexed Shorts 0001-1000 and long forms 0001-0674; separately known historical Black Parade Shorts 1434 and 1912 are noted below. Remaining Shorts screenshots 1001-2419 are not fully indexed. Similar titles, qualifiers, spelling and unknown/withheld identities need manual verification. IDs for new recordings are provisional and depend on actual chronological uploads. Folder paths below are expected from the Windows folder lists, not proof folders or analytics exist. Previously created repository folders can have different names; find those by ID.
+Working cross-reference, not an exhaustive search. Matched against indexed Shorts 0001-1500 and long forms 0001-0674; separately known historical Black Parade Shorts 1434 and 1912 are noted below. Remaining Shorts 1501-2419 are not fully indexed. Similar titles, qualifiers, spelling and unknown/withheld identities need manual verification. IDs for new recordings are provisional and depend on actual chronological uploads. Folder paths below are expected from the Windows folder lists, not proof folders or analytics exist. Previously created repository folders can have different names; find those by ID.
 
 Short paths are relative to the confirmed Windows Short Form root; long paths relative to the Long Form root. Check _01 - Main Info and _02 - Analytics, and retrieve current Studio analytics later, after all snippets have been processed. No analytics were gathered here.
 
@@ -9,7 +9,8 @@ Short paths are relative to the confirmed Windows Short Form root; long paths re
 - Short 0068: My Chemical Romance - Welcome To The Black Parade. Expected folder: `0001 - 0100/0061 - 0070/0068 - My Chemical Romance - Welcome To The Black Parade (Short Form)/`. Verify variant and actual location.
 - Long form 0009: My Chemical Romance - Welcome To The Black Parade. Expected folder: `0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/`. Verify variant and actual location.
 - Long form 0167: My Chemical Romance - Welcome To The Black Parade. Expected folder: `0101 - 0200/0161 - 0170/0167 - My Chemical Romance - Welcome To The Black Parade (Long Form)/`. Verify variant and actual location.
-- Also previously identified historical Shorts 1434 and 1912; use their chronological IDs to locate existing folders and analytics. Their folder names have not yet been indexed in this cross-reference.
+- Also previously identified historical Shorts 1434 and 1912; use their chronological IDs to locate existing folders and analytics. Short 1434 is also listed below with its expected folder; 1912 has not yet been indexed in this cross-reference.
+- Short 1434: My Chemical Romance - Welcome To The Black Parade. Expected folder: `1401 - 1500/1431 - 1440/1434 - My Chemical Romance - Welcome To The Black Parade (Short Form)/`. Screenshot metadata only; verify the actual folder and performance.
 
 ## 0674 / 2421 - Paramore - Misery Business
 
@@ -69,8 +70,8 @@ Short paths are relative to the confirmed Windows Short Form root; long paths re
 
 ## 0685 / 2432 - Silverstein - My Heroine
 
-- Short: no match found within indexed coverage; not proof of absence.
 - Long form 0655: Silverstein - My Heroine. Expected folder: `0601 - 0700/0651 - 0660/0655 - Silverstein - My Heroine (Long Form)/`. Verify variant and actual location.
+- Short 1308: Silverstein - My Heroine. Expected folder: `1301 - 1400/1301 - 1310/1308 - Silverstein - My Heroine (Short Form)/`. Screenshot metadata only; verify the actual folder and performance.
 
 ## 0686 / 2433 - Weezer - Across The Sea
 
@@ -89,8 +90,9 @@ Short paths are relative to the confirmed Windows Short Form root; long paths re
 
 ## 0689 / 2436 - The Used - All That I've Got
 
-- Short 1209: apparent match in the unvalidated 1201-1300 draft; verify screenshot and folder naming when the batch is completed. No match within indexed Shorts 0001-1000.
+- Short 1209: The Used - All That I've Got. Expected folder: `1201 - 1300/1201 - 1210/1209 - The Used - All That I've Got (Short Form)/`. Screenshot metadata only; verify the actual folder and performance.
 - Long form: no match found within indexed coverage; not proof of absence.
+- Short 1052: The Used - All That I've Got. Expected folder: `1001 - 1100/1051 - 1060/1052 - The Used - All That I've Got (Short Form)/`. Screenshot metadata only; verify the actual folder and performance.
 
 ## 0690 / 2437 - Alkaline Trio - Radio
 
@@ -146,6 +148,7 @@ Short paths are relative to the confirmed Windows Short Form root; long paths re
 
 - Short 0759: Jimmy Eat World - The Middle. Expected folder: `0701 - 0800/0751 - 0760/0759 - Jimmy Eat World - The Middle (Short Form)/`. Verify variant and actual location.
 - Long form: no match found within indexed coverage; not proof of absence.
+- Short 1336: Jimmy Eat World - The Middle. Expected folder: `1301 - 1400/1331 - 1340/1336 - Jimmy Eat World - The Middle (Short Form)/`. Screenshot metadata only; verify the actual folder and performance.
 
 ## 0701 / 2448 - Say Anything - Alive With The Glory Of Love
 

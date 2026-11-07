@@ -1,4 +1,4 @@
-# Incomplete working transcription - not an approved catalogue
+# Historical draft - superseded by the corresponding Short_Form_Snippet_Index
 
 Provisional screenshot metadata only, not audio verification. Check every row and footer before use; filenames can be swapped. No folder creator has been made for this batch.
 

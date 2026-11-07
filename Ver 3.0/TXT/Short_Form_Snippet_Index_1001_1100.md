@@ -1,0 +1,106 @@
+# Shorts screenshot index 1001 - 1100
+
+IDs follow screenshot footers and row position, not filenames. Identities are historical screenshot metadata and not proof of audio or current metadata. 1014, 1027, 1041 and 1068: identity from screenshot description. 1039 retains screenshot censoring.
+
+| Number | Screenshot identity |
+| --- | --- |
+| 1001 | Primus - My Name Is Mud |
+| 1002 | Skindred - Roots Rock Riot |
+| 1003 | Deftones - Be Quiet And Drive (Far Away) |
+| 1004 | Michael Jackson - Beat It |
+| 1005 | Of Monsters And Men - Dirty Paws |
+| 1006 | Official Hige Dandism - Cry Baby |
+| 1007 | Paddy And The Rats - The Captain's Dead |
+| 1008 | Parkway Drive - Crushed |
+| 1009 | Rhapsody Of Fire - Dragor, Shadowlord Of The Black Mountain |
+| 1010 | The Offspring - Why Don't You Get A Job? |
+| 1011 | Rammstein - Benzin |
+| 1012 | Cradle Of Filth - Cruelty Brought Thee Orchids |
+| 1013 | ABC - The Look Of Love (Part One) |
+| 1014 | Alexisonfire - No Transitory |
+| 1015 | Snoop Dogg - Gin & Juice |
+| 1016 | Attack! Attack! - Stick Stickly |
+| 1017 | Avantasia - Reach Out For The Light |
+| 1018 | Avenged Sevenfold - Almost Easy |
+| 1019 | Beabadoobee - Last Day On Earth |
+| 1020 | Beach Fossils - Social Jetlag |
+| 1021 | Blink-182 - Dumpweed |
+| 1022 | Lindemann - Ladyboy |
+| 1023 | System Of A Down - Lonely Day |
+| 1024 | Marilyn Manson - mOBSCENE |
+| 1025 | Nickelback - Follow You Home |
+| 1026 | Eskimo Callboy - Hypa Hypa |
+| 1027 | Anouk - Good God |
+| 1028 | Asking Alexandria - Not An American Average |
+| 1029 | Avantasia - The Final Sacrifice |
+| 1030 | Rush - The Spirit Of Radio |
+| 1031 | Tankcsapda - Adjon Az Ég |
+| 1032 | "Weird Al" Yankovic - NOW! That's What I Call Polka |
+| 1033 | Korn - Thoughtless |
+| 1034 | Sum 41 - Walking Disaster |
+| 1035 | Tankcsapda - Azt Mondom Állj |
+| 1036 | Queen - I Want To Break Free |
+| 1037 | Rammstein - Rein Raus |
+| 1038 | Eyes Set To Kill - Not Sorry |
+| 1039 | Celldweller - Good L_ck (Yo_re F_cked) |
+| 1040 | After The Burial - Lost In The Static |
+| 1041 | Asking Alexandria - If You Can't Ride Two Horses At Once You Should Get Out Of The Circus |
+| 1042 | Black Sabbath - N.I.B. |
+| 1043 | Dimmu Borgir - Burn In Hell |
+| 1044 | Foo Fighters - All My Life |
+| 1045 | Kittie - Brackish |
+| 1046 | Led Zeppelin - Kashmir |
+| 1047 | Michael Jackson - Billie Jean |
+| 1048 | Modjo - Lady (Hear Me Tonight) |
+| 1049 | Queen - Breakthru |
+| 1050 | Slipknot - All Hope Is Gone |
+| 1051 | The Police - Every Breath You Take |
+| 1052 | The Used - All That I've Got |
+| 1053 | Yellowcard - Breathing |
+| 1054 | Eskimo Callboy - MC Thunder 1 |
+| 1055 | Eskimo Callboy - MC Thunder 2 |
+| 1056 | Nickelback - Savin' Me |
+| 1057 | Falling In Reverse - Popular Monster |
+| 1058 | Puddle Of Mudd - She Hates Me |
+| 1059 | System Of A Down - Suite-Pee |
+| 1060 | The Beatles - What Goes On |
+| 1061 | The Dreadnoughts - Polka Never Dies |
+| 1062 | SOJA Feat. Rebelution - Here I Am |
+| 1063 | System Of A Down - Soldier Side |
+| 1064 | System Of A Down - U-Fig |
+| 1065 | Linkin Park - A Place For My Head |
+| 1066 | Linkin Park - Given Up |
+| 1067 | Rammstein - Mutter |
+| 1068 | Screaming Females - Rotten Apple |
+| 1069 | Green Day - 8th Avenue Serenade |
+| 1070 | Nick Cave & The Bad Seeds Feat. Kylie Minogue - Where The Wild Roses Grow |
+| 1071 | Talk Talk - Talk Talk |
+| 1072 | Aim High Feat. Broadside - Better Than This |
+| 1073 | 30 Seconds To Mars - A Beautiful Lie |
+| 1074 | Blink-182 - All Of This |
+| 1075 | Misfits - Attitude |
+| 1076 | Amy Winehouse - Back To Black |
+| 1077 | Avril Lavigne - Alice |
+| 1078 | Nancy Sinatra - All By Myself |
+| 1079 | BABYMETAL - Doki Doki Morning |
+| 1080 | Goo Goo Dolls - Iris |
+| 1081 | Billy Idol - Rebel Yell |
+| 1082 | Ed Sheeran - Thinking Out Loud |
+| 1083 | Coldplay - Yellow |
+| 1084 | Eric Clapton - Layla (Unplugged) |
+| 1085 | Arctic Monkeys - Do I Wanna Know? |
+| 1086 | Evanescence - My Immortal |
+| 1087 | Paramore - The Only Exception |
+| 1088 | Volbeat - Shotgun Blues |
+| 1089 | Silverstein - Smashed Into Pieces |
+| 1090 | My Chemical Romance - S/C/A/R/E/C/R/O/W |
+| 1091 | Paramore - Brick By Boring Brick |
+| 1092 | Nirvana - Lithium |
+| 1093 | Korn - Freak On A Leash |
+| 1094 | Michael Jackson - Beat It |
+| 1095 | Billy Talent - Prisoners Of Today |
+| 1096 | Avenged Sevenfold - Almost Easy |
+| 1097 | Gorillaz - Feel Good Inc. |
+| 1098 | P.O.D. - Youth Of The Nation |
+| 1099 | Korpiklaani - Vodka |
+| 1100 | Linkin Park - P5hng Me Awy |
