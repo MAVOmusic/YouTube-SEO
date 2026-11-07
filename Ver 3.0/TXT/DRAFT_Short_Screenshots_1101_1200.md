@@ -1,0 +1,104 @@
+# Incomplete working transcription - not an approved catalogue
+
+Provisional screenshot metadata only, not audio verification. Check every row and footer before use; filenames can be swapped. No folder creator has been made for this batch.
+
+- 1101 | Mindless Self Indulgence - Straight To Video
+- 1102 | HIM - Bury Me Deep Inside Your Heart
+- 1103 | Mother Mother - Hayloft II
+- 1104 | My Chemical Romance - The Foundations Of Decay
+- 1105 | System Of A Down - Lonely Day
+- 1106 | Marilyn Manson - The Beautiful People
+- 1107 | Coldplay - Viva La Vida
+- 1108 | My Chemical Romance - Desolation Row
+- 1109 | Coldplay - Don't Panic
+- 1110 | Paramore - Still Into You
+- 1111 | 009 Sound System - Dreamscape
+- 1112 | Led Zeppelin - Immigrant Song
+- 1113 | Jimi Hendrix - Sunshine Of Your Love
+- 1114 | Iron Maiden - The Trooper
+- 1115 | Motionless In White Feat. Bryan Garris - Slaughterhouse
+- 1116 | Anti-Nowhere League - We Will Survive
+- 1117 | BABYMETAL - Headbangeeeeerrrrr!!!!!
+- 1118 | Billy Talent - Lies
+- 1119 | Blind Guardian - Traveler In Time
+- 1120 | Children Of Bodom - Follow The Reaper
+- 1121 | Good Charlotte - I Don't Wanna Be In Love (Dance Floor Anthem)
+- 1122 | HIM - Gone With The Sin
+- 1123 | Korpiklaani - Let's Drink
+- 1124 | Mayhem - Freezing Moon
+- 1125 | Sabaton - Hill 3234
+- 1126 | Rammstein - Zerstören
+- 1127 | Serj Tankian - Honking Antelope
+- 1128 | Dragonforce - My Spirit Will Go On
+- 1129 | Misfits - Attitude
+- 1130 | X-Ecutioners Feat. Linkin Park - It's Going Down
+- 1131 | Tankcsapda - Mire Vagy Kíváncsi?
+- 1132 | Pendulum Feat. Steven Wilson - The Fountain
+- 1133 | Sum 41 - Screaming Bloody Murder
+- 1134 | Guns N' Roses - November Rain
+- 1135 | Pendulum - The Tempest
+- 1136 | My Chemical Romance - The Sharpest Lives
+- 1137 | Metallica - Master Of Puppets
+- 1138 | Prince And The Revolution - Purple Rain
+- 1139 | Billy Talent - Living In The Shadows
+- 1140 | Pink Floyd - Money
+- 1141 | Dethklok - Black Fire Upon Us
+- 1142 | Smash Mouth - All Star
+- 1143 | Tom Misch - Insecure
+- 1144 | The Birthday Massacre - Flashback
+- 1145 | Finntroll - Trollhammaren
+- 1146 | My Chemical Romance - Cemetery Drive
+- 1147 | P.O.D. - Boom
+- 1148 | Johnny Medlar - Area 51 (Sabaton - Fields Of Verdun Parody)
+- 1149 | Billy Talent - Standing In The Rain
+- 1150 | Mindless Self Indulgence - D_cks Are For My Friends
+- 1151 | Avril Lavigne - Break Of A Heartache
+- 1152 | Duane Eddy - Peter Gunn
+- 1153 | Mindless Self Indulgence - Shut Me Up
+- 1154 | Good Charlotte - I Just Wanna Live
+- 1155 | Spice Girls - Wannabe
+- 1156 | Dr. Dre Feat. Snoop Dogg - The Next Episode
+- 1157 | Avantasia - Ghost In The Moon
+- 1158 | Asking Alexandria - I Won't Give In
+- 1159 | Crimson - Don't Stop
+- 1160 | Billy Talent - Worker Bees
+- 1161 | Alestorm - Keelhauled
+- 1162 | Paramore - That's What You Get
+- 1163 | Linkin Park - In The End
+- 1164 | Billy Talent - Line And Sinker
+- 1165 | Celldweller - Good L_ck (Yo_re F_cked)
+- 1166 | +44 (Plus 44) - No, It Isn't
+- 1167 | Linkin Park - What I've Done
+- 1168 | I See Stars Feat. Danny Worsnop - Endless Sky
+- 1169 | Alestorm - Shipwrecked
+- 1170 | Avril Lavigne - Nobody's Home
+- 1171 | Alicia Keys - Fallin'
+- 1172 | Serj Tankian - Baby
+- 1173 | Linkin Park - Crawling
+- 1174 | Ado - Usseewa
+- 1175 | All Time Low - Weightless
+- 1176 | Fake Shark - Cheap Thrills
+- 1177 | Ill Nino - How Can I Live
+- 1178 | Eskimo Callboy - Muffin Purper-Gurk
+- 1179 | My Chemical Romance - Helena
+- 1180 | The Fray - How To Save A Life
+- 1181 | Muse - Time Is Running Out
+- 1182 | My Chemical Romance - Teenagers
+- 1183 | Ghost - Call Me Little Sunshine
+- 1184 | Deftones - Hole In The Earth
+- 1185 | Queen - We Will Rock You
+- 1186 | 10 Years - Shoot It Out
+- 1187 | Elevation Rhythm - Goodbye Yesterday
+- 1188 | 10 Years - Actions And Motives
+- 1189 | Trivium - Built To Fall
+- 1190 | The Offspring - Bad Habit
+- 1191 | 28 Days - What's The Deal?
+- 1192 | CKY - Tripled Manic State
+- 1193 | Children Of Bodom - Hate Crew Deathroll
+- 1194 | Bullet For My Valentine - Tears Don't Fall
+- 1195 | Good Charlotte - Break Apart Her Heart
+- 1196 | CKY - 96 Quite Bitter Beings
+- 1197 | HIM - Bury Me Deep Inside Your Heart
+- 1198 | My Chemical Romance - Cancer
+- 1199 | Emmure - (F)inally (U)nderstand (N)othing
+- 1200 | Cannibal Corpse - I C*m Blood
