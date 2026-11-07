@@ -1,0 +1,104 @@
+# Long-form snippet index 0201-0300
+
+2026-11-07: visually transcribed from all ten images in `_All Songs/_0001 Long Form/_Songname Snippets/0201 - 0300/`. These are folder labels, not confirmation of actual video audio, rights, metadata or current availability. 0260 is retained as the abbreviated label shown; verify the full song title against its video when reviewed.
+
+- 0201: Volbeat - Fallen
+- 0202: Billy Talent - Fallen Leaves
+- 0203: The Police - Message In A Bottle
+- 0204: Boston - More Than A Feeling
+- 0205: Mellow Mood - Another Day
+- 0206: Mellow Mood - Tuff Rocky Road
+- 0207: Mindless Self Indulgence - Bomb This Track
+- 0208: Mindless Self Indulgence - Evening Wear
+- 0209: Thirty Seconds To Mars - Attack
+- 0210: 4 Non Blondes - What's Up
+- 0211: +44 (Plus 44) - Lycanthrope
+- 0212: Aaliyah - Are You That Somebody
+- 0213: The Offspring - Gone Away
+- 0214: Alice In Chains - Stone
+- 0215: Ace Of Base - The Sign
+- 0216: The Birthday Massacre - Blue
+- 0217: Foo Fighters - Best Of You
+- 0218: Maroon 5 - She Will Be Loved
+- 0219: My Chemical Romance - Planetary (GO!)
+- 0220: Paramore - Now
+- 0221: Megadeth - Symphony Of Destruction
+- 0222: David Bowie - The Man Who Sold The World
+- 0223: Biffy Clyro - Stingin' Belle
+- 0224: Alice In Chains - Again
+- 0225: Foster The People - Pumped Up Kicks
+- 0226: Rancid - Ruby Soho
+- 0227: Iron Maiden - Run To The Hills
+- 0228: Foo Fighters - My Hero
+- 0229: Blue Öyster Cult - Burnin' For You
+- 0230: Weezer - Say It Ain't So
+- 0231: Billy Idol - White Wedding - Part 1
+- 0232: Abc - The Look Of Love (Part One)
+- 0233: Heart - Barracuda
+- 0234: Aphrodite's Child - Rain And Tears
+- 0235: Mindless Self Indulgence - Never Wanted To Dance
+- 0236: Mindless Self Indulgence - Lights Out
+- 0237: Mindless Self Indulgence - Shut Me Up
+- 0238: Mindless Self Indulgence - Straight To Video
+- 0239: Mindless Self Indulgence - Stupid MF
+- 0240: Mindless Self Indulgence - Prescription
+- 0241: Mindless Self Indulgence - Issues
+- 0242: 009 Sound System - Dreamscape
+- 0243: Mindless Self Indulgence - Girls On Film
+- 0244: Mindless Self Indulgence - Get It Up
+- 0245: Mindless Self Indulgence - Revenge
+- 0246: Mindless Self Indulgence - Animal
+- 0247: Mindless Self Indulgence - Mastermind
+- 0248: Mindless Self Indulgence - On It
+- 0249: Good Charlotte - Riot Girl
+- 0250: Mindless Self Indulgence - Due
+- 0251: Rammstein - Radio
+- 0252: System Of A Down - Sugar
+- 0253: Tom Misch - Disco Yes
+- 0254: Bring Me The Horizon Feat. Aurora - Limousine
+- 0255: Nirvana - All Apologies
+- 0256: John Denver - Take Me Home, Country Roads
+- 0257: Sabaton - Bismarck
+- 0258: Good Charlotte - Girls & Boys
+- 0259: P.O.D. (Payable On Death) - Change The World
+- 0260: Bring Me The Horizon Feat. Underoath - A Bullet W My Name On
+- 0261: Sabaton - Stormtroopers
+- 0262: Avril Lavigne - Take Me Away
+- 0263: Fuerza Regida - OYE
+- 0264: System Of A Down - Prison Song
+- 0265: Motionless In White - Catharsis
+- 0266: Sabaton - Hill 3234
+- 0267: Motionless In White - Creatures
+- 0268: Sabaton - Ett Slag Färgat Rött
+- 0269: Trivium - Dying In Your Arms
+- 0270: Alestorm - Keelhauled
+- 0271: Motionless In White - Cyberhex
+- 0272: Sabaton - Uprising
+- 0273: Motionless In White - Werewolf
+- 0274: Arch Enemy - Taking Back My Soul
+- 0275: Motionless In White - Eternally Yours
+- 0276: Metallica - Nothing Else Matters
+- 0277: Cold - Suffocate
+- 0278: Halestorm - Bad Romance
+- 0279: Lady Gaga - Bad Romance
+- 0280: Scars On Broadway - Exploding Reloading
+- 0281: Windir - Heidra
+- 0282: I See Stars Feat. Danny Worsnop - Endless Sky
+- 0283: 3 Doors Down - It's Not My Time
+- 0284: Alestorm - Rum
+- 0285: System Of A Down - Toxicity
+- 0286: .38 Special - Back To Paradise
+- 0287: Avenged Sevenfold - A Little Piece Of Heaven
+- 0288: Motionless In White - Death March
+- 0289: Sabaton - Soldier Of Heaven
+- 0290: ...And You Will Know Us By The Trail Of Dead - Relative Ways
+- 0291: Rammstein - Morgenstern
+- 0292: Rise Against - Savior
+- 0293: The Rolling Stones - Paint It, Black
+- 0294: Sabaton - Into The Fire
+- 0295: Pendulum - Fasten Your Seatbelt
+- 0296: Beatsteaks - Hail To The Freaks
+- 0297: Rammstein - Ausländer
+- 0298: Catalina Estefania Pastrian - Nico-Nico-Nii
+- 0299: Sabaton - Panzerkampf
+- 0300: Avril Lavigne - Hot
