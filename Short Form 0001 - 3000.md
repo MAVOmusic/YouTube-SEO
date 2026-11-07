@@ -115,56 +115,56 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 0101 | N/A | N/A |
-| 0102 | N/A | N/A |
-| 0103 | N/A | N/A |
-| 0104 | N/A | N/A |
-| 0105 | N/A | N/A |
-| 0106 | N/A | N/A |
-| 0107 | N/A | N/A |
-| 0108 | N/A | N/A |
-| 0109 | N/A | N/A |
-| 0110 | N/A | N/A |
-| 0111 | N/A | N/A |
-| 0112 | N/A | N/A |
-| 0113 | N/A | N/A |
-| 0114 | N/A | N/A |
-| 0115 | N/A | N/A |
-| 0116 | N/A | N/A |
-| 0117 | N/A | N/A |
-| 0118 | N/A | N/A |
-| 0119 | N/A | N/A |
-| 0120 | N/A | N/A |
-| 0121 | N/A | N/A |
-| 0122 | N/A | N/A |
-| 0123 | N/A | N/A |
-| 0124 | N/A | N/A |
-| 0125 | N/A | N/A |
-| 0126 | N/A | N/A |
-| 0127 | N/A | N/A |
-| 0128 | N/A | N/A |
-| 0129 | N/A | N/A |
-| 0130 | N/A | N/A |
-| 0131 | N/A | N/A |
-| 0132 | N/A | N/A |
-| 0133 | N/A | N/A |
-| 0134 | N/A | N/A |
-| 0135 | N/A | N/A |
-| 0136 | N/A | N/A |
-| 0137 | N/A | N/A |
-| 0138 | N/A | N/A |
-| 0139 | N/A | N/A |
-| 0140 | N/A | N/A |
-| 0141 | N/A | N/A |
-| 0142 | N/A | N/A |
-| 0143 | N/A | N/A |
-| 0144 | N/A | N/A |
-| 0145 | N/A | N/A |
-| 0146 | N/A | N/A |
-| 0147 | N/A | N/A |
-| 0148 | N/A | N/A |
-| 0149 | N/A | N/A |
-| 0150 | N/A | N/A |
+| 0101 | Muse - Knights Of Cydonia | N/A |
+| 0102 | Sabaton - Defence Of Moscow | N/A |
+| 0103 | Amy Winehouse - You Know I'm No Good | N/A |
+| 0104 | 3 Inches Of Blood - Deadly Sinners | N/A |
+| 0105 | 2pac - Ambitionz Az A Ridah | N/A |
+| 0106 | Sabaton - Cliffs Of Gallipoli | N/A |
+| 0107 | Linkin Park - In The End | N/A |
+| 0108 | Dire Straits - Money For Nothing | N/A |
+| 0109 | Pendulum - Watercolour | N/A |
+| 0110 | Sabaton - Fields Of Verdun | N/A |
+| 0111 | Linkin Park - Bleed It Out | N/A |
+| 0112 | Alicia Keys - If I Ain't Got You | N/A |
+| 0113 | Girugamesh - Break Down | N/A |
+| 0114 | Dire Straits - Sultans Of Swing | N/A |
+| 0115 | A-Ha - I Call Your Name | N/A |
+| 0116 | Sabaton - 7734 | N/A |
+| 0117 | Linkin Park - Numb | N/A |
+| 0118 | Sabaton - Purple Heart | N/A |
+| 0119 | Rammstein - Ich Will | N/A |
+| 0120 | Laufey - Falling Behind | N/A |
+| 0121 | Sabaton - The Final Solution | N/A |
+| 0122 | Rammstein - Du Hast | N/A |
+| 0123 | -M- (Matthieu Chedid) - Le Complexe Du Corn Flakes | N/A |
+| 0124 | -M- (Matthieu Chedid) - Je Dis Aime | N/A |
+| 0125 | -M- (Matthieu Chedid) - Laisse Aller | N/A |
+| 0126 | System Of A Down - Holy Mountains | N/A |
+| 0127 | Sabaton - Metal Machine | N/A |
+| 0128 | Gorillaz - Dare | N/A |
+| 0129 | Limp Bizkit - Break Stuff | N/A |
+| 0130 | Tom Misch - Disco Yes | N/A |
+| 0131 | *NSYNC - Tearin' Up My Heart | N/A |
+| 0132 | Sabaton - White Death | N/A |
+| 0133 | Nirvana - About A Girl (Unplugged) | N/A |
+| 0134 | Avril Lavigne - Losing Grip | N/A |
+| 0135 | Amon Amarth - Raise Your Horns | N/A |
+| 0136 | Falling In Reverse - The Drug In Me Is You | N/A |
+| 0137 | Sabaton - Nuclear Attack | N/A |
+| 0138 | Sum 41 - War | N/A |
+| 0139 | Saliva Feat. Jim Johnston - I Walk Alone (WWE: Batista Theme) | N/A |
+| 0140 | Motorhead Feat. Jim Johnston - The Game (WWE: Triple H Theme) | N/A |
+| 0141 | Scorpions - Rock You Like A Hurricane | N/A |
+| 0142 | "Weird Al" Yankovic - Eat It | N/A |
+| 0143 | Sabaton - Gott Mit Uns | N/A |
+| 0144 | Pink Floyd - Comfortably Numb | N/A |
+| 0145 | Talking Heads - Burning Down The House | N/A |
+| 0146 | Linkin Park - Breaking The Habit | N/A |
+| 0147 | Motionless In White - Masterpiece | N/A |
+| 0148 | Tenacious D - Beelzeboss | N/A |
+| 0149 | Sabaton - Karolinens Bön | N/A |
+| 0150 | Die Antwoord - Enter The Ninja | N/A |
 | 0151 | N/A | N/A |
 | 0152 | N/A | N/A |
 | 0153 | N/A | N/A |
