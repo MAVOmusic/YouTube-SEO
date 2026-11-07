@@ -5,15 +5,13 @@ E:\_YT\YT Revive\_VER\Ver 3.00\_All Songs\_02 - Short Form
 
 Open PowerShell in the folder containing both files. Preview first:
 
-.\Create Short Form Folders 0011 - 0500.ps1 -WhatIf
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\Create Short Form Folders 0011 - 0500.ps1" -WhatIf
 
 If the preview is correct, run:
 
-.\Create Short Form Folders 0011 - 0500.ps1
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\Create Short Form Folders 0011 - 0500.ps1"
 
-If your PowerShell execution policy blocks the script, use a temporary process-only bypass:
-
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+The quoted filename is required because it contains spaces. The execution policy bypass applies only to the PowerShell process started by the command.
 
 The script creates missing folders only, never deletes or overwrites existing files, and stops before creating anything if a differently named item already uses one of the target numbers or a file blocks a required path. Matching existing folders are reused. A filesystem failure or concurrent change after preflight can still interrupt a run; inspect any error and rerun after resolving it. No native Windows PowerShell execution was available during preparation.
 
