@@ -1587,526 +1587,526 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 1501 | N/A | N/A |
-| 1502 | N/A | N/A |
-| 1503 | N/A | N/A |
-| 1504 | N/A | N/A |
-| 1505 | N/A | N/A |
-| 1506 | N/A | N/A |
-| 1507 | N/A | N/A |
-| 1508 | N/A | N/A |
-| 1509 | N/A | N/A |
-| 1510 | N/A | N/A |
-| 1511 | N/A | N/A |
-| 1512 | N/A | N/A |
-| 1513 | N/A | N/A |
-| 1514 | N/A | N/A |
-| 1515 | N/A | N/A |
-| 1516 | N/A | N/A |
-| 1517 | N/A | N/A |
-| 1518 | N/A | N/A |
-| 1519 | N/A | N/A |
-| 1520 | N/A | N/A |
-| 1521 | N/A | N/A |
-| 1522 | N/A | N/A |
-| 1523 | N/A | N/A |
-| 1524 | N/A | N/A |
-| 1525 | N/A | N/A |
-| 1526 | N/A | N/A |
-| 1527 | N/A | N/A |
-| 1528 | N/A | N/A |
-| 1529 | N/A | N/A |
-| 1530 | N/A | N/A |
-| 1531 | N/A | N/A |
-| 1532 | N/A | N/A |
-| 1533 | N/A | N/A |
-| 1534 | N/A | N/A |
-| 1535 | N/A | N/A |
-| 1536 | N/A | N/A |
-| 1537 | N/A | N/A |
-| 1538 | N/A | N/A |
-| 1539 | N/A | N/A |
-| 1540 | N/A | N/A |
-| 1541 | N/A | N/A |
-| 1542 | N/A | N/A |
-| 1543 | N/A | N/A |
-| 1544 | N/A | N/A |
-| 1545 | N/A | N/A |
-| 1546 | N/A | N/A |
-| 1547 | N/A | N/A |
-| 1548 | N/A | N/A |
-| 1549 | N/A | N/A |
-| 1550 | N/A | N/A |
-| 1551 | N/A | N/A |
-| 1552 | N/A | N/A |
-| 1553 | N/A | N/A |
-| 1554 | N/A | N/A |
-| 1555 | N/A | N/A |
-| 1556 | N/A | N/A |
-| 1557 | N/A | N/A |
-| 1558 | N/A | N/A |
-| 1559 | N/A | N/A |
-| 1560 | N/A | N/A |
-| 1561 | N/A | N/A |
-| 1562 | N/A | N/A |
-| 1563 | N/A | N/A |
-| 1564 | N/A | N/A |
-| 1565 | N/A | N/A |
-| 1566 | N/A | N/A |
-| 1567 | N/A | N/A |
-| 1568 | N/A | N/A |
-| 1569 | N/A | N/A |
-| 1570 | N/A | N/A |
-| 1571 | N/A | N/A |
-| 1572 | N/A | N/A |
-| 1573 | N/A | N/A |
-| 1574 | N/A | N/A |
-| 1575 | N/A | N/A |
-| 1576 | N/A | N/A |
-| 1577 | N/A | N/A |
-| 1578 | N/A | N/A |
-| 1579 | N/A | N/A |
-| 1580 | N/A | N/A |
-| 1581 | N/A | N/A |
-| 1582 | N/A | N/A |
-| 1583 | N/A | N/A |
-| 1584 | N/A | N/A |
-| 1585 | N/A | N/A |
-| 1586 | N/A | N/A |
-| 1587 | N/A | N/A |
-| 1588 | N/A | N/A |
-| 1589 | N/A | N/A |
-| 1590 | N/A | N/A |
-| 1591 | N/A | N/A |
-| 1592 | N/A | N/A |
-| 1593 | N/A | N/A |
-| 1594 | N/A | N/A |
-| 1595 | N/A | N/A |
-| 1596 | N/A | N/A |
-| 1597 | N/A | N/A |
-| 1598 | N/A | N/A |
-| 1599 | N/A | N/A |
-| 1600 | N/A | N/A |
+| 1501 | Muse - Sunburn | N/A |
+| 1502 | CKY - Flesh Into Gear | N/A |
+| 1503 | Sabaton - Steel Commanders | N/A |
+| 1504 | All Time Low - Somewhere In Neverland | N/A |
+| 1505 | Serj Tankian - Sky Is Over | N/A |
+| 1506 | System Of A Down - Roulette | N/A |
+| 1507 | All Time Low - Dear Maria, Count Me In | N/A |
+| 1508 | Rage Against The Machine - Take The Power Back | N/A |
+| 1509 | BABYMETAL - Megitsune | N/A |
+| 1510 | Amaranthe - Archangel | N/A |
+| 1511 | Elvis Presley - Jailhouse Rock | N/A |
+| 1512 | Sabaton - Camouflage | N/A |
+| 1513 | Joan Jett - Bad Reputation | N/A |
+| 1514 | Alien Fucker - [title withheld] | N/A |
+| 1515 | Green Day - Good Riddance (Time Of Your Life) | N/A |
+| 1516 | Rage Against The Machine - Bombtrack | N/A |
+| 1517 | Blink-182 - Obvious | N/A |
+| 1518 | Sabaton - Dreadnought | N/A |
+| 1519 | Pendulum - Tarantula | N/A |
+| 1520 | Sabaton - The Hammer Has Fallen | N/A |
+| 1521 | Motionless In White - Another Life | N/A |
+| 1522 | Sabaton Feat. Apocalyptica - Angels Calling | N/A |
+| 1523 | Pendulum - Another Planet | N/A |
+| 1524 | Green Day - X-Kid | N/A |
+| 1525 | Black Sabbath - N.I.B. | N/A |
+| 1526 | System Of A Down - Hypnotize | N/A |
+| 1527 | T.A.T.U. - All The Things She Said | N/A |
+| 1528 | (Hed)P.E. - Watch It Burn | N/A |
+| 1529 | +44 - Baby, Come On | N/A |
+| 1530 | Manowar - Kings Of Metal | N/A |
+| 1531 | Muse - Supermassive Black Hole | N/A |
+| 1532 | Generation X - Listen | N/A |
+| 1533 | Billy Talent - Red Flag | N/A |
+| 1534 | +44 - Make You Smile | N/A |
+| 1535 | (G)I-DLE - Tomboy | N/A |
+| 1536 | +44 (Plus 44) - No, It Isn't | N/A |
+| 1537 | +44 - Lycanthrope | N/A |
+| 1538 | The Cult - Love Removal Machine | N/A |
+| 1539 | Billy Talent - Viking Death March | N/A |
+| 1540 | +44 - Little Death | N/A |
+| 1541 | CKY - Disengage The Simulator | N/A |
+| 1542 | (Hed)P.E. - Killing Time | N/A |
+| 1543 | Serj Tankian - The Unthinking Majority | N/A |
+| 1544 | +44 - Weatherman | N/A |
+| 1545 | The Cult - She Sells Sanctuary | N/A |
+| 1546 | (G)I-DLE - I'm The Trend | N/A |
+| 1547 | Sabaton - Man Of War | N/A |
+| 1548 | (Hed)P.E. - I Got You | N/A |
+| 1549 | Bullet For My Valentine - Scream Aim Fire | N/A |
+| 1550 | Rammstein - Amour | N/A |
+| 1551 | +44 - When Your Heart Stops Beating | N/A |
+| 1552 | Sabaton - En Livstid I Krig | N/A |
+| 1553 | Sabaton - The Lion From The North | N/A |
+| 1554 | (Hed) P.E. - Renegade | N/A |
+| 1555 | (Hed) P.E. - Bartender | N/A |
+| 1556 | Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free | N/A |
+| 1557 | Serj Tankian - Beethoven's C*nt | N/A |
+| 1558 | Guns N' Roses - November Rain | N/A |
+| 1559 | John Petrucci - Damage Control | N/A |
+| 1560 | Green Day - Jesus Of Suburbia | N/A |
+| 1561 | Avenged Sevenfold - A Little Piece Of Heaven | N/A |
+| 1562 | Led Zeppelin - Kashmir | N/A |
+| 1563 | Black Sabbath - War Pigs | N/A |
+| 1564 | Metallica - One (S&M) | N/A |
+| 1565 | Pendulum - Another Planet | N/A |
+| 1566 | The Beatles - Hey Jude | N/A |
+| 1567 | Derek And The Dominos - Layla | N/A |
+| 1568 | Guns N' Roses - Paradise City | N/A |
+| 1569 | Radiohead - Paranoid Android | N/A |
+| 1570 | Alice In Chains - Down In A Hole | N/A |
+| 1571 | Arctic Monkeys - Fluorescent Adolescent | N/A |
+| 1572 | Burzum - Ea, Lord Of The Deeps | N/A |
+| 1573 | 88 Fingers Louie - 100 Proof | N/A |
+| 1574 | 10cc - Good Morning Judge | N/A |
+| 1575 | Tom Misch - Disco Yes | N/A |
+| 1576 | Eurobeat Brony - Discord (The Living Tombstone Remix) | N/A |
+| 1577 | Rhapsody Of Fire - The Mighty Ride Of The Firelord | N/A |
+| 1578 | The Black Eyed Peas - Let's Get It Started | N/A |
+| 1579 | Simple Plan - Shut Up | N/A |
+| 1580 | Simple Plan - Welcome To My Life | N/A |
+| 1581 | The Kinks - You Really Got Me | N/A |
+| 1582 | Oasis - Don't Look Back In Anger | N/A |
+| 1583 | Alice Cooper - No More Mr. Nice Guy | N/A |
+| 1584 | Bush - Machinehead | N/A |
+| 1585 | B'z - Ultra Soul | N/A |
+| 1586 | Pantera - Cemetery Gates | N/A |
+| 1587 | Manowar - Warriors Of The World United | N/A |
+| 1588 | 9mm Parabellum Bullet - Lovecall From The World | N/A |
+| 1589 | Arctic Monkeys - Fluorescent Adolescent | N/A |
+| 1590 | Korn - Hater | N/A |
+| 1591 | Alkaline Trio - Movin' Right Along | N/A |
+| 1592 | The Cranberries - Pretty | N/A |
+| 1593 | The Cranberries - How | N/A |
+| 1594 | 9mm Parabellum Bullet - Inferno (TV Size) | N/A |
+| 1595 | Rancid - Maxwell Murder | N/A |
+| 1596 | 311 - Loco | N/A |
+| 1597 | 9mm Parabellum Bullet - Tear | N/A |
+| 1598 | 88 Fingers Louie - Won't Stay Late | N/A |
+| 1599 | 9mm Parabellum Bullet - (Teenage) Disaster | N/A |
+| 1600 | 311 - Can't Fade Me | N/A |
 
 ## 1601 - 1700
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 1601 | N/A | N/A |
-| 1602 | N/A | N/A |
-| 1603 | N/A | N/A |
-| 1604 | N/A | N/A |
-| 1605 | N/A | N/A |
-| 1606 | N/A | N/A |
-| 1607 | N/A | N/A |
-| 1608 | N/A | N/A |
-| 1609 | N/A | N/A |
-| 1610 | N/A | N/A |
-| 1611 | N/A | N/A |
-| 1612 | N/A | N/A |
-| 1613 | N/A | N/A |
-| 1614 | N/A | N/A |
-| 1615 | N/A | N/A |
-| 1616 | N/A | N/A |
-| 1617 | N/A | N/A |
-| 1618 | N/A | N/A |
-| 1619 | N/A | N/A |
-| 1620 | N/A | N/A |
-| 1621 | N/A | N/A |
-| 1622 | N/A | N/A |
-| 1623 | N/A | N/A |
-| 1624 | N/A | N/A |
-| 1625 | N/A | N/A |
-| 1626 | N/A | N/A |
-| 1627 | N/A | N/A |
-| 1628 | N/A | N/A |
-| 1629 | N/A | N/A |
-| 1630 | N/A | N/A |
-| 1631 | N/A | N/A |
-| 1632 | N/A | N/A |
-| 1633 | N/A | N/A |
-| 1634 | N/A | N/A |
-| 1635 | N/A | N/A |
-| 1636 | N/A | N/A |
-| 1637 | N/A | N/A |
-| 1638 | N/A | N/A |
-| 1639 | N/A | N/A |
-| 1640 | N/A | N/A |
-| 1641 | N/A | N/A |
-| 1642 | N/A | N/A |
-| 1643 | N/A | N/A |
-| 1644 | N/A | N/A |
-| 1645 | N/A | N/A |
-| 1646 | N/A | N/A |
-| 1647 | N/A | N/A |
-| 1648 | N/A | N/A |
-| 1649 | N/A | N/A |
-| 1650 | N/A | N/A |
-| 1651 | N/A | N/A |
-| 1652 | N/A | N/A |
-| 1653 | N/A | N/A |
-| 1654 | N/A | N/A |
-| 1655 | N/A | N/A |
-| 1656 | N/A | N/A |
-| 1657 | N/A | N/A |
-| 1658 | N/A | N/A |
-| 1659 | N/A | N/A |
-| 1660 | N/A | N/A |
-| 1661 | N/A | N/A |
-| 1662 | N/A | N/A |
-| 1663 | N/A | N/A |
-| 1664 | N/A | N/A |
-| 1665 | N/A | N/A |
-| 1666 | N/A | N/A |
-| 1667 | N/A | N/A |
-| 1668 | N/A | N/A |
-| 1669 | N/A | N/A |
-| 1670 | N/A | N/A |
-| 1671 | N/A | N/A |
-| 1672 | N/A | N/A |
-| 1673 | N/A | N/A |
-| 1674 | N/A | N/A |
-| 1675 | N/A | N/A |
-| 1676 | N/A | N/A |
-| 1677 | N/A | N/A |
-| 1678 | N/A | N/A |
-| 1679 | N/A | N/A |
-| 1680 | N/A | N/A |
-| 1681 | N/A | N/A |
-| 1682 | N/A | N/A |
-| 1683 | N/A | N/A |
-| 1684 | N/A | N/A |
-| 1685 | N/A | N/A |
-| 1686 | N/A | N/A |
-| 1687 | N/A | N/A |
-| 1688 | N/A | N/A |
-| 1689 | N/A | N/A |
-| 1690 | N/A | N/A |
-| 1691 | N/A | N/A |
-| 1692 | N/A | N/A |
-| 1693 | N/A | N/A |
-| 1694 | N/A | N/A |
-| 1695 | N/A | N/A |
-| 1696 | N/A | N/A |
-| 1697 | N/A | N/A |
-| 1698 | N/A | N/A |
-| 1699 | N/A | N/A |
-| 1700 | N/A | N/A |
+| 1601 | 311 - Gap | N/A |
+| 1602 | 9mm Parabellum Bullet - Hide & Seek | N/A |
+| 1603 | Good Charlotte - Little Things | N/A |
+| 1604 | Good Charlotte - The River | N/A |
+| 1605 | 3 Doors Down - Here Without You | N/A |
+| 1606 | Fountains Of Wayne - Stacy's Mom | N/A |
+| 1607 | Paramore - The Only Exception | N/A |
+| 1608 | Silverstein - My Heroine | N/A |
+| 1609 | Shinedown - Cut The Cord | N/A |
+| 1610 | Good Charlotte - I Don't Wanna Be In Love (Dance Floor Anthem) | N/A |
+| 1611 | Good Charlotte - Keep Your Hands Off My Girl | N/A |
+| 1612 | Good Charlotte - Broken Hearts Parade | N/A |
+| 1613 | Good Charlotte - I Just Wanna Live | N/A |
+| 1614 | Good Charlotte - A New Beginning | N/A |
+| 1615 | Good Charlotte - The Anthem | N/A |
+| 1616 | Good Charlotte - Lifestyles Of The Rich And Famous | N/A |
+| 1617 | Good Charlotte - Wondering | N/A |
+| 1618 | Good Charlotte - The Story Of My Old Man | N/A |
+| 1619 | Good Charlotte - Girls & Boys | N/A |
+| 1620 | Good Charlotte - Riot Girl | N/A |
+| 1621 | Good Charlotte - Say Anything | N/A |
+| 1622 | Good Charlotte - The Young & The Hopeless | N/A |
+| 1623 | 311 - Syntax Error | N/A |
+| 1624 | HANABIE. - We Love Sweets | N/A |
+| 1625 | HANABIE. - Reiwa Matching-Sedai | N/A |
+| 1626 | 311 - DLMD | N/A |
+| 1627 | 100 Gecs - Dumbest Girl Alive | N/A |
+| 1628 | Bill Haley & His Comets - Rock Around The Clock | N/A |
+| 1629 | 3 Inches Of Blood - Destroy The Orcs | N/A |
+| 1630 | The Doors - People Are Strange | N/A |
+| 1631 | 311 - Tune In | N/A |
+| 1632 | Kitsunetsuki - Futari Wa Psycho | N/A |
+| 1633 | 9mm Parabellum Bullet - Wild West Mustang | N/A |
+| 1634 | 311 - Earth People (Transistor Sessions - 1997) | N/A |
+| 1635 | 9mm Parabellum Bullet - Vortex | N/A |
+| 1636 | 9mm Parabellum Bullet - Baby, Please Burn Out | N/A |
+| 1637 | Rancid - Time Bomb | N/A |
+| 1638 | 311 - Electricity | N/A |
+| 1639 | The Doors - Break On Through (To The Other Side) | N/A |
+| 1640 | Tenacious D - Master Exploder | N/A |
+| 1641 | 9mm Parabellum Bullet - Invitation | N/A |
+| 1642 | Anthrax - For All Kings | N/A |
+| 1643 | 9mm Parabellum Bullet - Wanderland | N/A |
+| 1644 | 311 - Creature Feature | N/A |
+| 1645 | Flyleaf - Fully Alive | N/A |
+| 1646 | Rancid - Ruby Soho | N/A |
+| 1647 | Metallica - I Disappear | N/A |
+| 1648 | Altın Gün - Goca Dünya | N/A |
+| 1649 | Barış Manço - Dönence | N/A |
+| 1650 | Stevie Wonder - Signed, Sealed, Delivered I'm Yours | N/A |
+| 1651 | 10 Years - Battle Lust | N/A |
+| 1652 | Shuggie Otis - Bootie Cooler | N/A |
+| 1653 | Tenacious D - The Metal | N/A |
+| 1654 | The Black Keys - Your Touch | N/A |
+| 1655 | 10 Years - Novocaine | N/A |
+| 1656 | Alice Deejay - Better Off Alone | N/A |
+| 1657 | Benny Benassi - Satisfaction | N/A |
+| 1658 | No Doubt - It's My Life | N/A |
+| 1659 | Cascada - Everytime We Touch | N/A |
+| 1660 | Måneskin - Beggin' | N/A |
+| 1661 | Die Antwoord - Enter The Ninja | N/A |
+| 1662 | AdyS - Paper Plane | N/A |
+| 1663 | Megadeth - Foreclosure Of A Dream | N/A |
+| 1664 | September - Cry For You | N/A |
+| 1665 | MC Hammer - U Can't Touch This | N/A |
+| 1666 | 2 Unlimited - Get Ready! | N/A |
+| 1667 | Blink-182 - Voyeur | N/A |
+| 1668 | OPM - Heaven Is A Halfpipe | N/A |
+| 1669 | Daryl Hall & John Oates - Out Of Touch | N/A |
+| 1670 | Manowar - Fight Until We Die | N/A |
+| 1671 | La Bouche - Be My Lover | N/A |
+| 1672 | The Black Eyed Peas - Where Is The Love? | N/A |
+| 1673 | Rhapsody Of Fire - Triumph Or Agony | N/A |
+| 1674 | Gamma Ray - Master Of Confusion | N/A |
+| 1675 | Gwen Stefani - What You Waiting For? | N/A |
+| 1676 | Sabrina Carpenter - Manchild | N/A |
+| 1677 | Megadeth - Dystopia | N/A |
+| 1678 | Billy Talent - Cut The Curtains | N/A |
+| 1679 | Bright Eyes - First Day Of My Life | N/A |
+| 1680 | Heaven Shall Burn - Endzeit | N/A |
+| 1681 | Anthrax - Monster At The End | N/A |
+| 1682 | MIKA - Grace Kelly | N/A |
+| 1683 | Placebo - Every You Every Me | N/A |
+| 1684 | Nickelback - Side Of A Bullet | N/A |
+| 1685 | Linkin Park - Bleed It Out | N/A |
+| 1686 | Generation X - One Hundred Punks | N/A |
+| 1687 | Evanescence - Sweet Sacrifice | N/A |
+| 1688 | Rammstein - Amerika | N/A |
+| 1689 | Pendulum - 9,000 Miles | N/A |
+| 1690 | Falling In Reverse - Zombified | N/A |
+| 1691 | In Flames - I Am Above | N/A |
+| 1692 | Guns N' Roses - Perhaps | N/A |
+| 1693 | Electric Callboy - Everytime We Touch | N/A |
+| 1694 | George Michael - Faith | N/A |
+| 1695 | Generation X - Promises Promises | N/A |
+| 1696 | 3 Doors Down - Duck And Run | N/A |
+| 1697 | 4 Non Blondes - What's Up | N/A |
+| 1698 | Madness - Sign Of The Times | N/A |
+| 1699 | Mötley Crüe - White Trash Circus | N/A |
+| 1700 | Kiss - It's My Life | N/A |
 
 ## 1701 - 1800
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 1701 | N/A | N/A |
-| 1702 | N/A | N/A |
-| 1703 | N/A | N/A |
-| 1704 | N/A | N/A |
-| 1705 | N/A | N/A |
-| 1706 | N/A | N/A |
-| 1707 | N/A | N/A |
-| 1708 | N/A | N/A |
-| 1709 | N/A | N/A |
-| 1710 | N/A | N/A |
-| 1711 | N/A | N/A |
-| 1712 | N/A | N/A |
-| 1713 | N/A | N/A |
-| 1714 | N/A | N/A |
-| 1715 | N/A | N/A |
-| 1716 | N/A | N/A |
-| 1717 | N/A | N/A |
-| 1718 | N/A | N/A |
-| 1719 | N/A | N/A |
-| 1720 | N/A | N/A |
-| 1721 | N/A | N/A |
-| 1722 | N/A | N/A |
-| 1723 | N/A | N/A |
-| 1724 | N/A | N/A |
-| 1725 | N/A | N/A |
-| 1726 | N/A | N/A |
-| 1727 | N/A | N/A |
-| 1728 | N/A | N/A |
-| 1729 | N/A | N/A |
-| 1730 | N/A | N/A |
-| 1731 | N/A | N/A |
-| 1732 | N/A | N/A |
-| 1733 | N/A | N/A |
-| 1734 | N/A | N/A |
-| 1735 | N/A | N/A |
-| 1736 | N/A | N/A |
-| 1737 | N/A | N/A |
-| 1738 | N/A | N/A |
-| 1739 | N/A | N/A |
-| 1740 | N/A | N/A |
-| 1741 | N/A | N/A |
-| 1742 | N/A | N/A |
-| 1743 | N/A | N/A |
-| 1744 | N/A | N/A |
-| 1745 | N/A | N/A |
-| 1746 | N/A | N/A |
-| 1747 | N/A | N/A |
-| 1748 | N/A | N/A |
-| 1749 | N/A | N/A |
-| 1750 | N/A | N/A |
-| 1751 | N/A | N/A |
-| 1752 | N/A | N/A |
-| 1753 | N/A | N/A |
-| 1754 | N/A | N/A |
-| 1755 | N/A | N/A |
-| 1756 | N/A | N/A |
-| 1757 | N/A | N/A |
-| 1758 | N/A | N/A |
-| 1759 | N/A | N/A |
-| 1760 | N/A | N/A |
-| 1761 | N/A | N/A |
-| 1762 | N/A | N/A |
-| 1763 | N/A | N/A |
-| 1764 | N/A | N/A |
-| 1765 | N/A | N/A |
-| 1766 | N/A | N/A |
-| 1767 | N/A | N/A |
-| 1768 | N/A | N/A |
-| 1769 | N/A | N/A |
-| 1770 | N/A | N/A |
-| 1771 | N/A | N/A |
-| 1772 | N/A | N/A |
-| 1773 | N/A | N/A |
-| 1774 | N/A | N/A |
-| 1775 | N/A | N/A |
-| 1776 | N/A | N/A |
-| 1777 | N/A | N/A |
-| 1778 | N/A | N/A |
-| 1779 | N/A | N/A |
-| 1780 | N/A | N/A |
-| 1781 | N/A | N/A |
-| 1782 | N/A | N/A |
-| 1783 | N/A | N/A |
-| 1784 | N/A | N/A |
-| 1785 | N/A | N/A |
-| 1786 | N/A | N/A |
-| 1787 | N/A | N/A |
-| 1788 | N/A | N/A |
-| 1789 | N/A | N/A |
-| 1790 | N/A | N/A |
-| 1791 | N/A | N/A |
-| 1792 | N/A | N/A |
-| 1793 | N/A | N/A |
-| 1794 | N/A | N/A |
-| 1795 | N/A | N/A |
-| 1796 | N/A | N/A |
-| 1797 | N/A | N/A |
-| 1798 | N/A | N/A |
-| 1799 | N/A | N/A |
-| 1800 | N/A | N/A |
+| 1701 | Kiss - Danger | N/A |
+| 1702 | In Flames - Clayman | N/A |
+| 1703 | .38 Special - Back To Paradise | N/A |
+| 1704 | Alice Cooper - Catch Me If You Can | N/A |
+| 1705 | Aerosmith - Something's Gotta Give | N/A |
+| 1706 | 88 Fingers Louie - Meds | N/A |
+| 1707 | 9mm Parabellum Bullet - Faust | N/A |
+| 1708 | A Day To Remember - All My Friends | N/A |
+| 1709 | Rammstein - Ohne Dich | N/A |
+| 1710 | Billy Talent - Burn The Evidence | N/A |
+| 1711 | Daft Punk - The Game Of Love | N/A |
+| 1712 | 'Til Tuesday - Voices Carry | N/A |
+| 1713 | Pendulum - Fasten Your Seatbelt | N/A |
+| 1714 | Slayer - Raining Blood | N/A |
+| 1715 | Satyricon - K.I.N.G. | N/A |
+| 1716 | Nirvana - Smells Like Teen Spirit | N/A |
+| 1717 | Crypta - I Resign | N/A |
+| 1718 | 04 Limited Sazabys - Galapagos | N/A |
+| 1719 | 04 Limited Sazabys - Galapagos II | N/A |
+| 1720 | Bilmuri - BETTER HELL (Thicc Boi) | N/A |
+| 1721 | 10 Years - Backlash | N/A |
+| 1722 | 1000 Homo DJs - Apathy | N/A |
+| 1723 | Evanescence - Everybody's Fool | N/A |
+| 1724 | Evanescence - Tourniquet | N/A |
+| 1725 | 04 Limited Sazabys - Squall | N/A |
+| 1726 | 10 Years - All Your Lies | N/A |
+| 1727 | 16 Volt - Suffering You | N/A |
+| 1728 | 156/Silence - Irrational Pull | N/A |
+| 1729 | 164 Feat. GUMI - Amanojaku | N/A |
+| 1730 | 1910 Fruitgum Company - Simon Says | N/A |
+| 1731 | 1927 - If I Could | N/A |
+| 1732 | 1986 Omega Tribe - Kimi Ha 1000% | N/A |
+| 1733 | Bathory - Lake Of Fire | N/A |
+| 1734 | Ava Max - Sweet But Psycho | N/A |
+| 1735 | 10 Years - The Autumn Effect | N/A |
+| 1736 | 12 Stones - Crash | N/A |
+| 1737 | Coal Chamber - Big Truck | N/A |
+| 1738 | 2 Times Terror - D.E.A.D. | N/A |
+| 1739 | 3 Doors Down - Ticket To Heaven | N/A |
+| 1740 | 3 Inches Of Blood - Deadly Sinners | N/A |
+| 1741 | HIM - Heartache Every Moment | N/A |
+| 1742 | Megadeth - Washington Is Next! | N/A |
+| 1743 | B*Witched - C'est La Vie | N/A |
+| 1744 | Asian Kung-Fu Generation - Blood Circulator (TV Size) | N/A |
+| 1745 | Metallica - Orion | N/A |
+| 1746 | Avril Lavigne - I'm With You | N/A |
+| 1747 | Avril Lavigne - Don't Tell Me | N/A |
+| 1748 | Aesthetic Perfection - Dead Zone | N/A |
+| 1749 | 3 Doors Down - It's Not My Time | N/A |
+| 1750 | Rammstein - Morgenstern | N/A |
+| 1751 | Radiohead - Airbag | N/A |
+| 1752 | Rise Against - Audience Of One | N/A |
+| 1753 | Rage Against The Machine - Sleep Now In The Fire | N/A |
+| 1754 | Limp Bizkit - Break Stuff | N/A |
+| 1755 | Korn - Prey For Me | N/A |
+| 1756 | Slaughter To Prevail - Demolisher | N/A |
+| 1757 | Slipknot - The Blister Exists | N/A |
+| 1758 | Blue Öyster Cult - The Vigil | N/A |
+| 1759 | My Chemical Romance - Thank You For The Venom | N/A |
+| 1760 | Skindred - Gimme That Boom | N/A |
+| 1761 | Escape The Fate - Situations | N/A |
+| 1762 | Dark Tranquility - Cathode Ray Sunshine | N/A |
+| 1763 | Deftones - Digital Bath | N/A |
+| 1764 | Rage Against The Machine - Take The Power Back | N/A |
+| 1765 | BABYMETAL - Megitsune | N/A |
+| 1766 | Elvis Presley - Jailhouse Rock | N/A |
+| 1767 | Avril Lavigne - Together | N/A |
+| 1768 | Sabaton - Camouflage | N/A |
+| 1769 | Sabaton - The Hammer Has Fallen | N/A |
+| 1770 | Aephanemer - Old French Song | N/A |
+| 1771 | Alien Fucker - [title withheld] | N/A |
+| 1772 | Green Day - X-Kid | N/A |
+| 1773 | Sabaton - Dreadnought | N/A |
+| 1774 | Amaranthe - Archangel | N/A |
+| 1775 | Pendulum - Tarantula | N/A |
+| 1776 | All Time Low - Dear Maria, Count Me In | N/A |
+| 1777 | System Of A Down - Roulette | N/A |
+| 1778 | Motionless In White - Another Life | N/A |
+| 1779 | Sabaton - Steel Commanders | N/A |
+| 1780 | Billy Talent - Red Flag | N/A |
+| 1781 | Sabaton - Man Of War | N/A |
+| 1782 | All Time Low - Weightless | N/A |
+| 1783 | The Cult - She Sells Sanctuary | N/A |
+| 1784 | Sabaton - En Livstid I Krig | N/A |
+| 1785 | Rammstein - Amerika | N/A |
+| 1786 | Snoop Dogg & Wiz Khalifa - Young Wild And Free (Feat. Bruno Mars) | N/A |
+| 1787 | The Cult - Love Removal Machine | N/A |
+| 1788 | Muse - Supermassive Black Hole | N/A |
+| 1789 | Billy Talent - Viking Death March | N/A |
+| 1790 | Manowar - Kings Of Metal | N/A |
+| 1791 | Bullet For My Valentine - Scream Aim Fire | N/A |
+| 1792 | My Chemical Romance - Dead! | N/A |
+| 1793 | System Of A Down - Hypnotize | N/A |
+| 1794 | (G)I-DLE - I'm The Trend | N/A |
+| 1795 | (G)I-DLE - Tomboy | N/A |
+| 1796 | (Hed)P.E. - Watch It Burn | N/A |
+| 1797 | (HED) P.E. - I Got You | N/A |
+| 1798 | +44 (Plus 44) - 155 | N/A |
+| 1799 | +44 (Plus 44) - Baby, Come On | N/A |
+| 1800 | +44 (Plus 44) - Chapter XIII | N/A |
 
 ## 1801 - 1900
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 1801 | N/A | N/A |
-| 1802 | N/A | N/A |
-| 1803 | N/A | N/A |
-| 1804 | N/A | N/A |
-| 1805 | N/A | N/A |
-| 1806 | N/A | N/A |
-| 1807 | N/A | N/A |
-| 1808 | N/A | N/A |
-| 1809 | N/A | N/A |
-| 1810 | N/A | N/A |
-| 1811 | N/A | N/A |
-| 1812 | N/A | N/A |
-| 1813 | N/A | N/A |
-| 1814 | N/A | N/A |
-| 1815 | N/A | N/A |
-| 1816 | N/A | N/A |
-| 1817 | N/A | N/A |
-| 1818 | N/A | N/A |
-| 1819 | N/A | N/A |
-| 1820 | N/A | N/A |
-| 1821 | N/A | N/A |
-| 1822 | N/A | N/A |
-| 1823 | N/A | N/A |
-| 1824 | N/A | N/A |
-| 1825 | N/A | N/A |
-| 1826 | N/A | N/A |
-| 1827 | N/A | N/A |
-| 1828 | N/A | N/A |
-| 1829 | N/A | N/A |
-| 1830 | N/A | N/A |
-| 1831 | N/A | N/A |
-| 1832 | N/A | N/A |
-| 1833 | N/A | N/A |
-| 1834 | N/A | N/A |
-| 1835 | N/A | N/A |
-| 1836 | N/A | N/A |
-| 1837 | N/A | N/A |
-| 1838 | N/A | N/A |
-| 1839 | N/A | N/A |
-| 1840 | N/A | N/A |
-| 1841 | N/A | N/A |
-| 1842 | N/A | N/A |
-| 1843 | N/A | N/A |
-| 1844 | N/A | N/A |
-| 1845 | N/A | N/A |
-| 1846 | N/A | N/A |
-| 1847 | N/A | N/A |
-| 1848 | N/A | N/A |
-| 1849 | N/A | N/A |
-| 1850 | N/A | N/A |
-| 1851 | N/A | N/A |
-| 1852 | N/A | N/A |
-| 1853 | N/A | N/A |
-| 1854 | N/A | N/A |
-| 1855 | N/A | N/A |
-| 1856 | N/A | N/A |
-| 1857 | N/A | N/A |
-| 1858 | N/A | N/A |
-| 1859 | N/A | N/A |
-| 1860 | N/A | N/A |
-| 1861 | N/A | N/A |
-| 1862 | N/A | N/A |
-| 1863 | N/A | N/A |
-| 1864 | N/A | N/A |
-| 1865 | N/A | N/A |
-| 1866 | N/A | N/A |
-| 1867 | N/A | N/A |
-| 1868 | N/A | N/A |
-| 1869 | N/A | N/A |
-| 1870 | N/A | N/A |
-| 1871 | N/A | N/A |
-| 1872 | N/A | N/A |
-| 1873 | N/A | N/A |
-| 1874 | N/A | N/A |
-| 1875 | N/A | N/A |
-| 1876 | N/A | N/A |
-| 1877 | N/A | N/A |
-| 1878 | N/A | N/A |
-| 1879 | N/A | N/A |
-| 1880 | N/A | N/A |
-| 1881 | N/A | N/A |
-| 1882 | N/A | N/A |
-| 1883 | N/A | N/A |
-| 1884 | N/A | N/A |
-| 1885 | N/A | N/A |
-| 1886 | N/A | N/A |
-| 1887 | N/A | N/A |
-| 1888 | N/A | N/A |
-| 1889 | N/A | N/A |
-| 1890 | N/A | N/A |
-| 1891 | N/A | N/A |
-| 1892 | N/A | N/A |
-| 1893 | N/A | N/A |
-| 1894 | N/A | N/A |
-| 1895 | N/A | N/A |
-| 1896 | N/A | N/A |
-| 1897 | N/A | N/A |
-| 1898 | N/A | N/A |
-| 1899 | N/A | N/A |
-| 1900 | N/A | N/A |
+| 1801 | +44 (Plus 44) - Little Death | N/A |
+| 1802 | +44 (Plus 44) - Make You Smile | N/A |
+| 1803 | Sabaton - The Lion From The North | N/A |
+| 1804 | +44 (Plus 44) - Weatherman | N/A |
+| 1805 | T.A.T.U. - All The Things She Said | N/A |
+| 1806 | Sabaton - Ghost Division | N/A |
+| 1807 | Three Days Grace - Pain | N/A |
+| 1808 | Rammstein - Hilf Mir | N/A |
+| 1809 | Sabaton - Primo Victoria | N/A |
+| 1810 | Nirvana - Come As You Are | N/A |
+| 1811 | Billy Talent - Try Honesty | N/A |
+| 1812 | Linkin Park - One Step Closer | N/A |
+| 1813 | System Of A Down - Lonely Day | N/A |
+| 1814 | Fleetwood Mac - Go Your Own Way | N/A |
+| 1815 | R.E.M. - Losing My Religion | N/A |
+| 1816 | Billy Talent - Standing In The Rain | N/A |
+| 1817 | Sabaton - Sparta | N/A |
+| 1818 | All Time Low - Damned If I Do Ya (Damned If I Don't) | N/A |
+| 1819 | Asking Alexandria - If You Can't Ride Two Horses At Once... | N/A |
+| 1820 | System Of A Down - B.Y.O.B. | N/A |
+| 1821 | Sabaton - Christmas Truce | N/A |
+| 1822 | Pendulum - 9,000 Miles | N/A |
+| 1823 | Dragonforce - My Spirit Will Go On | N/A |
+| 1824 | Billy Talent - This Suffering | N/A |
+| 1825 | Sabaton - Blood Of Bannockburn | N/A |
+| 1826 | U2 - Vertigo | N/A |
+| 1827 | Rammstein - Keine Lust | N/A |
+| 1828 | Amy Winehouse - Back To Black | N/A |
+| 1829 | 3 Inches Of Blood - Deadly Sinners | N/A |
+| 1830 | 2Pac - Ambitionz Az A Ridah | N/A |
+| 1831 | Linkin Park - In The End | N/A |
+| 1832 | Pendulum - Watercolour | N/A |
+| 1833 | Linkin Park - Bleed It Out | N/A |
+| 1834 | Alicia Keys - If I Ain't Got You | N/A |
+| 1835 | Girugamesh - Break Down | N/A |
+| 1836 | Dire Straits - Sultans Of Swing | N/A |
+| 1837 | A-HA - I Call Your Name | N/A |
+| 1838 | Sabaton - 7734 | N/A |
+| 1839 | Linkin Park - Numb | N/A |
+| 1840 | Sabaton - Purple Heart | N/A |
+| 1841 | Rammstein - Ich Will | N/A |
+| 1842 | Laufey - Falling Behind | N/A |
+| 1843 | Sabaton - The Final Solution | N/A |
+| 1844 | Rammstein - Du Hast | N/A |
+| 1845 | -M- (Matthieu Chedid) - Le Complexe Du Corn-Flakes | N/A |
+| 1846 | -M- (Matthieu Chedid) - Je Dis Aime | N/A |
+| 1847 | -M- (Matthieu Chedid) - Laisse Aller | N/A |
+| 1848 | Sabaton - Metal Machine | N/A |
+| 1849 | Limp Bizkit - Break Stuff | N/A |
+| 1850 | *NSYNC - Tearin' Up My Heart | N/A |
+| 1851 | Sabaton - White Death | N/A |
+| 1852 | Nirvana - About A Girl (Unplugged) | N/A |
+| 1853 | Avril Lavigne - Losing Grip | N/A |
+| 1854 | Amon Amarth - Raise Your Horns | N/A |
+| 1855 | Falling In Reverse - The Drug In Me Is You | N/A |
+| 1856 | Sabaton - Nuclear Attack | N/A |
+| 1857 | Sum 41 - War | N/A |
+| 1858 | Saliva Feat. Jim Johnston - I Walk Alone (WWE - Batista Theme) | N/A |
+| 1859 | Motörhead Feat. Jim Johnston - The Game (WWE - Triple H Theme) | N/A |
+| 1860 | Sabaton - Gott Mit Uns | N/A |
+| 1861 | Pink Floyd - Comfortably Numb | N/A |
+| 1862 | 100,000 Subscribers Milestone | N/A |
+| 1863 | Talking Heads - Burning Down The House | N/A |
+| 1864 | Motionless In White - Masterpiece | N/A |
+| 1865 | Tenacious D - Beelzeboss | N/A |
+| 1866 | Primus - South Park Theme | N/A |
+| 1867 | Sabaton - Karolinens Bön | N/A |
+| 1868 | Die Antwoord - Enter The Ninja | N/A |
+| 1869 | Korn - Word Up! | N/A |
+| 1870 | Avenged Sevenfold - Bat Country | N/A |
+| 1871 | 04 Limited Sazabys - Galapagos | N/A |
+| 1872 | 10 Years - Wasteland | N/A |
+| 1873 | "Weird Al" Yankovic - Foil | N/A |
+| 1874 | Sabaton - Wehrmacht | N/A |
+| 1875 | Arctic Monkeys - R U Mine? | N/A |
+| 1876 | Mor Ve Ötesi - Bir Derdim Var | N/A |
+| 1877 | Billy Talent - Sympathy | N/A |
+| 1878 | 10 Years - All Your Lies | N/A |
+| 1879 | ZZ Top - La Grange | N/A |
+| 1880 | Midnight Oil - Beds Are Burning | N/A |
+| 1881 | Linkin Park - Faint | N/A |
+| 1882 | -M- (Matthieu Chedid) - Qui De Nous Deux | N/A |
+| 1883 | +44 (Plus 44) - No, It Isn't | N/A |
+| 1884 | *NSYNC - Bye Bye Bye | N/A |
+| 1885 | Aloe Blacc - I Need A Dollar | N/A |
+| 1886 | Rammstein - Mein Teil | N/A |
+| 1887 | 100 Gecs - Money Machine | N/A |
+| 1888 | Sabaton - Hearts Of Iron | N/A |
+| 1889 | Linkin Park - Papercut | N/A |
+| 1890 | A Day To Remember - Another Song About The Weekend | N/A |
+| 1891 | Willie Nelson - Whiskey River | N/A |
+| 1892 | Motionless In White - A.M.E.R.I.C.A. | N/A |
+| 1893 | Sabaton - Metal Crüe | N/A |
+| 1894 | Adam And The Ants - That Voodoo! | N/A |
+| 1895 | 12 Stones - The Way I Feel | N/A |
+| 1896 | Sabaton - The Ballad Of Bull | N/A |
+| 1897 | Twenty One Pilots - Stressed Out | N/A |
+| 1898 | Paramore - Decode | N/A |
+| 1899 | CKY - Flesh Into Gear | N/A |
+| 1900 | Sabaton - 82nd All The Way | N/A |
 
 ## 1901 - 2000
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 1901 | N/A | N/A |
-| 1902 | N/A | N/A |
-| 1903 | N/A | N/A |
-| 1904 | N/A | N/A |
-| 1905 | N/A | N/A |
-| 1906 | N/A | N/A |
-| 1907 | N/A | N/A |
-| 1908 | N/A | N/A |
-| 1909 | N/A | N/A |
-| 1910 | N/A | N/A |
-| 1911 | N/A | N/A |
+| 1901 | Pendulum - Another Planet | N/A |
+| 1902 | Serj Tankian - Sky Is Over | N/A |
+| 1903 | All Time Low - Somewhere In Neverland | N/A |
+| 1904 | 3 Doors Down - Kryptonite | N/A |
+| 1905 | Rammstein - Amour | N/A |
+| 1906 | My Chemical Romance - Teenagers | N/A |
+| 1907 | Generation X - Listen | N/A |
+| 1908 | +44 (Plus 44) - When Your Heart Stops Beating | N/A |
+| 1909 | Serj Tankian - The Unthinking Majority | N/A |
+| 1910 | Serj Tankian - Beethoven's C*nt | N/A |
+| 1911 | Thirty Seconds To Mars - Valhalla | N/A |
 | 1912 | My Chemical Romance - Welcome To The Black Parade | Welcome To The Black Parade in a bass spotlight - My Chemical Romance |
-| 1913 | N/A | N/A |
-| 1914 | N/A | N/A |
-| 1915 | N/A | N/A |
-| 1916 | N/A | N/A |
-| 1917 | N/A | N/A |
-| 1918 | N/A | N/A |
-| 1919 | N/A | N/A |
-| 1920 | N/A | N/A |
-| 1921 | N/A | N/A |
-| 1922 | N/A | N/A |
-| 1923 | N/A | N/A |
-| 1924 | N/A | N/A |
-| 1925 | N/A | N/A |
-| 1926 | N/A | N/A |
-| 1927 | N/A | N/A |
-| 1928 | N/A | N/A |
-| 1929 | N/A | N/A |
-| 1930 | N/A | N/A |
-| 1931 | N/A | N/A |
-| 1932 | N/A | N/A |
-| 1933 | N/A | N/A |
-| 1934 | N/A | N/A |
-| 1935 | N/A | N/A |
-| 1936 | N/A | N/A |
-| 1937 | N/A | N/A |
-| 1938 | N/A | N/A |
-| 1939 | N/A | N/A |
-| 1940 | N/A | N/A |
-| 1941 | N/A | N/A |
-| 1942 | N/A | N/A |
-| 1943 | N/A | N/A |
-| 1944 | N/A | N/A |
-| 1945 | N/A | N/A |
-| 1946 | N/A | N/A |
-| 1947 | N/A | N/A |
-| 1948 | N/A | N/A |
-| 1949 | N/A | N/A |
-| 1950 | N/A | N/A |
-| 1951 | N/A | N/A |
-| 1952 | N/A | N/A |
-| 1953 | N/A | N/A |
-| 1954 | N/A | N/A |
-| 1955 | N/A | N/A |
-| 1956 | N/A | N/A |
-| 1957 | N/A | N/A |
-| 1958 | N/A | N/A |
-| 1959 | N/A | N/A |
-| 1960 | N/A | N/A |
-| 1961 | N/A | N/A |
-| 1962 | N/A | N/A |
-| 1963 | N/A | N/A |
-| 1964 | N/A | N/A |
-| 1965 | N/A | N/A |
-| 1966 | N/A | N/A |
-| 1967 | N/A | N/A |
-| 1968 | N/A | N/A |
-| 1969 | N/A | N/A |
-| 1970 | N/A | N/A |
-| 1971 | N/A | N/A |
-| 1972 | N/A | N/A |
-| 1973 | N/A | N/A |
-| 1974 | N/A | N/A |
-| 1975 | N/A | N/A |
-| 1976 | N/A | N/A |
-| 1977 | N/A | N/A |
-| 1978 | N/A | N/A |
-| 1979 | N/A | N/A |
-| 1980 | N/A | N/A |
-| 1981 | N/A | N/A |
-| 1982 | N/A | N/A |
-| 1983 | N/A | N/A |
-| 1984 | N/A | N/A |
-| 1985 | N/A | N/A |
-| 1986 | N/A | N/A |
-| 1987 | N/A | N/A |
-| 1988 | N/A | N/A |
-| 1989 | N/A | N/A |
-| 1990 | N/A | N/A |
-| 1991 | N/A | N/A |
-| 1992 | N/A | N/A |
-| 1993 | N/A | N/A |
-| 1994 | N/A | N/A |
-| 1995 | N/A | N/A |
-| 1996 | N/A | N/A |
-| 1997 | N/A | N/A |
-| 1998 | N/A | N/A |
-| 1999 | N/A | N/A |
-| 2000 | N/A | N/A |
+| 1913 | Sabaton - Stalingrad | N/A |
+| 1914 | HIM - Buried Alive By Love | N/A |
+| 1915 | Maroon 5 - This Love | N/A |
+| 1916 | *NSYNC - It's Gotta Be Me | N/A |
+| 1917 | Red Hot Chili Peppers - Suck My Kiss | N/A |
+| 1918 | Pendulum - The Vulture | N/A |
+| 1919 | George Michael - Faith | N/A |
+| 1920 | Kansas - Carry On Wayward Son | N/A |
+| 1921 | Linkin Park - Crawling | N/A |
+| 1922 | System Of A Down - A.T.W.A. | N/A |
+| 1923 | Motionless In White - Immaculate Misconception | N/A |
+| 1924 | Sabaton - 1648 (Swedish) | N/A |
+| 1925 | 10 Years - Through The Iris | N/A |
+| 1926 | Attack Attack! - Smokahontas | N/A |
+| 1927 | Motionless In White - Black Damask (The Fog) | N/A |
+| 1928 | My Chemical Romance - Famous Last Words | N/A |
+| 1929 | Oasis - Don't Look Back In Anger | N/A |
+| 1930 | Motionless In White - /CODE | N/A |
+| 1931 | Sabaton - A Ghost In The Trenches | N/A |
+| 1932 | HIM - The Sacrament | N/A |
+| 1933 | 10 Years - Shoot It Out | N/A |
+| 1934 | HIM - The Funeral Of Hearts | N/A |
+| 1935 | Linkin Park - Lying From You | N/A |
+| 1936 | Sabaton - Far From The Fame | N/A |
+| 1937 | Bullet For My Valentine - Hand Of Blood | N/A |
+| 1938 | Lily Allen - Smile | N/A |
+| 1939 | Queen - Another One Bites The Dust | N/A |
+| 1940 | Flyleaf - Fire Fire | N/A |
+| 1941 | Pat Benatar - Hit Me With Your Best Shot | N/A |
+| 1942 | Blink-182 - All The Small Things | N/A |
+| 1943 | Judas Priest - Painkiller | N/A |
+| 1944 | Deep Purple - Smoke On The Water | N/A |
+| 1945 | Europe - The Final Countdown | N/A |
+| 1946 | Volbeat - Fallen | N/A |
+| 1947 | Billy Talent - Fallen Leaves | N/A |
+| 1948 | The Police - Message In A Bottle | N/A |
+| 1949 | Boston - More Than A Feeling | N/A |
+| 1950 | Mellow Mood - Another Day | N/A |
+| 1951 | Mellow Mood - Tuff Rocky Road | N/A |
+| 1952 | Mindless Self Indulgence - Bomb This Track | N/A |
+| 1953 | Mindless Self Indulgence - Evening Wear | N/A |
+| 1954 | Thirty Seconds To Mars - Attack | N/A |
+| 1955 | Attila - Pizza | N/A |
+| 1956 | 4 Non Blondes - What's Up | N/A |
+| 1957 | +44 (Plus 44) - Lycanthrope | N/A |
+| 1958 | Aaliyah - Are You That Somebody | N/A |
+| 1959 | The Offspring - Gone Away | N/A |
+| 1960 | Alice In Chains - Stone | N/A |
+| 1961 | Ace Of Base - The Sign | N/A |
+| 1962 | The Birthday Massacre - Blue | N/A |
+| 1963 | Foo Fighters - Best Of You | N/A |
+| 1964 | Maroon 5 - She Will Be Loved | N/A |
+| 1965 | My Chemical Romance - Planetary (GO!) | N/A |
+| 1966 | Paramore - Now | N/A |
+| 1967 | Megadeth - Symphony Of Destruction | N/A |
+| 1968 | David Bowie - The Man Who Sold The World | N/A |
+| 1969 | Biffy Clyro - Stingin' Belle | N/A |
+| 1970 | Alice In Chains - Again | N/A |
+| 1971 | Foster The People - Pumped Up Kicks | N/A |
+| 1972 | Rancid - Ruby Soho | N/A |
+| 1973 | Iron Maiden - Run To The Hills | N/A |
+| 1974 | Foo Fighters - My Hero | N/A |
+| 1975 | Blue Öyster Cult - Burnin' For You | N/A |
+| 1976 | Weezer - Say It Ain't So | N/A |
+| 1977 | Billy Idol - White Wedding - Part 1 | N/A |
+| 1978 | ABC - The Look Of Love (Part One) | N/A |
+| 1979 | Heart - Barracuda | N/A |
+| 1980 | Aphrodite's Child - Rain And Tears | N/A |
+| 1981 | Mindless Self Indulgence - Never Wanted To Dance | N/A |
+| 1982 | Mindless Self Indulgence - Lights Out | N/A |
+| 1983 | Mindless Self Indulgence - Shut Me Up | N/A |
+| 1984 | Mindless Self Indulgence - Straight To Video | N/A |
+| 1985 | Mindless Self Indulgence - Stupid MF | N/A |
+| 1986 | Mindless Self Indulgence - Prescription | N/A |
+| 1987 | Mindless Self Indulgence - Issues | N/A |
+| 1988 | 009 Sound System - Dreamscape | N/A |
+| 1989 | Mindless Self Indulgence - Girls On Film | N/A |
+| 1990 | Mindless Self Indulgence - Get It Up | N/A |
+| 1991 | Mindless Self Indulgence - Revenge | N/A |
+| 1992 | Mindless Self Indulgence - Animal | N/A |
+| 1993 | Mindless Self Indulgence - Mastermind | N/A |
+| 1994 | Mindless Self Indulgence - On It | N/A |
+| 1995 | Good Charlotte - Riot Girl | N/A |
+| 1996 | Mindless Self Indulgence - Due | N/A |
+| 1997 | Rammstein - Radio | N/A |
+| 1998 | System Of A Down - Sugar | N/A |
+| 1999 | Tom Misch - Disco Yes | N/A |
+| 2000 | Bring Me The Horizon Feat. Aurora - Limousine | N/A |
 
 ## 2001 - 2100
 
