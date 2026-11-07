@@ -1,0 +1,106 @@
+# Long-form Studio screenshot index 0401-0500
+
+2026-11-07: visually reviewed all ten Studio screenshots in `_All Songs/_0001 Long Form/_Songname Snippets/0401 - 0500/`. The user confirms the page ranges and row positions are fixed chronological IDs. Song names come from visible title text except 0459 and 0482, where the description preview supplies the identity or full title. 0471 retains the screenshot's censored spelling rather than expanding it. No earlier-AI titles are accepted as new titles; all prepared-title fields remain N/A.
+
+0426 is titled What To Expect At kick.com/mavomusic? and its description promotes the stream and song-request list. Neither preview identifies a band or song; it may be a non-song overview, but its content has not been inspected. Ask MAVO whether there is a specific song to index, and do not invent an identity.
+
+- 0401: Ramones - Blitzkrieg Bop
+- 0402: Amon Amarth - War Of The Gods
+- 0403: System Of A Down - Old School Hollywood
+- 0404: Scooter - How Much Is The Fish?
+- 0405: 957 - Fish Looking At 9
+- 0406: Aerosmith - Train Kept A-Rollin'
+- 0407: Cradle Of Filth Feat. King Diamond - Devil Woman
+- 0408: Dimmu Borgir - The Serpentine Offering
+- 0409: Sublime - Badfish
+- 0410: Altaria - Wrath Of A Warchild
+- 0411: Green Day - Dilemma
+- 0412: KAT - Głos Z Ciemności
+- 0413: Mgła - Mdłości I
+- 0414: AC/DC - For Those About To Rock (We Salute You)
+- 0415: Iron Maiden - The Evil That Men Do
+- 0416: Joan Jett & The Black Hearts - I Love Rock 'N' Roll
+- 0417: Bonnie Tyler - Holding Out For A Hero
+- 0418: Cutting Crew - (I Just) Died In Your Arms
+- 0419: Green Day - 8th Avenue Serenade
+- 0420: Survivor - High On You
+- 0421: Aephanemer - Snowblind
+- 0422: Bon Jovi - Wanted Dead Or Alive
+- 0423: Colin Hay Of Men At Work - Down Under 2012
+- 0424: Guns N' Roses - Don't Cry
+- 0425: Sabaton - Attero Dominatus
+- 0426: N/A (stream overview; song not identified)
+- 0427: Sabaton - In The Name Of God
+- 0428: The Proclaimers - I'm Gonna Be (500 Miles)
+- 0429: Ado - Usseewa
+- 0430: Metallica - Orion
+- 0431: Rammstein - Deutschland
+- 0432: Sabaton - Birds Of War
+- 0433: Slayer - Angel Of Death
+- 0434: Metallica - Leper Messiah
+- 0435: Metallica - Sad But True
+- 0436: Metallica - Battery
+- 0437: Bruno Mars - Versace On The Floor
+- 0438: Coldplay - The Scientist
+- 0439: Diamond Head - Am I Evil?
+- 0440: Elvis Presley - Suspicious Minds
+- 0441: Jackson 5 - I Want You Back
+- 0442: Run D.M.C. - Rock Box
+- 0443: Silverstein - Wake Up
+- 0444: Billy Talent - Chasing The Sun
+- 0445: Earth, Wind And Fire - Let's Groove
+- 0446: Paramore - The Only Exception
+- 0447: Def Leppard - Pour Some Sugar On Me
+- 0448: Metallica - From Whom The Bell Tolls
+- 0449: The Bloodhound Gang - Foxtrot Uniform Charlie Kilo
+- 0450: Outkast - Hey Ya!
+- 0451: Bob Marley & The Wailers - Three Little Birds
+- 0452: FUN. - Some Nights
+- 0453: Jack White - Sixteen Saltines
+- 0454: KT Tunstall - Black Horse And The Cherry Tree
+- 0455: Train - Drops Of Jupiter
+- 0456: Pegboard Nerds Feat. Koda - Heaven Let Us Down
+- 0457: Mellow Mood - Another Day
+- 0458: Good Charlotte - A New Beginning
+- 0459: BrokeNCYDE - 2 Drunk 2 Drive
+- 0460: Good Charlotte - Lifestyles Of The Rich & Famous
+- 0461: Good Charlotte - Say Anything
+- 0462: BrokeNCYDE - Bree Bree
+- 0463: Good Charlotte - The Young And The Hopeless
+- 0464: Good Charlotte - The Anthem
+- 0465: Good Charlotte - The Story Of My Old Man
+- 0466: Good Charlotte - Wondering
+- 0467: Mellow Mood - Tuff Rocky Road
+- 0468: 9mm Parabellum Bullet - Last Round
+- 0469: Mindless Self Indulgence - Pay For It
+- 0470: Mindless Self Indulgence - Money
+- 0471: Mindless Self Indulgence - D_cks Are For My Friends
+- 0472: Shinedown - Sin With A Grin
+- 0473: Journey - No Surrender
+- 0474: The Killers - Smile Like You Mean It
+- 0475: Thousand Foot Krutch - Absolute
+- 0476: Aerosmith - Deuces Are Wild
+- 0477: AC/DC - Hells Bells
+- 0478: Alice Cooper - Snakebite
+- 0479: Bill Withers - Lean On Me
+- 0480: Black Sabbath - Shadow Of The Wind
+- 0481: Dance Gavin Dance - Inspire The Liars
+- 0482: Euringer Feat. Serj Tankian - If It Ain't You Today It Will Be You Tomorrow
+- 0483: Falling In Reverse Feat. HARDY - All My Women
+- 0484: Kings Of Leon - Closer
+- 0485: Static-X - Grind 2 Halt
+- 0486: Saxon - Lionheart
+- 0487: Journey - Mother, Father
+- 0488: Blondie - Slow Motion
+- 0489: Santana - Jingo
+- 0490: Pierce The Veil - So Far So Fake
+- 0491: The Police - Canary In A Coalmine
+- 0492: Good Riddance - Darkest Days
+- 0493: Metallica - My Friend Of Misery
+- 0494: Trust Company - Deeper Into You
+- 0495: Isaac Hayes - Chocolate Salty Balls
+- 0496: Ozzy Osbourne - Desire
+- 0497: The Killers - Read My Mind
+- 0498: Pearl Jam - Black
+- 0499: EURINGER - That's How Jimmy Gets Down
+- 0500: EURINGER - Problematic
