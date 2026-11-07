@@ -12,7 +12,7 @@ Repository-hosted home of the MAVOmusic SEO rehabilitation workspace (fingerstyl
 | `Long Form 0001 - 1000.md` | Browsable chronological long-form catalogue, including provisional reservations. |
 | `Short Form 0001 - 3000.md` | Browsable chronological Shorts catalogue, including provisional reservations. |
 
-Update the relevant catalogue whenever an upload identity or prepared title is added or changed. Keep planned reservations marked and never infer missing identities from the legacy canonical numbering. `Ver 3.0/PY/check_song_catalogues.py` checks numbered rows and known video folders/copy titles; it does not establish publication, identity, or completeness of screenshots.
+Update the relevant catalogue whenever an upload identity or prepared title is added or changed. The user confirms the screenshot page ranges identify fixed chronological IDs. Keep titles from the earlier AI process as N/A until this process reviews and accepts them or creates replacements. Keep planned reservations marked and never infer missing identities from the legacy canonical numbering. `Ver 3.0/PY/check_song_catalogues.py` checks numbered rows and known video folders/copy titles; it does not establish publication, identity, or completeness of screenshots.
 
 ## Inside `Ver 3.0/`
 

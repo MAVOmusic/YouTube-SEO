@@ -1,6 +1,6 @@
 # Short Form 0001 - 3000
 
-Channel upload-order index, not the older canonical-song numbering. `N/A` means the song identity or newly prepared title is not known here; it is not a claim that an upload does not exist. Titles are our latest saved copy, not confirmation they are live.
+Channel upload-order index, not the older canonical-song numbering. `N/A` means the song identity or newly prepared title is not known here; it is not a claim that an upload does not exist. Titles are from the current SEO review process, not confirmation they are live. Titles from an earlier AI process remain N/A until reviewed and accepted or replaced in the current process.
 
 Rows labelled **[reserved]** are provisional planned recordings, not confirmed uploads. Actual upload chronology determines their final numbers; move/update both catalogues if it changes. Short 2420 was visible as published; precise live metadata was not verified. See [upload plan](Ver%203.0/TXT/New_Recordings_Upload_Plan.md) and individual `_03 - Copy.md` files for evidence and status. Older `bands/` canonical IDs and `Master_Shorts_Repository.txt` must not be treated as chronological upload IDs.
 

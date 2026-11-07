@@ -1,8 +1,8 @@
 # Long-form Studio screenshot index 0301-0400
 
-2026-11-07: visually reviewed all ten numbered Studio screenshots in `_All Songs/_0001 Long Form/_Songname Snippets/0301 - 0400/`. Each number is inferred from the page range displayed in the screenshot and the row position, not a permanent ID displayed on the video. The view is sorted by date ascending; changes to the ordered list can shift position, so verify individually before treating an index number as immutable. Song identity is the visible title or, for 0327, 0337 and 0338, the description preview. These show video names and descriptions, not independent proof of the audio.
+2026-11-07: visually reviewed all ten numbered Studio screenshots in `_All Songs/_0001 Long Form/_Songname Snippets/0301 - 0400/`. The user confirms the page ranges and row positions correspond to fixed chronological IDs. Song identity is the visible title or, for 0327, 0337 and 0338, the description preview. These show video names and descriptions, not independent proof of the audio.
 
-The three bespoke titles shown for 0327, 0337 and 0338 match saved historical SEO packages by title, date and song; their archive IDs 0386, 0376 and 0375 belong to a different canonical numbering scheme and are not used as chronological IDs. Other title fields remain N/A unless a matching prepared title is independently established.
+The bespoke titles visible for 0327, 0337 and 0338 came from an earlier AI process. Per user instruction, they remain N/A in the catalogue until reviewed and accepted or replaced in the current process. Historical archive IDs are a separate numbering scheme, not chronological IDs.
 
 - 0301: Linkin Park - New Divide
 - 0302: Sabaton - 1916
