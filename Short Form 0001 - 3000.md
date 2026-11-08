@@ -32,7 +32,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0018 | Serj Tankian - Sky Is Over | N/A |
 | 0019 | System Of A Down - Roulette | N/A |
 | 0020 | All Time Low - Somewhere In Neverland | N/A |
-| 0021 | Motionless In White - Another Life | N/A |
+| 0021 | Motionless In White - Another Life | A moment with Another Life - Motionless In White on bass #bass |
 | 0022 | 3 Doors Down - Kryptonite | N/A |
 | 0023 | Sabaton - Steel Commanders | N/A |
 | 0024 | Rammstein - Amour | N/A |
@@ -1607,7 +1607,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1518 | Sabaton - Dreadnought | N/A |
 | 1519 | Pendulum - Tarantula | N/A |
 | 1520 | Sabaton - The Hammer Has Fallen | N/A |
-| 1521 | Motionless In White - Another Life | N/A |
+| 1521 | Motionless In White - Another Life | Motionless In White on bass - Revisiting Another Life #rocksmith |
 | 1522 | Sabaton Feat. Apocalyptica - Angels Calling | N/A |
 | 1523 | Pendulum - Another Planet | N/A |
 | 1524 | Green Day - X-Kid | N/A |
@@ -1874,7 +1874,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1775 | Pendulum - Tarantula | N/A |
 | 1776 | All Time Low - Dear Maria, Count Me In | N/A |
 | 1777 | System Of A Down - Roulette | N/A |
-| 1778 | Motionless In White - Another Life | N/A |
+| 1778 | Motionless In White - Another Life | Another Life from Disguise - Motionless In White bass clip #bass |
 | 1779 | Sabaton - Steel Commanders | N/A |
 | 1780 | Billy Talent - Red Flag | N/A |
 | 1781 | Sabaton - Man Of War | N/A |

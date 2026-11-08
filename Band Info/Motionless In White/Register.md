@@ -87,3 +87,7 @@ Relevant names below are artist associations, not an assertion they play on each
 
 - CO-0033: Another Life music video depicts a broken love story. The 0033 title uses heartbreak as an interpretive description.
   - Source: https://www.altpress.com/motionless-in-white-another-life-music-video/
+
+## Another Life refreshed pass
+
+- LF 0002, 0004 (play-along), 0033; Shorts 0021, 1521, 1778. [Song facts](Another%20Life/Another%20Life.md) and [comparison](Another%20Life/Analysis.md). Proposals are not confirmed Studio changes.

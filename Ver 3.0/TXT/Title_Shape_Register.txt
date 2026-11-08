@@ -413,3 +413,5 @@ LF 0341 | Autumn Leaves on bass | A Burzum Rocksmith performance
 Short 0673 | Finding the atmosphere of Autumn Leaves | Burzum bass #bass
 Short 2087 | A Burzum bass moment from Autumn Leaves #rocksmith
 LF 0001 retained prior title; unchanged.
+
+2026-11-01 - User confirms Another Life screenshots captured now; disregard YouTube reporting date oddity. Six-version analysis and copy: Band Info/Motionless In White/Another Life/Analysis.md. LF 0002/0004/0033, Shorts 0021/1521/1778 reviewed, folders [U - 2026-11-01], exact time unavailable because workspace clock date conflicts with session date. Retain LF titles and real comments; all changes proposals, pin and related target unverified. 0004 play-along is distinct. Runaway/500-view gate still unconfirmed.
