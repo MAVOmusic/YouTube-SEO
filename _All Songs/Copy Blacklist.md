@@ -32,6 +32,90 @@ An hour of Burzum's Autumn Leaves with bass in the mix
 Does a long loop help you focus, or do you prefer listening to an album from beginning to end?
 ```
 
+### LF 0002 - Motionless In White - Another Life
+
+Reviewed 2026-11-01 UK; exact time unavailable. Proposal or retained text; no Studio edit confirmed. Retain the existing creator question if wanted; pin status is unknown. Better still, consider highlighting a genuine viewer comment, such as @CaptBeefy discussing the performance and Rocksmith. Preserve every thread and reply.
+
+**Title**
+
+```text
+Another Life hits differently with bass - Motionless In White
+```
+
+**Description**
+
+```text
+🌙 Another Life by Motionless In White holds a special place on Disguise. Thanks for joining me for this bass performance alongside the Rocksmith chart.
+
+🎸 Take a moment with the song and let me know which part stays with you.
+
+🟢 Find live bass requests on Kick: https://kick.com/mavomusic
+🟣 The same stream is mirrored on Twitch: https://www.twitch.tv/mavomusic
+💬 Share a favourite track in Discord; optional boosts are appreciated: https://discord.gg/ESGsGkN4j2
+```
+
+**Pinned comment / fallback**
+
+```text
+Which Motionless In White song would you like to hear on bass next?
+```
+
+### LF 0004 - Motionless In White - Another Life
+
+Reviewed 2026-11-01 UK; exact time unavailable. Proposal or retained text; no Studio edit confirmed. The creator question is visible; retain it if desired. Pin status is not shown. No need to replace it just to change the metadata.
+
+**Title**
+
+```text
+Can you follow Another Life? Motionless In White bass play along
+```
+
+**Description**
+
+```text
+🎸 Pick up your bass and join me for Another Life by Motionless In White. This separate Rocksmith play-along lets you follow the on-screen chart at your own pace.
+
+🖤 The song appears on Disguise. Whether you are practising or simply listening, thanks for spending some time here!
+
+🟢 Bring a song request to Kick: https://kick.com/mavomusic
+🟣 Catch the mirrored stream on Twitch: https://www.twitch.tv/mavomusic
+💬 Talk bass practice on Discord; thanks if you choose to boost: https://discord.gg/ESGsGkN4j2
+```
+
+**Pinned comment / fallback**
+
+```text
+Which Motionless In White music video stands out to you visually?
+```
+
+### LF 0033 - Motionless In White - Another Life
+
+Reviewed 2026-11-01 UK; exact time unavailable. Proposal or retained text; no Studio edit confirmed. The creator question is visible, so retain it if desired. Current pin is unverified. The new description removes the songwriter list rather than relying on an unverified exhaustive credit.
+
+**Title**
+
+```text
+The heartbreak of Another Life - Motionless In White on Rocksmith bass
+```
+
+**Description**
+
+```text
+🖤 Another Life comes from Motionless In White and their 2019 album Disguise. Here is another bass performance with the Rocksmith overlay.
+
+🎶 This song has an emotional pull that keeps bringing me back. What does it mean to you?
+
+🟢 Share your requests on Kick: https://kick.com/mavomusic
+🟣 Twitch carries the mirrored stream: https://www.twitch.tv/mavomusic
+💬 Meet the community on Discord; boosts are welcome but optional: https://discord.gg/ESGsGkN4j2
+```
+
+**Pinned comment / fallback**
+
+```text
+What draws you back to Another Life when you revisit Disguise?
+```
+
 ### LF 0341 - Burzum - Autumn Leaves
 
 Reviewed 2026-11-08 20:44 GMT; Studio edit/pin status unverified. Only a generic creator comment is visible. Its current pin is not established; the above is an optional proposed new comment.
@@ -58,6 +142,31 @@ Autumn Leaves on bass | A Burzum Rocksmith performance
 
 ```text
 On The Ways of Yore track list, Autumn Leaves follows Hall of the Fallen. Which of those tracks would you revisit first?
+```
+
+### Short 0021 - Motionless In White - Another Life
+
+Reviewed 2026-11-01 UK; exact time unavailable. Proposal or retained text; no Studio edit confirmed. Prefer the genuine @loafofbeans8291 comment about loving MIW and keep MAVO's reply. The text below is only a fallback; current pin is unknown. Check the related video target in Studio before referring to it.
+
+**Title**
+
+```text
+A moment with Another Life - Motionless In White on bass #bass
+```
+
+**Description**
+
+```text
+🖤 Another Life by Motionless In White is one I always enjoy revisiting on bass. Thanks for listening to this Rocksmith moment with me!
+
+🎸 Find the full performance using the related video.
+🟢 Live requests on Kick, with the Twitch mirror and Discord on my channel profile. Discord boosts are always optional.
+```
+
+**Pinned comment / fallback**
+
+```text
+What first got you into Motionless In White? The full bass performance is in the related video.
 ```
 
 ### Short 0673 - Burzum - Autumn Leaves
@@ -87,6 +196,56 @@ Finding the atmosphere of Autumn Leaves | Burzum bass #bass
 
 ```text
 What atmospheric track would you like to learn on bass next? Find the full Autumn Leaves performance via the related video below my handle.
+```
+
+### Short 1521 - Motionless In White - Another Life
+
+Reviewed 2026-11-01 UK; exact time unavailable. Proposal or retained text; no Studio edit confirmed. A creator Super Thanks comment is visible, but its pin state is unknown. The suggested comment is optional; verify the related-video target and any Super Thanks availability in Studio.
+
+**Title**
+
+```text
+Motionless In White on bass - Revisiting Another Life #rocksmith
+```
+
+**Description**
+
+```text
+🌙 Back to Disguise for a little Another Life on bass. Motionless In White gave this song a special place on the record, and it is a pleasure to play.
+
+🎶 The full performance is available through the related video.
+🟢 Join me on Kick; Twitch mirrors the stream. Find both and Discord via my profile, where boosts are optional.
+```
+
+**Pinned comment / fallback**
+
+```text
+Which track from Disguise would you like to hear on bass next? The full performance is in the related video.
+```
+
+### Short 1778 - Motionless In White - Another Life
+
+Reviewed 2026-11-01 UK; exact time unavailable. Proposal or retained text; no Studio edit confirmed. Prefer @Infinity-loop421-i2t's genuine comment praising the song and preserve MAVO's reply. The proposed text is a fallback only. Current pin and exact related-video target are not shown.
+
+**Title**
+
+```text
+Another Life from Disguise - Motionless In White bass clip #bass
+```
+
+**Description**
+
+```text
+🎵 Here is a bass moment from Another Life, the Motionless In White song from Disguise. Thanks for sharing a listen with me!
+
+🖤 For more of the performance, tap the related video.
+🟢 Catch live music on Kick or the Twitch mirror; both are on my profile along with Discord. Discord boosts are optional and appreciated.
+```
+
+**Pinned comment / fallback**
+
+```text
+What keeps you coming back to Another Life? You can find the full performance in the related video.
 ```
 
 ### Short 2087 - Burzum - Autumn Leaves
@@ -153,7 +312,7 @@ Does a long loop help you focus, or do you prefer listening to an album from beg
 
 ### 0002 - Motionless In White - Another Life
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0002 - Motionless In White - Another Life (Long Form)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0002 - Motionless In White - Another Life [U - 2026-11-01]/_03 - Copy.md`
 
 **Title**
 
@@ -209,7 +368,7 @@ Do you prefer learning a song in short sections, or playing through it and revis
 
 ### 0004 - Motionless In White - Another Life
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0004 - Motionless In White - Another Life [U - 2026-11-01]/_03 - Copy.md`
 
 **Title**
 
@@ -1015,7 +1174,7 @@ Which heavy band has made your favourite acoustic track?
 
 ### 0033 - Motionless In White - Another Life
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life (Long Form)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0031 - 0040/0033 - Motionless In White - Another Life [U - 2026-11-01]/_03 - Copy.md`
 
 **Title**
 
