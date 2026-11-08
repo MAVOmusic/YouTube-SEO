@@ -76,3 +76,14 @@ and view count. `0007` still carries a double space after the dash.
 
 Channel-order audit records (what was found, what the copy should be) live in
 `Ver 3.0/TXT/Channel_Order_Audit_Log.txt`, keyed `CO-NNNN`.
+
+## Reviewed video folder names
+
+For the current song-by-song review, mark a completed individual video folder
+as `ID - Artist - Song [U - YYYY-MM-DD]`. The date is the review date in the
+Europe/London timezone (including daylight saving time). Record the exact review
+time and timezone in the review file and Songs Done list rather than the folder
+name. `U` means reviewed, not that a change was made in YouTube Studio. Legacy
+`(Long Form)` / `(Short Form)` and earlier `[UPDATED ... UK]` names remain
+recognised by the catalogue checker. Keep snapshots, copy, path references and
+review records together when renaming.

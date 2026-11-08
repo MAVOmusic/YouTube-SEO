@@ -41,6 +41,16 @@ class CatalogueTests(unittest.TestCase):
         self.catalogue.write_text("| 0001 | Artist - Song | Wrong |\n| 0002 | N/A | N/A |\n")
         self.assertTrue(any("title differs" in error for error in self.run_check()))
 
+    def test_short_update_marker_is_checked(self):
+        self.video.rename(self.video.parent / "0001 - Artist - Song [U - 2026-11-08]")
+        self.assertEqual(self.run_check(), [])
+        self.catalogue.write_text("| 0001 | Artist - Song | Wrong |\n| 0002 | N/A | N/A |\n")
+        self.assertTrue(any("title differs" in error for error in self.run_check()))
+
+    def test_duplicate_legacy_and_short_markers_are_rejected(self):
+        (self.video.parent / "0001 - Artist - Song [U - 2026-11-08]").mkdir()
+        self.assertTrue(any("duplicate folder number" in error for error in self.run_check()))
+
     def test_missing_and_duplicate_numbers_are_rejected(self):
         self.catalogue.write_text("| 0001 | Artist - Song | A \\| B |\n| 0001 | Artist - Song | A \\| B |\n")
         errors = self.run_check()

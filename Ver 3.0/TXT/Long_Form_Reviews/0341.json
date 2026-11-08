@@ -19,7 +19,7 @@
     {
       "surface": "title",
       "claim": "Identifies Burzum Autumn Leaves, bass, and Rocksmith performance",
-      "source": "_All Songs/_0001 Long Form/0301 - 0400/0341 - 0350/0341 - Burzum - Autumn Leaves [UPDATED 2026-11-08 20-44 UK]/_01 - Main Info/_01 Description.jpeg",
+      "source": "_All Songs/_0001 Long Form/0301 - 0400/0341 - 0350/0341 - Burzum - Autumn Leaves [U - 2026-11-08]/_01 - Main Info/_01 Description.jpeg",
       "assessment": "Studio details show title/format and runtime, prior 0001 video review identifies loop; screenshot shows bass/Rocksmith for 0341."
     },
     {
@@ -31,7 +31,7 @@
     {
       "surface": "description",
       "claim": "Bass with Rocksmith and shorter performance recorded on Kick stream",
-      "source": "_All Songs/_0001 Long Form/0301 - 0400/0341 - 0350/0341 - Burzum - Autumn Leaves [UPDATED 2026-11-08 20-44 UK]/_01 - Main Info/_01 Description.jpeg",
+      "source": "_All Songs/_0001 Long Form/0301 - 0400/0341 - 0350/0341 - Burzum - Autumn Leaves [U - 2026-11-08]/_01 - Main Info/_01 Description.jpeg",
       "assessment": "0001 prior copy and 1:02:24 runtime; 0341 4:51, bass visual and screenshot description identify Rocksmith 2014 and Kick stream. No claim of identical take."
     },
     {
@@ -43,7 +43,7 @@
     {
       "surface": "tags",
       "claim": "Artist/song/album and relevant instrument, format, names, genres and existing spelling variant",
-      "source": "Band Info/Burzum/Register.md; _All Songs/_0001 Long Form/0301 - 0400/0341 - 0350/0341 - Burzum - Autumn Leaves [UPDATED 2026-11-08 20-44 UK]/_01 - Main Info/_01 Description.jpeg",
+      "source": "Band Info/Burzum/Register.md; _All Songs/_0001 Long Form/0301 - 0400/0341 - 0350/0341 - Burzum - Autumn Leaves [U - 2026-11-08]/_01 - Main Info/_01 Description.jpeg",
       "assessment": "Artist and album associations do not imply original musician appears in cover; spelling variant is observed rather than asserted common."
     },
     {
@@ -59,7 +59,7 @@
       "assessment": "Track sequence listed; comment is an optional proposed creator pin."
     }
   ],
-  "distinct_fact_and_source": "0001 is the actual 1:02:24 loop; 0341 is a shorter 4:51 performance and uses track order in the pin, while Shorts use viewer threads and atmosphere. _All Songs/_0001 Long Form/0301 - 0400/0341 - 0350/0341 - Burzum - Autumn Leaves [UPDATED 2026-11-08 20-44 UK]/_01 - Main Info/_01 Description.jpeg; https://www.recordshopx.com/artist/burzum/ways_of_yore/",
+  "distinct_fact_and_source": "0001 is the actual 1:02:24 loop; 0341 is a shorter 4:51 performance and uses track order in the pin, while Shorts use viewer threads and atmosphere. _All Songs/_0001 Long Form/0301 - 0400/0341 - 0350/0341 - Burzum - Autumn Leaves [U - 2026-11-08]/_01 - Main Info/_01 Description.jpeg; https://www.recordshopx.com/artist/burzum/ways_of_yore/",
   "uniqueness_assessment": "Reviewed 23 five-word collision signals in report; they are ordinary CTA/stream phrasing, not an identical whole description, title or pin. Compared same-song packages, existing baseline and accessible shape registers; artist/song and link terms necessarily recur. 0001 retains its own historical title and comment, not another video's. Corpus is incomplete and program does not certify semantic originality.",
   "uncertainties_and_removed_claims": "Snapshot is historical; exact audio/take and related-video destinations, pin status and current rights/territories unknown. No promised algorithm improvement or assumption of cause; retention affected by context and advertising mix. Preserve genuine viewer threads.",
   "collision_report_sha256": "e6641ff690e1b66bdad35fdaf1990e78042f0ec23f8e36c098d5940de4a48789",
