@@ -38,3 +38,7 @@ Relevant names below are artist associations, not an assertion they play on each
 
 - varg - https://rateyourmusic.com/artist/burzum
 - varg vikernes - https://rateyourmusic.com/artist/burzum
+
+## 2026-11-08 - new song-by-song pass
+
+Artist research: Burzum.md. Autumn Leaves song research and cross-version analysis: Autumn Leaves/Autumn Leaves.md and Autumn Leaves/Analysis.md. Full chronological indexes identify LF 0001/0341 and Shorts 0673/2087; updated analytics for all four requested, none reviewed in this pass yet. Previous LF 0001 copy and old screenshots exist but require reassessment.
