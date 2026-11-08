@@ -46,3 +46,10 @@ Member and contributor tags do not imply recording credits or that the person ap
 - Numb is the final track on Linkin Park's 2003 album Meteora. In this cover I play bass with Rocksmith visible.
 - Sources: https://blabbermouth.net/news/linkin-parks-video-for-numb-surpasses-two-billion-views-on-youtube ; https://en.wikipedia.org/wiki/Linkin_Park
 - People tagged are artist associations, not video guests.
+
+## Runaway - unassigned new pair (2026-11-08)
+
+- The official track list places Runaway between Crawling and By Myself on Hybrid Theory: https://store.linkinpark.com/products/hybrid-theory-20th-anniversary-cd
+- Mike Shinoda described Runaway as evolving from earlier song Stick N Move; this does not claim the demo and finished song are identical: https://linkinpedia.com/wiki/Hybrid_Theory_(20th_Anniversary_Edition)
+- Runaway appears on the 2003 Live in Texas release: https://imusic.com/movies/0093624862826/linkin-park-2003-linkin-park-live-in-texas-dvd
+- LF uses album order and early development; Short uses a distinct live-release fact. Band history and contributor names do not imply appearance in MAVO's video.
