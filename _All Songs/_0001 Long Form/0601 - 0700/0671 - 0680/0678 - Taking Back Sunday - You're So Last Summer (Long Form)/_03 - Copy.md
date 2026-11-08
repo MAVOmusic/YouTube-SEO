@@ -6,14 +6,16 @@
 A bass take on You're So Last Summer | Taking Back Sunday
 ```
 
-## DESCRIPTION (349 characters)
+## DESCRIPTION (601 characters)
 
 ```text
-Taking Back Sunday's You're So Last Summer gets a full bass performance here. The original recording features Adam Lazzara and John Nolan trading vocals.
+Taking Back Sunday's You're So Last Summer comes from Tell All Your Friends. On the original recording, Adam Lazzara and John Nolan share the vocals. I play the song in full on bass here.
 
-Find live bass sessions on Kick: https://kick.com/mavomusic
-There is a Twitch stream mirror too: https://www.twitch.tv/mavomusic
-Swap song picks with us on Discord: https://discord.gg/ESGsGkN4j2
+That back-and-forth is part of what makes this track so memorable to me. Listen along from start to finish and tell me which moment you keep coming back to.
+
+🟢 Drop in for a live bass session on Kick: https://kick.com/mavomusic
+🟣 Say hello in the Twitch mirror: https://www.twitch.tv/mavomusic
+💬 Share your Taking Back Sunday picks on Discord; boosts are welcome but never expected: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (221 characters)
@@ -48,3 +50,5 @@ Artist-level playlist classifications; not every style necessarily describes thi
 - Artist styles: https://www.allmusic.com/artist/taking-back-sunday-mn0000158656
 - User-supplied identity; recording, cut, upload chronology and rights not independently inspected.
 - Check overlay, paid promotion and any rights claims in Studio. Prefer a genuine artist comment if present.
+
+- 2026-11-08: Description revised to restore user-requested warm style; proposed copy, not evidence of a Studio change.

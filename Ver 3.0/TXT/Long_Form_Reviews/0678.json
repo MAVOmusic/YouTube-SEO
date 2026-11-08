@@ -1,9 +1,9 @@
 {
   "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-07T15:24:54.701690+00:00",
+  "reviewed_at": "2026-11-08T00:36:07.427487+00:00",
   "surface_sha256": {
     "title": "4ec11ae4b9c86bb04582867ad395bf6383c02618c9bf568a159f2c15a1a64f5e",
-    "description": "35ada6d60e240c015b8a0cfd5d5f0b12ab1eb56236d4d64585b32f163693dcb9",
+    "description": "b11f84c9ae042b7c69aaa25d688b1fc69b5d738088b0a05dfb831567e15d14f9",
     "tags": "199264edf86657db8857509fbb0abd7c891e62c947ed6945d25a677361c0f20b",
     "pinned comment": "9ce58670609f19a664275a3fa699c4d406d87f80685e05bece3fc0f83cd34c1b",
     "genres": "a1574812ea508ba8196a8f9f9082b04ad4d2a0771f4dfcdfd25fd5f82ac38629"
@@ -51,12 +51,18 @@
       "claim": "Artist-wide playlist categories",
       "source": "https://en.wikipedia.org/wiki/Taking_Back_Sunday",
       "assessment": "Subjective artist-level classification, not a claim every genre describes this particular track."
+    },
+    {
+      "surface": "description",
+      "claim": "You're So Last Summer appears on Tell All Your Friends",
+      "source": "https://www.discogs.com/release/1105468-Taking-Back-Sunday-Tell-All-Your-Friends",
+      "assessment": "Track list identifies the song and album; the original recording is not asserted to be the creator performance."
     }
   ],
   "distinct_fact_and_source": "Adam Lazzara and John Nolan share original vocals; distinct from Short music-video guest. Prior CO-0012 uses album/debut and a different song video. https://www.songfacts.com/facts/taking-back-sunday/youre-so-last-summer",
-  "uniqueness_assessment": "Reviewed cross-video five-word collision signals; they concern stream/link connective language and generic bass phrasing, not duplicated song facts. Song angle, title and question differ from other available packages and paired Short. Unseen live-only content cannot be assessed.",
+  "uniqueness_assessment": "Reviewed cross-video five-word collision signals; they concern stream/link connective language and generic bass phrasing, not duplicated song facts. Song angle, title and question differ from other available packages and paired Short. Unseen live-only content cannot be assessed. 2026-11-08 updated report reviewed: shared album name with other Taking Back Sunday song, generic optional-boost and social language; individualized song angle, prose and CTAs differ. Unseen live material cannot be checked.",
   "uncertainties_and_removed_claims": "Song and new performance supplied by user, not inspected; no claim about tuning, exact arrangement, game, claims or current pins. Indexed absence is not proof of no previous upload.",
-  "collision_report_sha256": "296881697eeff2e4c62676f459549a1d49f12382f8c59b31078a634e4d26539b",
+  "collision_report_sha256": "c85f1e6b8d56404d9f1c500867ee060e1b0c846b5bda3fb8bbf443230a245166",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
 }
