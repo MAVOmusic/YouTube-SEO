@@ -12,7 +12,7 @@ Consult `Register.md`, individual song `_03 - Copy.md`, screenshot evidence, ana
 | LF | 0300 | Avril Lavigne - Hot | N/A |
 | LF | 0657 | Avril Lavigne - How Does It Feel | N/A |
 | Short | 0134 | Avril Lavigne - Losing Grip | N/A |
-| Short | 0243 | Avril Lavigne - Take Me Away | N/A |
+| Short | 0243 | Avril Lavigne - Take Me Away | Rocksmith bass meets Take Me Away by Avril Lavigne #bass (proposal) |
 | Short | 0289 | Avril Lavigne - Hot | N/A |
 | Short | 0412 | Avril Lavigne - Together | N/A |
 | Short | 0609 | Avril Lavigne - He Wasn't | N/A |
@@ -32,10 +32,12 @@ Consult `Register.md`, individual song `_03 - Copy.md`, screenshot evidence, ana
 | Short | 1747 | Avril Lavigne - Don't Tell Me | N/A |
 | Short | 1767 | Avril Lavigne - Together | N/A |
 | Short | 1853 | Avril Lavigne - Losing Grip | N/A |
-| Short | 2008 | Avril Lavigne - Take Me Away | N/A |
+| Short | 2008 | Avril Lavigne - Take Me Away | Revisiting Take Me Away with Avril Lavigne on bass #bass (proposal) |
 | Short | 2046 | Avril Lavigne - Hot | N/A |
 | Short | 2404 | Avril Lavigne - How Does It Feel | N/A |
 
 ## Take Me Away cross-version review - 8 November 2026
 
 User confirmed LF 0262, Shorts 0243 and 2008 and upcoming recording all use the Under My Skin song; this does not establish identical takes or related-video destinations. See Take_Me_Away.md for screenshots, analytics, comments, rights notices, comparison, decisions and locations. 0262 copy proposed, new pair prepared unassigned. Old Shorts need separate copy reviews; preserve viewer discussions.
+
+Individual Short 0243 and 2008 reviews and proposed copy now exist in their respective video folders. Preferred pins are the genuine viewer comments; live pins and links need checking.
