@@ -45,3 +45,8 @@ Read this handover, `Ver 3.0/CONTEXT_BLOCK.txt`, `Ver 3.0/MAVO_PROJECT_LOG.txt` 
 ## Latest update - 8 November, two requested packages
 
 User explicitly requested complete Long Form and Short title, description, genre, tags and pin for both Taking Back Sunday - You're So Last Summer and Brand New - The Quiet Things That No One Ever Knows, overriding one-Short-at-a-time for this request. Revised user-style descriptions for the prepared Taking Back Sunday LF 0678/Short 2425, retained sourced titles, tags and pins, and created the individually researched Brand New LF 0679/Short 2426 packages. IDs are provisional; no Studio action, final publication order, cut, claims or actual related-video status is assumed. Album/song and Brand New writing credits, track-five pin and UK peak-39 Short pin have sources in individual packages and Band Info/Brand New/Register.md. The LF gate checks hashes/records, not factual or Shorts approval. Earlier no-match searches are limited, not proof of absence. Both proposed pairs at 02:00/05:00 Budapest are conditional on preparation; user previously said preparation needs an hour.
+
+
+## Sabaton - The Lion From The North
+
+User says LF 0058 already edited; comparison only, untouched. Historical LF and Shorts 0054, 1553, 1803 snapshots gathered in Sabaton_The_Lion_From_The_North_Comparison_2026-11-08.md. Short 0054 copy proposed in its own folder. Preserve positive viewer comment; current related-video ID, pin and profile links not verified. Review 1553 then 1803 separately; no copy yet. No Studio actions.
