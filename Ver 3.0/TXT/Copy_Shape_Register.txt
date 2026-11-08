@@ -411,3 +411,5 @@ open; common artist names and song names can legitimately recur.
 
 2026-11-08 | 0678/2425 Taking Back Sunday | Revised individual long/short descriptions; long original vocal interplay, short Flavor Flav music-video trivia.
 2026-11-08 | 0679/2426 Brand New | Long co-writer context, album track-order pin; Short separate UK chart fact with related full-video CTA. IDs provisional.
+
+2026-11-08 SHORT 0054 | Sabaton The Lion From The North | Historical theme and bass; optional pin: 2024 Conqueror's Blade orchestral collaboration. Preserve genuine viewer comment; verify related video.

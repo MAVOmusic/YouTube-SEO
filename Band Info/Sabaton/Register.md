@@ -159,3 +159,7 @@ Previously reviewed claims and sources; check sources and current copy before re
 ## Short 0007 - 2026-11-06
 
 - The band credits The Hammer Has Fallen's music to Broden and lyrics to Sundstrom: https://www.sabaton.net/discography/metalizer/the-hammer-has-fallen/ . Different angle from CO-0024's Fist for Fight release and track placement.
+
+## Short 0054 research (2026-11-08)
+
+- Optional pin: Sabaton announced an orchestral version of The Lion From The North for the Sabaton Fortress siege map as part of their 2024 Conqueror's Blade collaboration. This refers to the band, not MAVO's recording. https://www.sabaton.net/news/other/announcing-our-collaboration-with-conquerors-blade/

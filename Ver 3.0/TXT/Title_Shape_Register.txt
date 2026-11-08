@@ -382,3 +382,5 @@ Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every la
 
 2026-11-08 LONG 0679 | Brand New The Quiet Things That No One Ever Knows | Bass spotlight: The Quiet Things That No One Ever Knows by Brand New | provisional ID
 2026-11-08 SHORT 2426 | Brand New The Quiet Things That No One Ever Knows | Brand New bass moment - The Quiet Things That No One Ever Knows #bass | provisional ID
+
+2026-11-08 SHORT 0054 | Sabaton The Lion From The North | Where Swedish history meets bass: Sabaton - The Lion From The North #bass | proposed, Studio not verified

@@ -65,7 +65,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0051 | +44 - Chapter XIII | N/A |
 | 0052 | +44 - Little Death | N/A |
 | 0053 | +44 - Make You Smile | N/A |
-| 0054 | Sabaton - The Lion From The North | N/A |
+| 0054 | Sabaton - The Lion From The North | Where Swedish history meets bass: Sabaton - The Lion From The North #bass |
 | 0055 | +44 - Weatherman | N/A |
 | 0056 | +44 - When Your Heart Stops Beating | N/A |
 | 0057 | Muse - Hysteria | N/A |
