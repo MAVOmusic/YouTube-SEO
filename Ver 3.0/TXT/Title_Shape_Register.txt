@@ -379,3 +379,6 @@ Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every la
 2026-11-07 LONG 0678 | Taking Back Sunday You're So Last Summer | A bass take on You're So Last Summer | Taking Back Sunday
 
 2026-11-07 SHORT 2425 | Taking Back Sunday You're So Last Summer | Taking Back Sunday through the bass: You're So Last Summer #bass
+
+2026-11-08 LONG 0679 | Brand New The Quiet Things That No One Ever Knows | Bass spotlight: The Quiet Things That No One Ever Knows by Brand New | provisional ID
+2026-11-08 SHORT 2426 | Brand New The Quiet Things That No One Ever Knows | Brand New bass moment - The Quiet Things That No One Ever Knows #bass | provisional ID

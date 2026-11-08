@@ -1,0 +1,68 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-08T00:36:07.428196+00:00",
+  "surface_sha256": {
+    "title": "67a356b43c270c40de5940b7d9876f2bd63cc92cfa21e93e7fd06287f68e9503",
+    "description": "4efffebceab86667e2f1aa02843d55027e5408ac17bbe02065789005f6d88b4a",
+    "tags": "c626874d3f47512658c376d1902af16500235a529c988f98d8157113e8de792c",
+    "pinned comment": "6db78c69e8243bff59145b858881bcdfc752bf5fb118117e357c4c93676141d9",
+    "genres": "a6b1416061c61162d691241673772c3da8e510b94aa24b32a8c1233ac827cd25"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Brand New song title and creator bass performance",
+      "source": "Ver 3.0/TXT/New_Recordings_01_November_Batch_2.md; user bass-overlay instruction",
+      "assessment": "User-provided song identity and bass performance; actual new media and exact upload not independently inspected."
+    },
+    {
+      "surface": "description",
+      "claim": "Song appears on Deja Entendu and was written by Jesse Lacey and Vincent Accardi",
+      "source": "https://www.shazam.com/en-us/song/1440929115/the-quiet-things-that-no-one-ever-knows",
+      "assessment": "Source identifies album and credits; writing credits are not claims those artists play in the creator video."
+    },
+    {
+      "surface": "description",
+      "claim": "Creator full bass performance and invitation to compare album songs",
+      "source": "User-supplied recording identity and instructions; https://www.allmusic.com/artist/brand-new-mn0000517607",
+      "assessment": "Full track performance is the requested format; recording and exact cut require uploader verification; musical contrast is general listening description."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and optional Discord boost invitation",
+      "source": "Ver 3.0/TXT/Copy_Style_Continuity_2026-11-07.md and user confirmed Discord invitation",
+      "assessment": "Existing creator links and mirror instruction, no claim of broadcast timing or boost benefit."
+    },
+    {
+      "surface": "tags",
+      "claim": "Artist, song and bassist/member name associations",
+      "source": "https://www.allmusic.com/artist/brand-new-mn0000517607",
+      "assessment": "Artist and members named by source; tags do not claim the band plays in creator video."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "The Quiet Things That No One Ever Knows is fifth on Deja Entendu",
+      "source": "https://roundhillmusicco.com/products/brand-new-deja-entendu",
+      "assessment": "Track list shows position five; question is open-ended."
+    },
+    {
+      "surface": "genres",
+      "claim": "Artist-wide alternative rock, emo, indie rock, post-hardcore and early pop punk",
+      "source": "https://en.wikipedia.org/wiki/Brand_New_(band)",
+      "assessment": "Subjective artist-wide categories; not every category necessarily applies to this song."
+    }
+  ],
+  "distinct_fact_and_source": "Original co-writer credit plus fifth album track (LF) versus UK chart peak (paired Short). https://www.shazam.com/en-us/song/1440929115/the-quiet-things-that-no-one-ever-knows ; https://roundhillmusicco.com/products/brand-new-deja-entendu ; https://www.officialcharts.com/songs/brand-new-the-quiet-things-that-no-one-ever-knows/",
+  "uniqueness_assessment": "Inspected five-word collision report: matches are generic Discord thank-you and stream request language. Distinct artist/song and track/credit angles; available title register checked; Short title has different syntax. Accessible corpus is incomplete; unseen live-only copy cannot be certified unique.",
+  "uncertainties_and_removed_claims": "New media and exact cut, Studio current pin, claims, published status, final ID and related-video selection unverified. Music-video director omitted because sources conflict. No unsupported equipment or game detail.",
+  "collision_report_sha256": "c14070a76c2289c6a21c2688198b0e297bc2ed09f76760985f0d1366d849a023",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

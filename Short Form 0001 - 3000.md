@@ -2557,7 +2557,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2423 | Jimmy Eat World - Sweetness [reserved] | Sweetness in a bass snapshot - Jimmy Eat World #bass |
 | 2424 | Alkaline Trio - Private Eye [reserved] | Alkaline Trio bass focus: Private Eye #bass |
 | 2425 | Taking Back Sunday - You're So Last Summer [reserved] | Taking Back Sunday through the bass: You're So Last Summer #bass |
-| 2426 | Brand New - The Quiet Things That No One Ever Knows [reserved] | N/A |
+| 2426 | Brand New - The Quiet Things That No One Ever Knows [reserved] | Brand New bass moment - The Quiet Things That No One Ever Knows #bass |
 | 2427 | Yellowcard - Ocean Avenue [reserved] | N/A |
 | 2428 | Finch - Letters To You [reserved] | N/A |
 | 2429 | Jimmy Eat World - Futures [reserved] | N/A |

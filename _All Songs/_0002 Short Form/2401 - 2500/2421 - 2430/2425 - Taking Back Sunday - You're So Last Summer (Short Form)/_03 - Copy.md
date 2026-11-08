@@ -6,12 +6,16 @@
 Taking Back Sunday through the bass: You're So Last Summer #bass
 ```
 
-## DESCRIPTION (160 characters)
+## DESCRIPTION (310 characters)
 
 ```text
-A slice of You're So Last Summer by Taking Back Sunday, played on bass.
+A moment from my bass performance of Taking Back Sunday's You're So Last Summer.
 
-Join the bass streams on Kick or the Twitch mirror, then compare favourites on Discord.
+Want to hear the whole track? Open the related video beneath my handle for the full performance.
+
+🟢 Find my live bass sessions on Kick, with Twitch as the mirror. 💬 Bring your song picks to Discord.
+
+#TakingBackSunday #BassCover
 ```
 
 ## TAGS (221 characters)
@@ -49,3 +53,5 @@ Artist-level playlist classifications; not every style necessarily describes thi
 - Attach Long 0678 as the related video when eligible.
 
 - Music video: https://www.apeshit.org/news/taking-back-sunday-and-flavor-flav-team-up-for-video-shoot/
+
+- 2026-11-08: Description revised to restore user-requested warm style; proposed copy, not evidence of a Studio change.
