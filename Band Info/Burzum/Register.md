@@ -42,3 +42,7 @@ Relevant names below are artist associations, not an assertion they play on each
 ## 2026-11-08 - new song-by-song pass
 
 Artist research: Burzum.md. Autumn Leaves song research and cross-version analysis: Autumn Leaves/Autumn Leaves.md and Autumn Leaves/Analysis.md. Full chronological indexes identify LF 0001/0341 and Shorts 0673/2087; updated analytics for all four requested, none reviewed in this pass yet. Previous LF 0001 copy and old screenshots exist but require reassessment.
+
+## Autumn Leaves - refreshed review 2026-11-08
+
+All four dated screenshots reviewed and four individual packages produced; paths, numerical evidence, cross-version decisions and cautions in Autumn Leaves/Analysis.md. 0001 previous title/tags/creator comment retained, warm description proposed; 0341 full separate performance, Shorts 0673/2087 contain genuine viewer threads to preserve. No live Studio changes by agent.

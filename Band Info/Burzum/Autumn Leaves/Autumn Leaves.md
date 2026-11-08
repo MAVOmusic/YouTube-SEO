@@ -13,3 +13,9 @@ Ask listeners about their favourite ambient Burzum album track, whether they enj
 ## Source and analysis
 
 Artist research: ../Burzum.md and ../Register.md. Exact indexed videos and current review status: Analysis.md.
+
+## Album context and factual angles checked
+
+- Record Shop X lists Autumn Leaves as track 11 after Hall of the Fallen and before Emptiness in the 2014 album track list: https://www.recordshopx.com/artist/burzum/ways_of_yore/ . The 2014 vinyl's side C similarly places Autumn Leaves before Emptiness: https://www.discogs.com/sell/release/7385135 . Editions may differ.
+- Rate Your Music classifies The Ways of Yore as Ambient and Dungeon Synth and lists Autumn Leaves as 4:50; this is the original album listing, not necessarily the duration or instrumentation of MAVO's recording: https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/ .
+- The snapshot shows separate LF 0001 1:02:24 loop and LF 0341 4:51 performance, Shorts 0673 0:33 and 2087 0:36. Compare in Analysis.md; same title does not prove same take or linked targets.

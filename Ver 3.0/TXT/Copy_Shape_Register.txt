@@ -433,3 +433,5 @@ open; common artist names and song names can legitimately recur.
 2026-11-08 | Avril Lavigne Take Me Away | LF 0262 album opener / Together follows; new LF lyrics and music credits with producer pin; new Short UK album #1. Old Shorts separate review pending, preserve viewer threads.
 
 2026-11-08 | Avril Take Me Away Shorts 0243/2008 | Individual analytics and copy. 0243 Rocksmith learning question, 2008 album memories; genuine viewer pins preferred, fallback comments only. 0243 displayed tags possibly unsaved.
+
+2026-11-08 | Burzum Autumn Leaves | 0001 long loop and existing question; 0341 shorter single performance and album track sequence; 0673 atmosphere/listener conversations; 2087 Rocksmith community and album year. Existing genuine threads preferred for pin; creator fallback only. No Studio edits.
