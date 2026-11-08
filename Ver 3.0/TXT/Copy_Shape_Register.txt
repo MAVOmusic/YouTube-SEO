@@ -429,3 +429,5 @@ open; common artist names and song names can legitimately recur.
 2026-11-08 SHORT unassigned | Linkin Park - Runaway  | Short: 2003 Live in Texas appearance, separate from LF album order and demo origin. | proposed
 
 2026-11-08 LONG 0101 | -M- Laisse Aller | 2012 Il track; separate Presqu'il demo pin. Indexed same-song Shorts 0125/1847 pending independent review.
+
+2026-11-08 | Avril Lavigne Take Me Away | LF 0262 album opener / Together follows; new LF lyrics and music credits with producer pin; new Short UK album #1. Old Shorts separate review pending, preserve viewer threads.
