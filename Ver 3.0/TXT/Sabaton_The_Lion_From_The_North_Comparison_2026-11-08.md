@@ -37,3 +37,9 @@ These videos have different ages, lengths, traffic mixes and potentially differe
 - User confirmed 0054 already has the full version connected and intends to replace the link with the new Long Form after its premiere. No Studio action independently verified. User confirmation was in response to 0054, so check the 1553/1803 targets individually.
 - 1553 and 1803 individually reviewed and proposed with distinct sourced trivia, their own emoji-led descriptions and relevant tags. 1553 genuine viewer comment and reply should be preserved. For 1803, current pin/artist comments are unknown. No actual Studio actions.
 - New planned pair uses the 5 October recording, but the actual new Long Form and Short footage has not been supplied or visually inspected. Request screenshots showing MAVO playing bass with overlay in each format before release; do not assume the exact clip, runtime or visual from old versions. New IDs and upload status unconfirmed.
+
+## 8 November correction and new pair
+
+User reports pinning the existing comments on Shorts 0054 and 1553 instead of adding the proposed comments. Preserve those pins. User also correctly notes that screenshots were not previously required to create new-recording copy. The prior note requesting new-format screenshots was an agent-introduced extra requirement and is withdrawn. The user has established that their videos show bass with an overlay; avoid claiming uninspected cut details and record the media limitation.
+
+Prepared new Long Form and Short copy in Sabaton_Lion_2026-11-08_Unassigned/. ID assignment and numbered Long Form gate remain pending actual chronology: 0680/2427 are already reserved for Yellowcard, so do not overwrite them. Proposed 13:30 Budapest / 12:30 UK remains a test slot, not verified Studio scheduling. User intends to relink old Shorts to the new LF after premiere; no Studio changes by agent.

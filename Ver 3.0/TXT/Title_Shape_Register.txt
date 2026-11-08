@@ -388,3 +388,6 @@ Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every la
 2026-11-08 SHORT 1553 | Sabaton The Lion From The North | A march through bass: Sabaton - The Lion From The North #shorts | proposed, Studio not verified
 
 2026-11-08 SHORT 1803 | Sabaton The Lion From The North | Sabaton on bass: The Lion From The North in 36 seconds #bass | proposed, Studio not verified
+
+2026-11-08 LONG unassigned | Sabaton The Lion From The North | A bass performance for the Lion From The North | Sabaton | proposed, chronology unconfirmed
+2026-11-08 SHORT unassigned | Sabaton The Lion From The North | The Lion From The North gets a bass spotlight | Sabaton #bass | proposed, chronology unconfirmed

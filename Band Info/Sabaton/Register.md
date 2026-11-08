@@ -169,3 +169,9 @@ Previously reviewed claims and sources; check sources and current copy before re
 - 1553 optional pin: the band listed The Lion From The North among the songs in its Europa Universalis IV soundtrack collaboration: https://www.sabaton.net/news/other/europa-universalis-iv-sabaton-soundtrack/
 - 1803 optional pin: the band's site presents an official music video for The Lion From The North from The Great Tour: https://www.sabaton.net/video/the-lion-from-the-north-from-the-great-tour/
 - Distinct from 0054's 2024 orchestral game collaboration and LF 0058's Swedish king/album order angle. These concern the band, not the creator's recordings.
+
+## New Sabaton pair research (2026-11-08; IDs unassigned)
+
+- LF: Sabaton says a Swedish pre-production chorus helped lead to recording Carolus Rex in two languages; Peter Tagtgren produced the 2012 album. https://www.sabaton.net/discography/carolus-rex/
+- Short: the band credits music to Broden and lyrics to Broden and Sundstrom for the song. https://www.sabaton.net/discography/carolus-rex/the-lion-from-the-north-english-version/
+- Distinct from LF 0058 historical king / album order, 0054 orchestral game collaboration, 1553 Europa Universalis IV soundtrack, and 1803 Great Tour video.

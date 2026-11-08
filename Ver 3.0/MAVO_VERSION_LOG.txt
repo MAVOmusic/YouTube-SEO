@@ -309,3 +309,5 @@ These replacements remove the four inaccessible-interview origin claims; they do
 2026-11-08 - Added Sabaton LF/Short historical comparison and Short 0054 proposed copy, source, genres, catalogue and shape registers. LF untouched; 1553/1803 copy pending one-at-a-time review. Current Studio state unverified.
 
 2026-11-08 - Replaced proposed 0054 description, documented user-confirmed full link/future switch, added 1553/1803 proposals, evidence and registers. New pair awaits new-footage visual gate, IDs provisional. No Studio changes.
+
+2026-11-08 - Added unassigned Sabaton new-pair copy with independent historical/writing angles; pinned-comment reports and visual-workflow correction documented. Chronological reservations 0680/2427 preserved. Numbered LF gate pending final ID; no Studio actions.
