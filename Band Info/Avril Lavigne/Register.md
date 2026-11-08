@@ -38,3 +38,8 @@ Previously reviewed claims and sources; check sources and current copy before re
 ## 0101-0110 incoming cross-version index (8 November 2026)
 
 - LF 0107 Losing Grip: indexed Short matches 0134, 1853. Screening only; screenshots, old copy, song/video identity, performance differences, metadata decisions and any propagation to other versions await individual review. See Video_Map.md for the complete accessible artist index.
+
+## Take Me Away cross-version record (8 November 2026)
+
+- User confirmed LF 0262, Shorts 0243/2008 and upcoming version all use the 2004 Under My Skin song, not the separate same-named song. Distinct recordings/cuts and current destinations not established. Complete cross-version metrics, dated screenshots, comments, rights notices, mapping and decisions: Take_Me_Away.md; artist-wide catalogue map: Video_Map.md.
+- LF 0262 reviewed with proposed searchable title, warm description, album sequence pin, tags and consistent artist genres. New pair proposed separately using original lyric/music credits and UK album-chart fact. Old Shorts 0243 and 2008 await separate copy reviews; keep genuine viewer threads and check current pins/links. No old Studio edit or new publication.

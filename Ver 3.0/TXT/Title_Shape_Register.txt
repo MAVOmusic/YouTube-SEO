@@ -401,3 +401,7 @@ Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every la
 2026-11-08 SHORT unassigned | Linkin Park - Runaway  | A Runaway bass moment with Linkin Park #bass | proposed
 
 2026-11-08 LONG 0101 | -M- Laisse Aller | A bass take on Laisse Aller by -M- (Matthieu Chedid)
+
+2026-11-08 LONG 0262 | Avril Lavigne Take Me Away | Take Me Away opens Under My Skin | Avril Lavigne on bass
+2026-11-08 LONG unassigned | Avril Lavigne Take Me Away | A bass journey through Take Me Away | Avril Lavigne
+2026-11-08 SHORT unassigned | Avril Lavigne Take Me Away | A Take Me Away bass moment with Avril Lavigne #bass

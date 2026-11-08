@@ -1,0 +1,62 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-08T19:16:12.660339+00:00",
+  "surface_sha256": {
+    "title": "160f83f451d73f634e8c5d995ada3aef085b85000189543c14283336d3e592bc",
+    "description": "475797e0ee2cde63346d09d46442ae3f264607c3ba8fd8ed94f9ad9854a2e308",
+    "tags": "b90eb402a9a7c8e14f0ef3764a9058880ae42ec5d302f33f74f420e2190c36c3",
+    "pinned comment": "eedaef122130422f0a5f4898efde1dee7ac19c5084d5631478ed64c0b2229e92",
+    "genres": "4e893b0f8480f5b3657283be10ec34127b0c08dd770827dcb0a556e26cfc4f7d"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Take Me Away is the first track on Under My Skin and played here on bass",
+      "source": "https://www.discogs.com/release/6620320-Avril-Lavigne-Under-My-Skin; _All Songs/_0001 Long Form/0201 - 0300/0261 - 0270/0262 - Avril Lavigne - Take Me Away (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Album track list and screenshot; user confirmed the relevant Under My Skin song."
+    },
+    {
+      "surface": "description",
+      "claim": "Album was released in 2004, Rocksmith 2014 shown with bass performance",
+      "source": "https://www.discogs.com/release/6620320-Avril-Lavigne-Under-My-Skin; _All Songs/_0001 Long Form/0201 - 0300/0261 - 0270/0262 - Avril Lavigne - Take Me Away (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Source dates album; screenshot shows game display and user playing bass, description identifies Rocksmith 2014."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror, optional Discord boost",
+      "source": "Ver 3.0/TXT/Copy_Style_Continuity_2026-11-07.md; https://discord.gg/ESGsGkN4j2",
+      "assessment": "Uses established creator links and optional boost direction without guaranteed benefits."
+    },
+    {
+      "surface": "tags",
+      "claim": "Artist, song, album, relevant name, actual video game and genre associations",
+      "source": "Band Info/Avril Lavigne/Register.md; https://www.discogs.com/release/6620320-Avril-Lavigne-Under-My-Skin",
+      "assessment": "Artist and song spelling, source-backed name Evan Taubenfeld and producer Don Gilmore; associations do not imply they play on creator video. Rocksmith supported by image and old description."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "The album track Take Me Away precedes Together",
+      "source": "https://www.discogs.com/release/6620320-Avril-Lavigne-Under-My-Skin",
+      "assessment": "Track list is explicit; two-song preference question has no unsupported premise."
+    },
+    {
+      "surface": "genres",
+      "claim": "Artist-wide pop punk, alternative rock, pop rock and pop",
+      "source": "Band Info/Avril Lavigne/Register.md",
+      "assessment": "Artist-wide catalogue classifications, not claims about every song."
+    }
+  ],
+  "distinct_fact_and_source": "0262 emphasizes album opener and next track; new LF uses lyric/music credit and producer; new Short uses UK album chart: https://www.discogs.com/release/6620320-Avril-Lavigne-Under-My-Skin ; https://www.officialcharts.com/albums/avril-lavigne-under-my-skin/. 0022 is a different song, Together, whose own album position was previously noted.",
+  "uniqueness_assessment": "Reviewed all 27 five-word collision signals against accessible LF corpus. Shared generic bass/Rocksmith, listener question and community CTAs; factual angle tied to opener and immediate album sequence. Available title/shape registers and Avril song map consulted, but inaccessible live-only copy cannot be certified unique.",
+  "uncertainties_and_removed_claims": "Current Studio status, existing pin and territory restrictions are unknown; 0243 and 2008 related target titles truncated. User confirmed song identity but not identical recording or exact new cut. Do not treat ineligible dash as zero revenue.",
+  "collision_report_sha256": "294c406a1ed8eb1306c8460f12ad0877c8d9f85af2960ef763986dca78c247ae",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}
