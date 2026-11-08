@@ -419,3 +419,11 @@ open; common artist names and song names can legitimately recur.
 2026-11-08 SHORT 1803 | Sabaton The Lion From The North | Distinct optional pin: https://www.sabaton.net/video/the-lion-from-the-north-from-the-great-tour/; verify related video, preserve real engagement.
 
 2026-11-08 unassigned Sabaton new pair | LF: story of the Swedish pre-production chorus leading to bilingual album, Peter Tagtgren producer pin. Short: separate Joakim Broden music / Broden and Par Sundstrom lyrics credits pin. Sources and limitations in individual unassigned files.
+
+2026-11-08 LONG unassigned | Yellowcard - Ocean Avenue | LF: Ben Harper describes the remembered scene; pin references 2013 acoustic album, rather than Short UK chart history. | proposed
+
+2026-11-08 SHORT unassigned | Yellowcard - Ocean Avenue  | Short: UK Official Singles Chart peak, distinct from LF nostalgia and acoustic album. | proposed
+
+2026-11-08 LONG unassigned | Linkin Park - Runaway | LF: album neighbours and early Stick N Move origin attributed to Mike Shinoda; separate from Short live album fact. | proposed
+
+2026-11-08 SHORT unassigned | Linkin Park - Runaway  | Short: 2003 Live in Texas appearance, separate from LF album order and demo origin. | proposed

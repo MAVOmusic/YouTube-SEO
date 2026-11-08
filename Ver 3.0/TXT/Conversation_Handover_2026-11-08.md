@@ -60,3 +60,7 @@ User corrected plain Short descriptions again; 0054 rewritten with warm emoji-le
 ## Sabaton correction - new pair
 
 User says existing comments were pinned on 0054 and 1553. Preserve pins. User correctly challenged agent introducing mandatory screenshots for new recordings; requirement withdrawn. User established bass with overlay for all videos; do not invent specific unseen cut details. New Sabaton pair prepared in Sabaton_Lion_2026-11-08_Unassigned/. IDs unassigned because 0680/2427 reserved for Yellowcard; verify actual chronology, assign and run numbered LF release gate later. User plans to replace old Short links with new LF after premiere. No Studio changes independently verified.
+
+## 8 November schedule progress
+
+2026-11-08 - User reports 7 Nov Sweetness and Private Eye, and 8 Nov Taking Back Sunday both formats uploaded for 02:00, Brand New both scheduled for 05:00, Sabaton both scheduled for 13:30. Budapest is assumed from plan, not newly confirmed; uploaded versus scheduled is as reported, actual public state and video IDs not independently verified. User requests Yellowcard Ocean Avenue 16:00 and Linkin Park Runaway 19:00 both formats; complete sourced copy saved in TXT/New_Pairs_2026-11-08_Unassigned/. Hold Avril Take Me Away 23:00 for promised LF 0262 and Shorts 0243/2008 analytics. No Studio actions. IDs unassigned because current chronology is unconfirmed and existing IDs 0680/2427 and 0681/2428 are old reservations, not proof of upload; numbered LF release-gate check pending actual IDs.

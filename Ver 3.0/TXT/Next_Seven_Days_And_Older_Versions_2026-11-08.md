@@ -206,3 +206,7 @@ The confirmed Windows Short root is `E:\_YT\YT Revive\_VER\Ver 3.00\_All Songs\_
 ## Reminder
 
 Copying a recording into a date folder is preparation, not publication or Studio scheduling. Prior reservations such as 0678/2425 remain provisional; existing releases or skipped formats can shift every number. Private Eye was reported uploaded for 23:00 on 7 Nov, assumed Budapest, but live status not independently verified. The full later plan is in `November_2026_Audience_Test_Upload_Plan.md`. New descriptions and titles remain proposals unless the user confirms Studio changes.
+
+## User-reported progress, 8 November
+
+2026-11-08 - User reports 7 Nov Sweetness and Private Eye, and 8 Nov Taking Back Sunday both formats uploaded for 02:00, Brand New both scheduled for 05:00, Sabaton both scheduled for 13:30. Budapest is assumed from plan, not newly confirmed; uploaded versus scheduled is as reported, actual public state and video IDs not independently verified. User requests Yellowcard Ocean Avenue 16:00 and Linkin Park Runaway 19:00 both formats; complete sourced copy saved in TXT/New_Pairs_2026-11-08_Unassigned/. Hold Avril Take Me Away 23:00 for promised LF 0262 and Shorts 0243/2008 analytics. No Studio actions. IDs unassigned because current chronology is unconfirmed and existing IDs 0680/2427 and 0681/2428 are old reservations, not proof of upload; numbered LF release-gate check pending actual IDs.
