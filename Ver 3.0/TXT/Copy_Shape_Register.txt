@@ -413,3 +413,7 @@ open; common artist names and song names can legitimately recur.
 2026-11-08 | 0679/2426 Brand New | Long co-writer context, album track-order pin; Short separate UK chart fact with related full-video CTA. IDs provisional.
 
 2026-11-08 SHORT 0054 | Sabaton The Lion From The North | Historical theme and bass; optional pin: 2024 Conqueror's Blade orchestral collaboration. Preserve genuine viewer comment; verify related video.
+
+2026-11-08 SHORT 1553 | Sabaton The Lion From The North | Distinct optional pin: https://www.sabaton.net/news/other/europa-universalis-iv-sabaton-soundtrack/; verify related video, preserve real engagement.
+
+2026-11-08 SHORT 1803 | Sabaton The Lion From The North | Distinct optional pin: https://www.sabaton.net/video/the-lion-from-the-north-from-the-great-tour/; verify related video, preserve real engagement.
