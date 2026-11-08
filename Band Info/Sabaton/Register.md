@@ -175,3 +175,9 @@ Previously reviewed claims and sources; check sources and current copy before re
 - LF: Sabaton says a Swedish pre-production chorus helped lead to recording Carolus Rex in two languages; Peter Tagtgren produced the 2012 album. https://www.sabaton.net/discography/carolus-rex/
 - Short: the band credits music to Broden and lyrics to Broden and Sundstrom for the song. https://www.sabaton.net/discography/carolus-rex/the-lion-from-the-north-english-version/
 - Distinct from LF 0058 historical king / album order, 0054 orchestral game collaboration, 1553 Europa Universalis IV soundtrack, and 1803 Great Tour video.
+
+## 0101-0110 incoming cross-version index (8 November 2026)
+
+- LF 0102 Metal Machine: indexed Short matches 0127, 1848; 0394 candidate live medley. Screening only; screenshots, old copy, song/video identity, performance differences, metadata decisions and any propagation to other versions await individual review. See Video_Map.md for the complete accessible artist index.
+- LF 0105 White Death: indexed Short matches 0132, 1851. Screening only; screenshots, old copy, song/video identity, performance differences, metadata decisions and any propagation to other versions await individual review. See Video_Map.md for the complete accessible artist index.
+- LF 0110 Nuclear Attack: indexed Short matches 0137, 1856. Screening only; screenshots, old copy, song/video identity, performance differences, metadata decisions and any propagation to other versions await individual review. See Video_Map.md for the complete accessible artist index.

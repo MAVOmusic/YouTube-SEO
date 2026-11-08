@@ -34,3 +34,7 @@ Previously reviewed claims and sources; check sources and current copy before re
 - Losing Grip appears on Let Go (2002); Avril Lavigne and Clif Magness are credited as writers.
 - Source: https://secondhandsongs.com/performance/776664/all
 - Verify the actual upload and recheck the source before use. Not release-approved copy.
+
+## 0101-0110 incoming cross-version index (8 November 2026)
+
+- LF 0107 Losing Grip: indexed Short matches 0134, 1853. Screening only; screenshots, old copy, song/video identity, performance differences, metadata decisions and any propagation to other versions await individual review. See Video_Map.md for the complete accessible artist index.

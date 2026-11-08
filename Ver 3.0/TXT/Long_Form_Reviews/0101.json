@@ -1,0 +1,68 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-08T13:34:06.282471+00:00",
+  "surface_sha256": {
+    "title": "7142470da589e7a321c0285de10c98d9aec9232d4e89996fe0e5c315fb89a895",
+    "description": "016c2ab7698fd0eff9184cc8f76b47b207a8c828d23c2c02e93ac847a87ffc6c",
+    "tags": "88553a15512d22cdf414e9604bd8b0d4dc9a47433d8ff00425138f270e4a9dea",
+    "pinned comment": "91ddbea5f49fa3754843837a313aff494c59ae8c60c66fcc3abb1f17df468c7c",
+    "genres": "f38da06058e14aee292be25d28c20af345bb789743da6379652129410e59fe9e"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Artist and song identity with bass performance",
+      "source": "_All Songs/_0001 Long Form/0101 - 0200/0101 - 0110/0101 - -M- (Matthieu Chedid) - Laisse Aller (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Screenshot identifies artist and song and shows creator playing bass; artist alias cross-checked against https://www.fnac.com/a4905177/M-Il-CD-album."
+    },
+    {
+      "surface": "description",
+      "claim": "Song appears on Il, released 2012",
+      "source": "https://www.cheriefm.fr/artistes/matthieu-chedid-m/albums/il ; https://musique.evous.fr/vos-artistes-favoris/matthieu-chedid/matthieu-chedid-il-l-album-de-m.html",
+      "assessment": "Two pages identify the track and 2012 album; no inference that this cover is the demo."
+    },
+    {
+      "surface": "description",
+      "claim": "Bass with Rocksmith 2014 display",
+      "source": "_All Songs/_0001 Long Form/0101 - 0200/0101 - 0110/0101 - -M- (Matthieu Chedid) - Laisse Aller (Long Form)/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Screenshot shows bass and game overlay; prior description identifies Rocksmith 2014 Remastered."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror and optional Discord boost",
+      "source": "Ver 3.0/TXT/Copy_Style_Continuity_2026-11-07.md ; user-confirmed https://discord.gg/ESGsGkN4j2",
+      "assessment": "Creator links and user instructions, optional boost without promises."
+    },
+    {
+      "surface": "tags",
+      "claim": "Alias, album, song, bass, game and genre terms",
+      "source": "Band Info/Matthieu Chedid/Register.md ; https://www.cheriefm.fr/artistes/matthieu-chedid-m/albums/il",
+      "assessment": "Indexed artist aliases and song; generic tag m is ambiguous but contextually supported and is not evidence of search volume."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Presqu'il includes a Laisse Aller demo",
+      "source": "https://labo-m.net/timeline/point/presquil-les-demos-de-lalbum-il/",
+      "assessment": "Track list explicitly labels the demo; does not imply this video plays it or establish the current pin."
+    },
+    {
+      "surface": "genres",
+      "claim": "Artist-wide chanson, rock and funk",
+      "source": "Band Info/Matthieu Chedid/Register.md",
+      "assessment": "Source-backed artist-wide genres, not a claim about each song."
+    }
+  ],
+  "distinct_fact_and_source": "Album Il and a separately identified Presqu'il demo, not 0099 single editions or 0100 lyricist. https://labo-m.net/timeline/point/presquil-les-demos-de-lalbum-il/",
+  "uniqueness_assessment": "Reviewed 27 five-word collision signals. They are common bass/Rocksmith wording and community CTAs; compared accessible 0099 and 0100, and indexed same-song Shorts 0125/1847 with N/A recorded copy. Their live-only copy and recordings cannot be checked from catalogue alone. No claim of global uniqueness.",
+  "uncertainties_and_removed_claims": "Studio screenshot historical; current monetization, pins, rights, Shorts analytics, pairing, live copy and exact source version not established. Avoid claiming the demo was used.",
+  "collision_report_sha256": "44fc24b6220adafc92393704ce1019f49ed26ba90576ce4c377cd0cd650ef809",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

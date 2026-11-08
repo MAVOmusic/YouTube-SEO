@@ -427,3 +427,5 @@ open; common artist names and song names can legitimately recur.
 2026-11-08 LONG unassigned | Linkin Park - Runaway | LF: album neighbours and early Stick N Move origin attributed to Mike Shinoda; separate from Short live album fact. | proposed
 
 2026-11-08 SHORT unassigned | Linkin Park - Runaway  | Short: 2003 Live in Texas appearance, separate from LF album order and demo origin. | proposed
+
+2026-11-08 LONG 0101 | -M- Laisse Aller | 2012 Il track; separate Presqu'il demo pin. Indexed same-song Shorts 0125/1847 pending independent review.
