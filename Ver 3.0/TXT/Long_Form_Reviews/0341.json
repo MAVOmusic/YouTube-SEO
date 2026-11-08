@@ -1,0 +1,68 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-08 20:45 GMT",
+  "surface_sha256": {
+    "title": "baaaf45762169272180e04fe641dd8d270fd6cbfca91e2eedc7f926cd8cb40e9",
+    "description": "5a809c19070880c59c4a0e04fc845bfe241aa6246bc447e907c819f3822dfb99",
+    "tags": "52712218ace2256c942cb9f636035110e7582fa9914c26a9ce180cfc02d28f84",
+    "pinned comment": "2933bf54674de5a6a726dacfc6e875c188d576ba8826e260c45e18f527c24e4b",
+    "genres": "9a9f3faf7ac89f75f77220c9203dfcc4d1cdf98b31edd8903eea6c096c58651e"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Identifies Burzum Autumn Leaves, bass, and Rocksmith performance",
+      "source": "_All Songs/_0001 Long Form/0301 - 0400/0341 - 0350/0341 - Burzum - Autumn Leaves [UPDATED 2026-11-08 20-44 UK]/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Studio details show title/format and runtime, prior 0001 video review identifies loop; screenshot shows bass/Rocksmith for 0341."
+    },
+    {
+      "surface": "description",
+      "claim": "The Ways of Yore is a 2014 album containing Autumn Leaves",
+      "source": "https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb; https://www.recordshopx.com/artist/burzum/ways_of_yore/",
+      "assessment": "Track list and year support album context, not proof of exact audio from screenshots."
+    },
+    {
+      "surface": "description",
+      "claim": "Bass with Rocksmith and shorter performance recorded on Kick stream",
+      "source": "_All Songs/_0001 Long Form/0301 - 0400/0341 - 0350/0341 - Burzum - Autumn Leaves [UPDATED 2026-11-08 20-44 UK]/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "0001 prior copy and 1:02:24 runtime; 0341 4:51, bass visual and screenshot description identify Rocksmith 2014 and Kick stream. No claim of identical take."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick, Twitch mirror, Discord optional boost",
+      "source": "Ver 3.0/TXT/Copy_Style_Continuity_2026-11-07.md",
+      "assessment": "Established user-specified links and ordering, without a promise."
+    },
+    {
+      "surface": "tags",
+      "claim": "Artist/song/album and relevant instrument, format, names, genres and existing spelling variant",
+      "source": "Band Info/Burzum/Register.md; _All Songs/_0001 Long Form/0301 - 0400/0341 - 0350/0341 - Burzum - Autumn Leaves [UPDATED 2026-11-08 20-44 UK]/_01 - Main Info/_01 Description.jpeg",
+      "assessment": "Artist and album associations do not imply original musician appears in cover; spelling variant is observed rather than asserted common."
+    },
+    {
+      "surface": "genres",
+      "claim": "Ambient, dungeon synth, black metal, atmospheric black metal and dark ambient are artist-wide genres",
+      "source": "Band Info/Burzum/Register.md; https://rateyourmusic.com/artist/burzum",
+      "assessment": "Subjective artist-wide classification, not all applying to song."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Hall of the Fallen precedes Autumn Leaves on album track list",
+      "source": "https://www.recordshopx.com/artist/burzum/ways_of_yore/",
+      "assessment": "Track sequence listed; comment is an optional proposed creator pin."
+    }
+  ],
+  "distinct_fact_and_source": "0001 is the actual 1:02:24 loop; 0341 is a shorter 4:51 performance and uses track order in the pin, while Shorts use viewer threads and atmosphere. _All Songs/_0001 Long Form/0301 - 0400/0341 - 0350/0341 - Burzum - Autumn Leaves [UPDATED 2026-11-08 20-44 UK]/_01 - Main Info/_01 Description.jpeg; https://www.recordshopx.com/artist/burzum/ways_of_yore/",
+  "uniqueness_assessment": "Reviewed 23 five-word collision signals in report; they are ordinary CTA/stream phrasing, not an identical whole description, title or pin. Compared same-song packages, existing baseline and accessible shape registers; artist/song and link terms necessarily recur. 0001 retains its own historical title and comment, not another video's. Corpus is incomplete and program does not certify semantic originality.",
+  "uncertainties_and_removed_claims": "Snapshot is historical; exact audio/take and related-video destinations, pin status and current rights/territories unknown. No promised algorithm improvement or assumption of cause; retention affected by context and advertising mix. Preserve genuine viewer threads.",
+  "collision_report_sha256": "e6641ff690e1b66bdad35fdaf1990e78042f0ec23f8e36c098d5940de4a48789",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

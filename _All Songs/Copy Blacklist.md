@@ -4,7 +4,120 @@ This file tracks all newly completed individual reviews from this song-by-song p
 
 ## Completed in this new pass
 
-None yet. After each individual review, record video format, ID, artist/song, reviewed UK timestamp, title, full description and pin/preserved-comment status; mark Studio edit separately and keep each format in ID order.
+### LF 0001 - Burzum - Autumn Leaves
+
+Reviewed 2026-11-08 20:44 GMT; Studio edit/pin status unverified. Existing creator question is visible; its pin state is unconfirmed. Prefer a genuine viewer comment if you want to highlight one; preserve both viewer conversations and replies. The existing creator question is supplied above as a retain option, not a newly added pin.
+
+**Title**
+
+```text
+An hour of Burzum's Autumn Leaves with bass in the mix
+```
+
+**Description**
+
+```text
+🍂 Settle in with Burzum's Autumn Leaves from The Ways of Yore, released in 2014. This Rocksmith bass video loops the piece for just over an hour.
+
+🎸 Follow the on-screen chart or let the longer performance accompany your day. What do you enjoy listening to when you want some atmosphere?
+
+🟢 Catch my live requests on Kick: https://kick.com/mavomusic
+🟣 Watch the Twitch mirror here: https://www.twitch.tv/mavomusic
+💬 Share your ambient favourites in Discord; boosts are appreciated if you choose: https://discord.gg/ESGsGkN4j2
+```
+
+**Pinned comment / fallback**
+
+```text
+Does a long loop help you focus, or do you prefer listening to an album from beginning to end?
+```
+
+### LF 0341 - Burzum - Autumn Leaves
+
+Reviewed 2026-11-08 20:44 GMT; Studio edit/pin status unverified. Only a generic creator comment is visible. Its current pin is not established; the above is an optional proposed new comment.
+
+**Title**
+
+```text
+Autumn Leaves on bass | A Burzum Rocksmith performance
+```
+
+**Description**
+
+```text
+🌙 Burzum's Autumn Leaves has a place on The Ways of Yore, the 2014 album. Here is my bass performance alongside Rocksmith 2014, recorded during a Kick stream.
+
+🎸 This is the shorter full performance rather than my hour-long loop. What other ambient track would you like to hear me play?
+
+🟢 Send a request while I'm live on Kick: https://kick.com/mavomusic
+🟣 The Twitch mirror is here: https://www.twitch.tv/mavomusic
+💬 Join the conversation on Discord; thank you if you choose to boost: https://discord.gg/ESGsGkN4j2
+```
+
+**Pinned comment / fallback**
+
+```text
+On The Ways of Yore track list, Autumn Leaves follows Hall of the Fallen. Which of those tracks would you revisit first?
+```
+
+### Short 0673 - Burzum - Autumn Leaves
+
+Reviewed 2026-11-08 20:44 GMT; Studio edit/pin status unverified. Prefer an existing genuine viewer comment such as @nihilism2004 mentioning the Rammstein apparel, or @AuntiePOD recognising the channel. Preserve all viewer comments and replies. Check the current pin; the proposed creator comment is a fallback only.
+
+**Title**
+
+```text
+Finding the atmosphere of Autumn Leaves | Burzum bass #bass
+```
+
+**Description**
+
+```text
+🍂 Autumn Leaves by Burzum is a chance to slow things down on bass. I played this on stream alongside the Rocksmith 2014 display.
+
+🎸 Want to hear more? Check the related video below my channel handle for a full Autumn Leaves performance.
+
+🟢 Come say hello on Kick, with Twitch as the mirror; both are on my channel profile.
+💬 Share your favourite atmospheric tracks in Discord; boosts are welcome if you choose to give one.
+
+#Burzum #AutumnLeaves #BassCover
+```
+
+**Pinned comment / fallback**
+
+```text
+What atmospheric track would you like to learn on bass next? Find the full Autumn Leaves performance via the related video below my handle.
+```
+
+### Short 2087 - Burzum - Autumn Leaves
+
+Reviewed 2026-11-08 20:44 GMT; Studio edit/pin status unverified. Prefer @ArchangelSteve's genuine Rocksmith and black metal comment; keep both it and @SZINNAPALM's comment and their creator replies. Check current pin first; the proposed creator comment is fallback only.
+
+**Title**
+
+```text
+A Burzum bass moment from Autumn Leaves #rocksmith
+```
+
+**Description**
+
+```text
+🌲 A little Autumn Leaves by Burzum on bass, recorded during a Kick stream with Rocksmith 2014. Thanks for spending a moment with this track from The Ways of Yore.
+
+🎵 Curious about the complete song? Look for the related full performance below my channel handle.
+
+🟢 Find my Kick stream and Twitch mirror on my channel profile.
+💬 Tell us your Burzum favourites on Discord; boosts are appreciated if you choose.
+
+#Burzum #AutumnLeaves #Rocksmith
+```
+
+**Pinned comment / fallback**
+
+```text
+The Ways of Yore was released in 2014. Which track from the album would you pick for another bass cover?
+```
+
 
 ## Long Form - prior accessible copy baseline
 
@@ -12,7 +125,7 @@ None yet. After each individual review, record video format, ID, artist/song, re
 
 ### 0001 - Burzum - Autumn Leaves
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves (Long Form)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves [UPDATED 2026-11-08 20-44 UK]/_03 - Copy.md`
 
 **Title**
 

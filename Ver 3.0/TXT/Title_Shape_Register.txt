@@ -408,3 +408,8 @@ Distinct Short identifier; not long-form CO-0001. Verify uniqueness for every la
 
 2026-11-08 SHORT 0243 | Avril Lavigne Take Me Away | Rocksmith bass meets Take Me Away by Avril Lavigne #bass
 2026-11-08 SHORT 2008 | Avril Lavigne Take Me Away | Revisiting Take Me Away with Avril Lavigne on bass #bass
+
+LF 0341 | Autumn Leaves on bass | A Burzum Rocksmith performance
+Short 0673 | Finding the atmosphere of Autumn Leaves | Burzum bass #bass
+Short 2087 | A Burzum bass moment from Autumn Leaves #rocksmith
+LF 0001 retained prior title; unchanged.

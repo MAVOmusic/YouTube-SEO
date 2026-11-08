@@ -35,6 +35,12 @@ class CatalogueTests(unittest.TestCase):
         self.catalogue.write_text("| 0001 | Artist - Song | Old title |\n| 0002 | N/A | N/A |\n")
         self.assertTrue(any("title differs" in error for error in self.run_check()))
 
+    def test_updated_folder_is_checked(self):
+        self.video.rename(self.video.parent / "0001 - Artist - Song [UPDATED 2026-11-08 20-04 UK]")
+        self.assertEqual(self.run_check(), [])
+        self.catalogue.write_text("| 0001 | Artist - Song | Wrong |\n| 0002 | N/A | N/A |\n")
+        self.assertTrue(any("title differs" in error for error in self.run_check()))
+
     def test_missing_and_duplicate_numbers_are_rejected(self):
         self.catalogue.write_text("| 0001 | Artist - Song | A \\| B |\n| 0001 | Artist - Song | A \\| B |\n")
         errors = self.run_check()

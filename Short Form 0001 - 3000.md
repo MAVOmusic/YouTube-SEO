@@ -714,7 +714,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0670 | Eric Clapton - Layla (Unplugged) | N/A |
 | 0671 | Stratovarius - Break The Ice | N/A |
 | 0672 | Burzum - Black Spell Of Destruction | N/A |
-| 0673 | Burzum - Autumn Leaves | N/A |
+| 0673 | Burzum - Autumn Leaves | Finding the atmosphere of Autumn Leaves \| Burzum bass #bass |
 | 0674 | Opeth - In My Time Of Need | N/A |
 | 0675 | Good Charlotte - I Just Wanna Live | N/A |
 | 0676 | Rammstein - D_cke T_tten | N/A |
@@ -2198,7 +2198,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2084 | American Hi-Fi - Flavor Of The Weak | N/A |
 | 2085 | Apocalyptica - I Don't Care | N/A |
 | 2086 | Asking Alexandria - Not An American Average | N/A |
-| 2087 | Burzum - Autumn Leaves | N/A |
+| 2087 | Burzum - Autumn Leaves | A Burzum bass moment from Autumn Leaves #rocksmith |
 | 2088 | Evanescence - Bring Me To Life | N/A |
 | 2089 | Gorillaz - Clint Eastwood | N/A |
 | 2090 | Iron Maiden - 2 Minutes To Midnight | N/A |
