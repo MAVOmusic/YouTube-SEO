@@ -125,7 +125,7 @@ The Ways of Yore was released in 2014. Which track from the album would you pick
 
 ### 0001 - Burzum - Autumn Leaves
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves [UPDATED 2026-11-08 20-44 UK]/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves [U - 2026-11-08]/_03 - Copy.md`
 
 **Title**
 

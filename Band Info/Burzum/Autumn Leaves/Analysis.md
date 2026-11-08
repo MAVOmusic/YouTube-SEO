@@ -45,7 +45,7 @@ These are different lengths, ages, audiences, cuts, traffic mixes and view-count
 
 ## Paths after reviewed-folder rename
 
-- 0001: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves [UPDATED 2026-11-08 20-44 UK]`
-- 0341: `_All Songs/_0001 Long Form/0301 - 0400/0341 - 0350/0341 - Burzum - Autumn Leaves [UPDATED 2026-11-08 20-44 UK]`
-- 0673: `_All Songs/_0002 Short Form/0601 - 0700/0671 - 0680/0673 - Burzum - Autumn Leaves [UPDATED 2026-11-08 20-44 UK]`
-- 2087: `_All Songs/_0002 Short Form/2001 - 2100/2081 - 2090/2087 - Burzum - Autumn Leaves [UPDATED 2026-11-08 20-44 UK]`
+- 0001: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves [U - 2026-11-08]`
+- 0341: `_All Songs/_0001 Long Form/0301 - 0400/0341 - 0350/0341 - Burzum - Autumn Leaves [U - 2026-11-08]`
+- 0673: `_All Songs/_0002 Short Form/0601 - 0700/0671 - 0680/0673 - Burzum - Autumn Leaves [U - 2026-11-08]`
+- 2087: `_All Songs/_0002 Short Form/2001 - 2100/2081 - 2090/2087 - Burzum - Autumn Leaves [U - 2026-11-08]`
