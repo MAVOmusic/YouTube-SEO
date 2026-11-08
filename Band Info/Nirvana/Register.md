@@ -31,3 +31,7 @@ Member and contributor tags do not imply recording credits or that the person ap
 - About A Girl appeared on Bleach (1989) and was performed on MTV Unplugged; verify the uploaded performance/version before copy.
 - Source: https://www.udiscovermusic.com/stories/nirvana-about-a-girl-song/
 - Verify the actual upload and recheck the source before use. Not release-approved copy.
+
+## 0101-0110 incoming cross-version index (8 November 2026)
+
+- LF 0106 About A Girl (Unplugged): indexed Short matches 0133, 1852; 0992, 1489 same-song unspecified version. Screening only; screenshots, old copy, song/video identity, performance differences, metadata decisions and any propagation to other versions await individual review. See Video_Map.md for the complete accessible artist index.
