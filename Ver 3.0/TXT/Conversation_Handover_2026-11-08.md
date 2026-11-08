@@ -50,3 +50,8 @@ User explicitly requested complete Long Form and Short title, description, genre
 ## Sabaton - The Lion From The North
 
 User says LF 0058 already edited; comparison only, untouched. Historical LF and Shorts 0054, 1553, 1803 snapshots gathered in Sabaton_The_Lion_From_The_North_Comparison_2026-11-08.md. Short 0054 copy proposed in its own folder. Preserve positive viewer comment; current related-video ID, pin and profile links not verified. Review 1553 then 1803 separately; no copy yet. No Studio actions.
+
+
+## Sabaton follow-up - 8 November
+
+User corrected plain Short descriptions again; 0054 rewritten with warm emoji-led paragraphs. User confirms its full version is linked and plans to replace it with the new LF after premiere. 1553 and 1803 were individually reviewed with copy saved and distinct source angles; preserve genuine viewer comment on 1553 and verify links/current pins. User also requested new Sabaton pair for today. Pending: request visual evidence of bass plus overlay for each new format before copy release; no new footage has been inspected and new IDs/publication status unconfirmed. No Studio action.

@@ -1639,7 +1639,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1550 | Rammstein - Amour | N/A |
 | 1551 | +44 - When Your Heart Stops Beating | N/A |
 | 1552 | Sabaton - En Livstid I Krig | N/A |
-| 1553 | Sabaton - The Lion From The North | N/A |
+| 1553 | Sabaton - The Lion From The North | A march through bass: Sabaton - The Lion From The North #shorts |
 | 1554 | (Hed) P.E. - Renegade | N/A |
 | 1555 | (Hed) P.E. - Bartender | N/A |
 | 1556 | Snoop Dogg & Wiz Khalifa Feat. Bruno Mars - Young, Wild And Free | N/A |
@@ -1904,7 +1904,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | --- | --- | --- |
 | 1801 | +44 (Plus 44) - Little Death | N/A |
 | 1802 | +44 (Plus 44) - Make You Smile | N/A |
-| 1803 | Sabaton - The Lion From The North | N/A |
+| 1803 | Sabaton - The Lion From The North | Sabaton on bass: The Lion From The North in 36 seconds #bass |
 | 1804 | +44 (Plus 44) - Weatherman | N/A |
 | 1805 | T.A.T.U. - All The Things She Said | N/A |
 | 1806 | Sabaton - Ghost Division | N/A |

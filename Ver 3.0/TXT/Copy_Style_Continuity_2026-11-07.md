@@ -9,3 +9,8 @@ Shorts: retain concise but meaningful artist/song, bass performance and genuine 
 Titles: retain search terms and distinctive, natural hooks; no identical template, possessive opener or '[Song] is [Band]'. Evaluate title/thumbnail as a pair rather than assuming emoji or longer descriptions increase CTR. A description can matter in search context but cannot be credited for feed or thumbnail clicks without evidence. No guarantee of improved reach or corpus-wide uniqueness; compare with accessible work and individual analytics.
 
 2026-11-07: Prepared complete description replacements for LF 0673 and 0677 and Shorts 2420 and 2424 as concrete corrections; no actual Studio edits. Unchanged titles, tags and pinned comments remain as before. More affected recent uploads require individual review, not bulk automated rewriting. Wait for later analytics if user prefers to preserve an early baseline.
+
+
+## Correction repeated 8 November 2026
+
+User again rejected an emoji-free plain Short description. For Shorts as well as Long Form, provide warm, descriptive, deliberately emoji-led paragraphs, adapted individually; the earlier wording that emoji were merely welcome was too weak. Maintain clickable-link limitations and fact checks. 0054 was corrected; 1553 and 1803 follow the corrected style.

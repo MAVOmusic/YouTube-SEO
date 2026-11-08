@@ -163,3 +163,9 @@ Previously reviewed claims and sources; check sources and current copy before re
 ## Short 0054 research (2026-11-08)
 
 - Optional pin: Sabaton announced an orchestral version of The Lion From The North for the Sabaton Fortress siege map as part of their 2024 Conqueror's Blade collaboration. This refers to the band, not MAVO's recording. https://www.sabaton.net/news/other/announcing-our-collaboration-with-conquerors-blade/
+
+## Shorts 1553 and 1803 research (2026-11-08)
+
+- 1553 optional pin: the band listed The Lion From The North among the songs in its Europa Universalis IV soundtrack collaboration: https://www.sabaton.net/news/other/europa-universalis-iv-sabaton-soundtrack/
+- 1803 optional pin: the band's site presents an official music video for The Lion From The North from The Great Tour: https://www.sabaton.net/video/the-lion-from-the-north-from-the-great-tour/
+- Distinct from 0054's 2024 orchestral game collaboration and LF 0058's Swedish king/album order angle. These concern the band, not the creator's recordings.
