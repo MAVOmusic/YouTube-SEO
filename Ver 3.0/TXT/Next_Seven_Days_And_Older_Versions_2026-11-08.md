@@ -1,3 +1,5 @@
+> **Superseded 8 November 2026:** The dates and times below are historical planning, not the active threshold-based queue. Older video IDs and folder references remain useful as an incomplete index. See `November_2026_Shorts_500_View_Queue.md`.
+
 # Next seven days - folder preparation and older versions
 
 Working plan for 8-14 November 2026, 48 song pairs. One pair is a Long Form and its matching Short, proposed simultaneously. Budapest is CET; UK is GMT and one hour behind. These are proposed test slots, not evidence of Studio schedules or actual releases. The overnight slots target the previous evening in US time zones and need advance preparation. On 8 Nov at approximately 01:26 Budapest, the 02:00 slot is less than an hour away; if not ready, move it without backdating.

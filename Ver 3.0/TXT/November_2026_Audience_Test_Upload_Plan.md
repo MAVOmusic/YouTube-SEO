@@ -1,3 +1,5 @@
+> **Superseded 8 November 2026:** Fixed quotas, dates and future slots below are historical. The active transition times and threshold-based sequence are in `November_2026_Shorts_500_View_Queue.md`.
+
 # November 2026 - paired upload plan
 
 **Working proposal, not YouTube Studio schedules.** One song means one Long Form plus its matching Short, published together. User corrected the earlier message: there is no six-song target for 7 November. The plan begins on 8 November: 6 daily on 8-9 Nov, 7 on 10-13, 8 on 14-18, 9 on 19-24, and 10 on 25 and afterwards. The allocation contains 144 proposed pairs on 8-25 Nov. It adds proposed 26-29 Nov slots to illustrate current stock; the remaining nine 29 Nov slots require additional songs. Later uploads and schedules have not been independently observed. Do not assign or change video IDs until actual upload chronology is known.
