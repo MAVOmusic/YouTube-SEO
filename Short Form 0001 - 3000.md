@@ -264,7 +264,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0240 | Bring Me The Horizon Feat. Underoath - A BuLlEt W/ My NamE On | N/A |
 | 0241 | Motionless In White - Billy In 4C Never Saw It Coming | N/A |
 | 0242 | Sabaton - Stormtroopers | N/A |
-| 0243 | Avril Lavigne - Take Me Away | N/A |
+| 0243 | Avril Lavigne - Take Me Away | Rocksmith bass meets Take Me Away by Avril Lavigne #bass |
 | 0244 | Fuerza Regida - OYE | N/A |
 | 0245 | Rammstein - Asche Zu Asche | N/A |
 | 0246 | System Of A Down - Prison Song | N/A |
@@ -2119,7 +2119,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2005 | P.O.D. (Payable On Death) - Change The World | N/A |
 | 2006 | Bring Me The Horizon Feat. Underoath - A Bullet W My Name On | N/A |
 | 2007 | Sabaton - Stormtroopers | N/A |
-| 2008 | Avril Lavigne - Take Me Away | N/A |
+| 2008 | Avril Lavigne - Take Me Away | Revisiting Take Me Away with Avril Lavigne on bass #bass |
 | 2009 | Fuerza Regida - OYE | N/A |
 | 2010 | System Of A Down - Prison Song | N/A |
 | 2011 | Motionless In White - Catharsis | N/A |
