@@ -26,6 +26,10 @@ The 12 replacement descriptions in [Latest Uploads Refresh](../Ver%203.0/TXT/Pla
 
 Earlier prepared wording was re-pasted without a fresh universal-rules review. [Per-video findings and pending requirements](../Ver%203.0/TXT/Burzum_And_Another_Life_Rules_Audit.md); those historical packages are not newly cleared. Preserve confirmed Burzum pins.
 
+## Revised 10-video provisional copy
+
+[Burzum and MIW revised proposals](../Ver%203.0/TXT/Burzum_MIW_10_Revised_Provisional.md) reserve the candidate creative wording and comment angles. Not live or 50-window approved; maintain confirmed existing Burzum pins.
+
 ## Completed in this new pass
 
 ### LF 0001 - Burzum - Autumn Leaves
