@@ -372,7 +372,7 @@ Which Motionless In White song would you like to hear on bass next?
 
 ### 0003 - Motionless In White - Masterpiece
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass) [U - 2026-11-09]/_03 - Copy.md`
 
 **Title**
 
