@@ -48,7 +48,8 @@ def check(root=ROOT):
         for video in video_root.glob("*/*/*"):
             if not video.is_dir():
                 continue
-            match = re.match(r"^(\d{4}) - (.+?)(?: \(" + re.escape(label) + r"(?: - .*?)?\)| \[UPDATED \d{4}-\d{2}-\d{2} \d{2}-\d{2} UK\]| \[U - \d{4}-\d{2}-\d{2}\])$", video.name)
+            # A review marker may follow the format label, e.g. "(Short Form) [U - 2026-11-09]".
+            match = re.match(r"^(\d{4}) - (.+?)(?: \(" + re.escape(label) + r"(?: - .*?)?\)| \[UPDATED \d{4}-\d{2}-\d{2} \d{2}-\d{2} UK\]| \[U - \d{4}-\d{2}-\d{2}\])(?: \[U - \d{4}-\d{2}-\d{2}\])?$", video.name)
             if not match:
                 continue
             number, identity = int(match[1]), match[2].strip()
