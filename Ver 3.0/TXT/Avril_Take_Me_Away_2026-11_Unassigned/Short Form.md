@@ -1,6 +1,6 @@
 # Avril Lavigne - Take Me Away | new Short (ID unassigned)
 
-> Repetition audit: this is historical prepared copy, not proof of current Studio metadata. For individually revised candidates and the identified repeated title skeleton, see `Ver 3.0/TXT/Copy_Repetition_Audit_2026-11.md`. Do not automatically reuse this draft.
+> Repetition audit: this is historical prepared copy, not proof of current Studio metadata. The candidate in the earlier audit also repeats a reported Burzum angle and is withdrawn. See `Ver 3.0/TXT/Chainbrain_Reference_And_50_Upload_Rule.md` for the replacement and quiz; the 50-upload check is incomplete until actual chronology and live copy are known. Do not automatically reuse this historical draft.
 
 ## TITLE (51 characters)
 

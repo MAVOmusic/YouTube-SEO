@@ -1,5 +1,7 @@
 # Copy repetition audit - latest uploads and 6 November onwards
 
+> User correction: the 11 candidate titles/descriptions below were drafted before the 50-upload rule and are NOT cleared. The Take Me Away back-to-year candidate is withdrawn because the user reports a prior Burzum title used that angle. See `Ver 3.0/TXT/Chainbrain_Reference_And_50_Upload_Rule.md` for the new proposal and policy.
+
 ## Evidence and limits
 
 The user reports Take Me Away was uploaded at midnight and had not entered the Shorts feed, and paused uploading. Treat that report seriously; the supplied content-list screenshot shows 80 views at 14 hours, not the traffic-source breakdown. The separate 48-hour realtime screenshot shows 87 views for the Short and 11 for its LF, a different snapshot; it does not show whether the Short entered the feed. It shows Runaway Short 1,196 and LF 11, Ocean Avenue Short 514 and LF 19; these are 48-hour counts, not automatically lifetime totals. The user's report that all preceding Shorts reached the feed is accepted; feed percentages are not independently shown here. Do not resume uploads or use the former 500-view gate as clearance until the user decides. No evidence here establishes the reason for missing feed distribution or a shadowban.
