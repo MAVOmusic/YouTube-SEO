@@ -18,6 +18,10 @@ The 12 replacement descriptions in [Latest Uploads Refresh](../Ver%203.0/TXT/Pla
 
 [Full copy references and refreshed proposed tags](../Ver%203.0/TXT/Burzum_Autumn_Leaves_Four_Video_Recheck.md). Original same-video copy is historical/proposed, pin states not verified. 2087 bass-moment title is flagged, not cleared. Both long-form gates have stale collision reports; full 50-window comparison remains incomplete.
 
+## Another Life playlist and video comparison
+
+[Ten playlist proposals and six version references](../Ver%203.0/TXT/Another_Life_Playlists_And_Six_Versions.md) are indexed for future originality checks. Full current live copy and combined 50-upload order remain unverified; Short 0021 old moment-shaped title is not cleared.
+
 ## Completed in this new pass
 
 ### LF 0001 - Burzum - Autumn Leaves
