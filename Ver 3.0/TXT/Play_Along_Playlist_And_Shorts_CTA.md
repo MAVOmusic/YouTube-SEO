@@ -95,3 +95,5 @@ The user requests dedicated play-along videos be kept OUT of genre playlists and
 🟣 Twitch has the mirrored performance: https://www.twitch.tv/mavomusic
 💬 Tell us your favourite MIW memory on Discord: https://discord.gg/ESGsGkN4j2
 ```
+
+Correction: User specifically instructed us to retrieve the comments previously supplied and put the full-version CTA at the start, then retain the fact, quiz or question. The exact previously proposed comments for MIW Shorts 0021/1521/1778 were recorded in Burzum_MIW_10_Revised_Provisional.md, and Burzum Short 0673 in its _03 - Copy.md and Burzum_Autumn_Leaves_Four_Video_Recheck.md. We should have used the existing records instead of suggesting we did not know the supplied wording. CTA-first proposed revisions are in TXT/Shorts_Pinned_Comments_CTA_Correction.md; user reports creator pins but changes not yet confirmed. Preserve viewer pins on Burzum 2087 and MIW LF 0002, and edit existing creator comments rather than deleting them. Related targets must be verified; CTA is not itself a clickable URL. Full 50-upload history unavailable.
