@@ -96,6 +96,6 @@ Relevant names below are artist associations, not an assertion they play on each
 
 Chronological IDs LF 0003 (dedicated play-along), 0119; Shorts 0147 and 1864. See [pending analysis](Masterpiece/Analysis.md) for older numbering, playlist exclusions and evidence. All five MIW artist genre playlist pairs already confirmed created. Wait for refreshed analytics before preparing copy.
 
-## Abigail - next review
+## Abigail - reviewed 2026-11-09
 
-Chronological IDs LF 0005 (dedicated play-along) and Short 0152; legacy identifiers are separate. All five artist-wide genre pairs exist. Await fresh analytics, metadata and comments for each. See [pending analysis](Abigail/Analysis.md).
+Chronological IDs LF 0005 (dedicated play-along) and Short 0152; legacy identifiers are separate. Both reviewed from refreshed screenshots: 0005 has 361 views, 65.4% search traffic and 12.5% playlist traffic; 0152 has 639 views, 42.0% stayed and 84.2% Shorts feed. Proposed copy and creator comments are in the folders and in `Ver 3.0/TXT/Abigail_Two_Version_Review.md`. All five artist-wide genre pairs exist. 0005 stays in the Play Along playlist only. See [analysis](Abigail/Analysis.md).

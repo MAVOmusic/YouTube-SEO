@@ -6,6 +6,7 @@ Current-session completed individual reviews, in video ID order. A review is ent
 | --- | --- | --- | --- |
 | 0021 | Motionless In White - Another Life | 2026-11-01 (time unavailable; clock date mismatch) | Proposed; no Studio edit confirmed |
 | 0147 | Motionless In White - Masterpiece | 2026-11-09 (time unavailable; clock date mismatch) | Provisional review; no Studio edit confirmed |
+| 0152 | Motionless In White - Abigail | 2026-11-09 (time unavailable; clock date mismatch) | Proposed copy delivered; no Studio edit confirmed |
 | 0673 | Burzum - Autumn Leaves | 2026-11-08 20:44 GMT | Proposed; no Studio edit confirmed |
 | 1521 | Motionless In White - Another Life | 2026-11-01 (time unavailable; clock date mismatch) | Proposed; no Studio edit confirmed |
 | 1778 | Motionless In White - Another Life | 2026-11-01 (time unavailable; clock date mismatch) | Proposed; no Studio edit confirmed |
