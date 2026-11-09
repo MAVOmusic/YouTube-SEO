@@ -1,5 +1,7 @@
 # Yellowcard - Ocean Avenue - Short Form - ID unassigned
 
+> Repetition audit: this is historical prepared copy, not proof of current Studio metadata. For individually revised candidates and the identified repeated title skeleton, see `Ver 3.0/TXT/Copy_Repetition_Audit_2026-11.md`. Do not automatically reuse this draft.
+
 ## TITLE (50 characters)
 
 ```text
