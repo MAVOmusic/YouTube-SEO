@@ -1,3 +1,5 @@
+> AUDIT CORRECTION: Historical copy below was largely repeated without the current universal rules review. Not a fresh approved replacement. See `Ver 3.0/TXT/Burzum_And_Another_Life_Rules_Audit.md` and preserve user-confirmed pins.
+
 # Motionless In White - Another Life: playlists and six-version copy check
 
 Five genres are the existing LF 0002 artist-wide playlist reference: Metalcore, Gothic Metal, Industrial Metal, Nu Metal, Hard Rock. Artist-wide classification does not mean the song individually fits every genre. Source: https://en.wikipedia.org/wiki/Motionless_in_White . The user decides which existing/new format playlists to use; only the Burzum five genre pairs plus All Genres were confirmed created, so do not claim these 10 exist or create duplicates without checking. The playlist names and descriptions below are proposals. Default newest upload order is user-reported, not independently verified for new playlists. No Studio actions.

@@ -1,0 +1,225 @@
+{
+  "policy": "Check this registry before offering or creating playlists. Existing confirmed playlist: reuse; never regenerate. Proposed not confirmed: ask or verify current Studio before creating; do not assume absent. Unknown genre/format: search live inventory and ask before creation. Preserve user-chosen titles; no IDs inferred from screenshots.",
+  "playlists": [
+    {
+      "genre": "All Genres",
+      "format": "long_form",
+      "title": "All Genres - Rocksmith 2014 Bass Long Form Videos",
+      "status": "confirmed_created",
+      "evidence": "User report and Studio overview screenshot: Format playlists with two videos.png; video identities not visible",
+      "description_status": "latest replacement proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (user report)",
+      "url": null
+    },
+    {
+      "genre": "All Genres",
+      "format": "shorts",
+      "title": "All Genres - Rocksmith 2014 Bass Shorts",
+      "status": "confirmed_created",
+      "evidence": "User report and Studio overview screenshot: Format playlists with two videos.png; video identities not visible",
+      "description_status": "latest replacement proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (user report)",
+      "url": null
+    },
+    {
+      "genre": "Ambient",
+      "format": "long_form",
+      "title": "Ambient - Rocksmith 2014 Bass Long Form Videos",
+      "status": "confirmed_created",
+      "evidence": "User report and Studio overview screenshot: Format playlists with two videos.png; video identities not visible",
+      "description_status": "latest replacement proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (user report)",
+      "url": null
+    },
+    {
+      "genre": "Ambient",
+      "format": "shorts",
+      "title": "Ambient - Rocksmith 2014 Bass Shorts",
+      "status": "confirmed_created",
+      "evidence": "User report and Studio overview screenshot: Format playlists with two videos.png; video identities not visible",
+      "description_status": "latest replacement proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (user report)",
+      "url": null
+    },
+    {
+      "genre": "Dungeon Synth",
+      "format": "long_form",
+      "title": "Dungeon Synth - Rocksmith 2014 Bass Long Form Videos",
+      "status": "confirmed_created",
+      "evidence": "User report and Studio overview screenshot: Format playlists with two videos.png; video identities not visible",
+      "description_status": "latest replacement proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (user report)",
+      "url": null
+    },
+    {
+      "genre": "Dungeon Synth",
+      "format": "shorts",
+      "title": "Dungeon Synth - Rocksmith 2014 Bass Shorts",
+      "status": "confirmed_created",
+      "evidence": "User report and Studio overview screenshot: Format playlists with two videos.png; video identities not visible",
+      "description_status": "latest replacement proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (user report)",
+      "url": null
+    },
+    {
+      "genre": "Black Metal",
+      "format": "long_form",
+      "title": "Black Metal - Rocksmith 2014 Bass Long Form Videos",
+      "status": "confirmed_created",
+      "evidence": "User report and Studio overview screenshot: Format playlists with two videos.png; video identities not visible",
+      "description_status": "latest replacement proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (user report)",
+      "url": null
+    },
+    {
+      "genre": "Black Metal",
+      "format": "shorts",
+      "title": "Black Metal - Rocksmith 2014 Bass Shorts",
+      "status": "confirmed_created",
+      "evidence": "User report and Studio overview screenshot: Format playlists with two videos.png; video identities not visible",
+      "description_status": "latest replacement proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (user report)",
+      "url": null
+    },
+    {
+      "genre": "Atmospheric Black Metal",
+      "format": "long_form",
+      "title": "Atmospheric Black Metal - Rocksmith 2014 Bass Long Form Videos",
+      "status": "confirmed_created",
+      "evidence": "User report and Studio overview screenshot: Format playlists with two videos.png; video identities not visible",
+      "description_status": "latest replacement proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (user report)",
+      "url": null
+    },
+    {
+      "genre": "Atmospheric Black Metal",
+      "format": "shorts",
+      "title": "Atmospheric Black Metal - Rocksmith 2014 Bass Shorts",
+      "status": "confirmed_created",
+      "evidence": "User report and Studio overview screenshot: Format playlists with two videos.png; video identities not visible",
+      "description_status": "latest replacement proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (user report)",
+      "url": null
+    },
+    {
+      "genre": "Dark Ambient",
+      "format": "long_form",
+      "title": "Dark Ambient - Rocksmith 2014 Bass Long Form Videos",
+      "status": "confirmed_created",
+      "evidence": "User report and Studio overview screenshot: Format playlists with two videos.png; video identities not visible",
+      "description_status": "latest replacement proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (user report)",
+      "url": null
+    },
+    {
+      "genre": "Dark Ambient",
+      "format": "shorts",
+      "title": "Dark Ambient - Rocksmith 2014 Bass Shorts",
+      "status": "confirmed_created",
+      "evidence": "User report and Studio overview screenshot: Format playlists with two videos.png; video identities not visible",
+      "description_status": "latest replacement proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (user report)",
+      "url": null
+    },
+    {
+      "genre": "Metalcore",
+      "format": "long_form",
+      "title": "Metalcore - Rocksmith 2014 Bass Long Form Videos",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared; user has not confirmed creation or selected a playlist ID",
+      "description_status": "proposal only",
+      "sort": "not confirmed",
+      "url": null
+    },
+    {
+      "genre": "Metalcore",
+      "format": "shorts",
+      "title": "Metalcore - Rocksmith 2014 Bass Shorts",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared; user has not confirmed creation or selected a playlist ID",
+      "description_status": "proposal only",
+      "sort": "not confirmed",
+      "url": null
+    },
+    {
+      "genre": "Gothic Metal",
+      "format": "long_form",
+      "title": "Gothic Metal - Rocksmith 2014 Bass Long Form Videos",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared; user has not confirmed creation or selected a playlist ID",
+      "description_status": "proposal only",
+      "sort": "not confirmed",
+      "url": null
+    },
+    {
+      "genre": "Gothic Metal",
+      "format": "shorts",
+      "title": "Gothic Metal - Rocksmith 2014 Bass Shorts",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared; user has not confirmed creation or selected a playlist ID",
+      "description_status": "proposal only",
+      "sort": "not confirmed",
+      "url": null
+    },
+    {
+      "genre": "Industrial Metal",
+      "format": "long_form",
+      "title": "Industrial Metal - Rocksmith 2014 Bass Long Form Videos",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared; user has not confirmed creation or selected a playlist ID",
+      "description_status": "proposal only",
+      "sort": "not confirmed",
+      "url": null
+    },
+    {
+      "genre": "Industrial Metal",
+      "format": "shorts",
+      "title": "Industrial Metal - Rocksmith 2014 Bass Shorts",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared; user has not confirmed creation or selected a playlist ID",
+      "description_status": "proposal only",
+      "sort": "not confirmed",
+      "url": null
+    },
+    {
+      "genre": "Nu Metal",
+      "format": "long_form",
+      "title": "Nu Metal - Rocksmith 2014 Bass Long Form Videos",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared; user has not confirmed creation or selected a playlist ID",
+      "description_status": "proposal only",
+      "sort": "not confirmed",
+      "url": null
+    },
+    {
+      "genre": "Nu Metal",
+      "format": "shorts",
+      "title": "Nu Metal - Rocksmith 2014 Bass Shorts",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared; user has not confirmed creation or selected a playlist ID",
+      "description_status": "proposal only",
+      "sort": "not confirmed",
+      "url": null
+    },
+    {
+      "genre": "Hard Rock",
+      "format": "long_form",
+      "title": "Hard Rock - Rocksmith 2014 Bass Long Form Videos",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared; user has not confirmed creation or selected a playlist ID",
+      "description_status": "proposal only",
+      "sort": "not confirmed",
+      "url": null
+    },
+    {
+      "genre": "Hard Rock",
+      "format": "shorts",
+      "title": "Hard Rock - Rocksmith 2014 Bass Shorts",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared; user has not confirmed creation or selected a playlist ID",
+      "description_status": "proposal only",
+      "sort": "not confirmed",
+      "url": null
+    }
+  ]
+}

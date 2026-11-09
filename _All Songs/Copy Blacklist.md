@@ -22,6 +22,10 @@ The 12 replacement descriptions in [Latest Uploads Refresh](../Ver%203.0/TXT/Pla
 
 [Ten playlist proposals and six version references](../Ver%203.0/TXT/Another_Life_Playlists_And_Six_Versions.md) are indexed for future originality checks. Full current live copy and combined 50-upload order remain unverified; Short 0021 old moment-shaped title is not cleared.
 
+## Correction - Burzum and Another Life universal rule audit
+
+Earlier prepared wording was re-pasted without a fresh universal-rules review. [Per-video findings and pending requirements](../Ver%203.0/TXT/Burzum_And_Another_Life_Rules_Audit.md); those historical packages are not newly cleared. Preserve confirmed Burzum pins.
+
 ## Completed in this new pass
 
 ### LF 0001 - Burzum - Autumn Leaves
