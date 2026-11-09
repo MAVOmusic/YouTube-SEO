@@ -220,6 +220,16 @@
       "description_status": "creation confirmed; saved text not independently verified",
       "sort": "not independently verified",
       "url": null
+    },
+    {
+      "genre": "Play Along",
+      "format": "long_form",
+      "title": "Rocksmith 2014 Bass Play Along Videos",
+      "status": "proposed_not_confirmed",
+      "evidence": "User requested a separate playlist; no creation or playlist URL confirmed",
+      "description_status": "proposal only",
+      "sort": "not confirmed",
+      "url": null
     }
   ]
 }
