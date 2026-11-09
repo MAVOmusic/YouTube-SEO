@@ -72,3 +72,7 @@ User explicitly reiterates that the agent, not MAVO, must police repetition acro
 ## Applies to every video and playlist inventory
 
 User reiterates the new-upload rules apply identically to existing LF, play-along and Shorts reviews. Do not call a re-paste of earlier copy with richer tags a fresh compliant rewrite. Use TXT/Burzum_And_Another_Life_Rules_Audit.md and PY/playlist_inventory.py: reuse confirmed-created playlists, do not regenerate them, and do not interpret an unconfirmed proposal or missing row as absent. Preserve confirmed existing creator and viewer pins. Full chronological window, metadata and semantic evidence are required before asserting a 50-upload pass.
+
+## Shorts related-video call to action - user correction
+
+The user asks for a clear unique CTA to the related full-length video in each Short description and, when an existing creator pin may be safely edited, the pinned comment. Verify the actual related-video target first, and never replace user-selected genuine viewer pins or existing quiz content just to add a CTA. The clickable related-video link is distinct from non-clickable URLs in Shorts descriptions/comments; platform rules: https://support.google.com/youtube/answer/13748639?hl=en . Do not claim CTA guarantees increased views. User keeps dedicated play-along videos solely in a distinct play-along playlist, not genre or All Genres lists.

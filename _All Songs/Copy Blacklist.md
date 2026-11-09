@@ -30,6 +30,10 @@ Earlier prepared wording was re-pasted without a fresh universal-rules review. [
 
 [Burzum and MIW revised proposals](../Ver%203.0/TXT/Burzum_MIW_10_Revised_Provisional.md) reserve the candidate creative wording and comment angles. Not live or 50-window approved; maintain confirmed existing Burzum pins.
 
+## Play Along playlist and related-video CTA correction
+
+[Playlist and five Shorts description proposals](../Ver%203.0/TXT/Play_Along_Playlist_And_Shorts_CTA.md). Preserve all confirmed pins including @aalternativefactory and @ArchangelSteve. A CTA belongs in a verified related-video description and, where safe, the creator pin; no need to unpin real viewers.
+
 ## Completed in this new pass
 
 ### LF 0001 - Burzum - Autumn Leaves
