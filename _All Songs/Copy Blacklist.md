@@ -6,6 +6,10 @@ This file tracks all newly completed individual reviews from this song-by-song p
 
 The user reports all 22 replacements were applied; screenshots independently confirm only some visible titles and the two specific comment states. The prior numbered long-form release gates were not completed. The latest title, description and pin for each of the 11 recent song pairs is indexed in [Recent Uploads replacement proposals](../Ver%203.0/TXT/Recent_Uploads_22_Replacement_Proposals.md). The individual previous baseline entries below remain historical comparisons; do not confuse these candidates with Studio changes. Actual combined upload order, some live metadata and the full 50-upload window remain unverified; reserve all 22 title, description and comment creative wording and angles, regardless of pin state.
 
+## Playlist description proposals
+
+The 12 playlist descriptions and titles in [Burzum starting genre playlists](../Ver%203.0/TXT/Burzum_Starting_Genre_Playlists.md) are reserved as proposals, not proof of live edits. Do not reuse their creative sentences or CTAs in future copy.
+
 ## Completed in this new pass
 
 ### LF 0001 - Burzum - Autumn Leaves
