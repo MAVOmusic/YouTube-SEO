@@ -14,6 +14,10 @@ The 12 playlist descriptions and titles in [Burzum starting genre playlists](../
 
 The 12 replacement descriptions in [Latest Uploads Refresh](../Ver%203.0/TXT/Playlist_Descriptions_Latest_Uploads.md) are reserved candidate copy; the earlier Burzum-specific set remains historical. User has not confirmed these replacements were applied.
 
+## Burzum four-version recheck
+
+[Full copy references and refreshed proposed tags](../Ver%203.0/TXT/Burzum_Autumn_Leaves_Four_Video_Recheck.md). Original same-video copy is historical/proposed, pin states not verified. 2087 bass-moment title is flagged, not cleared. Both long-form gates have stale collision reports; full 50-window comparison remains incomplete.
+
 ## Completed in this new pass
 
 ### LF 0001 - Burzum - Autumn Leaves
