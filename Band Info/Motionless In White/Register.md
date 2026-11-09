@@ -95,3 +95,7 @@ Relevant names below are artist associations, not an assertion they play on each
 ## Masterpiece - analytics requested
 
 Chronological IDs LF 0003 (dedicated play-along), 0119; Shorts 0147 and 1864. See [pending analysis](Masterpiece/Analysis.md) for older numbering, playlist exclusions and evidence. All five MIW artist genre playlist pairs already confirmed created. Wait for refreshed analytics before preparing copy.
+
+## Abigail - next review
+
+Chronological IDs LF 0005 (dedicated play-along) and Short 0152; legacy identifiers are separate. All five artist-wide genre pairs exist. Await fresh analytics, metadata and comments for each. See [pending analysis](Abigail/Analysis.md).

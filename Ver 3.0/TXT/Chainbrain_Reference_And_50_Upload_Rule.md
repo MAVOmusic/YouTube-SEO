@@ -1,3 +1,5 @@
+> USER UPDATE: 50-upload repetition check is temporarily paused at user request until later. Continue SEO reviews, factual checks, preserving interactions and other rules; do not claim a check was done.
+
 # Chainbrain samples and MAVO's 50-upload originality rule
 
 ## Status and evidence
