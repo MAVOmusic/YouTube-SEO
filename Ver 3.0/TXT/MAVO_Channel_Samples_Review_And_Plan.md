@@ -1,0 +1,64 @@
+# MAVO channel samples - review and practical plan
+
+## Evidence and limits
+
+Inspected all 33 user-supplied files in `_All Songs/0000 - Channel Analytics/MAVO Samples/`: three channel home screens, two description screens, two playlist screens, five posts, one store, ten long-form listing screens and ten Shorts listing screens. Inspected both user-provided comment screenshots separately. These are snapshots, not complete Studio analytics, a random sample or controlled tests. Some screens overlap and show rounded views; no claim about why a video was or was not shown. The current user reports all 22 recent replacement packages applied. Individual descriptions and most live pins were not independently checked. One long-form sample displays a different Black Parade title than the latest registered proposal; screenshot timing is unknown, so verify rather than overwrite or assume.
+
+## What the samples actually show
+
+- Channel home: MAVOmusic, a dark circular profile image, a large MAVOmusic banner with bright green check-shaped graphic, and an older featured intro about Kick. A row of long archived streams has near-identical trophy images; Popular videos, Shorts, multiple playlists, posts and supported creators are present. Popular row includes a much higher-view outlier; duration, age, topic and discovery differ, so it is not a fair template test.
+- Long Form 1-10: many rows use similar seated bassist/CD-wall/overlay images, often black-and-white with some colored lighting. The performer and instrument are visible, but small game, chat and stream text compete for attention when viewed as thumbnails. Some old titles emphasize bassist names/adjectives and omit or delay clear band/song identification; there are visually repeated older title structures. Recent replacement titles show varied hooks; the title and overlay can be truncated at small sizes. Public counts in a screenshot are not CTR or retention.
+- Short Form 1-10: many portrait clips use the same bassist framing and note highway, with occasional coloured treatments or text banners; several titles are truncated in the grids. A few carry clear artist/song text. The latest visible Take Me Away displays 88 views while several neighbors display rounded ~1.1k; this is a screenshot count, not feed-source evidence or a lifetime comparison. No proof a title, color or thumbnail caused the gap.
+- Playlist screens show many carefully classified genre lists, including very small two- to four-video collections and some large named collections. The first-view thumbnails are visually similar. Their depth is valuable; the difficulty is finding a useful starting point, not evidence that genre lists should be deleted.
+- Description says streaming mostly on Twitch even though user identifies Kick as primary and Twitch as mirror. It introduces the person warmly but does not immediately explain bass sight-reading/Rocksmith. Links include Kick, Twitch, Blaze and Discord and some items labeled Soon. Stats screen shows 109k subscribers, 3,118 videos and 2,609,838 views at capture, not current values or active audience size.
+- Five example posts are largely stream announcements with similar link/poll structure; visible polls show 4-6 votes. Some concern gaming or slots. These are too few observations to infer audience interest or justify removing non-music posts. Current store shows apparel and mugs, but merchandising is labeled Soon in the description; check availability and whether the links are current before editing, rather than asserting a launch state.
+
+## Priorities without resuming uploads
+
+1. About text and links: use the draft below if accurate, update primary/mirror labels, check every destination, and replace or remove outdated Soon labels only after checking. Keep the user's friendly personality; don't infer a schedule or promise daily streams.
+2. Home: retain existing material and playlists. If Customisation offers it, feature a concise current intro for newcomers and a relevant returning-subscriber feature; select a manually curated first screen (start here / strongest recent full performances / Shorts / genre gateways). Review the existing For you and stream-archive rows as owner; visibility and personalization vary. Do not delete archives or force a new trailer before the holiday.
+3. Playlists: keep the hundreds of genres but surface a handful of broad navigational collections, e.g. Emo and Pop Punk, Metal, Alternative Rock, and Requests and Discoveries. Choose real existing playlists where possible; if creating a gateway, ensure its videos match and order deliberately. Use a readable first video/cover when the platform offers the choice. Review rights and artwork ownership; do not claim arbitrary custom playlist thumbnails are available everywhere.
+4. Profile and banner: keep MAVO's identity and CD wall, but test a cleaner, sharper banner with MAVOmusic plus 'Bass sight-reads | Rocksmith 2014' in the safe central area. Avoid a decorative checkmark that could be mistaken for a verification badge. Use original photos and verify current banner safe area in Studio before exporting. User can keep the dark profile or test a brighter face-and-bass crop for recognizability; no claim of performance uplift.
+5. Posts: maintain stream announcements when useful but rotate genuinely distinct conversations, specific album polls, requests, listening memories and progress updates; do not impose a rigid frequency. Avoid binary emoji-only poll choices where a clear song/artist choice would help. Respect planned holiday and upload pause.
+6. Store: verify labels, checkout, sizing, shipping and ownership; consider selecting a small coherent featured assortment before changing anything. Never invent availability, prices or endorsement.
+
+## Proposed About text - not published
+
+Hey, I'm MAVO! 🎸
+
+I sight-read bass songs in Rocksmith 2014 Remastered, from metal and punk to the unexpected tracks you bring into the mix. You'll find full performances, quick clips and a community that loves discovering music together.
+
+I'm a Hungarian musician based in the UK, playing an Epiphone Thunderbird IV and sharing the journey as I go. Tell me which songs or artists you would love to hear next!
+
+🟢 Live music and requests on Kick: https://www.kick.com/mavomusic
+🟣 Catch the Twitch mirror: https://www.twitch.tv/mavomusic
+🔥 Find me on Blaze Stream: https://blaze.stream/mavomusic
+💬 Join the community on Discord: https://discord.gg/ESGsGkN4j2
+
+## Thumbnail concepts - principles, not Chainbrain copies
+
+User wants Chainbrain-inspired clarity and variety, not copied creative assets. Keep the face and Thunderbird recognisable, use an actual frame/photo, one strong visual idea and short readable words, and avoid artist portraits/logos unless licensed. Do not imply the performer is the original artist, a collaboration, a first try, a result, or a technique not shown. Small-screen test at roughly phone size; reserve the lower-right corner for YouTube's duration badge. Maintain consistent type/brand palette without repeating one formula. Overlay in the actual video remains; a thumbnail can be independently composed without changing the footage.
+
+- Ocean Avenue: close crop of MAVO with bass, warm sunset accent, two or three words such as 'SUMMER MEMORIES'; clear song/artist in title. Mood is editorial, not a claim about the recording.
+- Private Eye: bass silhouette over a dark red paper/case-file treatment, small magnifying-glass graphic, 'CASE OPEN'; distinguish from an official cover and avoid repeating this title motif within the protected window.
+- Runaway: sharper face/bass crop with angular blue accents and 'HYBRID THEORY'; no Linkin Park members pictured or implied.
+- The Lion From The North: bass and restrained gold/blue treatment with a simple lion silhouette; 'CAROLUS REX' for context. No historical costumes or fabricated scene.
+- Take Me Away: contrast a cool violet background with the bass headstock and 'UNDER MY SKIN'; no quiz answer issue here because the quiz is on the Short, not this long-form thumbnail. Keep song and artist in the title.
+- A future reaction/challenge image only when the footage actually supports it: face, hands and one honest visual question; no fake score, oversold reaction or difficult-performance claim.
+
+For future recordings after holiday, user plans better camera angles and optional speech/text. Keep chart/playing hands legible: test one closer face/bass angle plus a short spoken intro or caption that adds an honest thought, not required on every clip. Test an alternate OBS scene without assuming the stream overlay can be removed from already recorded footage. Do not require new footage to audit old uploads. Check sound balance, caption contrast and phone-safe UI placement before release.
+
+## Testing and measurement
+
+- Pick two or three existing long-form videos from comparable genres with enough recent impressions; establish eligible content/traffic and baseline per video in Studio. Test the original against one truthful design changing thumbnail only. YouTube's built-in A/B tests can compare up to three title/thumbnail variants and select on watch time; Shorts are ineligible. Do not change title simultaneously if isolating thumbnails. A low-traffic test may be inconclusive; document exposure and result, never promise uplift: https://support.google.com/youtube/answer/16391400?hl=en
+- Record dates, video ID, variant images, traffic source mix, impressions, CTR, watch time per impression/average duration, retention and restrictions; avoid direct causal comparison across dissimilar old clips or ad-driven videos. Use Studio results rather than eyeballed public view counts: https://support.google.com/youtube/answer/9314486?hl=en&co=GENIE.Platform%3DDesktop
+- For Shorts, test a clear opening and readable artist/song frame on future eligible clips, and review shown-in-feed, stayed/swiped, engaged views, retention and traffic sources at matched ages. Do not extrapolate a long-form thumbnail test to the Shorts feed; do not resume the paused upload queue just to run this experiment.
+- YouTube's current thumbnail help and UI can change by device/account; verify availability and requirements before planning Shorts artwork: https://support.google.com/youtube/answer/72431?hl=en-GB&co=GENIE.Platform%3DDesktop. Related video targets are separately verified in Studio; ordinary Shorts description/comment URLs are non-clickable: https://support.google.com/youtube/answer/13748639?hl=en.
+
+## Comments
+
+Private Eye: viewer @Super-my9ob comment about Watch Dogs is pinned, hearted and replied to; MAVO's UK chart comment is present but unpinned. Preserve the pin and thread. Ocean Avenue: @callejeros_subtitulado wrote 'WOW krist novoselic bass on reading festival'; visible as unanswered with no visible like/heart; MAVO's acoustic-reimagining comment is pinned. No reason for the comparison is established. Proposed reply only:
+
+> Haha, Krist Novoselic at Reading is a great reference! 😄 Do you think I look a bit like him, or would you like to hear me play some Nirvana? 🎸
+
+Do not post, like, heart or repin without the user; keep the creator's existing pin unless the user chooses otherwise. Avoid asserting Krist played with Yellowcard or that the viewer definitely intended either interpretation.
