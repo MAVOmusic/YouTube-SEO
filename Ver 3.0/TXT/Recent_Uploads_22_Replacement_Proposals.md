@@ -2,7 +2,7 @@
 
 11 song pairs visible in the user-supplied recent screenshots: 22 individually prepared packages, ordered from oldest to newest within the available evidence. Titles and descriptions are proposals, not confirmed Studio changes. Numerical IDs beyond 0673-0679 / 2420-2426 remain unassigned until actual chronology is confirmed. The screenshots do not show the saved live descriptions or exact current pin states. No upload, pin, edit or related-video change has been made. Preserve genuine comments and especially the user-confirmed Sabaton pins on the older videos.
 
-All 22 are pending a numbered LF release-gate review (where IDs are confirmed) or a pre-ID manual gate; they are not gate-approved. The 50-upload editorial rule cannot be fully certified: recent combined publication order, complete live descriptions and older unseen titles are not available. The checks below do not prove complete semantic originality or any YouTube outcome. Shorts description/comment URLs are not clickable; related videos and profile links are separate surfaces, and their actual targets must be verified. Tag character totals are measured as comma-separated strings; music/member tags refer to associations, not appearances in these covers. First-name-only tags are used only for genuinely recognizable names (Chester, Avril). Typo variants are previously observed in artist registers; not asserted common or necessary. Tags have a limited discovery role according to https://support.google.com/youtube/answer/146402?hl=en-GB.
+All 22 are pending a numbered LF release-gate review (where IDs are confirmed) or a pre-ID manual gate; they are not gate-approved. The 50-upload editorial rule cannot be fully certified: recent combined publication order, complete live descriptions and older unseen titles are not available. The checks below do not prove complete semantic originality or any YouTube outcome. Shorts description/comment URLs are not clickable; related videos and profile links are separate surfaces, and their actual targets must be verified. Tag character totals are measured as comma-separated strings; music/member tags refer to associations, not appearances in these covers. Rocksmith tags are omitted until game use in these specific recordings is confirmed; the Paramore quiz is about the released game pack, not the recording. First-name-only tags are used only for genuinely recognizable names (Chester, Avril). Typo variants are previously observed in artist registers; not asserted common or necessary. Tags have a limited discovery role according to https://support.google.com/youtube/answer/146402?hl=en-GB.
 
 Quiz answers for MAVO: Paramore A; Alkaline Trio B; Brand New B; Linkin Park A; Avril B. The answer is deliberately absent from the corresponding description.
 
@@ -28,10 +28,10 @@ Welcome To The Black Parade deserves the full march - My Chemical Romance bass
 💬 Chat about favourite records on Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (425/500 characters)
+### Tags (382/500 characters)
 
 ```text
-my chemical romance, welcome to the black parade, my chemical romance welcome to the black parade, welcome to the black parade bass, welcome to the black parade bass cover, my chemical romance bass cover, the black parade, mcr, my chem, my chemical romace, gerard way, mikey way, frank iero, ray toro, emo, alternative rock, pop punk, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+my chemical romance, welcome to the black parade, my chemical romance welcome to the black parade, welcome to the black parade bass, welcome to the black parade bass cover, my chemical romance bass cover, the black parade, mcr, my chem, my chemical romace, gerard way, mikey way, frank iero, ray toro, emo, alternative rock, pop punk, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -60,10 +60,10 @@ Welcome To The Black Parade: that MCR feeling on bass #bass
 💬 Join the MCR discussion in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (425/500 characters)
+### Tags (382/500 characters)
 
 ```text
-my chemical romance, welcome to the black parade, my chemical romance welcome to the black parade, welcome to the black parade bass, welcome to the black parade bass cover, my chemical romance bass cover, the black parade, mcr, my chem, my chemical romace, gerard way, mikey way, frank iero, ray toro, emo, alternative rock, pop punk, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+my chemical romance, welcome to the black parade, my chemical romance welcome to the black parade, welcome to the black parade bass, welcome to the black parade bass cover, my chemical romance bass cover, the black parade, mcr, my chem, my chemical romace, gerard way, mikey way, frank iero, ray toro, emo, alternative rock, pop punk, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -96,10 +96,10 @@ From Riot! to the bass strings: Paramore - Misery Business
 💬 Share your next pick in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (302/500 characters)
+### Tags (259/500 characters)
 
 ```text
-paramore, misery business, paramore misery business, misery business bass, misery business bass cover, paramore bass cover, riot, hayley williams, jeremy davis, josh farro, zac farro, pop punk, alternative rock, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+paramore, misery business, paramore misery business, misery business bass, misery business bass cover, paramore bass cover, riot, hayley williams, jeremy davis, josh farro, zac farro, pop punk, alternative rock, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -121,17 +121,17 @@ Misery Business still brings the energy - Paramore bass #bass
 ```text
 🎤 Paramore fans, this Riot! track is hard to sit still through. Here is a clip of me playing Misery Business on bass.
 
-💥 The matching full take is attached as the related video.
+💥 Look for the matching full take in the related video.
 
 🟢 Send me a request on Kick: https://kick.com/mavomusic
 🟣 Watch the mirrored show on Twitch: https://www.twitch.tv/mavomusic
 💬 Tell the Discord crew your favourite Paramore era: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (302/500 characters)
+### Tags (259/500 characters)
 
 ```text
-paramore, misery business, paramore misery business, misery business bass, misery business bass cover, paramore bass cover, riot, hayley williams, jeremy davis, josh farro, zac farro, pop punk, alternative rock, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+paramore, misery business, paramore misery business, misery business bass, misery business bass cover, paramore bass cover, riot, hayley williams, jeremy davis, josh farro, zac farro, pop punk, alternative rock, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -169,10 +169,10 @@ AFI - Miss Murder: darkness, drama and a full bass playthrough
 💬 Talk music with the community on Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (304/500 characters)
+### Tags (261/500 characters)
 
 ```text
-afi, miss murder, afi miss murder, miss murder bass, miss murder bass cover, afi bass cover, a fire inside, decemberunderground, davey havok, jade puget, hunter burgan, adam carson, alternative rock, punk revival, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+afi, miss murder, afi miss murder, miss murder bass, miss murder bass cover, afi bass cover, a fire inside, decemberunderground, davey havok, jade puget, hunter burgan, adam carson, alternative rock, punk revival, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -201,10 +201,10 @@ Miss Murder on bass: AFI fans, this one is for you! #bass
 💬 Share your AFI favourites in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (304/500 characters)
+### Tags (261/500 characters)
 
 ```text
-afi, miss murder, afi miss murder, miss murder bass, miss murder bass cover, afi bass cover, a fire inside, decemberunderground, davey havok, jade puget, hunter burgan, adam carson, alternative rock, punk revival, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+afi, miss murder, afi miss murder, miss murder bass, miss murder bass cover, afi bass cover, a fire inside, decemberunderground, davey havok, jade puget, hunter burgan, adam carson, alternative rock, punk revival, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -237,10 +237,10 @@ Jimmy Eat World - Sweetness, played loud and all the way through
 💬 Come swap song suggestions in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (307/500 characters)
+### Tags (264/500 characters)
 
 ```text
-jimmy eat world, sweetness, jimmy eat world sweetness, sweetness bass, sweetness bass cover, jimmy eat world bass cover, bleed american, jim adkins, rick burch, tom linton, zach lind, alternative rock, emo, pop punk, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+jimmy eat world, sweetness, jimmy eat world sweetness, sweetness bass, sweetness bass cover, jimmy eat world bass cover, bleed american, jim adkins, rick burch, tom linton, zach lind, alternative rock, emo, pop punk, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -269,10 +269,10 @@ A little Sweetness for your speakers - Jimmy Eat World #bass
 💬 Find the community on Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (307/500 characters)
+### Tags (264/500 characters)
 
 ```text
-jimmy eat world, sweetness, jimmy eat world sweetness, sweetness bass, sweetness bass cover, jimmy eat world bass cover, bleed american, jim adkins, rick burch, tom linton, zach lind, alternative rock, emo, pop punk, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+jimmy eat world, sweetness, jimmy eat world sweetness, sweetness bass, sweetness bass cover, jimmy eat world bass cover, bleed american, jim adkins, rick burch, tom linton, zach lind, alternative rock, emo, pop punk, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -305,10 +305,10 @@ Case open: Alkaline Trio - Private Eye on bass
 💬 Join the punk chat on Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (299/500 characters)
+### Tags (256/500 characters)
 
 ```text
-alkaline trio, private eye, alkaline trio private eye, private eye bass, private eye bass cover, alkaline trio bass cover, from here to infirmary, matt skiba, dan andriano, mike felumlee, punk rock, pop punk, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+alkaline trio, private eye, alkaline trio private eye, private eye bass, private eye bass cover, alkaline trio bass cover, from here to infirmary, matt skiba, dan andriano, mike felumlee, punk rock, pop punk, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -342,10 +342,10 @@ An Alkaline Trio opener worth revisiting: Private Eye #bass
 💬 Swap punk recommendations in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (299/500 characters)
+### Tags (256/500 characters)
 
 ```text
-alkaline trio, private eye, alkaline trio private eye, private eye bass, private eye bass cover, alkaline trio bass cover, from here to infirmary, matt skiba, dan andriano, mike felumlee, punk rock, pop punk, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+alkaline trio, private eye, alkaline trio private eye, private eye bass, private eye bass cover, alkaline trio bass cover, from here to infirmary, matt skiba, dan andriano, mike felumlee, punk rock, pop punk, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -378,10 +378,10 @@ Two voices, one song: You're So Last Summer - Taking Back Sunday bass
 💬 Share your soundtrack in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (407/500 characters)
+### Tags (364/500 characters)
 
 ```text
-taking back sunday, you're so last summer, taking back sunday you're so last summer, you're so last summer bass, you're so last summer bass cover, taking back sunday bass cover, youre so last summer, tbs, taking back sundy, tell all your friends, adam lazzara, john nolan, shaun cooper, emo, post hardcore, pop punk, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+taking back sunday, you're so last summer, taking back sunday you're so last summer, you're so last summer bass, you're so last summer bass cover, taking back sunday bass cover, youre so last summer, tbs, taking back sundy, tell all your friends, adam lazzara, john nolan, shaun cooper, emo, post hardcore, pop punk, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -410,10 +410,10 @@ That Tell All Your Friends feeling! Taking Back Sunday - You're So Last Summer
 💬 Meet the music community on Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (407/500 characters)
+### Tags (364/500 characters)
 
 ```text
-taking back sunday, you're so last summer, taking back sunday you're so last summer, you're so last summer bass, you're so last summer bass cover, taking back sunday bass cover, youre so last summer, tbs, taking back sundy, tell all your friends, adam lazzara, john nolan, shaun cooper, emo, post hardcore, pop punk, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+taking back sunday, you're so last summer, taking back sunday you're so last summer, you're so last summer bass, you're so last summer bass cover, taking back sunday bass cover, youre so last summer, tbs, taking back sundy, tell all your friends, adam lazzara, john nolan, shaun cooper, emo, post hardcore, pop punk, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -446,10 +446,10 @@ The Quiet Things That No One Ever Knows - Brand New: full bass performance
 💬 Tell us what you are listening to in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (455/500 characters)
+### Tags (412/500 characters)
 
 ```text
-brand new, the quiet things that no one ever knows, brand new the quiet things that no one ever knows, the quiet things that no one ever knows bass, the quiet things that no one ever knows bass cover, brand new bass cover, brand new band, the quiet things, deja entendu, jesse lacey, vincent accardi, garrett tierney, brian lane, alternative rock, emo, indie rock, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+brand new, the quiet things that no one ever knows, brand new the quiet things that no one ever knows, the quiet things that no one ever knows bass, the quiet things that no one ever knows bass cover, brand new bass cover, brand new band, the quiet things, deja entendu, jesse lacey, vincent accardi, garrett tierney, brian lane, alternative rock, emo, indie rock, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -478,10 +478,10 @@ Brand New fans, remember The Quiet Things That No One Ever Knows? #bass
 💬 Talk albums with us in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (455/500 characters)
+### Tags (412/500 characters)
 
 ```text
-brand new, the quiet things that no one ever knows, brand new the quiet things that no one ever knows, the quiet things that no one ever knows bass, the quiet things that no one ever knows bass cover, brand new bass cover, brand new band, the quiet things, deja entendu, jesse lacey, vincent accardi, garrett tierney, brian lane, alternative rock, emo, indie rock, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+brand new, the quiet things that no one ever knows, brand new the quiet things that no one ever knows, the quiet things that no one ever knows bass, the quiet things that no one ever knows bass cover, brand new bass cover, brand new band, the quiet things, deja entendu, jesse lacey, vincent accardi, garrett tierney, brian lane, alternative rock, emo, indie rock, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -519,10 +519,10 @@ A march through Carolus Rex: Sabaton - The Lion From The North
 💬 Bring your Sabaton stories to Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (362/500 characters)
+### Tags (319/500 characters)
 
 ```text
-sabaton, the lion from the north, sabaton the lion from the north, the lion from the north bass, the lion from the north bass cover, sabaton bass cover, lion from the north, carolus rex, lejonet fran norden, sabton, joakim broden, par sundstrom, power metal, heavy metal, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+sabaton, the lion from the north, sabaton the lion from the north, the lion from the north bass, the lion from the north bass cover, sabaton bass cover, lion from the north, carolus rex, lejonet fran norden, sabton, joakim broden, par sundstrom, power metal, heavy metal, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -551,10 +551,10 @@ Hear the Lion roar! Sabaton - The Lion From The North #bass
 💬 Share a Sabaton story in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (362/500 characters)
+### Tags (319/500 characters)
 
 ```text
-sabaton, the lion from the north, sabaton the lion from the north, the lion from the north bass, the lion from the north bass cover, sabaton bass cover, lion from the north, carolus rex, lejonet fran norden, sabton, joakim broden, par sundstrom, power metal, heavy metal, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+sabaton, the lion from the north, sabaton the lion from the north, the lion from the north bass, the lion from the north bass cover, sabaton bass cover, lion from the north, carolus rex, lejonet fran norden, sabton, joakim broden, par sundstrom, power metal, heavy metal, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -587,10 +587,10 @@ Yellowcard - Ocean Avenue: a bass trip down memory lane
 💬 Swap pop-punk memories on Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (308/500 characters)
+### Tags (265/500 characters)
 
 ```text
-yellowcard, ocean avenue, yellowcard ocean avenue, ocean avenue bass, ocean avenue bass cover, yellowcard bass cover, ryan key, sean mackin, peter mosely, ben harper, longineu parsons, pop punk, alternative rock, emo, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+yellowcard, ocean avenue, yellowcard ocean avenue, ocean avenue bass, ocean avenue bass cover, yellowcard bass cover, ryan key, sean mackin, peter mosely, ben harper, longineu parsons, pop punk, alternative rock, emo, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -619,10 +619,10 @@ Ocean Avenue on bass - who remembers this Yellowcard favourite? #bass
 💬 Come chat about old favourites on Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (308/500 characters)
+### Tags (265/500 characters)
 
 ```text
-yellowcard, ocean avenue, yellowcard ocean avenue, ocean avenue bass, ocean avenue bass cover, yellowcard bass cover, ryan key, sean mackin, peter mosely, ben harper, longineu parsons, pop punk, alternative rock, emo, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+yellowcard, ocean avenue, yellowcard ocean avenue, ocean avenue bass, ocean avenue bass cover, yellowcard bass cover, ryan key, sean mackin, peter mosely, ben harper, longineu parsons, pop punk, alternative rock, emo, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -655,10 +655,10 @@ Runaway from Hybrid Theory: Linkin Park bass performance
 💬 Meet fellow music fans in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (323/500 characters)
+### Tags (280/500 characters)
 
 ```text
-linkin park, runaway, linkin park runaway, runaway bass, runaway bass cover, linkin park bass cover, hybrid theory, chester bennington, chester, mike shinoda, brad delson, rob bourdon, joe hahn, nu metal, alternative rock, rap rock, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+linkin park, runaway, linkin park runaway, runaway bass, runaway bass cover, linkin park bass cover, hybrid theory, chester bennington, chester, mike shinoda, brad delson, rob bourdon, joe hahn, nu metal, alternative rock, rap rock, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -687,10 +687,10 @@ Runaway brings Hybrid Theory back! Linkin Park on bass #bass
 💬 Share a Hybrid Theory favourite on Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (323/500 characters)
+### Tags (280/500 characters)
 
 ```text
-linkin park, runaway, linkin park runaway, runaway bass, runaway bass cover, linkin park bass cover, hybrid theory, chester bennington, chester, mike shinoda, brad delson, rob bourdon, joe hahn, nu metal, alternative rock, rap rock, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+linkin park, runaway, linkin park runaway, runaway bass, runaway bass cover, linkin park bass cover, hybrid theory, chester bennington, chester, mike shinoda, brad delson, rob bourdon, joe hahn, nu metal, alternative rock, rap rock, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -728,10 +728,10 @@ Avril Lavigne - Take Me Away: all the way through on bass
 💬 Share your Avril favourites in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (321/500 characters)
+### Tags (278/500 characters)
 
 ```text
-avril lavigne, take me away, avril lavigne take me away, take me away bass, take me away bass cover, avril lavigne bass cover, avril, avril lavine, under my skin, evan taubenfeld, don gilmore, pop punk, alternative rock, pop rock, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+avril lavigne, take me away, avril lavigne take me away, take me away bass, take me away bass cover, avril lavigne bass cover, avril, avril lavine, under my skin, evan taubenfeld, don gilmore, pop punk, alternative rock, pop rock, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
@@ -760,10 +760,10 @@ Turn it up for Take Me Away! Avril Lavigne on bass #bass
 💬 Find other Avril fans in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-### Tags (321/500 characters)
+### Tags (278/500 characters)
 
 ```text
-avril lavigne, take me away, avril lavigne take me away, take me away bass, take me away bass cover, avril lavigne bass cover, avril, avril lavine, under my skin, evan taubenfeld, don gilmore, pop punk, alternative rock, pop rock, rocksmith, rocksmith 2014, rocksmith bass, bass guitar, bass cover, mavomusic, mavomusicyt
+avril lavigne, take me away, avril lavigne take me away, take me away bass, take me away bass cover, avril lavigne bass cover, avril, avril lavine, under my skin, evan taubenfeld, don gilmore, pop punk, alternative rock, pop rock, bass guitar, bass cover, mavomusic, mavomusicyt
 ```
 
 ### Pinned comment - proposal
