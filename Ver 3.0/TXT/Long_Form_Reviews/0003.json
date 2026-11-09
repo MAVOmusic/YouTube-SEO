@@ -206,7 +206,8 @@
   "distinct_fact_and_source": "2022 Masterpiece album identification and contrast between song sections. https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/",
   "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
   "uncertainties_and_removed_claims": "Removed unverified tuning and gear claims previously; quiet/larger are subjective descriptions. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03: genre list now refers to artist classifications, not a song-level guarantee. Typo examples are observed, not verified common search terms; title effectiveness untested.",
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "collision_report_sha256": "29dd912495bd6e0d8493b473a0effa6f59982c2b51a5552da4788b516fd4a9ec",
   "all_claims_checked": true,
-  "cross_song_uniqueness_checked": true
+  "cross_song_uniqueness_checked": true,
+  "collision_report_note": "Refreshed 2026-11-09 after the CO-0005 copy change altered the shared long-form comparison corpus. This video's own title, description, tags, pin and genres are unchanged; its claims were not re-reviewed."
 }

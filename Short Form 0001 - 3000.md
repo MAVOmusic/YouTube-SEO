@@ -168,7 +168,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0149 | Sabaton - Karolinens Bön | N/A |
 | 0150 | Die Antwoord - Enter The Ninja | N/A |
 | 0151 | Pantera - Cemetery Gates | N/A |
-| 0152 | Motionless In White - Abigail | N/A |
+| 0152 | Motionless In White - Abigail | Abigail by Motionless In White, sight-read on bass #rocksmith #bass |
 | 0153 | Korn - Word Up! | N/A |
 | 0154 | Motionless In White - B.F.B.T.G.: Corpse Nation | N/A |
 | 0155 | Sabaton - Screaming Eagles | N/A |

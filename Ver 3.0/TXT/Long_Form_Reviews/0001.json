@@ -62,7 +62,8 @@
   "distinct_fact_and_source": "0001 is the actual 1:02:24 loop; 0341 is a shorter 4:51 performance and uses track order in the pin, while Shorts use viewer threads and atmosphere. _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0001 - Burzum - Autumn Leaves [U - 2026-11-08]/_01 - Main Info/_01 Description.jpeg; https://www.recordshopx.com/artist/burzum/ways_of_yore/",
   "uniqueness_assessment": "Reviewed 11 five-word collision signals in report; they are ordinary CTA/stream phrasing, not an identical whole description, title or pin. Compared same-song packages, existing baseline and accessible shape registers; artist/song and link terms necessarily recur. 0001 retains its own historical title and comment, not another video's. Corpus is incomplete and program does not certify semantic originality.",
   "uncertainties_and_removed_claims": "Snapshot is historical; exact audio/take and related-video destinations, pin status and current rights/territories unknown. No promised algorithm improvement or assumption of cause; retention affected by context and advertising mix. Preserve genuine viewer threads.",
-  "collision_report_sha256": "237f486c10d2c76e8e7721a5d55cddbbc8a58e9a149057628a365addc5dd844f",
+  "collision_report_sha256": "f26875488b2520353c2030e38cf2e7ef7b2091daedf026acae61bf7d9536a117",
   "all_claims_checked": true,
-  "cross_song_uniqueness_checked": true
+  "cross_song_uniqueness_checked": true,
+  "collision_report_note": "Refreshed 2026-11-09 after the CO-0005 copy change altered the shared long-form comparison corpus. This video's own title, description, tags, pin and genres are unchanged; its claims were not re-reviewed."
 }

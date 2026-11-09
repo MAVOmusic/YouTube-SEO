@@ -1,16 +1,38 @@
-# Motionless In White - Abigail - pending refreshed analytics
+# Motionless In White - Abigail
+
+Reviewed 2026-11-09 from refreshed screenshots. Copy is proposed, not applied. Full write-up: `Ver 3.0/TXT/Abigail_Two_Version_Review.md`.
 
 ## Indexed videos
 
-- LF 0005 - dedicated bass play-along. Current chronological index and existing song folder identify it.
-- Short 0152 - chronological Short index and snippet index identify it. No song-specific folder or refreshed screenshots found in this checkout yet.
+- **LF 0005** - dedicated bass play-along, 3:07, published 25 Oct 2022. Folder now marked `[U - 2026-11-09]`.
+- **Short 0152** - 0:36, published 14 May 2024. Folder now marked `[U - 2026-11-09]`; related video points at the long-form Abigail video.
 
-Older master Shorts repository lists 2312 under its own numbering scheme, and its long-form archive lists PA/LOOP 07. Do not count either as an extra chronological upload or infer mappings beyond evidence. Check Studio for any additional unindexed recordings. Both searchable current indexes were checked. Index identities are not YouTube IDs.
+Older master repositories list the same material as PA/LOOP 07 and 2312. Those are not extra uploads. Both current indexes were searched; no third indexed version was found. Index identities are not YouTube IDs.
 
-## Playlists and rules
+## Headline numbers
 
-The five Motionless In White artist-wide genres are Metalcore, Gothic Metal, Industrial Metal, Nu Metal and Hard Rock. Playlist_Inventory.json records both LF and Shorts playlists created for each; no new genre playlist is needed. These are artist-wide classifications, not a claim that all are song-level genres. User clarifies normal songs get genre playlists and dedicated play-alongs go in the separate Play Along playlist, always. User confirms play-along playlist has been added to play-alongs; exact individual membership is not independently visible. 0005 belongs in Play Along, not genre/All Genres; 0152 is a normal Short and uses applicable Shorts genre playlists and All Genres. Do not assume individual playlist membership until verified or user confirms it.
+| Version | Views | Watch time | AVD | Retention | Main traffic | Revenue |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| LF 0005 | 361 | 9.0 h | 1:29 of 3:07 | 47.9%, 64% at 0:30 | Search 65.4% | Ineligible to earn |
+| Short 0152 | 639 | 3.6 h | 0:20 of 0:36 | 42.0% stayed | Shorts feed 84.2% | £0.05 |
 
-## Pending
+LF 0005 also gained 38 subscribers, has 5.4k impressions at 5.3% click-through, and nearly half its watch time happens on a TV. Short 0152 draws 8.5% of views from search, mostly the exact song and artist query.
 
-User will supply refreshed analytics for each identified version before titles, descriptions, tags and creator comments are prepared. Preserve genuine comments. User temporarily paused the 50-upload check until later; other accuracy checks remain. Quiz questions and answers to be recorded in Ver 3.0/TXT/Historical_Quiz_Questions_And_Answers.md. No Studio edits.
+## Playlists
+
+Artist-wide genres: Metalcore, Gothic Metal, Industrial Metal, Nu Metal, Hard Rock. Both format pairs are recorded as created; do not recreate them.
+
+- LF 0005 is a dedicated play-along, so it belongs in the Rocksmith 2014 Bass Play Along playlist and not in genre or All Genres lists. The Studio playlist field shows that list.
+- Short 0152 is a normal Short and takes the applicable Shorts genre lists plus Shorts All Genres. User reports genres added.
+
+## Copy and interaction status
+
+- Proposed title, description, tags and creator comment are in the video folders' `_03 - Copy.md` files and in the review document.
+- The old long-form title opened with a possessive and is replaced. The old Short title was the retired plain Band - Song shape.
+- No pinned comment exists on either video. Proposal: quiz on LF 0005 (answer A, kept out of the description) and a CTA-first fact on Short 0152.
+- Preserve the existing creator comments and any genuine viewer comments. Pinning a new comment does not require deleting the old one.
+- No Studio edits were made.
+
+## Limits
+
+50-upload comparison is paused by the user, so uniqueness is not certified. Related-video labels are truncated. Screenshots show displayed values, not proof of what is saved. Ineligible to earn and Shopping disabled are observations, not diagnoses.

@@ -426,9 +426,9 @@ Follow the chart on screen and take the sections at a pace that works for you. W
 Which Motionless In White music video stands out to you visually?
 ```
 
-### 0005 - Motionless In White - Abigail
+### 0005 - Motionless In White - Abigail [superseded 2026-11-09, kept for comparison]
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0005 - Motionless In White - Abigail (Long Form - Play Along on Bass)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0005 - Motionless In White - Abigail (Long Form - Play Along on Bass) [U - 2026-11-09]/_03 - Copy.md`
 
 **Title**
 
@@ -4091,4 +4091,71 @@ Want the complete performance? Open the related video beneath my handle.
 
 ```text
 The Quiet Things That No One Ever Knows reached number 39 on the UK Official Singles Chart. Want the full bass performance? Open the related video beneath my handle.
+```
+
+## Motionless In White - Abigail pair - reviewed 2026-11-09
+
+Proposed copy from refreshed screenshots. Not a Studio edit. Full analytics, reasoning and source links in [Abigail review](../Ver%203.0/TXT/Abigail_Two_Version_Review.md). Reserve these surfaces under the 50-intervening-upload rule; the rule itself remains paused.
+
+### LF 0005 - Motionless In White - Abigail (dedicated play-along)
+
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0005 - Motionless In White - Abigail (Long Form - Play Along on Bass) [U - 2026-11-09]/_03 - Copy.md`
+
+**Title**
+
+```text
+Abigail on bass: Motionless In White and the Salem witch trials
+```
+
+**Description**
+
+```text
+🎸 Abigail comes from Creatures, the 2010 debut album by Motionless In White, and Chris Motionless has said the song and its video are about the Salem witch trials.
+
+🎶 A dedicated play-along with the Rocksmith 2014 Remastered chart on screen, so you can pause on a section and stay with the bass for as long as you need.
+
+🟢 Catch the live request stream on Kick: https://kick.com/mavomusic
+🟣 Twitch hosts the mirrored live set: https://www.twitch.tv/mavomusic
+💬 Bring your Creatures favourites to Discord, and boost the community if you fancy: https://discord.gg/ESGsGkN4j2
+```
+
+**Pinned comment or recommendation**
+
+```text
+📖 Chris Motionless has said he wrote Abigail from the perspective of which character in The Crucible?
+A) John Proctor
+B) Abigail Williams
+C) Mary Warren
+
+Take a guess below.
+```
+
+### Short 0152 - Motionless In White - Abigail
+
+Source: `_All Songs/_0002 Short Form/0101 - 0200/0151 - 0160/0152 - Motionless In White - Abigail (Short Form) [U - 2026-11-09]/_03 - Copy.md`
+
+**Title**
+
+```text
+Abigail by Motionless In White, sight-read on bass #rocksmith #bass
+```
+
+**Description**
+
+```text
+🎸 Abigail on Creatures features Nicholas Brooks of It Dies Today on guest vocals. Here is a clip of my bass performance in Rocksmith 2014 Remastered.
+
+🎥 The related video holds the longer run through the song if you want more of it.
+
+🟢 Join the live requests on Kick: https://kick.com/mavomusic
+🟣 The Twitch stream mirrors the show: https://www.twitch.tv/mavomusic
+💬 Share your Creatures-era favourites in Discord, with a boost if you like: https://discord.gg/ESGsGkN4j2
+```
+
+**Pinned comment or recommendation**
+
+```text
+🎬 The full Abigail play-along is the related video on this Short.
+
+🎥 Kevin McVey directed the 2010 Abigail video and worked on the concept with Chris Motionless. Does it still hold up for you?
 ```
