@@ -1,3 +1,5 @@
+> UPDATE: User confirmed the five Motionless In White genre pairs were created. Revised provisional copy is in `Ver 3.0/TXT/Burzum_MIW_10_Revised_Provisional.md`; older audit statements below are retained historically.
+
 # Burzum and Motionless In White - universal rules audit
 
 ## Correction and scope

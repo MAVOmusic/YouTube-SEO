@@ -1,3 +1,5 @@
+> UPDATE: User confirmed all five genre pairs created. Consult Playlist_Inventory.json; do not create them again.
+
 > AUDIT CORRECTION: Historical copy below was largely repeated without the current universal rules review. Not a fresh approved replacement. See `Ver 3.0/TXT/Burzum_And_Another_Life_Rules_Audit.md` and preserve user-confirmed pins.
 
 # Motionless In White - Another Life: playlists and six-version copy check

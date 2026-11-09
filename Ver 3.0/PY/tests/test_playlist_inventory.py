@@ -14,7 +14,7 @@ class PlaylistInventoryTest(unittest.TestCase):
 
     def test_confirmed_and_unconfirmed(self):
         self.assertEqual(mod.lookup(self.data, 'ambient', 'shorts')[0]['status'], 'confirmed_created')
-        self.assertEqual(mod.lookup(self.data, 'metalcore', 'shorts')[0]['status'], 'proposed_not_confirmed')
+        self.assertEqual(mod.lookup(self.data, 'metalcore', 'shorts')[0]['status'], 'confirmed_created')
         self.assertEqual(mod.lookup(self.data, 'not a real genre', 'shorts'), [])
 
     def test_no_duplicate_genre_format_keys(self):
