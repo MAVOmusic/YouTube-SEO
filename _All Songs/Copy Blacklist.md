@@ -2,6 +2,10 @@
 
 This file tracks all newly completed individual reviews from this song-by-song pass, plus a baseline of accessible previously prepared copy for duplication checks. Prior copy below is proposed or historical unless explicitly confirmed otherwise; its inclusion is NOT proof of a YouTube Studio edit or pinned comment. Record actual user-confirmed edits separately. Titles, descriptions and pins are supplied for comparison, not as a claim that repeated metadata causes a shadowban. Review full historical sources and title/copy registers too; this baseline is not the entire channel and cannot prove uniqueness. Never use the withheld CO-0026 track or EP title.
 
+## Pending 22 recent-upload replacement proposals
+
+These are proposed, not confirmed live or approved by the numbered long-form release gate. The latest title, description and pin for each of the 11 recent song pairs is indexed in [Recent Uploads replacement proposals](../Ver%203.0/TXT/Recent_Uploads_22_Replacement_Proposals.md). The individual previous baseline entries below remain historical comparisons; do not confuse these candidates with Studio changes. Actual upload order, live metadata and the full 50-upload window remain unverified.
+
 ## Completed in this new pass
 
 ### LF 0001 - Burzum - Autumn Leaves
