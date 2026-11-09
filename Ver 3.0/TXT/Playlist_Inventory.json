@@ -225,9 +225,9 @@
       "genre": "Play Along",
       "format": "long_form",
       "title": "Rocksmith 2014 Bass Play Along Videos",
-      "status": "proposed_not_confirmed",
-      "evidence": "User requested a separate playlist; no creation or playlist URL confirmed",
-      "description_status": "proposal only",
+      "status": "confirmed_created",
+      "evidence": "User states play along playlist added to play alongs; creation implied, exact memberships and URL not independently verified",
+      "description_status": "not independently verified",
       "sort": "not confirmed",
       "url": null
     }
