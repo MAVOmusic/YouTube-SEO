@@ -1,3 +1,5 @@
+> AUDIT CORRECTION: Historical copy below was largely repeated without the current universal rules review. Not a fresh approved replacement. See `Ver 3.0/TXT/Burzum_And_Another_Life_Rules_Audit.md` and preserve user-confirmed pins.
+
 # Burzum - Autumn Leaves: four-version recheck
 
 Four indexed versions; repository IDs are not YouTube video IDs. User reports adding both Shorts and both LFs to the five genre-specific and two channel-wide playlists. The latest playlist overview shows two items per list, not the identity or membership of each video. Verify each video in Studio, never assume a checked box. The five artist-wide genre labels are Ambient, Dungeon Synth, Black Metal, Atmospheric Black Metal and Dark Ambient. They describe Burzum's broader output and user playlist convention, not necessarily this track's sound. Sources https://rateyourmusic.com/artist/burzum ; https://rateyourmusic.com/release/album/burzum/the-ways-of-yore/ ; https://www.qobuz.com/no-en/album/the-ways-of-yore-burzum/sjogn700fqtgb .
