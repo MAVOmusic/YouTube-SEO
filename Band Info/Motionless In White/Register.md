@@ -91,3 +91,7 @@ Relevant names below are artist associations, not an assertion they play on each
 ## Another Life refreshed pass
 
 - LF 0002, 0004 (play-along), 0033; Shorts 0021, 1521, 1778. [Song facts](Another%20Life/Another%20Life.md) and [comparison](Another%20Life/Analysis.md). Proposals are not confirmed Studio changes.
+
+## Masterpiece - analytics requested
+
+Chronological IDs LF 0003 (dedicated play-along), 0119; Shorts 0147 and 1864. See [pending analysis](Masterpiece/Analysis.md) for older numbering, playlist exclusions and evidence. All five MIW artist genre playlist pairs already confirmed created. Wait for refreshed analytics before preparing copy.
