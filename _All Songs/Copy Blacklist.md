@@ -10,6 +10,10 @@ The user reports all 22 replacements were applied; screenshots independently con
 
 The 12 playlist descriptions and titles in [Burzum starting genre playlists](../Ver%203.0/TXT/Burzum_Starting_Genre_Playlists.md) are reserved as proposals, not proof of live edits. Do not reuse their creative sentences or CTAs in future copy.
 
+## Latest playlist-description drafts
+
+The 12 replacement descriptions in [Latest Uploads Refresh](../Ver%203.0/TXT/Playlist_Descriptions_Latest_Uploads.md) are reserved candidate copy; the earlier Burzum-specific set remains historical. User has not confirmed these replacements were applied.
+
 ## Completed in this new pass
 
 ### LF 0001 - Burzum - Autumn Leaves
