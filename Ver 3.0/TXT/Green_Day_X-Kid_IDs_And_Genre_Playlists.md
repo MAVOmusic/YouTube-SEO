@@ -1,6 +1,6 @@
 # Green Day - X-Kid: IDs and missing genre playlists
 
-Prepared 2026-11-10. No YouTube playlist was created, edited or deleted by the agent. Everything below is copy for the user to paste in Studio.
+Prepared 2026-11-10. No YouTube playlist was created, edited or deleted by the agent. Everything below is copy for the user to paste in Studio. The user reported on 2026-11-10 that the Green Day genre playlists have been created, so the five genres are recorded as created; the exact subset was not enumerated.
 
 ## Every indexed X-Kid ID
 
@@ -59,7 +59,7 @@ Punk Rock - Rocksmith 2014 Bass Shorts
 **Description**
 
 ```text
-🥁 Bite-sized punk rock bass, trimmed from longer sessions. Fresh clips arrive at the front of this playlist, so the newest one is always in line first.
+🥁 Punk rock bass in under a minute. Every clip here was played for this format alone, not lifted from another video, and the newest one appears first.
 
 🎵 Short, fast and loud. Tell me which punk track deserves the next thirty seconds.
 
@@ -99,7 +99,7 @@ Pop Punk - Rocksmith 2014 Bass Shorts
 **Description**
 
 ```text
-✨ Bright choruses in half a minute. These clips were trimmed from the same full sessions, and new ones load at the front of the playlist.
+✨ Bright choruses, thirty seconds at a time. Each Short is a separate brief take of its own, and new uploads load at the front of the playlist.
 
 🎤 Singalong hooks, punchy low end. Which one would you want to hear in full?
 
@@ -139,7 +139,7 @@ Alternative Rock - Rocksmith 2014 Bass Shorts
 **Description**
 
 ```text
-🎬 Alternative rock in short bursts. Each clip comes out of a longer session, and the newest upload leads the running order.
+🎬 Alternative rock in short bursts. Each clip is a compact bass run of its own, and the newest upload leads the running order.
 
 🔊 Distorted, clean or somewhere between. Which alternative rock moment works best as a Short?
 
@@ -179,9 +179,9 @@ Skate Punk - Rocksmith 2014 Bass Shorts
 **Description**
 
 ```text
-🔥 Skate punk riffs in the time it takes to scroll. Fresh clips appear first here, all sight-read straight from the game.
+🔥 Skate punk riffs in the time it takes to scroll. Every clip was recorded on its own rather than clipped out of a longer video, and the freshest ones come first.
 
-🎯 Speed is the point. Which track would you like cut down into a Short?
+🎯 Speed is the point. Which track would you like to see in a Short?
 
 🟢 Drop into the Kick chat: https://www.kick.com/mavomusic
 🟣 Or catch the Twitch edition: https://www.twitch.tv/mavomusic
@@ -219,18 +219,20 @@ Power Pop - Rocksmith 2014 Bass Shorts
 **Description**
 
 ```text
-🎈 Power pop in a single minute or less. New clips land at the front, each one pulled from a full play-through.
+🎈 Power pop in a single minute or less. Each Short is a brief take recorded for this format, and new clips land at the front.
 
-🎹 Sweet melody, solid low end. Which chorus deserves the Short treatment next?
+🎹 Sweet melody, solid low end. Which chorus deserves the next Short?
 
 🟢 Join the live session on Kick: https://www.kick.com/mavomusic
 🟣 Watch the mirror feed on Twitch: https://www.twitch.tv/mavomusic
 💬 Bring your favourites to Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-## Separate gap worth knowing
+## Correction, 2026-11-10: there is no play-along Shorts playlist
 
-The registry also has no Shorts counterpart for the play-along series. Dedicated play-alongs go to the Play Along playlist and stay out of the genre lists, and Shorts 0010, 1524 and 1772 are play-along Shorts, so they have nowhere to go right now. If that list should exist, the matching title would be `Rocksmith 2014 Bass Play Along Shorts` with the same three-link description shape. Not created, and not part of the ten above.
+An earlier version of this file suggested creating `Rocksmith 2014 Bass Play Along Shorts` because it assumed Shorts 0010, 1524 and 1772 were play-along Shorts with nowhere to go. That was wrong. There is no such thing as a play-along Short on this channel. The dedicated play-along rule applies to the full-song long forms only, and Shorts are ordinary Shorts that belong in the genre lists plus the Shorts All Genres list like every other Short. No play-along Shorts playlist should exist and none is proposed.
+
+The earlier Shorts descriptions in this file were also wrong in a second way: they described the clips as trimmed, cut down or pulled from longer sessions. Shorts are their own separate recordings, not excerpts of a long form. The descriptions below are corrected and no longer say that.
 
 ## Notes
 
