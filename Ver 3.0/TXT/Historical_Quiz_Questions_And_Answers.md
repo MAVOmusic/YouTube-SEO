@@ -398,6 +398,44 @@ Answer below.
 
 **Note:** None of the three is named in the description. The description carries the chart result instead, so the comment and the copy do not repeat each other.
 
+## Yellowcard - Fighting - Long 0684
+
+**Status:** proposed 2026-11-10. Nothing is pinned on this upload yet, so this comment is the one to pin.
+
+```text
+🎛 Quiz: where did Paper Walls land on the Billboard 200 in 2007?
+A) 13
+B) 5
+C) 31
+
+Answer below.
+```
+
+**Answer:** A) 13
+
+**Evidence:** https://en.wikipedia.org/wiki/Paper_Walls - the commercial performance section gives a debut at number 13 on the Billboard 200 with 40,000 first week copies.
+
+**Note:** Neither the position nor the chart appears in the description, so the answer is not printed. The 5 option is the Lights and Sounds debut, kept as a near miss. The studio question was dropped because the description already names Ocean Studios in Burbank.
+
+## Yellowcard - Fighting - Short 2431
+
+**Status:** proposed 2026-11-10. Nothing is pinned on this upload yet, so this comment is the one to pin.
+
+```text
+📀 Quiz: which song was the only single released from Paper Walls?
+A) Light Up the Sky
+B) Fighting
+C) The Takedown
+
+Answer below.
+```
+
+**Answer:** A) Light Up the Sky
+
+**Evidence:** https://en.wikipedia.org/wiki/Paper_Walls - the singles list carries Light Up the Sky only, released 5 June 2007, and the article names it as the lead single.
+
+**Note:** All three options are tracks on the album and none is named in the description.
+
 ## Historical quiz references without recoverable question
 
 - (G)I-DLE - Tomboy, older CO-0050 / LF 0050: Channel_Order_Audit_Log.txt describes a historical proposed "fact quiz" but does not provide its wording or answer there. The current _03 - Copy.md contains a different opinion question. Do not invent the missing historical quiz or assume it was posted.

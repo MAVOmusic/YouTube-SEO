@@ -511,3 +511,8 @@ Correction: User specifically instructed us to retrieve the comments previously 
 2026-11-10 .38 Special two-version check: both packages share zero five-word phrases with each other once the song title is set aside, and zero with the whole accessible corpus. Three rewrites were needed before that, all on the note-highway and call-to-action wording. Full analytics in TXT/38_Special_If_Id_Been_The_One_Two_Versions_Review.md.
 
 2026-11-10 STUDIO CHANGE: the sidebar item Analytics is now Insights and the page is headed Video insights, with Reach, Engagement, Audience and Revenue cards and an Ask Studio summary panel. Folder names stay `_02 - Analytics` because every path, the catalogue checker and the long-form gate depend on them. Recorded in TXT/Studio_Insights_UI_2026-11-10.md.
+
+2026-11-10 LF 0684 Yellowcard - Fighting (normal long form): description opens on the track position and release date, then the personnel angle, with the album being the last Yellowcard record with Peter Mosely on bass and the first with Ryan Mendez on guitar. Chosen because it is the only sourced fact that separates this song from the band's better known singles. Pinned comment is a new quiz on the album's Billboard 200 position, answer kept out of the description.
+
+2026-11-10 Short 2431 Yellowcard - Fighting: description opens on the album's release and its Capitol swansong, then the ten behind the scenes Myspace videos and Ryan Key's line about the record being a story of finding yourself again. The third block says plainly that this is its own short take and not a section lifted from the long form. Pinned comment is a new quiz on the only single from the album, answer kept out of the description.
+
