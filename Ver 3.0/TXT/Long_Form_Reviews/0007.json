@@ -1,12 +1,12 @@
 {
   "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-03",
+  "reviewed_at": "2026-11-10",
   "surface_sha256": {
-    "title": "23111ab914b3b68fb57aa53e5579569fc2a40541434d577139d6b16bcbcf5e0c",
-    "description": "a8c9dd639727236374ee308fd218d0523c8f0b6e9a37c70e39cf8eb5f28397b1",
-    "tags": "f0d32861e0408d6bccb4eecae6bc5014bb625c792889ef53cb8316ff2e103321",
-    "pinned comment": "24a888863c61de09c70888878afac8399f5e925d75ff08ca0de6f6cb7942d418",
-    "genres": "95ac3ff9537bfdc77b6c20d19ab840c5aeeaae280caf43f6b64a3206bd91be82"
+    "title": "c0553cd7828df5e71a52854a8fe22d9cf48a457b1c6d6b2aab805029ed1886b7",
+    "description": "90c1083b0ee54e2f98d8ea9c91e89a2d7efe0036b47d3cf08518f286ea5da59b",
+    "tags": "e85caf61483f9553f26b706e0ac5542ff42ea04d6db6330a8d70745a1983decf",
+    "pinned comment": "e6c219331118b2699f7d17bd8e7f5524fa765d729f6d68397e2770d084846e81",
+    "genres": "4117eb9ace3954bc56be6964323f2154af18f87eaee97ebd0469c07eddf0f992"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -17,190 +17,82 @@
   },
   "claims": [
     {
-      "surface": "description",
-      "claim": "Immaculate Misconception opens Motionless In White debut Creatures.",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html",
-      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+      "surface": "title",
+      "claim": "Ricky Olson played bass on Creatures: Immaculate Misconception",
+      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album); user instruction that every recording is a bass sight-read in Rocksmith 2014 Remastered",
+      "assessment": "The personnel list credits Ricky \"Horror\" Olson on bass for Creatures, and Immaculate Misconception is track 1 on that album. The credit describes the record, not whose hands played this upload. Song-first opener, no possessive opener, no plain Band - Song and no [Song] is [Band] shape."
     },
     {
       "surface": "description",
-      "claim": "Dee Snider of Twisted Sister appears in the song music video.",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html",
-      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+      "claim": "Ricky Horror Olson held the bass on Creatures, and Immaculate Misconception is the song that opens that record.",
+      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)",
+      "assessment": "Personnel and track order both come from the album page, which lists Immaculate Misconception as track 1 at 3:54."
     },
     {
       "surface": "description",
-      "claim": "MAVO plays bass while the Rocksmith note chart is on screen.",
-      "source": "User explicit instruction in conversation; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_01 - Main Info/0002 - Motionless In White -  Immaculate Misconception (Long Form) - Details.jpeg",
-      "assessment": "User confirms performance; image is historical and can establish identity/format only, not whole-video gear, playing or continuous tuning."
+      "claim": "Creatures was the band's debut album, out on Fearless in October 2010 and produced by Andrew Wade.",
+      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)",
+      "assessment": "Release date 12 October 2010, label Fearless and producer Andrew Wade are all on the album page. No exact day is quoted in the copy."
     },
     {
       "surface": "description",
-      "claim": "Kick first, Twitch mirror and Discord invitation.",
-      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
-      "assessment": "Channel routing requested by user; no promise about schedule or boost rewards."
+      "claim": "The chart stays on screen for the full four minutes, so any section can be looped and replayed.",
+      "source": "Description screenshots for this video; user instruction that every recording is a bass play-through on Rocksmith 2014 Remastered",
+      "assessment": "Describes the on-screen note highway for a 4:07 video. It is not called tablature, and no difficulty or learning-outcome promise is made."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick first, Twitch as the replay, Discord last.",
+      "source": "_All Songs/Copy Blacklist.md channel routing; user standing instruction",
+      "assessment": "Routing requested by the user. No schedule promise and no boost reward claim."
     },
     {
       "surface": "pinned comment",
-      "claim": "Which part of Immaculate Misconception would you break down first when learning it?",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; historical screenshot of creator pin in folder",
-      "assessment": "Opinion or question; checked for unsupported premise. Screenshot does not show current YouTube comments or establish the absence of an artist comment."
+      "claim": "Ricky Olson was the bassist on Creatures. Which track would you want played through next?",
+      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)",
+      "assessment": "The credit is factual and the question asks for viewer preference, so it asserts nothing about them. The existing creator question posted 8 days ago is preserved and is not deleted."
     },
     {
       "surface": "tags",
-      "claim": "motionless in white",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_01 - Main Info/0002 - Motionless In White -  Immaculate Misconception (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+      "claim": "motionless in white, immaculate misconception, immaculate misconception bass, creatures, 2010",
+      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album); Reach screenshot in the folder",
+      "assessment": "Identity, album and year. The search terms panel lists the song title, so the exact wording is used."
     },
     {
       "surface": "tags",
-      "claim": "immaculate misconception",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_01 - Main Info/0002 - Motionless In White -  Immaculate Misconception (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+      "claim": "ricky olson, chris motionless, chris cerulli, josh balz, angelo parente, andrew wade",
+      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)",
+      "assessment": "Personnel credited on Creatures plus the producer. Credits are not proof of who appears in this upload."
     },
     {
       "surface": "tags",
-      "claim": "immaculate misconception bass",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_01 - Main Info/0002 - Motionless In White -  Immaculate Misconception (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+      "claim": "metalcore, gothic metal, industrial metal, nu metal, hard rock",
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White ; https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)",
+      "assessment": "Artist-wide classifications, consistent with the rest of this artist. Creatures itself is listed as metalcore, screamo, post-hardcore and shock rock, so the tags are artist level, not a claim about this recording."
     },
     {
       "surface": "tags",
-      "claim": "creatures",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_01 - Main Info/0002 - Motionless In White -  Immaculate Misconception (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+      "claim": "rocksmith bass motionless in white, bass cover, bass play along, rocksmith 2014 remastered, motionless in white bass cover, miw, motionles in white",
+      "source": "User instruction; Reach search terms panel",
+      "assessment": "Format wording taken from the queries viewers already use. No bass tab tag, because the video shows a note highway rather than written tablature."
     },
     {
       "surface": "tags",
-      "claim": "metalcore",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_01 - Main Info/0002 - Motionless In White -  Immaculate Misconception (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass cover",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_01 - Main Info/0002 - Motionless In White -  Immaculate Misconception (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass play along",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_01 - Main Info/0002 - Motionless In White -  Immaculate Misconception (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "rocksmith bass",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_01 - Main Info/0002 - Motionless In White -  Immaculate Misconception (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "rocksmith 2014",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_01 - Main Info/0002 - Motionless In White -  Immaculate Misconception (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "2010",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_01 - Main Info/0002 - Motionless In White -  Immaculate Misconception (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass guitar",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_01 - Main Info/0002 - Motionless In White -  Immaculate Misconception (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "play along",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; https://www.albumoftheyear.org/album/96279-motionless-in-white-creatures.php; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_01 - Main Info/0002 - Motionless In White -  Immaculate Misconception (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "rocksmith bass motionless in white",
-      "source": "_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
-      "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
-    },
-    {
-      "surface": "tags",
-      "claim": "motionless in white immaculate misconception",
-      "source": "_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
-      "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
-    },
-    {
-      "surface": "title",
-      "claim": "Immaculate Misconception kicks off Creatures - MIW bass",
-      "source": "https://mediakits.concord.com/p/creatures/press-release.html; user-confirmed bass performance",
-      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload."
+      "claim": "mavomusic, mavomusicyt",
+      "source": "User-confirmed channel handles",
+      "assessment": "Channel identifiers requested by the user."
     },
     {
       "surface": "genres",
-      "claim": "Metalcore",
-      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Gothic metal",
-      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Industrial metal",
-      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Nu metal",
-      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Hard rock",
-      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "tags",
-      "claim": "miw",
-      "source": "https://www.metalkingdom.net/band/motionless-in-white-13548 ; https://www.teepublic.com/long-sleeve-t-shirt/68020707-motionlesss-in-white-band",
-      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
-    },
-    {
-      "surface": "tags",
-      "claim": "motionles in white",
-      "source": "https://www.metalkingdom.net/band/motionless-in-white-13548 ; https://www.teepublic.com/long-sleeve-t-shirt/68020707-motionlesss-in-white-band",
-      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
-    },
-    {
-      "surface": "tags",
-      "claim": "chris motionless",
-      "source": "https://www.songfacts.com/facts/motionless-in-white",
-      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
-    },
-    {
-      "surface": "tags",
-      "claim": "chris cerulli",
-      "source": "https://www.songfacts.com/facts/motionless-in-white",
-      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
-    },
-    {
-      "surface": "tags",
-      "claim": "ricky olson",
-      "source": "https://www.songfacts.com/facts/motionless-in-white",
-      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+      "claim": "Metalcore, Gothic Metal, Industrial Metal, Nu Metal, Hard Rock plus the Rocksmith 2014 Bass Play Along playlist",
+      "source": "User standing instruction; user report that genre was added; playlist field in the screenshot",
+      "assessment": "The user reports genre added on this video. It is a dedicated play-along and still belongs in the Play Along playlist. No playlist is recreated and membership is user-reported, not verified here."
     }
   ],
-  "distinct_fact_and_source": "Dee Snider cameo, distinct from 0005 Salem angle. https://mediakits.concord.com/p/creatures/press-release.html",
-  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
-  "uncertainties_and_removed_claims": "Removed broad speed tags and earlier unverified performance tuning; melodic metalcore is album-level support. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03: removed claim that the chart remains visible throughout; still images and user confirmation do not establish continuous visibility. 2026-11-03: genre list now refers to artist classifications, not a song-level guarantee. Typo examples are observed, not verified common search terms; title effectiveness untested.",
-  "collision_report_sha256": "6a68343e013d3814e0b79a49d282eb77eb6c037c7aa9423e16a21f2b9ff36790",
+  "distinct_fact_and_source": "Immaculate Misconception is track 1 on Creatures, and Ricky \"Horror\" Olson is the bassist credited on that album. That bass-credit angle is used nowhere else across the four versions and is distinct from the Dee Snider cameo, the Ocala recording session and the 2011 single release. https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)",
+  "uniqueness_assessment": "Zero five-word signals against every extractable long-form copy file after rewording the Kick and Discord lines that collided with earlier videos. Title, description and pin were also checked for shape reuse against the recent Motionless In White titles, including the earlier draft that this replaces. The 50-intervening-upload window is paused by the user and off-repository copy cannot be read, so semantic uniqueness is not certified.",
+  "uncertainties_and_removed_claims": "Supersedes the 2026-11-03 package and the live title, description and tags that came from it. Dropped the Dee Snider line, which now belongs to 0178, and dropped the boost request that sat inside the Discord CTA. No equipment, difficulty or tuning claim is made, because the tuner reading in the screenshot is not legible enough to quote. Screenshots show displayed values; the comment editor does not prove what is pinned. No Studio edit was made and no click-through effect is claimed.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
 }

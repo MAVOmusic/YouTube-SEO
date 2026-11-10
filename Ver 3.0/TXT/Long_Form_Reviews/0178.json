@@ -1,0 +1,98 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-10",
+  "surface_sha256": {
+    "title": "37b1b76bc3df05806a16f49093f0d52e0361ef8ca8a91dac15a3340c46f0d6f6",
+    "description": "58f3678397158875faff14c91c67d2302bd956fb3b34ec68e45887391aac5d59",
+    "tags": "01332469c61a547d2d24c433def699fbcdc1a1d5ca74ba991173d6fa19277679",
+    "pinned comment": "07ae96fda3ae3b2d239eac18c1932c86b98276e4c2786065279372651c8e6bca",
+    "genres": "c80750d2aa50ce875adc8b576c2173319b4bccc173520a899594ea2127df4349"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Immaculate Misconception and the Dee Snider cameo in its 2011 video",
+      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)",
+      "assessment": "The album page states the video surfaced on 11 November 2011, features Dee Snider in a cameo while his son Cody directed it. The title describes that official video rather than claiming anything about the visuals of this upload. Song-first, no possessive opener and no plain Band - Song shape."
+    },
+    {
+      "surface": "description",
+      "claim": "The Immaculate Misconception video landed in November 2011 with a Dee Snider cameo, and his son Cody directed it.",
+      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)",
+      "assessment": "Cameo, director and month all match the album page. The copy says video, not this video, so it does not imply the cameo appears in this bass cover."
+    },
+    {
+      "surface": "description",
+      "claim": "The song itself opens Creatures, the debut album from 2010 that put Motionless In White on the map.",
+      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)",
+      "assessment": "Track 1 on the 2010 debut. The phrase about putting the band on the map is editorial colour, not a chart or sales claim."
+    },
+    {
+      "surface": "description",
+      "claim": "This is the whole track played on bass with the note highway running underneath.",
+      "source": "User instruction that every recording is a bass sight-read in Rocksmith 2014 Remastered; description screenshot for this video",
+      "assessment": "Format claim only. The note highway is not described as tablature, and no single-take or perfection claim is made."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick first, Twitch as the mirror, Discord last.",
+      "source": "User standing instruction",
+      "assessment": "Routing requested by the user. No schedule promise and no boost reward claim."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Dee Snider appears in the video while his son Cody directs it. Did you spot that connection before now?",
+      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)",
+      "assessment": "Cameo and director are factual, and the question asks about the viewer memory rather than asserting what they know. The existing Super Thanks comment is preserved and not deleted."
+    },
+    {
+      "surface": "tags",
+      "claim": "motionless in white, immaculate misconception, immaculate misconception bass, creatures, 2010, 2011",
+      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album); Reach search terms panel",
+      "assessment": "Identity, album, album year and video year. The live tag set held none of these."
+    },
+    {
+      "surface": "tags",
+      "claim": "dee snider, cody snider, twisted sister",
+      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album) ; https://en.wikipedia.org/wiki/Dee_Snider",
+      "assessment": "The cameo guest, the director and the guest band are all named in the source. These are widely recognised names, so they are tagged in full."
+    },
+    {
+      "surface": "tags",
+      "claim": "metalcore, gothic metal, industrial metal, nu metal, hard rock",
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
+      "assessment": "Artist-wide genres, matching the five existing playlist pairs."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover, rocksmith 2014 remastered, rocksmith bass, motionless in white bass cover, miw, motionles in white",
+      "source": "User instruction; title and description",
+      "assessment": "Format and identity tags. No bass tab tag."
+    },
+    {
+      "surface": "tags",
+      "claim": "chris motionless, chris cerulli, ricky olson, mavomusic, mavomusicyt",
+      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album); user-confirmed handles",
+      "assessment": "Members credited on Creatures plus the channel handles. Membership is not a claim about who plays on this upload."
+    },
+    {
+      "surface": "genres",
+      "claim": "Metalcore, Gothic Metal, Industrial Metal, Nu Metal, Hard Rock plus Long Form All Genres",
+      "source": "User standing instruction; user report that genre was added",
+      "assessment": "Normal long form takes the genre lists and the All Genres list. Those playlists already exist and must not be recreated. Membership is user-reported, not verified here."
+    }
+  ],
+  "distinct_fact_and_source": "The Immaculate Misconception video paired a Dee Snider cameo with his son Cody Snider directing, and it surfaced on 11 November 2011. That is distinct from the Ricky Olson bass credit used on 0007, the Ocala recording session used on Short 0205 and the 2011 single release used on Short 1923. https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)",
+  "uniqueness_assessment": "Zero five-word signals against every extractable long-form copy file after rewording the Rocksmith chart clause that collided with Abigail and the Discord greeting that collided with Long Form 0147. Recent Motionless In White titles were checked for shape reuse. The 50-intervening-upload window is paused by the user and off-repository copy cannot be read, so semantic uniqueness is not certified.",
+  "uncertainties_and_removed_claims": "Replaces the live bracket-emoji title, the 2025 stream template and the seven channel-only tags. No schedule, Super Thanks, Rumble, X or TikTok wording is carried forward, and no partnership or earnings claim is made. Did not claim the video was cut from a live broadcast, because the screenshots do not show that. Screenshots show displayed values; the comment editor does not prove what is pinned. No Studio edit was made and no click-through effect is claimed.",
+  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}
