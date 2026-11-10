@@ -177,7 +177,31 @@ Boogie Rock - Rocksmith 2014 Bass Shorts
 
 Full analytics and limits in [the two-version review](38_Special_If_Id_Been_The_One_Two_Versions_Review.md).
 
-Playlist evidence after the pass: Short 0467 shows 6 playlists, which matches five genre Shorts lists plus Shorts All Genres, so the three new Shorts lists are recorded as confirmed created on that basis. The three long-form variants stay proposed, because nothing in either folder shows them and 0010 is a dedicated play-along that stays out of genre lists. Long 0010's own playlist field shows only the Play Along list, which does not match the user's "genres added" report; both are recorded.
+Playlist evidence after the pass: Short 0467 shows 6 playlists, which matches five genre Shorts lists plus Shorts All Genres, so it supports the report. None of the six names is visible in a screenshot, so all six rows stay proposed until the names are confirmed. The three long-form variants would not be routed to 0010 anyway, because it is a dedicated play-along that stays out of genre lists. Long 0010's own playlist field shows only the Play Along list, which does not match the user's "genres added" report; both are recorded.
+
+## Live Studio state, 10 November 2026
+
+| | LF 0010 | Short 0467 |
+| --- | --- | --- |
+| Published | 11 Apr 2024 | 27 Jul 2024 |
+| Length | 4:10 | 0:34 |
+| Views | 1,347 | 646 |
+| Watch time | 12.6 h | 3.7 h |
+| Unique viewers | 1.0k | 582 |
+| Subscribers | +61 | +2 |
+| Likes | 38 | 22 |
+| Comments | 4 | 2 threads |
+| AVD | 0:33 of 4:10, 13% | 0:22 of 0:34, 65% |
+| Stayed | 18.9% still at 0:30 | 29.9% |
+| Revenue | GBP 0.00, Ineligible to earn | GBP 0.01, RPM GBP 0.02, Shorts Feed ads |
+| Impressions | 4.4k at 5.0% | not shown |
+| Top traffic | External 73.7% | Shorts feed 81.0% |
+| YouTube search | 6.5% | 12.4% |
+| Top geography | India 54.9% | United States 35.5% |
+
+Live titles before this pass: 0010 "Southern rock bass meets .38 Special's If I'd Been The One", 0467 ".38 Special - If I'd Been The One (Bass) #rocksmith #bass #38special". Live tags before this pass: 0010 17 at 261/500 with a misspelling and generic entries, 0467 495/500 with duplicates.
+
+The Insights pages are the new Studio layout: Reach, Engagement, Audience and Revenue cards, plus 48-hour views and an Ask Studio summary. Folders stay `_02 - Analytics` because the catalogue checks and the long-form gate resolve those paths. See [Studio_Insights_UI_2026-11-10.md](Studio_Insights_UI_2026-11-10.md).
 
 ## What is still needed to finish this song
 
