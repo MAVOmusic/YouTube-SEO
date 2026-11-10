@@ -1,11 +1,27 @@
-# Motionless In White - A-M-E-R-I-C-A: long form 0006 and the Short
+# Motionless In White - A-M-E-R-I-C-A: every indexed version
+
+## All indexed versions
+
+| Format | ID | Folder | Screenshots | Status |
+| --- | --- | --- | --- | --- |
+| Long form | **0006** | `0006 - Motionless In White - America [U - 2026-11-09]` | Yes | Reviewed 2026-11-09 |
+| Long form | **0147** | None yet | No | Indexed only, awaiting folder |
+| Short | **0186** | None yet | No | Indexed only, awaiting folder |
+| Short | **1892** | None yet | No | Indexed only, awaiting folder |
+
+The index spells the song three ways: "America" at 0006 and 0186, "A.M.E.R.I.C.A." at 0147 and 1892. The album track is "A-M-E-R-I-C-A"; the variants are index spellings, not different songs.
+
+**0147 was missed in the first pass of this review.** It is a separate long-form upload, not the play-along, and it has no folder or screenshots yet. Every indexed version of each play-along song is now mapped in `Ver 3.0/TXT/Play_Along_Series_ID_Map.md`, so this gap does not repeat on 0007 to 0010.
+
+### Are 0186 and 1892 the same upload listed twice?
+
+Probably not. Rows 1889 to 1897 repeat rows 0182 to 0190 in the same order: Linkin Park - Papercut, A Day To Remember - Another Song About The Weekend, Willie Nelson - Whiskey River, Motionless In White, Sabaton - Metal Crüe, Adam And The Ants, 12 Stones, Sabaton - The Ballad Of Bull, Twenty One Pilots - Stressed Out. The offset drifts between 1703 and 1707 because a few entries are missing from the later run, for example ABBA - Thank You For The Music sits at 0185 but has no counterpart before 1892. Both folders also appear in the folder-name snapshot. So the likeliest reading is two separate batches that covered a similar set of songs, and both A-M-E-R-I-C-A Shorts exist. Confirm in Studio before treating them as one video.
 
 Reviewed 2026-11-09 from the refreshed long-form screenshots. Screenshots show data from 25 Oct 2022 to 1 Nov 2026. Nothing here is a Studio edit.
 
-## Versions found
+## LF 0006 in detail
 
-- **LF 0006** - dedicated bass play-along, 3:50. Folder now marked `[U - 2026-11-09]`.
-- **Short** - no folder and no screenshots in the repository. The Short index has two rows for this song: **0186** (Motionless In White - America) and **1892** (Motionless In White - A.M.E.R.I.C.A.). Both are listed in the folder-name snapshots, so both were planned or uploaded at some point. Neither is reviewed here. Upload the folder for the one you want reviewed, or confirm which ID pairs with 0006.
+- Dedicated bass play-along, 3:50. Folder now marked `[U - 2026-11-09]`.
 
 ## LF 0006 analytics
 
@@ -63,9 +79,15 @@ motionless in white, a-m-e-r-i-c-a, america, motionless in white america, a-m-e-
 
 The folder also holds a long 2022 creator comment with a stream schedule and a surgery note. That comment is stale, so my suggestion is to keep the text but unpin it, rather than delete a genuine comment. That is your call.
 
-## Short - provisional only, not reviewed
+## Long form 0147 and the Shorts - provisional drafts only
 
-No screenshots were supplied, so there are no analytics, no current title, no related-video target and no comment state for the Short. Treat the text below as a draft to hold until the folder is uploaded. Confirm the related video points at LF 0006 before using the CTA line.
+No screenshots exist for 0147, 0186 or 1892, so there are no analytics, no current titles, no related-video targets and no comment states for any of them. What follows is a held draft package for the normal long form and the Short. Do not apply it until the corresponding folder has been reviewed against its own numbers.
+
+### LF 0147 - held draft, no analytics
+
+Confirm first whether this is a full-song upload or a different edit, and whether it duplicates the 0006 arrangement. Do not reuse the 0006 title shape or its five-word runs.
+
+### Short - held draft, no analytics Treat the text below as a draft to hold until the folder is uploaded. Confirm the related video points at LF 0006 before using the CTA line.
 
 ### Title (66 characters)
 
