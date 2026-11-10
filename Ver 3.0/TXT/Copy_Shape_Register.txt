@@ -482,4 +482,8 @@ Correction: User specifically instructed us to retrieve the comments previously 
 
 2026-11-10 Short 1772 Green Day - X-Kid: description opens with the album being pulled forward to 11 December 2012 after the tour section came off. Pin is a quiz on the track that replaced Stray Heart on later pressings, answer kept out of the copy. Replaces the duplicate Band - Song title, the 2022 stream template and the ten legacy tags.
 
+2026-11-10 STANDING RULE: every video gets a creator comment carrying a fact, quiz, trivia or sourced question, whether or not someone else's comment is already pinned. A pinned viewer or artist comment is preserved exactly and does not replace or excuse the creator comment, which is posted as its own comment beneath it. Recorded in TXT/Creator_Comment_Rule.md.
+
+2026-11-10 Short 1524 Green Day - X-Kid: the pinned @_Nyx_ viewer comment stays pinned and unedited, and a separate creator comment is supplied: Tre is the last Green Day album to credit touring guitarist Jason White as a studio performer, plus a question on whether a fourth guitar is audible. Deliberately not a quiz, so the five X-Kid comments are not five quizzes in a row.
+
 2026-11-10 X-Kid five-version check: all five packages share zero five-word phrases with each other and zero with the whole accessible corpus, 803 blocks of _03 - Copy.md and delivered review copy. Full analytics and sources in TXT/Green_Day_X-Kid_Five_Versions_Review.md.

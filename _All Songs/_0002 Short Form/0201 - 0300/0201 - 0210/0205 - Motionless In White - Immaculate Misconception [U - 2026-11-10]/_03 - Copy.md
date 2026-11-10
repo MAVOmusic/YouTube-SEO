@@ -1,6 +1,6 @@
 # Short 0205 | Rewritten copy (Ver 4.34)
 
-> Reviewed 2026-11-10 from refreshed Studio screenshots in this folder. Proposed copy only, not a Studio edit. Normal Short, so it takes the five Shorts genre playlists plus Shorts All Genres. The pinned viewer comment from @anthonydustini stays pinned; the creator text below is optional and would be posted unpinned.
+> Reviewed 2026-11-10 from refreshed Studio screenshots in this folder. Proposed copy only, not a Studio edit. Normal Short, so it takes the five Shorts genre playlists plus Shorts All Genres. The pinned viewer comment from @anthonydustini stays pinned; the creator comment below is required and is posted unpinned beneath it.
 
 ## TITLE (59 characters)
 

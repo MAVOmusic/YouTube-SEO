@@ -72,6 +72,8 @@ result only says the specified records and hashes exist and agree; an agent must
 independently assess facts and review all material. The existing verify.sh covers
 bands/ packages only and must never be cited as approval of long-form files.
 
+COMMENTS: every video needs a creator comment carrying a fact, quiz, trivia or sourced question, whether or not a viewer or artist comment is already pinned. A preserved pin does not replace it: supply both surfaces, and post the creator comment as its own comment. See TXT/Creator_Comment_Rule.md.
+
 Preserved artist comments: where MAVO elects to keep a real artist's comment,
 write an explicit PINNED COMMENT heading saying preserve / do not replace and a
 single blockquote line beginning `> PRESERVED ARTIST COMMENT: ` followed by the
