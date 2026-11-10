@@ -18,6 +18,7 @@ Notes:
 - The play-along long form is always the numeric ID that matches its series position: 0003 to 0010.
 - Rows are chronological upload IDs from the current indexes, not legacy master-repository numbers, and they are not YouTube IDs.
 - Splitting a song across two or three short rows does not prove separate takes. Check each folder in Studio.
+- My Chemical Romance - Welcome To The Black Parade (0009): all seven versions now have folders and screenshots, Long 0009, 0167 and 0673 plus Shorts 0068, 1434, 1912 and 2420. Genre playlist copy in `Ver 3.0/TXT/MCR_Black_Parade_IDs_And_Genre_Playlists.md`. There is no play-along Shorts playlist; Shorts route to the genre lists and Shorts All Genres like any other Short.
 - Green Day - X-Kid (0008) needs five folders in total: Long 0008 (play-along, screenshots present), Long 0027 (screenshots present), Shorts 0010 (screenshots present), 1524 and 1772 (no folders yet). Its genre lists are absent from the playlist registry, so ten proposed titles and descriptions are in `Ver 3.0/TXT/Green_Day_X-Kid_IDs_And_Genre_Playlists.md`.
 - Reviewed so far: Long 0003 and 0119, Short 0147 and 1864 (Masterpiece); Long 0002, 0004 and 0033, Short 0021, 1521 and 1778 (Another Life); Long 0005 and Short 0152 (Abigail); Long 0006 (A-M-E-R-I-C-A). Note that Short 0147 and Long 0147 are different videos from different songs.
 - Folder markers follow the current convention: reviewed videos end in `[U - date]`, unreviewed long forms keep `(Long Form)`.

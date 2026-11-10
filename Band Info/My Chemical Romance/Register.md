@@ -59,6 +59,18 @@ Relevant names below are artist associations, not an assertion they play on each
 
 - gerard way - https://en.wikipedia.org/wiki/My_Chemical_Romance
 
+## Welcome To The Black Parade - seven indexed versions
+
+Chronological IDs: LF **0009** (dedicated play-along, series position 0009), **0167** and **0673** (normal long forms); Shorts **0068**, **1434**, **1912** and **2420**. All seven folders exist with screenshots. None is marked reviewed yet; the 0167, 0673 and four Shorts copies date from earlier passes and the 0009 copy is the older Ver 4.17 package.
+
+Routing: 0009 goes to the Rocksmith 2014 Bass Play Along Videos playlist only. The other two long forms and all four Shorts take Alternative Rock, Emo, Pop Punk and Post-Hardcore plus the matching All Genres list.
+
+Playlist status: Alternative Rock and Pop Punk are reported created as part of the Green Day genre batch on 2026-11-10. Emo and Post-Hardcore were missing from the registry, so four new lists are proposed with copy in `Ver 3.0/TXT/MCR_Black_Parade_IDs_And_Genre_Playlists.md`.
+
+Artist genres remain Alternative rock, Emo, Pop punk and Post-hardcore, used artist-wide rather than per track.
+
+Sources: `Long Form 0001 - 1000.md`, `Short Form 0001 - 3000.md`, `Ver 3.0/TXT/Playlist_Inventory.json`.
+
 ## CO-0047 - strategy pass, 2026-11-03
 
 - The Xbox 360 version of Guitar Hero II added My Chemical Romance's own recording of Dead! The track is on their album The Black Parade, released in 2006.
