@@ -41,7 +41,7 @@ IDs follow the Studio footer and row position, not filenames. Screenshot titles/
 | 0183 | A Day To Remember - Another Song About The Weekend |
 | 0184 | Willie Nelson - Whiskey River |
 | 0185 | ABBA - Thank You For The Music |
-| 0186 | Motionless In White - America |
+| 0186 | Motionless In White - A-M-E-R-I-C-A |
 | 0187 | Sabaton - Metal Crüe |
 | 0188 | Adam And The Ants - That Voodoo! |
 | 0189 | 10 Years - Actions And Motives |

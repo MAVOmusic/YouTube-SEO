@@ -454,9 +454,9 @@ Follow the bass chart on screen and listen to how the part fits against the rest
 Does the early Motionless In White sound pull you in, or do you prefer their later records?
 ```
 
-### 0006 - Motionless In White - America [superseded 2026-11-09, kept for comparison]
+### 0006 - Motionless In White - A-M-E-R-I-C-A [superseded 2026-11-09, kept for comparison]
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America [U - 2026-11-09]/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - A-M-E-R-I-C-A [U - 2026-11-10]/_03 - Copy.md`
 
 **Title**
 
@@ -4160,69 +4160,163 @@ Abigail by Motionless In White, sight-read on bass #rocksmith #bass
 🎥 Kevin McVey directed the 2010 Abigail video and worked on the concept with Chris Motionless. Does it still hold up for you?
 ```
 
-## Motionless In White - A-M-E-R-I-C-A - long form reviewed 2026-11-09
+## Motionless In White - A-M-E-R-I-C-A - four versions reviewed 2026-11-10
 
-Proposed copy from refreshed long-form screenshots. Not a Studio edit. Analytics, sources and limits in [A-M-E-R-I-C-A review](../Ver%203.0/TXT/America_All_Versions_Review.md). Reserve these surfaces under the 50-intervening-upload rule; the rule itself remains paused.
+All four indexed versions reviewed from refreshed screenshots on 2026-11-10. Proposed copy only, no Studio edit confirmed. Analytics, sources and limits in [A-M-E-R-I-C-A review](../Ver%203.0/TXT/America_All_Versions_Review.md). The 50-intervening-upload rule stays paused.
 
 ### LF 0006 - Motionless In White - A-M-E-R-I-C-A (dedicated play-along)
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America [U - 2026-11-09]/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - A-M-E-R-I-C-A [U - 2026-11-10]/_03 - Copy.md`
+
+Dedicated play-along, so it stays in the Rocksmith 2014 Bass Play Along playlist and out of the genre and All Genres lists.
 
 **Title**
 
 ```text
-A-M-E-R-I-C-A spelled out: Motionless In White on bass
+A-M-E-R-I-C-A: the whole Motionless In White song on bass in Eb Drop Db
 ```
 
 **Description**
 
 ```text
-🎸 A-M-E-R-I-C-A came out as a single in April 2013, several months after Infamous arrived in November 2012.
+🎸 Motionless In White tuned down to Eb Drop Db for A-M-E-R-I-C-A, and this run covers the song from the opening note.
 
-🎶 The complete song is here as a bass play-along in Rocksmith 2014 Remastered, with the note chart running alongside, so the part stays easy to follow at your own speed.
+💿 It comes from Infamous, the 2012 record that peaked at number 5 on Billboard's US Top Hard Rock Albums chart.
+
+🎶 Pause wherever the fingering needs work. The note chart stays up for the whole take, first note to last.
 
 🟢 Song requests happen on Kick: https://kick.com/mavomusic
-🟣 The Twitch relay carries the same shows: https://www.twitch.tv/mavomusic
-💬 Bring your Infamous picks to Discord; boosts keep the community going: https://discord.gg/ESGsGkN4j2
+🟣 The streams are mirrored over on Twitch: https://www.twitch.tv/mavomusic
+💬 Swap tuning tips and Infamous favourites in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (31, 493/500 characters)
+
+```text
+motionless in white, a-m-e-r-i-c-a, america, motionless in white america, a-m-e-r-i-c-a bass, infamous, eb drop db, rocksmith bass drop d, metalcore, gothic metal, industrial metal, nu metal, hard rock, bass cover, bass play along, rocksmith 2014 remastered, rocksmith bass, motionless in white bass cover, miw, motionles in white, chris motionless, chris cerulli, ricky olson, ryan sitkowski, devin sola, josh balz, angelo parente, michael vampire, vampires everywhere, mavomusic, mavomusicyt
 ```
 
 **Pinned comment or recommendation**
 
 ```text
-🎥 Shawn Crahan of Slipknot directed the A-M-E-R-I-C-A video in 2013. Does the visual match the song for you?
+🎸 This one sits in Eb Drop Db. Do you keep a bass tuned down for songs like this, or retune every time?
 ```
 
-### Short for A-M-E-R-I-C-A - provisional, unverified
+### LF 0147 - Motionless In White - A-M-E-R-I-C-A (normal long form)
 
-No Short screenshots exist in the repository for this song, and the index holds two candidate rows: Short 0186 and Short 1892. The wording below is a held draft, not a reviewed package. Replace it after the Short folder is uploaded and analysed.
+Source: `_All Songs/_0001 Long Form/0101 - 0200/0141 - 0150/0147 - Motionless In White - A-M-E-R-I-C-A [U - 2026-11-10]/_03 - Copy.md`
+
+Normal long form, so it takes the five long-form genre playlists plus Long Form All Genres.
 
 **Title**
 
 ```text
-Seven letters on bass: Motionless In White and A-M-E-R-I-C-A #bass
+Tim Sköld produced this Motionless In White single. A-M-E-R-I-C-A on bass
 ```
 
 **Description**
 
 ```text
-🎤 A-M-E-R-I-C-A brings in guest vocals from Michael Vampire of Vampires Everywhere!.
+🎥 A-M-E-R-I-C-A arrived in April 2013 as the third single from Infamous, and Tim Sköld produced this track.
 
-🎥 Want the whole song? The related video on this Short has it.
+💿 The album itself landed in November 2012, with Jason Suecof and Tim Sköld sharing production duties.
 
-🟢 Live requests are on Kick: https://kick.com/mavomusic
-🟣 Twitch mirrors each live show: https://www.twitch.tv/mavomusic
-💬 Talk Infamous in Discord, with a boost if you fancy: https://discord.gg/ESGsGkN4j2
+🎸 This is the full song on bass, worked through against the Rocksmith 2014 Remastered note chart without skipping sections.
+
+🟢 Catch the next one on Kick: https://kick.com/mavomusic
+🟣 Twitch carries a mirror of the stream: https://www.twitch.tv/mavomusic
+💬 Say hello between videos in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (27, 392/500 characters)
+
+```text
+motionless in white, a-m-e-r-i-c-a, america, motionless in white america, a-m-e-r-i-c-a bass, infamous, 2012, single, tim skold, jason suecof, metalcore, gothic metal, industrial metal, nu metal, hard rock, bass cover, bass guitar, rocksmith 2014 remastered, rocksmith bass, motionless in white bass cover, miw, chris motionless, chris cerulli, ricky olson, devin sola, mavomusic, mavomusicyt
 ```
 
 **Pinned comment or recommendation**
 
 ```text
-🎬 The whole A-M-E-R-I-C-A play-along is the related video on this Short.
+🎛 Tim Sköld, formerly of KMFDM and Marilyn Manson, produced A-M-E-R-I-C-A. Which producer would you want behind the next Motionless In White record?
+```
 
-💿 Quick quiz: where does A-M-E-R-I-C-A sit on the standard Infamous track list?
-A) Track 1
-B) Track 3
-C) Track 7
+### Short 0186 - Motionless In White - A-M-E-R-I-C-A
+
+Source: `_All Songs/_0002 Short Form/0101 - 0200/0181 - 0190/0186 - Motionless In White - A-M-E-R-I-C-A [U - 2026-11-10]/_03 - Copy.md`
+
+The viewer comment from @loafofbeans8291 stays pinned. The text below is an optional creator comment, posted unpinned.
+
+**Title**
+
+```text
+Hard not to headbang to A-M-E-R-I-C-A - Motionless In White #bass
+```
+
+**Description**
+
+```text
+🎤 Michael Vampire of Vampires Everywhere! guests on A-M-E-R-I-C-A, one of the singles from Infamous.
+
+🎬 The full performance is the related video on this Short if 36 seconds is not enough.
+
+🟢 Join a live request night on Kick: https://kick.com/mavomusic
+🟣 The Twitch stream mirrors the show: https://www.twitch.tv/mavomusic
+💬 Talk Motionless In White in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (26, 420/500 characters)
+
+```text
+motionless in white, a-m-e-r-i-c-a, america, motionless in white america, america motionless in white, infamous, michael vampire, vampires everywhere, metalcore, gothic metal, industrial metal, nu metal, hard rock, bass cover, bass shorts, bass guitar, rocksmith 2014 remastered, rocksmith bass, motionless in white bass cover, miw, motionles in white, chris motionless, chris cerulli, devin sola, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation**
+
+```text
+🎬 The full A-M-E-R-I-C-A performance is the related video on this Short.
+
+💿 Celldweller remixed A-M-E-R-I-C-A for the 2013 deluxe edition of Infamous. Have you heard that version?
+```
+
+### Short 1892 - Motionless In White - A-M-E-R-I-C-A
+
+Source: `_All Songs/_0002 Short Form/1801 - 1900/1891 - 1900/1892 - Motionless In White - A-M-E-R-I-C-A [U - 2026-11-10]/_03 - Copy.md`
+
+No comment is pinned at the moment. The quiz answer is B and is not printed in the description.
+
+**Title**
+
+```text
+A-M-E-R-I-C-A, letter by letter, on bass - Motionless In White #bass
+```
+
+**Description**
+
+```text
+🎸 Seven letters, one bass line, thirty six seconds of A-M-E-R-I-C-A on Rocksmith 2014 Remastered.
+
+🎥 The complete song is on the related video attached to this Short.
+
+🟢 Song picks happen live on Kick: https://kick.com/mavomusic
+🟣 Twitch carries the same stream: https://www.twitch.tv/mavomusic
+💬 Bring your Infamous deep cuts to Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (26, 411/500 characters)
+
+```text
+motionless in white, a-m-e-r-i-c-a, america, america motionless in white, motionless in white america, infamous, metalcore, gothic metal, industrial metal, nu metal, hard rock, bass cover, bass shorts, bass guitar, rocksmith 2014 remastered, rocksmith bass, motionless in white bass cover, miw, motionles in white, chris motionless, chris cerulli, ricky olson, ryan sitkowski, devin sola, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation**
+
+```text
+🎬 The whole A-M-E-R-I-C-A performance is the related video on this Short.
+
+📖 Quiz: which Slipknot member directed the A-M-E-R-I-C-A music video?
+A) Corey Taylor
+B) Shawn Crahan
+C) Jim Root
 
 Answer below.
 ```

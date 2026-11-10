@@ -218,11 +218,12 @@ Researched 2026-11-04 from the snippet index and linked sources. These are start
 - Evidence: https://secondhandsongs.com/performance/41640/all
 - Status: preliminary; verify upload and recheck source.
 
-## 0147 - Motionless In White - A.M.E.R.I.C.A.
+## 0147 - Motionless In White - A-M-E-R-I-C-A
 
-- Candidate: The song is listed as A-M-E-R-I-C-A on Infamous (2012); the snippet uses punctuation differently. Confirm the actual version.
+- Candidate: The song is listed as A-M-E-R-I-C-A on Infamous (2012); the snippet used the A.M.E.R.I.C.A. punctuation. Same track, confirmed.
+- Track 3 on Infamous, 3:37, featuring Michael Vampire of Vampires Everywhere!; produced by Tim Sköld. Released as the third single on 23 April 2013. Music video directed by Shawn "Clown" Crahan, released 3 June 2013.
 - Evidence: https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)
-- Status: preliminary; verify upload and recheck source.
+- Status: verified 2026-11-10 from the refreshed screenshots and the album page. Copy written; no Studio edit confirmed.
 
 ## 0148 - Sabaton - Metal Crüe
 

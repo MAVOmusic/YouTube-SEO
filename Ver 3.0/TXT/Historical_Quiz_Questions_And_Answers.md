@@ -138,6 +138,27 @@ Which one do you choose?
 
 **Evidence:** https://www.discogs.com/release/24321215-Motionless-In-White-Scoring-The-End-Of-The-World
 
+## Motionless In White - A-M-E-R-I-C-A - Short 1892
+
+**Status:** proposed 2026-11-10, not confirmed posted or pinned. No comment is pinned on this Short.
+
+```text
+🎬 The whole A-M-E-R-I-C-A performance is the related video on this Short.
+
+📖 Quiz: which Slipknot member directed the A-M-E-R-I-C-A music video?
+A) Corey Taylor
+B) Shawn Crahan
+C) Jim Root
+
+Answer below.
+```
+
+**Answer:** B) Shawn "Clown" Crahan
+
+**Evidence:** https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album) - the official video for the single was directed by Shawn "Clown" Crahan of Slipknot and released 3 June 2013.
+
+**Note:** Short 0186 covers the same song with a non-quiz pin, so this is the only A-M-E-R-I-C-A quiz and it is not duplicated across the two Shorts.
+
 ## Historical quiz references without recoverable question
 
 - (G)I-DLE - Tomboy, older CO-0050 / LF 0050: Channel_Order_Audit_Log.txt describes a historical proposed "fact quiz" but does not provide its wording or answer there. The current _03 - Copy.md contains a different opinion question. Do not invent the missing historical quiz or assume it was posted.

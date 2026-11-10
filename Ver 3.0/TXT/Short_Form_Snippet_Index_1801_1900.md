@@ -95,7 +95,7 @@ IDs follow screenshot footers and row position, not filenames. Identities are hi
 | 1889 | Linkin Park - Papercut |
 | 1890 | A Day To Remember - Another Song About The Weekend |
 | 1891 | Willie Nelson - Whiskey River |
-| 1892 | Motionless In White - A.M.E.R.I.C.A. |
+| 1892 | Motionless In White - A-M-E-R-I-C-A |
 | 1893 | Sabaton - Metal Crüe |
 | 1894 | Adam And The Ants - That Voodoo! |
 | 1895 | 12 Stones - The Way I Feel |
