@@ -230,6 +230,106 @@
       "description_status": "not independently verified",
       "sort": "not confirmed",
       "url": null
+    },
+    {
+      "genre": "Punk Rock",
+      "format": "long_form",
+      "title": "Punk Rock - Rocksmith 2014 Bass Long Form Videos",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared 2026-11-10 at user request after Green Day - X-Kid; absent from this registry before that date; existence in Studio not checked",
+      "description_status": "proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (to set on creation)",
+      "url": null
+    },
+    {
+      "genre": "Punk Rock",
+      "format": "shorts",
+      "title": "Punk Rock - Rocksmith 2014 Bass Shorts",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared 2026-11-10 at user request after Green Day - X-Kid; absent from this registry before that date; existence in Studio not checked",
+      "description_status": "proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (to set on creation)",
+      "url": null
+    },
+    {
+      "genre": "Pop Punk",
+      "format": "long_form",
+      "title": "Pop Punk - Rocksmith 2014 Bass Long Form Videos",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared 2026-11-10 at user request after Green Day - X-Kid; absent from this registry before that date; existence in Studio not checked",
+      "description_status": "proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (to set on creation)",
+      "url": null
+    },
+    {
+      "genre": "Pop Punk",
+      "format": "shorts",
+      "title": "Pop Punk - Rocksmith 2014 Bass Shorts",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared 2026-11-10 at user request after Green Day - X-Kid; absent from this registry before that date; existence in Studio not checked",
+      "description_status": "proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (to set on creation)",
+      "url": null
+    },
+    {
+      "genre": "Alternative Rock",
+      "format": "long_form",
+      "title": "Alternative Rock - Rocksmith 2014 Bass Long Form Videos",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared 2026-11-10 at user request after Green Day - X-Kid; absent from this registry before that date; existence in Studio not checked",
+      "description_status": "proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (to set on creation)",
+      "url": null
+    },
+    {
+      "genre": "Alternative Rock",
+      "format": "shorts",
+      "title": "Alternative Rock - Rocksmith 2014 Bass Shorts",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared 2026-11-10 at user request after Green Day - X-Kid; absent from this registry before that date; existence in Studio not checked",
+      "description_status": "proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (to set on creation)",
+      "url": null
+    },
+    {
+      "genre": "Skate Punk",
+      "format": "long_form",
+      "title": "Skate Punk - Rocksmith 2014 Bass Long Form Videos",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared 2026-11-10 at user request after Green Day - X-Kid; absent from this registry before that date; existence in Studio not checked",
+      "description_status": "proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (to set on creation)",
+      "url": null
+    },
+    {
+      "genre": "Skate Punk",
+      "format": "shorts",
+      "title": "Skate Punk - Rocksmith 2014 Bass Shorts",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared 2026-11-10 at user request after Green Day - X-Kid; absent from this registry before that date; existence in Studio not checked",
+      "description_status": "proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (to set on creation)",
+      "url": null
+    },
+    {
+      "genre": "Power Pop",
+      "format": "long_form",
+      "title": "Power Pop - Rocksmith 2014 Bass Long Form Videos",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared 2026-11-10 at user request after Green Day - X-Kid; absent from this registry before that date; existence in Studio not checked",
+      "description_status": "proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (to set on creation)",
+      "url": null
+    },
+    {
+      "genre": "Power Pop",
+      "format": "shorts",
+      "title": "Power Pop - Rocksmith 2014 Bass Shorts",
+      "status": "proposed_not_confirmed",
+      "evidence": "Copy prepared 2026-11-10 at user request after Green Day - X-Kid; absent from this registry before that date; existence in Studio not checked",
+      "description_status": "proposed; not confirmed applied",
+      "sort": "Most Recent Uploads (to set on creation)",
+      "url": null
     }
   ]
 }
