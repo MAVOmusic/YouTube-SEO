@@ -37,7 +37,7 @@
     {
       "surface": "description",
       "claim": "A dedicated play-along with the Rocksmith 2014 Remastered chart on screen.",
-      "source": "User instruction; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0005 - Motionless In White - Abigail (Long Form - Play Along on Bass) [U - 2026-11-09]/_01 - Main Info/_01 Description.jpeg",
+      "source": "User instruction; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0005 - Motionless In White - Abigail [U - 2026-11-09]/_01 - Main Info/_01 Description.jpeg",
       "assessment": "User confirms all recordings are bass sight-reads in Rocksmith 2014 Remastered. The screenshot shows the Rocksmith note highway in the thumbnail and the playlist field; it does not establish every second of the video, equipment or tuning."
     },
     {
@@ -61,7 +61,7 @@
     {
       "surface": "tags",
       "claim": "motionless in white, abigail, motionless in white abigail, abigail motionless in white, miw, motionles in white",
-      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album); _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0005 - Motionless In White - Abigail (Long Form - Play Along on Bass) [U - 2026-11-09]/_01 - Main Info/_01 Description.jpeg; search-terms panel in the same folder",
+      "source": "https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album); _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0005 - Motionless In White - Abigail [U - 2026-11-09]/_01 - Main Info/_01 Description.jpeg; search-terms panel in the same folder",
       "assessment": "Identity, observed search terms and name variants. \"abigail motionless\" appears in the Short search-terms panel. Misspelling tags are observed variants, not claims about frequency."
     },
     {

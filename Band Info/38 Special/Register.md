@@ -27,7 +27,7 @@ These describe the artist across their catalogue, not necessarily every individu
 
 Imported from the existing per-song reviews for this artist. CO numbers indicate where the claim was recorded, not exclusive ownership of a fact. Recheck original sources and current copy before reusing; historical claims may have been superseded.
 
-### CO-0010 - 0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)
+### CO-0010 - 0010 - .38 Special - If I'd Been The One (Long Form)
 
 - If I'd Been The One opens .38 Special's album Tour De Force.
   - Source: https://www.deezer.com/en/album/1564941 ; https://open.spotify.com/track/5hs4eTxxeQA3PiSU77ytew

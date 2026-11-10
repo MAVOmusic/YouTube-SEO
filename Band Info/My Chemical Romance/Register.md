@@ -26,7 +26,7 @@ These describe the artist across their catalogue, not necessarily every individu
 
 Imported from the existing per-song reviews for this artist. CO numbers indicate where the claim was recorded, not exclusive ownership of a fact. Recheck original sources and current copy before reusing; historical claims may have been superseded.
 
-### CO-0009 - 0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)
+### CO-0009 - 0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)
 
 - Welcome To The Black Parade is fifth on the 2006 album, following The Sharpest Lives.
   - Source: https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/

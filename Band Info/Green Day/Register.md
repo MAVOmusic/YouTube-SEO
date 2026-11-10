@@ -27,7 +27,7 @@ These describe the artist across their catalogue, not necessarily every individu
 
 Imported from the existing per-song reviews for this artist. CO numbers indicate where the claim was recorded, not exclusive ownership of a fact. Recheck original sources and current copy before reusing; historical claims may have been superseded.
 
-### CO-0008 - 0008 - Green Day - X-Kid (Long Form - Play Along on Bass)
+### CO-0008 - 0008 - Green Day - X-Kid (Long Form)
 
 - Green Day released a cassette-playing video of X-Kid in 2012.
   - Source: https://en.wikipedia.org/wiki/X-Kid

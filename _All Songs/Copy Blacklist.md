@@ -372,7 +372,7 @@ Which Motionless In White song would you like to hear on bass next?
 
 ### 0003 - Motionless In White - Masterpiece
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass) [U - 2026-11-09]/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0003 - Motionless In White - Masterpiece [U - 2026-11-09]/_03 - Copy.md`
 
 **Title**
 
@@ -428,7 +428,7 @@ Which Motionless In White music video stands out to you visually?
 
 ### 0005 - Motionless In White - Abigail [superseded 2026-11-09, kept for comparison]
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0005 - Motionless In White - Abigail (Long Form - Play Along on Bass) [U - 2026-11-09]/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0005 - Motionless In White - Abigail [U - 2026-11-09]/_03 - Copy.md`
 
 **Title**
 
@@ -454,9 +454,9 @@ Follow the bass chart on screen and listen to how the part fits against the rest
 Does the early Motionless In White sound pull you in, or do you prefer their later records?
 ```
 
-### 0006 - Motionless In White - America
+### 0006 - Motionless In White - America [superseded 2026-11-09, kept for comparison]
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America [U - 2026-11-09]/_03 - Copy.md`
 
 **Title**
 
@@ -484,7 +484,7 @@ How does A-M-E-R-I-C-A compare with the other singles from Infamous for you?
 
 ### 0007 - Motionless In White -  Immaculate Misconception
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form - Play Along on Bass)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_03 - Copy.md`
 
 **Title**
 
@@ -512,7 +512,7 @@ Which part of Immaculate Misconception would you break down first when learning 
 
 ### 0008 - Green Day - X-Kid
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form - Play Along on Bass)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_03 - Copy.md`
 
 **Title**
 
@@ -540,7 +540,7 @@ Does knowing the story behind X-Kid change how you hear it, or did the music rea
 
 ### 0009 - My Chemical Romance - Welcome To The Black Parade
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form - Play Along on Bass)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_03 - Copy.md`
 
 **Title**
 
@@ -568,7 +568,7 @@ Where did you first hear Welcome To The Black Parade?
 
 ### 0010 - .38 Special - If I'd Been The One
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form - Play Along on Bass)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_03 - Copy.md`
 
 **Title**
 
@@ -4099,7 +4099,7 @@ Proposed copy from refreshed screenshots. Not a Studio edit. Full analytics, rea
 
 ### LF 0005 - Motionless In White - Abigail (dedicated play-along)
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0005 - Motionless In White - Abigail (Long Form - Play Along on Bass) [U - 2026-11-09]/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0005 - Motionless In White - Abigail [U - 2026-11-09]/_03 - Copy.md`
 
 **Title**
 
@@ -4132,7 +4132,7 @@ Take a guess below.
 
 ### Short 0152 - Motionless In White - Abigail
 
-Source: `_All Songs/_0002 Short Form/0101 - 0200/0151 - 0160/0152 - Motionless In White - Abigail (Short Form) [U - 2026-11-09]/_03 - Copy.md`
+Source: `_All Songs/_0002 Short Form/0101 - 0200/0151 - 0160/0152 - Motionless In White - Abigail [U - 2026-11-09]/_03 - Copy.md`
 
 **Title**
 
@@ -4158,4 +4158,71 @@ Abigail by Motionless In White, sight-read on bass #rocksmith #bass
 🎬 The full Abigail play-along is the related video on this Short.
 
 🎥 Kevin McVey directed the 2010 Abigail video and worked on the concept with Chris Motionless. Does it still hold up for you?
+```
+
+## Motionless In White - A-M-E-R-I-C-A - long form reviewed 2026-11-09
+
+Proposed copy from refreshed long-form screenshots. Not a Studio edit. Analytics, sources and limits in [A-M-E-R-I-C-A review](../Ver%203.0/TXT/America_Two_Version_Review.md). Reserve these surfaces under the 50-intervening-upload rule; the rule itself remains paused.
+
+### LF 0006 - Motionless In White - A-M-E-R-I-C-A (dedicated play-along)
+
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America [U - 2026-11-09]/_03 - Copy.md`
+
+**Title**
+
+```text
+A-M-E-R-I-C-A spelled out: Motionless In White on bass
+```
+
+**Description**
+
+```text
+🎸 A-M-E-R-I-C-A came out as a single in April 2013, several months after Infamous arrived in November 2012.
+
+🎶 The complete song is here as a bass play-along in Rocksmith 2014 Remastered, with the note chart running alongside, so the part stays easy to follow at your own speed.
+
+🟢 Song requests happen on Kick: https://kick.com/mavomusic
+🟣 The Twitch relay carries the same shows: https://www.twitch.tv/mavomusic
+💬 Bring your Infamous picks to Discord; boosts keep the community going: https://discord.gg/ESGsGkN4j2
+```
+
+**Pinned comment or recommendation**
+
+```text
+🎥 Shawn Crahan of Slipknot directed the A-M-E-R-I-C-A video in 2013. Does the visual match the song for you?
+```
+
+### Short for A-M-E-R-I-C-A - provisional, unverified
+
+No Short screenshots exist in the repository for this song, and the index holds two candidate rows: Short 0186 and Short 1892. The wording below is a held draft, not a reviewed package. Replace it after the Short folder is uploaded and analysed.
+
+**Title**
+
+```text
+Seven letters on bass: Motionless In White and A-M-E-R-I-C-A #bass
+```
+
+**Description**
+
+```text
+🎤 A-M-E-R-I-C-A brings in guest vocals from Michael Vampire of Vampires Everywhere!.
+
+🎥 Want the whole song? The related video on this Short has it.
+
+🟢 Live requests are on Kick: https://kick.com/mavomusic
+🟣 Twitch mirrors each live show: https://www.twitch.tv/mavomusic
+💬 Talk Infamous in Discord, with a boost if you fancy: https://discord.gg/ESGsGkN4j2
+```
+
+**Pinned comment or recommendation**
+
+```text
+🎬 The whole A-M-E-R-I-C-A play-along is the related video on this Short.
+
+💿 Quick quiz: where does A-M-E-R-I-C-A sit on the standard Infamous track list?
+A) Track 1
+B) Track 3
+C) Track 7
+
+Answer below.
 ```

@@ -1,12 +1,12 @@
 {
   "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-03",
+  "reviewed_at": "2026-11-09",
   "surface_sha256": {
-    "title": "21d436501b720c7439266e0f56f2309a70e2a9fd514ea935b857fd27922cd83e",
-    "description": "780f08c6b94f90f16f8b15d3ceeab531a1918a2473f5046c64c6c806af50504e",
-    "tags": "cdbac9785ee5a2a22bbcd59d6dab239c950e91a081e3c8bdea8bae0fa0bc6ba9",
-    "pinned comment": "a0a2adb1beb84e4b97dd1cc8f372c23cc2442fdbb4c87378d4a5899eac4966a7",
-    "genres": "95ac3ff9537bfdc77b6c20d19ab840c5aeeaae280caf43f6b64a3206bd91be82"
+    "title": "26fa2d88e159b86bcaff330c123cc2bd8fb00a00d1165cccf506df7c6fdeb378",
+    "description": "cb094316c2e2a1bdb5cbf69b3721500adc23c2de3fe6a9f5a3ce20de88900410",
+    "tags": "8b40b70a6b2e3b9008b5436f57668d94183571f4c794866875747c34a480d665",
+    "pinned comment": "423645cbc03e137528c8c7514bda7b66722aea67e6269c288d798202936d161f",
+    "genres": "f48c54c62bc380bd4bdce3f16b0a59d2869833cef9269f10a8289c8f884600e4"
   },
   "reviewed_surfaces": {
     "title": true,
@@ -17,195 +17,87 @@
   },
   "claims": [
     {
-      "surface": "description",
-      "claim": "A-M-E-R-I-C-A appears on the 2012 Infamous album.",
-      "source": "https://www.metalkingdom.net/album/Motionless-In-White-Infamous-62377",
-      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+      "surface": "title",
+      "claim": "A-M-E-R-I-C-A spelled out: Motionless In White on bass",
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album); _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America [U - 2026-11-09]/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
+      "assessment": "Artist, song spelling and bass format are identifiable from the album track list and the screenshot. The hook is editorial wording, not a ranking or CTR claim. Checked against recent titles: no possessive opener, no plain Band - Song, no [Song] is [Band], and the \"on bass\" phrase is not placed where the Abigail title puts it."
     },
     {
       "surface": "description",
-      "claim": "Shawn Crahan of Slipknot directed the song music video in 2013.",
-      "source": "https://bloody-disgusting.com/news/3230124/motionless-in-white-shoot-music-video-with-slipknots-clown/ ; https://imvdb.com/video/motionless-in-white/america",
-      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
+      "claim": "A-M-E-R-I-C-A came out as a single in April 2013, several months after Infamous arrived in November 2012.",
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
+      "assessment": "The album released 13 November 2012 and the single 23 April 2013. Only months and years are stated, no exact single day, and no chart position is claimed."
     },
     {
       "surface": "description",
-      "claim": "MAVO plays bass while the Rocksmith note chart is on screen.",
-      "source": "User explicit instruction in conversation; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "User confirms performance; image is historical and can establish identity/format only, not whole-video gear, playing or continuous tuning."
+      "claim": "The complete song is here as a bass play-along in Rocksmith 2014 Remastered.",
+      "source": "User instruction; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America [U - 2026-11-09]/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
+      "assessment": "User confirms every recording is a bass sight-read in Rocksmith 2014 Remastered, and the screenshot shows the Rocksmith note highway. Screenshots cannot establish every second of the video, the bass used or the tuning."
     },
     {
       "surface": "description",
-      "claim": "Kick first, Twitch mirror and Discord invitation.",
-      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
-      "assessment": "Channel routing requested by user; no promise about schedule or boost rewards."
+      "claim": "The note chart runs alongside so the part stays easy to follow at your own speed.",
+      "source": "Editorial wording",
+      "assessment": "Instruction to the viewer, not a measured difficulty or learning-outcome claim. The note highway is not described as tablature."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick first, Twitch as the relay, Discord last.",
+      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed invite",
+      "assessment": "Channel routing requested by the user. No schedule promise and no boost reward claim."
     },
     {
       "surface": "pinned comment",
-      "claim": "How does A-M-E-R-I-C-A compare with the other singles from Infamous for you?",
-      "source": "https://imvdb.com/video/motionless-in-white/america; historical screenshot of creator pin in folder",
-      "assessment": "Opinion or question; checked for unsupported premise. Screenshot does not show current YouTube comments or establish the absence of an artist comment."
+      "claim": "Shawn Crahan of Slipknot directed the A-M-E-R-I-C-A video in 2013. Does the visual match the song for you?",
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
+      "assessment": "The 2013 video was directed by Shawn \"Clown\" Crahan and released on 3 June 2013. The question is opinion, not a factual assertion about the reader. The existing creator schedule comment from 2022 is preserved and is not deleted; the user decides whether to pin this line instead."
     },
     {
       "surface": "tags",
-      "claim": "motionless in white",
-      "source": "https://imvdb.com/video/motionless-in-white/america; https://genius.com/Motionless-in-white-america-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+      "claim": "motionless in white, a-m-e-r-i-c-a, america, motionless in white america, a-m-e-r-i-c-a bass, miw, motionles in white",
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album); reach screenshot in the same folder",
+      "assessment": "Identity, spelling variants and observed search terms: \"motionless in white america\" appears in the Reach panel. Misspelling tags are observed variants, not claims about search frequency."
     },
     {
       "surface": "tags",
-      "claim": "america",
-      "source": "https://imvdb.com/video/motionless-in-white/america; https://genius.com/Motionless-in-white-america-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+      "claim": "infamous, 2012",
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
+      "assessment": "Album and release year."
     },
     {
       "surface": "tags",
-      "claim": "a-m-e-r-i-c-a",
-      "source": "https://imvdb.com/video/motionless-in-white/america; https://genius.com/Motionless-in-white-america-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+      "claim": "metalcore, gothic metal, industrial metal, nu metal, hard rock",
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
+      "assessment": "Artist-level genre classifications, consistent with the rest of this artist. They are not a claim that this recording fits every genre. Infamous is separately described as industrial metal, gothic metal and metalcore."
     },
     {
       "surface": "tags",
-      "claim": "motionless in white america",
-      "source": "https://imvdb.com/video/motionless-in-white/america; https://genius.com/Motionless-in-white-america-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+      "claim": "chris motionless, chris cerulli, ricky olson, ryan sitkowski, devin sola, josh balz, angelo parente, michael vampire, vampires everywhere",
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
+      "assessment": "Members credited on Infamous plus the track 3 guest vocalist. Credited membership is not proof of participation in this upload, and the thumbnail does not show a bassist."
     },
     {
       "surface": "tags",
-      "claim": "infamous",
-      "source": "https://imvdb.com/video/motionless-in-white/america; https://genius.com/Motionless-in-white-america-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
+      "claim": "bass cover, bass play along, bass guitar, rocksmith 2014, rocksmith 2014 remastered, rocksmith bass, motionless in white bass cover",
+      "source": "User instruction; title and description",
+      "assessment": "Format and instrument tags. Removed the live \"bass tab\" tags because the video shows a Rocksmith note highway, not written tablature."
     },
     {
       "surface": "tags",
-      "claim": "industrial metal",
-      "source": "https://imvdb.com/video/motionless-in-white/america; https://genius.com/Motionless-in-white-america-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "alternative metal",
-      "source": "https://imvdb.com/video/motionless-in-white/america; https://genius.com/Motionless-in-white-america-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "metalcore",
-      "source": "https://imvdb.com/video/motionless-in-white/america; https://genius.com/Motionless-in-white-america-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass cover",
-      "source": "https://imvdb.com/video/motionless-in-white/america; https://genius.com/Motionless-in-white-america-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass play along",
-      "source": "https://imvdb.com/video/motionless-in-white/america; https://genius.com/Motionless-in-white-america-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "rocksmith bass",
-      "source": "https://imvdb.com/video/motionless-in-white/america; https://genius.com/Motionless-in-white-america-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "rocksmith 2014",
-      "source": "https://imvdb.com/video/motionless-in-white/america; https://genius.com/Motionless-in-white-america-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "2012",
-      "source": "https://imvdb.com/video/motionless-in-white/america; https://genius.com/Motionless-in-white-america-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass guitar",
-      "source": "https://imvdb.com/video/motionless-in-white/america; https://genius.com/Motionless-in-white-america-lyrics; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "rocksmith bass motionless in white",
-      "source": "_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America (Long Form - Play Along on Bass)/_02 - Analytics/_02 - Reach/_02 - Reach 1.jpeg",
-      "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
-    },
-    {
-      "surface": "title",
-      "claim": "A-M-E-R-I-C-A by Motionless In White: industrial metal bass cover",
-      "source": "https://www.metalkingdom.net/album/Motionless-In-White-Infamous-62377; user-confirmed bass performance; https://en.wikipedia.org/wiki/Motionless_in_White (band-level industrial classification)",
-      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload. Revised wording varies a repeated closer; no spam threshold or measured CTR claim."
+      "claim": "mavomusic, mavomusicyt",
+      "source": "User-confirmed channel handles",
+      "assessment": "Channel identifiers requested by the user."
     },
     {
       "surface": "genres",
-      "claim": "Metalcore",
-      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Gothic metal",
-      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Industrial metal",
-      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Nu metal",
-      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Hard rock",
-      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "tags",
-      "claim": "miw",
-      "source": "https://www.metalkingdom.net/band/motionless-in-white-13548 ; https://www.teepublic.com/long-sleeve-t-shirt/68020707-motionlesss-in-white-band",
-      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
-    },
-    {
-      "surface": "tags",
-      "claim": "motionles in white",
-      "source": "https://www.metalkingdom.net/band/motionless-in-white-13548 ; https://www.teepublic.com/long-sleeve-t-shirt/68020707-motionlesss-in-white-band",
-      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
-    },
-    {
-      "surface": "tags",
-      "claim": "chris motionless",
-      "source": "https://www.songfacts.com/facts/motionless-in-white",
-      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
-    },
-    {
-      "surface": "tags",
-      "claim": "chris cerulli",
-      "source": "https://www.songfacts.com/facts/motionless-in-white",
-      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
-    },
-    {
-      "surface": "tags",
-      "claim": "devin sola",
-      "source": "https://www.songfacts.com/facts/motionless-in-white",
-      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
+      "claim": "Not applicable: dedicated play-along routed to the Rocksmith 2014 Bass Play Along playlist",
+      "source": "User standing instruction; screenshot playlist field",
+      "assessment": "Dedicated play-alongs go to the Play Along playlist only. The five MIW genre lists and both All Genres lists already exist and must not be recreated. Playlist membership is user-reported, not verified here."
     }
   ],
-  "distinct_fact_and_source": "Shawn Crahan music-video director credit for America. https://imvdb.com/video/motionless-in-white/america",
-  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
-  "uncertainties_and_removed_claims": "No Drop D tuning is asserted; the historical tuning screen is not evidence of exact tuning throughout the performance. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03: genre list now refers to artist classifications, not a song-level guarantee. Typo examples are observed, not verified common search terms; title effectiveness untested.",
+  "distinct_fact_and_source": "A-M-E-R-I-C-A is track 3 on Infamous (2012) and was a single in April 2013; the video was directed by Shawn Crahan of Slipknot. That is distinct from the Abigail Salem-witch-trial subject, the Masterpiece forgiveness quote and the Disguise-era Another Life material. https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
+  "uniqueness_assessment": "Compared title, description and pin against every extractable long-form copy file in the repository; 0 five-word signals after rewording a title phrase and a description clause that collided with the adjacent Abigail copy. Checked recent same-artist titles and Short copy for shape reuse, including the retired \"Rocksmith 2014 | Play Along on Bass | M |\" template that this replaces. The complete 50-intervening-upload window is paused by the user and live copy outside the repository is unavailable, so semantic uniqueness is not certified.",
+  "uncertainties_and_removed_claims": "Supersedes the 2026-11-03 draft and the live machine-template title. Dropped the old live tags that called the note highway a bass tab, and dropped the 2022 description template with its placeholder headings and stale surgery and schedule note. No tuning, equipment or difficulty claim is made. Screenshots show displayed values; the comment editor state does not prove what is pinned. No Studio edit was made and no CTR or ranking effect is claimed.",
   "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
