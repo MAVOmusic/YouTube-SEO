@@ -34,33 +34,33 @@ Imported from the existing per-song reviews for this artist. CO numbers indicate
 - Chris Motionless reported that fan feedback helped select the next single.
   - Source: https://www.altpress.com/motionless-in-white-another-life-music-video/ ; https://blabbermouth.net/news/motionless-in-white-releases-music-video-for-another-life
 
-### CO-0003 - 0003 - Motionless In White - Masterpiece (Long Form - Play Along on Bass)
+### CO-0003 - 0003 - Motionless In White - Masterpiece (Long Form)
 
 - Masterpiece appears on the 2022 album Scoring the End of the World.
   - Source: https://www.altpress.com/motionless-in-white-masterpiece-scoring-the-end-of-the-world/
 - Quieter passages and larger chorus are listening judgments, not exact measurements.
   - Source: https://en.wikipedia.org/wiki/Masterpiece_(Motionless_in_White_song) ; https://wallofsoundau.com/2022/06/05/motionless-in-white-scoring-the-end-of-the-world-album-review/
 
-### CO-0004 - 0004 - Motionless In White - Another Life (Long Form - Play Along on Bass)
+### CO-0004 - 0004 - Motionless In White - Another Life (Long Form)
 
 - Max Moore directed the official Another Life music video.
   - Source: https://imvdb.com/video/motionless-in-white/another-life
 
-### CO-0005 - 0005 - Motionless In White - Abigail (Long Form - Play Along on Bass)
+### CO-0005 - 0005 - Motionless In White - Abigail (Long Form)
 
 - Chris Motionless said Abigail and its video are about the Salem witch trials.
   - Source: http://mousertime.blogspot.com/2011/02/motionless-in-white-interview-with.html
 - Abigail appears on 2010 debut Creatures.
   - Source: https://mediakits.concord.com/p/creatures/press-release.html
 
-### CO-0006 - 0006 - Motionless In White - America (Long Form - Play Along on Bass)
+### CO-0006 - 0006 - Motionless In White - America (Long Form)
 
 - A-M-E-R-I-C-A appears on the 2012 Infamous album.
   - Source: https://www.metalkingdom.net/album/Motionless-In-White-Infamous-62377
 - Shawn Crahan of Slipknot directed the song music video in 2013.
   - Source: https://bloody-disgusting.com/news/3230124/motionless-in-white-shoot-music-video-with-slipknots-clown/ ; https://imvdb.com/video/motionless-in-white/america
 
-### CO-0007 - 0007 - Motionless In White -  Immaculate Misconception (Long Form - Play Along on Bass)
+### CO-0007 - 0007 - Motionless In White -  Immaculate Misconception (Long Form)
 
 - Immaculate Misconception opens Motionless In White debut Creatures.
   - Source: https://mediakits.concord.com/p/creatures/press-release.html
@@ -95,6 +95,10 @@ Relevant names below are artist associations, not an assertion they play on each
 ## Masterpiece - analytics requested
 
 Chronological IDs LF 0003 (dedicated play-along), 0119; Shorts 0147 and 1864. See [pending analysis](Masterpiece/Analysis.md) for older numbering, playlist exclusions and evidence. All five MIW artist genre playlist pairs already confirmed created. Wait for refreshed analytics before preparing copy.
+
+## A-M-E-R-I-C-A - long form reviewed 2026-11-09
+
+LF 0006 dedicated play-along: 333 views, 9.0 h, +58 subscribers, 1:37 AVD of 3:50 (42.5%), 59.8% search, 17.4% playlists. Proposed title, description, tags and pin replace the machine-template title, the 2022 placeholder description and the bass-tab tags. Stays in the Play Along playlist only. The Short is unresolved: index rows 0186 and 1892 both exist and neither has screenshots. See [analysis](America/Analysis.md) and the review at Ver 3.0/TXT/America_Two_Version_Review.md.
 
 ## Abigail - reviewed 2026-11-09
 

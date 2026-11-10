@@ -48,7 +48,8 @@ def check(root=ROOT):
         for video in video_root.glob("*/*/*"):
             if not video.is_dir():
                 continue
-            # A review marker may follow the format label, e.g. "(Short Form) [U - 2026-11-09]".
+            # Reviewed folders end with "[U - YYYY-MM-DD]" and carry no format label.
+            # A format label followed by a marker is still accepted for legacy folders.
             match = re.match(r"^(\d{4}) - (.+?)(?: \(" + re.escape(label) + r"(?: - .*?)?\)| \[UPDATED \d{4}-\d{2}-\d{2} \d{2}-\d{2} UK\]| \[U - \d{4}-\d{2}-\d{2}\])(?: \[U - \d{4}-\d{2}-\d{2}\])?$", video.name)
             if not match:
                 continue
