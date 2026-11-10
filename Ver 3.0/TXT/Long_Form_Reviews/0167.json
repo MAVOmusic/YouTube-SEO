@@ -1,74 +1,200 @@
 {
-  "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-06T19:43:07.863668+00:00",
-  "surface_sha256": {
-    "title": "7324a4f432cfab0d48bc3b3b3842611dd40a3ced9caf82de0b4273333cbbedea",
-    "description": "2735dfd086fdffabaec33cc452923c4f5e201879d11f0eacf72b12dccddca044",
-    "tags": "9ba563aa8b8bc4a5fd8682caed694b1ce0260d6257f48584011ec24e8106924f",
-    "pinned comment": "dd4d83d6cca5ebf430359ddd56d3c9ed9f959f2d6bcf4903acf51b1fceac5565",
-    "genres": "5edab9b53d36472e0d9ef065b325313cf6c627159215ee30220e49086c721888"
+ "reviewer": "Arena agent",
+ "reviewed_at": "2026-11-10",
+ "surface_sha256": {
+  "title": "ae2edc8ee3295f3ef0c347a1f06ae47d4310bdb2958c02080e61cd65ca7b9daf",
+  "description": "d51ee66221b9aba5b639acacc981aa3294080cafc462a6f376bcd7c6f4ea842a",
+  "tags": "be083e89fa4917aeb59b1e6b1e28d5bc32acb72e1d25e49a22f03f2a31f45ff7",
+  "pinned comment": "e128c4c9bb1d5537e38dbe3d35e5e24a16eb7b6b3bc1a642794446be023f6ee2",
+  "genres": "970e1a9af2d8b8619e4401ec3cf864e0906f2858c57403f56eb7bc715565a2f3"
+ },
+ "reviewed_surfaces": {
+  "title": true,
+  "description": true,
+  "tags": true,
+  "pinned comment": true,
+  "genres": true
+ },
+ "claims": [
+  {
+   "surface": "title",
+   "claim": "The song reached number one on the UK singles chart and is presented here on bass.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Chart table gives UK number one, and the article describes it as their only UK number one."
   },
-  "reviewed_surfaces": {
-    "title": true,
-    "description": true,
-    "tags": true,
-    "pinned comment": true,
-    "genres": true
+  {
+   "surface": "description",
+   "claim": "It is the only My Chemical Romance song to reach number one on the UK singles chart.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Stated in the commercial performance section, which notes it as their only UK number one."
   },
-  "claims": [
-    {
-      "surface": "title",
-      "claim": "Artist, song and creator bass performance",
-      "source": "User recording identification; supplied Studio screenshot for 0167",
-      "assessment": "Identifies the song and creator performance; new recording should be checked by uploader."
-    },
-    {
-      "surface": "tags",
-      "claim": "Song, artist and associated names; bass cover",
-      "source": "https://genius.com/My-chemical-romance-welcome-to-the-black-parade-lyrics",
-      "assessment": "Song identity and credits; tags are associations, not performers in MAVO recording."
-    },
-    {
-      "surface": "genres",
-      "claim": "Alternative rock, emo, pop punk, post-hardcore are artist-wide genres",
-      "source": "Band Info/My Chemical Romance/Register.md",
-      "assessment": "Existing consistent artist-wide classification, not all necessarily song-level."
-    },
-    {
-      "surface": "description",
-      "claim": "Rocksmith 2014 bass performance during Kick stream",
-      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0101 - 0200/0161 - 0170/0167 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Studio detail screenshot and visible performance."
-    },
-    {
-      "surface": "tags",
-      "claim": "Rocksmith bass",
-      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0101 - 0200/0161 - 0170/0167 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Studio shows game and bass performance."
-    },
-    {
-      "surface": "description",
-      "claim": "2006 MTV Video Music Awards live television performance",
-      "source": "https://www.songfacts.com/facts/my-chemical-romance/welcome-to-the-black-parade",
-      "assessment": "Source explicitly supports this historical claim; not evidence of current popularity."
-    },
-    {
-      "surface": "pinned comment",
-      "claim": "2006 MTV Video Music Awards live television performance",
-      "source": "https://www.songfacts.com/facts/my-chemical-romance/welcome-to-the-black-parade",
-      "assessment": "Source explicitly supports this historical claim; not evidence of current popularity."
-    },
-    {
-      "surface": "description",
-      "claim": "Kick and Twitch mirror; Discord invitation",
-      "source": "User standing instructions and confirmed Discord invite",
-      "assessment": "Links based on user-confirmed information; not a guarantee of current broadcast schedule."
-    }
-  ],
-  "distinct_fact_and_source": "2006 MTV Video Music Awards live television performance - https://www.songfacts.com/facts/my-chemical-romance/welcome-to-the-black-parade; separate from 0009 track placement and the other new MCR copies.",
-  "uniqueness_assessment": "Reviewed 16 five-word signals: song-name matches are necessary; common Kick/Twitch phrases are functional links. Compared the available same-song copy 0009 and the six new drafts, their different fact angles, CTAs and title shapes. Unavailable or unrevised live-only material cannot be checked. No scan proves semantic uniqueness.",
-  "uncertainties_and_removed_claims": "Do not assert chart status or game version for new recording. User identified new recording; verify actual file. Historic Studio screenshots cannot prove current claims, pin or territory availability.",
-  "collision_report_sha256": "9d8b032053491bc4eaf07c1d56765fbf5f7492ede4377ad6b1375e1429c88514",
-  "all_claims_checked": true,
-  "cross_song_uniqueness_checked": true
+  {
+   "surface": "description",
+   "claim": "In the United States it topped the Billboard Modern Rock list while the all-genre Hot 100 placed it lower.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Chart table gives no. 1 on Modern Rock and no. 9 on the Hot 100. The description deliberately keeps the Hot 100 placing out of the copy so the quiz is not answered in advance."
+  },
+  {
+   "surface": "description",
+   "claim": "The single came out on 12 September 2006, six weeks before the album.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Release section gives 12 September 2006 for the single and 23 October 2006 for the album, which is six weeks later."
+  },
+  {
+   "surface": "description",
+   "claim": "It runs five minutes eleven and is played end to end with the note highway in frame.",
+   "source": "Studio screenshots in this folder; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Player duration is 5:11, matching the album length given in the infobox."
+  },
+  {
+   "surface": "description",
+   "claim": "Requests run on Kick, the same performance streams to Twitch, and Discord hosts number talk.",
+   "source": "Standing channel practice in existing copy",
+   "assessment": "House order, Kick then Twitch then Discord, one URL each. No schedule asserted."
+  },
+  {
+   "surface": "pinned comment",
+   "claim": "Quiz: how high did the song reach on the US Billboard Hot 100? Options 9, 1 and 23.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Answer A, 9. The description does not print the placing, so the question is a real one."
+  },
+  {
+   "surface": "genres",
+   "claim": "Artist-wide genres are alternative rock, emo, pop punk and post-hardcore, and this normal long form takes the four long-form genre lists plus Long Form All Genres.",
+   "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+   "assessment": "Artist-level classification used for the whole catalogue. Routing follows the standing rule for normal long forms."
+  },
+  {
+   "surface": "tags",
+   "claim": "my chemical romance",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "welcome to the black parade",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "black parade",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "mcr",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "gerard way",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "mikey way",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "frank iero",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "ray toro",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "uk singles chart",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "billboard hot 100",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "2006",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass cover",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "rocksmith 2014 remastered",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "rocksmith bass",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "emo",
+   "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "pop punk",
+   "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "live stream",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass guitar",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "the black parade",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "mavomusic",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "mavomusicyt",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  }
+ ],
+ "distinct_fact_and_source": "The UK number one and the chart split with the US, where the all-genre Hot 100 placed it far below the Modern Rock list. Unused by the other six: 0009 takes the piano intro, 0673 the Hall of Fame listing and Rolling Stone placing, 0068 the Time ranking, 1434 the key change, 1912 the Burbank studio, 2420 the lead single argument. The 2006 MTV Video Music Awards fact was dropped from this package because the live description and the existing creator comment on this same video both already carry it. Source: https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+ "uniqueness_assessment": "Zero five-word phrases shared with any other package once the song title itself is set aside, checked against the whole accessible copy corpus. Two earlier drafts were rewritten for this: the first reused the 0009 call-to-action lines word for word, and a \"played end to end\" phrase collided with 0673.",
+ "uncertainties_and_removed_claims": "The Hot 100 placing is deliberately absent from the description, so the quiz answer is not printed. Live playlist membership and pin state are taken from the screenshots and the user report, not asserted fresh. Historical screenshots cannot show a live save.",
+ "collision_report_sha256": "e682034e6bd861a9434461922fba2abbd4e6fee6bf520d347f8610c52ff59f9d",
+ "all_claims_checked": true,
+ "cross_song_uniqueness_checked": true
 }

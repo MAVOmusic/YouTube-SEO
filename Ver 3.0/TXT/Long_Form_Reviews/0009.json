@@ -1,200 +1,194 @@
 {
-  "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-03",
-  "surface_sha256": {
-    "title": "4e484095004e75644c482b929aa8c6326bb4ebb6cbdbb0eecdd519e52cc57399",
-    "description": "f90d0e2c1cacd73ce0ead6c5b57ba6080a8e37eae4f5f2e5929d2514cbf99bc7",
-    "tags": "1f8f0c855e5df3622d260b087eac7d76239c7aa6af1cf1dba64c98191420be3a",
-    "pinned comment": "2dbd75eca3bd84eb0958f6c703c341a80843ce007a2f2e889365a0f2310f2941",
-    "genres": "5edab9b53d36472e0d9ef065b325313cf6c627159215ee30220e49086c721888"
+ "reviewer": "Arena agent",
+ "reviewed_at": "2026-11-10",
+ "surface_sha256": {
+  "title": "ff3a9d8f1e815eb74d4ce2e84ae0a608f509083aceb8cddb36dfc8bc2b0a552d",
+  "description": "dc22ef6864d0496397fc08a53298c10e9f573db3e5e054bb9dbf43807020a485",
+  "tags": "9a910ffe6eb5e1ab5f0f57c67c50d90af624fed9938ee28f993d17bfdf7ef5d1",
+  "pinned comment": "104c305c3f28ec838a822c6a9f24a7f780cc49874e80084f9ec39181219ccd44",
+  "genres": "f48c54c62bc380bd4bdce3f16b0a59d2869833cef9269f10a8289c8f884600e4"
+ },
+ "reviewed_surfaces": {
+  "title": true,
+  "description": true,
+  "tags": true,
+  "pinned comment": true,
+  "genres": true
+ },
+ "claims": [
+  {
+   "surface": "title",
+   "claim": "The song opens with eleven piano notes and is presented here as a bass play-along.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Article records an 11 note piano introduction starting on G5. The play-along format is visible in the screenshots."
   },
-  "reviewed_surfaces": {
-    "title": true,
-    "description": true,
-    "tags": true,
-    "pinned comment": true,
-    "genres": true
+  {
+   "surface": "description",
+   "claim": "The piano line runs eleven notes and begins on a single G5.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Stated in the music section, which gives the 11 note introduction and the starting G5."
   },
-  "claims": [
-    {
-      "surface": "description",
-      "claim": "Welcome To The Black Parade is fifth on the 2006 album, following The Sharpest Lives.",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/",
-      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
-    },
-    {
-      "surface": "description",
-      "claim": "The album recording is about five minutes long.",
-      "source": "https://www.discogs.com/release/7235816-My-Chemical-Romance-The-Black-Parade",
-      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
-    },
-    {
-      "surface": "description",
-      "claim": "Mikey Way is credited for bass on the original recording.",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/ ; https://www.discogs.com/release/7235816-My-Chemical-Romance-The-Black-Parade",
-      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
-    },
-    {
-      "surface": "description",
-      "claim": "MAVO plays bass while the Rocksmith note chart is on screen.",
-      "source": "User explicit instruction in conversation; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "User confirms performance; image is historical and can establish identity/format only, not whole-video gear, playing or continuous tuning."
-    },
-    {
-      "surface": "description",
-      "claim": "Kick first, Twitch mirror and Discord invitation.",
-      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
-      "assessment": "Channel routing requested by user; no promise about schedule or boost rewards."
-    },
-    {
-      "surface": "pinned comment",
-      "claim": "Where did you first hear Welcome To The Black Parade?",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; historical screenshot of creator pin in folder",
-      "assessment": "Opinion or question; checked for unsupported premise. Screenshot does not show current YouTube comments or establish the absence of an artist comment."
-    },
-    {
-      "surface": "tags",
-      "claim": "my chemical romance",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "welcome to the black parade",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "black parade",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "mcr",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "mikey way",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "emo",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "pop punk",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass cover",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass play along",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "rocksmith bass",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "rocksmith 2014",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "2006",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass guitar",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "the black parade",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/0009 - My Chemical Romance - Welcome To The Black Parade - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "welcome to the black parade bass",
-      "source": "_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
-      "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
-    },
-    {
-      "surface": "title",
-      "claim": "Welcome To The Black Parade builds on bass - My Chemical Romance",
-      "source": "https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/; user-confirmed bass performance",
-      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload."
-    },
-    {
-      "surface": "genres",
-      "claim": "Alternative rock",
-      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Emo",
-      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Pop punk",
-      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Post-hardcore",
-      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "tags",
-      "claim": "my chem",
-      "source": "https://jhmoviecollection.fandom.com/wiki/My_Chemical_Romance ; https://soundcloud.com/doddsys-devils/sets/my-chemical-romace",
-      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
-    },
-    {
-      "surface": "tags",
-      "claim": "my chemical romace",
-      "source": "https://jhmoviecollection.fandom.com/wiki/My_Chemical_Romance ; https://soundcloud.com/doddsys-devils/sets/my-chemical-romace",
-      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
-    },
-    {
-      "surface": "tags",
-      "claim": "gerard way",
-      "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
-      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
-    }
-  ],
-  "distinct_fact_and_source": "Album track position and predecessor, distinct from other MCR uploads. https://www.albumoftheyear.org/song/7959-welcome-to-the-black-parade/",
-  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
-  "uncertainties_and_removed_claims": "Replaced title that could imply Mikey Way performed in this video; old screenshot says creator made a version, not proof of official chart. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03: genre list now refers to artist classifications, not a song-level guarantee. Typo examples are observed, not verified common search terms; title effectiveness untested.",
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "all_claims_checked": true,
-  "cross_song_uniqueness_checked": true
+  {
+   "surface": "description",
+   "claim": "This play-along runs 3:33 against a 5:11 album cut.",
+   "source": "Studio screenshots in this folder; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Player duration shows 3:33. The article gives the album version at 5:11 and the radio edit at 4:37, so the copy says shorter than the record and does not claim to be the radio edit."
+  },
+  {
+   "surface": "description",
+   "claim": "The note highway never leaves the frame and a bar can be retaken.",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Describes the Rocksmith chart overlay and standard playback controls. No claim about difficulty or game build."
+  },
+  {
+   "surface": "description",
+   "claim": "Requests run on Kick, a parallel broadcast runs on Twitch, and Discord hosts the community.",
+   "source": "Standing channel practice in existing copy",
+   "assessment": "House order, Kick first and Discord last, one URL each. No stream schedule asserted."
+  },
+  {
+   "surface": "pinned comment",
+   "claim": "Rob Cavallo first wrote the piano line for a separate album opener about a marching band crossing a city.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Article states the band adopted Cavallo's idea for an album introduction depicting a marching band going through a city and added the instrumental portion to this song."
+  },
+  {
+   "surface": "pinned comment",
+   "claim": "Open question about keeping the marching band as its own track.",
+   "source": "Editorial",
+   "assessment": "Opinion question anchored to the sourced fact. No factual claim in the question itself."
+  },
+  {
+   "surface": "genres",
+   "claim": "Dedicated play-along, routed to the Rocksmith 2014 Bass Play Along playlist rather than genre or All Genres lists.",
+   "source": "User standing rule, recorded in Ver 3.0/TXT/Play_Along_Series_ID_Map.md",
+   "assessment": "User reports it assigned to the Play Along playlist. Applies the standing rule for every play-along."
+  },
+  {
+   "surface": "tags",
+   "claim": "my chemical romance",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "welcome to the black parade",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "black parade",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "mcr",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "mikey way",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "gerard way",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "piano intro",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass play along",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "rocksmith 2014 remastered",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "rocksmith bass",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "emo",
+   "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "pop punk",
+   "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "2006",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass cover",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass guitar",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "the black parade",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "my chem",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "gerard way piano",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "mavomusic",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "mavomusicyt",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  }
+ ],
+ "distinct_fact_and_source": "The eleven note piano intro that opens on G5, plus the scrapped Cavallo album opener about a marching band passing through a city. Unused by the other six, which cover the MTV debut, the Hall of Fame listing, the Time ranking, the key change, the Burbank studio and the lead single argument. Source: https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+ "uniqueness_assessment": "Zero five-word phrases shared with any other package once the song title itself is set aside, checked against all 152 _03 - Copy.md files and the delivered review copy. The gate returns five signals for this video, every one of them the song title. Format wording is written apart from the A-M-E-R-I-C-A and Abigail play-along packages.",
+ "uncertainties_and_removed_claims": "The video runs 3:33 against a 5:11 album cut and a 4:37 radio edit, so the copy says the arrangement is shorter than the record and never calls it the radio edit. Stream timing, current playlist membership and live pin state are not asserted. Historical screenshots cannot establish live settings.",
+ "collision_report_sha256": "51341a4361284a72a8efd7eb74a303f557def1c77b46697d7087a7f36cb1c56a",
+ "all_claims_checked": true,
+ "cross_song_uniqueness_checked": true
 }

@@ -1,68 +1,206 @@
 {
-  "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-07T18:42:44.715018+00:00",
-  "surface_sha256": {
-    "title": "b7f6a95e3ad11725ab1c10f5a26ac1d7c23ee1147d85002e8a5a36e00932809f",
-    "description": "bde401cae00304b0f1c8d00afa11fba167a8f3fe22e775841b71ff5bcc8ed510",
-    "tags": "d32484f5cb5d6c60dcc5a6c92d1facfd11ad0a88a9f053dd5fb9a773e3b936d6",
-    "pinned comment": "e77efdfcd65334dd698b43ffcdd0e2c8cf7867665cc0139ad057c237560628a9",
-    "genres": "5edab9b53d36472e0d9ef065b325313cf6c627159215ee30220e49086c721888"
+ "reviewer": "Arena agent",
+ "reviewed_at": "2026-11-10",
+ "surface_sha256": {
+  "title": "ff512dae27f4c119458e78a117ae46ad89fad8661c4946efe01c5041896a0721",
+  "description": "f91692034bef445c8e51e5f4304828033cb3d5f36682df5bdf5fa4d0dd3aaaa9",
+  "tags": "bdef39f3058d67605ff3e21961c7b17ac88789fb87e2358873244c5d65d0b843",
+  "pinned comment": "360c8c0c7c28b5d611e4a1e98f5dbd74e34213b5b7dbe102d61ae46b9549c507",
+  "genres": "970e1a9af2d8b8619e4401ec3cf864e0906f2858c57403f56eb7bc715565a2f3"
+ },
+ "reviewed_surfaces": {
+  "title": true,
+  "description": true,
+  "tags": true,
+  "pinned comment": true,
+  "genres": true
+ },
+ "claims": [
+  {
+   "surface": "title",
+   "claim": "The song appears on a Rock and Roll Hall of Fame list and is presented here on bass.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Article states the Hall of Fame listed it as a song that shaped rock and roll."
   },
-  "reviewed_surfaces": {
-    "title": true,
-    "description": true,
-    "tags": true,
-    "pinned comment": true,
-    "genres": true
+  {
+   "surface": "description",
+   "claim": "The Rock and Roll Hall of Fame lists it among songs that shaped rock and roll.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Stated in the lead. The copy does not claim induction into the Hall."
   },
-  "claims": [
-    {
-      "surface": "title",
-      "claim": "Artist, song and creator bass performance",
-      "source": "User recording identification; supplied Studio screenshot for 0167",
-      "assessment": "Identifies the song and creator performance; new recording should be checked by uploader."
-    },
-    {
-      "surface": "tags",
-      "claim": "Song, artist and associated names; bass cover",
-      "source": "https://genius.com/My-chemical-romance-welcome-to-the-black-parade-lyrics",
-      "assessment": "Song identity and credits; tags are associations, not performers in MAVO recording."
-    },
-    {
-      "surface": "genres",
-      "claim": "Alternative rock, emo, pop punk, post-hardcore are artist-wide genres",
-      "source": "Band Info/My Chemical Romance/Register.md",
-      "assessment": "Existing consistent artist-wide classification, not all necessarily song-level."
-    },
-    {
-      "surface": "description",
-      "claim": "Two weeks at UK Official Singles Chart number one in 2006",
-      "source": "https://www.officialcharts.com/chart-news/official-charts-flashback-2006-my-chemical-romances-welcome-to-the-black-parade-rises-to-number-1__34262/",
-      "assessment": "Source explicitly supports this historical claim; not evidence of current popularity."
-    },
-    {
-      "surface": "pinned comment",
-      "claim": "Two weeks at UK Official Singles Chart number one in 2006",
-      "source": "https://www.officialcharts.com/chart-news/official-charts-flashback-2006-my-chemical-romances-welcome-to-the-black-parade-rises-to-number-1__34262/",
-      "assessment": "Source explicitly supports this historical claim; not evidence of current popularity."
-    },
-    {
-      "surface": "description",
-      "claim": "Kick and Twitch mirror; Discord invitation",
-      "source": "User standing instructions and confirmed Discord invite",
-      "assessment": "Links based on user-confirmed information; not a guarantee of current broadcast schedule."
-    },
-    {
-      "surface": "description",
-      "claim": "Creator bass performance, listen-through invitation and optional Discord boost request",
-      "source": "User confirmed on-screen bass performance; Ver 3.0/TXT/Copy_Style_Continuity_2026-11-07.md",
-      "assessment": "Performance identified by user; listen and boost are invitations, not claims about a specific musical passage or benefits."
-    }
-  ],
-  "distinct_fact_and_source": "Two weeks at UK Official Singles Chart number one in 2006 - https://www.officialcharts.com/chart-news/official-charts-flashback-2006-my-chemical-romances-welcome-to-the-black-parade-rises-to-number-1__34262/; separate from 0009 track placement and the other new MCR copies.",
-  "uniqueness_assessment": "Reviewed collision signals: shared artist/title/chart words are unavoidable or common; recurring community language is functional. Reworded the Discord CTA between these releases. Descriptive paragraph and invitations differ. Unseen live-only material cannot be checked, and no automated scan proves semantic uniqueness. 2026-11-07 five-pair review: inspected current five-word signals; recurring song titles, chart terminology and functional social/boost phrasing, plus generic performance wording, are not evidence of identical packages. Same-song and prior accessible edit comparison remains limited; unseen material cannot be ruled out.",
-  "uncertainties_and_removed_claims": "Do not assert chart status or game version for new recording. User identified new recording; verify actual file. Historic Studio screenshots cannot prove current claims, pin or territory availability. Revised description is proposed, not proof of Studio change; not attributing musical details to an uninspected recording.",
-  "collision_report_sha256": "33c6182ad6cd84e835e25a85a67d5602436f5d60d6e0b0f9c25b5fdffb2eb26e",
-  "all_claims_checked": true,
-  "cross_song_uniqueness_checked": true
+  {
+   "surface": "description",
+   "claim": "The complete song is played end to end with the studio recording as reference.",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Player duration 5:10 against a 5:11 album cut, so the whole song is present. Reference wording avoids claiming note for note transcription."
+  },
+  {
+   "surface": "description",
+   "claim": "Live shows and requests run through Kick, the broadcast fans out to Twitch, and Discord hosts MCR chat.",
+   "source": "Standing channel practice in existing copy",
+   "assessment": "House order and one URL each. No schedule asserted."
+  },
+  {
+   "surface": "pinned comment",
+   "claim": "The single is certified seven times Platinum in the US and three times Platinum in the UK.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Commercial performance section gives both certifications with the RIAA and BPI."
+  },
+  {
+   "surface": "pinned comment",
+   "claim": "Both certifications were awarded long after the 2006 release.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Article presents the certifications as current figures for a 2006 single, and RIAA and BPI thresholds were not met in 2006. Deliberately vague on dates because no award date is given in the source."
+  },
+  {
+   "surface": "genres",
+   "claim": "Artist-wide genres are alternative rock, emo, pop punk and post-hardcore, and this normal long form takes the four long-form genre lists plus Long Form All Genres.",
+   "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+   "assessment": "Artist-level classification used for the whole catalogue. Routing follows the standing rule for normal long forms."
+  },
+  {
+   "surface": "tags",
+   "claim": "my chemical romance",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "welcome to the black parade",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "black parade",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "mcr",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "mikey way",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "gerard way",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "frank iero",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "ray toro",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "bob bryar",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "rock and roll hall of fame",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "rolling stone",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass cover",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "rocksmith 2014 remastered",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "rocksmith bass",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "emo",
+   "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "pop punk",
+   "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "2006",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass guitar",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "the black parade",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "my chem",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "mavomusic",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "mavomusicyt",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  },
+  {
+   "surface": "description",
+   "claim": "Rolling Stone placed it 96th on its 2025 rundown of the best songs of the twenty first century.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Critical reception section gives the 2025 Rolling Stone placing of 96."
+  }
+ ],
+ "distinct_fact_and_source": "The Rock and Roll Hall of Fame listing and the 2025 Rolling Stone placing at 96, plus the US and UK platinum certifications. Unused by the other six, and deliberately different from this video's own live creator comment, which already leans on the UK number one. Sources: https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+ "uniqueness_assessment": "Zero five-word phrases shared with any other package once the song title is set aside. Gate returns five signals, all of them the song title.",
+ "uncertainties_and_removed_claims": "No award date is given for either certification, so the copy says long after the 2006 release rather than naming a year. Audience retention and geography are not available yet on a one day old upload and nothing is inferred from their absence. Search term dirantai digelangi rindu is unrelated and is not used to justify tags. Current playlist membership and pin state are not asserted.",
+ "collision_report_sha256": "ead84526927a16be0ee51d6b21dd7664047ffd02d53f8fea03f7c3c657aeb437",
+ "all_claims_checked": true,
+ "cross_song_uniqueness_checked": true
 }

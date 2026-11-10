@@ -272,6 +272,94 @@ Creator comment posted beneath the pin:
 
 **Note:** One non-quiz in the X-Kid batch deliberately, so the five comments are not five quizzes in a row. This is the rule that every video gets a fact, quiz or trivia comment whatever else is pinned, recorded in `Ver 3.0/TXT/Creator_Comment_Rule.md`.
 
+## My Chemical Romance - Welcome To The Black Parade - Long 0167
+
+**Status:** proposed 2026-11-10, not confirmed posted or pinned. The existing creator comment names the 2006 MTV Video Music Awards and stays as it is.
+
+```text
+📊 Quiz: how high did Welcome To The Black Parade reach on the US Billboard Hot 100?
+A) 9
+B) 1
+C) 23
+
+Answer below.
+```
+
+**Answer:** A) 9
+
+**Evidence:** https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade - the chart table gives US Billboard Hot 100 at 9, alongside US Modern Rock at 1. The description deliberately prints the Modern Rock placing and not the Hot 100 one.
+
+**Note:** The first draft of this package was written around the 2006 MTV Video Music Awards. That fact is already on the video in two places, the live description and the existing creator comment, so the package was rewritten around the chart story and the old quiz was retired before delivery.
+
+## My Chemical Romance - Welcome To The Black Parade - Short 0068
+
+**Status:** proposed 2026-11-10, not confirmed posted. The genuine `@sir_chugsalot8196` viewer comment stays pinned and untouched, and this comment is posted separately beneath it.
+
+```text
+📖 Quiz: two other outlets also ranked this song among the best of 2006. Which pair of positions did Rolling Stone and BBC Music give it?
+A) 17th and 43rd
+B) 3rd and 12th
+C) 40th and 71st
+
+Answer below.
+```
+
+**Answer:** A) 17th and 43rd
+
+**Evidence:** https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade - the critical reception section gives Time at 3rd, Rolling Stone at 17th and BBC at 43rd among the best songs of 2006.
+
+**Note:** Neither figure is printed in the description, which gives only the Time placing. This video has a preserved viewer pin, so the quiz is a separate creator comment rather than a replacement.
+
+## My Chemical Romance - Welcome To The Black Parade - Short 1434
+
+**Status:** proposed 2026-11-10, not confirmed posted. The genuine `@tabitha-j2j` viewer comment stays pinned and untouched, and this comment is posted separately beneath it.
+
+```text
+📖 Quiz: which key does Welcome To The Black Parade start in before it moves up a whole step?
+A) G major
+B) A major
+C) E major
+
+Answer below.
+```
+
+**Answer:** A) G major
+
+**Evidence:** https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade - the song sits in G major and shifts to A major toward the end. The description states the shift, so the question tests which of the two is the starting key.
+
+**Note:** This video has a preserved viewer pin, so the quiz is a separate creator comment rather than a replacement.
+
+## My Chemical Romance - Welcome To The Black Parade - Short 1912
+
+**Status:** proposed 2026-11-10, not confirmed posted or pinned. Nothing is pinned on the video.
+
+```text
+📖 Quiz: which Burbank studio hosted the sessions for Welcome To The Black Parade?
+A) El Dorado Recording Studios
+B) Capitol Studios
+C) Ocean Way Recording
+
+Answer below.
+```
+
+**Answer:** A) El Dorado Recording Studios
+
+**Evidence:** https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade - the infobox gives El Dorado Recording Studios in Burbank as the recording location and also lists Capitol Studios in Hollywood. Both are named in the description.
+
+**Note:** Capitol is genuinely on the song page, so it works as the near miss rather than as an invented option.
+
+## My Chemical Romance - Welcome To The Black Parade - Short 2420
+
+**Status:** no new quiz. The creator comment already on the video covers the 10th-anniversary release and The Five Of Us Are Dying, and it is preserved and proposed for pinning rather than replaced.
+
+```text
+🎬 The 10th-anniversary release included The Five Of Us Are Dying, an early version of this song. Curious how this bass part fits the whole song? Follow the related video to my full performance.
+```
+
+**Fact source:** https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade - The Black Parade/Living with Ghosts was released on 23 September 2016 and included The Five of Us Are Dying, the demo known earlier as the song's working title.
+
+**Note:** The description deliberately takes a different angle, the label staff wanting Famous Last Words or Teenagers as the lead single, so the comment and the description do not repeat each other.
+
 ## Historical quiz references without recoverable question
 
 - (G)I-DLE - Tomboy, older CO-0050 / LF 0050: Channel_Order_Audit_Log.txt describes a historical proposed "fact quiz" but does not provide its wording or answer there. The current _03 - Copy.md contains a different opinion question. Do not invent the missing historical quiz or assume it was posted.

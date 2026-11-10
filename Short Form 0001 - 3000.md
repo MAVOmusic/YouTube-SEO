@@ -79,7 +79,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0065 | Rammstein - Hilf Mir | N/A |
 | 0066 | Sabaton - Primo Victoria | N/A |
 | 0067 | Nirvana - Come As You Are | N/A |
-| 0068 | My Chemical Romance - Welcome To The Black Parade | Bass through the Black Parade \| My Chemical Romance #bass |
+| 0068 | My Chemical Romance - Welcome To The Black Parade | Time put Welcome To The Black Parade third in 2006 #bass |
 | 0069 | Billy Talent - Try Honesty | N/A |
 | 0070 | Linkin Park - One Step Closer | N/A |
 | 0071 | System Of A Down - Lonely Day | N/A |
@@ -1515,7 +1515,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1431 | Eric Clapton - Cocaine | N/A |
 | 1432 | Motionless In White - Du Hast | N/A |
 | 1433 | Red Hot Chili Peppers - Under The Bridge | N/A |
-| 1434 | My Chemical Romance - Welcome To The Black Parade | Rocksmith bass meets Welcome To The Black Parade \| My Chemical Romance |
+| 1434 | My Chemical Romance - Welcome To The Black Parade | Welcome To The Black Parade changes key before it ends #bass |
 | 1435 | Muse - Bliss | N/A |
 | 1436 | Fake Shark - Cheap Thrills | N/A |
 | 1437 | *NSYNC - Bye Bye Bye | N/A |
@@ -2018,7 +2018,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1909 | Serj Tankian - The Unthinking Majority | N/A |
 | 1910 | Serj Tankian - Beethoven's C*nt | N/A |
 | 1911 | Thirty Seconds To Mars - Valhalla | N/A |
-| 1912 | My Chemical Romance - Welcome To The Black Parade | Welcome To The Black Parade in a bass spotlight - My Chemical Romance |
+| 1912 | My Chemical Romance - Welcome To The Black Parade | Where Welcome To The Black Parade was recorded #bass |
 | 1913 | Sabaton - Stalingrad | N/A |
 | 1914 | HIM - Buried Alive By Love | N/A |
 | 1915 | Maroon 5 - This Love | N/A |
@@ -2551,7 +2551,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2417 | System Of A Down - Toxicity | N/A |
 | 2418 | Linkin Park - Numb | N/A |
 | 2419 | Arctic Monkeys - Do I Wanna Know? | N/A |
-| 2420 | My Chemical Romance - Welcome To The Black Parade | My Chemical Romance meets bass on Welcome To The Black Parade #bass |
+| 2420 | My Chemical Romance - Welcome To The Black Parade | Welcome To The Black Parade nearly was not the first single |
 | 2421 | Paramore - Misery Business | Misery Business hits the bass strings \| Paramore #bass |
 | 2422 | AFI - Miss Murder | That Miss Murder bass drive - AFI #bass |
 | 2423 | Jimmy Eat World - Sweetness [reserved] | Sweetness in a bass snapshot - Jimmy Eat World #bass |
