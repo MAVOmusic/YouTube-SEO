@@ -226,7 +226,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0202 | Linkin Park - Crawling | N/A |
 | 0203 | System Of A Down - A.T.W.A. | N/A |
 | 0204 | 10 Years - Telescreen (Vampires Early Demo) | N/A |
-| 0205 | Motionless In White - Immaculate Misconception | N/A |
+| 0205 | Motionless In White - Immaculate Misconception | Immaculate Misconception was cut in Ocala in May 2010 #bass |
 | 0206 | Sabaton - 1648 (Swedish) | N/A |
 | 0207 | 10 Years - Through The Iris | N/A |
 | 0208 | Attack! Attack! - Smokahontas | N/A |
@@ -2029,7 +2029,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1920 | Kansas - Carry On Wayward Son | N/A |
 | 1921 | Linkin Park - Crawling | N/A |
 | 1922 | System Of A Down - A.T.W.A. | N/A |
-| 1923 | Motionless In White - Immaculate Misconception | N/A |
+| 1923 | Motionless In White - Immaculate Misconception | Immaculate Misconception took until 2011 to become a single #bass |
 | 1924 | Sabaton - 1648 (Swedish) | N/A |
 | 1925 | 10 Years - Through The Iris | N/A |
 | 1926 | Attack Attack! - Smokahontas | N/A |

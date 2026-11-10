@@ -159,6 +159,27 @@ Answer below.
 
 **Note:** Short 0186 covers the same song with a non-quiz pin, so this is the only A-M-E-R-I-C-A quiz and it is not duplicated across the two Shorts.
 
+## Motionless In White - Immaculate Misconception - Short 1923
+
+**Status:** proposed 2026-11-10, not confirmed posted or pinned. No comment is pinned on this Short.
+
+```text
+🎬 The whole Immaculate Misconception performance is the related video on this Short.
+
+📖 Quiz: which year did Immaculate Misconception come out as a single?
+A) 2010
+B) 2011
+C) 2012
+
+Answer below.
+```
+
+**Answer:** B) 2011
+
+**Evidence:** https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album) - the album arrived on 12 October 2010 and Immaculate Misconception was released as a single on 11 November 2011, the third single from Creatures.
+
+**Note:** The 2010 album and the 2011 single are a year apart, which is the trap in the question. Long Form 0007 and Short 0205 use other facts from the same album, so this is the only quiz across the four versions.
+
 ## Historical quiz references without recoverable question
 
 - (G)I-DLE - Tomboy, older CO-0050 / LF 0050: Channel_Order_Audit_Log.txt describes a historical proposed "fact quiz" but does not provide its wording or answer there. The current _03 - Copy.md contains a different opinion question. Do not invent the missing historical quiz or assume it was posted.

@@ -60,12 +60,18 @@ Imported from the existing per-song reviews for this artist. CO numbers indicate
 - Shawn Crahan of Slipknot directed the song music video in 2013.
   - Source: https://bloody-disgusting.com/news/3230124/motionless-in-white-shoot-music-video-with-slipknots-clown/ ; https://imvdb.com/video/motionless-in-white/america
 
-### CO-0007 - 0007 - Motionless In White -  Immaculate Misconception (Long Form)
+### CO-0007 - 0007 - Motionless In White - Immaculate Misconception (Long Form)
 
-- Immaculate Misconception opens Motionless In White debut Creatures.
-  - Source: https://mediakits.concord.com/p/creatures/press-release.html
-- Dee Snider of Twisted Sister appears in the song music video.
-  - Source: https://mediakits.concord.com/p/creatures/press-release.html
+- Immaculate Misconception is track 1 on Creatures, the debut album, at 3:54. Album released 12 October 2010 on Fearless, produced by Andrew Wade, recorded May 2010 at Wade Studios in Ocala, Florida.
+  - Source: https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)
+- Ricky "Horror" Olson is credited on bass for Creatures. The album is the only one to feature rhythm guitarist Thomas "TJ" Bell.
+  - Source: https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)
+- Dee Snider of Twisted Sister makes a cameo in the 11 November 2011 music video, which his son Cody directed.
+  - Source: https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)
+- Immaculate Misconception was released as a single on 11 November 2011, the third from Creatures.
+  - Source: https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)
+- Album charted at number 6 on Billboard Heatseekers and number 175 on the Billboard 200.
+  - Source: https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album)
 
 ### CO-0033 - 0033 - Motionless In White - Another Life (Long Form)
 
@@ -110,6 +116,21 @@ Copy angles are deliberately split: tuning and Infamous chart for 0006, Tim Skö
 All four proposals are in their `_03 - Copy.md`, mirrored in `_All Songs/Copy Blacklist.md`, and both long forms carry gate records. See [analysis](America/Analysis.md) and `Ver 3.0/TXT/America_All_Versions_Review.md`.
 
 Sources: https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album) ; https://en.wikipedia.org/wiki/Motionless_in_White ; https://en.wikipedia.org/wiki/Tim_Sk%C3%B6ld
+
+## Immaculate Misconception - four versions reviewed 2026-11-10
+
+Chronological IDs: LF **0007** (dedicated play-along) and LF **0178** (normal long form); Shorts **0205** and **1923**. All four reviewed from refreshed screenshots on 2026-11-10 and all four folders renamed to `Immaculate Misconception [U - 2026-11-10]`. The double space that had been in the 0007 folder name and index row is gone.
+
+- 0007: 516 views, 14.6 h, +54 subscribers, 1:43 AVD of 4:07 (41.8%), 68% at 0:30, 4.9k impressions at 8.0%, search 64.3%, playlists 15.5%, likes 100.0%, ineligible to earn. No pinned comment; the creator question from 8 days ago is preserved.
+- 0178: 24 views, 0.3 h, 0:46 of 3:52 (20.2%), 1.3k impressions at 1.4% click-through, browse 62.5%, search 20.8%, tags only seven channel words at 70 characters, ineligible to earn.
+- 0205: 1,112 views (332 more than usual), 4.7 h, +3 subscribers, 0.09 GBP, 33.4% stayed, 0:16, Shorts feed 69.7%, search 10.5%. Viewer comment @anthonydustini stays pinned.
+- 1923: 137 views (153 fewer than usual), 0.2 h, 0.005 GBP, 27.1% stayed, 0:17, Shorts feed 48.9%, search 30.7%. No pinned comment.
+
+Copy angles are split: Ricky Olson bass credit on Creatures for 0007, the Dee Snider cameo with Cody Snider directing for 0178, the Ocala recording session for 0205, and the 2011 single release plus a quiz for 1923. Genres for the artist: Metalcore, Gothic Metal, Industrial Metal, Nu Metal, Hard Rock.
+
+All four proposals are in their `_03 - Copy.md`, mirrored in `_All Songs/Copy Blacklist.md`, and both long forms carry gate records at zero five-word signals. See [analysis](Immaculate%20Misconception/Analysis.md).
+
+Sources: https://en.wikipedia.org/wiki/Creatures_(Motionless_in_White_album) ; https://en.wikipedia.org/wiki/Motionless_in_White ; https://en.wikipedia.org/wiki/Dee_Snider
 
 ## Abigail - reviewed 2026-11-09
 

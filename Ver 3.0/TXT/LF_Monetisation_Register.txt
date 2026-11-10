@@ -539,8 +539,8 @@ monotonic metric (56.2 -> 42.5), so retention share, not click rate, is the
 open question.
 
 --- MR-0008 | CO-0007 | Motionless In White - Immaculate Misconception -----------
-Video ID           : WhJw7-s5VO
-Upload / date      : 26-10-2022 | 4:07 | 510 views | 14.5 h | +54 subs
+Video ID           : WhJw7-s5VQ
+Upload / date      : 26-10-2022 | 4:07 | 516 views | 14.6 h | +54 subs
 Notices badge      : E4 INELIGIBLE  ("Ineligible to earn", Ads off) | GBP 0.00
 Description risk   : the six-block 2022 template PLUS an extra line unique to this
                      video - "Until that join our Discord: https://discord.gg/
@@ -549,12 +549,12 @@ Description risk   : the six-block 2022 template PLUS an extra line unique to th
 Pinned risk        : identical stale pin as MR-0005/0006/0007.
 Tags               : 21 at 496/500, including a self-brand "mavomusic" tag.
 Cause hypothesis   : E4-a CLAIM-DRIVEN, Fearless / Roadrunner catalogue.
-Traffic verdict    : 510 views, 8.0% CTR, 64.1% YouTube search, playlists 15.7%,
+Traffic verdict    : 516 views, 8.0% CTR, 64.3% YouTube search, playlists 15.5%,
                      +54 subs from 294 unique viewers = 18.4% conversion.
                      Highest opening hold of the whole series at 68% @ 0:30.
 Recreation verdict : KEEP, REWRITE THE SURFACE. Never earning; strong recruiter
                      and the third best converter measured.
-Next action        : Paste the CO-0007 copy. This completes the 2022 shell.
+Next action        : Paste the CO-0007 copy (rewritten 2026-11-10, not applied).
 
 --------------------------------------------------------------------------------
 THE FIVE AUDITED PLAY ALONGS - FULL SERIES TABLE

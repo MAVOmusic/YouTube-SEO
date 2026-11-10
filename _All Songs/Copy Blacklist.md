@@ -482,32 +482,165 @@ Watch the note highway as the track moves through its sections. If you are learn
 How does A-M-E-R-I-C-A compare with the other singles from Infamous for you?
 ```
 
-### 0007 - Motionless In White -  Immaculate Misconception
+## Motionless In White - Immaculate Misconception - four versions reviewed 2026-11-10
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White -  Immaculate Misconception (Long Form)/_03 - Copy.md`
+All four indexed versions reviewed from refreshed screenshots on 2026-11-10. Proposed copy only, no Studio edit confirmed. Four separate angles: the Ricky Olson bass credit, the Dee Snider cameo, the Ocala recording session, and the 2011 single release. The 50-intervening-upload rule stays paused.
+
+### LF 0007 - Motionless In White - Immaculate Misconception (dedicated play-along)
+
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0007 - Motionless In White - Immaculate Misconception [U - 2026-11-10]/_03 - Copy.md`
+
+Dedicated play-along, so it stays in the Rocksmith 2014 Bass Play Along playlist. The earlier creator question asked 8 days ago is preserved.
 
 **Title**
 
 ```text
-Immaculate Misconception kicks off Creatures - MIW bass
+Ricky Olson played bass on Creatures: Immaculate Misconception
 ```
 
 **Description**
 
 ```text
-Immaculate Misconception opens Motionless In White's debut album Creatures. Twisted Sister's Dee Snider makes a cameo in the song's music video.
+🎸 Ricky Horror Olson held the bass on Creatures, and Immaculate Misconception is the song that opens that record.
 
-Follow the Rocksmith notes while I play bass. Take it section by section if you are learning the part.
+💿 Creatures was the band's debut album, out on Fearless in October 2010 and produced by Andrew Wade.
 
-🟢 Drop into a live performance on Kick: https://kick.com/mavomusic
-🟣 Watch the mirrored broadcast on Twitch: https://www.twitch.tv/mavomusic
-💬 Tell the Discord community which Creatures track you would choose next; boosts are welcome: https://discord.gg/ESGsGkN4j2
+🎶 The chart stays on screen for the full four minutes, so any section can be looped and replayed.
+
+🟢 Request a track on the Kick stream: https://kick.com/mavomusic
+🟣 Missed it live? Twitch keeps the replay: https://www.twitch.tv/mavomusic
+💬 Bring your Creatures picks to Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (25, 416/500 characters)
+
+```text
+motionless in white, immaculate misconception, immaculate misconception bass, creatures, 2010, ricky olson, chris motionless, chris cerulli, josh balz, angelo parente, andrew wade, metalcore, gothic metal, industrial metal, nu metal, hard rock, rocksmith bass motionless in white, bass cover, bass play along, rocksmith 2014 remastered, motionless in white bass cover, miw, motionles in white, mavomusic, mavomusicyt
 ```
 
 **Pinned comment or recommendation**
 
 ```text
-Which part of Immaculate Misconception would you break down first when learning it?
+🎸 Ricky Olson was the bassist on Creatures. Which track would you want played through next?
+```
+
+### LF 0178 - Motionless In White - Immaculate Misconception (normal long form)
+
+Source: `_All Songs/_0001 Long Form/0101 - 0200/0171 - 0180/0178 - Motionless In White - Immaculate Misconception [U - 2026-11-10]/_03 - Copy.md`
+
+Normal long form, so it takes the five long-form genre playlists plus Long Form All Genres.
+
+**Title**
+
+```text
+Immaculate Misconception and the Dee Snider cameo in its 2011 video
+```
+
+**Description**
+
+```text
+🎥 The Immaculate Misconception video landed in November 2011 with a Dee Snider cameo, and his son Cody directed it.
+
+💿 The song itself opens Creatures, the debut album from 2010 that put Motionless In White on the map.
+
+🎸 This is the whole track played on bass with the note highway running underneath.
+
+🟢 Catch the live streams on Kick: https://kick.com/mavomusic
+🟣 Twitch mirrors every broadcast: https://www.twitch.tv/mavomusic
+💬 Let Discord know which track deserves the next cover: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (25, 386/500 characters)
+
+```text
+motionless in white, immaculate misconception, immaculate misconception bass, creatures, 2010, 2011, dee snider, cody snider, twisted sister, metalcore, gothic metal, industrial metal, nu metal, hard rock, bass cover, rocksmith 2014 remastered, rocksmith bass, motionless in white bass cover, miw, motionles in white, chris motionless, chris cerulli, ricky olson, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation**
+
+```text
+🎥 Dee Snider appears in the video while his son Cody directs it. Did you spot that connection before now?
+```
+
+### Short 0205 - Motionless In White - Immaculate Misconception
+
+Source: `_All Songs/_0002 Short Form/0201 - 0300/0201 - 0210/0205 - Motionless In White - Immaculate Misconception [U - 2026-11-10]/_03 - Copy.md`
+
+The viewer comment from @anthonydustini stays pinned. The text below is an optional creator comment, posted unpinned.
+
+**Title**
+
+```text
+Immaculate Misconception was cut in Ocala in May 2010 #bass
+```
+
+**Description**
+
+```text
+🎸 Immaculate Misconception opens Creatures, tracked in May 2010 at Wade Studios in Ocala, Florida with Andrew Wade producing.
+
+🎬 The full play-along is the related video on this Short if 34 seconds is not enough.
+
+🟢 Join a live request night on Kick: https://kick.com/mavomusic
+🟣 The Twitch stream mirrors the show: https://www.twitch.tv/mavomusic
+💬 Talk Creatures era Motionless In White in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (24, 378/500 characters)
+
+```text
+motionless in white, immaculate misconception, immaculate misconception bass, creatures, 2010, andrew wade, metalcore, gothic metal, industrial metal, nu metal, hard rock, bass cover, bass shorts, bass guitar, rocksmith 2014 remastered, rocksmith bass, motionless in white bass cover, miw, motionles in white, chris motionless, chris cerulli, ricky olson, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation**
+
+```text
+🎬 The full Immaculate Misconception play-along is the related video on this Short.
+
+🎛 Creatures was recorded at Wade Studios in Ocala, Florida with Andrew Wade producing. Does the 2010 sound still hold up for you?
+```
+
+### Short 1923 - Motionless In White - Immaculate Misconception
+
+Source: `_All Songs/_0002 Short Form/1901 - 2000/1921 - 1930/1923 - Motionless In White - Immaculate Misconception [U - 2026-11-10]/_03 - Copy.md`
+
+No comment is pinned at the moment. The quiz answer is B and is not printed in the description.
+
+**Title**
+
+```text
+Immaculate Misconception took until 2011 to become a single #bass
+```
+
+**Description**
+
+```text
+🎸 The song came out on Creatures in 2010, but Immaculate Misconception was not issued as a single until 11 November 2011.
+
+🎥 The complete play-along is on the related video attached to this Short.
+
+🟢 Song picks happen live on Kick: https://kick.com/mavomusic
+🟣 Twitch carries the same stream: https://www.twitch.tv/mavomusic
+💬 Bring your Creatures deep cuts to Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (25, 389/500 characters)
+
+```text
+motionless in white, immaculate misconception, immaculate misconception bass, creatures, 2011, single, metalcore, gothic metal, industrial metal, nu metal, hard rock, bass cover, bass shorts, bass guitar, rocksmith 2014 remastered, rocksmith bass, motionless in white bass cover, miw, motionles in white, chris motionless, chris cerulli, ricky olson, angelo parente, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation**
+
+```text
+🎬 The whole Immaculate Misconception performance is the related video on this Short.
+
+📖 Quiz: which year did Immaculate Misconception come out as a single?
+A) 2010
+B) 2011
+C) 2012
+
+Answer below.
 ```
 
 ### 0008 - Green Day - X-Kid
