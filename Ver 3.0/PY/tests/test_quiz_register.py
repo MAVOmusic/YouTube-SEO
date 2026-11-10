@@ -9,9 +9,10 @@ class QuizRegisterTest(unittest.TestCase):
         text = (ROOT / 'TXT/Historical_Quiz_Questions_And_Answers.md').read_text()
         # Eight recovered historical questions plus the A-M-E-R-I-C-A Short 1892
         # and Immaculate Misconception Short 1923 proposals added 2026-11-10, four
-        # Green Day X-Kid proposals the same day, then four My Chemical Romance
-        # Welcome To The Black Parade quizzes, each recorded with its answer.
-        self.assertEqual(text.count('**Answer:**'), 18)
+        # Green Day X-Kid proposals the same day, four My Chemical Romance
+        # Welcome To The Black Parade quizzes, then two .38 Special
+        # If I'd Been The One quizzes, each recorded with its answer.
+        self.assertEqual(text.count('**Answer:**'), 20)
         self.assertIn('without recoverable question', text)
         self.assertIn('Short 0147', text)
         self.assertIn('draft only', text)

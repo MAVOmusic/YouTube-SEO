@@ -498,7 +498,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0464 | .38 Special - Chain Lightnin' | N/A |
 | 0465 | Hot Mulligan - Featuring Mark Hoppus | N/A |
 | 0466 | Sabaton - Union (Slopes Of St. Benedict) | N/A |
-| 0467 | .38 Special - If I'd Been The One | N/A |
+| 0467 | .38 Special - If I'd Been The One | If I'd Been The One hit number one for .38 Special #bass |
 | 0468 | "Weird Al" Yankovic - eBay | N/A |
 | 0469 | Alesana - All Night Dance Parties In The Underground Palace | N/A |
 | 0470 | Asking Alexandria - I Won't Give In | N/A |

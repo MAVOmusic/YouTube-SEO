@@ -360,6 +360,44 @@ Answer below.
 
 **Note:** The description deliberately takes a different angle, the label staff wanting Famous Last Words or Teenagers as the lead single, so the comment and the description do not repeat each other.
 
+## .38 Special - If I'd Been The One - Long 0010
+
+**Status:** proposed 2026-11-10, not confirmed posted or pinned. A viewer comment from `@blaze_the_bassist` is pinned and stays pinned, so this comment is posted beneath it.
+
+```text
+🎛 Quiz: which Georgia studio hosted the Tour de Force sessions in 1983?
+A) Studio One
+B) The Castle
+C) Muscle Shoals Sound
+
+Answer below.
+```
+
+**Answer:** A) Studio One
+
+**Evidence:** https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album) - the album was recorded in 1983 at Studio One in Doraville, Georgia, produced by Don Barnes, Jeff Carlisi and Rodney Mills.
+
+**Note:** The studio is deliberately absent from the description, so the answer is not printed. The Castle and Muscle Shoals Sound are real rooms used only as distractors.
+
+## .38 Special - If I'd Been The One - Short 0467
+
+**Status:** proposed 2026-11-10, not confirmed posted or pinned. A viewer comment from `@ericdehart4332` is pinned and stays pinned, so this comment is posted beneath it.
+
+```text
+📀 Quiz: which Tour de Force track sat on the B side of this single?
+A) Twentieth Century Fox
+B) Back Where You Belong
+C) One Time for Old Times
+
+Answer below.
+```
+
+**Answer:** A) Twentieth Century Fox
+
+**Evidence:** https://en.wikipedia.org/wiki/If_I%27d_Been_the_One - the single lists Twentieth Century Fox as the B side. All three options are tracks on Tour de Force, and all three are credited to the same four writers, which is why the B side question works.
+
+**Note:** None of the three is named in the description. The description carries the chart result instead, so the comment and the copy do not repeat each other.
+
 ## Historical quiz references without recoverable question
 
 - (G)I-DLE - Tomboy, older CO-0050 / LF 0050: Channel_Order_Audit_Log.txt describes a historical proposed "fact quiz" but does not provide its wording or answer there. The current _03 - Copy.md contains a different opinion question. Do not invent the missing historical quiz or assume it was posted.

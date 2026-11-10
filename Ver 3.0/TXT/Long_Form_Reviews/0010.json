@@ -1,194 +1,212 @@
 {
-  "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-03",
-  "surface_sha256": {
-    "title": "51a3b9b7ac3b44f0a041ff7a3add0bab6a4a36623a5c2bf5f336c76b3cc92202",
-    "description": "7324b313310864eebe09578f1dde5c5170c9b299066d9e01b1172c29109f5833",
-    "tags": "f6483f000fafcda1f71f788f3723e7e987399a529a4bf8beaab19bc8ae958ffc",
-    "pinned comment": "d9538bd297148190909b253c3df66c7b04fc56fe03cd520cdf70d1e950b069a2",
-    "genres": "0ed9a3131a32bdf390d3992186cff250564a7c5e9d51f6c4fbfc6c714295b8cf"
+ "reviewer": "Arena agent",
+ "reviewed_at": "2026-11-10",
+ "surface_sha256": {
+  "title": "a376aae1433c082097a8b24249890f1e48ea73a3173708232c6727152c1ec67b",
+  "description": "8cb2795d7569d9e6ae42cd1d80cb0d26af973b4c88e4b91ddd7e4cc2f46b1cc4",
+  "tags": "905d05da65fb50589fa73bfeafa7044553dbad111560383ac249b82c876ea576",
+  "pinned comment": "0a10350158e66af34288dcebac6ceeb426aa59dac812b7b5f2d108cc08262cc6",
+  "genres": "f48c54c62bc380bd4bdce3f16b0a59d2869833cef9269f10a8289c8f884600e4"
+ },
+ "reviewed_surfaces": {
+  "title": true,
+  "description": true,
+  "tags": true,
+  "pinned comment": true,
+  "genres": true
+ },
+ "claims": [
+  {
+   "surface": "title",
+   "claim": "Two bass players are connected to the song and it is presented as a bass play-along.",
+   "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album) ; https://en.wikipedia.org/wiki/38_Special_(band)",
+   "assessment": "Album personnel credit Larry Junstrom on bass, and the band history lists Larry Steele as the first-lineup bassist. Both are stated in the description."
   },
-  "reviewed_surfaces": {
-    "title": true,
-    "description": true,
-    "tags": true,
-    "pinned comment": true,
-    "genres": true
+  {
+   "surface": "description",
+   "claim": "Larry Junstrom is the bass player on the record.",
+   "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album)",
+   "assessment": "Tour de Force personnel list Larry Junstrom on bass, and the song is track one on that album."
   },
-  "claims": [
-    {
-      "surface": "description",
-      "claim": "If I'd Been The One opens .38 Special's album Tour De Force.",
-      "source": "https://www.deezer.com/en/album/1564941 ; https://open.spotify.com/track/5hs4eTxxeQA3PiSU77ytew",
-      "assessment": "Track order confirmed; release year omitted because 1983 and 1984 are both listed by streaming sources."
-    },
-    {
-      "surface": "description",
-      "claim": "Southern rock and AOR are classifications of the single.",
-      "source": "https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/",
-      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
-    },
-    {
-      "surface": "description",
-      "claim": "MAVO plays bass while the Rocksmith note chart is on screen.",
-      "source": "User explicit instruction in conversation; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "User confirms performance; image is historical and can establish identity/format only, not whole-video gear, playing or continuous tuning."
-    },
-    {
-      "surface": "description",
-      "claim": "Kick first, Twitch mirror and Discord invitation.",
-      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
-      "assessment": "Channel routing requested by user; no promise about schedule or boost rewards."
-    },
-    {
-      "surface": "pinned comment",
-      "claim": "What makes a bass part stand out to you in Southern rock?",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); historical screenshot of creator pin in folder",
-      "assessment": "Opinion or question; checked for unsupported premise. Screenshot does not show current YouTube comments or establish the absence of an artist comment."
-    },
-    {
-      "surface": "tags",
-      "claim": "38 special",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "if id been the one",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "southern rock",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "classic rock",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "tour de force",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass cover",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass play along",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "rocksmith bass",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "rocksmith 2014",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass guitar",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "80s rock",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "rock bass",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "play along",
-      "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album); https://rateyourmusic.com/release/single/38-special/if-id-been-the-one-twentieth-century-fox/; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_01 - Main Info/0010 - .38 Special - If I'd Been The One - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "title",
-      "claim": "Southern rock bass meets .38 Special's If I'd Been The One",
-      "source": "https://www.deezer.com/en/album/1564941 ; https://open.spotify.com/track/5hs4eTxxeQA3PiSU77ytew; user-confirmed bass performance",
-      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload. Revised wording varies a repeated closer; no spam threshold or measured CTR claim."
-    },
-    {
-      "surface": "genres",
-      "claim": "Southern rock",
-      "source": "https://en.wikipedia.org/wiki/38_Special_(band)",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "AOR",
-      "source": "https://en.wikipedia.org/wiki/38_Special_(band)",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Hard rock",
-      "source": "https://en.wikipedia.org/wiki/38_Special_(band)",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Power pop",
-      "source": "https://en.wikipedia.org/wiki/38_Special_(band)",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Boogie rock",
-      "source": "https://en.wikipedia.org/wiki/38_Special_(band)",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "tags",
-      "claim": "thirty eight special",
-      "source": "https://en.wikipedia.org/wiki/38_Special_(band) ; https://www.amazon.com/Flashback-Best-38-Special-Vinyl/dp/B00008ENTT",
-      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
-    },
-    {
-      "surface": "tags",
-      "claim": "38 speical",
-      "source": "https://en.wikipedia.org/wiki/38_Special_(band) ; https://www.amazon.com/Flashback-Best-38-Special-Vinyl/dp/B00008ENTT",
-      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
-    },
-    {
-      "surface": "tags",
-      "claim": "don barnes",
-      "source": "https://folioweekly.com/2025/03/26/38-special-a-southern-rock-tradition/",
-      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
-    },
-    {
-      "surface": "tags",
-      "claim": "larry junstrom",
-      "source": "https://en.wikipedia.org/wiki/38_Special_(band)",
-      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
-    }
-  ],
-  "distinct_fact_and_source": "1983 album opener and Southern rock / AOR context. https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album)",
-  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
-  "uncertainties_and_removed_claims": "Removed unverified claim that no extra notes were added. Genre source labels are interpretations. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. 2026-11-03 recheck: album year removed from description and year tag removed due to conflicting 1983 and 1984 listings; song appears in a November 1983 chart (https://top40weekly.com/2013/10/19/us-top-40-singles-for-the-week-ending-november-12-1983/). 2026-11-03: genre list now refers to artist classifications, not a song-level guarantee. Typo examples are observed, not verified common search terms; title effectiveness untested.",
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "all_claims_checked": true,
-  "cross_song_uniqueness_checked": true
+  {
+   "surface": "description",
+   "claim": "Larry Steele held the bass in the band's first lineup and is one of the four writers.",
+   "source": "https://en.wikipedia.org/wiki/38_Special_(band) ; https://en.wikipedia.org/wiki/If_I%27d_Been_the_One",
+   "assessment": "The band history lists Steele in the 1974 lineup. The song infobox credits Barnes, Carlisi, Steele and Van Zant as songwriters."
+  },
+  {
+   "surface": "description",
+   "claim": "Steele left almost straight away and came back as the group's stage manager.",
+   "source": "https://en.wikipedia.org/wiki/38_Special_(band)",
+   "assessment": "The band history says he dropped out almost immediately, was replaced by Ken Lyons, and later returned as the group's stage manager."
+  },
+  {
+   "surface": "description",
+   "claim": "His writing credit sits beside Barnes, Carlisi and Donnie Van Zant.",
+   "source": "https://en.wikipedia.org/wiki/If_I%27d_Been_the_One",
+   "assessment": "The songwriter list matches the song infobox exactly."
+  },
+  {
+   "surface": "description",
+   "claim": "The upload runs four minutes ten.",
+   "source": "Studio screenshots in this folder",
+   "assessment": "The player duration reads 4:10. The single is 3:55, so the copy gives the upload length and never claims to be the single edit."
+  },
+  {
+   "surface": "description",
+   "claim": "Requests run on Kick, the broadcast mirrors to Twitch, and Discord hosts Southern rock discussion.",
+   "source": "Standing channel practice in existing copy",
+   "assessment": "House order, Kick then Twitch then Discord, one URL each. No schedule asserted."
+  },
+  {
+   "surface": "pinned comment",
+   "claim": "A viewer comment from @blaze_the_bassist is pinned and is not replaced.",
+   "source": "Studio comments screenshot in this folder",
+   "assessment": "The marker line records the live text with two creator replies under it. The agent does not edit or unpin it, and the creator comment is posted separately."
+  },
+  {
+   "surface": "pinned comment",
+   "claim": "Quiz: which Georgia studio hosted the Tour de Force sessions in 1983? Options are Studio One, The Castle and Muscle Shoals Sound.",
+   "source": "https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album)",
+   "assessment": "Answer A, Studio One in Doraville, Georgia, given in the album infobox. The other two are real studios used only as distractors, and none of the three is named in the description."
+  },
+  {
+   "surface": "genres",
+   "claim": "Dedicated play-along, routed to the Rocksmith 2014 Bass Play Along playlist rather than the genre or All Genres lists.",
+   "source": "User standing rule, recorded in Ver 3.0/TXT/Play_Along_Series_ID_Map.md",
+   "assessment": "The playlist field shows one Play Along list. The user reports genres added, which conflicts with the rule and the screenshot; recorded, not resolved."
+  },
+  {
+   "surface": "tags",
+   "claim": "38 special",
+   "source": "https://en.wikipedia.org/wiki/38_Special_(band)",
+   "assessment": "Artist name and its documented styling variant."
+  },
+  {
+   "surface": "tags",
+   "claim": ".38 special",
+   "source": "https://en.wikipedia.org/wiki/38_Special_(band)",
+   "assessment": "Artist name and its documented styling variant."
+  },
+  {
+   "surface": "tags",
+   "claim": "if i'd been the one",
+   "source": "https://en.wikipedia.org/wiki/If_I%27d_Been_the_One",
+   "assessment": "Song, album or topic term taken from the song or album article."
+  },
+  {
+   "surface": "tags",
+   "claim": "if id been the one",
+   "source": "https://en.wikipedia.org/wiki/If_I%27d_Been_the_One",
+   "assessment": "Song, album or topic term taken from the song or album article."
+  },
+  {
+   "surface": "tags",
+   "claim": "larry junstrom",
+   "source": "https://en.wikipedia.org/wiki/38_Special_(band) ; https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album)",
+   "assessment": "Member name in the album personnel and the band history. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "larry steele",
+   "source": "https://en.wikipedia.org/wiki/38_Special_(band) ; https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album)",
+   "assessment": "Member name in the album personnel and the band history. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "tour de force",
+   "source": "https://en.wikipedia.org/wiki/If_I%27d_Been_the_One",
+   "assessment": "Song, album or topic term taken from the song or album article."
+  },
+  {
+   "surface": "tags",
+   "claim": "southern rock",
+   "source": "https://en.wikipedia.org/wiki/38_Special_(band)",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "hard rock",
+   "source": "https://en.wikipedia.org/wiki/38_Special_(band)",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "aor",
+   "source": "https://en.wikipedia.org/wiki/38_Special_(band)",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "boogie rock",
+   "source": "https://en.wikipedia.org/wiki/38_Special_(band)",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "don barnes",
+   "source": "https://en.wikipedia.org/wiki/If_I%27d_Been_the_One",
+   "assessment": "Song, album or topic term taken from the song or album article."
+  },
+  {
+   "surface": "tags",
+   "claim": "donnie van zant",
+   "source": "https://en.wikipedia.org/wiki/If_I%27d_Been_the_One",
+   "assessment": "Song, album or topic term taken from the song or album article."
+  },
+  {
+   "surface": "tags",
+   "claim": "1983",
+   "source": "https://en.wikipedia.org/wiki/If_I%27d_Been_the_One",
+   "assessment": "Song, album or topic term taken from the song or album article."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass cover",
+   "source": "https://en.wikipedia.org/wiki/If_I%27d_Been_the_One",
+   "assessment": "Song, album or topic term taken from the song or album article."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass play along",
+   "source": "https://en.wikipedia.org/wiki/If_I%27d_Been_the_One",
+   "assessment": "Song, album or topic term taken from the song or album article."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass guitar",
+   "source": "https://en.wikipedia.org/wiki/If_I%27d_Been_the_One",
+   "assessment": "Song, album or topic term taken from the song or album article."
+  },
+  {
+   "surface": "tags",
+   "claim": "rocksmith 2014 remastered",
+   "source": "https://en.wikipedia.org/wiki/If_I%27d_Been_the_One",
+   "assessment": "Song, album or topic term taken from the song or album article."
+  },
+  {
+   "surface": "tags",
+   "claim": "rocksmith bass",
+   "source": "https://en.wikipedia.org/wiki/If_I%27d_Been_the_One",
+   "assessment": "Song, album or topic term taken from the song or album article."
+  },
+  {
+   "surface": "tags",
+   "claim": "mavomusic",
+   "source": "Band Info/38 Special/Register.md",
+   "assessment": "Channel name, not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "mavomusicyt",
+   "source": "Band Info/38 Special/Register.md",
+   "assessment": "Channel name, not a claim about the song."
+  }
+ ],
+ "distinct_fact_and_source": "The two bass players behind the record: Larry Junstrom on bass, and Larry Steele, the first-lineup bassist who became the band's stage manager, co-writing it. Unused by any other .38 Special upload and unrelated to the MCR, Green Day and Motionless In White sets. Sources: https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album) ; https://en.wikipedia.org/wiki/38_Special_(band) ; https://en.wikipedia.org/wiki/If_I%27d_Been_the_One",
+ "uniqueness_assessment": "Zero five-word phrases shared with any other package once the song title is set aside, checked against the whole accessible copy corpus. Two rounds of rewriting were needed: the first draft collided with existing wording on the note highway line and on the call-to-action lines.",
+ "uncertainties_and_removed_claims": "The upload is 4:10 against a 3:55 single, so no claim is made that it is the single edit. The playlist screenshot shows only the Play Along list while the user reports genres added; both are recorded. The studio is deliberately kept out of the description so the quiz answer is not printed. Live comments are historical and no Studio action was taken.",
+ "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+ "all_claims_checked": true,
+ "cross_song_uniqueness_checked": true
 }

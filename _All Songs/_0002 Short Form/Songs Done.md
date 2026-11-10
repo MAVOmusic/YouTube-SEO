@@ -7,6 +7,7 @@ Current-session completed individual reviews, in video ID order. A review is ent
 | 0010 | Green Day - X-Kid | 2026-11-10 (time unavailable; clock date mismatch) | Proposed copy delivered; no Studio edit confirmed |
 | 0021 | Motionless In White - Another Life | 2026-11-01 (time unavailable; clock date mismatch) | Proposed; no Studio edit confirmed |
 | 0068 | My Chemical Romance - Welcome To The Black Parade | 2026-11-10 (time unavailable; clock date mismatch) | Proposed copy delivered; no Studio edit confirmed |
+| 0467 | .38 Special - If I'd Been The One | 2026-11-10 (time unavailable; clock date mismatch) | Proposed copy delivered; no Studio edit confirmed |
 | 0147 | Motionless In White - Masterpiece | 2026-11-09 (time unavailable; clock date mismatch) | Provisional review; no Studio edit confirmed |
 | 0152 | Motionless In White - Abigail | 2026-11-09 (time unavailable; clock date mismatch) | Proposed copy delivered; no Studio edit confirmed |
 | 0186 | Motionless In White - A-M-E-R-I-C-A | 2026-11-10 01:10 GMT | Proposed copy delivered; no Studio edit confirmed |

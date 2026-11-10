@@ -168,6 +168,17 @@ Boogie Rock - Rocksmith 2014 Bass Shorts
 - Shorts All Genres: Short 0467.
 - The three new long-form lists have no .38 Special member yet, because 0010 is the dedicated play-along and stays out of genre and All Genres lists. LF 0010 goes in Rocksmith 2014 Bass Play Along Videos only.
 
+## Copy delivered 2026-11-10
+
+| Format | ID | Title | Chars | Description | Pin |
+| --- | --- | --- | --- | --- | --- |
+| Long form | 0010 | Two bass players behind .38 Special's If I'd Been The One | 57 | 612 | @blaze_the_bassist preserved, plus a separate creator quiz on the studio, answer A |
+| Short | 0467 | If I'd Been The One hit number one for .38 Special #bass | 56 | 460 | @ericdehart4332 preserved, plus a separate creator quiz on the B side, answer A |
+
+Full analytics and limits in [the two-version review](38_Special_If_Id_Been_The_One_Two_Versions_Review.md).
+
+Playlist evidence after the pass: Short 0467 shows 6 playlists, which matches five genre Shorts lists plus Shorts All Genres, so the three new Shorts lists are recorded as confirmed created on that basis. The three long-form variants stay proposed, because nothing in either folder shows them and 0010 is a dedicated play-along that stays out of genre lists. Long 0010's own playlist field shows only the Play Along list, which does not match the user's "genres added" report; both are recorded.
+
 ## What is still needed to finish this song
 
 1. **The status list**, in the usual shape, so the song can be processed:

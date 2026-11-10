@@ -699,9 +699,9 @@ The song moves through several sections over its five-minute album recording. Us
 Where did you first hear Welcome To The Black Parade?
 ```
 
-### 0010 - .38 Special - If I'd Been The One
+### 0010 - .38 Special - If I'd Been The One [superseded 2026-11-10, kept for comparison; current copy in the .38 Special section at the end]
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One (Long Form)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One [U - 2026-11-10]/_03 - Copy.md`
 
 **Title**
 
@@ -4965,3 +4965,101 @@ my chemical romance, welcome to the black parade, black parade, mcr, mikey way, 
 **Pinned comment or recommendation**
 
 PRESERVED ARTIST COMMENT: @MAVOmusicYT wrote "💿 The Five Of Us Are Dying appeared on the 10th-anniversary edition as an early version of Welcome To The Black Parade. Have you heard it?" Keep it exactly as it is and pin it. Do not replace or edit it.
+
+## .38 Special - If I'd Been The One - two versions reviewed 2026-11-10
+
+Both indexed versions reviewed from the refreshed Studio Insights screenshots in their folders on 2026-11-10. Proposed copy only, no Studio edit confirmed. Analytics, sources and limits in [the two-version review](../Ver%203.0/TXT/38_Special_If_Id_Been_The_One_Two_Versions_Review.md). The 50-intervening-upload rule stays paused. The two packages share zero five-word phrases with each other once the song title is set aside.
+
+### LF 0010 - .38 Special - If I'd Been The One (dedicated play-along)
+
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0010 - .38 Special - If I'd Been The One [U - 2026-11-10]/_03 - Copy.md`
+
+**Title** (57 characters)
+
+```text
+Two bass players behind .38 Special's If I'd Been The One
+```
+
+**Description** (612 characters)
+
+```text
+🎸 If I'd Been The One has two bass players behind it. Larry Junstrom is the one on the record, and Larry Steele, who held the bass in the band's first lineup, is one of its four writers.
+
+📋 Steele left almost straight away and came back as the group's stage manager. His credit sits beside Barnes, Carlisi and Donnie Van Zant.
+
+🎛 Four minutes ten with the chart on screen from beginning to end.
+
+🟢 Requests get taken live over on Kick: https://kick.com/mavomusic
+🟣 The broadcast mirrors itself on Twitch: https://www.twitch.tv/mavomusic
+💬 Southern rock debate is welcome in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (21, 297/500 characters)
+
+```text
+38 special, .38 special, if i'd been the one, if id been the one, larry junstrom, larry steele, tour de force, southern rock, hard rock, aor, boogie rock, don barnes, donnie van zant, 1983, bass cover, bass play along, bass guitar, rocksmith 2014 remastered, rocksmith bass, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation**
+
+PRESERVED ARTIST COMMENT: @blaze_the_bassist wrote "Brother thank so much! YOU ARE the bomb! I'll work on this in a week or two for my channel! Woot woot" with two creator replies under it, the first saying a sub had been dropped back and that bassists should unite. Emoji appear in the live text and are not reproduced here. Keep the pin exactly as it is. Do not replace, edit or unpin it.
+
+**Creator comment to post** (137 characters)
+
+```text
+🎛 Quiz: which Georgia studio hosted the Tour de Force sessions in 1983?
+A) Studio One
+B) The Castle
+C) Muscle Shoals Sound
+
+Answer below.
+```
+
+Posted as its own new comment beneath the pin, not in place of it. Every video gets a creator fact, quiz or trivia comment whatever else is pinned.
+
+### Short 0467 - .38 Special - If I'd Been The One (normal Short)
+
+Source: `_All Songs/_0002 Short Form/0401 - 0500/0461 - 0470/0467 - .38 Special - If I'd Been The One [U - 2026-11-10]/_03 - Copy.md`
+
+**Title** (56 characters)
+
+```text
+If I'd Been The One hit number one for .38 Special #bass
+```
+
+**Description** (460 characters)
+
+```text
+📊 .38 Special took If I'd Been The One to number one on Billboard's Mainstream Rock chart and to number 19 on the Hot 100.
+
+🎛 Thirty four seconds of the bass part with the highway visible.
+
+🎬 The complete take is linked below as the related video.
+
+🟢 Name the next track during a Kick session: https://kick.com/mavomusic
+🟣 The companion feed lives on Twitch: https://www.twitch.tv/mavomusic
+💬 Deep cuts get argued over in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (19, 279/500 characters)
+
+```text
+38 special, .38 special, if i'd been the one, if id been the one, mainstream rock, billboard hot 100, southern rock, hard rock, aor, 1983, tour de force, thirty eight special, bass cover, bass shorts, bass guitar, rocksmith 2014 remastered, rocksmith bass, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation**
+
+PRESERVED ARTIST COMMENT: @ericdehart4332 wrote "Sounds great!" with two creator replies under it, the second saying more is coming. Keep the pin exactly as it is. Do not replace, edit or unpin it.
+
+**Creator comment to post** (158 characters)
+
+```text
+📀 Quiz: which Tour de Force track sat on the B side of this single?
+A) Twentieth Century Fox
+B) Back Where You Belong
+C) One Time for Old Times
+
+Answer below.
+```
+
+Posted as its own new comment beneath the pin, not in place of it. Every video gets a creator fact, quiz or trivia comment whatever else is pinned.
