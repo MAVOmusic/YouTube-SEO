@@ -384,6 +384,7 @@ Answer below.
 **Status:** proposed 2026-11-10, not confirmed posted or pinned. A viewer comment from `@ericdehart4332` is pinned and stays pinned, so this comment is posted beneath it.
 
 ```text
+🎬 The full recording is attached below as the related video on this Short.
 📀 Quiz: which Tour de Force track sat on the B side of this single?
 A) Twentieth Century Fox
 B) Back Where You Belong
@@ -393,6 +394,8 @@ Answer below.
 ```
 
 **Answer:** A) Twentieth Century Fox
+
+**Opens with:** the pointer to the attached full recording, before the question, as required on every Short.
 
 **Evidence:** https://en.wikipedia.org/wiki/If_I%27d_Been_the_One - the single lists Twentieth Century Fox as the B side. All three options are tracks on Tour de Force, and all three are credited to the same four writers, which is why the B side question works.
 
@@ -422,6 +425,7 @@ Answer below.
 **Status:** proposed 2026-11-10. Nothing is pinned on this upload yet, so this comment is the one to pin.
 
 ```text
+🎬 The whole take is attached below as this Short's related video.
 📀 Quiz: which song was the only single released from Paper Walls?
 A) Light Up the Sky
 B) Fighting
@@ -431,6 +435,8 @@ Answer below.
 ```
 
 **Answer:** A) Light Up the Sky
+
+**Opens with:** the pointer to the attached full recording, before the question, as required on every Short.
 
 **Evidence:** https://en.wikipedia.org/wiki/Paper_Walls - the singles list carries Light Up the Sky only, released 5 June 2007, and the article names it as the lead single.
 

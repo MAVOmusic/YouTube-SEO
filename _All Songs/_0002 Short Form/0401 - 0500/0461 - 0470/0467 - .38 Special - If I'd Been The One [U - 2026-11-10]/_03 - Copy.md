@@ -34,11 +34,12 @@ If I'd Been The One hit number one for .38 Special #bass
 
 > PRESERVED ARTIST COMMENT: @ericdehart4332 wrote "Sounds great!" with two creator replies under it, the second saying more is coming. Keep the pin exactly as it is.
 
-## CREATOR COMMENT TO POST (fact or quiz, 158 characters)
+## CREATOR COMMENT TO POST (fact or quiz, 233 characters)
 
 > Post this as a new comment by the channel. It sits under the pinned viewer comment and is not pinned in its place. Every video gets a creator fact, quiz or trivia comment whatever else is pinned, and the two year old stream schedule comment already on this Short stays where it is.
 
 ```text
+🎬 The full recording is attached below as the related video on this Short.
 📀 Quiz: which Tour de Force track sat on the B side of this single?
 A) Twentieth Century Fox
 B) Back Where You Belong
@@ -73,5 +74,6 @@ Artist-level genres from https://en.wikipedia.org/wiki/38_Special_(band), used t
 - Audience: United States 35.5%, United Kingdom 7.3%, Canada 2.9%, Mexico 2.0%, Philippines 2.0%. Male 100.0%. Age 55-64 54.7%, 25-34 45.3%. Device by watch time: mobile 73.4%, computer 16.4%, tablet 5.5%, TV 4.7%. Watch time from subscribers 1.4%.
 - The related video is confirmed by the details screenshot as Southern rock bass meets .38 Spe..., which is long form 0010, so the copy can point at it. The wording points at the related video without naming a duration.
 - Facts: the single is the lead from Tour de Force (1983) with Twentieth Century Fox on the B side, both credited to Don Barnes, Jeff Carlisi, Larry Steele and Donnie Van Zant. It reached number one on Billboard Mainstream Rock and number 19 on the Hot 100, with Canada at 49. Sources: https://en.wikipedia.org/wiki/If_I%27d_Been_the_One, https://en.wikipedia.org/wiki/Tour_de_Force_(38_Special_album)
+- The pinned comment opens with the pointer to the attached full recording, as all Short pins must, and only then asks the quiz.
 - Quiz answer for internal use: A, Twentieth Century Fox. None of the three album tracks is named in the description.
 - Not certified against the complete 50-intervening-upload window, which the user has paused. Checked against the whole available copy corpus instead: zero shared five-word phrases with any other package once the song title is set aside. No Studio action taken.
