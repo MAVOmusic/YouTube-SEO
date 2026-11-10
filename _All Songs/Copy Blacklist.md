@@ -5063,3 +5063,92 @@ Answer below.
 ```
 
 Posted as its own new comment beneath the pin, not in place of it. Every video gets a creator fact, quiz or trivia comment whatever else is pinned.
+
+---
+
+## Yellowcard - Fighting - new pair reviewed 10 November 2026
+
+Both versions are new recordings with no earlier copies in either catalogue, which matches the user's report. Sources: `_All Songs/_0001 Long Form/0681 - 0690/0684 - Yellowcard - Fighting (Long Form)/_03 - Copy.md` and `_All Songs/_0002 Short Form/2431 - 2440/2431 - Yellowcard - Fighting (Short Form)/_03 - Copy.md`.
+
+Neither upload has a pinned comment yet, so the comment in each block is the one to pin.
+
+### LF 0684 | Yellowcard - Fighting
+
+## TITLE (62 characters)
+
+```text
+Fighting on bass: the last Yellowcard record with Peter Mosely
+```
+
+## DESCRIPTION (555 characters)
+
+```text
+🎸 Fighting is track two on Paper Walls, the Yellowcard album that landed on 17 July 2007.
+
+🎛 Peter Mosely plays bass on it, and this turned out to be the last Yellowcard record he played on. Ryan Mendez had just taken over guitar.
+
+📍 Neal Avron produced the sessions at Ocean Studios in Burbank, which ran from January into March of that year.
+
+🟢 Song picks get taken during Kick streams: https://kick.com/mavomusic
+🟣 The same session shows on Twitch: https://www.twitch.tv/mavomusic
+💬 Yellowcard deep cuts belong in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+## TAGS (20 tags, 265/500 characters)
+
+```text
+yellowcard, fighting, paper walls, pop punk, alternative rock, emo, peter mosely, ryan mendez, ryan key, sean mackin, neal avron, 2007, bass cover, bass play along, bass guitar, rocksmith 2014 remastered, rocksmith bass, yellowcard rocksmith, mavomusic, mavomusicyt
+```
+
+## PINNED COMMENT (96 characters)
+
+```text
+🎛 Quiz: where did Paper Walls land on the Billboard 200 in 2007?
+A) 13
+B) 5
+C) 31
+
+Answer below.
+```
+
+### Short 2431 | Yellowcard - Fighting
+
+## TITLE (55 characters)
+
+```text
+Fighting came off Yellowcard's last Capitol album #bass
+```
+
+## DESCRIPTION (549 characters)
+
+```text
+📀 Paper Walls came out on 17 July 2007, and this one sits second on the running order. It also ended up being Yellowcard's final record for Capitol.
+
+🎬 While making it the band put ten behind the scenes videos on Myspace, and Ryan Key called the record a story of finding yourself again.
+
+🎛 This is its own short bass take, not a section lifted out of the long form.
+
+🟢 Ask for a track on Kick: https://kick.com/mavomusic
+🟣 Chat mirrors over on Twitch: https://www.twitch.tv/mavomusic
+💬 Punk bass talk lives in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+## TAGS (16 tags, 208/500 characters)
+
+```text
+yellowcard, fighting, paper walls, capitol records, pop punk, alternative rock, emo, peter mosely, 2007, bass cover, bass shorts, bass guitar, rocksmith 2014 remastered, rocksmith bass, mavomusic, mavomusicyt
+```
+
+## PINNED COMMENT (128 characters)
+
+```text
+📀 Quiz: which song was the only single released from Paper Walls?
+A) Light Up the Sky
+B) Fighting
+C) The Takedown
+
+Answer below.
+```
+
+The two formats take different angles. Long form: the album personnel, with Paper Walls being the last Yellowcard record with Peter Mosely on bass and the first with Ryan Mendez on guitar. Short: the album itself, its release date, the ten behind the scenes videos posted to Myspace and Ryan Key's line about the record being a story of finding yourself again.
+
