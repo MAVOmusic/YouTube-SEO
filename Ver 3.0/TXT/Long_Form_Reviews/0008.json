@@ -1,200 +1,230 @@
 {
-  "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-03",
-  "surface_sha256": {
-    "title": "0c442b5009a24fb0df82bda2673c7c5bf9b178c245a63f285394336b4939a15a",
-    "description": "efc70405d3d142f6a733f17123c02b9af2718727886aaf3bdb0a65b3134a32e0",
-    "tags": "54dda0afed3344c7d9c880da7195f61bbddcad3568e61839c622108ba8f2a90d",
-    "pinned comment": "a289d71404476d658620dd97821f63cc66669433d9ca4568b07f1b0dca934ca0",
-    "genres": "83bc46a716bf9760d0654bdd4332cdd6282cbe5fc5d814b52e2df41927600480"
+ "reviewer": "Arena agent",
+ "reviewed_at": "2026-11-10",
+ "surface_sha256": {
+  "title": "cd461b53e0d0f63e23896ae8f69ac599f0b6a0297b608e4868afba9358bf2c4b",
+  "description": "f928a55cf1823039951405df28fe304f9c4b8a9804c06690226916310cd0aa15",
+  "tags": "ea4477c8bb0133ecfee4b7d422dff6efa9f995a7d4cef79cacabdcc7907824d8",
+  "pinned comment": "7027c7f9ca61c49b0e3b6918155bb6637b7b3f818e3974de9dbaa0f12a66d144",
+  "genres": "f48c54c62bc380bd4bdce3f16b0a59d2869833cef9269f10a8289c8f884600e4"
+ },
+ "reviewed_surfaces": {
+  "title": true,
+  "description": true,
+  "tags": true,
+  "pinned comment": true,
+  "genres": true
+ },
+ "claims": [
+  {
+   "surface": "title",
+   "claim": "The song is X-Kid by Green Day, presented on bass, and it came with a cassette.",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Article states a video showing the song playing on a cassette tape was released to the band channel on 19 December 2012. Title makes no claim that this upload contains that video."
   },
-  "reviewed_surfaces": {
-    "title": true,
-    "description": true,
-    "tags": true,
-    "pinned comment": true,
-    "genres": true
+  {
+   "surface": "description",
+   "claim": "X-Kid came with a cassette tape video.",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Stated in \"Background and release\". The cassette video is a separate release from this performance."
   },
-  "claims": [
-    {
-      "surface": "description",
-      "claim": "Green Day released a cassette-playing video of X-Kid in 2012.",
-      "source": "https://en.wikipedia.org/wiki/X-Kid",
-      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
-    },
-    {
-      "surface": "description",
-      "claim": "X-Kid appears on Tre.",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/",
-      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
-    },
-    {
-      "surface": "description",
-      "claim": "The song relates to the loss of a friend.",
-      "source": "https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre ; https://www.rollingstone.com/music/music-features/billie-joe-armstrong-the-rolling-stone-interview-94267/5/",
-      "assessment": "Checked as stated. Release, album, music video and this uploaded performance are distinct; historical stills cannot establish current live settings."
-    },
-    {
-      "surface": "description",
-      "claim": "MAVO plays bass while the Rocksmith note chart is on screen.",
-      "source": "User explicit instruction in conversation; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "User confirms performance; image is historical and can establish identity/format only, not whole-video gear, playing or continuous tuning."
-    },
-    {
-      "surface": "description",
-      "claim": "Kick first, Twitch mirror and Discord invitation.",
-      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
-      "assessment": "Channel routing requested by user; no promise about schedule or boost rewards."
-    },
-    {
-      "surface": "pinned comment",
-      "claim": "Does knowing the story behind X-Kid change how you hear it, or did the music reach you first?",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; historical screenshot of creator pin in folder",
-      "assessment": "Opinion or question; checked for unsupported premise. Screenshot does not show current YouTube comments or establish the absence of an artist comment."
-    },
-    {
-      "surface": "tags",
-      "claim": "green day",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "x-kid",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "x kid",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "tre",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "mike dirnt",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "punk rock",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "pop punk",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass cover",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass play along",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "rocksmith bass",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "rocksmith 2014",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "2012",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass guitar",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "punk bass",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_01 - Main Info/0008 - Green Day - X-Kid - Details.jpeg",
-      "assessment": "Identity, recording/album/genre context, search term or requested format. Mood/use tags are listener use cases, not guarantees. A Rocksmith note highway is not asserted to be conventional tablature."
-    },
-    {
-      "surface": "tags",
-      "claim": "green day rocksmith",
-      "source": "_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_02 - Analytics/_02 - Reach/_02 - Reach 2.jpeg",
-      "assessment": "Relevant query observed in the historical YouTube search-terms panel; appropriate for this song and bass/Rocksmith format. Historical search does not guarantee future discovery."
-    },
-    {
-      "surface": "title",
-      "claim": "A bittersweet Green Day track meets Rocksmith bass: X-Kid",
-      "source": "https://en.wikipedia.org/wiki/X-Kid; user-confirmed bass performance",
-      "assessment": "Identities and concrete album/song facts follow cited evidence; descriptive hook is editorial opinion, not a claim of measured performance or an artist appearing in this upload. Revised wording varies a repeated closer; no spam threshold or measured CTR claim."
-    },
-    {
-      "surface": "genres",
-      "claim": "Punk rock",
-      "source": "https://en.wikipedia.org/wiki/Green_Day",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Pop punk",
-      "source": "https://en.wikipedia.org/wiki/Green_Day",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Alternative rock",
-      "source": "https://en.wikipedia.org/wiki/Green_Day",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Skate punk",
-      "source": "https://en.wikipedia.org/wiki/Green_Day",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "genres",
-      "claim": "Power pop",
-      "source": "https://en.wikipedia.org/wiki/Green_Day",
-      "assessment": "Source classifies the artist, not necessarily this recording; user requested consistent band-level lists."
-    },
-    {
-      "surface": "tags",
-      "claim": "greenday",
-      "source": "http://technologytrins.weebly.com/greenday.html",
-      "assessment": "Observed name variant or misspelling; occurrence is documented, not its search frequency or effectiveness."
-    },
-    {
-      "surface": "tags",
-      "claim": "billie joe armstrong",
-      "source": "https://en.wikipedia.org/wiki/Green_Day",
-      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
-    }
-  ],
-  "distinct_fact_and_source": "The cassette video and the song inspiration, rather than the trilogy facts used in 0027. https://en.wikipedia.org/wiki/X-Kid",
-  "uniqueness_assessment": "Compared title/description/pin n-grams against current repository copy and inspected related songs and available title/CTA shape registers; 0 five-word matches. No five-word signals in the available long-form corpus. Same-song 0033 and 0027 remain unreviewed; live-only and future material cannot be checked. N-grams cannot prove semantic originality.",
-  "uncertainties_and_removed_claims": "Replaced title that could imply the original bassist appeared in this upload. Details images were cross-filed; see matched screenshot. Removed bass tab tags: a Rocksmith note highway is not conventional written bass tablature. Historical pin screenshots show creator comments; live comments are unknown. Independent final check replaced the title that could imply the separate cassette video appears in this upload. Relevant observed search terms restored after user request; screenshot is historical and query observation does not prove tag effectiveness. 2026-11-03: genre list now refers to artist classifications, not a song-level guarantee. Typo examples are observed, not verified common search terms; title effectiveness untested.",
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "all_claims_checked": true,
-  "cross_song_uniqueness_checked": true
+  {
+   "surface": "description",
+   "claim": "The cassette video was posted to Green Day's own channel on 19 December 2012.",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Same sentence, with the date and the official channel named."
+  },
+  {
+   "surface": "description",
+   "claim": "X-Kid was cut at Jingletown Studios in Oakland.",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Infobox records the recording location as Jingletown Studios, Oakland, California."
+  },
+  {
+   "surface": "description",
+   "claim": "Recording ran between February and June 2012.",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Infobox gives 14 February to 26 June 2012. Copy rounds to the month."
+  },
+  {
+   "surface": "description",
+   "claim": "Rob Cavallo produced alongside the band.",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Infobox lists Rob Cavallo and Green Day as producers."
+  },
+  {
+   "surface": "description",
+   "claim": "This dedicated play-along runs 4:05.",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Player duration in the description screenshot shows 4:05. The single is listed at 3:42 on the song page and 3:41 in the album track list, so no exact runtime for the studio version is asserted in the copy."
+  },
+  {
+   "surface": "description",
+   "claim": "The note highway stays up the whole way and a section can be taken at the viewer's own speed.",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Describes the Rocksmith chart overlay visible in the video still and the standard playback controls. Not a claim about the game build or difficulty."
+  },
+  {
+   "surface": "description",
+   "claim": "Live requests open on Kick, a Twitch mirror runs at the same time, and Discord is the community link.",
+   "source": "Ver 3.0/TXT/Playlist_Descriptions_Latest_Uploads.md and existing channel copy",
+   "assessment": "Standing channel practice restated in house style: Kick first, Twitch second, Discord last, one URL each. Stream timing is not asserted."
+  },
+  {
+   "surface": "pinned comment",
+   "claim": "Quiz: X-Kid was recorded at which Oakland studio? Options Jingletown, Ocean Way and Studio 880.",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Answer A, Jingletown, per the infobox. Ocean Way and Studio 880 are real rooms used only as options; the copy asserts no fact about them. The answer is not in the description."
+  },
+  {
+   "surface": "genres",
+   "claim": "Dedicated play-along, routed to the Rocksmith 2014 Bass Play Along playlist rather than the genre or All Genres lists.",
+   "source": "User standing rule, recorded in Ver 3.0/TXT/Play_Along_Series_ID_Map.md",
+   "assessment": "Matches the rule applied to every earlier play-along. The user status line for 0008 reads \"Genre Added\"; that report is recorded in the evidence section and not reinterpreted."
+  },
+  {
+   "surface": "tags",
+   "claim": "green day",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "x-kid",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "x kid",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "green day x kid",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "tre",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "cassette",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "jingletown studios",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "pop punk",
+   "source": "https://en.wikipedia.org/wiki/Green_Day",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "power pop",
+   "source": "https://en.wikipedia.org/wiki/Green_Day",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "punk rock",
+   "source": "https://en.wikipedia.org/wiki/Green_Day",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass cover",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass play along",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass guitar",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "rocksmith 2014 remastered",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "rocksmith bass",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "green day rocksmith",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "grenday",
+   "source": "Band Info/Green Day/Register.md",
+   "assessment": "Channel or spelling variant recorded in the artist register; not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "greenday",
+   "source": "Band Info/Green Day/Register.md",
+   "assessment": "Channel or spelling variant recorded in the artist register; not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "billie joe armstrong",
+   "source": "https://en.wikipedia.org/wiki/Green_Day",
+   "assessment": "Band member name, an artist association only. No claim that this member plays on the recording in this video."
+  },
+  {
+   "surface": "tags",
+   "claim": "mike dirnt",
+   "source": "https://en.wikipedia.org/wiki/Green_Day",
+   "assessment": "Band member name, an artist association only. No claim that this member plays on the recording in this video."
+  },
+  {
+   "surface": "tags",
+   "claim": "tre cool",
+   "source": "https://en.wikipedia.org/wiki/Green_Day",
+   "assessment": "Band member name, an artist association only. No claim that this member plays on the recording in this video."
+  },
+  {
+   "surface": "tags",
+   "claim": "mavomusic",
+   "source": "Band Info/Green Day/Register.md",
+   "assessment": "Channel or spelling variant recorded in the artist register; not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "mavomusicyt",
+   "source": "Band Info/Green Day/Register.md",
+   "assessment": "Channel or spelling variant recorded in the artist register; not a claim about the song."
+  }
+ ],
+ "distinct_fact_and_source": "The cassette tape video with its 19 December 2012 date, plus the Jingletown recording window and producers. Different from 0027, which uses the Billboard chart run and the A.V. Club Kerplunk comparison, and from the three Shorts, which use the Entertainment Weekly pick, the album title pun on Tre Cool and the early album release. Sources: https://en.wikipedia.org/wiki/X-Kid ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!",
+ "uniqueness_assessment": "Five-word n-grams checked against every _03 - Copy.md in the repository and against the delivered copy in the Abigail, A-M-E-R-I-C-A, Masterpiece, MCR and Green Day playlist files. Zero shared five-word phrases with the corpus and zero between the five X-Kid packages. Format statements and CTA shapes are deliberately worded apart from the A-M-E-R-I-C-A and Abigail play-along packages. The gate report also returns zero cross-video signals.",
+ "uncertainties_and_removed_claims": "The studio version runtime is given as 3:42 on the song page and 3:41 in the album track list, so no runtime for the studio recording is stated. The earlier claim that the song deals with the loss of a friend was carried by 0008 before this pass; it is not reused here because the copy now leans on the cassette video and the studio facts, and the article only says it deals with the suicide of a close friend, which is heavier than the previous wording implied. The earlier \"bittersweet\" framing is dropped. Stream timing, playlist membership and current pin state are not asserted. Historical screenshots cannot establish live settings.",
+ "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+ "all_claims_checked": true,
+ "cross_song_uniqueness_checked": true
 }

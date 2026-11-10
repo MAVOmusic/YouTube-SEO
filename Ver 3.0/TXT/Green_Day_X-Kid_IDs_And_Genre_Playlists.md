@@ -6,11 +6,11 @@ Prepared 2026-11-10. No YouTube playlist was created, edited or deleted by the a
 
 | Format | ID | Video | Folder | Reviewed |
 | --- | --- | --- | --- | --- |
-| Long form | **0008** | Green Day - X-Kid, dedicated play-along | `0008 - Green Day - X-Kid (Long Form)` | Reviewed 2026-11-10 from screenshots, 15 files in folder |
-| Long form | **0027** | Green Day - X-Kid, normal long form | `0027 - Green Day - X-Kid (Long Form)` | Reviewed 2026-11-10, 12 files in folder, no review marker |
-| Short | **0010** | Green Day - X-Kid | `0010 - Green Day - X-Kid (Short Form)` | Reviewed 2026-11-10, 12 files in folder |
-| Short | **1524** | Green Day - X-Kid | `1524 - Green Day - X-Kid (Short Form)` | Reviewed 2026-11-10, 11 files, no `_03 - Copy.md` |
-| Short | **1772** | Green Day - X-Kid | `1772 - Green Day - X-Kid (Short Form)` | Reviewed 2026-11-10, 11 files, no `_03 - Copy.md` |
+| Long form | **0008** | Green Day - X-Kid, dedicated play-along | `0008 - Green Day - X-Kid [U - 2026-11-10]` | Reviewed 2026-11-10 from screenshots, 15 files in folder |
+| Long form | **0027** | Green Day - X-Kid, normal long form | `0027 - Green Day - X-Kid [U - 2026-11-10]` | Reviewed 2026-11-10, 12 files in folder, no review marker |
+| Short | **0010** | Green Day - X-Kid | `0010 - Green Day - X-Kid [U - 2026-11-10]` | Reviewed 2026-11-10, 12 files in folder |
+| Short | **1524** | Green Day - X-Kid | `1524 - Green Day - X-Kid [U - 2026-11-10]` | Reviewed 2026-11-10, 11 files, no `_03 - Copy.md` |
+| Short | **1772** | Green Day - X-Kid | `1772 - Green Day - X-Kid [U - 2026-11-10]` | Reviewed 2026-11-10, 11 files, no `_03 - Copy.md` |
 
 That is five IDs, not four: this song has one long-form play-along, one normal long form and three Shorts. Compare the other play-alongs, where 0006 has two long forms and 0009 has three.
 
@@ -252,6 +252,18 @@ X-Kid:
 1524 - Genre Added, Nyx comment pinned
 1772 - Genre Added, No Pins
 ```
+
+### Copy delivered 2026-11-10
+
+All five versions were reviewed and given paste-ready copy on 2026-11-10. Each package is in that video's `_03 - Copy.md`, summarised in `Ver 3.0/TXT/Green_Day_X-Kid_Five_Versions_Review.md` and indexed in the X-Kid section of `_All Songs/Copy Blacklist.md`. All five folders now end `[U - 2026-11-10]`.
+
+| ID | Prepared title |
+| --- | --- |
+| Long 0008 | X-Kid on bass: the Green Day song that came with a cassette |
+| Long 0027 | Three Billboard charts for X-Kid, a Green Day trilogy single |
+| Short 0010 | Entertainment Weekly called X-Kid the best song on Tre #bass |
+| Short 1524 | X-Kid sits on the record that puns on Tre Cool #bass |
+| Short 1772 | X-Kid on the Green Day album that shipped early #bass |
 
 ### What the screenshots confirm
 

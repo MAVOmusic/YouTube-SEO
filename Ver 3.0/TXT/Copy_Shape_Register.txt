@@ -107,7 +107,7 @@
   0005    Salem witch trials / debut                      Does the early Motionless In White sound pull you in, or do you prefer their later records?
   0006    Slipknot director / Infamous                    How does A-M-E-R-I-C-A compare with the other singles from Infamous for you?
   0007    Dee Snider cameo / album opener                 Which part of Immaculate Misconception would you break down first when learning it?
-  0008    cassette video / loss of friend                 Does knowing the story behind X-Kid change how you hear it, or did the music reach you first?
+  0008    cassette video / Jingletown studio              Which Oakland studio did X-Kid come from? A Jingletown (answer A, kept out of copy)
   0009    fifth track / previous track                    Where did you first hear Welcome To The Black Parade?
   0010    album opener / Southern rock                    What makes a bass part stand out to you in Southern rock?
   0011    sourced song-specific fact                      Which other classical piece would you choose for a long bass loop?
@@ -126,7 +126,7 @@
   0024    Early Sabaton collection and sixth track position.    What early Sabaton track would you recommend to someone who knows the later albums?
   0025    Tchaikovsky cover as a bonus track on Aephanemer albu PRESERVE artist comment - no replacement
   0026    Ninth track on a 2014 nine-track release; listed 1:22 What short song would you add to a grindcore playlist?
-  0027    Fifth track on the final album in the 2012 trilogy; d Which song from the Uno, Dos and Tre trilogy would you put on a playlist first?
+  0027    Three Billboard peaks in 2013 / Kerplunk          Which chart did X-Kid peak at 36 on? C Rock and Alternative Airplay
   0028    Band describes musical idea preceding warship subject Which historical subject would you like Sabaton to write about next?
   0029    Band describes the Paradise Lost inspiration behind t What other metal song led you to a book or a poem?
   0030    Pendulum and DJ Fresh release featuring Spyda and Ten Pick a drum and bass track for a bass-guitar adaptation.
@@ -471,3 +471,15 @@ Correction: User specifically instructed us to retrieve the comments previously 
 2026-11-09 Short 0152 Motionless In White - Abigail: description opens with the guest-vocal credit on Creatures rather than the Salem angle already used on the long form, then gives the related-video pointer with new wording. Pin is CTA first, then the video-director fact as a question. Replaces the old plain Band - Song title and a 2022 generic stream and Super Thanks template. No repeated CTA sentence from 0147 or 1864.
 
 2026-11-09 LF 0006 Motionless In White - A-M-E-R-I-C-A (dedicated play-along): description opens with the single date and the album arrival, then switches to the play-along format because search is 59.8% and playlists 17.4%. Pin is a sourced director fact plus an opinion question, so there is no quiz answer to hide. Replaces a machine-template title, a 2022 description with placeholder headings and a stale schedule, and bass-tab tags for a note highway. First draft shared a five-word run and a title phrase with the adjacent Abigail copy on 0005; both were rewritten before the gate record. Long-form gate reports 0 signals.
+
+2026-11-10 LF 0008 Green Day - X-Kid (dedicated play-along): description opens with the cassette tape video and its 19 December 2012 date, then the Jingletown Studios recording window because 79.1% of traffic is external and 0:16 average view duration is the weakest on the set. Pin is a studio quiz with the answer kept out of the copy. Replaces the bittersweet framing and the loss-of-friend line, which the source states more heavily than the old copy implied. Gate reports 0 signals.
+
+2026-11-10 LF 0027 Green Day - X-Kid (normal long form): description opens with the three 2013 Billboard peaks, then the A.V. Club reading of the intro against two Kerplunk songs. Chosen because 93.8% of traffic is YouTube advertising and only 0.3% search, and the copy still needs the song, artist and album words visible. Pin is a chart quiz whose answer is deliberately present in the copy. Gate reports 0 signals.
+
+2026-11-10 Short 0010 Green Day - X-Kid: description opens with the Entertainment Weekly pick as the best song on Tre. Pin is a quiz on the two tracks it was placed above, and neither is named in the description. Replaces the retired pipe title and the hashtag paragraph.
+
+2026-11-10 Short 1524 Green Day - X-Kid: description opens with Tre Cool turning 40 two days after release and his face on the cover. Pin is unchanged: the genuine @_Nyx_ viewer comment stays pinned and unedited, with no replacement proposed. Replaces the duplicate Band - Song title, the 2022 stream template and the ten legacy tags.
+
+2026-11-10 Short 1772 Green Day - X-Kid: description opens with the album being pulled forward to 11 December 2012 after the tour section came off. Pin is a quiz on the track that replaced Stray Heart on later pressings, answer kept out of the copy. Replaces the duplicate Band - Song title, the 2022 stream template and the ten legacy tags.
+
+2026-11-10 X-Kid five-version check: all five packages share zero five-word phrases with each other and zero with the whole accessible corpus, 803 blocks of _03 - Copy.md and delivered review copy. Full analytics and sources in TXT/Green_Day_X-Kid_Five_Versions_Review.md.

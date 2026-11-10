@@ -21,7 +21,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0007 | Sabaton - The Hammer Has Fallen | The Hammer Has Fallen on bass \| Sabaton in Rocksmith #bass |
 | 0008 | Aephanemer - Old French Song | From piano to bass: Aephanemer - Old French Song #rocksmith |
 | 0009 | Alien Fucker - Arabic UFO Party | Arabic UFO Party takes flight on bass \| Alien Fucker #rocksmith |
-| 0010 | Green Day - X-Kid | Hear X-Kid through my bass \| Green Day on Rocksmith #bass |
+| 0010 | Green Day - X-Kid | Entertainment Weekly called X-Kid the best song on Tre #bass |
 | 0011 | Sabaton - Dreadnought | N/A |
 | 0012 | Amaranthe - Archangel | N/A |
 | 0013 | Pendulum - Tarantula | N/A |
@@ -1610,7 +1610,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1521 | Motionless In White - Another Life | Motionless In White on bass - Revisiting Another Life #rocksmith |
 | 1522 | Sabaton Feat. Apocalyptica - Angels Calling | N/A |
 | 1523 | Pendulum - Another Planet | N/A |
-| 1524 | Green Day - X-Kid | N/A |
+| 1524 | Green Day - X-Kid | X-Kid sits on the record that puns on Tre Cool #bass |
 | 1525 | Black Sabbath - N.I.B. | N/A |
 | 1526 | System Of A Down - Hypnotize | N/A |
 | 1527 | T.A.T.U. - All The Things She Said | N/A |
@@ -1868,7 +1868,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1769 | Sabaton - The Hammer Has Fallen | N/A |
 | 1770 | Aephanemer - Old French Song | N/A |
 | 1771 | Alien Fucker - [title withheld] | N/A |
-| 1772 | Green Day - X-Kid | N/A |
+| 1772 | Green Day - X-Kid | X-Kid on the Green Day album that shipped early #bass |
 | 1773 | Sabaton - Dreadnought | N/A |
 | 1774 | Amaranthe - Archangel | N/A |
 | 1775 | Pendulum - Tarantula | N/A |

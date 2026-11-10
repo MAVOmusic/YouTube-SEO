@@ -11,6 +11,8 @@ Current-session completed individual reviews, in video ID order. A review is ent
 | 0005 | Motionless In White - Abigail | 2026-11-09 (time unavailable; clock date mismatch) | Proposed copy delivered; no Studio edit confirmed |
 | 0006 | Motionless In White - A-M-E-R-I-C-A | 2026-11-10 01:10 GMT (re-review; first pass 2026-11-09) | Proposed copy delivered; no Studio edit confirmed |
 | 0007 | Motionless In White - Immaculate Misconception | 2026-11-10 01:32 GMT (re-review; 2026-11-03 pass had no screenshots) | Proposed copy delivered; no Studio edit confirmed |
+| 0008 | Green Day - X-Kid | 2026-11-10 (time unavailable; clock date mismatch) | Proposed copy delivered; no Studio edit confirmed |
+| 0027 | Green Day - X-Kid | 2026-11-10 (time unavailable; clock date mismatch) | Proposed copy delivered; no Studio edit confirmed |
 | 0033 | Motionless In White - Another Life | 2026-11-01 (time unavailable; clock date mismatch) | Proposed; no Studio edit confirmed |
 | 0119 | Motionless In White - Masterpiece | 2026-11-09 (time unavailable; clock date mismatch) | Provisional review; no Studio edit confirmed |
 | 0147 | Motionless In White - A-M-E-R-I-C-A | 2026-11-10 01:10 GMT | Proposed copy delivered; no Studio edit confirmed |
