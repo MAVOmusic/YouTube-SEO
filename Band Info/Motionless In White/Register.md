@@ -96,9 +96,9 @@ Relevant names below are artist associations, not an assertion they play on each
 
 Chronological IDs LF 0003 (dedicated play-along), 0119; Shorts 0147 and 1864. See [pending analysis](Masterpiece/Analysis.md) for older numbering, playlist exclusions and evidence. All five MIW artist genre playlist pairs already confirmed created. Wait for refreshed analytics before preparing copy.
 
-## A-M-E-R-I-C-A - long form reviewed 2026-11-09
+## A-M-E-R-I-C-A - four indexed versions
 
-LF 0006 dedicated play-along: 333 views, 9.0 h, +58 subscribers, 1:37 AVD of 3:50 (42.5%), 59.8% search, 17.4% playlists. Proposed title, description, tags and pin replace the machine-template title, the 2022 placeholder description and the bass-tab tags. Stays in the Play Along playlist only. The Short is unresolved: index rows 0186 and 1892 both exist and neither has screenshots. See [analysis](America/Analysis.md) and the review at Ver 3.0/TXT/America_Two_Version_Review.md.
+Chronological IDs: LF **0006** (dedicated play-along, reviewed 2026-11-09) and LF **0147** (normal long form, indexed only, no folder or screenshots). Shorts **0186** and **1892** both appear in the index and both are probably separate uploads, but neither has a folder. 0006: 333 views, 9.0 h, +58 subscribers, 1:37 AVD of 3:50 (42.5%), 59.8% search, 17.4% playlists. Proposed 0006 copy replaces the machine-template title, the 2022 placeholder description and the bass-tab tags. 0006 stays in the Play Along playlist only. Do not write copy for 0147, 0186 or 1892 until their screenshots arrive. See [analysis](America/Analysis.md) and `Ver 3.0/TXT/America_All_Versions_Review.md`.
 
 ## Abigail - reviewed 2026-11-09
 

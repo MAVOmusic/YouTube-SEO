@@ -4162,7 +4162,7 @@ Abigail by Motionless In White, sight-read on bass #rocksmith #bass
 
 ## Motionless In White - A-M-E-R-I-C-A - long form reviewed 2026-11-09
 
-Proposed copy from refreshed long-form screenshots. Not a Studio edit. Analytics, sources and limits in [A-M-E-R-I-C-A review](../Ver%203.0/TXT/America_Two_Version_Review.md). Reserve these surfaces under the 50-intervening-upload rule; the rule itself remains paused.
+Proposed copy from refreshed long-form screenshots. Not a Studio edit. Analytics, sources and limits in [A-M-E-R-I-C-A review](../Ver%203.0/TXT/America_All_Versions_Review.md). Reserve these surfaces under the 50-intervening-upload rule; the rule itself remains paused.
 
 ### LF 0006 - Motionless In White - A-M-E-R-I-C-A (dedicated play-along)
 
