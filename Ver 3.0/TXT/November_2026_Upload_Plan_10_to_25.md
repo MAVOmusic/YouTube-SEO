@@ -162,6 +162,10 @@ A song that already had an older upload keeps that older ID and the new recordin
 
 Only the five pairs in this table are reported as uploaded. The 84 later rows are the queue in its documented order and every one of them still needs its recording checked, copy written and metadata prepared before it can hold a slot. Move a song rather than skip a day, and tell me if a pair is not ready so the plan can be rebuilt.
 
+## Numbered plan from 12 November
+
+`Upload_Plan_12_to_25_November.md` is the numbered version of every slot from 12 November. All 84 pairs in it now have IDs and placeholder folders in both formats. Queue rows 007 to 091 were used, minus the protected withheld track, which is skipped and not scheduled. IDs run to 0788 long form and 2535 Short, assigned in queue order.
+
 ## Stock
 
 84 of the 164 remaining queue entries are used by 25 November, which leaves 80 in hand. If the two open slots turn into songs from that queue, take them from the top of the remaining list and shift the 12 November rows down accordingly.
