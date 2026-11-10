@@ -2611,67 +2611,67 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2477 | Bobby Boris Pickett & The Crypt-Kickers - Monster Mash [reserved] | N/A |
 | 2478 | Ray Parker Jr. - Ghostbusters [reserved] | N/A |
 | 2479 | The Misfits - Halloween [reserved] | N/A |
-| 2480 | N/A | N/A |
-| 2481 | N/A | N/A |
-| 2482 | N/A | N/A |
-| 2483 | N/A | N/A |
-| 2484 | N/A | N/A |
-| 2485 | N/A | N/A |
-| 2486 | N/A | N/A |
-| 2487 | N/A | N/A |
-| 2488 | N/A | N/A |
-| 2489 | N/A | N/A |
-| 2490 | N/A | N/A |
-| 2491 | N/A | N/A |
-| 2492 | N/A | N/A |
-| 2493 | N/A | N/A |
-| 2494 | N/A | N/A |
-| 2495 | N/A | N/A |
-| 2496 | N/A | N/A |
-| 2497 | N/A | N/A |
-| 2498 | N/A | N/A |
-| 2499 | N/A | N/A |
-| 2500 | N/A | N/A |
+| 2480 | +44 - Chapter XIII | N/A |
+| 2481 | Exodus - Toxic Waltz | N/A |
+| 2482 | Pink Floyd - Money | N/A |
+| 2483 | Green Day - Holiday | N/A |
+| 2484 | Dire Straits - Romeo & Juliet | N/A |
+| 2485 | Linkin Park - Numb | N/A |
+| 2486 | Billy Talent - Sympathy | N/A |
+| 2487 | Bummrraa - Butt Ugly Playroom | N/A |
+| 2488 | Linkin Park - Somewhere I Belong | N/A |
+| 2489 | Sublime - April 29, 1992 (Miami) | N/A |
+| 2490 | Angels & Airwaves - It Hurts | N/A |
+| 2491 | Rogue X Stonebank - Unity (Monstercat Release) | N/A |
+| 2492 | Linkin Park - Forgotten | N/A |
+| 2493 | Pat Benatar - Love Is A Battlefield | N/A |
+| 2494 | Metallica - For Whom The Bell Tolls | N/A |
+| 2495 | Linkin Park - Pushing Me Away | N/A |
+| 2496 | Michael Jackson - Billie Jean | N/A |
+| 2497 | The Cult - She Sells Sanctuary | N/A |
+| 2498 | I-dle - i'M THE TREND | N/A |
+| 2499 | System Of A Down - Hypnotize | N/A |
+| 2500 | T. Rex - I Live To Boogie | N/A |
 
 ## 2501 - 2600
 
 | Number | Band - Song | Prepared title |
 | --- | --- | --- |
-| 2501 | N/A | N/A |
-| 2502 | N/A | N/A |
-| 2503 | N/A | N/A |
-| 2504 | N/A | N/A |
-| 2505 | N/A | N/A |
-| 2506 | N/A | N/A |
-| 2507 | N/A | N/A |
-| 2508 | N/A | N/A |
-| 2509 | N/A | N/A |
-| 2510 | N/A | N/A |
-| 2511 | N/A | N/A |
-| 2512 | N/A | N/A |
-| 2513 | N/A | N/A |
-| 2514 | N/A | N/A |
-| 2515 | N/A | N/A |
-| 2516 | N/A | N/A |
-| 2517 | N/A | N/A |
-| 2518 | N/A | N/A |
-| 2519 | N/A | N/A |
-| 2520 | N/A | N/A |
-| 2521 | N/A | N/A |
-| 2522 | N/A | N/A |
-| 2523 | N/A | N/A |
-| 2524 | N/A | N/A |
-| 2525 | N/A | N/A |
-| 2526 | N/A | N/A |
-| 2527 | N/A | N/A |
-| 2528 | N/A | N/A |
-| 2529 | N/A | N/A |
-| 2530 | N/A | N/A |
-| 2531 | N/A | N/A |
-| 2532 | N/A | N/A |
-| 2533 | N/A | N/A |
-| 2534 | N/A | N/A |
-| 2535 | N/A | N/A |
+| 2501 | Linkin Park - Crawling | N/A |
+| 2502 | +44 - Little Death | N/A |
+| 2503 | Snoop Dogg & Wiz Khalifa - Young, Wild And Free | N/A |
+| 2504 | My Chemical Romance - Dead! | N/A |
+| 2505 | Linkin Park - Lying From You | N/A |
+| 2506 | Gorillaz - Feel Good Inc | N/A |
+| 2507 | P.O.D. - Boom | N/A |
+| 2508 | The Mamas & The Papas - California Dreaming | N/A |
+| 2509 | Manowar - Kings Of Metal | N/A |
+| 2510 | All Time Low - Weightless | N/A |
+| 2511 | BABYMETAL - Megitsune | N/A |
+| 2512 | Cannibal Corpse - Decency Defied | N/A |
+| 2513 | Billy Talent - Burn The Evidence | N/A |
+| 2514 | (hed) P.E. - Watch It Burn | N/A |
+| 2515 | Tool - Schism | N/A |
+| 2516 | Dr. Dre - The Watcher | N/A |
+| 2517 | The White Stripes - The Hardest Button To Button | N/A |
+| 2518 | Ben E. King - Stand By Me | N/A |
+| 2519 | Muse - Hysteria | N/A |
+| 2520 | Bullet For My Valentine - Scream Aim Fire | N/A |
+| 2521 | Staind - It's Been Awhile | N/A |
+| 2522 | Korn - Falling Away From Me | N/A |
+| 2523 | Led Zeppelin - Ramble On | N/A |
+| 2524 | Demilich - Putrefying Road In The Nineteenth Extremity | N/A |
+| 2525 | America - A Horse With No Name | N/A |
+| 2526 | Aephanemer - Old French Song | N/A |
+| 2527 | Amaranthe - Archangel | N/A |
+| 2528 | Dream Theater - The Dance Of Eternity | N/A |
+| 2529 | Sabaton - Dreadnought | N/A |
+| 2530 | Pop Evil - Torn To Pieces | N/A |
+| 2531 | Motionless In White - Another Life | N/A |
+| 2532 | Weather Report - Teen Town | N/A |
+| 2533 | Sabaton - Man Of War | N/A |
+| 2534 | Primus - South Park Theme | N/A |
+| 2535 | Stevie Wonder - I Wish | N/A |
 | 2536 | N/A | N/A |
 | 2537 | N/A | N/A |
 | 2538 | N/A | N/A |
