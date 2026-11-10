@@ -1,6 +1,6 @@
 # Short 0186 | Rewritten copy (Ver 4.33)
 
-> Reviewed 2026-11-10 from screenshots in this folder. Proposed copy only, not a Studio edit. Normal Short, so it takes the five Shorts genre playlists and Shorts All Genres. The pinned viewer comment stays exactly where it is; the creator text below is optional and would be posted unpinned.
+> Reviewed 2026-11-10 from screenshots in this folder. Proposed copy only, not a Studio edit. Normal Short, so it takes the five Shorts genre playlists and Shorts All Genres. The pinned viewer comment stays exactly where it is; the creator comment below is required and is posted unpinned beneath it.
 
 ## TITLE (65 characters)
 

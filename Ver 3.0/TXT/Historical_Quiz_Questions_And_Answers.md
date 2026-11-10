@@ -256,6 +256,22 @@ Answer below.
 
 **Note:** Short 1524 has no quiz, because its pin is a preserved viewer comment.
 
+## Green Day - X-Kid - Short 1524
+
+**Status:** no quiz by design. The pinned `@_Nyx_` viewer comment stays exactly as it is, so the creator comment is a fact with a question rather than a quiz, and there is no answer to record.
+
+Creator comment posted beneath the pin:
+
+```text
+🎛 Tre is the last Green Day album to credit touring guitarist Jason White as a studio performer.
+
+❓ Were you hearing a fourth guitar on the record, or does Tre still sound like three players to you?
+```
+
+**Fact source:** https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9! - personnel lists Jason White on guitar, and the article states it is the band's last album to feature touring guitarist Jason White as a studio performer.
+
+**Note:** One non-quiz in the X-Kid batch deliberately, so the five comments are not five quizzes in a row. This is the rule that every video gets a fact, quiz or trivia comment whatever else is pinned, recorded in `Ver 3.0/TXT/Creator_Comment_Rule.md`.
+
 ## Historical quiz references without recoverable question
 
 - (G)I-DLE - Tomboy, older CO-0050 / LF 0050: Channel_Order_Audit_Log.txt describes a historical proposed "fact quiz" but does not provide its wording or answer there. The current _03 - Copy.md contains a different opinion question. Do not invent the missing historical quiz or assume it was posted.

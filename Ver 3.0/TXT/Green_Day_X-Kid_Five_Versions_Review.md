@@ -96,10 +96,24 @@ Uniqueness: zero shared five-word phrases between the five packages, and zero ag
 - **0008**: propose the Jingletown studio quiz. Answer A. The other two options are real rooms used only as distractors.
 - **0027**: propose the Billboard peak quiz. Answer C. The description gives all three figures, so it is answerable from the copy on purpose.
 - **0010**: propose the Entertainment Weekly quiz. Answer A, not printed in the description.
-- **1524**: **leave the pinned `@_Nyx_` comment alone.** "Rocksmith 2014. The last good one." is a viewer comment with one creator reply and it stays pinned and unedited. No replacement is proposed.
+- **1524**: **leave the pinned `@_Nyx_` comment alone.** "Rocksmith 2014. The last good one." is a viewer comment with one creator reply and it stays pinned and unedited. In addition, post the creator comment: Tre is the last Green Day album to credit touring guitarist Jason White as a studio performer, with a question about whether a fourth guitar is audible. Every video gets a creator fact, quiz or trivia comment whatever is already pinned, so the viewer pin does not replace it.
 - **1772**: propose the Stray Heart quiz. Answer A, Drama Queen.
 
 The gate needs a hashed pin surface for 1524, so its copy file carries a `PRESERVED ARTIST COMMENT` marker line. That marker is the only form the gate accepts for a surface that will not be replaced. It is a record, not paste copy, and the comment belongs to a viewer rather than to the artist.
+
+## Creator comments, all five
+
+Every one of the five carries a creator comment of its own. Four are quizzes and one is a fact with a question, so the batch is not five quizzes in a row.
+
+| ID | Creator comment shape | Answer |
+| --- | --- | --- |
+| LF 0008 | Studio quiz: which Oakland studio recorded X-Kid | A, Jingletown |
+| LF 0027 | Chart quiz: which Billboard list peaked at 36 | C, Rock and Alternative Airplay |
+| Short 0010 | Quiz: which two tracks Entertainment Weekly placed behind X-Kid | A, Brutal Love and Missing You |
+| Short 1524 | Fact and question: Jason White credited as a studio performer on Tre | No answer to keep |
+| Short 1772 | Quiz: which track replaced Stray Heart on later pressings | A, Drama Queen |
+
+On 1524 the viewer pin and the creator comment are two separate surfaces. The `@_Nyx_` comment stays pinned and untouched, and the creator comment is posted as its own new comment beneath it. See `Ver 3.0/TXT/Creator_Comment_Rule.md`.
 
 ## Sources
 

@@ -4617,7 +4617,17 @@ green day, x-kid, x kid, green day x kid, tre, tre cool, album cover, pop punk, 
 
 **Pinned comment or recommendation**
 
-Preserved viewer pin: @_Nyx_ wrote "Rocksmith 2014. The last good one." with one creator reply below it. Do not replace, edit or unpin it. No creator paste block is supplied for this surface.
+Preserved viewer pin: @_Nyx_ wrote "Rocksmith 2014. The last good one." with one creator reply below it. Do not replace, edit or unpin it.
+
+**Creator comment to post (fact and question)**
+
+```text
+🎛 Tre is the last Green Day album to credit touring guitarist Jason White as a studio performer.
+
+❓ Were you hearing a fourth guitar on the record, or does Tre still sound like three players to you?
+```
+
+Posted as its own new comment beneath the pin, not in place of it. Every video gets a creator fact, quiz or trivia comment whatever else is pinned.
 
 ### Short 1772 - Green Day - X-Kid (normal Short)
 
