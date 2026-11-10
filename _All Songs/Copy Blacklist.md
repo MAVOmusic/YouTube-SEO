@@ -671,9 +671,9 @@ This bass play along shows the Rocksmith chart. Follow the part and listen to th
 Does knowing the story behind X-Kid change how you hear it, or did the music reach you first?
 ```
 
-### 0009 - My Chemical Romance - Welcome To The Black Parade
+### 0009 - My Chemical Romance - Welcome To The Black Parade [superseded 2026-11-10, kept for comparison; current copy in the MCR section at the end]
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
 
 **Title**
 
@@ -3219,9 +3219,9 @@ A bass take on Laisse Aller by -M- (Matthieu Chedid)
 A demo of Laisse Aller also appears on Presqu'il. Do you enjoy hearing how songs change between demos and later versions?
 ```
 
-### 0167 - My Chemical Romance - Welcome To The Black Parade
+### 0167 - My Chemical Romance - Welcome To The Black Parade [superseded 2026-11-10, kept for comparison; current copy in the MCR section at the end]
 
-Source: `_All Songs/_0001 Long Form/0101 - 0200/0161 - 0170/0167 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0101 - 0200/0161 - 0170/0167 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
 
 **Title**
 
@@ -3301,9 +3301,9 @@ Come compare your favourite Paramore tracks on Discord: https://discord.gg/ESGsG
 Misery Business reached number 17 on the UK Official Singles Chart. Which Paramore song should I play on bass next?
 ```
 
-### 0673 - My Chemical Romance - Welcome To The Black Parade
+### 0673 - My Chemical Romance - Welcome To The Black Parade [superseded 2026-11-10, kept for comparison; current copy in the MCR section at the end]
 
-Source: `_All Songs/_0001 Long Form/0601 - 0700/0671 - 0680/0673 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0601 - 0700/0671 - 0680/0673 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
 
 **Title**
 
@@ -3810,9 +3810,9 @@ Where Swedish history meets bass: Sabaton - The Lion From The North #bass
 Existing or preserved comment; see individual review, live pin unverified.
 ```
 
-### 0068 - My Chemical Romance - Welcome To The Black Parade
+### 0068 - My Chemical Romance - Welcome To The Black Parade [superseded 2026-11-10, kept for comparison; current copy in the MCR section at the end]
 
-Source: `_All Songs/_0002 Short Form/0001 - 0100/0061 - 0070/0068 - My Chemical Romance - Welcome To The Black Parade (Short Form)/_03 - Copy.md`
+Source: `_All Songs/_0002 Short Form/0001 - 0100/0061 - 0070/0068 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
 
 **Title**
 
@@ -3865,9 +3865,9 @@ Rocksmith bass meets Take Me Away by Avril Lavigne #bass
 If you could learn one Avril Lavigne bassline in Rocksmith, which would it be? For a full Take Me Away performance, check the related video below my handle.
 ```
 
-### 1434 - My Chemical Romance - Welcome To The Black Parade
+### 1434 - My Chemical Romance - Welcome To The Black Parade [superseded 2026-11-10, kept for comparison; current copy in the MCR section at the end]
 
-Source: `_All Songs/_0002 Short Form/1401 - 1500/1431 - 1440/1434 - My Chemical Romance - Welcome To The Black Parade (Short Form)/_03 - Copy.md`
+Source: `_All Songs/_0002 Short Form/1401 - 1500/1431 - 1440/1434 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
 
 **Title**
 
@@ -3949,9 +3949,9 @@ Sabaton on bass: The Lion From The North in 36 seconds #bass
 Existing or preserved comment; see individual review, live pin unverified.
 ```
 
-### 1912 - My Chemical Romance - Welcome To The Black Parade
+### 1912 - My Chemical Romance - Welcome To The Black Parade [superseded 2026-11-10, kept for comparison; current copy in the MCR section at the end]
 
-Source: `_All Songs/_0002 Short Form/1901 - 2000/1911 - 1920/1912 - My Chemical Romance - Welcome To The Black Parade (Short Form)/_03 - Copy.md`
+Source: `_All Songs/_0002 Short Form/1901 - 2000/1911 - 1920/1912 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
 
 **Title**
 
@@ -4030,9 +4030,9 @@ Find more live bass on Kick, or catch the Twitch mirror. Join the Discord commun
 Shane Drake directed the original Misery Business music video. What do you remember most from it? Find my full bass performance through the related video.
 ```
 
-### 2420 - My Chemical Romance - Welcome To The Black Parade
+### 2420 - My Chemical Romance - Welcome To The Black Parade [superseded 2026-11-10, kept for comparison; current copy in the MCR section at the end]
 
-Source: `_All Songs/_0002 Short Form/2401 - 2500/2411 - 2420/2420 - My Chemical Romance - Welcome To The Black Parade (Short Form)/_03 - Copy.md`
+Source: `_All Songs/_0002 Short Form/2401 - 2500/2411 - 2420/2420 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
 
 **Title**
 
@@ -4668,4 +4668,300 @@ B) Walk Away
 C) Amanda
 
 Answer below.
+```
+
+## My Chemical Romance - Welcome To The Black Parade - seven versions reviewed 2026-11-10
+
+All seven indexed versions reviewed from the Studio screenshots already in their folders on 2026-11-10. Proposed copy only, no Studio edit confirmed. Analytics, sources and limits in [the seven-version review](../Ver%203.0/TXT/MCR_Black_Parade_Seven_Versions_Review.md). The 50-intervening-upload rule stays paused. The seven packages share zero five-word phrases with each other and with the whole accessible copy corpus once the song title itself is set aside.
+
+### LF 0009 - My Chemical Romance - Welcome To The Black Parade (dedicated play-along)
+
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0009 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
+
+**Title** (56 characters)
+
+```text
+Eleven notes open Welcome To The Black Parade - MCR bass
+```
+
+**Description** (548 characters)
+
+```text
+🎹 The piano line that starts Welcome To The Black Parade runs eleven notes and begins on a single G5.
+
+🎸 This is the dedicated bass play-along for the song, and it runs 3:33 against a 5:11 album cut, so the arrangement here is shorter than the record.
+
+🎶 The note highway never leaves the frame, so a stubborn bar can be retaken as often as it needs.
+
+🟢 Take a request slot on Kick: https://kick.com/mavomusic
+🟣 A parallel broadcast runs on Twitch: https://www.twitch.tv/mavomusic
+💬 Black Parade talk lives in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (20, 278/500 characters)
+
+```text
+my chemical romance, welcome to the black parade, black parade, mcr, mikey way, gerard way, piano intro, bass play along, rocksmith 2014 remastered, rocksmith bass, emo, pop punk, 2006, bass cover, bass guitar, the black parade, my chem, gerard way piano, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation** (277 characters)
+
+```text
+🎛 Rob Cavallo first wrote that piano line for a separate album opener: a marching band crossing a city and fading as it passes. The band folded the idea into this song instead.
+
+❓ Would you have kept the marching band as its own track, or does it belong at the top of this one?
+```
+
+### LF 0167 - My Chemical Romance - Welcome To The Black Parade (normal long form)
+
+Source: `_All Songs/_0001 Long Form/0101 - 0200/0161 - 0170/0167 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
+
+**Title** (55 characters)
+
+```text
+Welcome To The Black Parade hit TV before the album did
+```
+
+**Description** (587 characters)
+
+```text
+📺 My Chemical Romance played Welcome To The Black Parade live on television at the 2006 MTV Video Music Awards on 31 August 2006.
+
+💿 The single followed a fortnight later, on 12 September, and the album itself did not land until 23 October.
+
+🎸 Here is the full five minute eleven bass performance, filmed on a Kick stream with the chart in frame from the first note.
+
+🟢 Put in a request while the stream is live: https://kick.com/mavomusic
+🟣 A second feed of it appears over on Twitch: https://www.twitch.tv/mavomusic
+💬 Setlist ideas are welcome in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (21, 302/500 characters)
+
+```text
+my chemical romance, welcome to the black parade, black parade, mcr, mikey way, gerard way, frank iero, ray toro, 2006 mtv video music awards, mtv vma 2006, bass cover, rocksmith 2014 remastered, rocksmith bass, emo, pop punk, live stream, bass guitar, the black parade, my chem, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation** (187 characters)
+
+```text
+📖 Quiz: where did Welcome To The Black Parade get its first live airing on television?
+A) The 2006 MTV Video Music Awards
+B) The 2007 Grammy Awards
+C) Reading Festival 2006
+
+Answer below.
+```
+
+### LF 0673 - My Chemical Romance - Welcome To The Black Parade (normal long form)
+
+Source: `_All Songs/_0001 Long Form/0601 - 0700/0671 - 0680/0673 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
+
+**Title** (51 characters)
+
+```text
+The song the Hall of Fame says shaped rock, on bass
+```
+
+**Description** (548 characters)
+
+```text
+🏛 The Rock and Roll Hall of Fame lists Welcome To The Black Parade among the songs that shaped rock and roll.
+
+📈 Rolling Stone placed it 96th on its 2025 rundown of the best songs of the twenty first century.
+
+🎸 The complete song, played end to end, with the studio recording as the reference and the note highway over the top.
+
+🟢 Live shows and requests both run through Kick: https://kick.com/mavomusic
+🟣 The broadcast fans out to Twitch as well: https://www.twitch.tv/mavomusic
+💬 Weekly MCR chat happens in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (22, 306/500 characters)
+
+```text
+my chemical romance, welcome to the black parade, black parade, mcr, mikey way, gerard way, frank iero, ray toro, bob bryar, rock and roll hall of fame, rolling stone, bass cover, rocksmith 2014 remastered, rocksmith bass, emo, pop punk, 2006, bass guitar, the black parade, my chem, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation** (240 characters)
+
+```text
+🎛 That single is certified seven times Platinum in the United States and three times Platinum in the United Kingdom, both awarded long after its 2006 release.
+
+❓ Which of those two numbers is the bigger surprise for an emo song of that era?
+```
+
+### Short 0068 - My Chemical Romance - Welcome To The Black Parade (normal Short)
+
+Source: `_All Songs/_0002 Short Form/0001 - 0100/0061 - 0070/0068 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
+
+**Title** (56 characters)
+
+```text
+Time put Welcome To The Black Parade third in 2006 #bass
+```
+
+**Description** (366 characters)
+
+```text
+🗞 Time put this one third among the songs of 2006.
+
+🎸 Forty seconds of bass, played against the note highway.
+
+🎬 A longer performance of the song is linked from this Short.
+
+🟢 Request the next song on Kick: https://kick.com/mavomusic
+🟣 The stream mirrors onto Twitch: https://www.twitch.tv/mavomusic
+💬 Drop in on Discord between videos: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (19, 272/500 characters)
+
+```text
+my chemical romance, welcome to the black parade, black parade, mcr, mikey way, gerard way, time magazine, best songs of 2006, bass cover, bass shorts, rocksmith 2014 remastered, rocksmith bass, emo, pop punk, bass guitar, the black parade, my chem, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation**
+
+PRESERVED ARTIST COMMENT: @sir_chugsalot8196 wrote "Hey dude, from a thunderbird player to another, you killed it dude" and a creator reply follows it. Keep this pin exactly as it is. Do not replace, edit or unpin it.
+
+**Creator comment to post** (201 characters)
+
+```text
+📖 Quiz: two other outlets also ranked this song among the best of 2006. Which pair of positions did Rolling Stone and BBC Music give it?
+A) 17th and 43rd
+B) 3rd and 12th
+C) 40th and 71st
+
+Answer below.
+```
+
+Posted as its own new comment beneath the pin, not in place of it. Every video gets a creator fact, quiz or trivia comment whatever else is pinned.
+
+### Short 1434 - My Chemical Romance - Welcome To The Black Parade (normal Short)
+
+Source: `_All Songs/_0002 Short Form/1401 - 1500/1431 - 1440/1434 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
+
+**Title** (60 characters)
+
+```text
+Welcome To The Black Parade changes key before it ends #bass
+```
+
+**Description** (519 characters)
+
+```text
+🎼 Welcome To The Black Parade sits in G major for most of its run and shifts to A major toward the end.
+
+🥁 It also starts at 75 beats per minute before the tempo is written as 194 in half time.
+
+🎸 Thirty six seconds at the bass line with the note highway showing.
+
+🎬 The complete run is linked from here as the related video.
+
+🟢 Choose the next pick over on Kick: https://kick.com/mavomusic
+🟣 Twitch carries it in parallel: https://www.twitch.tv/mavomusic
+💬 Theory talk welcome in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (20, 265/500 characters)
+
+```text
+my chemical romance, welcome to the black parade, black parade, mcr, mikey way, gerard way, key change, g major, tempo, bass cover, bass shorts, rocksmith 2014 remastered, rocksmith bass, emo, pop punk, bass guitar, the black parade, my chem, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation**
+
+PRESERVED ARTIST COMMENT: @tabitha-j2j wrote "Yayayayayayayayay I love my chemical romance and bassssss yayayayayayayaya" and a creator reply follows it. Keep this pin exactly as it is. Do not replace, edit or unpin it.
+
+**Creator comment to post** (140 characters)
+
+```text
+📖 Quiz: which key does Welcome To The Black Parade start in before it moves up a whole step?
+A) G major
+B) A major
+C) E major
+
+Answer below.
+```
+
+Posted as its own new comment beneath the pin, not in place of it. Every video gets a creator fact, quiz or trivia comment whatever else is pinned.
+
+### Short 1912 - My Chemical Romance - Welcome To The Black Parade (normal Short)
+
+Source: `_All Songs/_0002 Short Form/1901 - 2000/1911 - 1920/1912 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
+
+**Title** (52 characters)
+
+```text
+Where Welcome To The Black Parade was recorded #bass
+```
+
+**Description** (541 characters)
+
+```text
+🎛 Welcome To The Black Parade was cut at El Dorado Recording Studios in Burbank, with Capitol Studios in Hollywood also listed as a studio.
+
+🎚 Rob Cavallo produced it with the band, and all five members share the writing credit.
+
+🎸 Thirty six seconds from the record's bass line, note highway visible.
+
+🎬 A complete performance is linked from this clip.
+
+🟢 Bring a request to Kick: https://kick.com/mavomusic
+🟣 The same set runs on Twitch: https://www.twitch.tv/mavomusic
+💬 Recording nerdery welcome in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (20, 298/500 characters)
+
+```text
+my chemical romance, welcome to the black parade, black parade, mcr, mikey way, gerard way, el dorado recording studios, rob cavallo, recording session, bass cover, bass shorts, rocksmith 2014 remastered, rocksmith bass, emo, pop punk, bass guitar, the black parade, my chem, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation** (169 characters)
+
+```text
+📖 Quiz: which Burbank studio hosted the sessions for Welcome To The Black Parade?
+A) El Dorado Recording Studios
+B) Capitol Studios
+C) Ocean Way Recording
+
+Answer below.
+```
+
+### Short 2420 - My Chemical Romance - Welcome To The Black Parade (normal Short)
+
+Source: `_All Songs/_0002 Short Form/2401 - 2500/2411 - 2420/2420 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
+
+**Title** (59 characters)
+
+```text
+Welcome To The Black Parade nearly was not the first single
+```
+
+**Description** (445 characters)
+
+```text
+📀 Before Welcome To The Black Parade led the album, some label staff wanted Famous Last Words or Teenagers released first.
+
+🎸 Thirty five seconds of the bass line against the note highway.
+
+🎬 The full length take can be reached through the related video here.
+
+🟢 Have a say in the next upload on Kick: https://kick.com/mavomusic
+🟣 A mirror feed runs on Twitch: https://www.twitch.tv/mavomusic
+💬 Weigh in on Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (20, 280/500 characters)
+
+```text
+my chemical romance, welcome to the black parade, black parade, mcr, mikey way, gerard way, famous last words, teenagers, lead single, bass cover, bass shorts, rocksmith 2014 remastered, rocksmith bass, emo, pop punk, bass guitar, the black parade, my chem, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation** (193 characters)
+
+```text
+🎬 The 10th-anniversary release included The Five Of Us Are Dying, an early version of this song. Curious how this bass part fits the whole song? Follow the related video to my full performance.
 ```

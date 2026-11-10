@@ -1,74 +1,200 @@
 {
-  "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-06T19:43:07.863668+00:00",
-  "surface_sha256": {
-    "title": "7324a4f432cfab0d48bc3b3b3842611dd40a3ced9caf82de0b4273333cbbedea",
-    "description": "2735dfd086fdffabaec33cc452923c4f5e201879d11f0eacf72b12dccddca044",
-    "tags": "9ba563aa8b8bc4a5fd8682caed694b1ce0260d6257f48584011ec24e8106924f",
-    "pinned comment": "dd4d83d6cca5ebf430359ddd56d3c9ed9f959f2d6bcf4903acf51b1fceac5565",
-    "genres": "5edab9b53d36472e0d9ef065b325313cf6c627159215ee30220e49086c721888"
+ "reviewer": "Arena agent",
+ "reviewed_at": "2026-11-10",
+ "surface_sha256": {
+  "title": "ee6e78783db392dd34b22276ef5692a6939186de9358062ff741e704c83af231",
+  "description": "f8c59818546bcca43bfe76429669e6a9d3b6f5c8abb084812562da70f75755f2",
+  "tags": "5f6e56e6ea1da0b4711d44d3cfdb0ab097f9b7e12ac0cfded2444c8dca068689",
+  "pinned comment": "d39c21bcf6c30d5f9d2eb5568badf7011fd3940759a7f0e1837412987c724680",
+  "genres": "970e1a9af2d8b8619e4401ec3cf864e0906f2858c57403f56eb7bc715565a2f3"
+ },
+ "reviewed_surfaces": {
+  "title": true,
+  "description": true,
+  "tags": true,
+  "pinned comment": true,
+  "genres": true
+ },
+ "claims": [
+  {
+   "surface": "title",
+   "claim": "The song was on television before the album came out.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "First live television airing was the 2006 MTV Video Music Awards on 31 August 2006; the album followed on 23 October 2006."
   },
-  "reviewed_surfaces": {
-    "title": true,
-    "description": true,
-    "tags": true,
-    "pinned comment": true,
-    "genres": true
+  {
+   "surface": "description",
+   "claim": "The band played it live on television at the 2006 MTV Video Music Awards on 31 August 2006.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Stated in the release section with the exact date."
   },
-  "claims": [
-    {
-      "surface": "title",
-      "claim": "Artist, song and creator bass performance",
-      "source": "User recording identification; supplied Studio screenshot for 0167",
-      "assessment": "Identifies the song and creator performance; new recording should be checked by uploader."
-    },
-    {
-      "surface": "tags",
-      "claim": "Song, artist and associated names; bass cover",
-      "source": "https://genius.com/My-chemical-romance-welcome-to-the-black-parade-lyrics",
-      "assessment": "Song identity and credits; tags are associations, not performers in MAVO recording."
-    },
-    {
-      "surface": "genres",
-      "claim": "Alternative rock, emo, pop punk, post-hardcore are artist-wide genres",
-      "source": "Band Info/My Chemical Romance/Register.md",
-      "assessment": "Existing consistent artist-wide classification, not all necessarily song-level."
-    },
-    {
-      "surface": "description",
-      "claim": "Rocksmith 2014 bass performance during Kick stream",
-      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0101 - 0200/0161 - 0170/0167 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Studio detail screenshot and visible performance."
-    },
-    {
-      "surface": "tags",
-      "claim": "Rocksmith bass",
-      "source": "/home/user/YouTube-SEO/_All Songs/_0001 Long Form/0101 - 0200/0161 - 0170/0167 - My Chemical Romance - Welcome To The Black Parade (Long Form)/_01 - Main Info/_01 Description.jpeg",
-      "assessment": "Studio shows game and bass performance."
-    },
-    {
-      "surface": "description",
-      "claim": "2006 MTV Video Music Awards live television performance",
-      "source": "https://www.songfacts.com/facts/my-chemical-romance/welcome-to-the-black-parade",
-      "assessment": "Source explicitly supports this historical claim; not evidence of current popularity."
-    },
-    {
-      "surface": "pinned comment",
-      "claim": "2006 MTV Video Music Awards live television performance",
-      "source": "https://www.songfacts.com/facts/my-chemical-romance/welcome-to-the-black-parade",
-      "assessment": "Source explicitly supports this historical claim; not evidence of current popularity."
-    },
-    {
-      "surface": "description",
-      "claim": "Kick and Twitch mirror; Discord invitation",
-      "source": "User standing instructions and confirmed Discord invite",
-      "assessment": "Links based on user-confirmed information; not a guarantee of current broadcast schedule."
-    }
-  ],
-  "distinct_fact_and_source": "2006 MTV Video Music Awards live television performance - https://www.songfacts.com/facts/my-chemical-romance/welcome-to-the-black-parade; separate from 0009 track placement and the other new MCR copies.",
-  "uniqueness_assessment": "Reviewed 16 five-word signals: song-name matches are necessary; common Kick/Twitch phrases are functional links. Compared the available same-song copy 0009 and the six new drafts, their different fact angles, CTAs and title shapes. Unavailable or unrevised live-only material cannot be checked. No scan proves semantic uniqueness.",
-  "uncertainties_and_removed_claims": "Do not assert chart status or game version for new recording. User identified new recording; verify actual file. Historic Studio screenshots cannot prove current claims, pin or territory availability.",
-  "collision_report_sha256": "9d8b032053491bc4eaf07c1d56765fbf5f7492ede4377ad6b1375e1429c88514",
-  "all_claims_checked": true,
-  "cross_song_uniqueness_checked": true
+  {
+   "surface": "description",
+   "claim": "The single followed a fortnight later on 12 September.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Infobox and release section both give 12 September 2006."
+  },
+  {
+   "surface": "description",
+   "claim": "The album landed on 23 October 2006.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Release section gives 23 October through Reprise."
+  },
+  {
+   "surface": "description",
+   "claim": "The performance runs five minutes eleven.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Album version length is 5:11, matching the screenshots."
+  },
+  {
+   "surface": "description",
+   "claim": "Requests run on Kick, a second feed appears on Twitch, and Discord hosts setlist talk.",
+   "source": "Standing channel practice in existing copy",
+   "assessment": "House order and one URL each. No schedule asserted."
+  },
+  {
+   "surface": "pinned comment",
+   "claim": "Quiz: where did the song get its first live television airing? Options are the 2006 MTV VMAs, the 2007 Grammy Awards and Reading Festival 2006.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Answer A. The description names the event, so this one is answerable from the copy. Reading Festival 2006 is a real festival appearance in the era and works as a near miss; no claim is made about it."
+  },
+  {
+   "surface": "genres",
+   "claim": "Artist-wide genres are alternative rock, emo, pop punk and post-hardcore, and this normal long form takes the four long-form genre lists plus Long Form All Genres.",
+   "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+   "assessment": "Artist-level classification used for the whole catalogue, not a per-track claim. Routing follows the standing rule for normal long forms."
+  },
+  {
+   "surface": "tags",
+   "claim": "my chemical romance",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "welcome to the black parade",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "black parade",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "mcr",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "mikey way",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "gerard way",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "frank iero",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "ray toro",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
+  },
+  {
+   "surface": "tags",
+   "claim": "2006 mtv video music awards",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "mtv vma 2006",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass cover",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "rocksmith 2014 remastered",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "rocksmith bass",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "emo",
+   "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "pop punk",
+   "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "live stream",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass guitar",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "the black parade",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "my chem",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "mavomusic",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "mavomusicyt",
+   "source": "Band Info/My Chemical Romance/Register.md",
+   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  }
+ ],
+ "distinct_fact_and_source": "The first live television airing at the 2006 MTV Video Music Awards on 31 August 2006, six weeks before the album. Unused by the other six. Source: https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+ "uniqueness_assessment": "Zero five-word phrases shared with any other package once the song title is set aside. The only remaining signals are against this video's own previous copy file, which this file replaces. Gate returns five signals, all of them the song title.",
+ "uncertainties_and_removed_claims": "The 2007 Grammy nomination and the Reading Festival 2006 appearance are used only as quiz options and are not asserted anywhere in the description. The live description currently carries a retired Discord invite; the proposal replaces it but no Studio edit is claimed. Current playlist membership and pin state are not asserted.",
+ "collision_report_sha256": "263b03ce56165ce7e09642713f0bff764d77fd1a7bbb452fffbb715c1146d847",
+ "all_claims_checked": true,
+ "cross_song_uniqueness_checked": true
 }
