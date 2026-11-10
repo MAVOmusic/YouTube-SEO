@@ -2,10 +2,10 @@
  "reviewer": "Arena agent",
  "reviewed_at": "2026-11-10",
  "surface_sha256": {
-  "title": "ee6e78783db392dd34b22276ef5692a6939186de9358062ff741e704c83af231",
-  "description": "f8c59818546bcca43bfe76429669e6a9d3b6f5c8abb084812562da70f75755f2",
-  "tags": "5f6e56e6ea1da0b4711d44d3cfdb0ab097f9b7e12ac0cfded2444c8dca068689",
-  "pinned comment": "d39c21bcf6c30d5f9d2eb5568badf7011fd3940759a7f0e1837412987c724680",
+  "title": "ae2edc8ee3295f3ef0c347a1f06ae47d4310bdb2958c02080e61cd65ca7b9daf",
+  "description": "d51ee66221b9aba5b639acacc981aa3294080cafc462a6f376bcd7c6f4ea842a",
+  "tags": "be083e89fa4917aeb59b1e6b1e28d5bc32acb72e1d25e49a22f03f2a31f45ff7",
+  "pinned comment": "e128c4c9bb1d5537e38dbe3d35e5e24a16eb7b6b3bc1a642794446be023f6ee2",
   "genres": "970e1a9af2d8b8619e4401ec3cf864e0906f2858c57403f56eb7bc715565a2f3"
  },
  "reviewed_surfaces": {
@@ -18,51 +18,51 @@
  "claims": [
   {
    "surface": "title",
-   "claim": "The song was on television before the album came out.",
+   "claim": "The song reached number one on the UK singles chart and is presented here on bass.",
    "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
-   "assessment": "First live television airing was the 2006 MTV Video Music Awards on 31 August 2006; the album followed on 23 October 2006."
+   "assessment": "Chart table gives UK number one, and the article describes it as their only UK number one."
   },
   {
    "surface": "description",
-   "claim": "The band played it live on television at the 2006 MTV Video Music Awards on 31 August 2006.",
+   "claim": "It is the only My Chemical Romance song to reach number one on the UK singles chart.",
    "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
-   "assessment": "Stated in the release section with the exact date."
+   "assessment": "Stated in the commercial performance section, which notes it as their only UK number one."
   },
   {
    "surface": "description",
-   "claim": "The single followed a fortnight later on 12 September.",
+   "claim": "In the United States it topped the Billboard Modern Rock list while the all-genre Hot 100 placed it lower.",
    "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
-   "assessment": "Infobox and release section both give 12 September 2006."
+   "assessment": "Chart table gives no. 1 on Modern Rock and no. 9 on the Hot 100. The description deliberately keeps the Hot 100 placing out of the copy so the quiz is not answered in advance."
   },
   {
    "surface": "description",
-   "claim": "The album landed on 23 October 2006.",
+   "claim": "The single came out on 12 September 2006, six weeks before the album.",
    "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
-   "assessment": "Release section gives 23 October through Reprise."
+   "assessment": "Release section gives 12 September 2006 for the single and 23 October 2006 for the album, which is six weeks later."
   },
   {
    "surface": "description",
-   "claim": "The performance runs five minutes eleven.",
-   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
-   "assessment": "Album version length is 5:11, matching the screenshots."
+   "claim": "It runs five minutes eleven and is played end to end with the note highway in frame.",
+   "source": "Studio screenshots in this folder; https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Player duration is 5:11, matching the album length given in the infobox."
   },
   {
    "surface": "description",
-   "claim": "Requests run on Kick, a second feed appears on Twitch, and Discord hosts setlist talk.",
+   "claim": "Requests run on Kick, the same performance streams to Twitch, and Discord hosts number talk.",
    "source": "Standing channel practice in existing copy",
-   "assessment": "House order and one URL each. No schedule asserted."
+   "assessment": "House order, Kick then Twitch then Discord, one URL each. No schedule asserted."
   },
   {
    "surface": "pinned comment",
-   "claim": "Quiz: where did the song get its first live television airing? Options are the 2006 MTV VMAs, the 2007 Grammy Awards and Reading Festival 2006.",
+   "claim": "Quiz: how high did the song reach on the US Billboard Hot 100? Options 9, 1 and 23.",
    "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
-   "assessment": "Answer A. The description names the event, so this one is answerable from the copy. Reading Festival 2006 is a real festival appearance in the era and works as a near miss; no claim is made about it."
+   "assessment": "Answer A, 9. The description does not print the placing, so the question is a real one."
   },
   {
    "surface": "genres",
    "claim": "Artist-wide genres are alternative rock, emo, pop punk and post-hardcore, and this normal long form takes the four long-form genre lists plus Long Form All Genres.",
    "source": "https://en.wikipedia.org/wiki/My_Chemical_Romance",
-   "assessment": "Artist-level classification used for the whole catalogue, not a per-track claim. Routing follows the standing rule for normal long forms."
+   "assessment": "Artist-level classification used for the whole catalogue. Routing follows the standing rule for normal long forms."
   },
   {
    "surface": "tags",
@@ -90,13 +90,13 @@
   },
   {
    "surface": "tags",
-   "claim": "mikey way",
+   "claim": "gerard way",
    "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
    "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
   },
   {
    "surface": "tags",
-   "claim": "gerard way",
+   "claim": "mikey way",
    "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
    "assessment": "Band member name listed among the songwriters or credited players. No claim that this person appears in this upload."
   },
@@ -114,33 +114,39 @@
   },
   {
    "surface": "tags",
-   "claim": "2006 mtv video music awards",
+   "claim": "uk singles chart",
    "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
    "assessment": "Song, album or topic term taken from the song article."
   },
   {
    "surface": "tags",
-   "claim": "mtv vma 2006",
+   "claim": "billboard hot 100",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "2006",
    "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
    "assessment": "Song, album or topic term taken from the song article."
   },
   {
    "surface": "tags",
    "claim": "bass cover",
-   "source": "Studio screenshots in this folder",
-   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
   },
   {
    "surface": "tags",
    "claim": "rocksmith 2014 remastered",
-   "source": "Studio screenshots in this folder",
-   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
   },
   {
    "surface": "tags",
    "claim": "rocksmith bass",
-   "source": "Studio screenshots in this folder",
-   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
   },
   {
    "surface": "tags",
@@ -157,26 +163,20 @@
   {
    "surface": "tags",
    "claim": "live stream",
-   "source": "Studio screenshots in this folder",
-   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
   },
   {
    "surface": "tags",
    "claim": "bass guitar",
-   "source": "Studio screenshots in this folder",
-   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Song, album or topic term taken from the song article."
   },
   {
    "surface": "tags",
    "claim": "the black parade",
    "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
    "assessment": "Song, album or topic term taken from the song article."
-  },
-  {
-   "surface": "tags",
-   "claim": "my chem",
-   "source": "Band Info/My Chemical Romance/Register.md",
-   "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
   },
   {
    "surface": "tags",
@@ -191,10 +191,10 @@
    "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
   }
  ],
- "distinct_fact_and_source": "The first live television airing at the 2006 MTV Video Music Awards on 31 August 2006, six weeks before the album. Unused by the other six. Source: https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
- "uniqueness_assessment": "Zero five-word phrases shared with any other package once the song title is set aside. The only remaining signals are against this video's own previous copy file, which this file replaces. Gate returns five signals, all of them the song title.",
- "uncertainties_and_removed_claims": "The 2007 Grammy nomination and the Reading Festival 2006 appearance are used only as quiz options and are not asserted anywhere in the description. The live description currently carries a retired Discord invite; the proposal replaces it but no Studio edit is claimed. Current playlist membership and pin state are not asserted.",
- "collision_report_sha256": "263b03ce56165ce7e09642713f0bff764d77fd1a7bbb452fffbb715c1146d847",
+ "distinct_fact_and_source": "The UK number one and the chart split with the US, where the all-genre Hot 100 placed it far below the Modern Rock list. Unused by the other six: 0009 takes the piano intro, 0673 the Hall of Fame listing and Rolling Stone placing, 0068 the Time ranking, 1434 the key change, 1912 the Burbank studio, 2420 the lead single argument. The 2006 MTV Video Music Awards fact was dropped from this package because the live description and the existing creator comment on this same video both already carry it. Source: https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+ "uniqueness_assessment": "Zero five-word phrases shared with any other package once the song title itself is set aside, checked against the whole accessible copy corpus. Two earlier drafts were rewritten for this: the first reused the 0009 call-to-action lines word for word, and a \"played end to end\" phrase collided with 0673.",
+ "uncertainties_and_removed_claims": "The Hot 100 placing is deliberately absent from the description, so the quiz answer is not printed. Live playlist membership and pin state are taken from the screenshots and the user report, not asserted fresh. Historical screenshots cannot show a live save.",
+ "collision_report_sha256": "e682034e6bd861a9434461922fba2abbd4e6fee6bf520d347f8610c52ff59f9d",
  "all_claims_checked": true,
  "cross_song_uniqueness_checked": true
 }

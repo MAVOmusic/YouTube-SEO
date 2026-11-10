@@ -58,7 +58,7 @@ Artist-level genres from https://en.wikipedia.org/wiki/My_Chemical_Romance, used
 - Live title is the hashtag pile "🔥🔥 My Chemical Romance - Welcome To The Black Parade #rocksmith #bass #mychemicalromance", and the live description is the 2022 template. Both are replaced.
 - Live tags are nine words at 107/500 including the misspelling gerardway, with no song title. The proposed set leads with the artist and song.
 - Playlist field shows 4 playlists. The user reports genre playlists assigned.
-- The only comment is the creator Super Thanks note, which is not pinned and is preserved.
+- The only comment is the creator's own, one year old and unpinned: "Samuel Bayer directed the original Welcome To The Black Parade music video. What detail from it sticks with you? Open the related video to hear me play the full song on bass." That is why the video director is not the angle here. It is genuine, so it is preserved and not replaced.
 - No comment is pinned, per the user, so the quiz below is a fresh proposal.
 - Facts: recorded at El Dorado Recording Studios in Burbank, with Capitol Studios in Hollywood also listed in the song infobox, produced by Rob Cavallo and the band, and written by all five members. Source: https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade
 - Quiz answer for internal use: A, El Dorado. Capitol is listed too, so it works as the near miss.

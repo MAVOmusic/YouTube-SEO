@@ -134,12 +134,12 @@ All seven packages were delivered in chat on 2026-11-10 and written into each fo
 | Format | ID | Title | Chars | Description | Pin |
 | --- | --- | --- | --- | --- | --- |
 | Long form | 0009 | Eleven notes open Welcome To The Black Parade - MCR bass | 56 | 548 | Fresh: Cavallo's scrapped marching band opener, fact and question |
-| Long form | 0167 | Welcome To The Black Parade hit TV before the album did | 55 | 587 | Fresh: 2006 MTV Video Music Awards quiz, answer A |
-| Long form | 0673 | The song the Hall of Fame says shaped rock, on bass | 51 | 548 | Fresh: 7x Platinum US and 3x Platinum UK, fact and question |
+| Long form | 0167 | Welcome To The Black Parade went to number one in the UK | 56 | 589 | Fresh: US Hot 100 quiz, answer A, 9 |
+| Long form | 0673 | Welcome To The Black Parade: Hall of Fame rock on MCR bass | 58 | 546 | Fresh: 7x Platinum US and 3x Platinum UK, fact and question |
 | Short | 0068 | Time put Welcome To The Black Parade third in 2006 #bass | 56 | 366 | @sir_chugsalot8196 preserved, plus a separate creator quiz, answer A |
 | Short | 1434 | Welcome To The Black Parade changes key before it ends #bass | 60 | 519 | @tabitha-j2j preserved, plus a separate creator quiz, answer A |
 | Short | 1912 | Where Welcome To The Black Parade was recorded #bass | 52 | 541 | Fresh: El Dorado studios quiz, answer A |
-| Short | 2420 | Welcome To The Black Parade nearly was not the first single | 59 | 445 | Existing creator comment kept and proposed for pinning |
+| Short | 2420 | Welcome To The Black Parade nearly was not the first single | 59 | 445 | Existing creator comment kept verbatim and proposed for pinning |
 
 Tags run 20, 21, 22, 19, 20, 20 and 20, between 265 and 306 characters of 500. The seven packages share zero five-word phrases with each other once the song title itself is excluded, and every residual match against the corpus is the song title.
 

@@ -2,20 +2,20 @@
 
 > Reviewed 2026-11-10 from the Studio screenshots in this folder, normal long form, 5:10, uploaded 6 Nov 2026. Proposed copy only, not a Studio edit. Normal long form. Takes the Alternative Rock, Emo, Pop Punk and Post-Hardcore long-form lists plus Long Form All Genres. The user reports the genre playlists assigned with no comment pinned.
 
-## TITLE (51 characters)
+## TITLE (58 characters)
 
 ```text
-The song the Hall of Fame says shaped rock, on bass
+Welcome To The Black Parade: Hall of Fame rock on MCR bass
 ```
 
-## DESCRIPTION (548 characters)
+## DESCRIPTION (546 characters)
 
 ```text
 🏛 The Rock and Roll Hall of Fame lists Welcome To The Black Parade among the songs that shaped rock and roll.
 
 📈 Rolling Stone placed it 96th on its 2025 rundown of the best songs of the twenty first century.
 
-🎸 The complete song, played end to end, with the studio recording as the reference and the note highway over the top.
+🎸 The complete song, start to finish, with the studio recording as the reference and the note highway over the top.
 
 🟢 Live shows and requests both run through Kick: https://kick.com/mavomusic
 🟣 The broadcast fans out to Twitch as well: https://www.twitch.tv/mavomusic

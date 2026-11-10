@@ -28,13 +28,11 @@ Welcome To The Black Parade nearly was not the first single
 my chemical romance, welcome to the black parade, black parade, mcr, mikey way, gerard way, famous last words, teenagers, lead single, bass cover, bass shorts, rocksmith 2014 remastered, rocksmith bass, emo, pop punk, bass guitar, the black parade, my chem, mavomusic, mavomusicyt
 ```
 
-## PINNED COMMENT (existing creator comment, proposed for pinning)
+## PINNED COMMENT (preserved creator comment, proposed for pinning)
 
-> This comment was posted by the channel 18 hours before this review. It is genuine, so it is not replaced. The proposal is to pin it.
+> The comment below was posted by the channel three days before this review. It is genuine, so it is not replaced and not reworded. The proposal is to pin it. The marker line is the form the release gate accepts for a surface that will not be replaced, so it is a record rather than paste copy.
 
-```text
-🎬 The 10th-anniversary release included The Five Of Us Are Dying, an early version of this song. Curious how this bass part fits the whole song? Follow the related video to my full performance.
-```
+> PRESERVED ARTIST COMMENT: @MAVOmusicYT wrote "💿 The Five Of Us Are Dying appeared on the 10th-anniversary edition as an early version of Welcome To The Black Parade. Have you heard it?" Keep it exactly as it is and pin it.
 
 ## GENRE FINDINGS (internal)
 
@@ -56,7 +54,7 @@ Artist-level genres from https://en.wikipedia.org/wiki/My_Chemical_Romance, used
 - 974 views in the first day, 16 fewer than usual, which is inside the 990 to 1,300 range Studio shows as typical. Subscriber and revenue fields are dashed.
 - Traffic: Shorts feed 88.5%, YouTube search 5.7%, other YouTube features 5.3%, browse features 0.2%, external 0.1%. No retention data yet.
 - Playlist field shows 4 playlists, which matches the four MCR genre lists.
-- The creator comment posted 18 hours ago already covers The Five Of Us Are Dying and the 10th anniversary release. It is genuine, so it is kept and proposed for pinning rather than replaced. The new copy deliberately takes a different angle so the description and the comment do not repeat each other.
+- The creator comment posted three days before this review already covers The Five Of Us Are Dying and the 10th-anniversary edition. It is genuine, so it is kept exactly as written and proposed for pinning rather than replaced. The new copy deliberately takes a different angle, the lead single argument, so the description and the comment do not repeat each other.
 - Facts: some label staff wanted Famous Last Words or Teenagers as the lead single instead, according to Craig Aaronson. Source: https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade
-- Quiz answer for internal use: A.
+- No new creator comment is needed, because the existing one is a sourced fact with a question and it is being kept. There is no quiz answer to record.
 - Not certified against the complete 50-intervening-upload window, which the user has paused. Checked against the whole available copy corpus instead: zero shared five-word phrases with any other package, allowing the song title itself. No Studio action taken.

@@ -4672,7 +4672,7 @@ Answer below.
 
 ## My Chemical Romance - Welcome To The Black Parade - seven versions reviewed 2026-11-10
 
-All seven indexed versions reviewed from the Studio screenshots already in their folders on 2026-11-10. Proposed copy only, no Studio edit confirmed. Analytics, sources and limits in [the seven-version review](../Ver%203.0/TXT/MCR_Black_Parade_Seven_Versions_Review.md). The 50-intervening-upload rule stays paused. The seven packages share zero five-word phrases with each other and with the whole accessible copy corpus once the song title itself is set aside.
+All seven indexed versions reviewed from the Studio screenshots in their folders on 2026-11-10. Proposed copy only, no Studio edit confirmed. Analytics, sources and limits in [the seven-version review](../Ver%203.0/TXT/MCR_Black_Parade_Seven_Versions_Review.md). The 50-intervening-upload rule stays paused. The seven packages share zero five-word phrases with each other once the song title itself is set aside.
 
 ### LF 0009 - My Chemical Romance - Welcome To The Black Parade (dedicated play-along)
 
@@ -4716,39 +4716,41 @@ my chemical romance, welcome to the black parade, black parade, mcr, mikey way, 
 
 Source: `_All Songs/_0001 Long Form/0101 - 0200/0161 - 0170/0167 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
 
-**Title** (55 characters)
+**Title** (56 characters)
 
 ```text
-Welcome To The Black Parade hit TV before the album did
+Welcome To The Black Parade went to number one in the UK
 ```
 
-**Description** (587 characters)
+**Description** (589 characters)
 
 ```text
-📺 My Chemical Romance played Welcome To The Black Parade live on television at the 2006 MTV Video Music Awards on 31 August 2006.
+🇬🇧 Welcome To The Black Parade is the only My Chemical Romance song to reach number one on the UK singles chart.
 
-💿 The single followed a fortnight later, on 12 September, and the album itself did not land until 23 October.
+📊 In the United States it topped Billboard's Modern Rock list. The all-genre Hot 100 told a different story.
 
-🎸 Here is the full five minute eleven bass performance, filmed on a Kick stream with the chart in frame from the first note.
+💿 The single came out on 12 September 2006, six weeks before the album.
 
-🟢 Put in a request while the stream is live: https://kick.com/mavomusic
-🟣 A second feed of it appears over on Twitch: https://www.twitch.tv/mavomusic
-💬 Setlist ideas are welcome in Discord: https://discord.gg/ESGsGkN4j2
+🎸 Five minutes eleven of bass, played end to end with the note highway in frame.
+
+🟢 Send a song in while the stream is live: https://kick.com/mavomusic
+🟣 The same performance streams on Twitch: https://www.twitch.tv/mavomusic
+💬 Number talk is welcome in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
-**Tags** (21, 302/500 characters)
+**Tags** (21, 293/500 characters)
 
 ```text
-my chemical romance, welcome to the black parade, black parade, mcr, mikey way, gerard way, frank iero, ray toro, 2006 mtv video music awards, mtv vma 2006, bass cover, rocksmith 2014 remastered, rocksmith bass, emo, pop punk, live stream, bass guitar, the black parade, my chem, mavomusic, mavomusicyt
+my chemical romance, welcome to the black parade, black parade, mcr, gerard way, mikey way, frank iero, ray toro, uk singles chart, billboard hot 100, 2006, bass cover, rocksmith 2014 remastered, rocksmith bass, emo, pop punk, live stream, bass guitar, the black parade, mavomusic, mavomusicyt
 ```
 
-**Pinned comment or recommendation** (187 characters)
+**Pinned comment or recommendation** (114 characters)
 
 ```text
-📖 Quiz: where did Welcome To The Black Parade get its first live airing on television?
-A) The 2006 MTV Video Music Awards
-B) The 2007 Grammy Awards
-C) Reading Festival 2006
+📊 Quiz: how high did Welcome To The Black Parade reach on the US Billboard Hot 100?
+A) 9
+B) 1
+C) 23
 
 Answer below.
 ```
@@ -4757,20 +4759,20 @@ Answer below.
 
 Source: `_All Songs/_0001 Long Form/0601 - 0700/0671 - 0680/0673 - My Chemical Romance - Welcome To The Black Parade [U - 2026-11-10]/_03 - Copy.md`
 
-**Title** (51 characters)
+**Title** (58 characters)
 
 ```text
-The song the Hall of Fame says shaped rock, on bass
+Welcome To The Black Parade: Hall of Fame rock on MCR bass
 ```
 
-**Description** (548 characters)
+**Description** (546 characters)
 
 ```text
 🏛 The Rock and Roll Hall of Fame lists Welcome To The Black Parade among the songs that shaped rock and roll.
 
 📈 Rolling Stone placed it 96th on its 2025 rundown of the best songs of the twenty first century.
 
-🎸 The complete song, played end to end, with the studio recording as the reference and the note highway over the top.
+🎸 The complete song, start to finish, with the studio recording as the reference and the note highway over the top.
 
 🟢 Live shows and requests both run through Kick: https://kick.com/mavomusic
 🟣 The broadcast fans out to Twitch as well: https://www.twitch.tv/mavomusic
@@ -4823,7 +4825,7 @@ my chemical romance, welcome to the black parade, black parade, mcr, mikey way, 
 
 **Pinned comment or recommendation**
 
-PRESERVED ARTIST COMMENT: @sir_chugsalot8196 wrote "Hey dude, from a thunderbird player to another, you killed it dude" and a creator reply follows it. Keep this pin exactly as it is. Do not replace, edit or unpin it.
+PRESERVED ARTIST COMMENT: @sir_chugsalot8196 wrote "Hey dude, from a thunderbird player to another, you killed it dude" and a creator reply follows it. Keep this pin exactly as it is. Do not replace or edit it.
 
 **Creator comment to post** (201 characters)
 
@@ -4872,7 +4874,7 @@ my chemical romance, welcome to the black parade, black parade, mcr, mikey way, 
 
 **Pinned comment or recommendation**
 
-PRESERVED ARTIST COMMENT: @tabitha-j2j wrote "Yayayayayayayayay I love my chemical romance and bassssss yayayayayayayaya" and a creator reply follows it. Keep this pin exactly as it is. Do not replace, edit or unpin it.
+PRESERVED ARTIST COMMENT: @tabitha-j2j wrote "Yayayayayayayayay I love my chemical romance and bassssss yayayayayayayaya" and a creator reply follows it. Keep this pin exactly as it is. Do not replace or edit it.
 
 **Creator comment to post** (140 characters)
 
@@ -4960,8 +4962,6 @@ Welcome To The Black Parade nearly was not the first single
 my chemical romance, welcome to the black parade, black parade, mcr, mikey way, gerard way, famous last words, teenagers, lead single, bass cover, bass shorts, rocksmith 2014 remastered, rocksmith bass, emo, pop punk, bass guitar, the black parade, my chem, mavomusic, mavomusicyt
 ```
 
-**Pinned comment or recommendation** (193 characters)
+**Pinned comment or recommendation**
 
-```text
-🎬 The 10th-anniversary release included The Five Of Us Are Dying, an early version of this song. Curious how this bass part fits the whole song? Follow the related video to my full performance.
-```
+PRESERVED ARTIST COMMENT: @MAVOmusicYT wrote "💿 The Five Of Us Are Dying appeared on the 10th-anniversary edition as an early version of Welcome To The Black Parade. Have you heard it?" Keep it exactly as it is and pin it. Do not replace or edit it.

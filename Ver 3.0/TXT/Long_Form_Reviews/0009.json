@@ -188,7 +188,7 @@
  "distinct_fact_and_source": "The eleven note piano intro that opens on G5, plus the scrapped Cavallo album opener about a marching band passing through a city. Unused by the other six, which cover the MTV debut, the Hall of Fame listing, the Time ranking, the key change, the Burbank studio and the lead single argument. Source: https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
  "uniqueness_assessment": "Zero five-word phrases shared with any other package once the song title itself is set aside, checked against all 152 _03 - Copy.md files and the delivered review copy. The gate returns five signals for this video, every one of them the song title. Format wording is written apart from the A-M-E-R-I-C-A and Abigail play-along packages.",
  "uncertainties_and_removed_claims": "The video runs 3:33 against a 5:11 album cut and a 4:37 radio edit, so the copy says the arrangement is shorter than the record and never calls it the radio edit. Stream timing, current playlist membership and live pin state are not asserted. Historical screenshots cannot establish live settings.",
- "collision_report_sha256": "b9188de50f347f9d8cbc10aba447f1fcc3303f73afca2e30399bef6d3da6cdad",
+ "collision_report_sha256": "51341a4361284a72a8efd7eb74a303f557def1c77b46697d7087a7f36cb1c56a",
  "all_claims_checked": true,
  "cross_song_uniqueness_checked": true
 }

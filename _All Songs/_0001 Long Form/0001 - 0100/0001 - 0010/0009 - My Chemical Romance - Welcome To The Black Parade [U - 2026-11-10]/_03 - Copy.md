@@ -54,7 +54,7 @@ Artist-level genres from https://en.wikipedia.org/wiki/My_Chemical_Romance, used
 - Watch time by device: mobile 47.3%, computer 44.7%, TV 6.3%, tablet 1.7%. Likes 90.9% against 97.4%. End screen not shown on this tab.
 - Audience: male 84.5%, 18-24 32.0%, 25-34 40.2%, India 67.1%, no subtitles 100.0%. Small sample.
 - Playlist field shows the Rocksmith 2014 Bass Play Along list. The user reports it assigned there with no comment pinned.
-- No viewer comments on the video. The one comment is the creator's own subscribe and schedule note.
+- No viewer comments on the video. The one comment is the creator's own, two years old and unpinned: "Where did you first hear Welcome To The Black Parade?" It is a bare opinion question with no sourced fact, so the proposal adds a sourced fact and a question without deleting the old comment.
 - Facts: the piano intro is eleven notes and opens on G5; Rob Cavallo's idea for a separate album opener, a marching band crossing a city, was folded into this song. Sources: https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade
 - Length check: the video runs 3:33 against a 5:11 album cut and a 4:37 radio edit, so the copy says the arrangement is shorter without claiming it is the radio edit.
 - Not certified against the complete 50-intervening-upload window, which the user has paused. Checked against the whole available copy corpus instead: zero shared five-word phrases with any other package, allowing the song title itself. No Studio action taken.

@@ -2,8 +2,8 @@
  "reviewer": "Arena agent",
  "reviewed_at": "2026-11-10",
  "surface_sha256": {
-  "title": "a0d6ddd1574b0d1e765a32c32c6fd65919c650214d69c6a6d7e2be8ab6e6c15b",
-  "description": "b3a6768bdad260a02f24108544bedd43a7bf852efa828eabb7c35e5149c67a05",
+  "title": "ff512dae27f4c119458e78a117ae46ad89fad8661c4946efe01c5041896a0721",
+  "description": "f91692034bef445c8e51e5f4304828033cb3d5f36682df5bdf5fa4d0dd3aaaa9",
   "tags": "bdef39f3058d67605ff3e21961c7b17ac88789fb87e2358873244c5d65d0b843",
   "pinned comment": "360c8c0c7c28b5d611e4a1e98f5dbd74e34213b5b7dbe102d61ae46b9549c507",
   "genres": "970e1a9af2d8b8619e4401ec3cf864e0906f2858c57403f56eb7bc715565a2f3"
@@ -27,12 +27,6 @@
    "claim": "The Rock and Roll Hall of Fame lists it among songs that shaped rock and roll.",
    "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
    "assessment": "Stated in the lead. The copy does not claim induction into the Hall."
-  },
-  {
-   "surface": "description",
-   "claim": "Rolling Stone placed it 96th on its 2025 rundown of the best songs of the twenty first century.",
-   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
-   "assessment": "Critical reception section gives the 2025 Rolling Stone placing of 96."
   },
   {
    "surface": "description",
@@ -195,12 +189,18 @@
    "claim": "mavomusicyt",
    "source": "Band Info/My Chemical Romance/Register.md",
    "assessment": "Channel name or artist variant recorded in the register, not a claim about the song."
+  },
+  {
+   "surface": "description",
+   "claim": "Rolling Stone placed it 96th on its 2025 rundown of the best songs of the twenty first century.",
+   "source": "https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+   "assessment": "Critical reception section gives the 2025 Rolling Stone placing of 96."
   }
  ],
- "distinct_fact_and_source": "The Rock and Roll Hall of Fame listing and the 2025 Rolling Stone placing at 96, plus the US and UK platinum certifications. Unused by the other six, and deliberately different from this video's own live description, which already leans on the UK number one. Sources: https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
+ "distinct_fact_and_source": "The Rock and Roll Hall of Fame listing and the 2025 Rolling Stone placing at 96, plus the US and UK platinum certifications. Unused by the other six, and deliberately different from this video's own live creator comment, which already leans on the UK number one. Sources: https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade",
  "uniqueness_assessment": "Zero five-word phrases shared with any other package once the song title is set aside. Gate returns five signals, all of them the song title.",
  "uncertainties_and_removed_claims": "No award date is given for either certification, so the copy says long after the 2006 release rather than naming a year. Audience retention and geography are not available yet on a one day old upload and nothing is inferred from their absence. Search term dirantai digelangi rindu is unrelated and is not used to justify tags. Current playlist membership and pin state are not asserted.",
- "collision_report_sha256": "ba328d9f7e4c87ab796c8f7340e0f6fb9203d69655ffa1ad1cc61dfd6ae72050",
+ "collision_report_sha256": "ead84526927a16be0ee51d6b21dd7664047ffd02d53f8fea03f7c3c657aeb437",
  "all_claims_checked": true,
  "cross_song_uniqueness_checked": true
 }

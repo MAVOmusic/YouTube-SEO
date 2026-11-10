@@ -274,22 +274,22 @@ Creator comment posted beneath the pin:
 
 ## My Chemical Romance - Welcome To The Black Parade - Long 0167
 
-**Status:** proposed 2026-11-10, not confirmed posted or pinned. Nothing is pinned on the video and the only comment is the creator subscribe and schedule note.
+**Status:** proposed 2026-11-10, not confirmed posted or pinned. The existing creator comment names the 2006 MTV Video Music Awards and stays as it is.
 
 ```text
-📖 Quiz: where did Welcome To The Black Parade get its first live airing on television?
-A) The 2006 MTV Video Music Awards
-B) The 2007 Grammy Awards
-C) Reading Festival 2006
+📊 Quiz: how high did Welcome To The Black Parade reach on the US Billboard Hot 100?
+A) 9
+B) 1
+C) 23
 
 Answer below.
 ```
 
-**Answer:** A) The 2006 MTV Video Music Awards
+**Answer:** A) 9
 
-**Evidence:** https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade - the song had its first live television airing at the 2006 MTV Video Music Awards on 31 August 2006, with the Myspace premiere two days later and the single on 12 September 2006.
+**Evidence:** https://en.wikipedia.org/wiki/Welcome_to_the_Black_Parade - the chart table gives US Billboard Hot 100 at 9, alongside US Modern Rock at 1. The description deliberately prints the Modern Rock placing and not the Hot 100 one.
 
-**Note:** The description names the event, so this question is answerable from the copy on purpose. The other two options are real events from the era and are used only as distractors.
+**Note:** The first draft of this package was written around the 2006 MTV Video Music Awards. That fact is already on the video in two places, the live description and the existing creator comment, so the package was rewritten around the chart story and the old quiz was retired before delivery.
 
 ## My Chemical Romance - Welcome To The Black Parade - Short 0068
 
