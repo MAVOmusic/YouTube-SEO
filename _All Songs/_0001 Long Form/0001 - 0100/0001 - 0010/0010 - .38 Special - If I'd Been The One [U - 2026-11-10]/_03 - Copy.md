@@ -57,6 +57,8 @@ Artist-level genres from https://en.wikipedia.org/wiki/38_Special_(band), used t
 
 ## EVIDENCE AND STATUS
 
+<!-- Reviewed and shipped in PR #223, merged 2026-11-10. -->
+
 - Live title is the readable "Southern rock bass meets .38 Special's If I'd Been The One" and the live description is the Ver 4.17 block that opens on the album credit. Both are replaced, and the album credit is dropped because it is already the first line of the live description.
 - Live tags are 17 at 261/500, including the misspelling 38 speical and the generic classic rock, 80s rock and play along. The proposed set leads with the artist, the song and the two bass players.
 - The playlist field shows a single list, Rocksmith 2014 Bass Play Along Vid..., which matches the standing rule for a dedicated play-along. The user reports genres added, which does not match this screenshot. The conflict is recorded, not resolved, and nothing is added or removed by the agent.

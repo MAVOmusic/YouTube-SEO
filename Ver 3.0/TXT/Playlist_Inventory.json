@@ -385,10 +385,8 @@
    "genre": "Southern Rock",
    "format": "shorts",
    "title": "Southern Rock - Rocksmith 2014 Bass Shorts",
-   "status": "confirmed_created",
-   "evidence": "User report 2026-11-10: genres added on .38 Special - If I'd Been The One. Short 0467 shows 6 playlists, which is consistent with five genre Shorts lists plus Shorts All Genres. Not an independent Studio check of which six.",
-   "description_status": "assumed applied; not independently verified",
-   "sort": "not confirmed",
+   "status": "proposed_not_confirmed",
+   "evidence": "User report 2026-11-10: genres added on .38 Special - If I'd Been The One. Short 0467's playlist field shows 6 playlists, consistent with these five genre lists plus Shorts All Genres, but the names are not visible in any screenshot. Confirm the names before flipping.",
    "url": null
   },
   {
@@ -405,10 +403,8 @@
    "genre": "AOR",
    "format": "shorts",
    "title": "AOR - Rocksmith 2014 Bass Shorts",
-   "status": "confirmed_created",
-   "evidence": "User report 2026-11-10: genres added on .38 Special - If I'd Been The One. Short 0467 shows 6 playlists, which is consistent with five genre Shorts lists plus Shorts All Genres. Not an independent Studio check of which six.",
-   "description_status": "assumed applied; not independently verified",
-   "sort": "not confirmed",
+   "status": "proposed_not_confirmed",
+   "evidence": "User report 2026-11-10: genres added on .38 Special - If I'd Been The One. Short 0467's playlist field shows 6 playlists, consistent with these five genre lists plus Shorts All Genres, but the names are not visible in any screenshot. Confirm the names before flipping.",
    "url": null
   },
   {
@@ -425,10 +421,8 @@
    "genre": "Boogie Rock",
    "format": "shorts",
    "title": "Boogie Rock - Rocksmith 2014 Bass Shorts",
-   "status": "confirmed_created",
-   "evidence": "User report 2026-11-10: genres added on .38 Special - If I'd Been The One. Short 0467 shows 6 playlists, which is consistent with five genre Shorts lists plus Shorts All Genres. Not an independent Studio check of which six.",
-   "description_status": "assumed applied; not independently verified",
-   "sort": "not confirmed",
+   "status": "proposed_not_confirmed",
+   "evidence": "User report 2026-11-10: genres added on .38 Special - If I'd Been The One. Short 0467's playlist field shows 6 playlists, consistent with these five genre lists plus Shorts All Genres, but the names are not visible in any screenshot. Confirm the names before flipping.",
    "url": null
   }
  ]
