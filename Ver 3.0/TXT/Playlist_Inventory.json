@@ -370,6 +370,66 @@
    "description_status": "assumed applied; not independently verified",
    "sort": "not confirmed",
    "url": null
+  },
+  {
+   "genre": "Southern Rock",
+   "format": "long_form",
+   "title": "Southern Rock - Rocksmith 2014 Bass Long Form Videos",
+   "status": "proposed_not_confirmed",
+   "evidence": "Copy prepared 2026-11-10 for .38 Special - If I'd Been The One; genre absent from this registry before that date; existence in Studio not checked",
+   "description_status": "proposed; not confirmed applied",
+   "sort": "Most Recent Uploads (to set on creation)",
+   "url": null
+  },
+  {
+   "genre": "Southern Rock",
+   "format": "shorts",
+   "title": "Southern Rock - Rocksmith 2014 Bass Shorts",
+   "status": "proposed_not_confirmed",
+   "evidence": "Copy prepared 2026-11-10 for .38 Special - If I'd Been The One; genre absent from this registry before that date; existence in Studio not checked",
+   "description_status": "proposed; not confirmed applied",
+   "sort": "Most Recent Uploads (to set on creation)",
+   "url": null
+  },
+  {
+   "genre": "AOR",
+   "format": "long_form",
+   "title": "AOR - Rocksmith 2014 Bass Long Form Videos",
+   "status": "proposed_not_confirmed",
+   "evidence": "Copy prepared 2026-11-10 for .38 Special - If I'd Been The One; genre absent from this registry before that date; existence in Studio not checked",
+   "description_status": "proposed; not confirmed applied",
+   "sort": "Most Recent Uploads (to set on creation)",
+   "url": null
+  },
+  {
+   "genre": "AOR",
+   "format": "shorts",
+   "title": "AOR - Rocksmith 2014 Bass Shorts",
+   "status": "proposed_not_confirmed",
+   "evidence": "Copy prepared 2026-11-10 for .38 Special - If I'd Been The One; genre absent from this registry before that date; existence in Studio not checked",
+   "description_status": "proposed; not confirmed applied",
+   "sort": "Most Recent Uploads (to set on creation)",
+   "url": null
+  },
+  {
+   "genre": "Boogie Rock",
+   "format": "long_form",
+   "title": "Boogie Rock - Rocksmith 2014 Bass Long Form Videos",
+   "status": "proposed_not_confirmed",
+   "evidence": "Copy prepared 2026-11-10 for .38 Special - If I'd Been The One; genre absent from this registry before that date; existence in Studio not checked",
+   "description_status": "proposed; not confirmed applied",
+   "sort": "Most Recent Uploads (to set on creation)",
+   "url": null
+  },
+  {
+   "genre": "Boogie Rock",
+   "format": "shorts",
+   "title": "Boogie Rock - Rocksmith 2014 Bass Shorts",
+   "status": "proposed_not_confirmed",
+   "evidence": "Copy prepared 2026-11-10 for .38 Special - If I'd Been The One; genre absent from this registry before that date; existence in Studio not checked",
+   "description_status": "proposed; not confirmed applied",
+   "sort": "Most Recent Uploads (to set on creation)",
+   "url": null
   }
  ]
 }
