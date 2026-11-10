@@ -1,0 +1,92 @@
+{
+  "reviewer": "Arena agent",
+  "reviewed_at": "2026-11-10",
+  "surface_sha256": {
+    "title": "20d5892eea5454afac1d78505f8fd869e8987937ee36c0269a7cd8b020bbc449",
+    "description": "d458b19b265264f57ec79a09a0f55596217d5cfb08e294cfd211539713a94b04",
+    "tags": "0f85cb124ac04fd238ade3a05769759aec642d32f2c21e0ea267010e69b665de",
+    "pinned comment": "0f3f2ce727418f3557367a93f6fd20a77d57ac8db8c2bf41478be88476df4e7a",
+    "genres": "c80750d2aa50ce875adc8b576c2173319b4bccc173520a899594ea2127df4349"
+  },
+  "reviewed_surfaces": {
+    "title": true,
+    "description": true,
+    "tags": true,
+    "pinned comment": true,
+    "genres": true
+  },
+  "claims": [
+    {
+      "surface": "title",
+      "claim": "Tim Sköld produced this Motionless In White single. A-M-E-R-I-C-A on bass",
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album) ; https://en.wikipedia.org/wiki/Tim_Sk%C3%B6ld",
+      "assessment": "Production credit and single status both come from the album page: A-M-E-R-I-C-A was the third single, released 23 April 2013, and Sköld produced track 3. Shape differs from the other three versions and avoids the retired plain Band - Song opener and the possessive opener."
+    },
+    {
+      "surface": "description",
+      "claim": "A-M-E-R-I-C-A arrived in April 2013 as the third single from Infamous, and Tim Sköld produced this track.",
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
+      "assessment": "Single order and month match the album page, and Sköld is listed as producer of track 3."
+    },
+    {
+      "surface": "description",
+      "claim": "The album itself landed in November 2012, with Jason Suecof and Tim Sköld sharing production duties.",
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
+      "assessment": "Release date 13 November 2012 and both producers are on the album page. No exact day is claimed in the copy."
+    },
+    {
+      "surface": "description",
+      "claim": "This is the full song on bass, worked through against the Rocksmith 2014 Remastered note chart without skipping sections.",
+      "source": "User instruction that every recording is a bass sight-read in Rocksmith 2014 Remastered; screenshots for this video",
+      "assessment": "Format claim only. No single-take or perfection claim, and the note highway is not described as tablature."
+    },
+    {
+      "surface": "description",
+      "claim": "Kick first, Twitch as a mirror, Discord last.",
+      "source": "User standing instruction; the live template this replaces already used the same three channels",
+      "assessment": "Routing requested by the user. No schedule promise and no boost reward claim."
+    },
+    {
+      "surface": "pinned comment",
+      "claim": "Tim Sköld, formerly of KMFDM and Marilyn Manson, produced A-M-E-R-I-C-A. Which producer would you want behind the next Motionless In White record?",
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album) ; https://en.wikipedia.org/wiki/Tim_Sk%C3%B6ld",
+      "assessment": "Sköld produced track 3 and has KMFDM and Marilyn Manson history. The question asks for preference, so it asserts nothing about the reader. The existing Super Thanks comment is preserved and not deleted."
+    },
+    {
+      "surface": "tags",
+      "claim": "motionless in white, a-m-e-r-i-c-a, america, motionless in white america, a-m-e-r-i-c-a bass, infamous, single, tim skold, jason suecof",
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
+      "assessment": "Identity, album, single status and both producers. The live tag set held none of these, so this replaces seven channel-only tags. Year 2012 was removed during the character count check."
+    },
+    {
+      "surface": "tags",
+      "claim": "metalcore, gothic metal, industrial metal, nu metal, hard rock",
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White ; https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
+      "assessment": "Artist-wide genres, matching the five existing playlist pairs."
+    },
+    {
+      "surface": "tags",
+      "claim": "bass cover, bass guitar, rocksmith 2014 remastered, rocksmith bass, motionless in white bass cover",
+      "source": "User instruction; title and description",
+      "assessment": "Format and instrument tags. No bass tab tag, because the video shows a Rocksmith highway."
+    },
+    {
+      "surface": "tags",
+      "claim": "miw, chris motionless, chris cerulli, ricky olson, devin sola, mavomusic, mavomusicyt",
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album); user-confirmed handles",
+      "assessment": "Band abbreviations, credited members and channel handles. Membership is not a claim about who plays on this upload."
+    },
+    {
+      "surface": "genres",
+      "claim": "Metalcore, Gothic Metal, Industrial Metal, Nu Metal, Hard Rock plus Long Form All Genres",
+      "source": "User standing instruction; five existing MIW playlist pairs",
+      "assessment": "Normal long form takes the genre lists and the All Genres list. Those playlists already exist and must not be recreated. Membership is user-reported, not verified here."
+    }
+  ],
+  "distinct_fact_and_source": "A-M-E-R-I-C-A is the third single from Infamous, produced by Tim Sköld, who also worked with KMFDM and Marilyn Manson. That producer angle is used nowhere else across the four versions and is distinct from the Crahan video, the Michael Vampire guest spot and the Celldweller remix. https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
+  "uniqueness_assessment": "18 five-word signals remain and all are the hyphen-split song title A-M-E-R-I-C-A matching Long Form 0006, the same song. The earlier Rocksmith 2014 Remastered chart signal shared with Abigail was reworded to note chart. Title, description and pin were checked for shape reuse against recent long forms. The 50-intervening-upload window is paused by the user and off-repository copy cannot be read, so semantic uniqueness is not certified.",
+  "uncertainties_and_removed_claims": "Replaces the live 2025 stream template and the seven channel-only tags. No schedule, Super Thanks, Rumble, X or TikTok wording is carried forward, and no partnership or earnings claim is made. Did not claim this was cut from a live broadcast, because the screenshots do not show that. Screenshots show displayed values; the comment editor does not prove what is pinned. No Studio edit was made and no click-through effect is claimed.",
+  "collision_report_sha256": "202bf85c32b5ea62b0812fa55bc9448bc07ebc5f080285e7bdcbd421f06f359c",
+  "all_claims_checked": true,
+  "cross_song_uniqueness_checked": true
+}

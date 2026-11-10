@@ -7,7 +7,9 @@ ROOT = Path(__file__).resolve().parents[2]
 class QuizRegisterTest(unittest.TestCase):
     def test_recovered_questions_have_answers(self):
         text = (ROOT / 'TXT/Historical_Quiz_Questions_And_Answers.md').read_text()
-        self.assertEqual(text.count('**Answer:**'), 8)
+        # Eight recovered historical questions plus the A-M-E-R-I-C-A Short 1892
+        # proposal added 2026-11-10, which is recorded with its answer too.
+        self.assertEqual(text.count('**Answer:**'), 9)
         self.assertIn('without recoverable question', text)
         self.assertIn('Short 0147', text)
         self.assertIn('draft only', text)

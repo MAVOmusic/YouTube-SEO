@@ -202,7 +202,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0183 | A Day To Remember - Another Song About The Weekend | N/A |
 | 0184 | Willie Nelson - Whiskey River | N/A |
 | 0185 | ABBA - Thank You For The Music | N/A |
-| 0186 | Motionless In White - America | N/A |
+| 0186 | Motionless In White - A-M-E-R-I-C-A | Hard not to headbang to A-M-E-R-I-C-A - Motionless In White #bass |
 | 0187 | Sabaton - Metal Crüe | N/A |
 | 0188 | Adam And The Ants - That Voodoo! | N/A |
 | 0189 | 10 Years - Actions And Motives | N/A |
@@ -1993,7 +1993,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1889 | Linkin Park - Papercut | N/A |
 | 1890 | A Day To Remember - Another Song About The Weekend | N/A |
 | 1891 | Willie Nelson - Whiskey River | N/A |
-| 1892 | Motionless In White - A.M.E.R.I.C.A. | N/A |
+| 1892 | Motionless In White - A-M-E-R-I-C-A | A-M-E-R-I-C-A, letter by letter, on bass - Motionless In White #bass |
 | 1893 | Sabaton - Metal Crüe | N/A |
 | 1894 | Adam And The Ants - That Voodoo! | N/A |
 | 1895 | 12 Stones - The Way I Feel | N/A |

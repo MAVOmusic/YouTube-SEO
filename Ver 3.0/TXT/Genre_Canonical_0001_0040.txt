@@ -43,7 +43,7 @@
   0003  Motionless In White - Masterpiece      Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
   0004  Motionless In White - Another Life PA  Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
   0005  Motionless In White - Abigail          Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
-  0006  Motionless In White - America          Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
+  0006  Motionless In White - A-M-E-R-I-C-A  Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
   0007  Motionless In White - Immaculate Mis.  Metalcore / Gothic metal / Industrial metal / Nu metal / Hard rock
   0008  Green Day - X-Kid                      Punk rock / Pop punk / Alternative rock / Skate punk / Power pop
   0009  My Chemical Romance - Black Parade     Alternative rock / Emo / Pop punk / Post-hardcore

@@ -53,7 +53,7 @@ Imported from the existing per-song reviews for this artist. CO numbers indicate
 - Abigail appears on 2010 debut Creatures.
   - Source: https://mediakits.concord.com/p/creatures/press-release.html
 
-### CO-0006 - 0006 - Motionless In White - America (Long Form)
+### CO-0006 - 0006 - Motionless In White - A-M-E-R-I-C-A (Long Form)
 
 - A-M-E-R-I-C-A appears on the 2012 Infamous album.
   - Source: https://www.metalkingdom.net/album/Motionless-In-White-Infamous-62377
@@ -96,9 +96,20 @@ Relevant names below are artist associations, not an assertion they play on each
 
 Chronological IDs LF 0003 (dedicated play-along), 0119; Shorts 0147 and 1864. See [pending analysis](Masterpiece/Analysis.md) for older numbering, playlist exclusions and evidence. All five MIW artist genre playlist pairs already confirmed created. Wait for refreshed analytics before preparing copy.
 
-## A-M-E-R-I-C-A - four indexed versions
+## A-M-E-R-I-C-A - four versions reviewed 2026-11-10
 
-Chronological IDs: LF **0006** (dedicated play-along, reviewed 2026-11-09) and LF **0147** (normal long form, indexed only, no folder or screenshots). Shorts **0186** and **1892** both appear in the index and both are probably separate uploads, but neither has a folder. 0006: 333 views, 9.0 h, +58 subscribers, 1:37 AVD of 3:50 (42.5%), 59.8% search, 17.4% playlists. Proposed 0006 copy replaces the machine-template title, the 2022 placeholder description and the bass-tab tags. 0006 stays in the Play Along playlist only. Do not write copy for 0147, 0186 or 1892 until their screenshots arrive. See [analysis](America/Analysis.md) and `Ver 3.0/TXT/America_All_Versions_Review.md`.
+Chronological IDs: LF **0006** (dedicated play-along) and LF **0147** (normal long form); Shorts **0186** and **1892**. All four reviewed from refreshed screenshots on 2026-11-10 and all four folders renamed to `A-M-E-R-I-C-A [U - 2026-11-10]`.
+
+- 0006: 333 views, 9.0 h, +58 subscribers, 1:37 AVD of 3:50 (42.5%), search 59.8%, playlists 17.4%, 4.3k impressions at 6.0%. Stays in the Play Along playlist only.
+- 0147: 14 views, 0.4 h, 1:32 of 3:30 (44.0%), 892 impressions at 0.9% click-through. Takes the five long-form genre lists plus Long Form All Genres.
+- 0186: 568 views, 2.2 h, 35.1% stayed, Shorts feed 81.7%, 0.05 GBP. Takes the five Shorts genre lists plus Shorts All Genres. Viewer comment @loafofbeans8291 stays pinned.
+- 1892: 967 views (407 more than usual), 1.7 h, 36.6% stayed, Shorts feed 90.7%, 0.06 GBP. Same playlist routing, no comment pinned.
+
+Copy angles are deliberately split: tuning and Infamous chart for 0006, Tim Sköld production for 0147, Michael Vampire guest vocals for 0186, the letter-by-letter hook plus a Crahan quiz for 1892. Genres for the artist: Metalcore, Gothic Metal, Industrial Metal, Nu Metal, Hard Rock.
+
+All four proposals are in their `_03 - Copy.md`, mirrored in `_All Songs/Copy Blacklist.md`, and both long forms carry gate records. See [analysis](America/Analysis.md) and `Ver 3.0/TXT/America_All_Versions_Review.md`.
+
+Sources: https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album) ; https://en.wikipedia.org/wiki/Motionless_in_White ; https://en.wikipedia.org/wiki/Tim_Sk%C3%B6ld
 
 ## Abigail - reviewed 2026-11-09
 

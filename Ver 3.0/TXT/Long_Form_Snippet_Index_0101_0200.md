@@ -48,7 +48,7 @@
 - 0144: Linkin Park - Papercut
 - 0145: A Day To Remember - Another Song About The Weekend
 - 0146: Willie Nelson - Whiskey River
-- 0147: Motionless In White - A.M.E.R.I.C.A.
+- 0147: Motionless In White - A-M-E-R-I-C-A
 - 0148: Sabaton - Metal Crüe
 - 0149: Adam And The Ants - That Voodoo!
 - 0150: 12 Stones - The Way I Feel

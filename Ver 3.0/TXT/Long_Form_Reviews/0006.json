@@ -1,11 +1,11 @@
 {
   "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-09",
+  "reviewed_at": "2026-11-10",
   "surface_sha256": {
-    "title": "26fa2d88e159b86bcaff330c123cc2bd8fb00a00d1165cccf506df7c6fdeb378",
-    "description": "cb094316c2e2a1bdb5cbf69b3721500adc23c2de3fe6a9f5a3ce20de88900410",
-    "tags": "8b40b70a6b2e3b9008b5436f57668d94183571f4c794866875747c34a480d665",
-    "pinned comment": "423645cbc03e137528c8c7514bda7b66722aea67e6269c288d798202936d161f",
+    "title": "5c8d27b259e230fda9e623d0830658c688e9dfad6f12e70a4f6773bbeedf8e4b",
+    "description": "01e0a729b38c39bbd17caaa0d5f4adab345598472e07835c438f057628d7181f",
+    "tags": "c4e7a2a561837d3fc21c1f8e02cd80fd6caf0071a612e61bf6f68f440b45857c",
+    "pinned comment": "5a4b3acd50ad25bbc740a5d1b5433d0bef59fb9a3e57019f974e52cec7f45869",
     "genres": "f48c54c62bc380bd4bdce3f16b0a59d2869833cef9269f10a8289c8f884600e4"
   },
   "reviewed_surfaces": {
@@ -18,69 +18,69 @@
   "claims": [
     {
       "surface": "title",
-      "claim": "A-M-E-R-I-C-A spelled out: Motionless In White on bass",
-      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album); _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America [U - 2026-11-09]/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "Artist, song spelling and bass format are identifiable from the album track list and the screenshot. The hook is editorial wording, not a ranking or CTR claim. Checked against recent titles: no possessive opener, no plain Band - Song, no [Song] is [Band], and the \"on bass\" phrase is not placed where the Abigail title puts it."
+      "claim": "A-M-E-R-I-C-A: the whole Motionless In White song on bass in Eb Drop Db",
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album); tuner reading in the folder screenshots; user instruction that every recording is a bass sight-read in Rocksmith 2014 Remastered",
+      "assessment": "Artist, song, format and tuning are all verifiable, and the tuner is visible on screen rather than inferred. The song-first opener keeps the retired plain Band - Song shape out and does not reuse the Abigail or Masterpiece title shapes. Editorial hook only, no ranking or click-through claim."
     },
     {
       "surface": "description",
-      "claim": "A-M-E-R-I-C-A came out as a single in April 2013, several months after Infamous arrived in November 2012.",
+      "claim": "Motionless In White tuned down to Eb Drop Db for A-M-E-R-I-C-A, and this run covers the song from the opening note.",
+      "source": "Tuner reading in the screenshots; user instruction that every recording is a full bass play-through on Rocksmith 2014 Remastered",
+      "assessment": "Tuning is shown. Covering the song is the user standing description of these recordings and is not a claim of a note-perfect or unedited take."
+    },
+    {
+      "surface": "description",
+      "claim": "It comes from Infamous, the 2012 record that peaked at number 5 on Billboard's US Top Hard Rock Albums chart.",
       "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
-      "assessment": "The album released 13 November 2012 and the single 23 April 2013. Only months and years are stated, no exact single day, and no chart position is claimed."
+      "assessment": "Album and year confirmed. The chart row is US Top Hard Rock Albums peak 5. No Billboard 200 figure is quoted and nothing is claimed about the single charting."
     },
     {
       "surface": "description",
-      "claim": "The complete song is here as a bass play-along in Rocksmith 2014 Remastered.",
-      "source": "User instruction; _All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0006 - Motionless In White - America [U - 2026-11-09]/_01 - Main Info/0002 - Motionless In White - America (Long Form) - Details.jpeg",
-      "assessment": "User confirms every recording is a bass sight-read in Rocksmith 2014 Remastered, and the screenshot shows the Rocksmith note highway. Screenshots cannot establish every second of the video, the bass used or the tuning."
+      "claim": "The note chart stays up for the whole take, first note to last.",
+      "source": "Description screenshots and the note highway visible in the video; user instruction",
+      "assessment": "Describes the on-screen Rocksmith highway. It is not called tablature and no difficulty or learning-outcome promise is made."
     },
     {
       "surface": "description",
-      "claim": "The note chart runs alongside so the part stays easy to follow at your own speed.",
-      "source": "Editorial wording",
-      "assessment": "Instruction to the viewer, not a measured difficulty or learning-outcome claim. The note highway is not described as tablature."
-    },
-    {
-      "surface": "description",
-      "claim": "Kick first, Twitch as the relay, Discord last.",
-      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed invite",
-      "assessment": "Channel routing requested by the user. No schedule promise and no boost reward claim."
+      "claim": "Kick first, Twitch as the mirror, Discord last.",
+      "source": "_All Songs/Copy Blacklist.md channel routing; user standing instruction",
+      "assessment": "Routing confirmed by the user. No schedule promise and no boost reward claim."
     },
     {
       "surface": "pinned comment",
-      "claim": "Shawn Crahan of Slipknot directed the A-M-E-R-I-C-A video in 2013. Does the visual match the song for you?",
-      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
-      "assessment": "The 2013 video was directed by Shawn \"Clown\" Crahan and released on 3 June 2013. The question is opinion, not a factual assertion about the reader. The existing creator schedule comment from 2022 is preserved and is not deleted; the user decides whether to pin this line instead."
+      "claim": "This one sits in Eb Drop Db. Do you keep a bass tuned down for songs like this, or retune every time?",
+      "source": "Tuner reading; editorial question",
+      "assessment": "The tuning half is factual. The question asks the viewer, so it asserts nothing on their behalf. The genuine 2022 creator question and the existing replies are preserved and not deleted."
     },
     {
       "surface": "tags",
       "claim": "motionless in white, a-m-e-r-i-c-a, america, motionless in white america, a-m-e-r-i-c-a bass, miw, motionles in white",
-      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album); reach screenshot in the same folder",
-      "assessment": "Identity, spelling variants and observed search terms: \"motionless in white america\" appears in the Reach panel. Misspelling tags are observed variants, not claims about search frequency."
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album); Reach screenshot in the same folder",
+      "assessment": "Identity, spelling variants and observed search wording. The misspelling is a search variant, not a frequency claim."
     },
     {
       "surface": "tags",
-      "claim": "infamous, 2012",
-      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
-      "assessment": "Album and release year."
+      "claim": "infamous, eb drop db, rocksmith bass drop d",
+      "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album); tuner reading; search terms panel showing rocksmith bass drop d",
+      "assessment": "Album, tuning and the tuning phrase viewers already type, taken from the Reach panel. The tag set was trimmed to 493 characters, so the looser drop db tuning phrase and the redundant rocksmith 2014 tag were left out."
     },
     {
       "surface": "tags",
       "claim": "metalcore, gothic metal, industrial metal, nu metal, hard rock",
-      "source": "https://en.wikipedia.org/wiki/Motionless_in_White",
-      "assessment": "Artist-level genre classifications, consistent with the rest of this artist. They are not a claim that this recording fits every genre. Infamous is separately described as industrial metal, gothic metal and metalcore."
+      "source": "https://en.wikipedia.org/wiki/Motionless_in_White ; https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
+      "assessment": "Artist-wide classifications. Infamous itself is listed as industrial metal, gothic metal and metalcore. Tagging does not assert that every genre fits this recording."
     },
     {
       "surface": "tags",
       "claim": "chris motionless, chris cerulli, ricky olson, ryan sitkowski, devin sola, josh balz, angelo parente, michael vampire, vampires everywhere",
       "source": "https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
-      "assessment": "Members credited on Infamous plus the track 3 guest vocalist. Credited membership is not proof of participation in this upload, and the thumbnail does not show a bassist."
+      "assessment": "Personnel credited on Infamous plus the guest vocalist on track 3. Band credits are not proof of who plays on this upload, and no instrumentation claim is made."
     },
     {
       "surface": "tags",
-      "claim": "bass cover, bass play along, bass guitar, rocksmith 2014, rocksmith 2014 remastered, rocksmith bass, motionless in white bass cover",
+      "claim": "bass cover, bass play along, rocksmith 2014 remastered, rocksmith bass, motionless in white bass cover",
       "source": "User instruction; title and description",
-      "assessment": "Format and instrument tags. Removed the live \"bass tab\" tags because the video shows a Rocksmith note highway, not written tablature."
+      "assessment": "Format and instrument tags. No bass tab tags, because the video shows a Rocksmith highway rather than written tablature."
     },
     {
       "surface": "tags",
@@ -91,14 +91,14 @@
     {
       "surface": "genres",
       "claim": "Not applicable: dedicated play-along routed to the Rocksmith 2014 Bass Play Along playlist",
-      "source": "User standing instruction; screenshot playlist field",
-      "assessment": "Dedicated play-alongs go to the Play Along playlist only. The five MIW genre lists and both All Genres lists already exist and must not be recreated. Playlist membership is user-reported, not verified here."
+      "source": "User standing instruction; playlist field in the screenshots",
+      "assessment": "Dedicated play-alongs go to the Play Along playlist only. The five MIW genre pairs and both All Genres lists already exist and must not be recreated. Membership is user-reported, not verified here."
     }
   ],
-  "distinct_fact_and_source": "A-M-E-R-I-C-A is track 3 on Infamous (2012) and was a single in April 2013; the video was directed by Shawn Crahan of Slipknot. That is distinct from the Abigail Salem-witch-trial subject, the Masterpiece forgiveness quote and the Disguise-era Another Life material. https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
-  "uniqueness_assessment": "Compared title, description and pin against every extractable long-form copy file in the repository; 0 five-word signals after rewording a title phrase and a description clause that collided with the adjacent Abigail copy. Checked recent same-artist titles and Short copy for shape reuse, including the retired \"Rocksmith 2014 | Play Along on Bass | M |\" template that this replaces. The complete 50-intervening-upload window is paused by the user and live copy outside the repository is unavailable, so semantic uniqueness is not certified.",
-  "uncertainties_and_removed_claims": "Supersedes the 2026-11-03 draft and the live machine-template title. Dropped the old live tags that called the note highway a bass tab, and dropped the 2022 description template with its placeholder headings and stale surgery and schedule note. No tuning, equipment or difficulty claim is made. Screenshots show displayed values; the comment editor state does not prove what is pinned. No Studio edit was made and no CTR or ranking effect is claimed.",
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "distinct_fact_and_source": "A-M-E-R-I-C-A is track 3 on Infamous (2012), produced by Tim Sköld, and it can be played in Eb Drop Db. That is distinct from the Abigail Salem witch trial subject, the Masterpiece forgiveness quote, the Disguise-era Another Life material and the Celldweller remix angle used on Short 0186. https://en.wikipedia.org/wiki/Infamous_(Motionless_in_White_album)",
+  "uniqueness_assessment": "18 five-word signals remain and every one is the hyphen-split song title A-M-E-R-I-C-A matching Long Form 0147, which is the same song. Nothing is shared with the adjacent Abigail or Immaculate Misconception copy after rewording the old on bass with and Rocksmith chart lines. Recent same-artist titles were checked for shape reuse. The 50-intervening-upload window is paused by the user and off-repository copy cannot be read, so semantic uniqueness is not certified.",
+  "uncertainties_and_removed_claims": "Supersedes the 2026-11-09 draft and the live 2022 machine-template copy. Dropped the live bass tab tags, a single chart-position claim, and two tags that pushed the set past 500 characters. No equipment, difficulty or tuning-by-preference claim is made. Screenshots show displayed values; the comment editor does not prove what is pinned. No Studio edit was made and no click-through or ranking effect is claimed.",
+  "collision_report_sha256": "32e33f8066469ed0f4792e091ca883a4521a94138f0822a57dc9832f89f840b7",
   "all_claims_checked": true,
   "cross_song_uniqueness_checked": true
 }
