@@ -1,5 +1,7 @@
 # Upload plan, 10 to 25 November 2026
 
+> **Superseded 10 November 2026:** the dates in this file are historical. The active day-by-day plan, starting 11 November at 02:00 and running until the queue is empty, is `Upload_Plan_11_November_Onwards.md`. The six-window reasoning here still holds and is expanded in `Upload_Time_Reasoning.md`.
+
 **Written 10 November 2026 at 22:07 Budapest time, revised the same evening.** One upload means one slot: the long form premieres at the slot time and its Short publishes five minutes later. Six uploads a day therefore means six slots, six long forms and six Shorts.
 
 All times are Budapest (CET, UTC+1) with the UK clock one hour behind. No daylight saving change falls inside this range.
@@ -164,7 +166,7 @@ Only the five pairs in this table are reported as uploaded. The 84 later rows ar
 
 ## Numbered plan from 12 November
 
-`Upload_Plan_12_to_25_November.md` is the numbered version of every slot from 12 November. All 84 pairs in it now have IDs and placeholder folders in both formats. Queue rows 007 to 091 were used, minus the protected withheld track, which is skipped and not scheduled. IDs run to 0788 long form and 2535 Short, assigned in queue order.
+`Upload_Plan_11_November_Onwards.md` is the numbered version of every slot, starting 11 November at 02:00 and running to 8 December, when the queue is empty. All 84 pairs in it now have IDs and placeholder folders in both formats. Queue rows 007 to 091 were used, minus the protected withheld track, which is skipped and not scheduled. IDs run to 0788 long form and 2535 Short, assigned in queue order.
 
 ## Stock
 
