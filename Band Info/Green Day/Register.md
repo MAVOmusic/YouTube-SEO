@@ -27,7 +27,7 @@ These describe the artist across their catalogue, not necessarily every individu
 
 Imported from the existing per-song reviews for this artist. CO numbers indicate where the claim was recorded, not exclusive ownership of a fact. Recheck original sources and current copy before reusing; historical claims may have been superseded.
 
-### CO-0008 - 0008 - Green Day - X-Kid (Long Form)
+### CO-0008 - 0008 - Green Day - X-Kid [U - 2026-11-10]
 
 - Green Day released a cassette-playing video of X-Kid in 2012.
   - Source: https://en.wikipedia.org/wiki/X-Kid
@@ -36,7 +36,7 @@ Imported from the existing per-song reviews for this artist. CO numbers indicate
 - The song relates to the loss of a friend.
   - Source: https://www.guitarworld.com/magazine/interview-green-days-billie-joe-armstrong-uno-dos-and-tre ; https://www.rollingstone.com/music/music-features/billie-joe-armstrong-the-rolling-stone-interview-94267/5/
 
-### CO-0027 - 0027 - Green Day - X-Kid (Long Form)
+### CO-0027 - 0027 - Green Day - X-Kid [U - 2026-11-10]
 
 - X-Kid sits fifth on Green Day's Tre, the final album in their 2012 Uno, Dos and Tre trilogy.
   - Source: https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!
@@ -51,3 +51,30 @@ Relevant names below are artist associations, not an assertion they play on each
 ## Short 0010 - 2026-11-06
 
 - Green Day Authority lists the single on 12 February 2013 and the album appearance in 2012. Distinct from CO-0008's cassette video and song background and CO-0027's album track position/trilogy. Dates in different markets may differ. Source: https://www.greendayauthority.com/music/song/352/x-kid/
+
+## Song fact index - X-Kid five versions, reviewed 2026-11-10
+
+All five indexed X-Kid folders were reviewed on 2026-11-10 and now end `[U - 2026-11-10]`. Full analytics and copy in `Ver 3.0/TXT/Green_Day_X-Kid_Five_Versions_Review.md`.
+
+- Cassette tape video released to the band channel on 19 December 2012.
+  - Source: https://en.wikipedia.org/wiki/X-Kid
+- Recorded 14 February to 26 June 2012 at Jingletown Studios, Oakland; producers Rob Cavallo and Green Day.
+  - Source: https://en.wikipedia.org/wiki/X-Kid
+- Single released 12 February 2013; fifth track on Tre.
+  - Source: https://en.wikipedia.org/wiki/X-Kid
+- Chart peaks: Canada Rock 38, US Hot Rock and Alternative Songs 48, US Rock and Alternative Airplay 36.
+  - Source: https://en.wikipedia.org/wiki/X-Kid
+- The A.V. Club described the intro as a hybrid of Who Wrote Holden Caulfield? and One Of My Lies, both on Kerplunk.
+  - Source: https://www.avclub.com/green-day-tre-1798175239
+- Ray Rahman of Entertainment Weekly named X-Kid the best song on Tre, above Brutal Love and Missing You.
+  - Source: https://en.wikipedia.org/wiki/X-Kid
+- Tre title puns on tres and nods to Tre Cool, who turned 40 two days after the 7 December 2012 release; his face is on the cover with pink crosses over the eyes.
+  - Source: https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!
+- The album release was pulled forward to 11 December 2012 after the 2012 tour section was cancelled; LPs later moved to 12 February 2013, with Drama Queen replacing Stray Heart on later pressings.
+  - Source: https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!
+- Runtime conflict: the song page gives 3:42, the album track list gives 3:41, so no studio runtime is used in copy.
+- Single ordinal conflict: the song page calls X-Kid the second single from Tre, the album page lists it as the single from Tre, so copy never states an ordinal.
+
+## Names and observed variants - X-Kid
+
+- The drummer's name is written Tre Cool in this catalogue, without the accent, to match the existing copy. The official spelling carries an acute accent on the e: Tré Cool. Same for the album, written Tre rather than ¡Tré!.

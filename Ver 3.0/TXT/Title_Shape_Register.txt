@@ -68,8 +68,8 @@
           was: America keeps one string busy for four minutes and never apologises
   0007    song kicks off album - acronym instrument | Immaculate Misconception kicks off Creatures - MIW bass
           was: Immaculate Misconception is four minutes of Motionless In White at full sprint
-  0008    bittersweet artist track meets platform instrument: song | A bittersweet Green Day track meets Rocksmith bass: X-Kid
-          was: X-Kid is Mike Dirnt playing a farewell song like it is a party
+  0008    song on instrument: artist song with a cassette | X-Kid on bass: the Green Day song that came with a cassette
+          was: A bittersweet Green Day track meets Rocksmith bass: X-Kid (retired 2026-11-10)
   0009    song builds on instrument - artist | Welcome To The Black Parade builds on bass - My Chemical Romance
           was: Welcome To The Black Parade is five minutes of Mikey Way never standing still
   0010    genre instrument meets artist song | Southern rock bass meets .38 Special's If I'd Been The One
@@ -100,7 +100,7 @@
   0024    early band revisited: song instrument performance | Early Sabaton revisited: The Hammer Has Fallen bass playthrough
   0025    composer goes genre: band song on instrument | Tchaikovsky goes metal: Aephanemer's Old French Song on bass
   0026    how does song sound on instrument? an artist cover | How does Arabic UFO Party sound on bass? An Alien Fucker cover
-  0027    take instrument through song, artist trilogy track | Take the bass through X-Kid, a Green Day trilogy track
+  0027    chart count for song, artist trilogy single | Three Billboard charts for X-Kid, a Green Day trilogy single
   0028    how heavy can song feel? a band instrument playthrough | How heavy can Dreadnought feel? A Sabaton bass playthrough
   0029    book inspires song - band in platform | Paradise Lost inspires Archangel - Amaranthe in Rocksmith
   0030    song brings credited artists together - instrument performance | Tarantula brings Pendulum and DJ Fresh together - bass playthrough
@@ -447,3 +447,13 @@ User confirms all six Motionless In White - Another Life videos edited: LF 0002 
 2026-11-09 SHORT 0152 | Motionless In White - Abigail | Abigail by Motionless In White, sight-read on bass #rocksmith #bass | prepared 2026-11-09 from refreshed screenshots; replaces the retired plain Band - Song shape; not a Studio edit
 
 2026-11-09 LONG 0006 | Motionless In White - A-M-E-R-I-C-A | A-M-E-R-I-C-A spelled out: Motionless In White on bass | prepared 2026-11-09 from refreshed screenshots; replaces the retired "Rocksmith 2014 | Play Along on Bass | M |" machine template; not a Studio edit
+
+2026-11-10 LONG 0008 | Green Day - X-Kid | X-Kid on bass: the Green Day song that came with a cassette | prepared 2026-11-10 from refreshed screenshots; dedicated play-along; not a Studio edit
+
+2026-11-10 LONG 0027 | Green Day - X-Kid | Three Billboard charts for X-Kid, a Green Day trilogy single | prepared 2026-11-10 from refreshed screenshots; replaces the trilogy-position title; not a Studio edit
+
+2026-11-10 SHORT 0010 | Green Day - X-Kid | Entertainment Weekly called X-Kid the best song on Tre #bass | prepared 2026-11-10; replaces the retired pipe shape; not a Studio edit
+
+2026-11-10 SHORT 1524 | Green Day - X-Kid | X-Kid sits on the record that puns on Tre Cool #bass | prepared 2026-11-10; replaces the duplicate plain Band - Song title; not a Studio edit
+
+2026-11-10 SHORT 1772 | Green Day - X-Kid | X-Kid on the Green Day album that shipped early #bass | prepared 2026-11-10; replaces the duplicate plain Band - Song title; not a Studio edit

@@ -643,9 +643,9 @@ C) 2012
 Answer below.
 ```
 
-### 0008 - Green Day - X-Kid
+### 0008 - Green Day - X-Kid [superseded 2026-11-10, kept for comparison; current copy in the X-Kid section at the end]
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid (Long Form)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid [U - 2026-11-10]/_03 - Copy.md`
 
 **Title**
 
@@ -1169,9 +1169,9 @@ Source: `_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0026 - Alien Fucker 
 [withheld - see protected review]
 ```
 
-### 0027 - Green Day - X-Kid
+### 0027 - Green Day - X-Kid [superseded 2026-11-10, kept for comparison; current copy in the X-Kid section at the end]
 
-Source: `_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_03 - Copy.md`
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid [U - 2026-11-10]/_03 - Copy.md`
 
 **Title**
 
@@ -3753,9 +3753,9 @@ Send an extreme-metal request in Kick chat, or catch the Twitch mirror. In Disco
 The release containing [title withheld] credits David Amiramov for both production and artwork. Hear my full bass take via the related video below my handle.
 ```
 
-### 0010 - Green Day - X-Kid
+### 0010 - Green Day - X-Kid [superseded 2026-11-10, kept for comparison; current copy in the X-Kid section at the end]
 
-Source: `_All Songs/_0002 Short Form/0001 - 0100/0001 - 0010/0010 - Green Day - X-Kid (Short Form)/_03 - Copy.md`
+Source: `_All Songs/_0002 Short Form/0001 - 0100/0001 - 0010/0010 - Green Day - X-Kid [U - 2026-11-10]/_03 - Copy.md`
 
 **Title**
 
@@ -4450,6 +4450,212 @@ motionless in white, a-m-e-r-i-c-a, america, america motionless in white, motion
 A) Corey Taylor
 B) Shawn Crahan
 C) Jim Root
+
+Answer below.
+```
+
+## Green Day - X-Kid - five versions reviewed 2026-11-10
+
+All five indexed versions reviewed from the refreshed screenshots already in their folders on 2026-11-10. Proposed copy only, no Studio edit confirmed. Analytics, sources and limits in [X-Kid five-version review](../Ver%203.0/TXT/Green_Day_X-Kid_Five_Versions_Review.md). The 50-intervening-upload rule stays paused. The five packages share zero five-word phrases with each other and with the whole accessible copy corpus.
+
+### LF 0008 - Green Day - X-Kid (dedicated play-along)
+
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0001 - 0010/0008 - Green Day - X-Kid [U - 2026-11-10]/_03 - Copy.md`
+
+Dedicated play-along, so it stays in the Rocksmith 2014 Bass Play Along playlist and out of the genre and All Genres lists. The cassette tape video and the Jingletown studio facts are the angle.
+
+**Title** (59 characters)
+
+```text
+X-Kid on bass: the Green Day song that came with a cassette
+```
+
+**Description** (536 characters)
+
+```text
+🎸 X-Kid came with a cassette tape video, posted to Green Day's own channel on 19 December 2012.
+
+💿 It was cut at Jingletown Studios in Oakland between February and June 2012, with Rob Cavallo producing alongside the band.
+
+🎶 This dedicated play-along runs 4:05, note highway up the whole way, so a hard bar can be taken at your own speed.
+
+🟢 Live requests open on Kick: https://kick.com/mavomusic
+🟣 A mirror runs at the same time on Twitch: https://www.twitch.tv/mavomusic
+💬 Green Day bass talk in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (23, 300/500 characters)
+
+```text
+green day, x-kid, x kid, green day x kid, tre, cassette, jingletown studios, pop punk, power pop, punk rock, bass cover, bass play along, bass guitar, rocksmith 2014 remastered, rocksmith bass, green day rocksmith, grenday, greenday, billie joe armstrong, mike dirnt, tre cool, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation** (132 characters)
+
+```text
+🎛 X-Kid was recorded at which Oakland studio between February and June 2012?
+A) Jingletown
+B) Ocean Way
+C) Studio 880
+
+Answer below.
+```
+
+### LF 0027 - Green Day - X-Kid (normal long form)
+
+Source: `_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid [U - 2026-11-10]/_03 - Copy.md`
+
+Normal long form. Takes the five long-form genre lists plus Long Form All Genres. The 2013 Billboard chart run is the angle.
+
+**Title** (60 characters)
+
+```text
+Three Billboard charts for X-Kid, a Green Day trilogy single
+```
+
+**Description** (586 characters)
+
+```text
+🎸 X-Kid made three Billboard lists in 2013: Canada Rock at 38, Hot Rock and Alternative Songs at 48, and Rock and Alternative Airplay at 36.
+
+🎬 The A.V. Club heard the opening as a blend of Who Wrote Holden Caulfield? and One Of My Lies, both from Kerplunk.
+
+🎶 This is the ordinary long form rather than the play-along, so the bass line and the note highway share the frame.
+
+🟢 Ask for a Green Day song on Kick: https://kick.com/mavomusic
+🟣 The chat mirrors on Twitch while it runs: https://www.twitch.tv/mavomusic
+💬 Uno, Dos and Tre debates go to Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (24, 334/500 characters)
+
+```text
+green day, x-kid, x kid, green day x kid, tre, canada rock, hot rock and alternative songs, rock and alternative airplay, pop punk, power pop, punk rock, 2013, bass cover, bass guitar, rocksmith 2014 remastered, rocksmith bass, green day rocksmith, grenday, greenday, billie joe armstrong, mike dirnt, tre cool, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation** (148 characters)
+
+```text
+📊 Quiz: X-Kid peaked at 36 on which Billboard chart?
+A) Canada Rock
+B) Hot Rock and Alternative Songs
+C) Rock and Alternative Airplay
+
+Answer below.
+```
+
+### Short 0010 - Green Day - X-Kid (normal Short)
+
+Source: `_All Songs/_0002 Short Form/0001 - 0100/0001 - 0010/0010 - Green Day - X-Kid [U - 2026-11-10]/_03 - Copy.md`
+
+Normal Short. Takes the five Shorts genre lists plus Shorts All Genres. The Entertainment Weekly pick is the angle.
+
+**Title** (60 characters)
+
+```text
+Entertainment Weekly called X-Kid the best song on Tre #bass
+```
+
+**Description** (358 characters)
+
+```text
+🎸 Entertainment Weekly put X-Kid at the top of Tre, above everything else on the record.
+
+🎬 The full run through the song sits on the related video beneath this clip.
+
+🟢 Send your Green Day pick to Kick: https://kick.com/mavomusic
+🟣 Twitch runs alongside it: https://www.twitch.tv/mavomusic
+💬 Trilogy favourites live in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (23, 305/500 characters)
+
+```text
+green day, x-kid, x kid, green day x kid, x kid green day, tre, entertainment weekly, pop punk, power pop, punk rock, bass cover, bass shorts, bass guitar, rocksmith 2014 remastered, rocksmith bass, green day rocksmith, grenday, greenday, billie joe armstrong, mike dirnt, tre cool, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation** (193 characters)
+
+```text
+📖 Quiz: which two tracks did Entertainment Weekly place behind X-Kid on Tre?
+A) Brutal Love and Missing You
+B) 99 Revolutions and Drama Queen
+C) 8th Avenue Serenade and Walk Away
+
+Answer below.
+```
+
+### Short 1524 - Green Day - X-Kid (normal Short)
+
+Source: `_All Songs/_0002 Short Form/1501 - 1600/1521 - 1530/1524 - Green Day - X-Kid [U - 2026-11-10]/_03 - Copy.md`
+
+Normal Short. Takes the five Shorts genre lists plus Shorts All Genres. The album title pun on Tre Cool is the angle. The pinned @_Nyx_ viewer comment is preserved and not replaced.
+
+**Title** (52 characters)
+
+```text
+X-Kid sits on the record that puns on Tre Cool #bass
+```
+
+**Description** (384 characters)
+
+```text
+🎸 Tre Cool turned 40 two days after the album landed, and his face sits on the cover with pink crosses over the eyes.
+
+🎬 The related video carries the longer X-Kid run if you want the whole part.
+
+🟢 Request a track over on Kick: https://kick.com/mavomusic
+🟣 Twitch runs it in parallel: https://www.twitch.tv/mavomusic
+💬 Album art chat happens in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (22, 279/500 characters)
+
+```text
+green day, x-kid, x kid, green day x kid, tre, tre cool, album cover, pop punk, power pop, punk rock, bass cover, bass shorts, bass guitar, rocksmith 2014 remastered, rocksmith bass, green day rocksmith, grenday, greenday, billie joe armstrong, mike dirnt, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation**
+
+Preserved viewer pin: @_Nyx_ wrote "Rocksmith 2014. The last good one." with one creator reply below it. Do not replace, edit or unpin it. No creator paste block is supplied for this surface.
+
+### Short 1772 - Green Day - X-Kid (normal Short)
+
+Source: `_All Songs/_0002 Short Form/1701 - 1800/1771 - 1780/1772 - Green Day - X-Kid [U - 2026-11-10]/_03 - Copy.md`
+
+Normal Short. Takes the five Shorts genre lists plus Shorts All Genres. The early album release is the angle.
+
+**Title** (53 characters)
+
+```text
+X-Kid on the Green Day album that shipped early #bass
+```
+
+**Description** (365 characters)
+
+```text
+🎸 Tre was first announced for January 2013, then pulled forward to 11 December 2012 once that stretch of the tour came off.
+
+🎬 The whole X-Kid take sits in the related video.
+
+🟢 Choose what comes next on Kick: https://kick.com/mavomusic
+🟣 Parallel stream on Twitch: https://www.twitch.tv/mavomusic
+💬 Release date nerds meet in Discord: https://discord.gg/ESGsGkN4j2
+```
+
+**Tags** (23, 286/500 characters)
+
+```text
+green day, x-kid, x kid, green day x kid, tre, 2012, release date, pop punk, power pop, punk rock, bass cover, bass shorts, bass guitar, rocksmith 2014 remastered, rocksmith bass, green day rocksmith, grenday, greenday, billie joe armstrong, mike dirnt, tre cool, mavomusic, mavomusicyt
+```
+
+**Pinned comment or recommendation** (126 characters)
+
+```text
+📅 Quiz: which track replaced Stray Heart on later pressings of the album?
+A) Drama Queen
+B) Walk Away
+C) Amanda
 
 Answer below.
 ```

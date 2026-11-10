@@ -1,176 +1,230 @@
 {
-  "reviewer": "Arena agent",
-  "reviewed_at": "2026-11-03",
-  "surface_sha256": {
-    "title": "dcc7d25f60629d508bef51946d34dc23d040fb7c139d3db2eabbc58503a4fd08",
-    "description": "931b508ffede7a4a3cc9d2f75bef9c3de59103a0cdccc7b54e6da70b0c38d9e9",
-    "tags": "5ef270165799c1c8c674568c5afa1a2c4885da9f8ff5c8a6038d99cc1fd4dda4",
-    "pinned comment": "564c0c398a436529b8e36587b246a1affea51493103eda6e9599b504e38572e9",
-    "genres": "83bc46a716bf9760d0654bdd4332cdd6282cbe5fc5d814b52e2df41927600480"
+ "reviewer": "Arena agent",
+ "reviewed_at": "2026-11-10",
+ "surface_sha256": {
+  "title": "fed78d0b753e00a6cfc38590dfe0ef1f52ffe4e58c140d8abbbcfa8c14f4f103",
+  "description": "6fd99ea894af0b2fa9d3e9207cc5bcacc691e1c6dde742c0c0462c4df53e4d82",
+  "tags": "663a91cc61512800422efd50eb5ecb414e4f6ae18a5e442528d7bef31b4884b1",
+  "pinned comment": "ba0b90ebe6f973010245c41654e6a7d1dd4f9d548a8736a76fe19e65a8b83ca8",
+  "genres": "4ced98c60b2227e4350931b6d94dd734cee06d5b42fab93d62c4963a73a4992e"
+ },
+ "reviewed_surfaces": {
+  "title": true,
+  "description": true,
+  "tags": true,
+  "pinned comment": true,
+  "genres": true
+ },
+ "claims": [
+  {
+   "surface": "title",
+   "claim": "X-Kid is a Green Day trilogy single that reached three Billboard charts.",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Article gives the chart table and places the song on Tre, the third album of the trilogy. The title avoids the contested single ordinal, because the album article lists one single while the song article calls it the second."
   },
-  "reviewed_surfaces": {
-    "title": true,
-    "description": true,
-    "tags": true,
-    "pinned comment": true,
-    "genres": true
+  {
+   "surface": "description",
+   "claim": "X-Kid made three Billboard lists in 2013.",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Chart table is headed 2013 and lists three entries."
   },
-  "claims": [
-    {
-      "surface": "description",
-      "claim": "X-Kid sits fifth on Green Day's Tre, the final album in their 2012 Uno, Dos and Tre trilogy.",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!",
-      "assessment": "Release or artist-provided source supports this claim; see uncertainties for edition limitations."
-    },
-    {
-      "surface": "description",
-      "claim": "Here is another X-Kid playthrough, with the bass part and game overlay together.",
-      "source": "_All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg; MAVO instruction: all uploads show the overlay while playing bass; Ver 3.0/TXT/Long_Form_Reviews/0008.json (earlier upload)",
-      "assessment": "Historical video identity/format and MAVO confirmation; no detailed transcription implied."
-    },
-    {
-      "surface": "description",
-      "claim": "The three distinct invitations and optional boost ask.",
-      "source": "Ver 3.0/CONTEXT_BLOCK.txt; user-confirmed Discord invite",
-      "assessment": "Kick primary, Twitch mirror, Discord last. Invitations make no promise about schedule, rewards or delivery."
-    },
-    {
-      "surface": "tags",
-      "claim": "green day",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; https://en.wikipedia.org/wiki/X-Kid; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
-    },
-    {
-      "surface": "tags",
-      "claim": "x-kid",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; https://en.wikipedia.org/wiki/X-Kid; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
-    },
-    {
-      "surface": "tags",
-      "claim": "x kid",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; https://en.wikipedia.org/wiki/X-Kid; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
-    },
-    {
-      "surface": "tags",
-      "claim": "green day x kid",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; https://en.wikipedia.org/wiki/X-Kid; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
-    },
-    {
-      "surface": "tags",
-      "claim": "tre",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; https://en.wikipedia.org/wiki/X-Kid; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
-    },
-    {
-      "surface": "tags",
-      "claim": "mike dirnt",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; https://en.wikipedia.org/wiki/X-Kid; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
-    },
-    {
-      "surface": "tags",
-      "claim": "pop punk",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; https://en.wikipedia.org/wiki/X-Kid; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
-    },
-    {
-      "surface": "tags",
-      "claim": "power pop",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; https://en.wikipedia.org/wiki/X-Kid; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
-    },
-    {
-      "surface": "tags",
-      "claim": "punk rock",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; https://en.wikipedia.org/wiki/X-Kid; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
-    },
-    {
-      "surface": "tags",
-      "claim": "2012",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; https://en.wikipedia.org/wiki/X-Kid; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
-    },
-    {
-      "surface": "tags",
-      "claim": "bass cover",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; https://en.wikipedia.org/wiki/X-Kid; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
-    },
-    {
-      "surface": "tags",
-      "claim": "rocksmith bass",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; https://en.wikipedia.org/wiki/X-Kid; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
-    },
-    {
-      "surface": "tags",
-      "claim": "rocksmith 2014",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; https://en.wikipedia.org/wiki/X-Kid; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg",
-      "assessment": "Identity, release, genre or format search term, checked against sources; genres are classification rather than guaranteed search traffic."
-    },
-    {
-      "surface": "pinned comment",
-      "claim": "Which song from the Uno, Dos and Tre trilogy would you put on a playlist first?",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; historical Pinned.jpeg files in batch",
-      "assessment": "Invitation reviewed for false premises. The old comment screenshot does not prove current pin or absence of a later artist comment."
-    },
-    {
-      "surface": "tags",
-      "claim": "billie joe armstrong",
-      "source": "https://en.wikipedia.org/wiki/Green_Day",
-      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
-    },
-    {
-      "surface": "tags",
-      "claim": "greenday",
-      "source": "http://technologytrins.weebly.com/greenday.html",
-      "assessment": "Relevant artist, person, alias or observed misspelling. Band membership is not proof of participation in this particular recording or video; no claim of search frequency or discovery impact."
-    },
-    {
-      "surface": "title",
-      "claim": "Take the bass through X-Kid, a Green Day trilogy track",
-      "source": "https://www.greendayauthority.com/music/song/352/x-kid/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!; _All Songs/_0001 Long Form/0001 - 0100/0021 - 0030/0027 - Green Day - X-Kid (Long Form)/_01 - Main Info/Details.jpeg; user-confirmed bass performance",
-      "assessment": "Song identity and factual angle supported by cited records; descriptive hook is editorial, not proof of click performance or the artist appearing in this video."
-    },
-    {
-      "surface": "genres",
-      "claim": "Punk rock",
-      "source": "https://en.wikipedia.org/wiki/Green_Day",
-      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
-    },
-    {
-      "surface": "genres",
-      "claim": "Pop punk",
-      "source": "https://en.wikipedia.org/wiki/Green_Day",
-      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
-    },
-    {
-      "surface": "genres",
-      "claim": "Alternative rock",
-      "source": "https://en.wikipedia.org/wiki/Green_Day",
-      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
-    },
-    {
-      "surface": "genres",
-      "claim": "Skate punk",
-      "source": "https://en.wikipedia.org/wiki/Green_Day",
-      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
-    },
-    {
-      "surface": "genres",
-      "claim": "Power pop",
-      "source": "https://en.wikipedia.org/wiki/Green_Day",
-      "assessment": "Artist-level classification, not necessarily a genre of this specific recording."
-    }
-  ],
-  "distinct_fact_and_source": "Fifth track on the final album in the 2012 trilogy; distinct from 0008 cassette video and friend-loss context. https://www.greendayauthority.com/music/song/352/ ; https://en.wikipedia.org/wiki/%C2%A1Tr%C3%A9!",
-  "uniqueness_assessment": "Compared title, description and pin against available copies, including first 70: 0 five-word signals. Reviewed fact angles, title and invitations; match absence cannot establish semantic or future-catalogue uniqueness.",
-  "uncertainties_and_removed_claims": "Distinct from 0008: track position and trilogy rather than cassette video and loss. Removed unverified no-second-take, exact note choices and weekly schedule. 2026-11-03: genre list describes the artist, not necessarily the recording; name tags reflect artist associations, not the presence of a performer in this cover. Click and query frequency not tested.",
-  "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "all_claims_checked": true,
-  "cross_song_uniqueness_checked": true
+  {
+   "surface": "description",
+   "claim": "Canada Rock peaked at 38.",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Chart table: Canada Rock, Billboard, 38."
+  },
+  {
+   "surface": "description",
+   "claim": "US Hot Rock and Alternative Songs peaked at 48.",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Chart table: US Hot Rock & Alternative Songs, Billboard, 48. The ampersand is written as \"and\" in copy."
+  },
+  {
+   "surface": "description",
+   "claim": "US Rock and Alternative Airplay peaked at 36.",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Chart table: US Rock & Alternative Airplay, Billboard, 36."
+  },
+  {
+   "surface": "description",
+   "claim": "The A.V. Club heard the opening as a blend of Who Wrote Holden Caulfield? and One Of My Lies, both from Kerplunk.",
+   "source": "https://www.avclub.com/green-day-tre-1798175239",
+   "assessment": "Jason Heller's review, quoted in the song article, describes a rousing intro that becomes a hybrid of those two songs. Kerplunk is the band's second album per the same article."
+  },
+  {
+   "surface": "description",
+   "claim": "This upload is the ordinary long form rather than the play-along, with the bass part and the note highway in frame.",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Distinguishes 0027 from 0008, which is the dedicated play-along. Description of the visible overlay only."
+  },
+  {
+   "surface": "description",
+   "claim": "Ask for a Green Day song on Kick, the chat mirrors on Twitch while it runs, and trilogy debates go to Discord.",
+   "source": "Standing channel practice in existing copy",
+   "assessment": "House order and one URL each. No stream schedule asserted."
+  },
+  {
+   "surface": "pinned comment",
+   "claim": "Quiz: X-Kid peaked at 36 on which Billboard chart? Options Canada Rock, Hot Rock and Alternative Songs, Rock and Alternative Airplay.",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Answer C, Rock and Alternative Airplay, per the chart table. The description states all three figures, so the question is deliberately answerable from the copy."
+  },
+  {
+   "surface": "genres",
+   "claim": "Artist-wide genres are punk rock, pop punk, alternative rock, skate punk and power pop, and this normal long form takes the five long-form genre lists plus Long Form All Genres.",
+   "source": "https://en.wikipedia.org/wiki/Green_Day",
+   "assessment": "Artist-level classification used for the whole catalogue, not a claim that this recording sits in every genre. Routing follows the standing rule for normal long forms."
+  },
+  {
+   "surface": "tags",
+   "claim": "green day",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "x-kid",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "x kid",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "green day x kid",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "tre",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "canada rock",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "hot rock and alternative songs",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "rock and alternative airplay",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "pop punk",
+   "source": "https://en.wikipedia.org/wiki/Green_Day",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "power pop",
+   "source": "https://en.wikipedia.org/wiki/Green_Day",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "punk rock",
+   "source": "https://en.wikipedia.org/wiki/Green_Day",
+   "assessment": "Artist-level genre classification, used artist-wide rather than as a track claim."
+  },
+  {
+   "surface": "tags",
+   "claim": "2013",
+   "source": "https://en.wikipedia.org/wiki/X-Kid",
+   "assessment": "Song, album or topic term taken from the song article."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass cover",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "bass guitar",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "rocksmith 2014 remastered",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "rocksmith bass",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "green day rocksmith",
+   "source": "Studio screenshots in this folder",
+   "assessment": "Format description of the upload. The note highway is a Rocksmith chart, not written bass tablature."
+  },
+  {
+   "surface": "tags",
+   "claim": "grenday",
+   "source": "Band Info/Green Day/Register.md",
+   "assessment": "Channel or spelling variant recorded in the artist register; not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "greenday",
+   "source": "Band Info/Green Day/Register.md",
+   "assessment": "Channel or spelling variant recorded in the artist register; not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "billie joe armstrong",
+   "source": "https://en.wikipedia.org/wiki/Green_Day",
+   "assessment": "Band member name, an artist association only. No claim that this member plays on the recording in this video."
+  },
+  {
+   "surface": "tags",
+   "claim": "mike dirnt",
+   "source": "https://en.wikipedia.org/wiki/Green_Day",
+   "assessment": "Band member name, an artist association only. No claim that this member plays on the recording in this video."
+  },
+  {
+   "surface": "tags",
+   "claim": "tre cool",
+   "source": "https://en.wikipedia.org/wiki/Green_Day",
+   "assessment": "Band member name, an artist association only. No claim that this member plays on the recording in this video."
+  },
+  {
+   "surface": "tags",
+   "claim": "mavomusic",
+   "source": "Band Info/Green Day/Register.md",
+   "assessment": "Channel or spelling variant recorded in the artist register; not a claim about the song."
+  },
+  {
+   "surface": "tags",
+   "claim": "mavomusicyt",
+   "source": "Band Info/Green Day/Register.md",
+   "assessment": "Channel or spelling variant recorded in the artist register; not a claim about the song."
+  }
+ ],
+ "distinct_fact_and_source": "The 2013 Billboard chart run across three lists, plus the A.V. Club reading of the intro against two Kerplunk songs. Different from 0008, which uses the cassette video and the Jingletown studio facts, and from the Shorts. Sources: https://en.wikipedia.org/wiki/X-Kid ; https://www.avclub.com/green-day-tre-1798175239",
+ "uniqueness_assessment": "Zero five-word phrases shared with the copy corpus and zero with the other four X-Kid packages. The chart numbers and the Kerplunk comparison appear only in this package. The gate report returns zero cross-video signals.",
+ "uncertainties_and_removed_claims": "The song article calls X-Kid the second single from the album while the album article lists it as the only single from Tre, so the copy says trilogy single and does not state an ordinal. The A.V. Club wording is a critical comparison, not a statement about composition. The 93.8% YouTube advertising share in the analytics is recorded in the folder evidence and is not treated as something copy can correct. Current playlist membership and pin state are not asserted. Historical screenshots cannot establish live settings.",
+ "collision_report_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+ "all_claims_checked": true,
+ "cross_song_uniqueness_checked": true
 }
