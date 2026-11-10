@@ -19,6 +19,10 @@ These are separate and must not be confused:
 
 A pinned viewer comment does not satisfy the rule and it does not excuse the creator comment. A video with somebody else's comment pinned still gets the creator comment, posted underneath it.
 
+## On Shorts, the pointer comes first
+
+A Short's comment opens with one line pointing at the attached full recording, then the quiz, fact or trivia. That ordering is fixed, and the description must carry the same pointer as its own block. Full detail in `Short_Full_Recording_Rule.md`, which also records why describing a Short as a cut, a trim or a separate recording is wrong on this channel.
+
 ## What counts
 
 - A sourced fact with a question attached.

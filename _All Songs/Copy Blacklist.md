@@ -5051,9 +5051,10 @@ If I'd Been The One hit number one for .38 Special #bass
 
 PRESERVED ARTIST COMMENT: @ericdehart4332 wrote "Sounds great!" with two creator replies under it, the second saying more is coming. Keep the pin exactly as it is. Do not replace, edit or unpin it.
 
-**Creator comment to post** (158 characters)
+**Creator comment to post** (233 characters)
 
 ```text
+🎬 The full recording is attached below as the related video on this Short.
 📀 Quiz: which Tour de Force track sat on the B side of this single?
 A) Twentieth Century Fox
 B) Back Where You Belong
@@ -5119,14 +5120,14 @@ Answer below.
 Fighting came off Yellowcard's last Capitol album #bass
 ```
 
-## DESCRIPTION (549 characters)
+## DESCRIPTION (579 characters)
 
 ```text
 📀 Paper Walls came out on 17 July 2007, and this one sits second on the running order. It also ended up being Yellowcard's final record for Capitol.
 
-🎬 While making it the band put ten behind the scenes videos on Myspace, and Ryan Key called the record a story of finding yourself again.
+🎬 The whole performance runs as the attached full recording, set as the related video on this Short.
 
-🎛 This is its own short bass take, not a section lifted out of the long form.
+🎸 While making the album the band put ten behind the scenes videos on Myspace, and Ryan Key called the record a story of finding yourself again.
 
 🟢 Ask for a track on Kick: https://kick.com/mavomusic
 🟣 Chat mirrors over on Twitch: https://www.twitch.tv/mavomusic
@@ -5139,9 +5140,10 @@ Fighting came off Yellowcard's last Capitol album #bass
 yellowcard, fighting, paper walls, capitol records, pop punk, alternative rock, emo, peter mosely, 2007, bass cover, bass shorts, bass guitar, rocksmith 2014 remastered, rocksmith bass, mavomusic, mavomusicyt
 ```
 
-## PINNED COMMENT (128 characters)
+## PINNED COMMENT (194 characters)
 
 ```text
+🎬 The whole take is attached below as this Short's related video.
 📀 Quiz: which song was the only single released from Paper Walls?
 A) Light Up the Sky
 B) Fighting

@@ -516,3 +516,5 @@ Correction: User specifically instructed us to retrieve the comments previously 
 
 2026-11-10 Short 2431 Yellowcard - Fighting: description opens on the album's release and its Capitol swansong, then the ten behind the scenes Myspace videos and Ryan Key's line about the record being a story of finding yourself again. The third block says plainly that this is its own short take and not a section lifted from the long form. Pinned comment is a new quiz on the only single from the album, answer kept out of the description.
 
+2026-11-10 SHORT RULE, user correction of the same evening: every Short description carries a block pointing at the attached full recording, and every Short creator comment opens with that pointer, then the quiz or fact. Wording that calls a Short a cut, a trim, a lift, a separate take or a separate recording is now wrong, because one performance is captured horizontally and vertically at the same moment through OBS and Aitum. Short 2431 was fixed under this rule and its cut wording removed, and Short 0467 had the pointer added above its quiz. Recorded in Short_Full_Recording_Rule.md.
+
