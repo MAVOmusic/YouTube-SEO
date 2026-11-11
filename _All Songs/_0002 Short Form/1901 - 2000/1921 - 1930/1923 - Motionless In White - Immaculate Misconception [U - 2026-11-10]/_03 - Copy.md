@@ -5,13 +5,13 @@
 ## TITLE (65 characters)
 
 ```text
-Immaculate Misconception took until 2011 to become a single #bass
+Took until 2011 to become a single: Immaculate Misconception #bass
 ```
 
 ## DESCRIPTION (399 characters)
 
 ```text
-🎸 The song came out on Creatures in 2010, but Immaculate Misconception was not issued as a single until 11 November 2011.
+🎸 Creatures carried this song from 2010, yet the single only arrived on 11 November 2011.
 
 🎥 The complete play-along is on the related video attached to this Short.
 
@@ -29,7 +29,7 @@ motionless in white, immaculate misconception, immaculate misconception bass, cr
 ## PINNED COMMENT (194 characters)
 
 ```text
-🎧 The whole Immaculate Misconception performance is the related video on this Short.
+🎧 Start to finish, the whole performance is the related video on this Short.
 
 🗓️ Trivia: which year did this track come out as a single?
 A) 2010

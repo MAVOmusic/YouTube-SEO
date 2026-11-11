@@ -5,7 +5,7 @@
 ## TITLE (52 characters)
 
 ```text
-Sweetness in a bass snapshot - Jimmy Eat World #bass
+In a bass snapshot: Sweetness by Jimmy Eat World #bass
 ```
 
 ## DESCRIPTION (275 characters)
@@ -33,7 +33,7 @@ jimmy eat world, jimmy eat world sweetness, sweetness, sweetness bass, sweetness
 ## PINNED COMMENT (115 characters)
 
 ```text
-🎚️ Sweetness at full length sits in this Short's related video.
+🎚️ At full length, this performance sits in the Short's related video.
 🎚️ Tim Hope directed the Sweetness music video. Have you seen it?
 ```
 

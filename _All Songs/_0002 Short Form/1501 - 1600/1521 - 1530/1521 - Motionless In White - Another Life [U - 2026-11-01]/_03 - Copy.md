@@ -32,7 +32,8 @@ motionless in white, another life, motionless in white another life, disguise, r
 A creator Super Thanks comment is visible, but its pin state is unknown. The suggested comment is optional; verify the related-video target and any Super Thanks availability in Studio.
 
 ```text
-🎵 Which track from Disguise would you like to hear on bass next? The full performance is in the related video.
+🎵 Hear it complete through the related video attached here.
+Which track from Disguise would you like to hear on bass next?
 ```
 
 ## CORRECT GENRES

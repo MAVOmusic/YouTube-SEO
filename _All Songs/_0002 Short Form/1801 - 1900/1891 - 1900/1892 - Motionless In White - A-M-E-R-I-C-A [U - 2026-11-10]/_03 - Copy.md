@@ -29,7 +29,7 @@ motionless in white, a-m-e-r-i-c-a, america, america motionless in white, motion
 ## PINNED COMMENT (203 characters)
 
 ```text
-🏙️ The whole A-M-E-R-I-C-A performance is the related video on this Short.
+🏙️ Seven letters in full: the whole performance is the related video on this Short.
 
 🎬 Trivia: which Slipknot member directed the A-M-E-R-I-C-A music video?
 A) Corey Taylor

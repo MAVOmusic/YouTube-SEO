@@ -5,7 +5,7 @@ Reviewed 2026-11-08 20:44 GMT. Proposed copy and recommendations; not a Studio e
 ## TITLE (50 characters)
 
 ```text
-A Burzum bass moment from Autumn Leaves #rocksmith
+Burzum in a bass moment from Autumn Leaves #rocksmith
 ```
 
 ## DESCRIPTION (442 characters)

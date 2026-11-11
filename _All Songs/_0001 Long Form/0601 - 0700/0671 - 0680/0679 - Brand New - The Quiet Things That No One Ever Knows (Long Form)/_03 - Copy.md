@@ -27,7 +27,7 @@ brand new, brand new band, the quiet things that no one ever knows, the quiet th
 ## PINNED COMMENT (121 characters)
 
 ```text
-The Quiet Things That No One Ever Knows is track five on Deja Entendu. What song from that album would you queue up next?
+Track five on Deja Entendu is where this one sits. What song from that album would you queue up next?
 ```
 
 ## GENRE FINDINGS (internal)

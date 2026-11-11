@@ -11,7 +11,7 @@ UK number one, and still the big one: Welcome To The Black Parade
 ## DESCRIPTION (589 characters)
 
 ```text
-🇬🇧 The only UK number one My Chemical Romance ever had opens this performance.
+🇬🇧 Only one My Chemical Romance song ever topped the UK chart, and it opens this performance.
 
 📊 In the United States it topped Billboard's Modern Rock list. The all-genre Hot 100 told a different story.
 
