@@ -3,7 +3,7 @@
 ## TITLE (60 characters)
 
 ```text
-Sabaton on bass: The Lion From The North in 36 seconds #bass
+Thirty-six seconds of Swedish metal history: Sabaton #bass
 ```
 
 ## DESCRIPTION (451 characters)
@@ -13,8 +13,9 @@ Sabaton on bass: The Lion From The North in 36 seconds #bass
 
 🎵 This is one moment from a much longer song. Find my full bass performance using the related video below my channel handle.
 
-🟢 Come find the Kick stream through my profile, or visit its Twitch mirror.
-💬 Tell me your favourite Sabaton track on Discord - boosts are appreciated if you choose to give one.
+🟢 Live bass and requests on Kick: https://www.kick.com/mavomusic
+🟣 The same session, other player, on Twitch: https://www.twitch.tv/mavomusic
+💬 Talk music in Discord: https://discord.gg/ESGsGkN4j2
 
 #Sabaton #TheLionFromTheNorth #BassCover
 ```
@@ -25,10 +26,11 @@ Sabaton on bass: The Lion From The North in 36 seconds #bass
 sabaton, the lion from the north, sabaton the lion from the north, lion from the north, the lion from the north bass, sabaton bass cover, carolus rex, rocksmith 2014, rocksmith bass, bass cover, power metal, heavy metal, joakim broden, joakim, par sundstrom, par, sabton, mavomusic
 ```
 
-## OPTIONAL PINNED COMMENT (177 characters)
+## PINNED COMMENT (177 characters)
 
 ```text
-Sabaton have an official The Lion From The North music video from The Great Tour. Have you seen that version? Tap the related video below my handle for my full bass performance.
+🛡️ Under my handle, the related video carries the whole performance.
+🎥 Sabaton have an official music video of this song from The Great Tour. Have you seen that version?
 ```
 
 ## CORRECT GENRES (artist-wide playlist reference)

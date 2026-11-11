@@ -15,8 +15,9 @@ Revisiting Take Me Away with Avril Lavigne on bass #bass
 
 🎸 If this brings back album memories, let me know which track you return to most. For a full bass performance, visit the related video below my channel handle.
 
-🟢 Find my Kick stream and Twitch mirror through my channel profile.
-💬 Join us on Discord to swap Avril favourites; thank you if you decide to boost.
+🟢 Live bass and requests on Kick: https://www.kick.com/mavomusic
+🟣 The same session, other player, on Twitch: https://www.twitch.tv/mavomusic
+💬 Talk music in Discord: https://discord.gg/ESGsGkN4j2
 
 #AvrilLavigne #TakeMeAway #BassCover
 ```
@@ -30,7 +31,8 @@ avril lavigne, avril, avril lavine, take me away, avril lavigne take me away, ta
 ## PINNED COMMENT (154 characters - fallback only)
 
 ```text
-Which song from Under My Skin brings back the strongest memories for you? Find a full Take Me Away bass performance via the related video below my handle.
+🗂️ Find a complete bass performance via the related video below my handle.
+💭 Which song from Under My Skin brings back the strongest memories for you?
 ```
 
 **Preferred pin:** Preserve and, if appropriate, pin @YOUSCA112's genuine Avril comment and MAVO's reply, rather than replacing it with the fallback. Check the current pin first. Pinning an existing viewer comment does not delete its replies. Do not add the fallback if the existing comment is pinned instead.
