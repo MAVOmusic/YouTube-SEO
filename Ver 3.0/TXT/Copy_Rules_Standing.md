@@ -11,6 +11,7 @@ Written after three user corrections in one day. These rules bind every title, d
 5. No plain "Band - Song", no possessive opener ("Band's Song is..."), no "[Song] is [Band]".
 6. Never call a normal long form a play along in the title. Play along is a format label for the dedicated play-along uploads only. The same applies inside long form descriptions: say bass performance or playthrough.
 7. The song title appears once in the title.
+7b. Completeness rule, added 2026-11-11 after Motionless In White Masterpiece was missed: LF 0119 and Shorts 0147 and 1864 had Studio screenshots and upload markers but no _03 - Copy.md, so a builder that only reads copy files silently skipped them. Scope is never defined by which copy files happen to exist. The builder now scans uploaded folders in scope and reports any folder with screenshots or an upload marker but no copy file as a problem. Do not miss songs we have done: every variant of a song in scope goes in the workbook, or the audit fails.
 7a. Same-song rule, added 2026-11-11 after LF 0178, SF 0205 and SF 1923 were caught: one version of a song may start with the song name, but every other version of that same song must not. All variants of a song are compared side by side, and their titles, description first lines and comment first lines must each start with a different word. A starter shared by the whole variant set is a fault even when each individual package looks fine on its own. The workbook builder checks this per song group.
 
 ## Descriptions

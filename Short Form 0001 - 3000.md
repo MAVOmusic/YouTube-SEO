@@ -163,7 +163,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0144 | Pink Floyd - Comfortably Numb | N/A |
 | 0145 | Talking Heads - Burning Down The House | N/A |
 | 0146 | Linkin Park - Breaking The Habit | N/A |
-| 0147 | Motionless In White - Masterpiece | N/A |
+| 0147 | Motionless In White - Masterpiece | A quieter passage, a bigger chorus: Masterpiece #bass |
 | 0148 | Tenacious D - Beelzeboss | N/A |
 | 0149 | Sabaton - Karolinens Bön | N/A |
 | 0150 | Die Antwoord - Enter The Ninja | N/A |
@@ -1965,7 +1965,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1861 | Pink Floyd - Comfortably Numb | N/A |
 | 1862 | 100,000 Subscribers Milestone | N/A |
 | 1863 | Talking Heads - Burning Down The House | N/A |
-| 1864 | Motionless In White - Masterpiece | N/A |
+| 1864 | Motionless In White - Masterpiece | From the 2022 album, a Motionless In White Short: Masterpiece #bass |
 | 1865 | Tenacious D - Beelzeboss | N/A |
 | 1866 | Primus - South Park Theme | N/A |
 | 1867 | Sabaton - Karolinens Bön | N/A |
