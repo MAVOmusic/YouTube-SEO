@@ -457,3 +457,11 @@ Answer below.
 - Short 2433 Linkin Park - Points Of Authority: official singles from Hybrid Theory. A) Four (answer), B) Two, C) Six. Source: https://en.wikipedia.org/wiki/Hybrid_Theory
 - LF 0687 Stone Sour - Zzyzx Rd: desert crossed by the titled road. A) The Mojave Desert (answer), B) The Sonoran Desert, C) The Sahara Desert. Source: https://en.wikipedia.org/wiki/Zzyzx_Rd._(song)
 - Short 2434 Stone Sour - Zzyzx Rd: piano player on the song. A) Rami Jaffee (answer), B) Nick Raskulinecz, C) Dave Grohl. Source: https://en.wikipedia.org/wiki/Zzyzx_Rd._(song)
+
+## Billy Talent - Pins And Needles - LF 0688, Short 2435, Short 0725
+
+**Status:** Prepared 2026-11-11, proposed copy only, not posted. LF 0688 and Short 2435 premiere and publish at 17:00 and 17:05 on 11 November 2026, moved from 16:00. Short 0725 is a replacement package; the @F__749 viewer comment stays pinned and the creator comment is posted beneath it.
+
+- LF 0688: US Billboard 200 peak of Billy Talent II. A) Number 134 (answer), B) Number 1, C) Number 27. Source: https://en.wikipedia.org/wiki/Billy_Talent_II
+- Short 2435: co-producer alongside Gavin Brown. A) Ian D'Sa (answer), B) Ross Robinson, C) Don Gilmore. Source: https://en.wikipedia.org/wiki/Billy_Talent_II
+- Short 0725: Canadian first week sales of Billy Talent II. A) 48,000 (answer), B) 7,231, C) 12,500. Source: https://en.wikipedia.org/wiki/Billy_Talent_II

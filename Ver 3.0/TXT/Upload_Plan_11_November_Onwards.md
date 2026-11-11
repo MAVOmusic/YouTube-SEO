@@ -46,7 +46,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 02:00 | +5 min | 01:00 | Slipknot - No Life | 0685 | 2432 | 0685 | 2432 | Nu metal, Alternative metal, Heavy metal, Groove metal | US East 20:00, US West 17:00 |
 | 05:00 | +5 min | 04:00 | Linkin Park - Points Of Authority | 0686 | 2433 | 0686 | 2433 | Alternative rock, Nu metal, Rap rock, Alternative metal, Electronic rock, Pop rock | US East 23:00, US West 20:00 |
 | 13:30 | +5 min | 12:30 | Stone Sour - Zzyzx Rd | 0687 | 2434 | 0687 | 2434 | Hard rock, Alternative metal, Nu metal, Post-grunge | noon band 12:00-14:00, Japan 21:30 |
-| 16:00 | +5 min | 15:00 | Billy Talent - Pins And Needles | 0688 | 2435 | 0688 | 0725, 2435 | Alternative rock, Punk rock, Post-hardcore, Pop punk, Emo | UK 15:00, Germany 16:00 |
+| 17:00 | +5 min | 16:00 | Billy Talent - Pins And Needles | 0688 | 2435 | 0688 | 0725, 2435 | Alternative rock, Punk rock, Post-hardcore, Pop punk, Emo | UK 16:00, Germany 17:00, moved from 16:00 on the day due to issues; the 19:00 and 23:00 slots are unchanged |
 | 19:00 | +5 min | 18:00 | +44 - Chapter XIII | 0733 | 2480 | 0659, 0733 | 0051, 2480 | Pop punk, Alternative rock, Emo | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Exodus - Toxic Waltz | 0734 | 2481 | 0734 | 2481 | Thrash metal | UK 22:00, US East 17:00 |
 
