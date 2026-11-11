@@ -11,7 +11,7 @@ The quiet closer from Come What(ever) May: Zzyzx Rd #bass
 ## DESCRIPTION
 
 ```text
-🎸 Sight-read on bass in Rocksmith 2014 Remastered, the closing song from Come What(ever) May.
+🎸 The closing song from Come What(ever) May, sight-read on bass in Rocksmith 2014 Remastered.
 
 🎬 Hear the whole of Zzyzx Rd. through the related video attached to this Short.
 
@@ -31,7 +31,7 @@ stone sour, zzyzx rd, come whatever may, corey taylor, jim root, shawn economaki
 ## PINNED COMMENT
 
 ```text
-🔗 The entire performance sits in the related video linked below this Short.
+🦁 The entire performance sits in the related video linked below this Short.
 🎹 Trivia: Rami Jaffee plays the piano all over this one. Does the piano make the song for you, or is it Taylor's vocal?
 ```
 

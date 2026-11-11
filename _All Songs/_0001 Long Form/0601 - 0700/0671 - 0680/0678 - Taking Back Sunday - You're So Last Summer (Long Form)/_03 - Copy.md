@@ -3,7 +3,7 @@
 ## TITLE (57 characters)
 
 ```text
-A bass take on You're So Last Summer | Taking Back Sunday
+Hear You're So Last Summer through the bass | Taking Back Sunday
 ```
 
 ## DESCRIPTION (601 characters)

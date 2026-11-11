@@ -29,7 +29,7 @@ motionless in white, a-m-e-r-i-c-a, america, motionless in white america, americ
 ## PINNED COMMENT (179 characters)
 
 ```text
-🎬 The full A-M-E-R-I-C-A performance is the related video on this Short.
+▶️ The full A-M-E-R-I-C-A performance is the related video on this Short.
 
 💿 Celldweller remixed A-M-E-R-I-C-A for the 2013 deluxe edition of Infamous. Have you heard that version?
 ```

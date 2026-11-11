@@ -15,6 +15,10 @@ Another Life from Disguise - Motionless In White bass clip #bass
 
 🖤 For more of the performance, tap the related video.
 🟢 Catch live music on Kick or the Twitch mirror; both are on my profile along with Discord. Discord boosts are optional and appreciated.
+
+🟢 The live room is on Kick: https://www.kick.com/mavomusic
+🟣 A second screen sits on Twitch: https://www.twitch.tv/mavomusic
+💬 Meet other listeners in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS
@@ -28,7 +32,7 @@ motionless in white, another life, motionless in white another life, disguise, b
 Prefer @Infinity-loop421-i2t's genuine comment praising the song and preserve MAVO's reply. The proposed text is a fallback only. Current pin and exact related-video target are not shown.
 
 ```text
-What keeps you coming back to Another Life? You can find the full performance in the related video.
+💿 What keeps you coming back to Another Life? You can find the full performance in the related video.
 ```
 
 ## CORRECT GENRES

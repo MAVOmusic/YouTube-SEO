@@ -39,7 +39,7 @@ A Mainstream Rock number one from 1983: If I'd Been The One #bass
 > Post this as a new comment by the channel. It sits under the pinned viewer comment and is not pinned in its place. Every video gets a creator fact, quiz or trivia comment whatever else is pinned, and the two year old stream schedule comment already on this Short stays where it is.
 
 ```text
-🎬 If I'd Been The One from start to finish is the related video attached to this Short.
+🎥 If I'd Been The One from start to finish is the related video attached to this Short.
 🎵 Trivia: Twentieth Century Fox sat on the B side of this single. Did you own the 45, or did you meet this song on the album?
 ```
 

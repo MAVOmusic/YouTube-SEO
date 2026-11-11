@@ -11,7 +11,7 @@ Never a single, still a fan favourite: Points Of Authority #bass
 ## DESCRIPTION
 
 ```text
-🎸 Sight-read on bass in Rocksmith 2014 Remastered, track four from Hybrid Theory.
+🎸 Track four from Hybrid Theory, sight-read on bass in Rocksmith 2014 Remastered.
 
 🎬 Points Of Authority in full is waiting under this Short as its related video.
 
@@ -31,7 +31,7 @@ linkin park, points of authority, hybrid theory, pts.of.athrty, chester benningt
 ## PINNED COMMENT
 
 ```text
-▶️ Open the related video on this Short for the complete performance.
+🎤 Open the related video on this Short for the complete performance.
 💡 Did you know Hybrid Theory spawned exactly four official singles, and this track was not one of them? It still became a fan favourite. Does it beat the singles for you?
 ```
 

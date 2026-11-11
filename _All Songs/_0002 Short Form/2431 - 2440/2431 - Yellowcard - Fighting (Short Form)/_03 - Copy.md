@@ -31,7 +31,7 @@ yellowcard, fighting, paper walls, capitol records, pop punk, alternative rock, 
 ## PINNED COMMENT (194 characters)
 
 ```text
-🎥 The whole take is attached below as this Short's related video.
+🗽 The whole take is attached below as this Short's related video.
 💡 Did you know Light Up the Sky was the only single ever released from Paper Walls? This track never got that push. Should it have?
 ```
 

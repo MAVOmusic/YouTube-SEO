@@ -11,7 +11,7 @@ Where Welcome To The Black Parade was recorded #bass
 ## DESCRIPTION (541 characters)
 
 ```text
-🎛 Welcome To The Black Parade was cut at El Dorado Recording Studios in Burbank, with Capitol Studios in Hollywood also listed as a studio.
+🎛 El Dorado Recording Studios in Burbank is where this was cut, with Capitol Studios in Hollywood also listed.
 
 🎚 Rob Cavallo produced it with the band, and all five members share the writing credit.
 
@@ -33,6 +33,7 @@ my chemical romance, welcome to the black parade, black parade, mcr, mikey way, 
 ## PINNED COMMENT (169 characters)
 
 ```text
+🎼 Follow the related video here for the full Black Parade bass performance.
 🏙️ Trivia: which Burbank studio hosted the sessions for this album?
 A) El Dorado Recording Studios
 B) Capitol Studios

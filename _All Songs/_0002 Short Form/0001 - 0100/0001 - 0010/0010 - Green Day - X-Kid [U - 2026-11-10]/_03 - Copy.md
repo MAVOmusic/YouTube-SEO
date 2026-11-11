@@ -29,6 +29,7 @@ green day, x-kid, x kid, green day x kid, x kid green day, tre, entertainment we
 ## PINNED COMMENT (193 characters)
 
 ```text
+🎞️ The longer X-Kid performance is attached to this Short as its related video.
 🗞️ Trivia: which two tracks did Entertainment Weekly place behind this one on Tre?
 A) Brutal Love and Missing You
 B) 99 Revolutions and Drama Queen

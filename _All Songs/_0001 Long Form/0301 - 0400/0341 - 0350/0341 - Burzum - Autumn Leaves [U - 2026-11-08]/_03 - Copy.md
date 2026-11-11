@@ -5,7 +5,7 @@ Reviewed 2026-11-08 20:44 GMT. Proposed copy and recommendations; not a Studio e
 ## TITLE (54 characters)
 
 ```text
-Autumn Leaves on bass | A Burzum Rocksmith performance
+A Burzum Rocksmith performance with Autumn Leaves on bass
 ```
 
 ## DESCRIPTION (516 characters)

@@ -5,7 +5,7 @@
 ## TITLE (68 characters)
 
 ```text
-A-M-E-R-I-C-A, letter by letter, on bass - Motionless In White #bass
+Seven letters spelled out on the bass: A-M-E-R-I-C-A #bass
 ```
 
 ## DESCRIPTION (368 characters)
@@ -29,7 +29,7 @@ motionless in white, a-m-e-r-i-c-a, america, america motionless in white, motion
 ## PINNED COMMENT (203 characters)
 
 ```text
-🎬 The whole A-M-E-R-I-C-A performance is the related video on this Short.
+🏙️ The whole A-M-E-R-I-C-A performance is the related video on this Short.
 
 🎬 Trivia: which Slipknot member directed the A-M-E-R-I-C-A music video?
 A) Corey Taylor

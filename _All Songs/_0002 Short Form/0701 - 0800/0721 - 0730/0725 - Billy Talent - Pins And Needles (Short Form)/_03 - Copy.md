@@ -37,7 +37,7 @@ billy talent, pins and needles, billy talent ii, jonathan gallant, benjamin kowa
 > Post this as a new channel comment under the preserved viewer pin. Every video gets a creator fact, quiz or trivia comment whatever else is pinned.
 
 ```text
-📼 The complete performance is one tap away in the related video attached here.
+🌙 The complete performance is one tap away in the related video attached here.
 🍁 Sales fact: that album sold 48,000 copies in Canada in its first week alone. Were you one of the early buyers, or did you find the band later?
 ```
 

@@ -5,7 +5,7 @@
 ## TITLE (62 characters)
 
 ```text
-Ricky Olson played bass on Creatures: Immaculate Misconception
+Creatures had Ricky Olson holding the low end: Immaculate Misconception
 ```
 
 ## DESCRIPTION (526 characters)

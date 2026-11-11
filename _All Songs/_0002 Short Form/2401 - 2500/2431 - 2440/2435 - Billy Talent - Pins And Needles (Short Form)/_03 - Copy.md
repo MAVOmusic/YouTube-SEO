@@ -11,7 +11,7 @@ MySpace heard the whole album first in 2006: Pins And Needles #bass
 ## DESCRIPTION
 
 ```text
-🎸 Sight-read on bass in Rocksmith 2014 Remastered, taken from Billy Talent II.
+🎸 Taken from Billy Talent II, sight-read on bass in Rocksmith 2014 Remastered.
 
 🎬 The full length performance waits as the related video attached to this clip.
 
@@ -31,7 +31,7 @@ billy talent, pins and needles, billy talent ii, jonathan gallant, ian d'sa, atl
 ## PINNED COMMENT
 
 ```text
-🎞️ Open the related video here to watch the whole song from start to finish.
+⚔️ Watch the whole song from start to finish through the related video here.
 🎚️ Did you know guitarist Ian D'Sa co-produced that record alongside Gavin Brown? You can hear his fingerprints all over the arrangements. Which track proves it best?
 ```
 

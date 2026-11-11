@@ -11,13 +11,17 @@ Sweetness in a bass snapshot - Jimmy Eat World #bass
 ## DESCRIPTION (275 characters)
 
 ```text
-Jimmy Eat World's Sweetness gets a bass spotlight in this clip from my performance.
+A bass spotlight moment from Jimmy Eat World's Sweetness, clipped from my performance.
 
 For the complete track, open the related video beneath my handle.
 
 🟢 Find live bass on Kick and the Twitch mirror. 💬 Tell us your Jimmy Eat World picks on Discord.
 
 #JimmyEatWorld #BassCover
+
+🟢 Live bass and requests on Kick: https://www.kick.com/mavomusic
+🟣 Watch along on Twitch too: https://www.twitch.tv/mavomusic
+💬 Bring a request to Discord: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (185 characters)
@@ -29,7 +33,8 @@ jimmy eat world, jimmy eat world sweetness, sweetness, sweetness bass, sweetness
 ## PINNED COMMENT (115 characters)
 
 ```text
-Tim Hope directed the Sweetness music video. Have you seen it? Open the related video for my full bass performance.
+🎚️ Sweetness at full length sits in this Short's related video.
+🎚️ Tim Hope directed the Sweetness music video. Have you seen it?
 ```
 
 ## GENRE FINDINGS (internal)

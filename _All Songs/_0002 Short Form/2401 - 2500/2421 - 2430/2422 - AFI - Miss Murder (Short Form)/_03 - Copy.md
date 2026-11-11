@@ -18,6 +18,10 @@ The related video beneath my handle takes you to the full performance.
 🟢 Join me on Kick for live bass, or catch the Twitch mirror. 💬 Talk AFI with us on Discord.
 
 #AFI #BassCover
+
+🟢 Stop by the Kick stream live: https://www.kick.com/mavomusic
+🟣 Its mirror is on Twitch: https://www.twitch.tv/mavomusic
+💬 Share your favourites in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (205 characters)
@@ -29,7 +33,8 @@ afi, a fire inside, miss murder, afi miss murder, miss murder bass, miss murder 
 ## PINNED COMMENT (149 characters)
 
 ```text
-Marc Webb directed the long version of the Miss Murder video. What image from it stayed with you? Tap the related video for my full bass performance.
+🎹 Watch Miss Murder in full through the related video attached here.
+🎹 Marc Webb directed the long version of the Miss Murder video. What image from it stayed with you?
 ```
 
 ## GENRE FINDINGS (internal)

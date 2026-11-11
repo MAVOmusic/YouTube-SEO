@@ -5,7 +5,7 @@
 ## TITLE (63 characters)
 
 ```text
-Abigail on bass: Motionless In White and the Salem witch trials
+Salem witch trials behind this Motionless In White song: Abigail
 ```
 
 ## DESCRIPTION (572 characters)

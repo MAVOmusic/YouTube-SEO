@@ -29,7 +29,7 @@ motionless in white, immaculate misconception, immaculate misconception bass, cr
 ## PINNED COMMENT (194 characters)
 
 ```text
-🎬 The whole Immaculate Misconception performance is the related video on this Short.
+🎧 The whole Immaculate Misconception performance is the related video on this Short.
 
 🗓️ Trivia: which year did this track come out as a single?
 A) 2010
