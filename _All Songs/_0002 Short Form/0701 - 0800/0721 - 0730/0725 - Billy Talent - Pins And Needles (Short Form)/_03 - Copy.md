@@ -5,7 +5,7 @@
 ## TITLE
 
 ```text
-Pins And Needles on bass: Jonathan Gallant's part up close #bass
+Up close with Jonathan Gallant's Pins And Needles bassline #bass
 ```
 
 ## DESCRIPTION
@@ -13,7 +13,7 @@ Pins And Needles on bass: Jonathan Gallant's part up close #bass
 ```text
 🎸 Pins And Needles on bass, sight-read in Rocksmith 2014 Remastered, from Billy Talent II.
 
-🎬 For the whole song played on bass, Pins And Needles continues in the related video on this Short.
+🎬 For the whole song played on bass, continue in the related video on this Short.
 
 📀 Billy Talent II was recorded across Vancouver and Toronto, between The Warehouse, The Armoury, Vespa Music and A Room Full Of Stuff.
 
@@ -37,7 +37,7 @@ billy talent, pins and needles, billy talent ii, jonathan gallant, benjamin kowa
 > Post this as a new channel comment under the preserved viewer pin. Every video gets a creator fact, quiz or trivia comment whatever else is pinned.
 
 ```text
-🎬 Pins And Needles in full is one tap away in the related video attached here.
+🎬 The complete performance is one tap away in the related video attached here.
 📀 Quiz: how many copies did Billy Talent II sell in Canada in its first week?
 A) 48,000
 B) 7,231

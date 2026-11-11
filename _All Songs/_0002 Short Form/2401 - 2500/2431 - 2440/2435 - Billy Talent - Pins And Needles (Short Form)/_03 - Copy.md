@@ -5,7 +5,7 @@
 ## TITLE
 
 ```text
-Pins And Needles on bass: Billy Talent II, 2006 #bass
+Billy Talent on bass in 2006, playing Pins And Needles #bass
 ```
 
 ## DESCRIPTION
@@ -13,7 +13,7 @@ Pins And Needles on bass: Billy Talent II, 2006 #bass
 ```text
 🎸 Pins And Needles on bass, sight-read in Rocksmith 2014 Remastered, taken from Billy Talent II.
 
-🎬 Pins And Needles at full length waits as the related video attached to this clip.
+🎬 The full length performance waits as the related video attached to this clip.
 
 📀 Before the album came out, the band put the whole record on their MySpace page on 23 June 2006 for fans to hear early.
 
@@ -31,7 +31,7 @@ billy talent, pins and needles, billy talent ii, jonathan gallant, ian d'sa, atl
 ## PINNED COMMENT
 
 ```text
-🎬 Follow the related video from this Short to watch Pins And Needles played start to finish.
+🎬 Open the related video here to watch the whole song from start to finish.
 📀 Quiz: who co-produced Billy Talent II alongside Gavin Brown?
 A) Ian D'Sa
 B) Ross Robinson

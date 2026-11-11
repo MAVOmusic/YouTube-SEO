@@ -5,7 +5,7 @@
 ## TITLE
 
 ```text
-Pins And Needles on bass: the Billy Talent II deep cut that was never a single
+Bass play along: Pins And Needles, the Billy Talent II deep cut never released as a single
 ```
 
 ## DESCRIPTION
@@ -15,7 +15,7 @@ Pins And Needles on bass: the Billy Talent II deep cut that was never a single
 
 🎛 This is my sight-read bass play along in Rocksmith 2014 Remastered, following Jonathan Gallant's driving part under the dual vocals.
 
-📀 Bassist Jonathan Gallant described the record's themes as trust, the lack of it and breaking up, and Pins And Needles sits right inside that territory without ever being released as a single.
+📀 Bassist Jonathan Gallant described the record's themes as trust, the lack of it and breaking up, and this track sits right inside that territory.
 
 🟢 Drop a Billy Talent request into the Kick stream: https://www.kick.com/mavomusic
 🟣 The Twitch side of the same show is here: https://www.twitch.tv/mavomusic

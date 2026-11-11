@@ -771,7 +771,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0722 | Sum 41 - Over My Head (Better Off Dead) | N/A |
 | 0723 | Rage Against The Machine - Know Your Enemy | N/A |
 | 0724 | Spice Girls - Wannabe | N/A |
-| 0725 | Billy Talent - Pins And Needles | Pins And Needles on bass: Jonathan Gallant's part up close #bass |
+| 0725 | Billy Talent - Pins And Needles | Up close with Jonathan Gallant's Pins And Needles bassline #bass |
 | 0726 | The Fray - How To Save A Life | N/A |
 | 0727 | Joan Jett - Bad Reputation | N/A |
 | 0728 | Billy Talent - Perfect World | N/A |
@@ -2566,7 +2566,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2432 | Slipknot - No Life | No Life on bass: Slipknot debut deep cut #bass |
 | 2433 | Linkin Park - Points Of Authority | Points Of Authority on bass: Hybrid Theory deep cut #bass |
 | 2434 | Stone Sour - Zzyzx Rd | Zzyzx Rd on bass: Stone Sour's desert road song #bass |
-| 2435 | Billy Talent - Pins And Needles | Pins And Needles on bass: Billy Talent II, 2006 #bass |
+| 2435 | Billy Talent - Pins And Needles | Billy Talent on bass in 2006, playing Pins And Needles #bass |
 | 2436 | Finch - Letters To You [reserved] | N/A |
 | 2437 | Jimmy Eat World - Futures [reserved] | N/A |
 | 2438 | New Found Glory - My Friends Over You [reserved] | N/A |
