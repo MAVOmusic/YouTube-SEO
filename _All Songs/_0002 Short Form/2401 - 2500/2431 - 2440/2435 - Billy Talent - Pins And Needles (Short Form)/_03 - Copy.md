@@ -5,7 +5,7 @@
 ## TITLE
 
 ```text
-Billy Talent on bass in 2006, playing Pins And Needles #bass
+MySpace heard the whole album first in 2006: Pins And Needles #bass
 ```
 
 ## DESCRIPTION

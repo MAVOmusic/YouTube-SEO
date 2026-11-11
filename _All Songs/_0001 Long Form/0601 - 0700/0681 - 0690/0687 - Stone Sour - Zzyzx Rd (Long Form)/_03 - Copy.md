@@ -5,7 +5,7 @@
 ## TITLE
 
 ```text
-Zzyzx Rd on bass: Stone Sour's love song named after a desert road
+Stone Sour wrote a love song to a Mojave road: hear Zzyzx Rd on bass
 ```
 
 ## DESCRIPTION

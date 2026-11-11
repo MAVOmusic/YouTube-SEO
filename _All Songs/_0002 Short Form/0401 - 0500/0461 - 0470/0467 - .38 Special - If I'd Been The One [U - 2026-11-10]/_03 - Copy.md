@@ -5,7 +5,7 @@
 ## TITLE (56 characters)
 
 ```text
-If I'd Been The One hit number one for .38 Special #bass
+A Mainstream Rock number one from 1983: If I'd Been The One #bass
 ```
 
 ## DESCRIPTION (460 characters)

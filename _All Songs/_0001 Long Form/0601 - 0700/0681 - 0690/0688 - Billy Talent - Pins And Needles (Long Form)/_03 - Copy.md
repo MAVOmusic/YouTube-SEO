@@ -5,7 +5,7 @@
 ## TITLE
 
 ```text
-Pins And Needles: the Billy Talent II deep cut never released as a single, on bass
+Never released as a single, still essential: Pins And Needles on bass
 ```
 
 ## DESCRIPTION

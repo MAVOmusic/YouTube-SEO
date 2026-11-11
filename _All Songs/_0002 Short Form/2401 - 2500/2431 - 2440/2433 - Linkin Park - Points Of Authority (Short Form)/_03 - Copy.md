@@ -5,7 +5,7 @@
 ## TITLE
 
 ```text
-Points Of Authority on bass: Hybrid Theory deep cut #bass
+Never a single, still a fan favourite: Points Of Authority #bass
 ```
 
 ## DESCRIPTION

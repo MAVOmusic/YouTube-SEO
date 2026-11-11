@@ -5,7 +5,7 @@
 ## TITLE
 
 ```text
-Up close with Jonathan Gallant's Pins And Needles bassline #bass
+With Jonathan Gallant's bassline up close: Pins And Needles #bass
 ```
 
 ## DESCRIPTION

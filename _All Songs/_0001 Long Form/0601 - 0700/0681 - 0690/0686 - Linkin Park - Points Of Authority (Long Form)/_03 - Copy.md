@@ -5,7 +5,7 @@
 ## TITLE
 
 ```text
-Points Of Authority on bass: the Hybrid Theory cut that never became a single
+Heaviest cut on Hybrid Theory, played on bass: Points Of Authority
 ```
 
 ## DESCRIPTION

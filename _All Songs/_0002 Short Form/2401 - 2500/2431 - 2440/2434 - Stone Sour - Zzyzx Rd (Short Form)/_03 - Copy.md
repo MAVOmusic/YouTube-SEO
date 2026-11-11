@@ -5,7 +5,7 @@
 ## TITLE
 
 ```text
-Zzyzx Rd on bass: Stone Sour's desert road song #bass
+The quiet closer from Come What(ever) May: Zzyzx Rd #bass
 ```
 
 ## DESCRIPTION
