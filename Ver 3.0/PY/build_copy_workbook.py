@@ -7,8 +7,16 @@ from openpyxl.utils import get_column_letter
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 OUT = ROOT / "Ver 3.0/TXT/Copy_Workbook_0001_0010_And_New_Uploads.xlsx"
-# User asked for the four pairs created 2026-11-11 (LF 0680-0683, Shorts 2427-2430) at the bottom of the sheet.
-BOTTOM = {("LF",680),("LF",681),("LF",682),("LF",683),("SF",2427),("SF",2428),("SF",2429),("SF",2430)}
+# Workbook order rule (user, 2026-11-11): a song's rows are never split across
+# the sheet. Every newly edited or newly uploaded song moves, as one group, to
+# the bottom of the file, all its long forms first (ascending) then all its
+# Shorts (ascending), older versions included alongside the new ones. Append
+# each new edited/uploaded song to EDITED_GROUPS in delivery order.
+EDITED_GROUPS = ["motionless in white - masterpiece", "paramore - misery business",
+                 "sabaton - the lion from the north", "yellowcard - ocean avenue",
+                 "linkin park - runaway", "avril lavigne - take me away",
+                 "+44 - chapter xiii", "exodus - toxic waltz"]
+CURRENT_PAIRS = {("LF", 733), ("LF", 734), ("SF", 2480), ("SF", 2481)}
 SONGS = ["autumn leaves","another life","masterpiece","abigail","a-m-e-r-i-c-a","immaculate misconception","x-kid","welcome to the black parade","if i'd been the one"]
 
 def block(t, *heads):
@@ -20,11 +28,16 @@ def block(t, *heads):
 def ident_of(name):
     return re.sub(r"\s*\[U - [^\]]+\]\s*$", "", re.sub(r"\s*\((Long|Short) Form\)\s*$", "", name[7:])).strip()
 
+def song_key(ident):
+    # Same song under variant artist spellings counts as one song:
+    # "+44 (Plus 44) - Chapter XIII" and "+44 - Chapter XIII" are one group.
+    return ident.lower().replace("+44 (plus 44)", "+44")
+
 def in_scope_flags(fmt, num, name):
     m = re.search(r"U - (2026-11-\d\d)", name)
     new = bool(m and m.group(1) >= "2026-11-06")
     recent = (fmt == "LF" and 673 <= num <= 688) or (fmt == "SF" and (2420 <= num <= 2435 or num in (467, 725)))
-    return new or recent or (fmt == "LF" and num <= 10)
+    return new or recent or (fmt, num) in CURRENT_PAIRS or (fmt == "LF" and num <= 10)
 
 def collect():
     # Two passes. Pass one decides which songs are in scope (LF 0001-0010,
@@ -37,17 +50,21 @@ def collect():
         for p in root.rglob("_03 - Copy.md"):
             name = p.parent.name; num = int(name[:4])
             found.append((fmt, num, name, p))
-    songs = {ident_of(name).lower() for fmt, num, name, p in found if in_scope_flags(fmt, num, name)}
+    songs = {song_key(ident_of(name)) for fmt, num, name, p in found if in_scope_flags(fmt, num, name)}
     rows = []
     for fmt, num, name, p in found:
         ident = ident_of(name)
-        if ident.lower() not in songs: continue
+        if song_key(ident) not in songs: continue
         t = p.read_text(encoding="utf-8", errors="ignore")
         pin = block(t, "CREATOR COMMENT TO POST", "PINNED COMMENT", "CREATOR COMMENT")
         rows.append({"band": f"{fmt} {num:04} | {ident}", "fmt": fmt, "num": num,
                      "title": block(t, "TITLE"), "desc": block(t, "DESCRIPTION"), "pin": pin, "path": str(p)})
     rows = sorted({r["path"]: r for r in rows}.values(), key=lambda r: (r["band"].split("| ",1)[-1].lower(), r["fmt"], r["num"]))
-    return [r for r in rows if (r["fmt"], r["num"]) not in BOTTOM] + [r for r in rows if (r["fmt"], r["num"]) in BOTTOM]
+    bottom = []
+    for g in EDITED_GROUPS:
+        grows = [r for r in rows if song_key(r["band"].split("| ", 1)[-1]) == g]
+        bottom += sorted(grows, key=lambda r: (r["fmt"] != "LF", r["num"]))
+    return [r for r in rows if r not in bottom] + bottom
 
 def first3(s):
     return " ".join(re.sub(r"[^a-z0-9 ]", " ", s.lower()).split()[:3])
@@ -62,13 +79,13 @@ def missing_copy():
         for p in root.rglob("_03 - Copy.md"):
             fmt = "LF" if "_0001 Long Form" in str(p) else "SF"
             name = p.parent.name
-            if in_scope_flags(fmt, int(name[:4]), name): songs.add(ident_of(name).lower())
+            if in_scope_flags(fmt, int(name[:4]), name): songs.add(song_key(ident_of(name)))
     for root in (ROOT/"_All Songs/_0001 Long Form", ROOT/"_All Songs/_0002 Short Form"):
         for folder in root.rglob("*"):
             if not folder.is_dir() or not re.match(r"\d{4} - ", folder.name): continue
             m = re.search(r"U - (2026-11-\d\d)", folder.name)
             uploaded = bool(m and m.group(1) >= "2026-11-06") or (folder/"_01 - Main Info").exists()
-            variant = ident_of(folder.name).lower() in songs or any(s in folder.name.lower() for s in SONGS)
+            variant = song_key(ident_of(folder.name)) in songs or any(s in folder.name.lower() for s in SONGS)
             if uploaded and variant and not (folder/"_03 - Copy.md").exists():
                 errs.append(f"Missing copy file: {folder.name}")
     return errs

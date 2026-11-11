@@ -1,3 +1,5 @@
+> **Restart note 11 November 2026:** uploads paused after four pairs on 11 November. The queue restarts at 02:00 on 12 November with +44 - Chapter XIII (LF 0733 / Short 2480), then Exodus - Toxic Waltz (LF 0734 / Short 2481) at 05:00, and every following upload pushed into the following slots in the same order, in `Upload_Plan_11_November_Onwards.md`.
+
 # Upload plan, 10 to 25 November 2026
 
 > **Superseded 10 November 2026:** the dates in this file are historical. The active day-by-day plan, starting 11 November at 02:00 and running until the queue is empty, is `Upload_Plan_11_November_Onwards.md`. The six-window reasoning here still holds and is expanded in `Upload_Time_Reasoning.md`.
