@@ -376,7 +376,7 @@ Counts are uploads, not bands, so one band appears once per list it qualifies fo
 
 34 of the 100 artists have no matching playlist in Studio today and would land in All Genres only: Aephanemer, America, Amon Amarth, BABYMETAL, Ben E. King, Bobby Boris Pickett and the Crypt-Kickers, Bow Wow Wow, Bummrraa, Cannibal Corpse, D12, Demilich, Dire Straits, Dr. Dre, Dream Theater, Exodus, I-dle, Manowar, Michael Jackson, Pendulum, Pink Floyd, Primus, Rage Against The Machine, Ray Parker Jr., Rogue Protocol, Rogue X Stonebank, Sabaton, Serj Tankian, Snoop Dogg and Wiz Khalifa, Stevie Wonder, T. Rex, The Mamas and The Papas, Tool, Vargskelethor, Weather Report.
 
-The fix is already written up. The 59 genres these artists and the rest of the plan use, without a playlist, are listed in `Genre_Playlists_To_Create.md` and `.xlsx` as 118 playlists, one long form and one Shorts each, with titles and descriptions ready to paste.
+The fix is already written up. The 59 genres these artists and the rest of the plan use, without a playlist, are the first batch in `Genre_Playlists_To_Create.md` and `.xlsx`: 118 playlists, one long form and one Shorts each, with titles and descriptions ready to paste. A second batch of 378 more playlists sits below them in the same files, read from the channel's old playlist list.
 
 The Long Form and the Short take the same genre set, except that a dedicated play-along long form stays in the Play Along list only. No pair in this plan is a dedicated play-along, so every one of them routes to both formats of its genre lists plus All Genres.
 
@@ -384,4 +384,4 @@ The Long Form and the Short take the same genre set, except that a dedicated pla
 
 - `Upload_Plan_11_November_Onwards.md` is this file.
 - `Upload_Plan_11_November_Onwards.xlsx` is the same list as a workbook with three sheets: Schedule, Duplicates and Summary.
-- `Genre_Playlists_To_Create.md` and `.xlsx` hold the 118 genre playlists still to be built, with paste ready titles and descriptions.
+- `Genre_Playlists_To_Create.md` and `.xlsx` hold all 496 genre playlists still to be built, in two batches, with paste ready titles and descriptions.
