@@ -15,36 +15,57 @@ def block(t, *heads):
         if m: return m.group(1).strip()
     return ""
 
+def ident_of(name):
+    return re.sub(r"\s*\[U - [^\]]+\]\s*$", "", re.sub(r"\s*\((Long|Short) Form\)\s*$", "", name[7:])).strip()
+
+def in_scope_flags(fmt, num, name):
+    m = re.search(r"U - (2026-11-\d\d)", name)
+    new = bool(m and m.group(1) >= "2026-11-06")
+    recent = (fmt == "LF" and 673 <= num <= 688) or (fmt == "SF" and (2420 <= num <= 2435 or num in (467, 725)))
+    return new or recent or (fmt == "LF" and num <= 10)
+
 def collect():
-    rows = []
+    # Two passes. Pass one decides which songs are in scope (LF 0001-0010,
+    # uploads from 6 Nov 2026, and the recent batches). Pass two then takes
+    # EVERY version of those songs, whenever it was uploaded. Scope by song,
+    # never by which individual files happen to match: older variants of an
+    # in-scope song were silently missed before this (rule 7c).
+    found = []
     for fmt, root in [("LF", ROOT/"_All Songs/_0001 Long Form"), ("SF", ROOT/"_All Songs/_0002 Short Form")]:
         for p in root.rglob("_03 - Copy.md"):
             name = p.parent.name; num = int(name[:4])
-            m = re.search(r"U - (2026-11-\d\d)", name)
-            new = bool(m and m.group(1) >= "2026-11-06")
-            variant = any(s in name.lower() for s in SONGS)
-            recent = (fmt == "LF" and 673 <= num <= 688) or (fmt == "SF" and (2420 <= num <= 2435 or num in (467, 725)))
-            if not (new or variant or recent or (fmt == "LF" and num <= 10)): continue
-            t = p.read_text(encoding="utf-8", errors="ignore")
-            ident = re.sub(r"\s*\[U - [^\]]+\]\s*$", "", re.sub(r"\s*\((Long|Short) Form\)\s*$", "", name[7:])).strip()
-            pin = block(t, "CREATOR COMMENT TO POST", "PINNED COMMENT", "CREATOR COMMENT")
-            rows.append({"band": f"{fmt} {num:04} | {ident}", "fmt": fmt, "num": num,
-                         "title": block(t, "TITLE"), "desc": block(t, "DESCRIPTION"), "pin": pin, "path": str(p)})
+            found.append((fmt, num, name, p))
+    songs = {ident_of(name).lower() for fmt, num, name, p in found if in_scope_flags(fmt, num, name)}
+    rows = []
+    for fmt, num, name, p in found:
+        ident = ident_of(name)
+        if ident.lower() not in songs: continue
+        t = p.read_text(encoding="utf-8", errors="ignore")
+        pin = block(t, "CREATOR COMMENT TO POST", "PINNED COMMENT", "CREATOR COMMENT")
+        rows.append({"band": f"{fmt} {num:04} | {ident}", "fmt": fmt, "num": num,
+                     "title": block(t, "TITLE"), "desc": block(t, "DESCRIPTION"), "pin": pin, "path": str(p)})
     return sorted({r["path"]: r for r in rows}.values(), key=lambda r: (r["band"].split("| ",1)[-1].lower(), r["fmt"], r["num"]))
 
 def first3(s):
     return " ".join(re.sub(r"[^a-z0-9 ]", " ", s.lower()).split()[:3])
 
 def missing_copy():
-    # Completeness guard: an uploaded folder in scope with screenshots or a
-    # [U - date] marker but no _03 - Copy.md is a problem, not a silent miss.
+    # Completeness guard: an uploaded folder for an in-scope song with
+    # screenshots or a [U - date] marker but no _03 - Copy.md is a problem,
+    # not a silent miss (rules 7b and 7c).
     errs = []
+    songs = set()
+    for root in (ROOT/"_All Songs/_0001 Long Form", ROOT/"_All Songs/_0002 Short Form"):
+        for p in root.rglob("_03 - Copy.md"):
+            fmt = "LF" if "_0001 Long Form" in str(p) else "SF"
+            name = p.parent.name
+            if in_scope_flags(fmt, int(name[:4]), name): songs.add(ident_of(name).lower())
     for root in (ROOT/"_All Songs/_0001 Long Form", ROOT/"_All Songs/_0002 Short Form"):
         for folder in root.rglob("*"):
             if not folder.is_dir() or not re.match(r"\d{4} - ", folder.name): continue
             m = re.search(r"U - (2026-11-\d\d)", folder.name)
             uploaded = bool(m and m.group(1) >= "2026-11-06") or (folder/"_01 - Main Info").exists()
-            variant = any(s in folder.name.lower() for s in SONGS)
+            variant = ident_of(folder.name).lower() in songs or any(s in folder.name.lower() for s in SONGS)
             if uploaded and variant and not (folder/"_03 - Copy.md").exists():
                 errs.append(f"Missing copy file: {folder.name}")
     return errs
