@@ -2611,8 +2611,8 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2477 | Bobby Boris Pickett & The Crypt-Kickers - Monster Mash [reserved] | N/A |
 | 2478 | Ray Parker Jr. - Ghostbusters [reserved] | N/A |
 | 2479 | The Misfits - Halloween [reserved] | N/A |
-| 2480 | +44 - Chapter XIII | N/A |
-| 2481 | Exodus - Toxic Waltz | N/A |
+| 2480 | +44 - Chapter XIII | The album closer, up close: Chapter XIII #bass |
+| 2481 | Exodus - Toxic Waltz | Mosh pit rules, Exodus style: Toxic Waltz #bass |
 | 2482 | Pink Floyd - Money | N/A |
 | 2483 | Green Day - Holiday | N/A |
 | 2484 | Dire Straits - Romeo & Juliet | N/A |
