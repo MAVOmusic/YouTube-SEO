@@ -50,3 +50,9 @@ Two Shorts were reviewed under this rule the day it was written:
 | 2431, Yellowcard - Fighting | Added this pass | Added this pass | Removed this pass: the description had said it was its own short take and not a section of the long form |
 
 The rest of the Short packages predate this rule and are not audited here. Each one needs checking against it before it is used again.
+
+## 4. The pointer wording is never reused
+
+Correction 2026-11-11: the pointer is required on every Short, but the sentence that carries it must be written fresh for that video, in the description and again, differently, at the top of the pin. Reusing one pointer sentence across a batch is the same repetition fault as a reused title or CTA line. Naming the song in the pointer is the easiest way to keep it unique.
+
+Audit the same day: 75 related video pointer lines across every Short `_03 - Copy.md` were extracted and compared. Two wordings were duplicated. "The full recording is attached below as the related video on this Short." appeared in Shorts 0467, 2432, 2433 and 2434. "The full recording is attached below as this Short's related video." appeared in Shorts 2432, 2433 and 2434. All seven instances were rewritten per song, and the audit now returns 75 unique lines and zero duplicates. The matching entries in `Historical_Quiz_Questions_And_Answers.md` and `_All Songs/Copy Blacklist.md` were updated to the corrected 0467 wording.

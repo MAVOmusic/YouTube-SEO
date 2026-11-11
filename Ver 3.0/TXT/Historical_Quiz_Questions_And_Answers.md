@@ -384,7 +384,7 @@ Answer below.
 **Status:** proposed 2026-11-10, not confirmed posted or pinned. A viewer comment from `@ericdehart4332` is pinned and stays pinned, so this comment is posted beneath it.
 
 ```text
-🎬 The full recording is attached below as the related video on this Short.
+🎬 If I'd Been The One from start to finish is the related video attached to this Short.
 📀 Quiz: which Tour de Force track sat on the B side of this single?
 A) Twentieth Century Fox
 B) Back Where You Belong

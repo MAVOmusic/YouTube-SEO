@@ -13,7 +13,7 @@ Zzyzx Rd on bass: Stone Sour's desert road song #bass
 ```text
 🎸 Zzyzx Rd. on bass, sight-read in Rocksmith 2014 Remastered, the closing song from Come What(ever) May.
 
-🎬 The full recording is attached below as the related video on this Short.
+🎬 Hear the whole of Zzyzx Rd. through the related video attached to this Short.
 
 📀 It was released to radio only as a two track promotional single in 2007, the fifth single taken from that album.
 
@@ -31,7 +31,7 @@ stone sour, zzyzx rd, come whatever may, corey taylor, jim root, shawn economaki
 ## PINNED COMMENT
 
 ```text
-🎬 The full recording is attached below as this Short's related video.
+🎬 The entire Zzyzx Rd. performance sits in the related video linked below this Short.
 📀 Quiz: who plays piano on Zzyzx Rd.?
 A) Rami Jaffee
 B) Nick Raskulinecz

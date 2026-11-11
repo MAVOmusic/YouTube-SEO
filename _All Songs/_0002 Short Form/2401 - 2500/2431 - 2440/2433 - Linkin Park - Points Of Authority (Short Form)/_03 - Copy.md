@@ -13,7 +13,7 @@ Points Of Authority on bass: Hybrid Theory deep cut #bass
 ```text
 🎸 Points Of Authority on bass, sight-read in Rocksmith 2014 Remastered, track four from Hybrid Theory.
 
-🎬 The full recording is attached below as the related video on this Short.
+🎬 Points Of Authority in full is waiting under this Short as its related video.
 
 📀 Hybrid Theory peaked at number two on the Billboard 200 in the United States and went on to sell 32 million copies worldwide.
 
@@ -31,7 +31,7 @@ linkin park, points of authority, hybrid theory, pts.of.athrty, chester benningt
 ## PINNED COMMENT
 
 ```text
-🎬 The full recording is attached below as this Short's related video.
+🎬 Open the related video on this Short for the complete Points Of Authority performance.
 📀 Quiz: how many official singles were released from Hybrid Theory?
 A) Four
 B) Two

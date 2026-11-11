@@ -13,7 +13,7 @@ No Life on bass: Slipknot debut deep cut #bass
 ```text
 🎸 No Life on bass, sight-read in Rocksmith 2014 Remastered from Slipknot's 1999 self titled debut.
 
-🎬 The full recording is attached below as the related video on this Short.
+🎬 Want the complete No Life performance? It is linked from this Short as the related video.
 
 📀 The band left Des Moines, Iowa to record that debut, and it went on to become their best selling record.
 
@@ -31,7 +31,7 @@ slipknot, no life, slipknot album, corey taylor, paul gray, nu metal, alternativ
 ## PINNED COMMENT
 
 ```text
-🎬 The full recording is attached below as this Short's related video.
+🎬 The complete No Life performance is the related video linked from this Short.
 🎸 Quiz: where did Slipknot's debut peak on the Billboard 200?
 A) Number 51
 B) Number 2
