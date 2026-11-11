@@ -11,7 +11,7 @@ The heartbreak of Another Life - Motionless In White on Rocksmith bass
 ## DESCRIPTION
 
 ```text
-🖤 Another Life comes from Motionless In White and their 2019 album Disguise. Here is another bass performance with the Rocksmith overlay.
+🖤 From Motionless In White's 2019 album Disguise, this heartbreak song comes back on bass. Here is another bass performance with the Rocksmith overlay.
 
 🎶 This song has an emotional pull that keeps bringing me back. What does it mean to you?
 

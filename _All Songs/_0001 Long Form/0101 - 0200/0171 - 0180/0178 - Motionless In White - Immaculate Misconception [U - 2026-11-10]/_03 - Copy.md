@@ -5,13 +5,13 @@
 ## TITLE (67 characters)
 
 ```text
-Immaculate Misconception and the Dee Snider cameo in its 2011 video
+A Dee Snider cameo hides in the 2011 video: Immaculate Misconception
 ```
 
 ## DESCRIPTION (516 characters)
 
 ```text
-🎥 The Immaculate Misconception video landed in November 2011 with a Dee Snider cameo, and his son Cody directed it.
+🎥 November 2011 brought the video, a Dee Snider cameo and his son Cody behind the camera.
 
 💿 The song itself opens Creatures, the debut album from 2010 that put Motionless In White on the map.
 

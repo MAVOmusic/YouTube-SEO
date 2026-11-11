@@ -5,7 +5,7 @@ Reviewed 2026-11-01 UK. Exact review time unavailable: the workspace clock date 
 ## TITLE
 
 ```text
-Another Life from Disguise - Motionless In White bass clip #bass
+From Disguise, a Motionless In White bass clip: Another Life #bass
 ```
 
 ## DESCRIPTION
@@ -32,7 +32,8 @@ motionless in white, another life, motionless in white another life, disguise, b
 Prefer @Infinity-loop421-i2t's genuine comment praising the song and preserve MAVO's reply. The proposed text is a fallback only. Current pin and exact related-video target are not shown.
 
 ```text
-💿 What keeps you coming back to Another Life? You can find the full performance in the related video.
+💿 Carrying the whole performance start to finish: this Short's related video.
+What keeps you coming back to Another Life?
 ```
 
 ## CORRECT GENRES

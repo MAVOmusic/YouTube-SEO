@@ -5,15 +5,15 @@
 ## TITLE (59 characters)
 
 ```text
-Immaculate Misconception was cut in Ocala in May 2010 #bass
+Cut in Ocala in May 2010: Immaculate Misconception #bass
 ```
 
 ## DESCRIPTION (430 characters)
 
 ```text
-🎸 Immaculate Misconception opens Creatures, tracked in May 2010 at Wade Studios in Ocala, Florida with Andrew Wade producing.
+🎸 May 2010 at Wade Studios in Ocala, Florida is where this Creatures opener was tracked, with Andrew Wade producing.
 
-🎬 The full play-along is the related video on this Short if 34 seconds is not enough.
+🎬 The complete performance is the related video on this Short if 34 seconds is not enough.
 
 🟢 Join a live request night on Kick: https://kick.com/mavomusic
 🟣 The Twitch stream mirrors the show: https://www.twitch.tv/mavomusic
@@ -29,7 +29,7 @@ motionless in white, immaculate misconception, immaculate misconception bass, cr
 ## PINNED COMMENT (213 characters)
 
 ```text
-🔗 The full Immaculate Misconception performance is the related video on this Short.
+🔗 Hear every note of this one through the related video on this Short.
 
 🎛 Creatures was recorded at Wade Studios in Ocala, Florida with Andrew Wade producing. Does the 2010 sound still hold up for you?
 ```

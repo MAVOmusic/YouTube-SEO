@@ -11,7 +11,7 @@ The quiet closer from Come What(ever) May: Zzyzx Rd #bass
 ## DESCRIPTION
 
 ```text
-🎸 The closing song from Come What(ever) May, sight-read on bass in Rocksmith 2014 Remastered.
+🎸 Closing Come What(ever) May, this quiet one is sight-read on bass in Rocksmith 2014 Remastered.
 
 🎬 Hear the whole of Zzyzx Rd. through the related video attached to this Short.
 

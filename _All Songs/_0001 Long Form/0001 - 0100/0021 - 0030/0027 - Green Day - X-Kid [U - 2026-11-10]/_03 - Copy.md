@@ -11,7 +11,7 @@ Three Billboard charts for X-Kid, a Green Day trilogy single
 ## DESCRIPTION (586 characters)
 
 ```text
-🎸 X-Kid made three Billboard lists in 2013: Canada Rock at 38, Hot Rock and Alternative Songs at 48, and Rock and Alternative Airplay at 36.
+🎸 Three Billboard lists took this song in 2013: Canada Rock at 38, Hot Rock and Alternative Songs at 48, and Rock and Alternative Airplay at 36.
 
 🎬 The A.V. Club heard the opening as a blend of Who Wrote Holden Caulfield? and One Of My Lies, both from Kerplunk.
 

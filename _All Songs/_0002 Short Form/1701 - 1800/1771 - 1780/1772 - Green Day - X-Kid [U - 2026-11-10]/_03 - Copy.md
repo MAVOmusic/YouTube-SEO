@@ -11,7 +11,7 @@ X-Kid on the Green Day album that shipped early #bass
 ## DESCRIPTION (365 characters)
 
 ```text
-🎸 Tre was first announced for January 2013, then pulled forward to 11 December 2012 once that stretch of the tour came off.
+🎸 January 2013 was the first announced date for this album, then it was pulled forward to 11 December 2012 once that stretch of the tour came off.
 
 🎬 The whole X-Kid take sits in the related video.
 
@@ -29,7 +29,7 @@ green day, x-kid, x kid, green day x kid, tre, 2012, release date, pop punk, pow
 ## PINNED COMMENT (126 characters)
 
 ```text
-🗞️ The whole song waits in the related video attached to this Short.
+🗞️ Waiting in the related video attached to this Short: the whole song.
 💿 Trivia: which track replaced Stray Heart on later pressings of the album?
 A) Drama Queen
 B) Walk Away

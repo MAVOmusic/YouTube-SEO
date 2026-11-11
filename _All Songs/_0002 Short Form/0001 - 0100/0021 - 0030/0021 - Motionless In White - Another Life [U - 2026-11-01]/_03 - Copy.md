@@ -32,7 +32,8 @@ motionless in white, another life, motionless in white another life, disguise, b
 Prefer the genuine @loafofbeans8291 comment about loving MIW and keep MAVO's reply. The text below is only a fallback; current pin is unknown. Check the related video target in Studio before referring to it.
 
 ```text
-🎬 What first got you into Motionless In White? The full bass performance is in the related video.
+🎬 Full length, this performance lives in the related video on this Short.
+What first got you into Motionless In White?
 ```
 
 ## CORRECT GENRES

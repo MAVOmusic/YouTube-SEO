@@ -5,7 +5,7 @@
 ## TITLE (52 characters)
 
 ```text
-X-Kid sits on the record that puns on Tre Cool #bass
+Sits on the record that puns on Tre Cool: X-Kid #bass
 ```
 
 ## DESCRIPTION (384 characters)

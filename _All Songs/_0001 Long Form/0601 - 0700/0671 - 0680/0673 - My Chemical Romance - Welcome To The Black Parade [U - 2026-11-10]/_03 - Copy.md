@@ -11,7 +11,7 @@ Hall of Fame rock, played on MCR bass: Welcome To The Black Parade
 ## DESCRIPTION (546 characters)
 
 ```text
-🏛 The Rock and Roll Hall of Fame lists Welcome To The Black Parade among the songs that shaped rock and roll.
+🏛 Rock and Roll Hall of Fame recognition sits behind this one, listed among the songs that shaped rock and roll.
 
 📈 Rolling Stone placed it 96th on its 2025 rundown of the best songs of the twenty first century.
 

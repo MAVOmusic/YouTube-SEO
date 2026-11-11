@@ -226,7 +226,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0202 | Linkin Park - Crawling | N/A |
 | 0203 | System Of A Down - A.T.W.A. | N/A |
 | 0204 | 10 Years - Telescreen (Vampires Early Demo) | N/A |
-| 0205 | Motionless In White - Immaculate Misconception | Immaculate Misconception was cut in Ocala in May 2010 #bass |
+| 0205 | Motionless In White - Immaculate Misconception | Cut in Ocala in May 2010: Immaculate Misconception #bass |
 | 0206 | Sabaton - 1648 (Swedish) | N/A |
 | 0207 | 10 Years - Through The Iris | N/A |
 | 0208 | Attack! Attack! - Smokahontas | N/A |
@@ -1610,7 +1610,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1521 | Motionless In White - Another Life | Revisiting Another Life with Motionless In White #rocksmith |
 | 1522 | Sabaton Feat. Apocalyptica - Angels Calling | N/A |
 | 1523 | Pendulum - Another Planet | N/A |
-| 1524 | Green Day - X-Kid | X-Kid sits on the record that puns on Tre Cool #bass |
+| 1524 | Green Day - X-Kid | Sits on the record that puns on Tre Cool: X-Kid #bass |
 | 1525 | Black Sabbath - N.I.B. | N/A |
 | 1526 | System Of A Down - Hypnotize | N/A |
 | 1527 | T.A.T.U. - All The Things She Said | N/A |
@@ -1874,7 +1874,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1775 | Pendulum - Tarantula | N/A |
 | 1776 | All Time Low - Dear Maria, Count Me In | N/A |
 | 1777 | System Of A Down - Roulette | N/A |
-| 1778 | Motionless In White - Another Life | Another Life from Disguise - Motionless In White bass clip #bass |
+| 1778 | Motionless In White - Another Life | From Disguise, a Motionless In White bass clip: Another Life #bass |
 | 1779 | Sabaton - Steel Commanders | N/A |
 | 1780 | Billy Talent - Red Flag | N/A |
 | 1781 | Sabaton - Man Of War | N/A |
@@ -2029,7 +2029,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1920 | Kansas - Carry On Wayward Son | N/A |
 | 1921 | Linkin Park - Crawling | N/A |
 | 1922 | System Of A Down - A.T.W.A. | N/A |
-| 1923 | Motionless In White - Immaculate Misconception | Immaculate Misconception took until 2011 to become a single #bass |
+| 1923 | Motionless In White - Immaculate Misconception | Took until 2011 to become a single: Immaculate Misconception #bass |
 | 1924 | Sabaton - 1648 (Swedish) | N/A |
 | 1925 | 10 Years - Through The Iris | N/A |
 | 1926 | Attack Attack! - Smokahontas | N/A |
@@ -2198,7 +2198,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2084 | American Hi-Fi - Flavor Of The Weak | N/A |
 | 2085 | Apocalyptica - I Don't Care | N/A |
 | 2086 | Asking Alexandria - Not An American Average | N/A |
-| 2087 | Burzum - Autumn Leaves | A Burzum bass moment from Autumn Leaves #rocksmith |
+| 2087 | Burzum - Autumn Leaves | Burzum in a bass moment from Autumn Leaves #rocksmith |
 | 2088 | Evanescence - Bring Me To Life | N/A |
 | 2089 | Gorillaz - Clint Eastwood | N/A |
 | 2090 | Iron Maiden - 2 Minutes To Midnight | N/A |
@@ -2554,7 +2554,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2420 | My Chemical Romance - Welcome To The Black Parade | Nearly was not the first single: Welcome To The Black Parade |
 | 2421 | Paramore - Misery Business | Misery Business hits the bass strings \| Paramore #bass |
 | 2422 | AFI - Miss Murder | That Miss Murder bass drive - AFI #bass |
-| 2423 | Jimmy Eat World - Sweetness [reserved] | Sweetness in a bass snapshot - Jimmy Eat World #bass |
+| 2423 | Jimmy Eat World - Sweetness [reserved] | In a bass snapshot: Sweetness by Jimmy Eat World #bass |
 | 2424 | Alkaline Trio - Private Eye [reserved] | Alkaline Trio bass focus: Private Eye #bass |
 | 2425 | Taking Back Sunday - You're So Last Summer [reserved] | Taking Back Sunday through the bass: You're So Last Summer #bass |
 | 2426 | Brand New - The Quiet Things That No One Ever Knows [reserved] | Brand New bass moment - The Quiet Things That No One Ever Knows #bass |

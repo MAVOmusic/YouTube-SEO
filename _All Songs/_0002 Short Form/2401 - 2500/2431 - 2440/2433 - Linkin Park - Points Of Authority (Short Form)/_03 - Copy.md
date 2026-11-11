@@ -11,7 +11,7 @@ Never a single, still a fan favourite: Points Of Authority #bass
 ## DESCRIPTION
 
 ```text
-🎸 Track four from Hybrid Theory, sight-read on bass in Rocksmith 2014 Remastered.
+🎸 From Hybrid Theory's fourth slot, sight-read on bass in Rocksmith 2014 Remastered.
 
 🎬 Points Of Authority in full is waiting under this Short as its related video.
 

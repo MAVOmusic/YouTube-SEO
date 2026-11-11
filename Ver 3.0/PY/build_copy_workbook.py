@@ -44,6 +44,21 @@ def audit(rows):
             if k and k in seen: errs.append(f"{label} starter repeated: '{k}' in {r['band']} and {seen[k]}")
             seen.setdefault(k, r["band"])
     dup("title", "Title"); dup("desc", "Description"); dup("pin", "Comment")
+    # Same-song rule 7a: variants of one song must not share a first word
+    groups = {}
+    for r in rows:
+        ident = r["band"].split("| ", 1)[-1].lower()
+        groups.setdefault(ident, []).append(r)
+    for ident, grows in groups.items():
+        if len(grows) < 2: continue
+        for key in ("title", "desc", "pin"):
+            seen = {}
+            for r in grows:
+                w = re.sub(r"[^a-z0-9 ]", " ", r[key].lower()).split()
+                first = w[0] if w else ""
+                if first and first in seen:
+                    errs.append(f"Same-song starter shared: '{first}' opens the {key} of {r['band']} and {seen[first]}")
+                seen.setdefault(first, r["band"])
     emojis = {}
     for r in rows:
         if not r["title"]: errs.append(f"{r['band']}: missing title")
