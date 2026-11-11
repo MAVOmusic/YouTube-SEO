@@ -18,6 +18,10 @@ Want the whole track? Open the related video beneath my handle.
 🟢 Catch live bass on Kick, with Twitch as the mirror. 💬 Share your favourite Riot! tracks on Discord.
 
 #Paramore #BassCover
+
+🟢 Live playing and requests on Kick: https://www.kick.com/mavomusic
+🟣 Same session, other player on Twitch: https://www.twitch.tv/mavomusic
+💬 Send requests through Discord: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (195 characters)
@@ -29,7 +33,8 @@ paramore, misery business, paramore misery business, misery business bass, miser
 ## PINNED COMMENT (178 characters)
 
 ```text
-Rocksmith 2014 Paramore Song Pack II also includes Ignorance and Rose-Colored Boy. Which one would you choose? The related video takes you to my full Misery Business performance.
+🌵 The full Misery Business performance waits in the related video on this Short.
+🌵 Rocksmith 2014 Paramore Song Pack II also includes Ignorance and Rose-Colored Boy. Which one would you choose?
 ```
 
 ## GENRE FINDINGS (internal)

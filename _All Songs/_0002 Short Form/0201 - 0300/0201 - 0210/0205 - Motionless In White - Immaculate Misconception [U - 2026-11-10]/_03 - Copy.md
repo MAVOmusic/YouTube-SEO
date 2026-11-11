@@ -29,7 +29,7 @@ motionless in white, immaculate misconception, immaculate misconception bass, cr
 ## PINNED COMMENT (213 characters)
 
 ```text
-🎬 The full Immaculate Misconception play-along is the related video on this Short.
+🔗 The full Immaculate Misconception performance is the related video on this Short.
 
 🎛 Creatures was recorded at Wade Studios in Ocala, Florida with Andrew Wade producing. Does the 2010 sound still hold up for you?
 ```

@@ -11,7 +11,7 @@ Nine pieces deep in 1999: No Life, up close #bass
 ## DESCRIPTION
 
 ```text
-🎸 Sight-read on bass in Rocksmith 2014 Remastered, from Slipknot's 1999 self titled debut.
+🎸 From Slipknot's 1999 self titled debut, sight-read on bass in Rocksmith 2014 Remastered.
 
 🎬 Want the complete No Life performance? It is linked from this Short as the related video.
 
@@ -31,7 +31,7 @@ slipknot, no life, slipknot album, corey taylor, paul gray, nu metal, alternativ
 ## PINNED COMMENT
 
 ```text
-📺 The complete performance is the related video linked from this Short.
+🎛 Linked from this Short: the complete performance as its related video.
 🤔 True or false: that debut peaked at number 51 on the Billboard 200. Drop True or False below.
 ```
 

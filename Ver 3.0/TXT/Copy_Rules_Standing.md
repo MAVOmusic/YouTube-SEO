@@ -31,7 +31,7 @@ Written after three user corrections in one day. These rules bind every title, d
 
 ## Before anything is delivered
 
-19. Run the checks, every time: title set compared for shared openers, description openers compared against titles, comment formats and opening emojis listed side by side, related video pointer lines audited for duplicates across all Short packages, five-word overlap checked, then verify.sh.
+19. Run the checks, every time, against the workbook, not from memory: rebuild Ver 3.0/TXT/Copy_Workbook_0001_0010_And_New_Uploads.xlsx with Ver 3.0/PY/build_copy_workbook.py and read its Audit sheet. It must show zero problems before anything is delivered. It compares title, description and comment starters across every row, checks SF comments open with a unique related video pointer and unique opening emoji, checks SF descriptions carry Kick, Twitch and Discord CTAs, and rejects play along long form titles and song-on-bass openers. Then five-word overlap, then verify.sh.
 20. Deliver paste-ready blocks, then open a pull request and merge it, and confirm the merge with gh pr view.
 
 ## Where this is registered

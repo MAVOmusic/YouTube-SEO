@@ -5,7 +5,7 @@ Reviewed 2026-11-01 UK. Exact review time unavailable: the workspace clock date 
 ## TITLE
 
 ```text
-Can you follow Another Life? Motionless In White bass play along
+Can you follow Another Life? Motionless In White on Rocksmith bass
 ```
 
 ## DESCRIPTION
@@ -31,7 +31,7 @@ motionless in white, another life, motionless in white another life, bass play a
 The creator question is visible; retain it if desired. Pin status is not shown. No need to replace it just to change the metadata.
 
 ```text
-Which Motionless In White music video stands out to you visually?
+Visual question: which Motionless In White music video stands out to you?
 ```
 
 ## CORRECT GENRES

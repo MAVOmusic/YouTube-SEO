@@ -29,7 +29,7 @@ motionless in white, abigail, motionless in white abigail, abigail motionless in
 ## PINNED COMMENT (192 characters)
 
 ```text
-🎬 The full Abigail play-along is the related video on this Short.
+📼 The full Abigail performance is the related video on this Short.
 
 🎥 Kevin McVey directed the 2010 Abigail video and worked on the concept with Chris Motionless. Does it still hold up for you?
 ```

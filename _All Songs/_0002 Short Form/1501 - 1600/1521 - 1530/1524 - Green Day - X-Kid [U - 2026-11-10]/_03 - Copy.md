@@ -37,6 +37,7 @@ green day, x-kid, x kid, green day x kid, tre, tre cool, album cover, pop punk, 
 > Post this as a new comment by the channel. It sits under the pinned @_Nyx_ comment and is not pinned in its place. Do not edit or unpin the viewer comment to make room for it.
 
 ```text
+🌲 Hear this Green Day track in full through the related video on this Short.
 🎛 Tre is the last Green Day album to credit touring guitarist Jason White as a studio performer.
 
 ❓ Were you hearing a fourth guitar on the record, or does Tre still sound like three players to you?

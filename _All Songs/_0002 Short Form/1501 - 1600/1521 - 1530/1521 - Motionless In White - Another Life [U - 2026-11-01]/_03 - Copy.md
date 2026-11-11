@@ -5,7 +5,7 @@ Reviewed 2026-11-01 UK. Exact review time unavailable: the workspace clock date 
 ## TITLE
 
 ```text
-Motionless In White on bass - Revisiting Another Life #rocksmith
+Revisiting Another Life with Motionless In White #rocksmith
 ```
 
 ## DESCRIPTION
@@ -15,6 +15,10 @@ Motionless In White on bass - Revisiting Another Life #rocksmith
 
 🎶 The full performance is available through the related video.
 🟢 Join me on Kick; Twitch mirrors the stream. Find both and Discord via my profile, where boosts are optional.
+
+🟢 Watch requests played live on Kick: https://www.kick.com/mavomusic
+🟣 Follow the parallel Twitch feed: https://www.twitch.tv/mavomusic
+💬 Put your song ideas in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS
@@ -28,7 +32,7 @@ motionless in white, another life, motionless in white another life, disguise, r
 A creator Super Thanks comment is visible, but its pin state is unknown. The suggested comment is optional; verify the related-video target and any Super Thanks availability in Studio.
 
 ```text
-Which track from Disguise would you like to hear on bass next? The full performance is in the related video.
+🎵 Which track from Disguise would you like to hear on bass next? The full performance is in the related video.
 ```
 
 ## CORRECT GENRES

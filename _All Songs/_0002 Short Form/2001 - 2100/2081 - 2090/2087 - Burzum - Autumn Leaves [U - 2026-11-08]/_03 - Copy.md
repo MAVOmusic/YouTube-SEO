@@ -19,6 +19,10 @@ A Burzum bass moment from Autumn Leaves #rocksmith
 💬 Tell us your Burzum favourites on Discord; boosts are appreciated if you choose.
 
 #Burzum #AutumnLeaves #Rocksmith
+
+🟢 Hear it played live on Kick: https://www.kick.com/mavomusic
+🟣 The broadcast also runs on Twitch: https://www.twitch.tv/mavomusic
+💬 Talk setlists in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (243 characters including separators)
@@ -30,6 +34,7 @@ burzum, burzam, autumn leaves, burzum autumn leaves, autumn leaves bass cover, b
 ## PINNED COMMENT (104 characters; see recommendation)
 
 ```text
+🎙️ The complete Autumn Leaves performance is linked from this Short as the related video.
 The Ways of Yore was released in 2014. Which track from the album would you pick for another bass cover?
 ```
 

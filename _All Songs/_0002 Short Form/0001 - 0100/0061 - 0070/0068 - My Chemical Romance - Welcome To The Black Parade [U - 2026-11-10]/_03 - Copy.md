@@ -39,7 +39,7 @@ my chemical romance, welcome to the black parade, black parade, mcr, mikey way, 
 > Post this as a new comment by the channel. It sits under the pinned viewer comment and is not pinned in its place. Every video gets a creator fact, quiz or trivia comment whatever else is pinned.
 
 ```text
-🎞️ A longer performance of this song is linked from this Short as its related video.
+📺 A longer performance of this song is linked from this Short as its related video.
 📰 Trivia: two other outlets also ranked this song among the best of 2006. Which pair of positions did Rolling Stone and BBC Music give it?
 A) 17th and 43rd
 B) 3rd and 12th

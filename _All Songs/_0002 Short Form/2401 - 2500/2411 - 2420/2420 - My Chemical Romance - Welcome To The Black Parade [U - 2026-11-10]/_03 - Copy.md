@@ -5,7 +5,7 @@
 ## TITLE (59 characters)
 
 ```text
-Welcome To The Black Parade nearly was not the first single
+Nearly was not the first single: Welcome To The Black Parade
 ```
 
 ## DESCRIPTION (445 characters)
@@ -33,6 +33,15 @@ my chemical romance, welcome to the black parade, black parade, mcr, mikey way, 
 > The comment below was posted by the channel three days before this review. It is genuine, so it is not replaced and not reworded. The proposal is to pin it. The marker line is the form the release gate accepts for a surface that will not be replaced, so it is a record rather than paste copy.
 
 > PRESERVED ARTIST COMMENT: @MAVOmusicYT wrote "💿 The Five Of Us Are Dying appeared on the 10th-anniversary edition as an early version of Welcome To The Black Parade. Have you heard it?" Keep it exactly as it is and pin it.
+
+## CREATOR COMMENT TO POST (fact, added 2026-11-11)
+
+> Added under the standing rule that every Short creator comment opens with its own related video pointer. Post as a new channel comment; the preserved creator comment above stays exactly as it is.
+
+```text
+🧩 The complete Black Parade performance is attached to this Short as its related video.
+🎤 Fact: Gerard Way wrote much of this album's story around a patient looking back on his life. Does that concept still hit you when you hear it?
+```
 
 ## GENRE FINDINGS (internal)
 

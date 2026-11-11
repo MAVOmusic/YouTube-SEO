@@ -1515,7 +1515,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1431 | Eric Clapton - Cocaine | N/A |
 | 1432 | Motionless In White - Du Hast | N/A |
 | 1433 | Red Hot Chili Peppers - Under The Bridge | N/A |
-| 1434 | My Chemical Romance - Welcome To The Black Parade | Welcome To The Black Parade changes key before it ends #bass |
+| 1434 | My Chemical Romance - Welcome To The Black Parade | Changes key before it ends: Welcome To The Black Parade #bass |
 | 1435 | Muse - Bliss | N/A |
 | 1436 | Fake Shark - Cheap Thrills | N/A |
 | 1437 | *NSYNC - Bye Bye Bye | N/A |
@@ -1607,7 +1607,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1518 | Sabaton - Dreadnought | N/A |
 | 1519 | Pendulum - Tarantula | N/A |
 | 1520 | Sabaton - The Hammer Has Fallen | N/A |
-| 1521 | Motionless In White - Another Life | Motionless In White on bass - Revisiting Another Life #rocksmith |
+| 1521 | Motionless In White - Another Life | Revisiting Another Life with Motionless In White #rocksmith |
 | 1522 | Sabaton Feat. Apocalyptica - Angels Calling | N/A |
 | 1523 | Pendulum - Another Planet | N/A |
 | 1524 | Green Day - X-Kid | X-Kid sits on the record that puns on Tre Cool #bass |
@@ -1993,7 +1993,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 1889 | Linkin Park - Papercut | N/A |
 | 1890 | A Day To Remember - Another Song About The Weekend | N/A |
 | 1891 | Willie Nelson - Whiskey River | N/A |
-| 1892 | Motionless In White - A-M-E-R-I-C-A | A-M-E-R-I-C-A, letter by letter, on bass - Motionless In White #bass |
+| 1892 | Motionless In White - A-M-E-R-I-C-A | Seven letters spelled out on the bass: A-M-E-R-I-C-A #bass |
 | 1893 | Sabaton - Metal Crüe | N/A |
 | 1894 | Adam And The Ants - That Voodoo! | N/A |
 | 1895 | 12 Stones - The Way I Feel | N/A |
@@ -2551,7 +2551,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2417 | System Of A Down - Toxicity | N/A |
 | 2418 | Linkin Park - Numb | N/A |
 | 2419 | Arctic Monkeys - Do I Wanna Know? | N/A |
-| 2420 | My Chemical Romance - Welcome To The Black Parade | Welcome To The Black Parade nearly was not the first single |
+| 2420 | My Chemical Romance - Welcome To The Black Parade | Nearly was not the first single: Welcome To The Black Parade |
 | 2421 | Paramore - Misery Business | Misery Business hits the bass strings \| Paramore #bass |
 | 2422 | AFI - Miss Murder | That Miss Murder bass drive - AFI #bass |
 | 2423 | Jimmy Eat World - Sweetness [reserved] | Sweetness in a bass snapshot - Jimmy Eat World #bass |

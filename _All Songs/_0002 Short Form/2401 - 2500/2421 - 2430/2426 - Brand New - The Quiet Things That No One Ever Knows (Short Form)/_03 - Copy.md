@@ -18,6 +18,10 @@ Want the complete performance? Open the related video beneath my handle.
 🟢 Catch live bass on Kick or the Twitch mirror. 💬 Share your Brand New favourites on Discord.
 
 #BrandNew #BassCover
+
+🟢 Played live and by request on Kick: https://www.kick.com/mavomusic
+🟣 Also streaming on Twitch: https://www.twitch.tv/mavomusic
+💬 Join the chat in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (280 characters)
@@ -29,7 +33,8 @@ brand new, brand new band, the quiet things that no one ever knows, the quiet th
 ## PINNED COMMENT (165 characters)
 
 ```text
-The Quiet Things That No One Ever Knows reached number 39 on the UK Official Singles Chart. Want the full bass performance? Open the related video beneath my handle.
+📈 The full performance of this Brand New track is the related video attached here.
+📈 Chart note: this one reached number 39 on the UK Official Singles Chart. Want the full bass performance?
 ```
 
 ## GENRE FINDINGS (internal)

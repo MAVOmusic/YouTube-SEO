@@ -5,13 +5,13 @@
 ## TITLE (60 characters)
 
 ```text
-Welcome To The Black Parade changes key before it ends #bass
+Changes key before it ends: Welcome To The Black Parade #bass
 ```
 
 ## DESCRIPTION (519 characters)
 
 ```text
-🎼 Welcome To The Black Parade sits in G major for most of its run and shifts to A major toward the end.
+🎼 G major for most of its run, then a whole step up toward the end: that key change carries this Short.
 
 🥁 It also starts at 75 beats per minute before the tempo is written as 194 in half time.
 
@@ -41,6 +41,7 @@ my chemical romance, welcome to the black parade, black parade, mcr, mikey way, 
 > Post this as a new comment by the channel. It sits under the pinned viewer comment and is not pinned in its place. Every video gets a creator fact, quiz or trivia comment whatever else is pinned.
 
 ```text
+🖤 This Short links onward to the complete Black Parade performance in its related video.
 🎼 Music question: which key does this song start in before it moves up a whole step?
 A) G major
 B) A major

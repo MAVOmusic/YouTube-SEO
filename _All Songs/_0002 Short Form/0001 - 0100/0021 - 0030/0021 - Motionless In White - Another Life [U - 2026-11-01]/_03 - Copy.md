@@ -11,10 +11,14 @@ A moment with Another Life - Motionless In White on bass #bass
 ## DESCRIPTION
 
 ```text
-🖤 Another Life by Motionless In White is one I always enjoy revisiting on bass. Thanks for listening to this Rocksmith moment with me!
+🖤 One I always enjoy revisiting on bass, from Motionless In White's Disguise years. Thanks for listening to this Rocksmith moment with me!
 
 🎸 Find the full performance using the related video.
 🟢 Live requests on Kick, with the Twitch mirror and Discord on my channel profile. Discord boosts are always optional.
+
+🟢 Catch the live requests on Kick: https://www.kick.com/mavomusic
+🟣 The same show mirrors on Twitch: https://www.twitch.tv/mavomusic
+💬 Request the next one in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS
@@ -28,7 +32,7 @@ motionless in white, another life, motionless in white another life, disguise, b
 Prefer the genuine @loafofbeans8291 comment about loving MIW and keep MAVO's reply. The text below is only a fallback; current pin is unknown. Check the related video target in Studio before referring to it.
 
 ```text
-What first got you into Motionless In White? The full bass performance is in the related video.
+🎬 What first got you into Motionless In White? The full bass performance is in the related video.
 ```
 
 ## CORRECT GENRES

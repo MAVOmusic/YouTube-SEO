@@ -19,6 +19,10 @@ Finding the atmosphere of Autumn Leaves | Burzum bass #bass
 💬 Share your favourite atmospheric tracks in Discord; boosts are welcome if you choose to give one.
 
 #Burzum #AutumnLeaves #BassCover
+
+🟢 Join a live bass session on Kick: https://www.kick.com/mavomusic
+🟣 Its Twitch mirror runs here: https://www.twitch.tv/mavomusic
+💬 Chat picks and requests in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (246 characters including separators)
@@ -30,6 +34,7 @@ burzum, burzam, autumn leaves, burzum autumn leaves, autumn leaves bass, burzum 
 ## PINNED COMMENT (139 characters; see recommendation)
 
 ```text
+🍂 A longer Autumn Leaves performance is linked from this Short as the related video.
 What atmospheric track would you like to learn on bass next? Find the full Autumn Leaves performance via the related video below my handle.
 ```
 

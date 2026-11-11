@@ -5,13 +5,13 @@
 ## TITLE (56 characters)
 
 ```text
-Welcome To The Black Parade went to number one in the UK
+UK number one, and still the big one: Welcome To The Black Parade
 ```
 
 ## DESCRIPTION (589 characters)
 
 ```text
-🇬🇧 Welcome To The Black Parade is the only My Chemical Romance song to reach number one on the UK singles chart.
+🇬🇧 The only UK number one My Chemical Romance ever had opens this performance.
 
 📊 In the United States it topped Billboard's Modern Rock list. The all-genre Hot 100 told a different story.
 

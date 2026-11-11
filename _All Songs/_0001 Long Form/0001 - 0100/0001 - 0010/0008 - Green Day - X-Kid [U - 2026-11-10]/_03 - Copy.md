@@ -5,7 +5,7 @@
 ## TITLE (59 characters)
 
 ```text
-X-Kid on bass: the Green Day song that came with a cassette
+The Green Day song that came with a cassette: X-Kid
 ```
 
 ## DESCRIPTION (536 characters)

@@ -5,7 +5,7 @@
 ## TITLE (58 characters)
 
 ```text
-Welcome To The Black Parade: Hall of Fame rock on MCR bass
+Hall of Fame rock, played on MCR bass: Welcome To The Black Parade
 ```
 
 ## DESCRIPTION (546 characters)

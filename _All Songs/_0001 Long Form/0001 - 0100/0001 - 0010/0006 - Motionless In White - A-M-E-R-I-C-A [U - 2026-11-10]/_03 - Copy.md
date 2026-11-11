@@ -11,7 +11,7 @@ A-M-E-R-I-C-A: the whole Motionless In White song on bass in Eb Drop Db
 ## DESCRIPTION (558 characters)
 
 ```text
-🎸 Motionless In White tuned down to Eb Drop Db for A-M-E-R-I-C-A, and this run covers the song from the opening note.
+🎸 Eb Drop Db is the tuning here, dropped down for A-M-E-R-I-C-A, and this run covers the song from the opening note.
 
 💿 It comes from Infamous, the 2012 record that peaked at number 5 on Billboard's US Top Hard Rock Albums chart.
 

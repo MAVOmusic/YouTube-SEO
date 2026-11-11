@@ -11,13 +11,17 @@ Taking Back Sunday through the bass: You're So Last Summer #bass
 ## DESCRIPTION (310 characters)
 
 ```text
-A moment from my bass performance of Taking Back Sunday's You're So Last Summer.
+Through the bass, a Taking Back Sunday moment from You're So Last Summer.
 
 Want to hear the whole track? Open the related video beneath my handle for the full performance.
 
 🟢 Find my live bass sessions on Kick, with Twitch as the mirror. 💬 Bring your song picks to Discord.
 
 #TakingBackSunday #BassCover
+
+🟢 Come to a Kick live session: https://www.kick.com/mavomusic
+🟣 The mirrored stream is on Twitch: https://www.twitch.tv/mavomusic
+💬 Drop song ideas in Discord: https://discord.gg/ESGsGkN4j2
 ```
 
 ## TAGS (221 characters)
@@ -29,7 +33,8 @@ taking back sunday, tbs, you're so last summer, taking back sunday you're so las
 ## PINNED COMMENT (159 characters)
 
 ```text
-Flavor Flav appears in the song's video, filmed under the Brooklyn Bridge. For the full bass take, tap the related video. What do you remember about that clip?
+📊 Hear You're So Last Summer in full via the related video on this Short.
+📊 Flavor Flav appears in the song's video, filmed under the Brooklyn Bridge. What do you remember about that clip?
 ```
 
 ## GENRE FINDINGS (internal)
