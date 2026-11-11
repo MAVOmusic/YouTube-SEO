@@ -44,3 +44,5 @@ Written after three user corrections in one day. These rules bind every title, d
 - Ver 3.0/TXT/Creator_Comment_Rule.md carries rules 14 to 18.
 - Ver 3.0/TXT/Short_Full_Recording_Rule.md carries rules 10, 11 and 17.
 - Ver 3.0/TXT/Historical_Quiz_Questions_And_Answers.md logs every comment format used, so rotation can be checked.
+
+Bottom-of-workbook placement, 2026-11-11: folders and copy created on request for LF 0680-0683 and Shorts 2427-2430 (Sabaton The Lion From The North, Yellowcard Ocean Avenue, Linkin Park Runaway, Avril Lavigne Take Me Away). The user asked for those eight rows at the bottom of the copy workbook; build_copy_workbook.py pins that set last. Their older variants (Sabaton LF 0058 and Shorts 0054, 1553, 1803; Avril LF 0262 and Shorts 0243, 2008) entered scope under rule 7c and were brought up to the current ruleset (CTA URLs in Short descriptions, pointer-first creator comments, unique same-song starters) in the same pass. Band Info and song notes already existed for all four artists, so none was created.

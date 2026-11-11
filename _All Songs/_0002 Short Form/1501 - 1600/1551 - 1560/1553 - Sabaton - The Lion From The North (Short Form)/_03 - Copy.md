@@ -9,12 +9,13 @@ A march through bass: Sabaton - The Lion From The North #shorts
 ## DESCRIPTION (408 characters)
 
 ```text
-⚔️ Sabaton's The Lion From The North powers this bass moment, with Rocksmith 2014 alongside my playing.
+⚔️ Carolus Rex power drives this bass performance, with Rocksmith 2014 alongside my playing.
 
 🎸 Curious about the full performance? Tap the related video below my channel handle and follow the bass all the way through.
 
-🟢 Find my Kick stream on my profile; Twitch is the mirror.
-💬 Drop by Discord from my profile to talk Sabaton. Boosts are welcome, never required!
+🟢 Live bass and requests on Kick: https://www.kick.com/mavomusic
+🟣 The same session, other player, on Twitch: https://www.twitch.tv/mavomusic
+💬 Talk music in Discord: https://discord.gg/ESGsGkN4j2
 
 #Sabaton #BassCover #Rocksmith
 ```
@@ -25,10 +26,11 @@ A march through bass: Sabaton - The Lion From The North #shorts
 sabaton, the lion from the north, sabaton the lion from the north, lion from the north, the lion from the north bass, sabaton bass cover, carolus rex, rocksmith 2014, rocksmith bass, bass cover, power metal, heavy metal, joakim broden, joakim, par sundstrom, par, sabton, mavomusic
 ```
 
-## OPTIONAL PINNED COMMENT (220 characters)
+## PINNED COMMENT (220 characters)
 
 ```text
-Sabaton included The Lion From The North in their Europa Universalis IV soundtrack collaboration. Which Sabaton song would you add to a game soundtrack? Find my full bass performance in the related video below my handle.
+🔊 Hear the complete performance in the related video below my handle.
+🎮 Sabaton included this song in their Europa Universalis IV soundtrack collaboration. Which Sabaton song would you add to a game soundtrack?
 ```
 
 ## CORRECT GENRES (artist-wide playlist reference)

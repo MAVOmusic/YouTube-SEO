@@ -15,8 +15,9 @@ Rocksmith bass meets Take Me Away by Avril Lavigne #bass
 
 💿 Which Avril song would you want to play on bass? Tell me in the comments, and find a full performance through the related video below my channel handle.
 
-🟢 Join me for requests on Kick, with Twitch as the mirror. Find both on my channel profile.
-💬 Come chat about your favourite tracks on Discord; boosts are welcome if you choose to give one.
+🟢 Live bass and requests on Kick: https://www.kick.com/mavomusic
+🟣 The same session, other player, on Twitch: https://www.twitch.tv/mavomusic
+💬 Talk music in Discord: https://discord.gg/ESGsGkN4j2
 
 #AvrilLavigne #TakeMeAway #Rocksmith
 ```
@@ -30,7 +31,8 @@ avril lavigne, avril, avril lavine, take me away, avril lavigne take me away, ta
 ## PINNED COMMENT (156 characters - fallback only)
 
 ```text
-If you could learn one Avril Lavigne bassline in Rocksmith, which would it be? For a full Take Me Away performance, check the related video below my handle.
+🎟️ The related video below my handle carries a complete performance of this track.
+🎸 If you could learn one Avril Lavigne bassline in Rocksmith, which would it be?
 ```
 
 **Preferred pin:** Preserve and, if appropriate, pin @MrChrisHobday's real Rocksmith bass question and MAVO's reply, rather than replacing it with the fallback. Check the current pin first. Pinning an existing viewer comment does not delete its replies. Do not add the fallback if the existing comment is pinned instead.

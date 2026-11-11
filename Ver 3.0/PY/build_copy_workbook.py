@@ -7,6 +7,8 @@ from openpyxl.utils import get_column_letter
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 OUT = ROOT / "Ver 3.0/TXT/Copy_Workbook_0001_0010_And_New_Uploads.xlsx"
+# User asked for the four pairs created 2026-11-11 (LF 0680-0683, Shorts 2427-2430) at the bottom of the sheet.
+BOTTOM = {("LF",680),("LF",681),("LF",682),("LF",683),("SF",2427),("SF",2428),("SF",2429),("SF",2430)}
 SONGS = ["autumn leaves","another life","masterpiece","abigail","a-m-e-r-i-c-a","immaculate misconception","x-kid","welcome to the black parade","if i'd been the one"]
 
 def block(t, *heads):
@@ -44,7 +46,8 @@ def collect():
         pin = block(t, "CREATOR COMMENT TO POST", "PINNED COMMENT", "CREATOR COMMENT")
         rows.append({"band": f"{fmt} {num:04} | {ident}", "fmt": fmt, "num": num,
                      "title": block(t, "TITLE"), "desc": block(t, "DESCRIPTION"), "pin": pin, "path": str(p)})
-    return sorted({r["path"]: r for r in rows}.values(), key=lambda r: (r["band"].split("| ",1)[-1].lower(), r["fmt"], r["num"]))
+    rows = sorted({r["path"]: r for r in rows}.values(), key=lambda r: (r["band"].split("| ",1)[-1].lower(), r["fmt"], r["num"]))
+    return [r for r in rows if (r["fmt"], r["num"]) not in BOTTOM] + [r for r in rows if (r["fmt"], r["num"]) in BOTTOM]
 
 def first3(s):
     return " ".join(re.sub(r"[^a-z0-9 ]", " ", s.lower()).split()[:3])

@@ -9,12 +9,13 @@ Where Swedish history meets bass: Sabaton - The Lion From The North #bass
 ## DESCRIPTION (448 characters)
 
 ```text
-🦁 Sabaton's The Lion From The North brings Swedish history to this bass performance, played alongside the Rocksmith 2014 display.
+🦁 Swedish history charges through this bass performance to this bass performance, played alongside the Rocksmith 2014 display.
 
 🎸 Want to hear the whole song? Tap the related video below my channel handle for my full bass performance.
 
-🟢 Find my Kick stream on my channel profile, with Twitch as the mirror.
-💬 Join the Discord community through my profile; a boost is always appreciated, never expected.
+🟢 Live bass and requests on Kick: https://www.kick.com/mavomusic
+🟣 The same session, other player, on Twitch: https://www.twitch.tv/mavomusic
+💬 Talk music in Discord: https://discord.gg/ESGsGkN4j2
 
 #Sabaton #TheLionFromTheNorth #BassCover
 ```
@@ -25,10 +26,11 @@ Where Swedish history meets bass: Sabaton - The Lion From The North #bass
 sabaton, the lion from the north, sabaton the lion from the north, lion from the north, the lion from the north bass, sabaton bass cover, carolus rex, rocksmith 2014, rocksmith bass, bass cover, power metal, heavy metal, joakim broden, joakim, par sundstrom, par, sabton, mavomusic
 ```
 
-## OPTIONAL PINNED COMMENT (204 characters)
+## PINNED COMMENT (204 characters)
 
 ```text
-In 2024, Sabaton's Conqueror's Blade collaboration featured an orchestral take on The Lion From The North for the Sabaton Fortress map. For my full bass performance, tap the related video below my handle.
+🏰 Tap the related video below my handle for my complete bass performance.
+🎮 In 2024, Sabaton's Conqueror's Blade collaboration featured an orchestral take on this song for the Sabaton Fortress map. Had you heard that version?
 ```
 
 ## CORRECT GENRES (artist-wide playlist reference)

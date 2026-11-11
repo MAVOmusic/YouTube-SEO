@@ -1904,7 +1904,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | --- | --- | --- |
 | 1801 | +44 (Plus 44) - Little Death | N/A |
 | 1802 | +44 (Plus 44) - Make You Smile | N/A |
-| 1803 | Sabaton - The Lion From The North | Sabaton on bass: The Lion From The North in 36 seconds #bass |
+| 1803 | Sabaton - The Lion From The North | Thirty-six seconds of Swedish metal history: Sabaton #bass |
 | 1804 | +44 (Plus 44) - Weatherman | N/A |
 | 1805 | T.A.T.U. - All The Things She Said | N/A |
 | 1806 | Sabaton - Ghost Division | N/A |
@@ -2558,10 +2558,10 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2424 | Alkaline Trio - Private Eye [reserved] | Alkaline Trio bass focus: Private Eye #bass |
 | 2425 | Taking Back Sunday - You're So Last Summer [reserved] | Taking Back Sunday through the bass: You're So Last Summer #bass |
 | 2426 | Brand New - The Quiet Things That No One Ever Knows [reserved] | Brand New bass moment - The Quiet Things That No One Ever Knows #bass |
-| 2427 | Sabaton - The Lion From The North | N/A |
-| 2428 | Yellowcard - Ocean Avenue | N/A |
-| 2429 | Linkin Park - Runaway | N/A |
-| 2430 | Avril Lavigne - Take Me Away | N/A |
+| 2427 | Sabaton - The Lion From The North | Hear the Lion roar! Sabaton - The Lion From The North #bass |
+| 2428 | Yellowcard - Ocean Avenue | Who remembers this Yellowcard favourite? Ocean Avenue #bass |
+| 2429 | Linkin Park - Runaway | Hybrid Theory energy returns: Runaway #bass |
+| 2430 | Avril Lavigne - Take Me Away | Turn it up for Take Me Away! Avril Lavigne on bass #bass |
 | 2431 | Yellowcard - Fighting | Yellowcard's last Capitol album gave us this Fighting Short #bass |
 | 2432 | Slipknot - No Life | Nine pieces deep in 1999: No Life, up close #bass |
 | 2433 | Linkin Park - Points Of Authority | Never a single, still a fan favourite: Points Of Authority #bass |
