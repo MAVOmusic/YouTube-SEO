@@ -31,13 +31,8 @@ yellowcard, fighting, paper walls, capitol records, pop punk, alternative rock, 
 ## PINNED COMMENT (194 characters)
 
 ```text
-🎬 The whole take is attached below as this Short's related video.
-📀 Quiz: which song was the only single released from Paper Walls?
-A) Light Up the Sky
-B) Fighting
-C) The Takedown
-
-Answer below.
+🎥 The whole take is attached below as this Short's related video.
+💡 Did you know Light Up the Sky was the only single ever released from Paper Walls? This track never got that push. Should it have?
 ```
 
 ## CORRECT GENRES
@@ -54,5 +49,5 @@ Answer below.
 - The ten behind the scenes videos were posted to the band's Myspace during the making of the album. Ryan Key's line about the record being a story about hope and finding yourself again is quoted on the same page; the description paraphrases it.
 - The Short is the same performance as LF 0684 captured in vertical at the same moment, so the copy says nothing about cutting, trimming or lifting, and it no longer calls the two separate recordings either. What it does say is that the full recording is attached as the related video, which is the standing requirement on every Short.
 - The pinned comment opens with the pointer to the attached full recording, as all Short pins must, and only then asks the quiz.
-- Pinned comment answer for internal use: A, Light Up the Sky. None of the three options appears in the description.
+- Creator comment format was converted from a labelled quiz to a rotating trivia, fact or true/false format on 2026-11-11, with its own opening emoji. Facts in the comment are sourced in this file.
 - No Studio action taken.

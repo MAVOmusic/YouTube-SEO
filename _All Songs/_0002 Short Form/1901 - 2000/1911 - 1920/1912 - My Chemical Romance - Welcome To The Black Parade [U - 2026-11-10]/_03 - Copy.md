@@ -33,7 +33,7 @@ my chemical romance, welcome to the black parade, black parade, mcr, mikey way, 
 ## PINNED COMMENT (169 characters)
 
 ```text
-📖 Quiz: which Burbank studio hosted the sessions for Welcome To The Black Parade?
+🏙️ Trivia: which Burbank studio hosted the sessions for this album?
 A) El Dorado Recording Studios
 B) Capitol Studios
 C) Ocean Way Recording

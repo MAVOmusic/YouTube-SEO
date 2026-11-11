@@ -31,7 +31,7 @@ motionless in white, immaculate misconception, immaculate misconception bass, cr
 ```text
 🎬 The whole Immaculate Misconception performance is the related video on this Short.
 
-📖 Quiz: which year did Immaculate Misconception come out as a single?
+🗓️ Trivia: which year did this track come out as a single?
 A) 2010
 B) 2011
 C) 2012

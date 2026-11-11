@@ -385,12 +385,7 @@ Answer below.
 
 ```text
 🎬 If I'd Been The One from start to finish is the related video attached to this Short.
-📀 Quiz: which Tour de Force track sat on the B side of this single?
-A) Twentieth Century Fox
-B) Back Where You Belong
-C) One Time for Old Times
-
-Answer below.
+🎵 Trivia: Twentieth Century Fox sat on the B side of this single. Did you own the 45, or did you meet this song on the album?
 ```
 
 **Answer:** A) Twentieth Century Fox
@@ -465,3 +460,7 @@ Answer below.
 - LF 0688: US Billboard 200 peak of Billy Talent II. A) Number 134 (answer), B) Number 1, C) Number 27. Source: https://en.wikipedia.org/wiki/Billy_Talent_II
 - Short 2435: co-producer alongside Gavin Brown. A) Ian D'Sa (answer), B) Ross Robinson, C) Don Gilmore. Source: https://en.wikipedia.org/wiki/Billy_Talent_II
 - Short 0725: Canadian first week sales of Billy Talent II. A) 48,000 (answer), B) 7,231, C) 12,500. Source: https://en.wikipedia.org/wiki/Billy_Talent_II
+
+## Format correction, 2026-11-11
+
+The user flagged that every recent creator comment was a labelled quiz with the same opening emoji, that one long form title wrongly said play along, and that descriptions were opening with the video title. Twelve packages were rewritten: LF 0684, 0685, 0686, 0687, 0688, Shorts 2431, 2432, 2433, 2434, 2435, 0725 and 0467. Their comments now rotate between trivia statements, did-you-know facts, a true or false, a chart fact and a sales fact, each with a different opening emoji, and no comment in the set uses the word Quiz. Earlier quiz entries for these videos are superseded by the corrected comments in their _03 - Copy.md files. Standing rule from here: rotate quiz, trivia, fact, true or false and opinion formats, never label every comment a quiz, never open two pins in a batch with the same emoji, never open a description with the title, and never call a normal long form a play along in its title.

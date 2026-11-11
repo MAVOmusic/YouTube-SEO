@@ -11,7 +11,7 @@ Points Of Authority on bass: Hybrid Theory deep cut #bass
 ## DESCRIPTION
 
 ```text
-🎸 Points Of Authority on bass, sight-read in Rocksmith 2014 Remastered, track four from Hybrid Theory.
+🎸 Sight-read on bass in Rocksmith 2014 Remastered, track four from Hybrid Theory.
 
 🎬 Points Of Authority in full is waiting under this Short as its related video.
 
@@ -31,13 +31,8 @@ linkin park, points of authority, hybrid theory, pts.of.athrty, chester benningt
 ## PINNED COMMENT
 
 ```text
-🎬 Open the related video on this Short for the complete Points Of Authority performance.
-📀 Quiz: how many official singles were released from Hybrid Theory?
-A) Four
-B) Two
-C) Six
-
-Answer below.
+▶️ Open the related video on this Short for the complete performance.
+💡 Did you know Hybrid Theory spawned exactly four official singles, and this track was not one of them? It still became a fan favourite. Does it beat the singles for you?
 ```
 
 ## CORRECT GENRES
@@ -55,5 +50,5 @@ Answer below.
 - Plan row 11 November 05:00, Short 2433 paired with LF 0686, no other IDs.
 - Four singles were released from Hybrid Theory: One Step Closer, In the End, Crawling and Papercut. Peaked at number two on the US Billboard 200, certified 12x Platinum by the RIAA, 32 million copies worldwide. Source: https://en.wikipedia.org/wiki/Hybrid_Theory
 - The description and pin both point at the attached full recording, and neither calls this Short a cut, a trim or a separate take.
-- Pinned comment answer for internal use: A, four. The single count is not stated in the description.
+- Creator comment format was converted from a labelled quiz to a rotating trivia, fact or true/false format on 2026-11-11, with its own opening emoji. Facts in the comment are sourced in this file.
 - No Studio action taken.

@@ -11,7 +11,7 @@ Up close with Jonathan Gallant's Pins And Needles bassline #bass
 ## DESCRIPTION
 
 ```text
-🎸 Pins And Needles on bass, sight-read in Rocksmith 2014 Remastered, from Billy Talent II.
+🎸 A Billy Talent II cut from 2006, sight-read on bass in Rocksmith 2014 Remastered.
 
 🎬 For the whole song played on bass, continue in the related video on this Short.
 
@@ -37,13 +37,8 @@ billy talent, pins and needles, billy talent ii, jonathan gallant, benjamin kowa
 > Post this as a new channel comment under the preserved viewer pin. Every video gets a creator fact, quiz or trivia comment whatever else is pinned.
 
 ```text
-🎬 The complete performance is one tap away in the related video attached here.
-📀 Quiz: how many copies did Billy Talent II sell in Canada in its first week?
-A) 48,000
-B) 7,231
-C) 12,500
-
-Answer below.
+📼 The complete performance is one tap away in the related video attached here.
+🍁 Sales fact: that album sold 48,000 copies in Canada in its first week alone. Were you one of the early buyers, or did you find the band later?
 ```
 
 ## CORRECT GENRES
@@ -60,5 +55,5 @@ Answer below.
 - Screenshots in this folder show a 0:36 public Short, 5 playlists, related video present, live tags at 21/500, and the @F__749 viewer comment pinned by @MAVOmusicYT with a creator reply beneath it. No duration is stated in the copy.
 - Billy Talent II was recorded 2005 to 2006 at The Warehouse and The Armoury in Vancouver and Vespa Music and A Room Full Of Stuff in Toronto, and debuted at number one in Canada selling 48,000 copies in its first week, while its US first week figure was 7,231. Source: https://en.wikipedia.org/wiki/Billy_Talent_II
 - The two pointer lines in this package use their own wording and differ from Shorts 2435, 2432, 2433, 2434 and 0467.
-- Pinned comment answer for internal use: A, 48,000. That figure is not stated in the description.
+- Creator comment format was converted from a labelled quiz to a rotating trivia, fact or true/false format on 2026-11-11, with its own opening emoji. Facts in the comment are sourced in this file.
 - No Studio action taken.

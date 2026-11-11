@@ -39,7 +39,7 @@ Two bass players behind .38 Special's If I'd Been The One
 > Post this as a new comment by the channel. It sits under the pinned viewer comment and is not pinned in its place. Every video gets a creator fact, quiz or trivia comment whatever else is pinned, and the two year old question already on the video about what makes a bass part stand out in Southern rock stays where it is.
 
 ```text
-🎛 Quiz: which Georgia studio hosted the Tour de Force sessions in 1983?
+🎙️ Trivia: which Georgia studio hosted the Tour de Force sessions in 1983?
 A) Studio One
 B) The Castle
 C) Muscle Shoals Sound

@@ -11,9 +11,9 @@ No Life on bass: deep cut from Slipknot's 1999 debut
 ## DESCRIPTION
 
 ```text
-🎸 No Life sits near the end of Slipknot's self titled debut, the Roadrunner record released on 29 June 1999 that introduced the nine piece from Des Moines.
+🎸 Roadrunner Records put out this self titled debut on 29 June 1999, and the nine piece from Des Moines buried this deep cut near the end of it.
 
-🎛 This is my sight-read bass play along in Rocksmith 2014 Remastered, following the bass part through the stop start riffs and the spoken section in the middle.
+🎛 My sight-read bass performance in Rocksmith 2014 Remastered, following the bass part through the stop start riffs and the spoken section in the middle.
 
 📀 That debut later went triple platinum in the United States and remains the band's best selling album, yet No Life stayed a deep cut rather than a single.
 
@@ -31,12 +31,7 @@ slipknot, no life, slipknot album, corey taylor, paul gray, roadrunner records, 
 ## PINNED COMMENT
 
 ```text
-📀 Quiz: who produced Slipknot's self titled debut album?
-A) Ross Robinson
-B) Don Gilmore
-C) Nick Raskulinecz
-
-Answer below.
+🎧 Producer fact: Ross Robinson produced that debut with the band, chasing a raw sound rather than a polished one. Do you prefer that roughness, or the bigger production the band went for later? Tell me below.
 ```
 
 ## CORRECT GENRES
@@ -52,6 +47,6 @@ Answer below.
 - Plan row 11 November 02:00, LF 0685 and Short 2432, All long form ID 0685 and All Shorts ID 2432 only.
 - Genres from Upload_Plan_11_November_Onwards.md: Nu metal, Alternative metal, Heavy metal, Groove metal.
 - Slipknot is the debut studio album, released 29 June 1999 by Roadrunner Records, produced by Ross Robinson and Slipknot, peaked at 51 on the Billboard 200 and certified triple platinum in the US. Source: https://en.wikipedia.org/wiki/Slipknot_(album)
-- Pinned comment answer for internal use: A, Ross Robinson. The producer is not named in the description.
+- Creator comment format was converted from a labelled quiz to a rotating trivia, fact or true/false format on 2026-11-11, with its own opening emoji. Facts in the comment are sourced in this file.
 - No duration is stated because the upload length is not known.
 - No Studio action taken.

@@ -11,7 +11,7 @@ Fighting on bass: the last Yellowcard record with Peter Mosely
 ## DESCRIPTION (555 characters)
 
 ```text
-🎸 Fighting is track two on Paper Walls, the Yellowcard album that landed on 17 July 2007.
+🎸 Track two on Paper Walls is where this one lives, on the Yellowcard album that landed on 17 July 2007.
 
 🎛 Peter Mosely plays bass on it, and this turned out to be the last Yellowcard record he played on. Ryan Mendez had just taken over guitar.
 
@@ -31,12 +31,7 @@ yellowcard, fighting, paper walls, pop punk, alternative rock, emo, peter mosely
 ## PINNED COMMENT (96 characters)
 
 ```text
-🎛 Quiz: where did Paper Walls land on the Billboard 200 in 2007?
-A) 13
-B) 5
-C) 31
-
-Answer below.
+🧩 Trivia: Paper Walls landed at number 13 on the Billboard 200 in 2007. Did you buy that record on release, or come to it later?
 ```
 
 ## CORRECT GENRES
@@ -53,5 +48,5 @@ Answer below.
 - The album page says Paper Walls is the first Yellowcard album with Ryan Mendez and the last with Peter Mosely. That is the bass angle used in the title and the second description block.
 - No other copy of Fighting exists in either catalogue or in Master_Shorts_Repository, which matches the user's report. This is the only LF and Short 2431 is the only Short.
 - The upload length is unknown, so the copy never states a duration and never calls the video the album edit.
-- Pinned comment answer for internal use: A, 13. The album debuted at number 13 on the Billboard 200. Neither the number nor the chart appears in the description, so the answer is not printed. The studio question was dropped because the description already names Ocean Studios in Burbank.
+- Creator comment format was converted from a labelled quiz to a rotating trivia, fact or true/false format on 2026-11-11, with its own opening emoji. Facts in the comment are sourced in this file.
 - No Studio action taken.

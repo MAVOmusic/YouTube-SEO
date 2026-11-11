@@ -41,7 +41,7 @@ my chemical romance, welcome to the black parade, black parade, mcr, mikey way, 
 > Post this as a new comment by the channel. It sits under the pinned viewer comment and is not pinned in its place. Every video gets a creator fact, quiz or trivia comment whatever else is pinned.
 
 ```text
-📖 Quiz: which key does Welcome To The Black Parade start in before it moves up a whole step?
+🎼 Music question: which key does this song start in before it moves up a whole step?
 A) G major
 B) A major
 C) E major

@@ -5055,12 +5055,7 @@ PRESERVED ARTIST COMMENT: @ericdehart4332 wrote "Sounds great!" with two creator
 
 ```text
 🎬 If I'd Been The One from start to finish is the related video attached to this Short.
-📀 Quiz: which Tour de Force track sat on the B side of this single?
-A) Twentieth Century Fox
-B) Back Where You Belong
-C) One Time for Old Times
-
-Answer below.
+🎵 Trivia: Twentieth Century Fox sat on the B side of this single. Did you own the 45, or did you meet this song on the album?
 ```
 
 Posted as its own new comment beneath the pin, not in place of it. Every video gets a creator fact, quiz or trivia comment whatever else is pinned.
