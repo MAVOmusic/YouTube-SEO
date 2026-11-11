@@ -35,8 +35,22 @@ def collect():
 def first3(s):
     return " ".join(re.sub(r"[^a-z0-9 ]", " ", s.lower()).split()[:3])
 
-def audit(rows):
+def missing_copy():
+    # Completeness guard: an uploaded folder in scope with screenshots or a
+    # [U - date] marker but no _03 - Copy.md is a problem, not a silent miss.
     errs = []
+    for root in (ROOT/"_All Songs/_0001 Long Form", ROOT/"_All Songs/_0002 Short Form"):
+        for folder in root.rglob("*"):
+            if not folder.is_dir() or not re.match(r"\d{4} - ", folder.name): continue
+            m = re.search(r"U - (2026-11-\d\d)", folder.name)
+            uploaded = bool(m and m.group(1) >= "2026-11-06") or (folder/"_01 - Main Info").exists()
+            variant = any(s in folder.name.lower() for s in SONGS)
+            if uploaded and variant and not (folder/"_03 - Copy.md").exists():
+                errs.append(f"Missing copy file: {folder.name}")
+    return errs
+
+def audit(rows):
+    errs = missing_copy()
     def dup(key, label):
         seen = {}
         for r in rows:
