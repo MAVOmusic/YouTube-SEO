@@ -5,7 +5,7 @@
 ## TITLE (62 characters)
 
 ```text
-Fighting on bass: the last Yellowcard record with Peter Mosely
+Fighting, heard from Peter Mosely's final Yellowcard record
 ```
 
 ## DESCRIPTION (555 characters)

@@ -5,7 +5,7 @@
 ## TITLE
 
 ```text
-No Life on bass: Slipknot debut deep cut #bass
+Nine pieces deep in 1999: No Life, up close #bass
 ```
 
 ## DESCRIPTION

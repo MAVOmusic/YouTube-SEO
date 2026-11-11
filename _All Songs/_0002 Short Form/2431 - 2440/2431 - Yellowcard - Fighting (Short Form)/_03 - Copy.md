@@ -5,7 +5,7 @@
 ## TITLE (55 characters)
 
 ```text
-Fighting came off Yellowcard's last Capitol album #bass
+Yellowcard's last Capitol album gave us this Fighting Short #bass
 ```
 
 ## DESCRIPTION (579 characters)

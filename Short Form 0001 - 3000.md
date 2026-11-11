@@ -498,7 +498,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0464 | .38 Special - Chain Lightnin' | N/A |
 | 0465 | Hot Mulligan - Featuring Mark Hoppus | N/A |
 | 0466 | Sabaton - Union (Slopes Of St. Benedict) | N/A |
-| 0467 | .38 Special - If I'd Been The One | If I'd Been The One hit number one for .38 Special #bass |
+| 0467 | .38 Special - If I'd Been The One | A Mainstream Rock number one from 1983: If I'd Been The One #bass |
 | 0468 | "Weird Al" Yankovic - eBay | N/A |
 | 0469 | Alesana - All Night Dance Parties In The Underground Palace | N/A |
 | 0470 | Asking Alexandria - I Won't Give In | N/A |
@@ -771,7 +771,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 0722 | Sum 41 - Over My Head (Better Off Dead) | N/A |
 | 0723 | Rage Against The Machine - Know Your Enemy | N/A |
 | 0724 | Spice Girls - Wannabe | N/A |
-| 0725 | Billy Talent - Pins And Needles | Up close with Jonathan Gallant's Pins And Needles bassline #bass |
+| 0725 | Billy Talent - Pins And Needles | With Jonathan Gallant's bassline up close: Pins And Needles #bass |
 | 0726 | The Fray - How To Save A Life | N/A |
 | 0727 | Joan Jett - Bad Reputation | N/A |
 | 0728 | Billy Talent - Perfect World | N/A |
@@ -2562,11 +2562,11 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2428 | Yellowcard - Ocean Avenue | N/A |
 | 2429 | Linkin Park - Runaway | N/A |
 | 2430 | Avril Lavigne - Take Me Away | N/A |
-| 2431 | Yellowcard - Fighting | N/A |
-| 2432 | Slipknot - No Life | No Life on bass: Slipknot debut deep cut #bass |
-| 2433 | Linkin Park - Points Of Authority | Points Of Authority on bass: Hybrid Theory deep cut #bass |
-| 2434 | Stone Sour - Zzyzx Rd | Zzyzx Rd on bass: Stone Sour's desert road song #bass |
-| 2435 | Billy Talent - Pins And Needles | Billy Talent on bass in 2006, playing Pins And Needles #bass |
+| 2431 | Yellowcard - Fighting | Yellowcard's last Capitol album gave us this Fighting Short #bass |
+| 2432 | Slipknot - No Life | Nine pieces deep in 1999: No Life, up close #bass |
+| 2433 | Linkin Park - Points Of Authority | Never a single, still a fan favourite: Points Of Authority #bass |
+| 2434 | Stone Sour - Zzyzx Rd | The quiet closer from Come What(ever) May: Zzyzx Rd #bass |
+| 2435 | Billy Talent - Pins And Needles | MySpace heard the whole album first in 2006: Pins And Needles #bass |
 | 2436 | Finch - Letters To You [reserved] | N/A |
 | 2437 | Jimmy Eat World - Futures [reserved] | N/A |
 | 2438 | New Found Glory - My Friends Over You [reserved] | N/A |

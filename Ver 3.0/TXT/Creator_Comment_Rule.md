@@ -59,3 +59,7 @@ Do not make every comment in a batch the same shape. The X-Kid set of five mixes
 The four outstanding files are older packages that were not part of this review batch. They need the same treatment, but each one needs its screenshots and existing comments checked first, so they are recorded here rather than guessed at.
 
 Two files that already carried a creator comment alongside a preserved viewer pin, Short 0186 and Short 0205, had it described as optional. Under this rule it is required, so the wording in both was changed to say so.
+
+## Standing title and comment rules, registered 2026-11-11
+
+Full consolidated list: Ver 3.0/TXT/Copy_Rules_Standing.md. In short: never open a title with "[Song] on bass"; a long form and its Short never share an opening or skeleton; no two titles in a batch share their first three words; never open a description with the title or song title; rotate comment formats (quiz, trivia, fact, true or false, opinion) and never open two comments in a batch with the same emoji; never call a normal long form a play along in its title. Fault corrected the same day: twelve packages (LF 0684-0688, Shorts 2431-2435, 0725, 0467) all opened with "[Song] on bass" or shared that starter between formats. All twelve were retitled with distinct devices and the catalogue rows synced.

@@ -5,7 +5,7 @@
 ## TITLE
 
 ```text
-No Life on bass: deep cut from Slipknot's 1999 debut
+Buried near the end of Slipknot's debut: No Life on the bass
 ```
 
 ## DESCRIPTION
