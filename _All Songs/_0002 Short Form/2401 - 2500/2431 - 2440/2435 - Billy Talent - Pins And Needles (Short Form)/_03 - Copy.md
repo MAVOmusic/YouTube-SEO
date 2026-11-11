@@ -11,7 +11,7 @@ Billy Talent on bass in 2006, playing Pins And Needles #bass
 ## DESCRIPTION
 
 ```text
-🎸 Pins And Needles on bass, sight-read in Rocksmith 2014 Remastered, taken from Billy Talent II.
+🎸 Sight-read on bass in Rocksmith 2014 Remastered, taken from Billy Talent II.
 
 🎬 The full length performance waits as the related video attached to this clip.
 
@@ -31,13 +31,8 @@ billy talent, pins and needles, billy talent ii, jonathan gallant, ian d'sa, atl
 ## PINNED COMMENT
 
 ```text
-🎬 Open the related video here to watch the whole song from start to finish.
-📀 Quiz: who co-produced Billy Talent II alongside Gavin Brown?
-A) Ian D'Sa
-B) Ross Robinson
-C) Don Gilmore
-
-Answer below.
+🎞️ Open the related video here to watch the whole song from start to finish.
+🎚️ Did you know guitarist Ian D'Sa co-produced that record alongside Gavin Brown? You can hear his fingerprints all over the arrangements. Which track proves it best?
 ```
 
 ## CORRECT GENRES
@@ -54,5 +49,5 @@ Answer below.
 - Plan row 11 November, Short 2435 paired with LF 0688, moved to 17:05. All Shorts ID 0725 and 2435.
 - The band temporarily released the entire album to their MySpace page for 23 June 2006. Produced by Gavin Brown and Ian D'Sa. Source: https://en.wikipedia.org/wiki/Billy_Talent_II
 - The description and pin both point at the attached full recording in their own wording, and neither calls this Short a cut, a trim or a separate take.
-- Pinned comment answer for internal use: A, Ian D'Sa. He is named in the tags as a band member, not as producer, and the description does not state the answer.
+- Creator comment format was converted from a labelled quiz to a rotating trivia, fact or true/false format on 2026-11-11, with its own opening emoji. Facts in the comment are sourced in this file.
 - No Studio action taken.

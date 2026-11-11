@@ -29,7 +29,7 @@ green day, x-kid, x kid, green day x kid, tre, 2012, release date, pop punk, pow
 ## PINNED COMMENT (126 characters)
 
 ```text
-📅 Quiz: which track replaced Stray Heart on later pressings of the album?
+💿 Trivia: which track replaced Stray Heart on later pressings of the album?
 A) Drama Queen
 B) Walk Away
 C) Amanda

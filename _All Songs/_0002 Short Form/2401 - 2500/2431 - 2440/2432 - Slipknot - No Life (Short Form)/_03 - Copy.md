@@ -11,7 +11,7 @@ No Life on bass: Slipknot debut deep cut #bass
 ## DESCRIPTION
 
 ```text
-🎸 No Life on bass, sight-read in Rocksmith 2014 Remastered from Slipknot's 1999 self titled debut.
+🎸 Sight-read on bass in Rocksmith 2014 Remastered, from Slipknot's 1999 self titled debut.
 
 🎬 Want the complete No Life performance? It is linked from this Short as the related video.
 
@@ -31,13 +31,8 @@ slipknot, no life, slipknot album, corey taylor, paul gray, nu metal, alternativ
 ## PINNED COMMENT
 
 ```text
-🎬 The complete No Life performance is the related video linked from this Short.
-🎸 Quiz: where did Slipknot's debut peak on the Billboard 200?
-A) Number 51
-B) Number 2
-C) Number 13
-
-Answer below.
+📺 The complete performance is the related video linked from this Short.
+🤔 True or false: that debut peaked at number 51 on the Billboard 200. Drop True or False below.
 ```
 
 ## CORRECT GENRES
@@ -53,5 +48,5 @@ Answer below.
 - Plan row 11 November 02:00, Short 2432 paired with LF 0685, no other IDs.
 - The album peaked at number 51 on the Billboard 200 and became certified triple platinum in the United States. Source: https://en.wikipedia.org/wiki/Slipknot_(album)
 - The description and pin both point at the attached full recording, and neither calls this Short a cut, a trim or a separate take.
-- Pinned comment answer for internal use: A, number 51. That placing is not stated in the description.
+- Creator comment format was converted from a labelled quiz to a rotating trivia, fact or true/false format on 2026-11-11, with its own opening emoji. Facts in the comment are sourced in this file.
 - No Studio action taken.

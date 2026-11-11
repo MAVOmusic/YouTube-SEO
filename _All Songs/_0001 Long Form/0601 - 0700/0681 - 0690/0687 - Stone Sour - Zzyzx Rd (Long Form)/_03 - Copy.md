@@ -11,9 +11,9 @@ Zzyzx Rd on bass: Stone Sour's love song named after a desert road
 ## DESCRIPTION
 
 ```text
-🎸 Zzyzx Rd. closes Come What(ever) May, Stone Sour's second album from 1 August 2006, and it is the quietest thing on a mostly heavy record.
+🎸 The quietest thing on a mostly heavy record closes Stone Sour's second album, Come What(ever) May, from 1 August 2006.
 
-🎛 My sight-read bass play along in Rocksmith 2014 Remastered, sitting back under the piano and the acoustic guitar rather than driving the song.
+🎛 My sight-read bass performance in Rocksmith 2014 Remastered, sitting back under the piano and the acoustic guitar rather than driving the song.
 
 📀 Corey Taylor wrote it as a love song to his wife, thanking her for helping him through his struggles with alcohol, and it became the fifth single from the album on 5 October 2007.
 
@@ -31,12 +31,7 @@ stone sour, zzyzx rd, come whatever may, corey taylor, jim root, josh rand, shaw
 ## PINNED COMMENT
 
 ```text
-📀 Quiz: the road in this title leads through which desert?
-A) The Mojave Desert
-B) The Sonoran Desert
-C) The Sahara Desert
-
-Answer below.
+🌵 Desert fact: the road in the title runs about four and a half miles through the Mojave Desert, out to Zzyzx, California. Have you ever driven Interstate 15 past that exit?
 ```
 
 ## CORRECT GENRES
@@ -52,5 +47,5 @@ Answer below.
 - Plan row 11 November 13:30, LF 0687 and Short 2434, no other IDs.
 - Zzyzx Rd. is the fifth single from Come What(ever) May, released 5 October 2007, a love song to Taylor's wife for helping him in his struggles against alcoholism. The road is a 4.5 mile part paved rural road in the Mojave Desert leading from Interstate 15 to Zzyzx, California. Sources: https://en.wikipedia.org/wiki/Zzyzx_Rd._(song) and https://en.wikipedia.org/wiki/Come_What(ever)_May
 - Come What(ever) May is the second studio album, released 1 August 2006 by Roadrunner Records, recorded at Studio 606 in Los Angeles and produced by Nick Raskulinecz.
-- Pinned comment answer for internal use: A, the Mojave Desert. The desert is not named in the description.
+- Creator comment format was converted from a labelled quiz to a rotating trivia, fact or true/false format on 2026-11-11, with its own opening emoji. Facts in the comment are sourced in this file.
 - No duration stated. No Studio action taken.

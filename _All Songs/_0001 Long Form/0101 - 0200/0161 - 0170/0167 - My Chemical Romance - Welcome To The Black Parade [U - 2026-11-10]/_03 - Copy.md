@@ -33,7 +33,7 @@ my chemical romance, welcome to the black parade, black parade, mcr, gerard way,
 ## PINNED COMMENT (114 characters)
 
 ```text
-📊 Quiz: how high did Welcome To The Black Parade reach on the US Billboard Hot 100?
+🗽 Trivia: how high did this single reach on the US Billboard Hot 100?
 A) 9
 B) 1
 C) 23

@@ -31,12 +31,7 @@ green day, x-kid, x kid, green day x kid, tre, canada rock, hot rock and alterna
 ## PINNED COMMENT (148 characters)
 
 ```text
-📊 Quiz: X-Kid peaked at 36 on which Billboard chart?
-A) Canada Rock
-B) Hot Rock and Alternative Songs
-C) Rock and Alternative Airplay
-
-Answer below.
+📈 Chart fact: this one peaked at 36 on Billboard's Rock and Alternative Airplay chart. Do chart positions match how you rank the trilogy singles?
 ```
 
 ## GENRE FINDINGS (internal)

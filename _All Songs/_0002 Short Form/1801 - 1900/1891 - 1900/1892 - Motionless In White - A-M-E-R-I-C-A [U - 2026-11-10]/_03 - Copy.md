@@ -31,7 +31,7 @@ motionless in white, a-m-e-r-i-c-a, america, america motionless in white, motion
 ```text
 🎬 The whole A-M-E-R-I-C-A performance is the related video on this Short.
 
-📖 Quiz: which Slipknot member directed the A-M-E-R-I-C-A music video?
+🎬 Trivia: which Slipknot member directed the A-M-E-R-I-C-A music video?
 A) Corey Taylor
 B) Shawn Crahan
 C) Jim Root
