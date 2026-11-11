@@ -2563,9 +2563,9 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2429 | Linkin Park - Runaway | N/A |
 | 2430 | Avril Lavigne - Take Me Away | N/A |
 | 2431 | Yellowcard - Fighting | N/A |
-| 2432 | Slipknot - No Life | N/A |
-| 2433 | Linkin Park - Points Of Authority | N/A |
-| 2434 | Stone Sour - Zzyzx Rd | N/A |
+| 2432 | Slipknot - No Life | No Life on bass: Slipknot debut deep cut #bass |
+| 2433 | Linkin Park - Points Of Authority | Points Of Authority on bass: Hybrid Theory deep cut #bass |
+| 2434 | Stone Sour - Zzyzx Rd | Zzyzx Rd on bass: Stone Sour's desert road song #bass |
 | 2435 | Billy Talent - Pins And Needles | N/A |
 | 2436 | Finch - Letters To You [reserved] | N/A |
 | 2437 | Jimmy Eat World - Futures [reserved] | N/A |

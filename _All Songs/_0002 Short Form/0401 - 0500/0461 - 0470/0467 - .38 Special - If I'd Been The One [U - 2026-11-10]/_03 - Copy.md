@@ -34,12 +34,12 @@ If I'd Been The One hit number one for .38 Special #bass
 
 > PRESERVED ARTIST COMMENT: @ericdehart4332 wrote "Sounds great!" with two creator replies under it, the second saying more is coming. Keep the pin exactly as it is.
 
-## CREATOR COMMENT TO POST (fact or quiz, 233 characters)
+## CREATOR COMMENT TO POST (fact or quiz, 246 characters)
 
 > Post this as a new comment by the channel. It sits under the pinned viewer comment and is not pinned in its place. Every video gets a creator fact, quiz or trivia comment whatever else is pinned, and the two year old stream schedule comment already on this Short stays where it is.
 
 ```text
-🎬 The full recording is attached below as the related video on this Short.
+🎬 If I'd Been The One from start to finish is the related video attached to this Short.
 📀 Quiz: which Tour de Force track sat on the B side of this single?
 A) Twentieth Century Fox
 B) Back Where You Belong

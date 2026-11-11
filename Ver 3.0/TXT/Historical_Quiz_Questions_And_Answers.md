@@ -384,7 +384,7 @@ Answer below.
 **Status:** proposed 2026-11-10, not confirmed posted or pinned. A viewer comment from `@ericdehart4332` is pinned and stays pinned, so this comment is posted beneath it.
 
 ```text
-🎬 The full recording is attached below as the related video on this Short.
+🎬 If I'd Been The One from start to finish is the related video attached to this Short.
 📀 Quiz: which Tour de Force track sat on the B side of this single?
 A) Twentieth Century Fox
 B) Back Where You Belong
@@ -446,3 +446,14 @@ Answer below.
 
 - (G)I-DLE - Tomboy, older CO-0050 / LF 0050: Channel_Order_Audit_Log.txt describes a historical proposed "fact quiz" but does not provide its wording or answer there. The current _03 - Copy.md contains a different opinion question. Do not invent the missing historical quiz or assume it was posted.
 - Several older analytics logs mention YouTube Studio quizzes attached without recording the questions or answers. These cannot be reconstructed from a count. Screenshot-only quizzes and unretrieved chat/live comments may also exist. Add exact text and answer when evidence becomes available.
+
+## 11 November 2026 batch, LF 0685 to 0687 and Shorts 2432 to 2434
+
+**Status:** Prepared 2026-11-11, proposed copy only, not posted.
+
+- LF 0685 Slipknot - No Life: producer of the self titled debut. A) Ross Robinson (answer), B) Don Gilmore, C) Nick Raskulinecz. Source: https://en.wikipedia.org/wiki/Slipknot_(album)
+- Short 2432 Slipknot - No Life: Billboard 200 peak of the debut. A) Number 51 (answer), B) Number 2, C) Number 13. Source: https://en.wikipedia.org/wiki/Slipknot_(album)
+- LF 0686 Linkin Park - Points Of Authority: album whose only single was Pts.OF.Athrty. A) Reanimation (answer), B) Meteora, C) Hybrid Theory EP. Source: https://en.wikipedia.org/wiki/Points_of_Authority
+- Short 2433 Linkin Park - Points Of Authority: official singles from Hybrid Theory. A) Four (answer), B) Two, C) Six. Source: https://en.wikipedia.org/wiki/Hybrid_Theory
+- LF 0687 Stone Sour - Zzyzx Rd: desert crossed by the titled road. A) The Mojave Desert (answer), B) The Sonoran Desert, C) The Sahara Desert. Source: https://en.wikipedia.org/wiki/Zzyzx_Rd._(song)
+- Short 2434 Stone Sour - Zzyzx Rd: piano player on the song. A) Rami Jaffee (answer), B) Nick Raskulinecz, C) Dave Grohl. Source: https://en.wikipedia.org/wiki/Zzyzx_Rd._(song)
