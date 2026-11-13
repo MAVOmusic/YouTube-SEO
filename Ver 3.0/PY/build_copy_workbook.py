@@ -15,8 +15,13 @@ OUT = ROOT / "Ver 3.0/TXT/Copy_Workbook_0001_0010_And_New_Uploads.xlsx"
 EDITED_GROUPS = ["motionless in white - masterpiece", "paramore - misery business",
                  "sabaton - the lion from the north", "yellowcard - ocean avenue",
                  "linkin park - runaway", "avril lavigne - take me away",
-                 "+44 - chapter xiii", "exodus - toxic waltz"]
-CURRENT_PAIRS = {("LF", 733), ("LF", 734), ("SF", 2480), ("SF", 2481)}
+                 "+44 - chapter xiii", "exodus - toxic waltz",
+                 "dashboard confessional - hands down", "death cab for cutie - transatlanticism",
+                 "linkin park - forgotten", "pat benatar - love is a battlefield",
+                 "metallica - for whom the bell tolls", "mayday parade - jamie all over"]
+CURRENT_PAIRS = {("LF", 733), ("LF", 734), ("SF", 2480), ("SF", 2481),
+                 ("LF", 700), ("LF", 706), ("LF", 745), ("LF", 746), ("LF", 747), ("LF", 715),
+                 ("SF", 2447), ("SF", 2453), ("SF", 2492), ("SF", 2493), ("SF", 2494), ("SF", 2462)}
 SONGS = ["autumn leaves","another life","masterpiece","abigail","a-m-e-r-i-c-a","immaculate misconception","x-kid","welcome to the black parade","if i'd been the one"]
 
 def block(t, *heads):

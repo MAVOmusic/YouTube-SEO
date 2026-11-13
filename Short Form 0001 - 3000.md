@@ -2578,13 +2578,13 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2444 | The Used - All That I've Got [reserved] | N/A |
 | 2445 | Alkaline Trio - Radio [reserved] | N/A |
 | 2446 | The Red Jumpsuit Apparatus - Face Down [reserved] | N/A |
-| 2447 | Dashboard Confessional - Hands Down [reserved] | N/A |
+| 2447 | Dashboard Confessional - Hands Down [reserved] | Best day ever, retold in a Short: Hands Down #bass |
 | 2448 | The Get Up Kids - Holiday [reserved] | N/A |
 | 2449 | Modern Baseball - Your Graduation [reserved] | N/A |
 | 2450 | Limp Bizkit - Rollin' (Air Raid Vehicle) [reserved] | N/A |
 | 2451 | Senses Fail - Buried A Lie [reserved] | N/A |
 | 2452 | Fall Out Boy - Sugar, We're Going Down [reserved] | N/A |
-| 2453 | Death Cab For Cutie - Transatlanticism [reserved] | N/A |
+| 2453 | Death Cab For Cutie - Transatlanticism [reserved] | A slow build across an ocean: Transatlanticism #bass |
 | 2454 | Thrice - The Artist In The Ambulance [reserved] | N/A |
 | 2455 | Jimmy Eat World - The Middle [reserved] | N/A |
 | 2456 | Say Anything - Alive With The Glory Of Love [reserved] | N/A |
@@ -2593,7 +2593,7 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2459 | Billy Talent - Viking Death March [reserved] | N/A |
 | 2460 | The Starting Line - The Best Of Me [reserved] | N/A |
 | 2461 | Thursday - Understanding In A Car Crash [reserved] | N/A |
-| 2462 | Mayday Parade - Jamie All Over [reserved] | N/A |
+| 2462 | Mayday Parade - Jamie All Over [reserved] | Tallahassee pop punk, up loud: Jamie All Over #bass |
 | 2463 | Jawbreaker - Boxcar [reserved] | N/A |
 | 2464 | Dashboard Confessional - Vindicated [reserved] | N/A |
 | 2465 | Something Corporate - Konstantine [reserved] | N/A |
@@ -2623,9 +2623,9 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2489 | Sublime - April 29, 1992 (Miami) | N/A |
 | 2490 | Angels & Airwaves - It Hurts | N/A |
 | 2491 | Rogue X Stonebank - Unity (Monstercat Release) | N/A |
-| 2492 | Linkin Park - Forgotten | N/A |
-| 2493 | Pat Benatar - Love Is A Battlefield | N/A |
-| 2494 | Metallica - For Whom The Bell Tolls | N/A |
+| 2492 | Linkin Park - Forgotten | Before Linkin Park had the name: Forgotten #bass |
+| 2493 | Pat Benatar - Love Is A Battlefield | Number five on the Hot 100 in 1983: Love Is A Battlefield #bass |
+| 2494 | Metallica - For Whom The Bell Tolls | The anvil strikes first: For Whom The Bell Tolls #bass |
 | 2495 | Linkin Park - Pushing Me Away | N/A |
 | 2496 | Michael Jackson - Billie Jean | N/A |
 | 2497 | The Cult - She Sells Sanctuary | N/A |
