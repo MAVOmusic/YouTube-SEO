@@ -1,4 +1,5 @@
-> **Restart note 11 November 2026:** uploads paused after four pairs on 11 November. The queue restarts at 02:00 on 12 November with +44 - Chapter XIII (LF 0733 / Short 2480), then Exodus - Toxic Waltz (LF 0734 / Short 2481) at 05:00, and every following upload pushed into the following slots in the same order, in `Upload_Plan_11_November_Onwards.md`.
+> **Rebuild note 11 November 2026 (08:24):** the remaining queue was rebuilt with first-ever uploads first. Today 11 November runs catch-up slots at 09:30, 12:00, 13:30, 16:00, 19:00 and 23:00 Budapest, opening with Exodus - Toxic Waltz (LF 0734 / Short 2481); from 12 November the usual six slots a day resume. +44 - Chapter XIII (LF 0733 / Short 2480) has earlier versions and heads the second group. Full schedule in `Upload_Plan_11_November_Onwards.md`.
+
 
 # Upload plan, 10 to 25 November 2026
 
