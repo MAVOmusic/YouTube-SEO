@@ -5880,6 +5880,28 @@
    "description": "🎶 Rock Opera clips for the feed, sight-read in one pass with Rocksmith 2014 Remastered. Latest upload first.\n\n🥁 Any rock opera pick for the clip queue? Tell me which track to take on next.\n\n🟢 Request a song live on Kick: https://www.kick.com/mavomusic\n🟣 Or catch it on Twitch: https://www.twitch.tv/mavomusic\n💬 Playlist ideas live in Discord: https://discord.gg/ESGsGkN4j2",
    "sort": "Most Recent Uploads",
    "url": null
+  },
+  {
+   "genre": "Punk Revival",
+   "format": "long_form",
+   "title": "Punk Revival - Rocksmith 2014 Bass Long Form Videos",
+   "status": "proposed_not_confirmed",
+   "evidence": "Added 2026-11-11: AFI artist-wide genre (AllMusic) already used in the CORRECT GENRES blocks of Miss Murder LF 0675 and Short 2422, but no playlist pair existed; Post-Punk Revival is a separate genre and does not cover it. No old Studio playlist under this name.",
+   "description_status": "drafted 2026-11-11 in Genre_Playlists_To_Create.xlsx, not applied",
+   "description": "🔁 Punk brought back around for another loud decade, played end to end on bass. Every performance here is a first pass sight-read in Rocksmith 2014 Remastered, with the newest upload at the top.\n\n🎤 Which punk revival band carried your favourite record? Name the act and it joins the recording list.\n\n🟢 Hear it live by request on Kick: https://www.kick.com/mavomusic\n🟣 The mirror stream is on Twitch: https://www.twitch.tv/mavomusic\n💬 Bring your punk revival picks to Discord: https://discord.gg/ESGsGkN4j2",
+   "sort": "Most Recent Uploads",
+   "url": null
+  },
+  {
+   "genre": "Punk Revival",
+   "format": "shorts",
+   "title": "Punk Revival - Rocksmith 2014 Bass Shorts",
+   "status": "proposed_not_confirmed",
+   "evidence": "Added 2026-11-11: AFI artist-wide genre (AllMusic) already used in the CORRECT GENRES blocks of Miss Murder LF 0675 and Short 2422, but no playlist pair existed; Post-Punk Revival is a separate genre and does not cover it. No old Studio playlist under this name.",
+   "description_status": "drafted 2026-11-11 in Genre_Playlists_To_Create.xlsx, not applied",
+   "description": "⚡ Short charges of revived punk energy on bass, each clip captured in the same instant as its full performance, sight-read in Rocksmith 2014 Remastered, latest first.\n\n🖤 Which punk revival chorus deserves a clip? Drop the title and it joins the Shorts queue.\n\n🟢 Requests get played live on Kick: https://www.kick.com/mavomusic\n🟣 Watch the same session on Twitch: https://www.twitch.tv/mavomusic\n💬 Share your deep cuts in Discord: https://discord.gg/ESGsGkN4j2",
+   "sort": "Most Recent Uploads",
+   "url": null
   }
  ],
  "old_playlists_seen_2026_11_10": [
