@@ -1,6 +1,6 @@
 # LF 0734 | Exodus - Toxic Waltz
 
-> Prepared 2026-11-11 for the restarted queue: LF 0734 premieres at 05:00 on 12 November 2026 with Short 2481 five minutes later, second slot of the new run. This is the song's first appearance in either catalogue. Genre given with the slot: Thrash metal. Band Info/Exodus/Register.md was created for this pair. New upload, so no analytics exist; nothing here assumes a duration, a Studio state or a comment state.
+> Prepared 2026-11-11 for the restarted queue: LF 0734 premieres at 09:30 on 13 November 2026 with Short 2481 five minutes later, opening the restarted queue. This is the song's first appearance in either catalogue. Genre given with the slot: Thrash metal. Band Info/Exodus/Register.md was created for this pair. New upload, so no analytics exist; nothing here assumes a duration, a Studio state or a comment state.
 
 ## TITLE
 

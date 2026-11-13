@@ -1,6 +1,6 @@
 # LF 0745 | Linkin Park - Forgotten
 
-> Prepared 2026-11-11 for the 13 November 2026 slots in the rebuilt queue. First-ever upload of this song on the channel, with no earlier version in either catalogue to compare against. Rocksmith 2014 Remastered bass sight-read, as confirmed for this run of recordings. New upload, so no analytics or Studio screenshots exist; no duration, Studio state or comment state is assumed. Slot: LF 0745 premieres 13:30, Short 2492 at 13:35.
+> Prepared 2026-11-11 for the 15 November 2026 slots in the rebuilt queue. First-ever upload of this song on the channel, with no earlier version in either catalogue to compare against. Rocksmith 2014 Remastered bass sight-read, as confirmed for this run of recordings. New upload, so no analytics or Studio screenshots exist; no duration, Studio state or comment state is assumed. Slot: LF 0745 premieres 13:30, Short 2492 at 13:35.
 
 ## TITLE
 
