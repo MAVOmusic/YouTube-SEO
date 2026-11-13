@@ -1,6 +1,6 @@
 # Short 2494 | Metallica - For Whom The Bell Tolls
 
-> Prepared 2026-11-11 for the 13 November 2026 slots in the rebuilt queue. First-ever upload of this song on the channel, with no earlier version in either catalogue to compare against. Rocksmith 2014 Remastered bass sight-read, as confirmed for this run of recordings. New upload, so no analytics or Studio screenshots exist; no duration, Studio state or comment state is assumed. Attach LF 0747 as the related video; it premieres five minutes before this Short.
+> Prepared 2026-11-11 for the 15 November 2026 slots in the rebuilt queue. First-ever upload of this song on the channel, with no earlier version in either catalogue to compare against. Rocksmith 2014 Remastered bass sight-read, as confirmed for this run of recordings. New upload, so no analytics or Studio screenshots exist; no duration, Studio state or comment state is assumed. Attach LF 0747 as the related video; it premieres five minutes before this Short.
 
 ## TITLE
 

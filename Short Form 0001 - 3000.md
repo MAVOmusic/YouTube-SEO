@@ -2570,22 +2570,22 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2436 | Finch - Letters To You [reserved] | N/A |
 | 2437 | Jimmy Eat World - Futures [reserved] | N/A |
 | 2438 | New Found Glory - My Friends Over You [reserved] | N/A |
-| 2439 | Panic! At The Disco - I Write Sins Not Tragedies [reserved] | N/A |
+| 2439 | Panic! At The Disco - I Write Sins Not Tragedies [reserved] | A circus, a wedding, a bassline: I Write Sins Not Tragedies #bass |
 | 2440 | Silverstein - My Heroine [reserved] | N/A |
 | 2441 | Weezer - Across The Sea [reserved] | N/A |
 | 2442 | Story Of The Year - Until The Day I Die [reserved] | N/A |
 | 2443 | Hawthorne Heights - Ohio Is For Lovers [reserved] | N/A |
 | 2444 | The Used - All That I've Got [reserved] | N/A |
 | 2445 | Alkaline Trio - Radio [reserved] | N/A |
-| 2446 | The Red Jumpsuit Apparatus - Face Down [reserved] | N/A |
+| 2446 | The Red Jumpsuit Apparatus - Face Down [reserved] | Written about looking away, sung to stop it: Face Down #bass |
 | 2447 | Dashboard Confessional - Hands Down [reserved] | Best day ever, retold in a Short: Hands Down #bass |
-| 2448 | The Get Up Kids - Holiday [reserved] | N/A |
+| 2448 | The Get Up Kids - Holiday [reserved] | Kansas emo, straight from 1999: Holiday #bass |
 | 2449 | Modern Baseball - Your Graduation [reserved] | N/A |
 | 2450 | Limp Bizkit - Rollin' (Air Raid Vehicle) [reserved] | N/A |
 | 2451 | Senses Fail - Buried A Lie [reserved] | N/A |
 | 2452 | Fall Out Boy - Sugar, We're Going Down [reserved] | N/A |
 | 2453 | Death Cab For Cutie - Transatlanticism [reserved] | A slow build across an ocean: Transatlanticism #bass |
-| 2454 | Thrice - The Artist In The Ambulance [reserved] | N/A |
+| 2454 | Thrice - The Artist In The Ambulance [reserved] | Kensrue's question, asked loudly: The Artist In The Ambulance #bass |
 | 2455 | Jimmy Eat World - The Middle [reserved] | N/A |
 | 2456 | Say Anything - Alive With The Glory Of Love [reserved] | N/A |
 | 2457 | Saves The Day - At Your Funeral [reserved] | N/A |
@@ -2603,26 +2603,26 @@ Update the appropriate row whenever a song identity or title is newly supplied o
 | 2469 | Sunny Day Real Estate - In Circles [reserved] | N/A |
 | 2470 | Taking Back Sunday - Cute Without The 'E' (Cut From The Team) [reserved] | N/A |
 | 2471 | Jawbreaker - Accident Prone [reserved] | N/A |
-| 2472 | American Football - Never Meant [reserved] | N/A |
+| 2472 | American Football - Never Meant [reserved] | Math rock's most famous opening: Never Meant #bass |
 | 2473 | Queen - Hammer To Fall [reserved] | N/A |
 | 2474 | Bow Wow Wow - I Want Candy [reserved] | N/A |
 | 2475 | Brand New - Sic Transit Gloria...Glory Fades [reserved] | N/A |
 | 2476 | Vargskelethor - Do Skeletons Fart [reserved] | N/A |
 | 2477 | Bobby Boris Pickett & The Crypt-Kickers - Monster Mash [reserved] | N/A |
 | 2478 | Ray Parker Jr. - Ghostbusters [reserved] | N/A |
-| 2479 | The Misfits - Halloween [reserved] | N/A |
+| 2479 | The Misfits - Halloween [reserved] | Five thousand black vinyl copies: Halloween #bass |
 | 2480 | +44 - Chapter XIII | The album closer, up close: Chapter XIII #bass |
 | 2481 | Exodus - Toxic Waltz | Mosh pit rules, Exodus style: Toxic Waltz #bass |
 | 2482 | Pink Floyd - Money | N/A |
 | 2483 | Green Day - Holiday | N/A |
-| 2484 | Dire Straits - Romeo & Juliet | N/A |
+| 2484 | Dire Straits - Romeo & Juliet | A failed romance in open G: Romeo And Juliet #bass |
 | 2485 | Linkin Park - Numb | N/A |
 | 2486 | Billy Talent - Sympathy | N/A |
 | 2487 | Bummrraa - Butt Ugly Playroom | N/A |
-| 2488 | Linkin Park - Somewhere I Belong | N/A |
-| 2489 | Sublime - April 29, 1992 (Miami) | N/A |
-| 2490 | Angels & Airwaves - It Hurts | N/A |
-| 2491 | Rogue X Stonebank - Unity (Monstercat Release) | N/A |
+| 2488 | Linkin Park - Somewhere I Belong | The first single from the second album: Somewhere I Belong #bass |
+| 2489 | Sublime - April 29, 1992 (Miami) | The riot song from the final album: April 29, 1992 #bass |
+| 2490 | Angels & Airwaves - It Hurts | Broadcasting from a new project: It Hurts #bass |
+| 2491 | Rogue X Stonebank - Unity (Monstercat Release) | Electronic weight on four strings: Unity #bass |
 | 2492 | Linkin Park - Forgotten | Before Linkin Park had the name: Forgotten #bass |
 | 2493 | Pat Benatar - Love Is A Battlefield | Number five on the Hot 100 in 1983: Love Is A Battlefield #bass |
 | 2494 | Metallica - For Whom The Bell Tolls | The anvil strikes first: For Whom The Bell Tolls #bass |

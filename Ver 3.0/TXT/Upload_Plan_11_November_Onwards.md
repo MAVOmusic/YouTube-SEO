@@ -10,8 +10,8 @@ Time reasoning: `Upload_Time_Reasoning.md`. Channel figures behind it: `Channel_
 
 | | |
 | --- | --- |
-| First slot | 11 November, 02:00 Budapest (four pairs published, then uploads paused and the queue rebuilt) |
-| Last slot | 2026-12-08, 02:00 Budapest |
+| First slot | 11 November, 02:00 Budapest (four pairs published, then the queue was rebuilt twice as dates were corrected) |
+| Last slot | 2026-12-10, 02:00 Budapest |
 | Slots | 167 total; 163 remaining, reprioritised with 90 first-ever uploads first, then 73 songs with earlier versions |
 | Long-form IDs | 0685 to 0851 |
 | Short IDs | 2432 to 2598 |
@@ -43,6 +43,8 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 
 **Rebuilt 11 November 2026 (08:24):** the +44 and Exodus pairs were still unpublished, so the whole remaining queue was rebuilt rather than only pushed. Songs that have never been uploaded in any way (no earlier long form and no earlier Short anywhere in the catalogues) now go first, in their existing plan order; songs with any earlier version follow, also in plan order, which puts +44 - Chapter XIII at the head of that second group. Today, 11 November, runs six catch-up slots at 09:30, 12:00, 13:30, 16:00, 19:00 and 23:00 Budapest; from 12 November the usual six slots a day (02:00, 05:00, 13:30, 16:00, 19:00, 23:00) resume until the queue is empty. Exodus - Toxic Waltz, a first-ever upload, opens today at 09:30. Nothing was dropped and no ID changed.
 
+**Date correction 13 November 2026:** the rebuild was planned against the wrong date. Today is 13 November, not 11 November, so the restarted queue begins today, 13 November, at 09:30 with Exodus - Toxic Waltz, running the six catch-up slots (09:30, 12:00, 13:30, 16:00, 19:00, 23:00), then the usual six slots a day from 14 November. The first-ever priority order is unchanged (90 first-ever uploads, then 73 with earlier versions, +44 heading the second group). The six pairs prepared as "13 November" in the previous delivery fall on 15 November at the same times of day and their packages stand as written. Nothing was dropped and no ID changed.
+
 ## 2026-11-11
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
@@ -52,7 +54,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 13:30 | +5 min | 12:30 | Stone Sour - Zzyzx Rd | 0687 | 2434 | 0687 | 2434 | Hard rock, Alternative metal, Nu metal, Post-grunge | noon band 12:00-14:00, Japan 21:30 |
 | 17:00 | +5 min | 16:00 | Billy Talent - Pins And Needles | 0688 | 2435 | 0688 | 0725, 2435 | Alternative rock, Punk rock, Post-hardcore, Pop punk, Emo | UK 16:00, Germany 17:00, moved from 16:00 on the day due to issues; the 19:00 and 23:00 slots are unchanged |
 
-## 2026-11-11, restarted queue (catch-up slots)
+## 2026-11-13 (today, catch-up slots)
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -63,7 +65,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Linkin Park - Somewhere I Belong | 0741 | 2488 | 0741 | 2488 | Alternative rock, Nu metal, Rap rock, Alternative metal, Electronic rock, Pop rock | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Sublime - April 29, 1992 (Miami) | 0742 | 2489 | 0742 | 2489 | Ska punk, Reggae rock, Alternative rock | UK 22:00, US East 17:00 |
 
-## 2026-11-12
+## 2026-11-14
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -74,7 +76,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Thrice - The Artist In The Ambulance | 0707 | 2454 | 0707 | 2454 | Post-hardcore, Emo, Alternative rock, Hard rock | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | American Football - Never Meant | 0725 | 2472 | 0725 | 2472 | Emo, Indie rock, Math rock | UK 22:00, US East 17:00 |
 
-## 2026-11-13
+## 2026-11-15
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -85,7 +87,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Metallica - For Whom The Bell Tolls | 0747 | 2494 | 0747 | 2494 | Heavy metal, Thrash metal, Hard rock | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Mayday Parade - Jamie All Over | 0715 | 2462 | 0715 | 2462 | Pop punk, Emo, Alternative rock | UK 22:00, US East 17:00 |
 
-## 2026-11-14
+## 2026-11-16
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -96,7 +98,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Jawbreaker - Boxcar | 0716 | 2463 | 0716 | 2463 | Punk rock, Emo, Pop punk | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | T. Rex - I Live To Boogie | 0753 | 2500 | 0753 | 2500 | Glam rock, Psychedelic rock | UK 22:00, US East 17:00 |
 
-## 2026-11-15
+## 2026-11-17
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -107,7 +109,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | The Mamas & The Papas - California Dreaming | 0761 | 2508 | 0761 | 2508 | Folk rock, Pop | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Bobby Boris Pickett & The Crypt-Kickers - Monster Mash | 0730 | 2477 | 0730 | 2477 | Novelty, Pop | UK 22:00, US East 17:00 |
 
-## 2026-11-16
+## 2026-11-18
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -118,7 +120,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Tool - Schism | 0768 | 2515 | 0768 | 2515 | Progressive metal, Art rock | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Dr. Dre - The Watcher | 0769 | 2516 | 0769 | 2516 | Hip hop, G-funk | UK 22:00, US East 17:00 |
 
-## 2026-11-17
+## 2026-11-19
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -129,7 +131,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Sunny Day Real Estate - In Circles | 0722 | 2469 | 0722 | 2469 | Emo, Alternative rock, Post-hardcore | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Staind - It's Been Awhile | 0774 | 2521 | 0774 | 2521 | Nu metal, Post-grunge, Hard rock | UK 22:00, US East 17:00 |
 
-## 2026-11-18
+## 2026-11-20
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -140,7 +142,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Senses Fail - Buried A Lie | 0704 | 2451 | 0704 | 2451 | Post-hardcore, Emo, Pop punk | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Say Anything - Alive With The Glory Of Love | 0709 | 2456 | 0709 | 2456 | Emo, Pop punk, Alternative rock | UK 22:00, US East 17:00 |
 
-## 2026-11-19
+## 2026-11-21
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -151,7 +153,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Stevie Wonder - I Wish | 0788 | 2535 | 0788 | 2535 | Soul, Funk, Pop | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Alkaline Trio - Radio | 0698 | 2445 | 0698 | 2445 | Punk rock, Emo, Pop punk, Alternative rock | UK 22:00, US East 17:00 |
 
-## 2026-11-20
+## 2026-11-22
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -162,7 +164,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Stone Sour - Bother | 0804 | 2551 | 0804 | 2551 | Hard rock, Alternative metal, Nu metal, Post-grunge | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Angels & Airwaves - Do It For Me Now | 0807 | 2554 | 0807 | 2554 | Alternative rock, Emo, Space rock | UK 22:00, US East 17:00 |
 
-## 2026-11-21
+## 2026-11-23
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -173,7 +175,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | I-dle - Tomboy | 0816 | 2563 | 0816 | 2563 | K-pop, Hip hop | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | (hed) P.E. - I Got You | 0819 | 2566 | 0819 | 2566 | Nu metal, Rap rock, Punk rock | UK 22:00, US East 17:00 |
 
-## 2026-11-22
+## 2026-11-24
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -184,7 +186,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Brand New - Sic Transit Gloria...Glory Fades | 0728 | 2475 | 0728 | 2475 | Alternative rock, Emo, Indie rock, Post-hardcore, Pop punk | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Slipknot - Spit It Out | 0827 | 2574 | 0827 | 2574 | Nu metal, Alternative metal, Heavy metal, Groove metal | UK 22:00, US East 17:00 |
 
-## 2026-11-23
+## 2026-11-25
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -195,7 +197,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Queen - Bohemian Rhapsody | 0836 | 2583 | 0836 | 2583 | Rock, Pop, Hard rock, Progressive rock, Arena rock, Glam rock | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Korn - No Way | 0837 | 2584 | 0837 | 2584 | Nu metal, Alternative metal | UK 22:00, US East 17:00 |
 
-## 2026-11-24
+## 2026-11-26
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -206,7 +208,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Amon Amarth - Shield Wall | 0845 | 2592 | 0845 | 2592 | Melodic death metal, Death metal | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Queen - Keep Yourself Alive | 0847 | 2594 | 0847 | 2594 | Rock, Pop, Hard rock, Progressive rock, Arena rock, Glam rock | UK 22:00, US East 17:00 |
 
-## 2026-11-25
+## 2026-11-27
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -217,7 +219,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | New Found Glory - My Friends Over You | 0691 | 2438 | 0691 | 2438 | Pop punk, Emo, Alternative rock | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Jimmy Eat World - Futures | 0690 | 2437 | 0690 | 2437 | Emo, Alternative rock, Pop punk, Power pop | UK 22:00, US East 17:00 |
 
-## 2026-11-26
+## 2026-11-28
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -228,7 +230,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Billy Talent - Sympathy | 0739 | 2486 | 0132, 0739 | 0162, 1259, 1877, 2486 | Alternative rock, Punk rock, Post-hardcore, Pop punk, Emo | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Bummrraa - Butt Ugly Playroom | 0740 | 2487 | 0609, 0740 | 2356, 2487 | unclassified | UK 22:00, US East 17:00 |
 
-## 2026-11-27
+## 2026-11-29
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -239,7 +241,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | System Of A Down - Hypnotize | 0752 | 2499 | 0048, 0600, 0752 | 0043, 1526, 1793, 2347, 2499 | Alternative metal, Nu metal | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Linkin Park - Crawling | 0754 | 2501 | 0176, 0754 | 0202, 1173, 1921, 2501 | Alternative rock, Nu metal, Rap rock, Alternative metal, Electronic rock, Pop rock | UK 22:00, US East 17:00 |
 
-## 2026-11-28
+## 2026-11-30
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -250,7 +252,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Manowar - Kings Of Metal | 0762 | 2509 | 0045, 0762 | 0040, 1530, 1790, 2509 | Heavy metal, Power metal | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | All Time Low - Weightless | 0763 | 2510 | 0037, 0763 | 0030, 1175, 1782, 2510 | Pop punk, Pop rock, Power pop, Emo, Alternative rock | UK 22:00, US East 17:00 |
 
-## 2026-11-29
+## 2026-12-01
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -261,7 +263,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | America - A Horse With No Name | 0778 | 2525 | 0778 | 0859, 2525 | Folk rock, Soft rock | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Aephanemer - Old French Song | 0779 | 2526 | 0025, 0779 | 0008, 1770, 2526 | Melodic death metal, Symphonic metal | UK 22:00, US East 17:00 |
 
-## 2026-11-30
+## 2026-12-02
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -272,7 +274,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Sabaton - Man Of War | 0786 | 2533 | 0036, 0786 | 0029, 1547, 1781, 2533 | Power metal, Heavy metal | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | The Used - All That I've Got | 0697 | 2444 | 0697 | 1052, 1209, 2444 | Emo, Post-hardcore, Punk rock, Alternative rock | UK 22:00, US East 17:00 |
 
-## 2026-12-01
+## 2026-12-03
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -283,7 +285,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Rammstein - Amour | 0792 | 2539 | 0160, 0636, 0792 | 0024, 1550, 1905, 2383, 2539 | Neue Deutsche Haerte, Industrial metal | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Taking Back Sunday - Cute Without The 'E' (Cut From The Team) | 0723 | 2470 | 0723 | 0922, 2470 | Emo, Emo pop, Post-hardcore, Pop punk, Alternative rock | UK 22:00, US East 17:00 |
 
-## 2026-12-02
+## 2026-12-04
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -294,7 +296,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | All Time Low - Somewhere In Neverland | 0799 | 2546 | 0158, 0799 | 0020, 1504, 1903, 2546 | Pop punk, Pop rock, Power pop, Emo, Alternative rock | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Pendulum - Tarantula | 0800 | 2547 | 0030, 0800 | 0013, 1519, 1775, 2547 | Drum and bass, Electronic rock, Industrial rock, Dance-rock | UK 22:00, US East 17:00 |
 
-## 2026-12-03
+## 2026-12-05
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -305,7 +307,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Rage Against The Machine - Take The Power Back | 0808 | 2555 | 0019, 0808 | 0003, 1323, 1508, 1764, 2555 | Rap metal, Rap rock, Funk metal, Alternative metal | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Sabaton - 82nd All The Way | 0809 | 2556 | 0155, 0809 | 0016, 1498, 1900, 2556 | Power metal, Heavy metal | UK 22:00, US East 17:00 |
 
-## 2026-12-04
+## 2026-12-06
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -316,7 +318,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | +44 - 155 | 0817 | 2564 | 0817 | 0049, 2564 | Pop punk, Alternative rock, Emo | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | The Cult - Love Removal Machine | 0818 | 2565 | 0042, 0818 | 0037, 1538, 1787, 2565 | Hard rock, Gothic rock, Alternative rock, Heavy metal, Post-punk | UK 22:00, US East 17:00 |
 
-## 2026-12-05
+## 2026-12-07
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -327,7 +329,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Billy Talent - Worker Bees | 0823 | 2570 | 0823 | 1160, 1443, 2570 | Alternative rock, Punk rock, Post-hardcore, Pop punk, Emo | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Avril Lavigne - Together | 0828 | 2575 | 0022, 0828 | 0412, 1767, 2575 | Pop punk, Alternative rock, Pop rock, Pop | UK 22:00, US East 17:00 |
 
-## 2026-12-06
+## 2026-12-08
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -338,7 +340,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | +44 - Weatherman | 0839 | 2586 | 0839 | 0055, 1544, 2586 | Pop punk, Alternative rock, Emo | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Sabaton - Camouflage | 0840 | 2587 | 0023, 0840 | 0006, 1512, 1768, 2587 | Power metal, Heavy metal | UK 22:00, US East 17:00 |
 
-## 2026-12-07
+## 2026-12-09
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -349,7 +351,7 @@ The `All long form ID` and `All Shorts ID` columns carry every catalogue row for
 | 19:00 | +5 min | 18:00 | Billy Talent - Devil In A Midnight Mass | 0849 | 2596 | 0849 | 0342, 1399, 2596 | Alternative rock, Punk rock, Post-hardcore, Pop punk, Emo | evening band 18:00-20:00, UK 18:00 |
 | 23:00 | +5 min | 22:00 | Linkin Park - Hit The Floor | 0850 | 2597 | 0850 | 0655, 2597 | Alternative rock, Nu metal, Rap rock, Alternative metal, Electronic rock, Pop rock | UK 22:00, US East 17:00 |
 
-## 2026-12-08
+## 2026-12-10
 
 | Premiere | Short | UK | Song | New LF | New Short | All long form ID | All Shorts ID | Genre | Why this time |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

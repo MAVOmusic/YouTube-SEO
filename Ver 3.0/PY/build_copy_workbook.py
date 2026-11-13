@@ -18,10 +18,20 @@ EDITED_GROUPS = ["motionless in white - masterpiece", "paramore - misery busines
                  "+44 - chapter xiii", "exodus - toxic waltz",
                  "dashboard confessional - hands down", "death cab for cutie - transatlanticism",
                  "linkin park - forgotten", "pat benatar - love is a battlefield",
-                 "metallica - for whom the bell tolls", "mayday parade - jamie all over"]
+                 "metallica - for whom the bell tolls", "mayday parade - jamie all over",
+                 "the get up kids - holiday", "dire straits - Romeo and juliet",
+                 "the red jumpsuit apparatus - face down", "linkin park - somewhere i belong",
+                 "sublime - april 29, 1992 (miami)", "the misfits - halloween",
+                 "angels & airwaves - it hurts", "panic! at the disco - i write sins not tragedies",
+                 "Rogue x stonebank - unity (monstercat release)", "thrice - the artist in the ambulance",
+                 "american football - never meant"]
 CURRENT_PAIRS = {("LF", 733), ("LF", 734), ("SF", 2480), ("SF", 2481),
                  ("LF", 700), ("LF", 706), ("LF", 745), ("LF", 746), ("LF", 747), ("LF", 715),
-                 ("SF", 2447), ("SF", 2453), ("SF", 2492), ("SF", 2493), ("SF", 2494), ("SF", 2462)}
+                 ("SF", 2447), ("SF", 2453), ("SF", 2492), ("SF", 2493), ("SF", 2494), ("SF", 2462),
+                 ("LF", 701), ("LF", 737), ("LF", 699), ("LF", 741), ("LF", 742),
+                 ("LF", 732), ("LF", 743), ("LF", 692), ("LF", 744), ("LF", 707), ("LF", 725),
+                 ("SF", 2448), ("SF", 2484), ("SF", 2446), ("SF", 2488), ("SF", 2489),
+                 ("SF", 2479), ("SF", 2490), ("SF", 2439), ("SF", 2491), ("SF", 2454), ("SF", 2472)}
 SONGS = ["autumn leaves","another life","masterpiece","abigail","a-m-e-r-i-c-a","immaculate misconception","x-kid","welcome to the black parade","if i'd been the one"]
 
 def block(t, *heads):
